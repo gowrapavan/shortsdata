@@ -3,15 +3,19 @@ import json
 import requests
 from datetime import datetime, timedelta
 from time import sleep
+from isodate import parse_duration  # needed for duration parsing
 
-
-
-# === CONFIG ===    
+# === CONFIG ===
 API_KEYS = [
     'AIzaSyAsr9lyCtfa3xizgzs3x4LqYsKHhZuOpzY',
     'AIzaSyAYSP0UZpL85f5l17tqFtxHlr_yClEk7cc',
     'AIzaSyCNqe4uWVgti_ZHBSI8_kKero_I6xf7qYk',
-]#API_KEY = 'AIzaSyAYSP0UZpL85f5l17tqFtxHlr_yClEk7cc'  ,'AIzaSyCNqe4uWVgti_ZHBSI8_kKero_I6xf7qYk'
+    'AIzaSyCOeLDK4m33SkeRqjhj5PBEdTug13pWGv4',
+    'AIzaSyB9KjmivQbVzeGlVSh4sv1DjriFfsp-bCg',
+    'AIzaSyDuXasL2olDdV5w8n65zQSq5FmxknofYww',
+    'AIzaSyDGNNJg1aQQ2owQ6FIQcoBNmaQzYiMokPY',
+    'AIzaSyAnyL18ylsE5Y6Q5h7VPm-xtjFKJOif3B8',
+]
 
 CHANNEL_IDS = [
  #Top Clubs
@@ -82,7 +86,7 @@ def safe_request(url):
     for attempt in range(RETRY_LIMIT):
         try:
             res = requests.get(url, timeout=10)
-            if res.status_code == 403 or res.status_code == 400:
+            if res.status_code in (403, 400):
                 print(f"🔁 API quota issue with key {_api_index + 1}, rotating key...")
                 rotate_api_key()
                 url = url.replace(f"key={get_api_key()}", f"key={API_KEYS[_api_index]}")
@@ -105,8 +109,6 @@ def get_channel_metadata(channel_id):
         "channelLogo": snippet["thumbnails"]["default"]["url"],
     }
 
-from isodate import parse_duration  # Ensure this import is at the top
-
 def fetch_shorts(channel_id, meta):
     url = (
         f"https://www.googleapis.com/youtube/v3/search?"
@@ -116,23 +118,18 @@ def fetch_shorts(channel_id, meta):
 
     recent_videos = []
     one_month_ago = datetime.utcnow() - timedelta(days=DAYS_BACK)
-
     video_ids = []
     snippets = {}
 
     for item in data.get("items", []):
         video_id = item["id"]["videoId"]
         snippet = item["snippet"]
-        published_at = snippet["publishedAt"]
-
-        upload_date = datetime.strptime(published_at, "%Y-%m-%dT%H:%M:%SZ")
+        upload_date = datetime.strptime(snippet["publishedAt"], "%Y-%m-%dT%H:%M:%SZ")
         if upload_date < one_month_ago:
             continue
-
         video_ids.append(video_id)
         snippets[video_id] = snippet
 
-    # Fetch durations
     details = get_video_details(video_ids)
 
     for video_id in video_ids:
@@ -145,11 +142,10 @@ def fetch_shorts(channel_id, meta):
         except Exception:
             duration_seconds = 0
 
-        # Check if it's a short by tag OR short by duration
         is_short = (
             "#shorts" in snippet["title"].lower()
             or "shorts" in snippet.get("description", "").lower()
-            or duration_seconds <= 120  # 2 minutes max
+            or duration_seconds <= 120
         )
 
         if not is_short:
@@ -166,7 +162,6 @@ def fetch_shorts(channel_id, meta):
         })
 
     return recent_videos
-
 
 def get_video_details(video_ids):
     all_details = {}
@@ -210,6 +205,17 @@ def get_top_comments(video_id, max_comments=TOP_COMMENT_COUNT):
         })
     return comments
 
+def safe_load_json(path):
+    """Load JSON safely, return [] if file is missing, empty, or invalid."""
+    if not os.path.exists(path) or os.stat(path).st_size == 0:
+        return []
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except json.JSONDecodeError:
+        print(f"⚠️ Warning: {path} is invalid JSON. Starting fresh.")
+        return []
+
 def save_to_json(data, folder, filename):
     os.makedirs(folder, exist_ok=True)
     path = os.path.join(folder, filename)
@@ -217,14 +223,9 @@ def save_to_json(data, folder, filename):
         json.dump(data, f, indent=2, ensure_ascii=False)
     print(f"✅ Updated {filename} with {len(data)} total shorts.")
 
-# === MAIN FUNCTION ===
 def main():
     output_path = os.path.join(OUTPUT_DIR, OUTPUT_FILE)
-    existing_data = []
-
-    if os.path.exists(output_path):
-        with open(output_path, 'r', encoding='utf-8') as f:
-            existing_data = json.load(f)
+    existing_data = safe_load_json(output_path)
 
     existing_by_id = {item["videoId"]: item for item in existing_data}
     all_video_ids = set(existing_by_id.keys())
@@ -256,7 +257,6 @@ def main():
         existing_by_id[vid].update(video_info)
         if vid in recent_uploads:
             existing_by_id[vid]["comments"] = get_top_comments(vid)
-
         if i % 25 == 0:
             print(f"⏳ Processed {i}/{len(all_ids)} videos...")
 
