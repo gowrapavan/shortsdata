@@ -1,6 +1,9 @@
 name: Fetch Videos Data
 
 on:
+  push:
+    branches:
+      - main
   schedule:
   - cron: "0 */3 * * *"  # every 3 hours
   workflow_dispatch: # allows manual trigger
