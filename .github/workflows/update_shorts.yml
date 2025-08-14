@@ -2,7 +2,7 @@ name: Update Shorts JSON
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # every 12 hours
+  - cron: "*/10 * * * *"  # every 10 minutes
   workflow_dispatch:        # allow manual run
 
 jobs:
