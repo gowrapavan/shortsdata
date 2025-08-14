@@ -7,6 +7,7 @@ from itertools import cycle
 
 # === CONFIG ===
 API_KEYS = [
+    'AIzaSyDh0y7ka_-IP56HAm2VuAwDU9yCNrqS-do',
     'AIzaSyAsr9lyCtfa3xizgzs3x4LqYsKHhZuOpzY',
     'AIzaSyAYSP0UZpL85f5l17tqFtxHlr_yClEk7cc',
     'AIzaSyCNqe4uWVgti_ZHBSI8_kKero_I6xf7qYk',
@@ -70,7 +71,7 @@ CHANNEL_IDS = [
 
 SEARCH_QUERY = 'highlights'
 MAX_RESULTS = 30
-MAX_VIDEOS_PER_CHANNEL = 7
+MAX_VIDEOS_PER_CHANNEL = 1
 MAX_VIDEO_SECONDS = 10 * 60  # 10 minutes
 DAYS_BACK = 60
 MIN_COMMENTS = 3
@@ -115,20 +116,18 @@ def get_channel_info(channel_id):
             return snippet['title'], logo_url
     return "Unknown Channel", ""
 
-# === NEW: Fetch comments ===
 def fetch_comments(video_id, min_comments=3, max_comments=10):
     comments_url = "https://www.googleapis.com/youtube/v3/commentThreads"
     params = {
         'part': 'snippet',
         'videoId': video_id,
         'maxResults': max_comments,
-        'order': 'relevance',  # or 'time'
+        'order': 'relevance',
         'textFormat': 'plainText'
     }
     response = request_with_key_rotation(comments_url, params)
     if not response or response.status_code != 200:
         return []
-
     items = response.json().get('items', [])
     comments = []
     for item in items:
@@ -139,10 +138,9 @@ def fetch_comments(video_id, min_comments=3, max_comments=10):
             'likeCount': snippet.get('likeCount', 0),
             'publishedAt': snippet.get('publishedAt')
         })
-    # Only include if we meet minimum comment count
     return comments if len(comments) >= min_comments else []
 
-# === FETCHING ===
+# === FETCH VIDEOS ===
 def fetch_videos(channel_id):
     search_url = "https://www.googleapis.com/youtube/v3/search"
     search_params = {
@@ -162,13 +160,11 @@ def fetch_videos(channel_id):
 
     items = search_response.json().get('items', [])
     video_ids = [item['id']['videoId'] for item in items]
-
     if not video_ids:
         return []
 
     details_url = "https://www.googleapis.com/youtube/v3/videos"
     details_params = {'part': 'contentDetails,snippet', 'id': ','.join(video_ids)}
-
     details_response = request_with_key_rotation(details_url, details_params)
     if not details_response or details_response.status_code != 200:
         print(f"❌ Error getting video details for channel {channel_id}")
@@ -178,11 +174,9 @@ def fetch_videos(channel_id):
     for item in details_response.json().get('items', []):
         duration = item['contentDetails']['duration']
         seconds = parse_duration_to_seconds(duration)
-
         if 60 <= seconds <= MAX_VIDEO_SECONDS:
             thumbnails = item['snippet']['thumbnails']
             thumbnail_url = thumbnails.get('high', thumbnails.get('medium', thumbnails.get('default', {}))).get('url', '')
-
             valid_videos.append({
                 'videoId': item['id'],
                 'title': item['snippet']['title'],
@@ -190,12 +184,33 @@ def fetch_videos(channel_id):
                 'channelName': item['snippet']['channelTitle'],
                 'embedUrl': f"https://www.youtube.com/embed/{item['id']}?enablejsapi=1&controls=1&modestbranding=1&autoplay=0",
                 'thumbnail': thumbnail_url,
+                'tags': item['snippet'].get('tags', []),  # <-- New
                 'comments': fetch_comments(item['id'], MIN_COMMENTS, MAX_COMMENTS)
             })
 
     return valid_videos[:MAX_VIDEOS_PER_CHANNEL]
 
-# === SAVE (updates existing entries too) ===
+# === BACKFILL TAGS ===
+def backfill_tags(videos):
+    missing_tag_ids = [v['videoId'] for v in videos if not v.get('tags')]
+    if not missing_tag_ids:
+        return videos
+    print(f"🔍 Fetching tags for {len(missing_tag_ids)} videos without tags...")
+    for i in range(0, len(missing_tag_ids), 50):
+        batch_ids = missing_tag_ids[i:i+50]
+        details_url = "https://www.googleapis.com/youtube/v3/videos"
+        details_params = {'part': 'snippet', 'id': ','.join(batch_ids)}
+        resp = request_with_key_rotation(details_url, details_params)
+        if resp and resp.status_code == 200:
+            for item in resp.json().get('items', []):
+                vid_id = item['id']
+                tags = item['snippet'].get('tags', [])
+                for v in videos:
+                    if v['videoId'] == vid_id:
+                        v['tags'] = tags
+    return videos
+
+# === SAVE JSON ===
 def save_to_json(data, folder, filename):
     os.makedirs(folder, exist_ok=True)
     path = os.path.join(folder, filename)
@@ -210,18 +225,17 @@ def save_to_json(data, folder, filename):
         existing_data = []
 
     existing_dict = {video['videoId']: video for video in existing_data}
-
     for video in data:
         if video['videoId'] in existing_dict:
             existing_dict[video['videoId']].update(video)
         else:
             existing_dict[video['videoId']] = video
 
-    merged_data = sorted(existing_dict.values(), key=lambda x: x['uploadDate'], reverse=True)
+    merged_data = backfill_tags(list(existing_dict.values()))
+    merged_data = sorted(merged_data, key=lambda x: x['uploadDate'], reverse=True)
 
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(merged_data, f, indent=2, ensure_ascii=False)
-
     print(f"✅ JSON updated. Total videos: {len(merged_data)}")
 
 # === MAIN ===
