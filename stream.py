@@ -1,6 +1,5 @@
 import requests
 import re
-import os
 import json
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
@@ -132,6 +131,7 @@ def fetch_elixx():
                     "game": "football",
                     "home_team": home.strip(),
                     "away_team": away.strip(),
+                    "Logo": random_logo(),
                     "label": f"{home.strip()} vs {away.strip()}",
                 }
                 for i, link in enumerate(links, start=1):
@@ -155,6 +155,7 @@ def fetch_all():
     all_matches.extend(fetch_elixx())
     return all_matches
 
+import os
 
 # Folder for JSONs
 JSON_FOLDER = "json"
