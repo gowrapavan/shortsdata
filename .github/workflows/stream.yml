@@ -1,4 +1,4 @@
-name: Fetch Matches
+name: Fetch Matches 
 
 on:
   push:
@@ -33,13 +33,21 @@ jobs:
       - name: Run stream.py
         run: python stream.py
 
-      # 5. Commit & Push updated JSON files
+      # 5. Debug: list JSONs
+      - name: List JSON files
+        run: ls -l json/
+
+      # 6. Commit & Push updated JSON files
       - name: Commit & Push JSONs
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git checkout main
           git pull --rebase origin main || echo "No remote changes"
-          git add json/*.json
-          git diff --quiet && echo "No changes to commit" || git commit -m "Update match JSONs"
-          git push origin main
+          git add -f json/*.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update match JSONs"
+            git push origin main
+          fi
