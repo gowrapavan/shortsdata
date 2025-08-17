@@ -1,5 +1,6 @@
 import requests
 import re
+import os
 import json
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
@@ -154,19 +155,23 @@ def fetch_all():
     all_matches.extend(fetch_elixx())
     return all_matches
 
+
+# Folder for JSONs
+JSON_FOLDER = "json"
+os.makedirs(JSON_FOLDER, exist_ok=True)
+
 if __name__ == "__main__":
     koora_data = fetch_koora()
-    sportsonline_data = fetch_sportzonline()   # ✅ correct
+    sportsonline_data = fetch_sportzonline()
     elixx_data = fetch_elixx()
 
-
-    with open("koora.json", "w", encoding="utf-8") as f:
+    with open(os.path.join(JSON_FOLDER, "koora.json"), "w", encoding="utf-8") as f:
         json.dump(koora_data, f, ensure_ascii=False, indent=2)
 
-    with open("sportsonline.json", "w", encoding="utf-8") as f:
+    with open(os.path.join(JSON_FOLDER, "sportsonline.json"), "w", encoding="utf-8") as f:
         json.dump(sportsonline_data, f, ensure_ascii=False, indent=2)
 
-    with open("elixx.json", "w", encoding="utf-8") as f:
+    with open(os.path.join(JSON_FOLDER, "elixx.json"), "w", encoding="utf-8") as f:
         json.dump(elixx_data, f, ensure_ascii=False, indent=2)
 
     print("Saved koora.json with", len(koora_data), "matches")
