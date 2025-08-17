@@ -113,36 +113,50 @@ def fetch_elixx():
         return []
 
     for btn in header.find_all_next("button", class_="accordion"):
+        # Stop if we reach next day's header
         if btn.find_previous("h4") != header:
             break
+
         text = btn.get_text(" ", strip=True)
         time_m = re.match(r"(\d{2}:\d{2})\s+(.+?) vs (.+)", text)
-        if time_m:
-            time_utc, home, away = time_m.groups()
-            time_ist = convert_time(time_utc, GMT)  # Elixx times in UTC
-            key = f"{home.strip()} vs {away.strip()} {time_ist}"
+        if not time_m:
+            continue
 
-            # convert .html to .php in links
-            links = [a['href'].replace(".html", ".php") for a in btn.find_next_siblings("div")[0].find_all("a", href=True)]
+        time_utc, home, away = time_m.groups()
+        time_ist = convert_time(time_utc, GMT)  # Elixx times in UTC
+        key = f"{home.strip()} vs {away.strip()} {time_ist}"
 
-            if key not in matches_dict:
-                matches_dict[key] = {
-                    "time": time_ist,
-                    "game": "football",
-                    "home_team": home.strip(),
-                    "away_team": away.strip(),
-                    "Logo": random_logo(),
-                    "label": f"{home.strip()} vs {away.strip()}",
-                }
-                for i, link in enumerate(links, start=1):
-                    matches_dict[key][f"url{i}"] = link
-            else:
-                # append more links
-                existing_urls = [k for k in matches_dict[key] if k.startswith("url")]
-                next_index = len(existing_urls) + 1
-                for link in links:
-                    matches_dict[key][f"url{next_index}"] = link
-                    next_index += 1
+        # --- Extract all links and transform them ---
+        links = []
+        div_siblings = btn.find_next_siblings("div")
+        if div_siblings:
+            for a in div_siblings[0].find_all("a", href=True):
+                href = a['href']
+                if href.endswith(".html"):
+                    href = href.replace(".html", ".php")
+                # insert "/aw/" after domain
+                href = re.sub(r"(https://elixx\.cc/)", r"\1aw/", href)
+                links.append(href)
+
+        # --- Save match info ---
+        if key not in matches_dict:
+            matches_dict[key] = {
+                "time": time_ist,
+                "game": "football",
+                "home_team": home.strip(),
+                "away_team": away.strip(),
+                "Logo": random_logo(),
+                "label": f"{home.strip()} vs {away.strip()}",
+            }
+            for i, link in enumerate(links, start=1):
+                matches_dict[key][f"url{i}"] = link
+        else:
+            # append additional links if match already exists
+            existing_urls = [k for k in matches_dict[key] if k.startswith("url")]
+            next_index = len(existing_urls) + 1
+            for link in links:
+                matches_dict[key][f"url{next_index}"] = link
+                next_index += 1
 
     return list(matches_dict.values())
 
