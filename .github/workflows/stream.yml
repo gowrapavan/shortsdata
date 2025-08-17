@@ -38,6 +38,8 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
+          git checkout main
+          git pull --rebase origin main || echo "No remote changes"
           git add json/*.json
           git diff --quiet && echo "No changes to commit" || git commit -m "Update match JSONs"
-          git push
+          git push origin main
