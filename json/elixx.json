@@ -1,21 +1,144 @@
 [
   {
-    "time": "2025-08-18 02:00 IST",
+    "time": "2025-08-18 22:30 IST",
     "game": "football",
-    "home_team": "Sporting CP",
-    "away_team": "Arouca",
+    "home_team": "Hellas Verona",
+    "away_team": "Audace Cerignola",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "label": "Hellas Verona vs Audace Cerignola",
+    "url1": "https://elixx.cc/aw/evalencia.php",
+    "url2": "https://elixx.cc/aw/roma.php"
+  },
+  {
+    "time": "2025-08-18 22:30 IST",
+    "game": "football",
+    "home_team": "Dynamo Dresden",
+    "away_team": "Mainz 05",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "label": "Dynamo Dresden vs Mainz 05",
+    "url1": "https://elixx.cc/aw/celtic.php"
+  },
+  {
+    "time": "2025-08-18 22:30 IST",
+    "game": "football",
+    "home_team": "PreuSen Munster",
+    "away_team": "Hertha BSC",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "label": "PreuSen Munster vs Hertha BSC",
+    "url1": "https://elixx.cc/aw/juventus.php"
+  },
+  {
+    "time": "2025-08-18 22:30 IST",
+    "game": "football",
+    "home_team": "Schweinfurt",
+    "away_team": "Fortuna Dusseldorf",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "label": "Schweinfurt vs Fortuna Dusseldorf",
+    "url1": "https://elixx.cc/aw/lazio.php"
+  },
+  {
+    "time": "2025-08-18 23:00 IST",
+    "game": "football",
+    "home_team": "Spezia",
+    "away_team": "Sampdoria",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "label": "Spezia vs Sampdoria",
+    "url1": "https://elixx.cc/aw/partizan.php"
+  },
+  {
+    "time": "2025-08-18 23:30 IST",
+    "game": "football",
+    "home_team": "Sporting Gijon",
+    "away_team": "Cordoba",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "label": "Sporting Gijon vs Cordoba",
+    "url1": "https://elixx.cc/aw/everton.php",
+    "url2": "https://elixx.cc/aw/vitoria.php"
+  },
+  {
+    "time": "2025-08-19 01:00 IST",
+    "game": "football",
+    "home_team": "KasÄ±mpasa",
+    "away_team": "Trabzonspor",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "label": "KasÄ±mpasa vs Trabzonspor",
+    "url1": "https://elixx.cc/aw/juventus.php"
+  },
+  {
+    "time": "2025-08-19 01:15 IST",
+    "game": "football",
+    "home_team": "Rot-Weiss Essen",
+    "away_team": "Borussia Dortmund",
     "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
-    "label": "Sporting CP vs Arouca",
+    "label": "Rot-Weiss Essen vs Borussia Dortmund",
+    "url1": "https://elixx.cc/aw/lazio.php",
+    "url2": "https://elixx.cc/aw/aves.php"
+  },
+  {
+    "time": "2025-08-19 01:15 IST",
+    "game": "football",
+    "home_team": "Udinese",
+    "away_team": "Carrarese",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "label": "Udinese vs Carrarese",
+    "url1": "https://elixx.cc/aw/roma.php"
+  },
+  {
+    "time": "2025-08-19 01:15 IST",
+    "game": "football",
+    "home_team": "Le Mans",
+    "away_team": "Montpellier",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "label": "Le Mans vs Montpellier",
+    "url1": "https://elixx.cc/aw/amilan.php"
+  },
+  {
+    "time": "2025-08-19 01:30 IST",
+    "game": "football",
+    "home_team": "Leeds United",
+    "away_team": "Everton",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "label": "Leeds United vs Everton",
+    "url1": "https://elixx.cc/aw/ajaxw.php",
+    "url2": "https://elixx.cc/aw/maritimo.php"
+  },
+  {
+    "time": "2025-08-19 01:30 IST",
+    "game": "football",
+    "home_team": "Elche",
+    "away_team": "Real Betis",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "label": "Elche vs Real Betis",
+    "url1": "https://elixx.cc/aw/evalencia.php",
+    "url2": "https://elixx.cc/aw/apsg.php",
+    "url3": "https://elixx.cc/aw/vitoria.php"
+  },
+  {
+    "time": "2025-08-19 01:45 IST",
+    "game": "football",
+    "home_team": "Gil Vicente",
+    "away_team": "Porto",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "label": "Gil Vicente vs Porto",
     "url1": "https://elixx.cc/aw/porto.php"
   },
   {
-    "time": "2025-08-18 04:00 IST",
+    "time": "2025-08-19 01:45 IST",
     "game": "football",
-    "home_team": "River Plate",
-    "away_team": "Godoy Cruz",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
-    "label": "River Plate vs Godoy Cruz",
-    "url1": "https://elixx.cc/aw/adortmund.php",
-    "url2": "https://elixx.cc/aw/benfica.php"
+    "home_team": "Torino",
+    "away_team": "Modena",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "label": "Torino vs Modena",
+    "url1": "https://elixx.cc/aw/partizan.php",
+    "url2": "https://elixx.cc/aw/sporting.php"
+  },
+  {
+    "time": "2025-08-19 02:00 IST",
+    "game": "football",
+    "home_team": "Almeria",
+    "away_team": "Albacete",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "label": "Almeria vs Albacete",
+    "url1": "https://elixx.cc/aw/everton.php"
   }
 ]
