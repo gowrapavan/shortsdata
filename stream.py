@@ -95,9 +95,9 @@ def fetch_sportzonline():
             })
     return matches
 
-# ---------- 3. Elixx ----------
-def fetch_elixx():
-    url = "https://elixx.cc/schedule.html"
+# ---------- 3. DoubleXX ----------
+def fetch_doublexx():
+    url = "https://doublexx.one/schedule.html"
     html = requests.get(url).text
     soup = BeautifulSoup(html, "html.parser")
 
@@ -117,7 +117,7 @@ def fetch_elixx():
             continue
 
         time_utc, home, away = time_m.groups()
-        time_ist = convert_time(time_utc, GMT)  # Elixx times in UTC
+        time_ist = convert_time(time_utc, GMT)  # times in UTC
         key = f"{home.strip()} vs {away.strip()} {time_ist}"
 
         links = []
@@ -127,7 +127,7 @@ def fetch_elixx():
                 href = a['href']
                 if href.endswith(".html"):
                     href = href.replace(".html", ".php")
-                href = re.sub(r"(https://elixx\.cc/)", r"\1aw/", href)
+                href = re.sub(r"(https://doublexx\.one/)", r"\1aw/", href)
                 links.append(href)
 
         if key not in matches_dict:
@@ -155,7 +155,7 @@ def fetch_all():
     all_matches = []
     all_matches.extend(fetch_koora())
     all_matches.extend(fetch_sportzonline())
-    all_matches.extend(fetch_elixx())
+    all_matches.extend(fetch_doublexx())  # updated
     return all_matches
 
 # === Save JSONs ===
@@ -166,7 +166,7 @@ if __name__ == "__main__":
     sources = {
         "koora.json": fetch_koora,
         "sportsonline.json": fetch_sportzonline,
-        "elixx.json": fetch_elixx
+        "doublexx.json": fetch_elixx
     }
 
     for filename, func in sources.items():
