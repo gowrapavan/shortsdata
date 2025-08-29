@@ -166,7 +166,7 @@ if __name__ == "__main__":
     sources = {
         "koora.json": fetch_koora,
         "sportsonline.json": fetch_sportzonline,
-        "doublexx.json": fetch_elixx
+        "doublexx.json": fetch_doublexx
     }
 
     for filename, func in sources.items():
