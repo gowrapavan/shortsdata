@@ -64,17 +64,26 @@ def fetch_sportzonline():
             })
     return matches
 
-# ---------- 2. DoubleXX (updated to parse homepage iframes) ----------
+# ---------- 2. DoubleXX (homepage iframes) ----------
 def fetch_doublexx():
     url = "https://doublexx.one/"
-    html = requests.get(url).text
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/120.0 Safari/537.36"
+        )
+    }
+    html = requests.get(url, headers=headers).text
     soup = BeautifulSoup(html, "html.parser")
 
     matches = []
     for i, iframe in enumerate(soup.find_all("iframe", src=True), start=1):
-        src = iframe["src"]
+        src = iframe["src"].strip()
         if src.startswith("/"):
             src = f"https://doublexx.one{src}"
+        elif src.startswith("http") is False:
+            src = f"https://doublexx.one/{src.lstrip('/')}"
         matches.append({
             "label": f"Stream {i}",
             "url": src,
