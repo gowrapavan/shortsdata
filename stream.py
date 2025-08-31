@@ -2,7 +2,7 @@ import requests
 import re
 import json
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
+from datetime import datetime
 import pytz
 import random
 import os
@@ -22,7 +22,7 @@ LOGOS = [
 def random_logo():
     return random.choice(LOGOS)
 
-# === Timezones ===
+# === Timezones (still used for SportsOnline) ===
 IST = pytz.timezone("Asia/Kolkata")
 GMT = pytz.timezone("GMT")
 
@@ -64,60 +64,23 @@ def fetch_sportzonline():
             })
     return matches
 
-# ---------- 2. DoubleXX ----------
+# ---------- 2. DoubleXX (updated to parse homepage iframes) ----------
 def fetch_doublexx():
-    url = "https://doublexx.one/schedule.html"
+    url = "https://doublexx.one/"
     html = requests.get(url).text
     soup = BeautifulSoup(html, "html.parser")
 
-    today_str = datetime.now().strftime("%d.%m.%Y")
-    header = soup.find("h4", string=re.compile(today_str))
-    if not header:
-        return []
-
-    matches_dict = {}
-    for btn in header.find_all_next("button", class_="accordion"):
-        if btn.find_previous("h4") != header:
-            break
-
-        text = btn.get_text(" ", strip=True)
-        time_m = re.match(r"(\d{2}:\d{2})\s+(.+?) vs (.+)", text)
-        if not time_m:
-            continue
-
-        time_utc, home, away = time_m.groups()
-        time_ist = convert_time(time_utc, GMT)  # times in UTC
-        key = f"{home.strip()} vs {away.strip()} {time_ist}"
-
-        links = []
-        div_siblings = btn.find_next_siblings("div")
-        if div_siblings:
-            for a in div_siblings[0].find_all("a", href=True):
-                href = a['href']
-                if href.endswith(".html"):
-                    href = href.replace(".html", ".php")
-                href = re.sub(r"(https://doublexx\.one/)", r"\1aw/", href)
-                links.append(href)
-
-        if key not in matches_dict:
-            matches_dict[key] = {
-                "time": time_ist,
-                "game": "football",
-                "home_team": home.strip(),
-                "away_team": away.strip(),
-                "Logo": random_logo(),
-                "label": f"{home.strip()} vs {away.strip()}",
-            }
-            for i, link in enumerate(links, start=1):
-                matches_dict[key][f"url{i}"] = link
-        else:
-            existing_urls = [k for k in matches_dict[key] if k.startswith("url")]
-            next_index = len(existing_urls) + 1
-            for link in links:
-                matches_dict[key][f"url{next_index}"] = link
-                next_index += 1
-
-    return list(matches_dict.values())
+    matches = []
+    for i, iframe in enumerate(soup.find_all("iframe", src=True), start=1):
+        src = iframe["src"]
+        if src.startswith("/"):
+            src = f"https://doublexx.one{src}"
+        matches.append({
+            "label": f"Stream {i}",
+            "url": src,
+            "Logo": random_logo()
+        })
+    return matches
 
 # === Combine All Sources ===
 def fetch_all():
@@ -140,4 +103,4 @@ if __name__ == "__main__":
         data = func()
         with open(os.path.join(JSON_FOLDER, filename), "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
-        print(f"Saved {filename} with {len(data)} matches")
+        print(f"Saved {filename} with {len(data)} entries")
