@@ -6,6 +6,7 @@ from datetime import datetime
 import pytz
 import random
 import os
+import re
 
 # === Random logo placeholders from your GitHub ===
 LOGOS = [
@@ -22,7 +23,7 @@ LOGOS = [
 def random_logo():
     return random.choice(LOGOS)
 
-# === Timezones (still used for SportsOnline) ===
+# === Timezones ===
 IST = pytz.timezone("Asia/Kolkata")
 GMT = pytz.timezone("GMT")
 
@@ -33,6 +34,12 @@ def convert_time(timestr, src_tz):
     dt = dt.replace(year=now.year, month=now.month, day=now.day)
     dt = src_tz.localize(dt).astimezone(IST)
     return dt.strftime("%Y-%m-%d %H:%M IST")
+
+def short_label(home, away):
+    """Generate short label like bri-man."""
+    h = re.sub(r'[^a-z]', '', home.lower())[:3] or home.lower()[:3]
+    a = re.sub(r'[^a-z]', '', away.lower())[:3] or away.lower()[:3]
+    return f"{h}-{a}"
 
 # ---------- 1. SportsOnline ----------
 def fetch_sportzonline():
@@ -58,7 +65,7 @@ def fetch_sportzonline():
                 "game": "football",
                 "home_team": home.strip(),
                 "away_team": away.strip(),
-                "label": f"{home.strip()} vs {away.strip()}",
+                "label": short_label(home, away),
                 "Logo": random_logo(),
                 "url": url.strip()
             })
@@ -82,7 +89,7 @@ def fetch_doublexx():
         src = iframe["src"].strip()
         if src.startswith("/"):
             src = f"https://doublexx.one{src}"
-        elif src.startswith("http") is False:
+        elif not src.startswith("http"):
             src = f"https://doublexx.one/{src.lstrip('/')}"
         matches.append({
             "label": f"Stream {i}",
@@ -91,11 +98,35 @@ def fetch_doublexx():
         })
     return matches
 
+# ---------- 3. Koora10 (alkoora.txt) ----------
+def fetch_koora10():
+    url = "https://cdn28.koora10.live/alkoora.txt"
+    text = requests.get(url).text
+
+    matches = []
+    for line in text.splitlines():
+        m = re.match(r"(\d{2}:\d{2})\s+(.+?) vs (.+?) \| (http.+)", line)
+        if m:
+            time_str, home, away, link = m.groups()
+            # Koora uses GMT+3
+            time_ist = convert_time(time_str, pytz.timezone("Etc/GMT-3"))  # GMT+3 offset
+            matches.append({
+                "time": time_ist,
+                "game": "football",
+                "home_team": home.strip(),
+                "away_team": away.strip(),
+                "label": short_label(home, away),
+                "Logo": random_logo(),
+                "url": link.strip()
+            })
+    return matches
+
 # === Combine All Sources ===
 def fetch_all():
     all_matches = []
     all_matches.extend(fetch_sportzonline())
     all_matches.extend(fetch_doublexx())
+    all_matches.extend(fetch_koora10())
     return all_matches
 
 # === Save JSONs ===
@@ -105,7 +136,8 @@ os.makedirs(JSON_FOLDER, exist_ok=True)
 if __name__ == "__main__":
     sources = {
         "sportsonline.json": fetch_sportzonline,
-        "doublexx.json": fetch_doublexx
+        "doublexx.json": fetch_doublexx,
+        "koora10.json": fetch_koora10
     }
 
     for filename, func in sources.items():
