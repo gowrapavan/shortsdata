@@ -25,7 +25,6 @@ def random_logo():
 # === Timezones ===
 IST = pytz.timezone("Asia/Kolkata")
 GMT = pytz.timezone("GMT")
-GMT_PLUS3 = pytz.FixedOffset(180)  # Koora timezone
 
 def convert_time(timestr, src_tz):
     """Convert HH:MM string from src timezone to IST with today's date."""
@@ -35,37 +34,7 @@ def convert_time(timestr, src_tz):
     dt = src_tz.localize(dt).astimezone(IST)
     return dt.strftime("%Y-%m-%d %H:%M IST")
 
-# ---------- 1. Koora ----------
-def fetch_koora():
-    url = "https://cdn22.koora10.live/alkoora.txt"
-    text = requests.get(url).text
-    matches_dict = {}
-
-    for line in text.splitlines():
-        m = re.match(r"(\d{2}:\d{2}) (.+?) vs (.+?) \| (http.+)", line)
-        if m:
-            time_gmt3, home, away, link = m.groups()
-            time_ist = convert_time(time_gmt3, GMT_PLUS3)
-            key = f"{home.strip()} vs {away.strip()} {time_ist}"
-
-            if key not in matches_dict:
-                matches_dict[key] = {
-                    "time": time_ist,
-                    "game": "football",
-                    "home_team": home.strip(),
-                    "away_team": away.strip(),
-                    "label": f"{home.strip()} vs {away.strip()}",
-                    "Logo": random_logo(),
-                    "url1": link.strip(),
-                }
-            else:
-                # add url2, url3...
-                next_index = len([k for k in matches_dict[key] if k.startswith("url")]) + 1
-                matches_dict[key][f"url{next_index}"] = link.strip()
-
-    return list(matches_dict.values())
-
-# ---------- 2. SportsOnline ----------
+# ---------- 1. SportsOnline ----------
 def fetch_sportzonline():
     url = "https://sportsonline.pk/prog.txt"
     text = requests.get(url).text
@@ -95,7 +64,7 @@ def fetch_sportzonline():
             })
     return matches
 
-# ---------- 3. DoubleXX ----------
+# ---------- 2. DoubleXX ----------
 def fetch_doublexx():
     url = "https://doublexx.one/schedule.html"
     html = requests.get(url).text
@@ -153,9 +122,8 @@ def fetch_doublexx():
 # === Combine All Sources ===
 def fetch_all():
     all_matches = []
-    all_matches.extend(fetch_koora())
     all_matches.extend(fetch_sportzonline())
-    all_matches.extend(fetch_doublexx())  # updated
+    all_matches.extend(fetch_doublexx())
     return all_matches
 
 # === Save JSONs ===
@@ -164,7 +132,6 @@ os.makedirs(JSON_FOLDER, exist_ok=True)
 
 if __name__ == "__main__":
     sources = {
-        "koora.json": fetch_koora,
         "sportsonline.json": fetch_sportzonline,
         "doublexx.json": fetch_doublexx
     }
