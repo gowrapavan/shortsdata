@@ -1,11 +1,38 @@
 [
   {
-    "time": "2025-09-03 18:00 IST",
+    "time": "2025-09-03 18:30 IST",
     "game": "football",
-    "home_team": "Kuwait",
-    "away_team": "Lebanon",
-    "label": "kuw-leb",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "home_team": "Seychelles",
+    "away_team": "Gabon",
+    "label": "sey-gab",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
     "url": "https://cdn28.koora10.live/chtv/ch1.php"
+  },
+  {
+    "time": "2025-09-03 19:00 IST",
+    "game": "football",
+    "home_team": "Kuwait U20",
+    "away_team": "Yemen U20",
+    "label": "kuw-yem",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "url": "https://cdn28.koora10.live/chtv/ch2.php"
+  },
+  {
+    "time": "2025-09-03 19:00 IST",
+    "game": "football",
+    "home_team": "Saudi Arabia U20",
+    "away_team": "Qatar U20",
+    "label": "sau-qat",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "url": "https://cdn28.koora10.live/chtv/ch3.php"
+  },
+  {
+    "time": "2025-09-03 20:45 IST",
+    "game": "football",
+    "home_team": "Qatar",
+    "away_team": "Bahrain",
+    "label": "qat-bah",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "url": "https://cdn28.koora10.live/chtv/ch4.php"
   }
 ]
