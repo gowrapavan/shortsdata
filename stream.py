@@ -8,6 +8,7 @@ import random
 import os
 from googletrans import Translator   # pip install googletrans==4.0.0-rc1
 
+
 # === Random logo placeholders from your GitHub ===
 LOGOS = [
     "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
