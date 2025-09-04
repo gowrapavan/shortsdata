@@ -6,7 +6,7 @@ from datetime import datetime
 import pytz
 import random
 import os
-import re
+from googletrans import Translator   # pip install googletrans==4.0.0-rc1
 
 # === Random logo placeholders from your GitHub ===
 LOGOS = [
@@ -63,6 +63,7 @@ def fetch_sportzonline():
             matches.append({
                 "time": time_ist,
                 "game": "football",
+                "league": "",
                 "home_team": home.strip(),
                 "away_team": away.strip(),
                 "label": short_label(home, away),
@@ -74,13 +75,7 @@ def fetch_sportzonline():
 # ---------- 2. DoubleXX (homepage iframes) ----------
 def fetch_doublexx():
     url = "https://doublexx.one/"
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/120.0 Safari/537.36"
-        )
-    }
+    headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers).text
     soup = BeautifulSoup(html, "html.parser")
 
@@ -92,9 +87,14 @@ def fetch_doublexx():
         elif not src.startswith("http"):
             src = f"https://doublexx.one/{src.lstrip('/')}"
         matches.append({
-            "label": f"Stream {i}",
-            "url": src,
-            "Logo": random_logo()
+            "time": "",
+            "game": "football",
+            "league": "",
+            "home_team": "",
+            "away_team": "",
+            "label": f"stream-{i}",
+            "Logo": random_logo(),
+            "url": src
         })
     return matches
 
@@ -113,11 +113,67 @@ def fetch_koora10():
             matches.append({
                 "time": time_ist,
                 "game": "football",
+                "league": "",
                 "home_team": home.strip(),
                 "away_team": away.strip(),
                 "label": short_label(home, away),
                 "Logo": random_logo(),
                 "url": link.strip()
+            })
+    return matches
+
+# ---------- 4. Shahid-Koora (Arabic site) ----------
+def fetch_shahidkoora():
+    url = "https://shahid-koora.com/"
+    headers = {"User-Agent": "Mozilla/5.0"}
+    html = requests.get(url, headers=headers).text
+    soup = BeautifulSoup(html, "html.parser")
+
+    translator = Translator()
+    matches = []
+
+    for card in soup.select(".card"):
+        league = card.select_one(".league")
+        league = league.get_text(strip=True) if league else ""
+
+        home_team = card.select_one(".team:first-child .name")
+        away_team = card.select_one(".team:last-child .name")
+        home = home_team.get_text(strip=True) if home_team else ""
+        away = away_team.get_text(strip=True) if away_team else ""
+
+        meta = card.select_one(".meta")
+        time_str = ""
+        if meta:
+            mt = re.search(r"(\d{4}-\d{2}-\d{2})\s*·\s*(\d{2}:\d{2})", meta.get_text())
+            if mt:
+                date_str, clock = mt.groups()
+                dt = datetime.strptime(f"{date_str} {clock}", "%Y-%m-%d %H:%M")
+                dt = pytz.timezone("Africa/Casablanca").localize(dt).astimezone(IST)
+                time_str = dt.strftime("%Y-%m-%d %H:%M IST")
+
+        link = None
+        btn = card.select_one("a.watch-link")
+        if btn and btn.has_attr("data-url"):
+            link = btn["data-url"].strip()
+
+        if home and away and link:
+            # Translate names
+            try:
+                home_en = translator.translate(home, src="ar", dest="en").text
+                away_en = translator.translate(away, src="ar", dest="en").text
+                league_en = translator.translate(league, src="ar", dest="en").text
+            except Exception:
+                home_en, away_en, league_en = home, away, league
+
+            matches.append({
+                "time": time_str,
+                "game": "football",
+                "league": league_en,
+                "home_team": home_en,
+                "away_team": away_en,
+                "label": short_label(home_en, away_en),
+                "Logo": random_logo(),
+                "url": link
             })
     return matches
 
@@ -127,6 +183,7 @@ def fetch_all():
     all_matches.extend(fetch_sportzonline())
     all_matches.extend(fetch_doublexx())
     all_matches.extend(fetch_koora10())
+    all_matches.extend(fetch_shahidkoora())
     return all_matches
 
 # === Save JSONs ===
@@ -137,7 +194,8 @@ if __name__ == "__main__":
     sources = {
         "sportsonline.json": fetch_sportzonline,
         "doublexx.json": fetch_doublexx,
-        "koora10.json": fetch_koora10
+        "koora10.json": fetch_koora10,
+        "shahidkoora.json": fetch_shahidkoora
     }
 
     for filename, func in sources.items():
