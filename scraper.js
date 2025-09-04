@@ -2,6 +2,25 @@ const fs = require("fs");
 const path = require("path");
 const puppeteer = require("puppeteer");
 
+// --- Random logos (from your GitHub) ---
+const LOGOS = [
+  "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+  "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+  "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+  "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+  "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+  "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+  "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+  "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+];
+
+const randomLogo = () => LOGOS[Math.floor(Math.random() * LOGOS.length)];
+
+const makeLabel = (home, away) => {
+  const normalize = (str) => str.replace(/\s+/g, "").substring(0, 3).toLowerCase();
+  return `${normalize(home)}-${normalize(away)}`;
+};
+
 (async () => {
   const browser = await puppeteer.launch({
     headless: "new",
@@ -24,31 +43,26 @@ const puppeteer = require("puppeteer");
   });
 
   // Extract matches
-  let matches = await page.$$eval(".card", (cards) =>
+  let matches = await page.$$eval(".card", (cards, logos) =>
     cards.map((card) => {
       const league = card.querySelector(".league")?.innerText.trim() || "";
-      const home =
-        card.querySelector(".teams .team:first-child .name")?.innerText.trim() || "";
-      const away =
-        card.querySelector(".teams .team:last-child .name")?.innerText.trim() || "";
+      const home = card.querySelector(".teams .team:first-child .name")?.innerText.trim() || "";
+      const away = card.querySelector(".teams .team:last-child .name")?.innerText.trim() || "";
       const time = card.querySelector(".meta")?.innerText.trim() || "";
-      const link =
-        card.querySelector("a.watch-link")?.getAttribute("data-url") || "";
+      const url = card.querySelector("a.watch-link")?.getAttribute("data-url") || "";
 
-      // Create label (first 3 chars of home + "-" + first 3 chars of away)
-      const makeLabel = (h, a) => {
-        const normalize = (str) =>
-          str.replace(/\s+/g, "").substring(0, 3).toLowerCase();
-        return `${normalize(h)}-${normalize(a)}`;
-      };
+      const normalize = (str) => str.replace(/\s+/g, "").substring(0, 3).toLowerCase();
+      const label = `${normalize(home)}-${normalize(away)}`;
 
-      const label = makeLabel(home, away);
+      // Random logo
+      const Logo = logos[Math.floor(Math.random() * logos.length)];
 
-      return { league, home, away, time, url: link, label };
-    })
+      return { league, home, away, time, url, label, Logo };
+    }),
+    LOGOS
   );
 
-  // Remove duplicates by url
+  // Remove duplicates by URL
   const seen = new Set();
   matches = matches.filter((m) => {
     if (!m.url || seen.has(m.url)) return false;
@@ -58,14 +72,12 @@ const puppeteer = require("puppeteer");
 
   // Ensure /json directory exists
   const outputDir = path.join(__dirname, "json");
-  if (!fs.existsSync(outputDir)) {
-    fs.mkdirSync(outputDir, { recursive: true });
-  }
+  if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
 
-  // Save JSON to /json/shahidkoora.json
+  // Save JSON
   const outputPath = path.join(outputDir, "shahidkoora.json");
   fs.writeFileSync(outputPath, JSON.stringify(matches, null, 2), "utf-8");
 
-  console.log(`✅ Scraped ${matches.length} unique matches → ${outputPath}`);
+  console.log(`✅ Scraped ${matches.length} unique matches with logos → ${outputPath}`);
   await browser.close();
 })();
