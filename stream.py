@@ -121,19 +121,22 @@ def fetch_koora10():
             })
     return matches
 
+# ---------- 4. Shahid-Koora ----------
 def fetch_shahidkoora():
     url = "https://shahid-koora.com/"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                      "AppleWebKit/537.36 (KHTML, like Gecko) "
-                      "Chrome/124.0.0.0 Safari/537.36"
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/124.0.0.0 Safari/537.36"
+        )
     }
     html = requests.get(url, headers=headers, timeout=20).text
     soup = BeautifulSoup(html, "html.parser")
 
     matches = []
 
-    for card in soup.select(".match-card"):
+    for card in soup.select(".card"):
         league = card.select_one(".league")
         league = league.get_text(strip=True) if league else ""
 
@@ -144,20 +147,21 @@ def fetch_shahidkoora():
         else:
             home, away = "", ""
 
-        # time string like "22:00"
+        # time info
         time_str = ""
-        tnode = card.select_one(".time")
-        if tnode:
-            raw_time = tnode.get_text(strip=True)
-            try:
-                time_str = convert_time(raw_time, pytz.timezone("Africa/Casablanca"))
-            except Exception:
-                time_str = raw_time
+        meta = card.select_one(".meta")
+        if meta:
+            mt = re.search(r"(\d{4}-\d{2}-\d{2})\s*[·:\-]\s*(\d{2}:\d{2})", meta.get_text())
+            if mt:
+                date_str, clock = mt.groups()
+                dt = datetime.strptime(f"{date_str} {clock}", "%Y-%m-%d %H:%M")
+                dt = pytz.timezone("Africa/Casablanca").localize(dt).astimezone(IST)
+                time_str = dt.strftime("%Y-%m-%d %H:%M IST")
 
         # stream link
         link = None
-        btn = card.select_one("a.watch-btn")
-        if btn and btn.has_attr("data-url"):
+        btn = card.select_one("a.watch-link[data-url]")
+        if btn:
             link = btn["data-url"].strip()
 
         if home and away and link:
@@ -172,8 +176,8 @@ def fetch_shahidkoora():
                 "url": link
             })
 
+    print(f"[Shahid-Koora] Found {len(matches)} matches")
     return matches
-
 
 # === Combine All Sources ===
 def fetch_all():
