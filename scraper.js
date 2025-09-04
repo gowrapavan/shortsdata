@@ -1,4 +1,5 @@
 const fs = require("fs");
+const path = require("path");
 const puppeteer = require("puppeteer");
 
 (async () => {
@@ -22,30 +23,49 @@ const puppeteer = require("puppeteer");
     timeout: 60000,
   });
 
-  // Save raw HTML for debugging
-  const html = await page.content();
-  fs.writeFileSync("debug.html", html, "utf-8");
-
   // Extract matches
-  const matches = await page.$$eval(".card", (cards) =>
+  let matches = await page.$$eval(".card", (cards) =>
     cards.map((card) => {
-      const league =
-        card.querySelector(".league")?.innerText.trim() || "";
+      const league = card.querySelector(".league")?.innerText.trim() || "";
       const home =
         card.querySelector(".teams .team:first-child .name")?.innerText.trim() || "";
       const away =
         card.querySelector(".teams .team:last-child .name")?.innerText.trim() || "";
-      const time =
-        card.querySelector(".meta")?.innerText.trim() || "";
+      const time = card.querySelector(".meta")?.innerText.trim() || "";
       const link =
         card.querySelector("a.watch-link")?.getAttribute("data-url") || "";
-      return { league, home, away, time, url: link };
+
+      // Create label (first 3 chars of home + "-" + first 3 chars of away)
+      const makeLabel = (h, a) => {
+        const normalize = (str) =>
+          str.replace(/\s+/g, "").substring(0, 3).toLowerCase();
+        return `${normalize(h)}-${normalize(a)}`;
+      };
+
+      const label = makeLabel(home, away);
+
+      return { league, home, away, time, url: link, label };
     })
   );
 
-  // Save JSON
-  fs.writeFileSync("dataurls.json", JSON.stringify(matches, null, 2), "utf-8");
+  // Remove duplicates by url
+  const seen = new Set();
+  matches = matches.filter((m) => {
+    if (!m.url || seen.has(m.url)) return false;
+    seen.add(m.url);
+    return true;
+  });
 
-  console.log(`✅ Scraped ${matches.length} matches`);
+  // Ensure /json directory exists
+  const outputDir = path.join(__dirname, "json");
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+  }
+
+  // Save JSON to /json/shahidkoora.json
+  const outputPath = path.join(outputDir, "shahidkoora.json");
+  fs.writeFileSync(outputPath, JSON.stringify(matches, null, 2), "utf-8");
+
+  console.log(`✅ Scraped ${matches.length} unique matches → ${outputPath}`);
   await browser.close();
 })();
