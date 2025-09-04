@@ -6,8 +6,6 @@ from datetime import datetime
 import pytz
 import random
 import os
-from googletrans import Translator   # pip install googletrans==4.0.0-rc1
-
 
 # === Random logo placeholders from your GitHub ===
 LOGOS = [
@@ -110,7 +108,7 @@ def fetch_koora10():
         if m:
             time_str, home, away, link = m.groups()
             # Koora uses GMT+3
-            time_ist = convert_time(time_str, pytz.timezone("Etc/GMT-3"))  # GMT+3 offset
+            time_ist = convert_time(time_str, pytz.timezone("Etc/GMT-3"))
             matches.append({
                 "time": time_ist,
                 "game": "football",
@@ -123,16 +121,14 @@ def fetch_koora10():
             })
     return matches
 
-# ---------- 4. Shahid-Koora (Arabic site) ----------
+# ---------- 4. Shahid-Koora (Arabic site, keep names as-is) ----------
 def fetch_shahidkoora():
     url = "https://shahid-koora.com/"
     headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers).text
     soup = BeautifulSoup(html, "html.parser")
 
-    translator = Translator()
     matches = []
-
     for card in soup.select(".card"):
         league = card.select_one(".league")
         league = league.get_text(strip=True) if league else ""
@@ -158,21 +154,13 @@ def fetch_shahidkoora():
             link = btn["data-url"].strip()
 
         if home and away and link:
-            # Translate names
-            try:
-                home_en = translator.translate(home, src="ar", dest="en").text
-                away_en = translator.translate(away, src="ar", dest="en").text
-                league_en = translator.translate(league, src="ar", dest="en").text
-            except Exception:
-                home_en, away_en, league_en = home, away, league
-
             matches.append({
                 "time": time_str,
                 "game": "football",
-                "league": league_en,
-                "home_team": home_en,
-                "away_team": away_en,
-                "label": short_label(home_en, away_en),
+                "league": league,
+                "home_team": home,
+                "away_team": away,
+                "label": short_label(home, away),
                 "Logo": random_logo(),
                 "url": link
             })
