@@ -121,62 +121,6 @@ def fetch_koora10():
             })
     return matches
 
-def fetch_shahidkoora():
-    PROXY = "https://tv-stream-proxy.onrender.com/"
-    url = "https://shahid-koora.com/"
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                      "AppleWebKit/537.36 (KHTML, like Gecko) "
-                      "Chrome/124.0.0.0 Safari/537.36"
-    }
-    html = requests.get(url, headers=headers, timeout=20).text
-    soup = BeautifulSoup(html, "html.parser")
-
-    matches = []
-
-    for card in soup.select(".card"):
-        # league
-        league_el = card.select_one(".league")
-        league = league_el.get_text(strip=True) if league_el else ""
-
-        # teams
-        home_team = card.select_one(".teams .team:first-child .name")
-        away_team = card.select_one(".teams .team:last-child .name")
-        home = home_team.get_text(strip=True) if home_team else ""
-        away = away_team.get_text(strip=True) if away_team else ""
-
-        # time (from .meta)
-        time_str = ""
-        meta = card.select_one(".meta")
-        if meta:
-            mt = re.search(r"(\d{4}-\d{2}-\d{2})\s*[·:\-]\s*(\d{2}:\d{2})", meta.get_text())
-            if mt:
-                date_str, clock = mt.groups()
-                dt = datetime.strptime(f"{date_str} {clock}", "%Y-%m-%d %H:%M")
-                dt = pytz.timezone("Africa/Casablanca").localize(dt).astimezone(IST)
-                time_str = dt.strftime("%Y-%m-%d %H:%M IST")
-
-        # stream link
-        link = None
-        btn = card.select_one("a.watch-link")
-        if btn and btn.has_attr("data-url"):
-            link = btn["data-url"].strip()
-
-        if home and away and link:
-            matches.append({
-                "time": time_str,
-                "game": "football",
-                "league": league,
-                "home_team": home,
-                "away_team": away,
-                "label": short_label(home, away),
-                "Logo": random_logo(),
-                "url": PROXY + link   # <-- proxy added here
-            })
-
-    print(f"[Shahid-Koora] Found {len(matches)} matches")
-    return matches
-
 
 # === Combine All Sources ===
 def fetch_all():
@@ -184,7 +128,6 @@ def fetch_all():
     all_matches.extend(fetch_sportzonline())
     all_matches.extend(fetch_doublexx())
     all_matches.extend(fetch_koora10())
-    all_matches.extend(fetch_shahidkoora())
     return all_matches
 
 # === Save JSONs ===
@@ -195,8 +138,7 @@ if __name__ == "__main__":
     sources = {
         "sportsonline.json": fetch_sportzonline,
         "doublexx.json": fetch_doublexx,
-        "koora10.json": fetch_koora10,
-        "shahidkoora.json": fetch_shahidkoora
+        "koora10.json": fetch_koora10
     }
 
     for filename, func in sources.items():
