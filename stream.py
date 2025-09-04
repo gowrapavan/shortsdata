@@ -133,29 +133,30 @@ def fetch_shahidkoora():
 
     matches = []
 
-    for card in soup.select(".card"):
+    for card in soup.select(".match-card"):
         league = card.select_one(".league")
         league = league.get_text(strip=True) if league else ""
 
-        home_team = card.select_one(".team:first-child .name")
-        away_team = card.select_one(".team:last-child .name")
-        home = home_team.get_text(strip=True) if home_team else ""
-        away = away_team.get_text(strip=True) if away_team else ""
+        teams = card.select(".team .name")
+        if len(teams) >= 2:
+            home = teams[0].get_text(strip=True)
+            away = teams[1].get_text(strip=True)
+        else:
+            home, away = "", ""
 
-        # time info
+        # time string like "22:00"
         time_str = ""
-        meta = card.select_one(".meta")
-        if meta:
-            mt = re.search(r"(\d{4}-\d{2}-\d{2})\s*[·:\-]\s*(\d{2}:\d{2})", meta.get_text())
-            if mt:
-                date_str, clock = mt.groups()
-                dt = datetime.strptime(f"{date_str} {clock}", "%Y-%m-%d %H:%M")
-                dt = pytz.timezone("Africa/Casablanca").localize(dt).astimezone(IST)
-                time_str = dt.strftime("%Y-%m-%d %H:%M IST")
+        tnode = card.select_one(".time")
+        if tnode:
+            raw_time = tnode.get_text(strip=True)
+            try:
+                time_str = convert_time(raw_time, pytz.timezone("Africa/Casablanca"))
+            except Exception:
+                time_str = raw_time
 
         # stream link
         link = None
-        btn = card.select_one("a.watch-link")
+        btn = card.select_one("a.watch-btn")
         if btn and btn.has_attr("data-url"):
             link = btn["data-url"].strip()
 
