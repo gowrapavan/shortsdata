@@ -120,8 +120,7 @@ def fetch_koora10():
                 "url": link.strip()
             })
     return matches
-
-# ---------- 4. Shahid-Koora (Arabic site, keep names as-is) ----------
+# ---------- 4. Shahid-Koora (Arabic site) ----------
 def fetch_shahidkoora():
     url = "https://shahid-koora.com/"
     headers = {"User-Agent": "Mozilla/5.0"}
@@ -129,6 +128,7 @@ def fetch_shahidkoora():
     soup = BeautifulSoup(html, "html.parser")
 
     matches = []
+
     for card in soup.select(".card"):
         league = card.select_one(".league")
         league = league.get_text(strip=True) if league else ""
@@ -138,16 +138,18 @@ def fetch_shahidkoora():
         home = home_team.get_text(strip=True) if home_team else ""
         away = away_team.get_text(strip=True) if away_team else ""
 
+        # time (Arabic format: الوقت: 2025-09-04 · 17:00)
         meta = card.select_one(".meta")
         time_str = ""
         if meta:
-            mt = re.search(r"(\d{4}-\d{2}-\d{2})\s*·\s*(\d{2}:\d{2})", meta.get_text())
+            mt = re.search(r"(\d{4}-\d{2}-\d{2})\s*[·:\-]\s*(\d{2}:\d{2})", meta.get_text())
             if mt:
                 date_str, clock = mt.groups()
                 dt = datetime.strptime(f"{date_str} {clock}", "%Y-%m-%d %H:%M")
                 dt = pytz.timezone("Africa/Casablanca").localize(dt).astimezone(IST)
                 time_str = dt.strftime("%Y-%m-%d %H:%M IST")
 
+        # data-url (PHP link)
         link = None
         btn = card.select_one("a.watch-link")
         if btn and btn.has_attr("data-url"):
@@ -162,7 +164,7 @@ def fetch_shahidkoora():
                 "away_team": away,
                 "label": short_label(home, away),
                 "Logo": random_logo(),
-                "url": link
+                "url": link  # PHP link goes here
             })
     return matches
 
