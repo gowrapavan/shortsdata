@@ -121,15 +121,12 @@ def fetch_koora10():
             })
     return matches
 
-# ---------- 4. Shahid-Koora ----------
 def fetch_shahidkoora():
     url = "https://shahid-koora.com/"
     headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/124.0.0.0 Safari/537.36"
-        )
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/124.0.0.0 Safari/537.36"
     }
     html = requests.get(url, headers=headers, timeout=20).text
     soup = BeautifulSoup(html, "html.parser")
@@ -137,17 +134,17 @@ def fetch_shahidkoora():
     matches = []
 
     for card in soup.select(".card"):
-        league = card.select_one(".league")
-        league = league.get_text(strip=True) if league else ""
+        # league
+        league_el = card.select_one(".league")
+        league = league_el.get_text(strip=True) if league_el else ""
 
-        teams = card.select(".team .name")
-        if len(teams) >= 2:
-            home = teams[0].get_text(strip=True)
-            away = teams[1].get_text(strip=True)
-        else:
-            home, away = "", ""
+        # teams
+        home_team = card.select_one(".teams .team:first-child .name")
+        away_team = card.select_one(".teams .team:last-child .name")
+        home = home_team.get_text(strip=True) if home_team else ""
+        away = away_team.get_text(strip=True) if away_team else ""
 
-        # time info
+        # time (from .meta)
         time_str = ""
         meta = card.select_one(".meta")
         if meta:
@@ -160,8 +157,8 @@ def fetch_shahidkoora():
 
         # stream link
         link = None
-        btn = card.select_one("a.watch-link[data-url]")
-        if btn:
+        btn = card.select_one("a.watch-link")
+        if btn and btn.has_attr("data-url"):
             link = btn["data-url"].strip()
 
         if home and away and link:
@@ -178,6 +175,7 @@ def fetch_shahidkoora():
 
     print(f"[Shahid-Koora] Found {len(matches)} matches")
     return matches
+
 
 # === Combine All Sources ===
 def fetch_all():
