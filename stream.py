@@ -120,11 +120,15 @@ def fetch_koora10():
                 "url": link.strip()
             })
     return matches
-# ---------- 4. Shahid-Koora (Arabic site) ----------
+
 def fetch_shahidkoora():
     url = "https://shahid-koora.com/"
-    headers = {"User-Agent": "Mozilla/5.0"}
-    html = requests.get(url, headers=headers).text
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/124.0.0.0 Safari/537.36"
+    }
+    html = requests.get(url, headers=headers, timeout=20).text
     soup = BeautifulSoup(html, "html.parser")
 
     matches = []
@@ -138,9 +142,9 @@ def fetch_shahidkoora():
         home = home_team.get_text(strip=True) if home_team else ""
         away = away_team.get_text(strip=True) if away_team else ""
 
-        # time (Arabic format: الوقت: 2025-09-04 · 17:00)
-        meta = card.select_one(".meta")
+        # time info
         time_str = ""
+        meta = card.select_one(".meta")
         if meta:
             mt = re.search(r"(\d{4}-\d{2}-\d{2})\s*[·:\-]\s*(\d{2}:\d{2})", meta.get_text())
             if mt:
@@ -149,7 +153,7 @@ def fetch_shahidkoora():
                 dt = pytz.timezone("Africa/Casablanca").localize(dt).astimezone(IST)
                 time_str = dt.strftime("%Y-%m-%d %H:%M IST")
 
-        # data-url (PHP link)
+        # stream link
         link = None
         btn = card.select_one("a.watch-link")
         if btn and btn.has_attr("data-url"):
@@ -164,9 +168,11 @@ def fetch_shahidkoora():
                 "away_team": away,
                 "label": short_label(home, away),
                 "Logo": random_logo(),
-                "url": link  # PHP link goes here
+                "url": link
             })
+
     return matches
+
 
 # === Combine All Sources ===
 def fetch_all():
