@@ -122,6 +122,7 @@ def fetch_koora10():
     return matches
 
 def fetch_shahidkoora():
+    PROXY = "https://tv-stream-proxy.onrender.com/"
     url = "https://shahid-koora.com/"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -170,7 +171,7 @@ def fetch_shahidkoora():
                 "away_team": away,
                 "label": short_label(home, away),
                 "Logo": random_logo(),
-                "url": link
+                "url": PROXY + link   # <-- proxy added here
             })
 
     print(f"[Shahid-Koora] Found {len(matches)} matches")
