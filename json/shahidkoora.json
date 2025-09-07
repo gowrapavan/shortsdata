@@ -1,23 +1,5 @@
 [
   {
-    "league": "تصفيات كأس العالم · الجولة 2",
-    "home": "جورجيا",
-    "away": "بلغاريا",
-    "time": "الوقت: 2025-09-07 · 14:00",
-    "url": "https://yallateri.one/chtv/ch2.php?serv=0",
-    "label": "جور-بلغ",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png"
-  },
-  {
-    "league": "كأس ملك تايلاند · النهائي",
-    "home": "العراق",
-    "away": "تايلاند",
-    "time": "الوقت: 2025-09-07 · 14:00",
-    "url": "https://yallateri.one/chtv/ch6.php?serv=0",
-    "label": "الع-تاي",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png"
-  },
-  {
     "league": "مباراة ودية · الجولة",
     "home": "قطر",
     "away": "روسيا",
@@ -28,12 +10,30 @@
   },
   {
     "league": "تصفيات كأس العالم · الجولة 6",
+    "home": "ليتوانيا",
+    "away": "هولندا",
+    "time": "الوقت: 2025-09-07 · 17:00",
+    "url": "https://yallateri.one/chtv/ch2.php?serv=0",
+    "label": "ليت-هول",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png"
+  },
+  {
+    "league": "تصفيات كأس العالم · الجولة 6",
     "home": "مقدونيا الشمالية",
     "away": "ليشتنشتاين",
     "time": "الوقت: 2025-09-07 · 17:00",
     "url": "https://yallateri.one/chtv/ch5.php?serv=0",
     "label": "مقد-ليش",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png"
+  },
+  {
+    "league": "تصفيات كأس العالم · الجولة 8",
+    "home": "إفريقيا الوسطى",
+    "away": "جزر القمر‎",
+    "time": "الوقت: 2025-09-07 · 17:00",
+    "url": "https://yallateri.one/chtv/ch6.php?serv=0",
+    "label": "إفر-جزر",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png"
   },
   {
     "league": "تصفيات كأس العالم · الجولة 2",
@@ -42,7 +42,7 @@
     "time": "الوقت: 2025-09-07 · 19:45",
     "url": "https://yallateri.one/chtv/ch4.php?serv=0",
     "label": "لوك-سلو",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png"
   },
   {
     "league": "تصفيات كأس العالم · الجولة 6",
@@ -51,7 +51,7 @@
     "time": "الوقت: 2025-09-07 · 19:45",
     "url": "https://yallateri.one/chtv/ch3.php?serv=0",
     "label": "بول-فنل",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png"
   },
   {
     "league": "تصفيات كأس العالم · الجولة 2",
@@ -60,7 +60,7 @@
     "time": "الوقت: 2025-09-07 · 19:45",
     "url": "https://yallateri.one/chtv/ch1.php?serv=0",
     "label": "ترك-إسب",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png"
   },
   {
     "league": "",
@@ -69,7 +69,7 @@
     "time": "",
     "url": "https://yallateri.one/chtv/ch8.php?serv=0",
     "label": "-",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png"
   },
   {
     "league": "",
@@ -78,6 +78,6 @@
     "time": "",
     "url": "https://yallateri.one/chtv/ch9.php?serv=0",
     "label": "-",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png"
   }
 ]
