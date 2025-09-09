@@ -99,7 +99,7 @@ def fetch_doublexx():
 
 # ---------- 3. Koora10 (alkoora.txt) ----------
 def fetch_koora10():
-    url = "https://cdn28.koora10.live/alkoora.txt"
+    url = "https://cdn29.koora10.live/alkoora.txt"
     text = requests.get(url).text
 
     matches = []
