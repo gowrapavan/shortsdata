@@ -1,12 +1,52 @@
 [
   {
-    "time": "2025-09-11 18:30 IST",
+    "time": "2025-09-11 20:30 IST",
     "game": "football",
     "league": "",
-    "home_team": "Saudi Arabia U20",
-    "away_team": "Yemen U20",
-    "label": "sau-yem",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "home_team": "Slimane",
+    "away_team": "Olympique Béja",
+    "label": "sli-oly",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
     "url": "https://cdn31.koora10.live/chtv/ch1.php"
+  },
+  {
+    "time": "2025-09-11 20:30 IST",
+    "game": "football",
+    "league": "",
+    "home_team": "Métlaoui",
+    "away_team": "JS Omrane",
+    "label": "mtl-jso",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "url": "https://cdn31.koora10.live/chtv/ch2.php"
+  },
+  {
+    "time": "2025-09-11 20:30 IST",
+    "game": "football",
+    "league": "",
+    "home_team": "Kairouan",
+    "away_team": "Marsa",
+    "label": "kai-mar",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "url": "https://cdn31.koora10.live/chtv/ch3.php"
+  },
+  {
+    "time": "2025-09-11 22:30 IST",
+    "game": "football",
+    "league": "",
+    "home_team": "Eintracht (W)",
+    "away_team": "Real Madrid (W)",
+    "label": "ein-rea",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "url": "https://cdn31.koora10.live/chtv/ch4.php"
+  },
+  {
+    "time": "2025-09-12 00:00 IST",
+    "game": "football",
+    "league": "",
+    "home_team": "Roma (W)",
+    "away_team": "Sporting (W)",
+    "label": "rom-spo",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "url": "https://cdn31.koora10.live/chtv/ch5.php"
   }
 ]
