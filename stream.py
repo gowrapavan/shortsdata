@@ -43,7 +43,7 @@ def short_label(home, away):
 # ---------- 1. SportsOnline ----------
 def fetch_sportzonline():
     url = "https://sportsonline.pk/prog.txt"
-    text = requests.get(url).text
+    text = requests.get(url, timeout=10).text
 
     today = datetime.now(IST).strftime("%A").upper()  # e.g. "SUNDAY"
     pattern = rf"{today}\n(.*?)(?=\n[A-Z]+\n|$)"
@@ -75,7 +75,7 @@ def fetch_sportzonline():
 def fetch_doublexx():
     url = "https://doublexx.one/"
     headers = {"User-Agent": "Mozilla/5.0"}
-    html = requests.get(url, headers=headers).text
+    html = requests.get(url, headers=headers, timeout=10).text
     soup = BeautifulSoup(html, "html.parser")
 
     matches = []
@@ -100,7 +100,7 @@ def fetch_doublexx():
 # ---------- 3. Koora10 (alkoora.txt) ----------
 def fetch_koora10():
     url = "https://cdn34.koora10.live/alkoora.txt"
-    text = requests.get(url).text
+    text = requests.get(url, timeout=10).text
 
     matches = []
     for line in text.splitlines():
@@ -122,14 +122,6 @@ def fetch_koora10():
     return matches
 
 
-# === Combine All Sources ===
-def fetch_all():
-    all_matches = []
-    all_matches.extend(fetch_sportzonline())
-    all_matches.extend(fetch_doublexx())
-    all_matches.extend(fetch_koora10())
-    return all_matches
-
 # === Save JSONs ===
 JSON_FOLDER = "json"
 os.makedirs(JSON_FOLDER, exist_ok=True)
@@ -142,7 +134,13 @@ if __name__ == "__main__":
     }
 
     for filename, func in sources.items():
-        data = func()
-        with open(os.path.join(JSON_FOLDER, filename), "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        print(f"Saved {filename} with {len(data)} entries")
+        try:
+            data = func()
+            with open(os.path.join(JSON_FOLDER, filename), "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+            print(f"✅ Saved {filename} with {len(data)} entries")
+        except Exception as e:
+            # If one fails, continue with others
+            print(f"❌ Failed to fetch {filename}: {e}")
+            with open(os.path.join(JSON_FOLDER, filename), "w", encoding="utf-8") as f:
+                json.dump([], f, ensure_ascii=False, indent=2)
