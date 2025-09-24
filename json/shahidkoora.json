@@ -1,21 +1,21 @@
 [
   {
-    "league": "الدوري المصري · الجولة 8",
-    "home": "إنبي",
-    "away": "الإسماعيلي",
-    "time": "الوقت: 2025-09-24 · 15:00",
+    "league": "الدوري الأوروبي · الجولة 1",
+    "home": "ميتييلاند",
+    "away": "شتورم غراتس",
+    "time": "الوقت: 2025-09-24 · 17:45",
     "url": "https://yallateri.one/chtv/ch3.php",
-    "label": "إنب-الإ",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png"
+    "label": "ميت-شتو",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png"
   },
   {
-    "league": "الرابطة التونسية لكرة القدم · الجولة 7",
-    "home": "الترجي",
-    "away": "الأولمبي الباجي",
-    "time": "الوقت: 2025-09-24 · 15:30",
-    "url": "https://yallateri.one/chtv/ch2.php",
-    "label": "الت-الأ",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png"
+    "league": "الدوري الإسباني · الجولة 6",
+    "home": "خيتافي",
+    "away": "ألافيس",
+    "time": "الوقت: 2025-09-24 · 18:00",
+    "url": "https://yallateri.one/chtv/ch4.php",
+    "label": "خيت-ألا",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png"
   },
   {
     "league": "كأس الرابطة الإنجليزية · الدور الثالث",
@@ -24,16 +24,25 @@
     "time": "الوقت: 2025-09-24 · 19:45",
     "url": "https://yallateri.one/chtv/ch5.php",
     "label": "هدر-مان",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png"
   },
   {
     "league": "كأس الرابطة الإنجليزية · الدور الثالث",
     "home": "توتنهام",
     "away": "دونكاستر روفرز",
     "time": "الوقت: 2025-09-24 · 19:45",
-    "url": "https://yallateri.one/chtv/ch6.php",
+    "url": "https://yallateri.one/chtv/ch7.php",
     "label": "توت-دون",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png"
+  },
+  {
+    "league": "كأس الرابطة الإنجليزية · الدور الثالث",
+    "home": "نيوكاسل",
+    "away": "برادفورد سيتي",
+    "time": "الوقت: 2025-09-24 · 19:45",
+    "url": "https://yallateri.one/chtv/ch6.php",
+    "label": "نيو-برا",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png"
   },
   {
     "league": "الدوري الأوروبي · الجولة 1",
@@ -42,16 +51,34 @@
     "time": "الوقت: 2025-09-24 · 20:00",
     "url": "https://yallateri.one/chtv/ch1.php",
     "label": "نيس-روم",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png"
+  },
+  {
+    "league": "الدوري الأوروبي · الجولة 1",
+    "home": "ريال بيتيس",
+    "away": "نوتينغهام",
+    "time": "الوقت: 2025-09-24 · 20:00",
+    "url": "https://yallateri.one/chtv/ch2.php",
+    "label": "ريا-نوت",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png"
   },
   {
     "league": "كأس الرابطة الإنجليزية · الدور الثالث",
     "home": "بورت فايل",
     "away": "آرسنال",
     "time": "الوقت: 2025-09-24 · 20:00",
-    "url": "https://yallateri.one/chtv/ch4.php",
+    "url": "https://yallateri.one/chtv/ch9.php",
     "label": "بور-آرس",
     "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png"
+  },
+  {
+    "league": "الدوري الأوروبي · الجولة 1",
+    "home": "دينامو زغرب",
+    "away": "فنربخشة",
+    "time": "الوقت: 2025-09-24 · 20:00",
+    "url": "https://yallateri.one/chtv/ch8.php",
+    "label": "دين-فنر",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png"
   },
   {
     "league": "",
@@ -60,7 +87,7 @@
     "time": "",
     "url": "https://yallateri.one/chtv/ch1.php?serv=0",
     "label": "-",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png"
   },
   {
     "league": "",
@@ -69,7 +96,7 @@
     "time": "",
     "url": "https://yallateri.one/chtv/ch2.php?serv=0",
     "label": "-",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png"
   },
   {
     "league": "",
@@ -78,7 +105,7 @@
     "time": "",
     "url": "https://yallateri.one/chtv/ch3.php?serv=0",
     "label": "-",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png"
   },
   {
     "league": "",
@@ -87,7 +114,7 @@
     "time": "",
     "url": "https://yallateri.one/chtv/ch4.php?serv=0",
     "label": "-",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png"
   },
   {
     "league": "",
@@ -96,7 +123,7 @@
     "time": "",
     "url": "https://yallateri.one/chtv/ch5.php?serv=0",
     "label": "-",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png"
   },
   {
     "league": "",
@@ -105,7 +132,7 @@
     "time": "",
     "url": "https://yallateri.one/chtv/ch6.php?serv=0",
     "label": "-",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png"
   },
   {
     "league": "",
@@ -114,7 +141,7 @@
     "time": "",
     "url": "https://yallateri.one/chtv/ch7.php?serv=0",
     "label": "-",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png"
   },
   {
     "league": "",
@@ -123,7 +150,7 @@
     "time": "",
     "url": "https://yallateri.one/chtv/ch8.php?serv=0",
     "label": "-",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png"
   },
   {
     "league": "",
@@ -132,6 +159,6 @@
     "time": "",
     "url": "https://yallateri.one/chtv/ch9.php?serv=0",
     "label": "-",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png"
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png"
   }
 ]
