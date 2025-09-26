@@ -34,7 +34,9 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add stats/
           git commit -m "Update football stats [skip ci]" || echo "No changes to commit"
-          git push
+          git pull --rebase origin main
+          git push origin main
+
         env:
           # This token allows pushing back to the repository
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
