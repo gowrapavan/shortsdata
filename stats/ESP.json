@@ -9020,35 +9020,35 @@
         "statistics": [
           {
             "type": "Shots on Goal",
-            "value": 0
-          },
-          {
-            "type": "Shots off Goal",
-            "value": 0
-          },
-          {
-            "type": "Total Shots",
-            "value": 0
-          },
-          {
-            "type": "Blocked Shots",
-            "value": 0
-          },
-          {
-            "type": "Shots insidebox",
-            "value": 0
-          },
-          {
-            "type": "Shots outsidebox",
-            "value": 0
-          },
-          {
-            "type": "Fouls",
             "value": 1
           },
           {
+            "type": "Shots off Goal",
+            "value": 1
+          },
+          {
+            "type": "Total Shots",
+            "value": 4
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 2
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 2
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 2
+          },
+          {
+            "type": "Fouls",
+            "value": 3
+          },
+          {
             "type": "Corner Kicks",
-            "value": null
+            "value": 4
           },
           {
             "type": "Offsides",
@@ -9056,7 +9056,7 @@
           },
           {
             "type": "Ball Possession",
-            "value": "23%"
+            "value": "59%"
           },
           {
             "type": "Yellow Cards",
@@ -9068,27 +9068,27 @@
           },
           {
             "type": "Goalkeeper Saves",
-            "value": null
+            "value": 4
           },
           {
             "type": "Total passes",
-            "value": 3
+            "value": 154
           },
           {
             "type": "Passes accurate",
-            "value": 2
+            "value": 132
           },
           {
             "type": "Passes %",
-            "value": "67%"
+            "value": "86%"
           },
           {
             "type": "expected_goals",
-            "value": null
+            "value": "0.15"
           },
           {
             "type": "goals_prevented",
-            "value": null
+            "value": 0
           }
         ]
       },
@@ -9101,35 +9101,35 @@
         "statistics": [
           {
             "type": "Shots on Goal",
-            "value": 0
+            "value": 4
           },
           {
             "type": "Shots off Goal",
-            "value": 0
+            "value": 3
           },
           {
             "type": "Total Shots",
-            "value": 0
+            "value": 9
           },
           {
             "type": "Blocked Shots",
-            "value": 0
+            "value": 2
           },
           {
             "type": "Shots insidebox",
-            "value": 0
+            "value": 7
           },
           {
             "type": "Shots outsidebox",
-            "value": 0
+            "value": 2
           },
           {
             "type": "Fouls",
-            "value": 0
+            "value": 6
           },
           {
             "type": "Corner Kicks",
-            "value": null
+            "value": 3
           },
           {
             "type": "Offsides",
@@ -9137,7 +9137,7 @@
           },
           {
             "type": "Ball Possession",
-            "value": "77%"
+            "value": "41%"
           },
           {
             "type": "Yellow Cards",
@@ -9149,27 +9149,27 @@
           },
           {
             "type": "Goalkeeper Saves",
-            "value": null
+            "value": 1
           },
           {
             "type": "Total passes",
-            "value": 10
+            "value": 105
           },
           {
             "type": "Passes accurate",
-            "value": 8
+            "value": 87
           },
           {
             "type": "Passes %",
-            "value": "80%"
+            "value": "83%"
           },
           {
             "type": "expected_goals",
-            "value": null
+            "value": "0.62"
           },
           {
             "type": "goals_prevented",
-            "value": null
+            "value": 0
           }
         ]
       }
