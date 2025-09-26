@@ -125,7 +125,7 @@ def find_game_id(league_name, match_date, home_team, away_team):
 # ---------------- MAIN ---------------- #
 def main():
     # Yesterday, today, and tomorrow
-    for delta_days in [1, 0]:
+    for delta_days in [1, 0, -1]:
         target_date = datetime.utcnow() - timedelta(days=delta_days)
         date_str = format_date(target_date)
         print(f"\nFetching matches for {date_str}...")
