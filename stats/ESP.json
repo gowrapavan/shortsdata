@@ -8545,7 +8545,7 @@
     "StatsId": 1390884,
     "GameId": 544279,
     "Date": "2025-09-26T20:00:00+01:00",
-    "Status": "1H",
+    "Status": "2H",
     "Round": "Regular Season - 7",
     "HomeTeam": "Girona",
     "AwayTeam": "Espanyol",
@@ -8553,7 +8553,30 @@
       "Home": 0,
       "Away": 0
     },
-    "Events": [],
+    "Events": [
+      {
+        "time": {
+          "elapsed": 35,
+          "extra": null
+        },
+        "team": {
+          "id": 540,
+          "name": "Espanyol",
+          "logo": "https://media.api-sports.io/football/teams/540.png"
+        },
+        "player": {
+          "id": 286601,
+          "name": "O. El Hilali"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Tripping"
+      }
+    ],
     "Lineups": [
       {
         "team": {
@@ -8622,18 +8645,18 @@
           },
           {
             "player": {
-              "id": 20,
-              "name": "Axel Witsel",
-              "number": 20,
+              "id": 1700,
+              "name": "Iván Martín",
+              "number": 23,
               "pos": "M",
               "grid": "3:4"
             }
           },
           {
             "player": {
-              "id": 1700,
-              "name": "Iván Martín",
-              "number": 23,
+              "id": 20,
+              "name": "Axel Witsel",
+              "number": 20,
               "pos": "M",
               "grid": "3:3"
             }
@@ -9020,7 +9043,7 @@
         "statistics": [
           {
             "type": "Shots on Goal",
-            "value": 1
+            "value": 2
           },
           {
             "type": "Shots off Goal",
@@ -9028,23 +9051,23 @@
           },
           {
             "type": "Total Shots",
-            "value": 4
+            "value": 6
           },
           {
             "type": "Blocked Shots",
-            "value": 2
+            "value": 3
           },
           {
             "type": "Shots insidebox",
-            "value": 2
+            "value": 3
           },
           {
             "type": "Shots outsidebox",
-            "value": 2
+            "value": 3
           },
           {
             "type": "Fouls",
-            "value": 3
+            "value": 6
           },
           {
             "type": "Corner Kicks",
@@ -9056,11 +9079,11 @@
           },
           {
             "type": "Ball Possession",
-            "value": "59%"
+            "value": "58%"
           },
           {
             "type": "Yellow Cards",
-            "value": null
+            "value": 0
           },
           {
             "type": "Red Cards",
@@ -9072,19 +9095,19 @@
           },
           {
             "type": "Total passes",
-            "value": 154
+            "value": 294
           },
           {
             "type": "Passes accurate",
-            "value": 132
+            "value": 258
           },
           {
             "type": "Passes %",
-            "value": "86%"
+            "value": "88%"
           },
           {
             "type": "expected_goals",
-            "value": "0.15"
+            "value": "0.36"
           },
           {
             "type": "goals_prevented",
@@ -9105,11 +9128,11 @@
           },
           {
             "type": "Shots off Goal",
-            "value": 3
+            "value": 5
           },
           {
             "type": "Total Shots",
-            "value": 9
+            "value": 11
           },
           {
             "type": "Blocked Shots",
@@ -9117,15 +9140,15 @@
           },
           {
             "type": "Shots insidebox",
-            "value": 7
+            "value": 8
           },
           {
             "type": "Shots outsidebox",
-            "value": 2
+            "value": 3
           },
           {
             "type": "Fouls",
-            "value": 6
+            "value": 8
           },
           {
             "type": "Corner Kicks",
@@ -9137,11 +9160,11 @@
           },
           {
             "type": "Ball Possession",
-            "value": "41%"
+            "value": "42%"
           },
           {
             "type": "Yellow Cards",
-            "value": null
+            "value": 1
           },
           {
             "type": "Red Cards",
@@ -9153,11 +9176,11 @@
           },
           {
             "type": "Total passes",
-            "value": 105
+            "value": 205
           },
           {
             "type": "Passes accurate",
-            "value": 87
+            "value": 171
           },
           {
             "type": "Passes %",
@@ -9165,7 +9188,7 @@
           },
           {
             "type": "expected_goals",
-            "value": "0.62"
+            "value": "0.81"
           },
           {
             "type": "goals_prevented",
