@@ -8545,13 +8545,13 @@
     "StatsId": 1390884,
     "GameId": 544279,
     "Date": "2025-09-26T20:00:00+01:00",
-    "Status": "NS",
+    "Status": "1H",
     "Round": "Regular Season - 7",
     "HomeTeam": "Girona",
     "AwayTeam": "Espanyol",
     "Score": {
-      "Home": null,
-      "Away": null
+      "Home": 0,
+      "Away": 0
     },
     "Events": [],
     "Lineups": [
@@ -9010,7 +9010,170 @@
         }
       }
     ],
-    "Statistics": [],
+    "Statistics": [
+      {
+        "team": {
+          "id": 547,
+          "name": "Girona",
+          "logo": "https://media.api-sports.io/football/teams/547.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": 0
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 0
+          },
+          {
+            "type": "Total Shots",
+            "value": 0
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 0
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 0
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 0
+          },
+          {
+            "type": "Fouls",
+            "value": 1
+          },
+          {
+            "type": "Corner Kicks",
+            "value": null
+          },
+          {
+            "type": "Offsides",
+            "value": null
+          },
+          {
+            "type": "Ball Possession",
+            "value": "23%"
+          },
+          {
+            "type": "Yellow Cards",
+            "value": null
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": null
+          },
+          {
+            "type": "Total passes",
+            "value": 3
+          },
+          {
+            "type": "Passes accurate",
+            "value": 2
+          },
+          {
+            "type": "Passes %",
+            "value": "67%"
+          },
+          {
+            "type": "expected_goals",
+            "value": null
+          },
+          {
+            "type": "goals_prevented",
+            "value": null
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 540,
+          "name": "Espanyol",
+          "logo": "https://media.api-sports.io/football/teams/540.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": 0
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 0
+          },
+          {
+            "type": "Total Shots",
+            "value": 0
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 0
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 0
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 0
+          },
+          {
+            "type": "Fouls",
+            "value": 0
+          },
+          {
+            "type": "Corner Kicks",
+            "value": null
+          },
+          {
+            "type": "Offsides",
+            "value": null
+          },
+          {
+            "type": "Ball Possession",
+            "value": "77%"
+          },
+          {
+            "type": "Yellow Cards",
+            "value": null
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": null
+          },
+          {
+            "type": "Total passes",
+            "value": 10
+          },
+          {
+            "type": "Passes accurate",
+            "value": 8
+          },
+          {
+            "type": "Passes %",
+            "value": "80%"
+          },
+          {
+            "type": "expected_goals",
+            "value": null
+          },
+          {
+            "type": "goals_prevented",
+            "value": null
+          }
+        ]
+      }
+    ],
     "Players": [],
     "HeadToHead": []
   }
