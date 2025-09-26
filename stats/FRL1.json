@@ -9,11 +9,1034 @@
     "AwayTeam": "Marseille",
     "Score": {
       "Home": 1,
-      "Away": 0
+      "Away": 2
     },
-    "Events": [],
-    "Lineups": [],
-    "Statistics": [],
+    "Events": [
+      {
+        "time": {
+          "elapsed": 17,
+          "extra": null
+        },
+        "team": {
+          "id": 95,
+          "name": "Strasbourg",
+          "logo": "https://media.api-sports.io/football/teams/95.png"
+        },
+        "player": {
+          "id": 203762,
+          "name": "E. Emegha"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Var",
+        "detail": "Goal Disallowed - offside",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 24,
+          "extra": null
+        },
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "player": {
+          "id": 21694,
+          "name": "N. Aguerd"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Tripping"
+      },
+      {
+        "time": {
+          "elapsed": 27,
+          "extra": null
+        },
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "player": {
+          "id": 2973,
+          "name": "M. Murillo"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Roughing"
+      },
+      {
+        "time": {
+          "elapsed": 38,
+          "extra": null
+        },
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "player": {
+          "id": 19030,
+          "name": "M. O'Riley"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Tripping"
+      },
+      {
+        "time": {
+          "elapsed": 45,
+          "extra": null
+        },
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "player": {
+          "id": 6,
+          "name": "L. Balerdi"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Roughing"
+      },
+      {
+        "time": {
+          "elapsed": 45,
+          "extra": 1
+        },
+        "team": {
+          "id": 95,
+          "name": "Strasbourg",
+          "logo": "https://media.api-sports.io/football/teams/95.png"
+        },
+        "player": {
+          "id": 203762,
+          "name": "E. Emegha"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Tripping"
+      },
+      {
+        "time": {
+          "elapsed": 46,
+          "extra": null
+        },
+        "team": {
+          "id": 95,
+          "name": "Strasbourg",
+          "logo": "https://media.api-sports.io/football/teams/95.png"
+        },
+        "player": {
+          "id": 325594,
+          "name": "F. Lemarechal"
+        },
+        "assist": {
+          "id": 334035,
+          "name": "S. Amo-Ameyaw"
+        },
+        "type": "subst",
+        "detail": "Substitution 1",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 46,
+          "extra": null
+        },
+        "team": {
+          "id": 95,
+          "name": "Strasbourg",
+          "logo": "https://media.api-sports.io/football/teams/95.png"
+        },
+        "player": {
+          "id": 406303,
+          "name": "K. Paez"
+        },
+        "assist": {
+          "id": 358166,
+          "name": "A. Ouattara"
+        },
+        "type": "subst",
+        "detail": "Substitution 2",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 49,
+          "extra": null
+        },
+        "team": {
+          "id": 95,
+          "name": "Strasbourg",
+          "logo": "https://media.api-sports.io/football/teams/95.png"
+        },
+        "player": {
+          "id": 358166,
+          "name": "A. Ouattara"
+        },
+        "assist": {
+          "id": 203762,
+          "name": "E. Emegha"
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 58,
+          "extra": null
+        },
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "player": {
+          "id": 1138,
+          "name": "T. Weah"
+        },
+        "assist": {
+          "id": 2284,
+          "name": "Emerson"
+        },
+        "type": "subst",
+        "detail": "Substitution 1",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 58,
+          "extra": null
+        },
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "player": {
+          "id": 9363,
+          "name": "I. Paixao"
+        },
+        "assist": {
+          "id": 897,
+          "name": "M. Greenwood"
+        },
+        "type": "subst",
+        "detail": "Substitution 2",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 58,
+          "extra": null
+        },
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "player": {
+          "id": 85041,
+          "name": "A. Gouiri"
+        },
+        "assist": {
+          "id": 1465,
+          "name": "P. Aubameyang"
+        },
+        "type": "subst",
+        "detail": "Substitution 3",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 62,
+          "extra": null
+        },
+        "team": {
+          "id": 95,
+          "name": "Strasbourg",
+          "logo": "https://media.api-sports.io/football/teams/95.png"
+        },
+        "player": {
+          "id": 203762,
+          "name": "E. Emegha"
+        },
+        "assist": {
+          "id": 390742,
+          "name": "J. Panichelli"
+        },
+        "type": "subst",
+        "detail": "Substitution 3",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 66,
+          "extra": null
+        },
+        "team": {
+          "id": 95,
+          "name": "Strasbourg",
+          "logo": "https://media.api-sports.io/football/teams/95.png"
+        },
+        "player": {
+          "id": 334035,
+          "name": "S. Amo-Ameyaw"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Roughing"
+      },
+      {
+        "time": {
+          "elapsed": 78,
+          "extra": null
+        },
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "player": {
+          "id": 1465,
+          "name": "P. Aubameyang"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 84,
+          "extra": null
+        },
+        "team": {
+          "id": 95,
+          "name": "Strasbourg",
+          "logo": "https://media.api-sports.io/football/teams/95.png"
+        },
+        "player": {
+          "id": 161747,
+          "name": "G. Doue"
+        },
+        "assist": {
+          "id": 147835,
+          "name": "A. Omobamidele"
+        },
+        "type": "subst",
+        "detail": "Substitution 4",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 84,
+          "extra": null
+        },
+        "team": {
+          "id": 95,
+          "name": "Strasbourg",
+          "logo": "https://media.api-sports.io/football/teams/95.png"
+        },
+        "player": {
+          "id": 319572,
+          "name": "V. Barco"
+        },
+        "assist": {
+          "id": 415431,
+          "name": "S. El Mourabet"
+        },
+        "type": "subst",
+        "detail": "Substitution 5",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 85,
+          "extra": null
+        },
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "player": {
+          "id": 6231,
+          "name": "F. Medina"
+        },
+        "assist": {
+          "id": 435482,
+          "name": "R. Vaz"
+        },
+        "type": "subst",
+        "detail": "Substitution 4",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 85,
+          "extra": null
+        },
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "player": {
+          "id": 19030,
+          "name": "M. O'Riley"
+        },
+        "assist": {
+          "id": 2725,
+          "name": "B. Pavard"
+        },
+        "type": "subst",
+        "detail": "Substitution 5",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 90,
+          "extra": 1
+        },
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "player": {
+          "id": 1465,
+          "name": "P. Aubameyang"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      }
+    ],
+    "Lineups": [
+      {
+        "team": {
+          "id": 95,
+          "name": "Strasbourg",
+          "logo": "https://media.api-sports.io/football/teams/95.png",
+          "colors": {
+            "player": {
+              "primary": "0034a5",
+              "number": "ffffff",
+              "border": "0034a5"
+            },
+            "goalkeeper": {
+              "primary": "84cfa8",
+              "number": "ffffff",
+              "border": "84cfa8"
+            }
+          }
+        },
+        "formation": "4-2-3-1",
+        "startXI": [
+          {
+            "player": {
+              "id": 340151,
+              "name": "Mike Penders",
+              "number": 39,
+              "pos": "G",
+              "grid": "1:1"
+            }
+          },
+          {
+            "player": {
+              "id": 161747,
+              "name": "Guéla Doué",
+              "number": 22,
+              "pos": "D",
+              "grid": "2:4"
+            }
+          },
+          {
+            "player": {
+              "id": 396193,
+              "name": "Lucas Høgsberg",
+              "number": 24,
+              "pos": "D",
+              "grid": "2:3"
+            }
+          },
+          {
+            "player": {
+              "id": 276184,
+              "name": "Mamadou Sarr",
+              "number": 23,
+              "pos": "D",
+              "grid": "2:2"
+            }
+          },
+          {
+            "player": {
+              "id": 2933,
+              "name": "Ben Chilwell",
+              "number": 3,
+              "pos": "D",
+              "grid": "2:1"
+            }
+          },
+          {
+            "player": {
+              "id": 319572,
+              "name": "Valentín Barco",
+              "number": 32,
+              "pos": "M",
+              "grid": "3:2"
+            }
+          },
+          {
+            "player": {
+              "id": 271542,
+              "name": "Ismael Doukouré",
+              "number": 6,
+              "pos": "M",
+              "grid": "3:1"
+            }
+          },
+          {
+            "player": {
+              "id": 406303,
+              "name": "Kendry Páez",
+              "number": 16,
+              "pos": "M",
+              "grid": "4:3"
+            }
+          },
+          {
+            "player": {
+              "id": 325594,
+              "name": "Félix Lemaréchal",
+              "number": 80,
+              "pos": "M",
+              "grid": "4:2"
+            }
+          },
+          {
+            "player": {
+              "id": 335056,
+              "name": "Diego Moreira",
+              "number": 7,
+              "pos": "M",
+              "grid": "4:1"
+            }
+          },
+          {
+            "player": {
+              "id": 203762,
+              "name": "Emanuel Emegha",
+              "number": 10,
+              "pos": "F",
+              "grid": "5:1"
+            }
+          }
+        ],
+        "substitutes": [
+          {
+            "player": {
+              "id": 358166,
+              "name": "Abdoul Ouattara",
+              "number": 42,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 334035,
+              "name": "Samuel Amo-Ameyaw",
+              "number": 27,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 390742,
+              "name": "Joaquin Panichelli",
+              "number": 9,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 2850,
+              "name": "Karl-Johan Johnsson",
+              "number": 1,
+              "pos": "G",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 147835,
+              "name": "Andrew Omobamidele",
+              "number": 2,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 415431,
+              "name": "Samir El Mourabet",
+              "number": 29,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 345416,
+              "name": "Rafael Luis",
+              "number": 83,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 395762,
+              "name": "Mathis Amougou",
+              "number": 17,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 359386,
+              "name": "Martial Godo",
+              "number": 20,
+              "pos": "F",
+              "grid": null
+            }
+          }
+        ],
+        "coach": {
+          "id": 13350,
+          "name": "Liam James Rosenior",
+          "photo": "https://media.api-sports.io/football/coachs/13350.png"
+        }
+      },
+      {
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png",
+          "colors": {
+            "player": {
+              "primary": "ffffff",
+              "number": "0275b9",
+              "border": "ffffff"
+            },
+            "goalkeeper": {
+              "primary": "a93832",
+              "number": "b28c3c",
+              "border": "a93832"
+            }
+          }
+        },
+        "formation": "4-2-3-1",
+        "startXI": [
+          {
+            "player": {
+              "id": 47296,
+              "name": "Gerónimo Rulli",
+              "number": 1,
+              "pos": "G",
+              "grid": "1:1"
+            }
+          },
+          {
+            "player": {
+              "id": 2973,
+              "name": "Amir Murillo",
+              "number": 62,
+              "pos": "D",
+              "grid": "2:4"
+            }
+          },
+          {
+            "player": {
+              "id": 6,
+              "name": "Leonardo Balerdi",
+              "number": 5,
+              "pos": "D",
+              "grid": "2:3"
+            }
+          },
+          {
+            "player": {
+              "id": 21694,
+              "name": "Nayef Aguerd",
+              "number": 21,
+              "pos": "D",
+              "grid": "2:2"
+            }
+          },
+          {
+            "player": {
+              "id": 6231,
+              "name": "Facundo Medina",
+              "number": 32,
+              "pos": "D",
+              "grid": "2:1"
+            }
+          },
+          {
+            "player": {
+              "id": 19030,
+              "name": "Matt O'Riley",
+              "number": 17,
+              "pos": "M",
+              "grid": "3:2"
+            }
+          },
+          {
+            "player": {
+              "id": 2735,
+              "name": "Pierre-Emile Højbjerg",
+              "number": 23,
+              "pos": "M",
+              "grid": "3:1"
+            }
+          },
+          {
+            "player": {
+              "id": 9363,
+              "name": "Igor Paixão",
+              "number": 14,
+              "pos": "M",
+              "grid": "4:3"
+            }
+          },
+          {
+            "player": {
+              "id": 896,
+              "name": "Angel Gomes",
+              "number": 8,
+              "pos": "M",
+              "grid": "4:2"
+            }
+          },
+          {
+            "player": {
+              "id": 1138,
+              "name": "Timothy Weah",
+              "number": 22,
+              "pos": "M",
+              "grid": "4:1"
+            }
+          },
+          {
+            "player": {
+              "id": 85041,
+              "name": "Amine Gouiri",
+              "number": 9,
+              "pos": "F",
+              "grid": "5:1"
+            }
+          }
+        ],
+        "substitutes": [
+          {
+            "player": {
+              "id": 2284,
+              "name": "Emerson Palmieri",
+              "number": 33,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 897,
+              "name": "Mason Greenwood",
+              "number": 10,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 1465,
+              "name": "Pierre-Emerick Aubameyang",
+              "number": 97,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 36827,
+              "name": "Jeffrey de Lange",
+              "number": 12,
+              "pos": "G",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 181827,
+              "name": "Conrad Jaden Egan-Riley",
+              "number": 4,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 2725,
+              "name": "Benjamin Pavard",
+              "number": 28,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 340154,
+              "name": "Arthur Vermeeren",
+              "number": 18,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 283216,
+              "name": "Bilal Nadir",
+              "number": 26,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 435482,
+              "name": "Robinio Vaz",
+              "number": 34,
+              "pos": "F",
+              "grid": null
+            }
+          }
+        ],
+        "coach": {
+          "id": 2424,
+          "name": "Roberto De Zerbi",
+          "photo": "https://media.api-sports.io/football/coachs/2424.png"
+        }
+      }
+    ],
+    "Statistics": [
+      {
+        "team": {
+          "id": 95,
+          "name": "Strasbourg",
+          "logo": "https://media.api-sports.io/football/teams/95.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": 1
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 5
+          },
+          {
+            "type": "Total Shots",
+            "value": 8
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 2
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 6
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 2
+          },
+          {
+            "type": "Fouls",
+            "value": 13
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 4
+          },
+          {
+            "type": "Offsides",
+            "value": 1
+          },
+          {
+            "type": "Ball Possession",
+            "value": "39%"
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 2
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 6
+          },
+          {
+            "type": "Total passes",
+            "value": 367
+          },
+          {
+            "type": "Passes accurate",
+            "value": 304
+          },
+          {
+            "type": "Passes %",
+            "value": "83%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "0.91"
+          },
+          {
+            "type": "goals_prevented",
+            "value": 0
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": 7
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 5
+          },
+          {
+            "type": "Total Shots",
+            "value": 14
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 2
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 8
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 6
+          },
+          {
+            "type": "Fouls",
+            "value": 13
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 4
+          },
+          {
+            "type": "Offsides",
+            "value": 1
+          },
+          {
+            "type": "Ball Possession",
+            "value": "61%"
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 4
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 0
+          },
+          {
+            "type": "Total passes",
+            "value": 571
+          },
+          {
+            "type": "Passes accurate",
+            "value": 504
+          },
+          {
+            "type": "Passes %",
+            "value": "88%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "1.35"
+          },
+          {
+            "type": "goals_prevented",
+            "value": 0
+          }
+        ]
+      }
+    ],
     "Players": [],
     "HeadToHead": []
   }
