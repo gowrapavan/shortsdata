@@ -54,8 +54,8 @@ def fetch_all_matches(league_code, season):
     return []
 
 def process_match(match):
-    home = match.get("homeTeam") or {"id": 0, "name": "TBD", "shortName": "TBD"}
-    away = match.get("awayTeam") or {"id": 0, "name": "TBD", "shortName": "TBD"}
+    home = match.get("homeTeam") or {"id": 0, "name": "TBD", "shortName": "TBD", "crest": None}
+    away = match.get("awayTeam") or {"id": 0, "name": "TBD", "shortName": "TBD", "crest": None}
     score = match.get("score", {}).get("fullTime", {})
     status = match.get("status", "SCHEDULED")
 
@@ -90,6 +90,8 @@ def process_match(match):
         "AwayTeamKey": away.get("shortName") or (away.get("name")[:3] if away.get("name") else "TBD"),
         "HomeTeamName": home.get("name", "TBD"),
         "AwayTeamName": away.get("name", "TBD"),
+        "HomeTeamLogo": home.get("crest"),
+        "AwayTeamLogo": away.get("crest"),
         "HomeTeamScore": home_score,
         "AwayTeamScore": away_score,
         "Result": result,
