@@ -4,7 +4,7 @@ import os
 import unicodedata
 import re
 from datetime import datetime, timedelta
-from difflib import SequenceMatcher
+from difflib import SequenceMatcher  # fuzzy string matching
 
 # ---------------- CONFIG ---------------- #
 API_KEY = "4c67514f5388361ab34343e62c8e13df"
@@ -19,7 +19,7 @@ LEAGUES = {
     "ITSA": 135
 }
 
-# Use GitHub raw URLs for schedules
+# GitHub JSON schedules
 SCHEDULE_URLS = {
     "DEB": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/DEB.json",
     "EPL": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/EPL.json",
@@ -30,6 +30,7 @@ SCHEDULE_URLS = {
 
 TIMEZONE = "Europe/London"
 OUTPUT_DIR = "stats"
+SCHEDULE_DIR = "2026"  # local fallback directory
 FUZZY_THRESHOLD = 0.6
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -37,26 +38,24 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 def format_date(date):
     return date.strftime("%Y-%m-%d")
 
-def fetch_json(url, params=None):
-    """Fetch JSON from API or GitHub."""
-    headers = HEADERS if "api-sports.io" in url else None
+def fetch_json(url, params=None, headers=None):
     res = requests.get(url, headers=headers, params=params)
     res.raise_for_status()
     return res.json()
 
 def fetch_matches_by_date(date_str):
     url = f"{BASE_URL}?date={date_str}&timezone={TIMEZONE}"
-    data = fetch_json(url)
+    data = fetch_json(url, headers=HEADERS)
     return data.get("response", [])
 
 def fetch_fixture_data(fixture_id, data_type):
     url = f"{BASE_URL}/{data_type}?fixture={fixture_id}"
-    data = fetch_json(url)
+    data = fetch_json(url, headers=HEADERS)
     return data.get("response", [])
 
 def fetch_head_to_head(team1_id, team2_id):
     url = f"{BASE_URL}/headtohead?h2h={team1_id}-{team2_id}"
-    data = fetch_json(url)
+    data = fetch_json(url, headers=HEADERS)
     return data.get("response", [])
 
 def normalize_name(name: str) -> str:
@@ -72,14 +71,23 @@ def string_similarity(a, b):
     return SequenceMatcher(None, normalize_name(a), normalize_name(b)).ratio()
 
 def find_game_id(league_name, match_date, home_team, away_team):
+    # Try GitHub JSON first
+    schedule_data = []
     url = SCHEDULE_URLS.get(league_name)
-    if not url:
-        return None
+    if url:
+        try:
+            schedule_data = fetch_json(url)
+        except requests.RequestException:
+            print(f"⚠️ Could not fetch schedule for {league_name} from GitHub, using local fallback.")
 
-    try:
-        schedule_data = fetch_json(url)
-    except requests.HTTPError:
-        print(f"⚠️ Could not fetch schedule for {league_name} from GitHub")
+    # Local fallback
+    if not schedule_data:
+        schedule_file = os.path.join(SCHEDULE_DIR, f"{league_name}.json")
+        if os.path.exists(schedule_file):
+            with open(schedule_file, "r", encoding="utf-8") as f:
+                schedule_data = json.load(f)
+
+    if not schedule_data:
         return None
 
     best_match = None
@@ -101,8 +109,8 @@ def find_game_id(league_name, match_date, home_team, away_team):
             match.get("AwayTeam", "")
         ]
 
-        home_sim = max(string_similarity(home_team, n) for n in sched_home_names if n)
-        away_sim = max(string_similarity(away_team, n) for n in sched_away_names if n)
+        home_sim = max([string_similarity(home_team, n) for n in sched_home_names if n] or [0])
+        away_sim = max([string_similarity(away_team, n) for n in sched_away_names if n] or [0])
         score = (home_sim + away_sim) / 2
 
         if score > best_score:
@@ -116,8 +124,8 @@ def find_game_id(league_name, match_date, home_team, away_team):
 
 # ---------------- MAIN ---------------- #
 def main():
-    # Only yesterday, today, tomorrow (API limitation)
-    for delta_days in [1, 0, -1]:
+    # Yesterday and today
+    for delta_days in [1, 0]:
         target_date = datetime.utcnow() - timedelta(days=delta_days)
         date_str = format_date(target_date)
         print(f"\nFetching matches for {date_str}...")
@@ -154,7 +162,6 @@ def main():
                     print(f"⚠️ No GameId found for {home_team} vs {away_team} on {match_date}, skipping...")
                     continue
 
-                # Skip finished fixtures already stored
                 if fixture_id in existing_data_dict and status == "FT":
                     print(f"Skipping finished fixture {fixture_id} ({home_team} vs {away_team})")
                     continue
@@ -176,11 +183,10 @@ def main():
                     match_obj["Statistics"] = fetch_fixture_data(fixture_id, "statistics")
                     match_obj["Players"] = fetch_fixture_data(fixture_id, "players")
                     match_obj["HeadToHead"] = fetch_head_to_head(home_id, away_id)
-                except requests.HTTPError as e:
+                except requests.RequestException as e:
                     print(f"Error fetching details for fixture {fixture_id}: {e}")
                     continue
 
-                # Add new or update existing
                 existing_data_dict[fixture_id] = match_obj
 
             # Save combined data
