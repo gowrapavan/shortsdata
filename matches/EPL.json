@@ -1231,7 +1231,7 @@
     "RoundName": "Premier League",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 354,
@@ -1242,11 +1242,11 @@
     "AwayTeamName": "Liverpool FC",
     "HomeTeamLogo": "https://crests.football-data.org/354.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 354,
     "Points": {
-      "354": 0,
+      "354": 3,
       "64": 0
     },
     "Goals": []
@@ -1283,7 +1283,7 @@
     "RoundName": "Premier League",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 61,
@@ -1295,11 +1295,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/61.png",
     "AwayTeamLogo": "https://crests.football-data.org/397.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 397,
     "Points": {
       "61": 0,
-      "397": 0
+      "397": 3
     },
     "Goals": []
   },
@@ -1335,7 +1335,7 @@
     "RoundName": "Premier League",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 341,
@@ -1346,12 +1346,12 @@
     "AwayTeamName": "AFC Bournemouth",
     "HomeTeamLogo": "https://crests.football-data.org/341.png",
     "AwayTeamLogo": "https://crests.football-data.org/bournemouth.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "341": 0,
-      "1044": 0
+      "341": 1,
+      "1044": 1
     },
     "Goals": []
   },
@@ -1361,7 +1361,7 @@
     "RoundName": "Premier League",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 65,
@@ -1372,11 +1372,11 @@
     "AwayTeamName": "Burnley FC",
     "HomeTeamLogo": "https://crests.football-data.org/65.png",
     "AwayTeamLogo": "https://crests.football-data.org/328.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 5,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 65,
     "Points": {
-      "65": 0,
+      "65": 3,
       "328": 0
     },
     "Goals": []
@@ -1424,8 +1424,8 @@
     "AwayTeamName": "Sunderland AFC",
     "HomeTeamLogo": "https://crests.football-data.org/351.png",
     "AwayTeamLogo": "https://crests.football-data.org/71.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "351": 0,

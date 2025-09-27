@@ -921,7 +921,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 15,
@@ -934,10 +934,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/4.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 4,
     "Points": {
       "15": 0,
-      "4": 0
+      "4": 3
     },
     "Goals": []
   },
@@ -958,8 +958,8 @@
     "AwayTeamName": "Eintracht Frankfurt",
     "HomeTeamLogo": "https://crests.football-data.org/18.png",
     "AwayTeamLogo": "https://crests.football-data.org/19.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 6,
     "Result": null,
     "Points": {
       "18": 0,
@@ -973,7 +973,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 11,
@@ -986,10 +986,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/721.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 721,
     "Points": {
       "11": 0,
-      "721": 0
+      "721": 3
     },
     "Goals": []
   },
@@ -1025,7 +1025,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 20,
@@ -1038,10 +1038,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/3.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 3,
     "Points": {
       "20": 0,
-      "3": 0
+      "3": 3
     },
     "Goals": []
   },
@@ -1051,7 +1051,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 44,
@@ -1063,10 +1063,10 @@
     "HomeTeamLogo": "https://crests.football-data.org/44.png",
     "AwayTeamLogo": "https://crests.football-data.org/16.png",
     "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 44,
     "Points": {
-      "44": 0,
+      "44": 3,
       "16": 0
     },
     "Goals": []

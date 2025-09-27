@@ -1085,7 +1085,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 525,
@@ -1096,11 +1096,11 @@
     "AwayTeamName": "AS Monaco FC",
     "HomeTeamLogo": "https://crests.football-data.org/525.png",
     "AwayTeamLogo": "https://crests.football-data.org/548.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 525,
     "Points": {
-      "525": 0,
+      "525": 3,
       "548": 0
     },
     "Goals": []
@@ -1148,8 +1148,8 @@
     "AwayTeamName": "FC Nantes",
     "HomeTeamLogo": "https://crests.football-data.org/511.png",
     "AwayTeamLogo": "https://crests.football-data.org/543.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "511": 0,

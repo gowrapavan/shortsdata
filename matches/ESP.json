@@ -1449,7 +1449,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T14:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 78,
@@ -1460,11 +1460,11 @@
     "AwayTeamName": "Real Madrid CF",
     "HomeTeamLogo": "https://crests.football-data.org/78.png",
     "AwayTeamLogo": "https://crests.football-data.org/86.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 5,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 78,
     "Points": {
-      "78": 0,
+      "78": 3,
       "86": 0
     },
     "Goals": []
@@ -1590,8 +1590,8 @@
     "AwayTeamName": "Deportivo Alavés",
     "HomeTeamLogo": "https://crests.football-data.org/89.png",
     "AwayTeamLogo": "https://crests.football-data.org/263.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "89": 0,
