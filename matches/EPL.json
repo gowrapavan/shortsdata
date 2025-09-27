@@ -1242,8 +1242,8 @@
     "AwayTeamName": "Liverpool FC",
     "HomeTeamLogo": "https://crests.football-data.org/354.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "354": 0,
@@ -1257,7 +1257,7 @@
     "RoundName": "Premier League",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T11:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 402,
@@ -1268,11 +1268,11 @@
     "AwayTeamName": "Manchester United FC",
     "HomeTeamLogo": "https://crests.football-data.org/402.png",
     "AwayTeamLogo": "https://crests.football-data.org/66.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 402,
     "Points": {
-      "402": 0,
+      "402": 3,
       "66": 0
     },
     "Goals": []
@@ -1294,8 +1294,8 @@
     "AwayTeamName": "Brighton & Hove Albion FC",
     "HomeTeamLogo": "https://crests.football-data.org/61.png",
     "AwayTeamLogo": "https://crests.football-data.org/397.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "61": 0,
@@ -1346,8 +1346,8 @@
     "AwayTeamName": "AFC Bournemouth",
     "HomeTeamLogo": "https://crests.football-data.org/341.png",
     "AwayTeamLogo": "https://crests.football-data.org/bournemouth.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "341": 0,
@@ -1372,8 +1372,8 @@
     "AwayTeamName": "Burnley FC",
     "HomeTeamLogo": "https://crests.football-data.org/65.png",
     "AwayTeamLogo": "https://crests.football-data.org/328.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "65": 0,
