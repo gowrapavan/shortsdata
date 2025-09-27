@@ -2,6 +2,7 @@ import requests
 import json
 import os
 import time
+from datetime import datetime, timedelta
 
 # ------------------ CONFIG ------------------ #
 API_TOKEN = os.getenv("API_KEY")  # Use GitHub Actions secret
@@ -101,6 +102,10 @@ def process_match(match):
 
 # ------------------ MAIN ------------------ #
 def main():
+    today = datetime.utcnow().date()
+    past_limit = today - timedelta(days=7)
+    future_limit = today + timedelta(days=14)
+
     for comp_name, league_code in COMPETITIONS.items():
         season = 2026 if league_code == "WC" else 2025
         print(f"\n📦 Fetching matches for {comp_name} ({league_code}) season {season}...")
@@ -115,10 +120,26 @@ def main():
         for m in matches:
             match_id = m.get("id")
             status = m.get("status")
+            match_date = None
 
-            # Skip finished matches already in JSON
+            if m.get("utcDate"):
+                try:
+                    match_date = datetime.fromisoformat(m["utcDate"].replace("Z", "+00:00")).date()
+                except ValueError:
+                    pass
+
+            # ✅ Skip matches outside update window
+            if match_date:
+                if status == "FINISHED" and match_date < past_limit:
+                    continue
+                if status != "FINISHED" and match_date > future_limit:
+                    continue
+
+            # ✅ Skip finished matches already stored
             if status == "FINISHED" and match_id in match_map:
-                continue
+                existing = match_map[match_id]
+                if existing["Status"] == "Final" and existing["HomeTeamScore"] is not None:
+                    continue
 
             processed = process_match(m)
             match_map[processed["GameId"]] = processed
