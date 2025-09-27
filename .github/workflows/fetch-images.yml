@@ -2,8 +2,8 @@ name: Fetch Getty Images
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours (adjust as you like)
-  workflow_dispatch:        # allow manual trigger
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
 
 jobs:
   fetch-images:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   # ✅ fetch full history
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -31,4 +33,5 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add images/*.json
           git commit -m "Update images JSON [skip ci]" || echo "No changes to commit"
-          git push
+          git pull --rebase origin main   # ✅ pull latest commits
+          git push origin main
