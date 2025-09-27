@@ -1017,7 +1017,7 @@
     "RoundName": "Serie A",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 104,
@@ -1028,12 +1028,12 @@
     "AwayTeamName": "FC Internazionale Milano",
     "HomeTeamLogo": "https://crests.football-data.org/104.png",
     "AwayTeamLogo": "https://crests.football-data.org/108.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
+    "Result": 108,
     "Points": {
       "104": 0,
-      "108": 0
+      "108": 3
     },
     "Goals": []
   },

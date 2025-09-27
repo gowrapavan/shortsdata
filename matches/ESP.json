@@ -1579,7 +1579,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 89,
@@ -1592,9 +1592,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/263.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 89,
     "Points": {
-      "89": 0,
+      "89": 3,
       "263": 0
     },
     "Goals": []
@@ -1605,7 +1605,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 94,
@@ -1616,11 +1616,11 @@
     "AwayTeamName": "Athletic Club",
     "HomeTeamLogo": "https://crests.football-data.org/94.png",
     "AwayTeamLogo": "https://crests.football-data.org/77.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 94,
     "Points": {
-      "94": 0,
+      "94": 3,
       "77": 0
     },
     "Goals": []

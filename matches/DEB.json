@@ -947,7 +947,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 18,
@@ -958,12 +958,12 @@
     "AwayTeamName": "Eintracht Frankfurt",
     "HomeTeamLogo": "https://crests.football-data.org/18.png",
     "AwayTeamLogo": "https://crests.football-data.org/19.png",
-    "HomeTeamScore": 3,
+    "HomeTeamScore": 4,
     "AwayTeamScore": 6,
-    "Result": null,
+    "Result": 19,
     "Points": {
       "18": 0,
-      "19": 0
+      "19": 3
     },
     "Goals": []
   },

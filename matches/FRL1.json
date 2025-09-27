@@ -1137,7 +1137,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 511,
@@ -1148,12 +1148,12 @@
     "AwayTeamName": "FC Nantes",
     "HomeTeamLogo": "https://crests.football-data.org/511.png",
     "AwayTeamLogo": "https://crests.football-data.org/543.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "511": 0,
-      "543": 0
+      "511": 1,
+      "543": 1
     },
     "Goals": []
   },
@@ -1215,7 +1215,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-09-27",
     "DateTime": "2025-09-27T19:05:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 524,
@@ -1226,11 +1226,11 @@
     "AwayTeamName": "AJ Auxerre",
     "HomeTeamLogo": "https://crests.football-data.org/524.png",
     "AwayTeamLogo": "https://crests.football-data.org/519.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 524,
     "Points": {
-      "524": 0,
+      "524": 3,
       "519": 0
     },
     "Goals": []
