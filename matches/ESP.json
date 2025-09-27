@@ -1345,11 +1345,11 @@
   },
   {
     "GameId": 544267,
-    "RoundId": 6,
+    "RoundId": 7,
     "RoundName": "Primera Division",
     "Date": "2025-09-25",
     "DateTime": "2025-09-25T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1048,
@@ -1358,12 +1358,14 @@
     "AwayTeamKey": "Barça",
     "HomeTeamName": "Real Oviedo",
     "AwayTeamName": "FC Barcelona",
+    "HomeTeamLogo": "https://crests.football-data.org/1048.png",
+    "AwayTeamLogo": "https://crests.football-data.org/81.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 81,
     "Points": {
       "1048": 0,
-      "81": 0
+      "81": 3
     },
     "Goals": []
   },
@@ -1393,11 +1395,11 @@
   },
   {
     "GameId": 544269,
-    "RoundId": 6,
+    "RoundId": 7,
     "RoundName": "Primera Division",
     "Date": "2025-09-25",
     "DateTime": "2025-09-25T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 79,
@@ -1406,12 +1408,14 @@
     "AwayTeamKey": "Elche",
     "HomeTeamName": "CA Osasuna",
     "AwayTeamName": "Elche CF",
+    "HomeTeamLogo": "https://crests.football-data.org/79.png",
+    "AwayTeamLogo": "https://crests.football-data.org/285.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "79": 0,
-      "285": 0
+      "79": 1,
+      "285": 1
     },
     "Goals": []
   },
@@ -1653,7 +1657,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-09-26",
     "DateTime": "2025-09-26T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 298,
@@ -1664,12 +1668,12 @@
     "AwayTeamName": "RCD Espanyol de Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/298.png",
     "AwayTeamLogo": "https://crests.football-data.org/80.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "298": 0,
-      "80": 0
+      "298": 1,
+      "80": 1
     },
     "Goals": []
   },

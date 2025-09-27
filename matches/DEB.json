@@ -869,7 +869,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-09-26",
     "DateTime": "2025-09-26T18:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5,
@@ -880,11 +880,11 @@
     "AwayTeamName": "SV Werder Bremen",
     "HomeTeamLogo": "https://crests.football-data.org/5.png",
     "AwayTeamLogo": "https://crests.football-data.org/12.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 0,
+    "Result": 5,
     "Points": {
-      "5": 0,
+      "5": 3,
       "12": 0
     },
     "Goals": []
