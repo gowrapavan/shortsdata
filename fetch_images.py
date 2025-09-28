@@ -17,21 +17,25 @@ HEADERS = {
                   "(KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
 }
 
+PROXY_URL = "https://tv-stream-proxy.onrender.com/proxy?url="
+
 OUTPUT_DIR = "images"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ---------------- HELPER FUNCTION ---------------- #
 def fetch_images_for_query(query, limit=15):
-    """Fetch Getty image URLs for a search query (try JSON first, fallback regex)."""
-    url = (
+    """Fetch Getty image URLs for a search query via proxy."""
+    target_url = (
         f"https://www.gettyimages.in/search/2/image?family=editorial"
         f"&phrase={query.replace(' ', '%20')}&sort=newest&phraseprocessing=excludenaturallanguage"
     )
+    proxy_request_url = PROXY_URL + target_url
+
     try:
-        response = requests.get(url, headers=HEADERS, timeout=10)
+        response = requests.get(proxy_request_url, headers=HEADERS, timeout=15)
         html = response.text
     except Exception as e:
-        print(f"❌ Failed to fetch images for {query}: {e}")
+        print(f"❌ Failed to fetch images for {query} via proxy: {e}")
         return []
 
     image_urls = []
@@ -84,7 +88,7 @@ for league, json_url in LEAGUE_FILES.items():
     else:
         existing = {}
 
-    # Filter only today's and yesterday's matches
+    # Filter only yesterday's and today's matches
     target_games = [g for g in games if g.get("Date") in (today_str, yesterday_str)]
 
     if not target_games:
