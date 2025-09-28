@@ -70,6 +70,8 @@ IST = timezone(timedelta(hours=5, minutes=30))  # UTC+5:30
 now_ist = datetime.now(IST)
 today_str = now_ist.strftime("%Y-%m-%d")
 yesterday_str = (now_ist - timedelta(days=1)).strftime("%Y-%m-%d")
+tomorrow_str = (now_ist + timedelta(days=1)).strftime("%Y-%m-%d")
+TARGET_DATES = {yesterday_str, today_str, tomorrow_str}
 
 for league, json_url in LEAGUE_FILES.items():
     print(f"\n🔵 Processing {league}...")
@@ -88,11 +90,11 @@ for league, json_url in LEAGUE_FILES.items():
     else:
         existing = {}
 
-    # Filter only yesterday's and today's matches
-    target_games = [g for g in games if g.get("Date") in (today_str, yesterday_str)]
+    # Filter only yesterday, today, and tomorrow matches
+    target_games = [g for g in games if g.get("Date") in TARGET_DATES]
 
     if not target_games:
-        print(f"⚠️ No matches for today or yesterday in {league}")
+        print(f"⚠️ No matches for yesterday, today, or tomorrow in {league}")
         continue
 
     for game in target_games:
