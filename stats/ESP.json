@@ -13278,7 +13278,848 @@
     "Lineups": [],
     "Statistics": [],
     "Players": [],
-    "HeadToHead": []
+    "HeadToHead": [
+      {
+        "fixture": {
+          "id": 203966,
+          "referee": "Carlos Velasco Carballo, Spain",
+          "timezone": "UTC",
+          "date": "2015-03-02T19:45:00+00:00",
+          "timestamp": 1425325500,
+          "periods": {
+            "first": 1425325500,
+            "second": 1425329100
+          },
+          "venue": {
+            "id": null,
+            "name": "Municipal de Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2014,
+          "round": "Regular Season - 25",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": null
+          },
+          "away": {
+            "id": 797,
+            "name": "Elche",
+            "logo": "https://media.api-sports.io/football/teams/797.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204163,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2013-09-29T15:00:00+00:00",
+          "timestamp": 1380466800,
+          "periods": {
+            "first": 1380466800,
+            "second": 1380470400
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio de Balaídos (Vigo)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2013,
+          "round": "Regular Season - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          },
+          "away": {
+            "id": 797,
+            "name": "Elche",
+            "logo": "https://media.api-sports.io/football/teams/797.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 605286,
+          "referee": "Ricardo De Burgos",
+          "timezone": "UTC",
+          "date": "2021-02-12T20:00:00+00:00",
+          "timestamp": 1613160000,
+          "periods": {
+            "first": 1613160000,
+            "second": 1613163600
+          },
+          "venue": {
+            "id": 1467,
+            "name": "Abanca-Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2020,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": true
+          },
+          "away": {
+            "id": 797,
+            "name": "Elche",
+            "logo": "https://media.api-sports.io/football/teams/797.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 721102,
+          "referee": "Mario Melero",
+          "timezone": "UTC",
+          "date": "2022-05-15T17:30:00+00:00",
+          "timestamp": 1652635800,
+          "periods": {
+            "first": 1652635800,
+            "second": 1652639400
+          },
+          "venue": {
+            "id": 1467,
+            "name": "Abanca-Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2021,
+          "round": "Regular Season - 37",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": true
+          },
+          "away": {
+            "id": 797,
+            "name": "Elche",
+            "logo": "https://media.api-sports.io/football/teams/797.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 878245,
+          "referee": "Isidro Díaz de Mera",
+          "timezone": "UTC",
+          "date": "2023-04-26T20:00:00+00:00",
+          "timestamp": 1682539200,
+          "periods": {
+            "first": 1682539200,
+            "second": 1682542800
+          },
+          "venue": {
+            "id": 1467,
+            "name": "Abanca-Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2022,
+          "round": "Regular Season - 31",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": true
+          },
+          "away": {
+            "id": 797,
+            "name": "Elche",
+            "logo": "https://media.api-sports.io/football/teams/797.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1391151,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-05-03T16:00:00+00:00",
+          "timestamp": 1777824000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Abanca-Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2025,
+          "round": "Regular Season - 34",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": null
+          },
+          "away": {
+            "id": 797,
+            "name": "Elche",
+            "logo": "https://media.api-sports.io/football/teams/797.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 203767,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2014-09-26T19:00:00+00:00",
+          "timestamp": 1411758000,
+          "periods": {
+            "first": 1411758000,
+            "second": 1411761600
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Manuel Martínez Valero (Elche)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2014,
+          "round": "Regular Season - 6",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 797,
+            "name": "Elche",
+            "logo": "https://media.api-sports.io/football/teams/797.png",
+            "winner": false
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204351,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2014-03-01T21:00:00+00:00",
+          "timestamp": 1393707600,
+          "periods": {
+            "first": 1393707600,
+            "second": 1393711200
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Manuel Martínez Valero (Elche)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2013,
+          "round": "Regular Season - 26",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 797,
+            "name": "Elche",
+            "logo": "https://media.api-sports.io/football/teams/797.png",
+            "winner": true
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 605154,
+          "referee": "Ricardo De Burgos",
+          "timezone": "UTC",
+          "date": "2020-11-06T20:00:00+00:00",
+          "timestamp": 1604692800,
+          "periods": {
+            "first": 1604692800,
+            "second": 1604696400
+          },
+          "venue": {
+            "id": 1473,
+            "name": "Estadio Manuel Martínez Valero",
+            "city": "Elche"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2020,
+          "round": "Regular Season - 9",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 797,
+            "name": "Elche",
+            "logo": "https://media.api-sports.io/football/teams/797.png",
+            "winner": null
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 720818,
+          "referee": "José Munuera",
+          "timezone": "UTC",
+          "date": "2021-10-03T12:00:00+00:00",
+          "timestamp": 1633262400,
+          "periods": {
+            "first": 1633262400,
+            "second": 1633266000
+          },
+          "venue": {
+            "id": 1473,
+            "name": "Estadio Manuel Martínez Valero",
+            "city": "Elche"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2021,
+          "round": "Regular Season - 8",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 797,
+            "name": "Elche",
+            "logo": "https://media.api-sports.io/football/teams/797.png",
+            "winner": true
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 878098,
+          "referee": "Miguel Ortiz",
+          "timezone": "UTC",
+          "date": "2023-01-06T17:30:00+00:00",
+          "timestamp": 1673026200,
+          "periods": {
+            "first": 1673026200,
+            "second": 1673029800
+          },
+          "venue": {
+            "id": 1473,
+            "name": "Estadio Manuel Martínez Valero",
+            "city": "Elche"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2022,
+          "round": "Regular Season - 16",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 797,
+            "name": "Elche",
+            "logo": "https://media.api-sports.io/football/teams/797.png",
+            "winner": false
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1390882,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-09-28T14:15:00+00:00",
+          "timestamp": 1759068900,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1473,
+            "name": "Estadio Manuel Martínez Valero",
+            "city": "Elche"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2025,
+          "round": "Regular Season - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 797,
+            "name": "Elche",
+            "logo": "https://media.api-sports.io/football/teams/797.png",
+            "winner": null
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
   },
   {
     "StatsId": 1390880,
@@ -13296,7 +14137,2388 @@
     "Lineups": [],
     "Statistics": [],
     "Players": [],
-    "HeadToHead": []
+    "HeadToHead": [
+      {
+        "fixture": {
+          "id": 9508,
+          "referee": "Jose Luis Munuera Montero, Spain",
+          "timezone": "UTC",
+          "date": "2018-05-20T18:45:00+00:00",
+          "timestamp": 1526841900,
+          "periods": {
+            "first": 1526841900,
+            "second": 1526845500
+          },
+          "venue": {
+            "id": 1462,
+            "name": "Camp Nou",
+            "city": "Barcelona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2017,
+          "round": "Regular Season - 38",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 20510,
+          "referee": "Juan Martinez Munuera, Spain",
+          "timezone": "UTC",
+          "date": "2017-04-15T18:45:00+00:00",
+          "timestamp": 1492281900,
+          "periods": {
+            "first": 1492281900,
+            "second": 1492285500
+          },
+          "venue": {
+            "id": 1462,
+            "name": "Camp Nou",
+            "city": "Barcelona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2016,
+          "round": "Regular Season - 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 27460,
+          "referee": "Pablo Gonzales Fuertes, Spain",
+          "timezone": "UTC",
+          "date": "2019-04-20T18:45:00+00:00",
+          "timestamp": 1555785900,
+          "periods": {
+            "first": 1555785900,
+            "second": 1555789500
+          },
+          "venue": {
+            "id": 1462,
+            "name": "Camp Nou",
+            "city": "Barcelona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2018,
+          "round": "Regular Season - 33",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 203458,
+          "referee": "Ignacio Iglesias Villanueva, Spain",
+          "timezone": "UTC",
+          "date": "2015-11-28T15:00:00+00:00",
+          "timestamp": 1448722800,
+          "periods": {
+            "first": 1448722800,
+            "second": 1448726400
+          },
+          "venue": {
+            "id": 1462,
+            "name": "Camp Nou",
+            "city": "Barcelona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2015,
+          "round": "Regular Season - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204069,
+          "referee": "Ignacio Iglesias Villanueva, Spain",
+          "timezone": "UTC",
+          "date": "2015-05-09T16:00:00+00:00",
+          "timestamp": 1431187200,
+          "periods": {
+            "first": 1431187200,
+            "second": 1431190800
+          },
+          "venue": {
+            "id": 1462,
+            "name": "Camp Nou",
+            "city": "Barcelona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2014,
+          "round": "Regular Season - 36",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204147,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2013-09-24T18:00:00+00:00",
+          "timestamp": 1380045600,
+          "periods": {
+            "first": 1380045600,
+            "second": 1380049200
+          },
+          "venue": {
+            "id": null,
+            "name": "Camp Nou (Barcelona)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2013,
+          "round": "Regular Season - 6",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204482,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2012-08-19T19:00:00+00:00",
+          "timestamp": 1345402800,
+          "periods": {
+            "first": 1345402800,
+            "second": 1345406400
+          },
+          "venue": {
+            "id": null,
+            "name": "Camp Nou (Barcelona)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2012,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 4,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 5,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 205071,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2012-02-04T21:00:00+00:00",
+          "timestamp": 1328389200,
+          "periods": {
+            "first": 1328389200,
+            "second": 1328392800
+          },
+          "venue": {
+            "id": null,
+            "name": "Camp Nou (Barcelona)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2011,
+          "round": "Regular Season - 22",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 205370,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2010-12-12T20:00:00+00:00",
+          "timestamp": 1292184000,
+          "periods": {
+            "first": 1292184000,
+            "second": 1292187600
+          },
+          "venue": {
+            "id": null,
+            "name": "Camp Nou (Barcelona)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2010,
+          "round": "Regular Season - 15",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 5,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 214284,
+          "referee": "Juan Martínez",
+          "timezone": "UTC",
+          "date": "2020-03-07T17:30:00+00:00",
+          "timestamp": 1583602200,
+          "periods": {
+            "first": 1583602200,
+            "second": 1583605800
+          },
+          "venue": {
+            "id": 1462,
+            "name": "Camp Nou",
+            "city": "Barcelona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2019,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 605246,
+          "referee": "José Sánchez",
+          "timezone": "UTC",
+          "date": "2020-12-16T20:00:00+00:00",
+          "timestamp": 1608148800,
+          "periods": {
+            "first": 1608148800,
+            "second": 1608152400
+          },
+          "venue": {
+            "id": 1462,
+            "name": "Camp Nou",
+            "city": "Barcelona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2020,
+          "round": "Regular Season - 19",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 720740,
+          "referee": "Alejandro Hernández",
+          "timezone": "UTC",
+          "date": "2021-08-15T18:00:00+00:00",
+          "timestamp": 1629050400,
+          "periods": {
+            "first": 1629050400,
+            "second": 1629054000
+          },
+          "venue": {
+            "id": 1462,
+            "name": "Camp Nou",
+            "city": "Barcelona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2021,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 878284,
+          "referee": "Javier Alberola",
+          "timezone": "UTC",
+          "date": "2023-05-20T19:00:00+00:00",
+          "timestamp": 1684609200,
+          "periods": {
+            "first": 1684609200,
+            "second": 1684612800
+          },
+          "venue": {
+            "id": 18630,
+            "name": "Spotify Camp Nou",
+            "city": "Barcelona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2022,
+          "round": "Regular Season - 35",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": false
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 992756,
+          "referee": "Jesús Gil",
+          "timezone": "UTC",
+          "date": "2023-01-25T20:00:00+00:00",
+          "timestamp": 1674676800,
+          "periods": {
+            "first": 1674676800,
+            "second": 1674680400
+          },
+          "venue": {
+            "id": 18630,
+            "name": "Spotify Camp Nou",
+            "city": "Barcelona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 143,
+          "name": "Copa del Rey",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/143.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2022,
+          "round": "Quarter-finals",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1038294,
+          "referee": "Guillermo Cuadra Fernandez, Spain",
+          "timezone": "UTC",
+          "date": "2024-05-13T19:00:00+00:00",
+          "timestamp": 1715626800,
+          "periods": {
+            "first": 1715626800,
+            "second": 1715630400
+          },
+          "venue": {
+            "id": 19939,
+            "name": "Estadi Olímpic Lluís Companys",
+            "city": "Barcelona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023,
+          "round": "Regular Season - 35",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1208719,
+          "referee": "Alejandro Quintero",
+          "timezone": "UTC",
+          "date": "2025-03-02T15:15:00+00:00",
+          "timestamp": 1740928500,
+          "periods": {
+            "first": 1740928500,
+            "second": 1740932100
+          },
+          "venue": {
+            "id": 19939,
+            "name": "Estadi Olímpic Lluís Companys",
+            "city": "Barcelona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 3
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2024,
+          "round": "Regular Season - 26",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1390880,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-09-28T16:30:00+00:00",
+          "timestamp": 1759077000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 18630,
+            "name": "Camp Nou",
+            "city": "Barcelona"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2025,
+          "round": "Regular Season - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": null
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 9700,
+          "referee": "Jose Luis Gonzalez Gonzalez, Spain",
+          "timezone": "UTC",
+          "date": "2018-01-14T19:45:00+00:00",
+          "timestamp": 1515959100,
+          "periods": {
+            "first": 1515959100,
+            "second": 1515962700
+          },
+          "venue": {
+            "id": null,
+            "name": "Anoeta",
+            "city": "San Sebastian"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2017,
+          "round": "Regular Season - 19",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 20695,
+          "referee": "Jesus Gil Manzano, Spain",
+          "timezone": "UTC",
+          "date": "2016-11-27T19:45:00+00:00",
+          "timestamp": 1480275900,
+          "periods": {
+            "first": 1480275900,
+            "second": 1480279500
+          },
+          "venue": {
+            "id": null,
+            "name": "Anoeta",
+            "city": "San Sebastian"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2016,
+          "round": "Regular Season - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 27175,
+          "referee": "Carlos Del Cerro Grande, Spain",
+          "timezone": "UTC",
+          "date": "2018-09-15T14:15:00+00:00",
+          "timestamp": 1537020900,
+          "periods": {
+            "first": 1537020900,
+            "second": 1537024500
+          },
+          "venue": {
+            "id": null,
+            "name": "Anoeta",
+            "city": "San Sebastian"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2018,
+          "round": "Regular Season - 4",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 203650,
+          "referee": "Ignacio Iglesias Villanueva, Spain",
+          "timezone": "UTC",
+          "date": "2016-04-09T18:30:00+00:00",
+          "timestamp": 1460226600,
+          "periods": {
+            "first": 1460226600,
+            "second": 1460230200
+          },
+          "venue": {
+            "id": null,
+            "name": "Anoeta",
+            "city": "San Sebastian"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2015,
+          "round": "Regular Season - 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 203885,
+          "referee": "Carlos Del Cerro Grande, Spain",
+          "timezone": "UTC",
+          "date": "2015-01-04T20:00:00+00:00",
+          "timestamp": 1420401600,
+          "periods": {
+            "first": 1420401600,
+            "second": 1420405200
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Municipal de Anoeta (Donostia-San Sebastián)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2014,
+          "round": "Regular Season - 17",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204340,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2014-02-22T19:00:00+00:00",
+          "timestamp": 1393095600,
+          "periods": {
+            "first": 1393095600,
+            "second": 1393099200
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Municipal de Anoeta (Donostia-San Sebastián)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2013,
+          "round": "Regular Season - 25",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204669,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2013-01-19T17:00:00+00:00",
+          "timestamp": 1358614800,
+          "periods": {
+            "first": 1358614800,
+            "second": 1358618400
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Municipal de Anoeta (Donostia-San Sebastián)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2012,
+          "round": "Regular Season - 20",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204877,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2011-09-10T16:00:00+00:00",
+          "timestamp": 1315670400,
+          "periods": {
+            "first": 1315670400,
+            "second": 1315674000
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Municipal de Anoeta (Donostia-San Sebastián)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2011,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 205535,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2011-04-30T18:00:00+00:00",
+          "timestamp": 1304186400,
+          "periods": {
+            "first": 1304186400,
+            "second": 1304190000
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Municipal de Anoeta (Donostia-San Sebastián)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2010,
+          "round": "Regular Season - 34",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 214189,
+          "referee": "Javier Alberola",
+          "timezone": "UTC",
+          "date": "2019-12-14T15:00:00+00:00",
+          "timestamp": 1576335600,
+          "periods": {
+            "first": 1576335600,
+            "second": 1576339200
+          },
+          "venue": {
+            "id": 1491,
+            "name": "Reale Arena",
+            "city": "Donostia-San Sebastián"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2019,
+          "round": "Regular Season - 17",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 605341,
+          "referee": "José Munuera",
+          "timezone": "UTC",
+          "date": "2021-03-21T20:00:00+00:00",
+          "timestamp": 1616356800,
+          "periods": {
+            "first": 1616356800,
+            "second": 1616360400
+          },
+          "venue": {
+            "id": 1491,
+            "name": "Reale Arena",
+            "city": "Donostia-San Sebastián"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2020,
+          "round": "Regular Season - 28",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 6
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 6
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 653526,
+          "referee": "Jose Luis Munuera Montero, Spain",
+          "timezone": "UTC",
+          "date": "2021-01-13T20:00:00+00:00",
+          "timestamp": 1610568000,
+          "periods": {
+            "first": 1610568000,
+            "second": 1610571600
+          },
+          "venue": {
+            "id": 1469,
+            "name": "Estadio Nuevo Arcángel",
+            "city": "Córdoba"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "PEN",
+            "elapsed": 120,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 556,
+          "name": "Super Cup",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/556.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2020,
+          "round": "Semi-finals",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": 0,
+            "away": 0
+          },
+          "penalty": {
+            "home": 2,
+            "away": 3
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 721067,
+          "referee": "Carlos del Cerro",
+          "timezone": "UTC",
+          "date": "2022-04-21T19:30:00+00:00",
+          "timestamp": 1650569400,
+          "periods": {
+            "first": 1650569400,
+            "second": 1650573000
+          },
+          "venue": {
+            "id": 1491,
+            "name": "Reale Arena",
+            "city": "Donostia-San Sebastián"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2021,
+          "round": "Regular Season - 33",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 877957,
+          "referee": "José Munuera",
+          "timezone": "UTC",
+          "date": "2022-08-21T20:00:00+00:00",
+          "timestamp": 1661112000,
+          "periods": {
+            "first": 1661112000,
+            "second": 1661115600
+          },
+          "venue": {
+            "id": 1491,
+            "name": "Reale Arena",
+            "city": "Donostia-San Sebastián"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2022,
+          "round": "Regular Season - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1038067,
+          "referee": "Javier Alberola Rojas, Spain",
+          "timezone": "UTC",
+          "date": "2023-11-04T20:00:00+00:00",
+          "timestamp": 1699128000,
+          "periods": {
+            "first": 1699128000,
+            "second": 1699131600
+          },
+          "venue": {
+            "id": 1491,
+            "name": "Reale Arena",
+            "city": "Donostia-San Sebastián"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023,
+          "round": "Regular Season - 12",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1208607,
+          "referee": "Guillermo Cuadra",
+          "timezone": "UTC",
+          "date": "2024-11-10T20:00:00+00:00",
+          "timestamp": 1731268800,
+          "periods": {
+            "first": 1731268800,
+            "second": 1731272400
+          },
+          "venue": {
+            "id": 1491,
+            "name": "Reale Arena",
+            "city": "Donostia-San Sebastián"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2024,
+          "round": "Regular Season - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1391018,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-01-18T17:00:00+00:00",
+          "timestamp": 1768755600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1491,
+            "name": "Reale Arena",
+            "city": "San Sebastian"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2025,
+          "round": "Regular Season - 20",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          },
+          "away": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
   },
   {
     "StatsId": 1390881,
