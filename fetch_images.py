@@ -65,6 +65,7 @@ def fetch_images_for_query(query, limit=15):
 IST = timezone(timedelta(hours=5, minutes=30))  # UTC+5:30
 now_ist = datetime.now(IST)
 today_str = now_ist.strftime("%Y-%m-%d")
+yesterday_str = (now_ist - timedelta(days=1)).strftime("%Y-%m-%d")
 
 for league, json_url in LEAGUE_FILES.items():
     print(f"\n🔵 Processing {league}...")
@@ -83,14 +84,14 @@ for league, json_url in LEAGUE_FILES.items():
     else:
         existing = {}
 
-    # Filter only today's matches
-    todays_games = [g for g in games if g.get("Date") == today_str]
+    # Filter only today's and yesterday's matches
+    target_games = [g for g in games if g.get("Date") in (today_str, yesterday_str)]
 
-    if not todays_games:
-        print(f"⚠️ No matches today for {league}")
+    if not target_games:
+        print(f"⚠️ No matches for today or yesterday in {league}")
         continue
 
-    for game in todays_games:
+    for game in target_games:
         game_id = str(game.get("GameId"))
         game_dt_str = game.get("DateTime")
         if not game_dt_str:
@@ -121,7 +122,7 @@ for league, json_url in LEAGUE_FILES.items():
         away_images = fetch_images_for_query(away_team, limit=15)
         sleep(1)
 
-        # Replace existing images if re-run
+        # Replace existing images if re-run or add new match
         existing[game_id] = {
             "GameId": int(game_id),
             "HomeTeam": home_team,
