@@ -3,14 +3,13 @@ import re
 import json
 import os
 from html import unescape
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from time import sleep
 
 # ---------------- CONFIG ---------------- #
 LEAGUE_FILES = {
     "EPL": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/EPL.json",
     "ESP": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/ESP.json",
-    # Add more leagues if needed
 }
 
 HEADERS = {
@@ -23,79 +22,116 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ---------------- HELPER FUNCTION ---------------- #
 def fetch_images_for_query(query, limit=15):
-    """Fetch Getty image URLs for a search query, limited to N results."""
-    url = f"https://www.gettyimages.in/search/2/image?family=editorial&phrase={query.replace(' ', '%20')}&sort=newest&phraseprocessing=excludenaturallanguage"
+    """Fetch Getty image URLs for a search query (try JSON first, fallback regex)."""
+    url = (
+        f"https://www.gettyimages.in/search/2/image?family=editorial"
+        f"&phrase={query.replace(' ', '%20')}&sort=newest&phraseprocessing=excludenaturallanguage"
+    )
     try:
         response = requests.get(url, headers=HEADERS, timeout=10)
         html = response.text
     except Exception as e:
-        print(f"Failed to fetch images for {query}: {e}")
+        print(f"❌ Failed to fetch images for {query}: {e}")
         return []
 
-    # Extract src or srcSet from <source> or <img> tags
-    pattern = r'<(?:source|img)[^>]+(?:srcSet|src)="([^"]+)"'
-    matches = re.findall(pattern, html)
-    image_urls = [unescape(url) for url in matches]
+    image_urls = []
 
-    # Filter only Getty image URLs
-    filtered_urls = [
-        url for url in image_urls
-        if url.startswith("http") and "/id/" in url and "/photo/" in url
-    ]
+    # -------- Try extracting from inline JSON -------- #
+    try:
+        json_match = re.search(r'{"search":.*?,"gallery":{.*}}', html)
+        if json_match:
+            data = json.loads(unescape(json_match.group(0)))
+            gallery = data.get("gallery", {})
+            items = gallery.get("items", [])
+            for item in items:
+                sizes = item.get("display_sizes", [])
+                for s in sizes:
+                    link = s.get("uri")
+                    if link and link.startswith("http"):
+                        image_urls.append(link)
+            image_urls = list(dict.fromkeys(image_urls))  # dedupe
+    except Exception as e:
+        print(f"⚠️ JSON parse fallback for {query}: {e}")
 
-    # Remove duplicates
-    unique_urls = list(dict.fromkeys(filtered_urls))
+    # -------- Fallback: regex on <img>/<source> tags -------- #
+    if not image_urls:
+        pattern = r'<(?:source|img)[^>]+(?:srcSet|src)="([^"]+)"'
+        matches = re.findall(pattern, html)
+        image_urls = [unescape(u) for u in matches if "gettyimages" in u]
 
-    # Limit results
-    return unique_urls[:limit]
+    return image_urls[:limit]
 
 # ---------------- PROCESS EACH LEAGUE ---------------- #
-today_str = datetime.utcnow().strftime("%Y-%m-%d")  # use UTC for consistency
+IST = timezone(timedelta(hours=5, minutes=30))  # UTC+5:30
+now_ist = datetime.now(IST)
+today_str = now_ist.strftime("%Y-%m-%d")
 
 for league, json_url in LEAGUE_FILES.items():
-    print(f"\nProcessing {league}...")
+    print(f"\n🔵 Processing {league}...")
     try:
         resp = requests.get(json_url, timeout=10)
         games = resp.json()
     except Exception as e:
-        print(f"Failed to fetch {league} JSON: {e}")
+        print(f"❌ Failed to fetch {league} JSON: {e}")
         continue
 
-    league_images = []
+    # Load existing file if available
+    output_file = os.path.join(OUTPUT_DIR, f"{league}.json")
+    if os.path.exists(output_file):
+        with open(output_file, "r") as f:
+            existing = {str(g["GameId"]): g for g in json.load(f)}
+    else:
+        existing = {}
 
     # Filter only today's matches
     todays_games = [g for g in games if g.get("Date") == today_str]
 
     if not todays_games:
-        print(f"No matches today for {league}")
+        print(f"⚠️ No matches today for {league}")
         continue
 
     for game in todays_games:
-        game_id = game.get("GameId")
+        game_id = str(game.get("GameId"))
+        game_dt_str = game.get("DateTime")
+        if not game_dt_str:
+            continue
+
+        # Convert DateTime (UTC from JSON) to IST
+        try:
+            dt_utc = datetime.fromisoformat(game_dt_str.replace("Z", "+00:00"))
+            dt_ist = dt_utc.astimezone(IST)
+        except Exception as e:
+            print(f"⚠️ Failed to parse DateTime for Game {game_id}: {e}")
+            continue
+
+        # Only proceed if scheduled time has already passed in IST
+        if now_ist <= dt_ist:
+            print(f"⏳ Skipping {game['HomeTeamName']} vs {game['AwayTeamName']} (not started yet)")
+            continue
+
         home_team = game.get("HomeTeamName")
         away_team = game.get("AwayTeamName")
         if not home_team or not away_team:
             continue
 
-        print(f"Fetching images for: {home_team} and {away_team}")
+        print(f"📸 Fetching images for: {home_team} vs {away_team}")
 
-        # Fetch images separately for both teams
         home_images = fetch_images_for_query(home_team, limit=15)
-        sleep(1)  # avoid rate limiting
+        sleep(1)
         away_images = fetch_images_for_query(away_team, limit=15)
         sleep(1)
 
-        league_images.append({
-            "GameId": game_id,
+        # Replace existing images if re-run
+        existing[game_id] = {
+            "GameId": int(game_id),
             "HomeTeam": home_team,
             "AwayTeam": away_team,
             "HomeTeamImages": home_images,
             "AwayTeamImages": away_images
-        })
+        }
 
-    # Save league JSON
-    output_file = os.path.join(OUTPUT_DIR, f"{league}.json")
+    # Save merged results
     with open(output_file, "w") as f:
-        json.dump(league_images, f, indent=2)
+        json.dump(list(existing.values()), f, indent=2)
 
-    print(f"{league} images saved to {output_file}")
+    print(f"✅ {league} images updated → {output_file}")
