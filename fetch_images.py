@@ -10,6 +10,10 @@ from time import sleep
 LEAGUE_FILES = {
     "EPL": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/EPL.json",
     "ESP": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/ESP.json",
+    "FRL1": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/FRL1.json",
+    "ITSA": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/ITSA.json",
+    "DEB": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/DEB.json",
+
 }
 
 HEADERS = {
@@ -17,61 +21,40 @@ HEADERS = {
                   "(KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
 }
 
-PROXY_URL = "https://tv-stream-proxy.onrender.com/proxy?url="
-
 OUTPUT_DIR = "images"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+HOME_LIMIT = 20
+AWAY_LIMIT = 20
+FETCH_LIMIT = 60  # fetch more to ensure uniqueness
 
 # ---------------- HELPER FUNCTION ---------------- #
-def fetch_images_for_query(query, limit=15):
-    """Fetch Getty image URLs for a search query via proxy."""
-    target_url = (
-        f"https://www.gettyimages.in/search/2/image?family=editorial"
-        f"&phrase={query.replace(' ', '%20')}&sort=newest&phraseprocessing=excludenaturallanguage"
-    )
-    proxy_request_url = PROXY_URL + target_url
+def fetch_images_for_query(query, limit=FETCH_LIMIT):
+    """Fetch Getty image URLs for a search query."""
+    query_encoded = query.replace(" ", "%20")
+    url = f"https://www.gettyimages.in/search/2/image?family=editorial&phrase={query_encoded}&sort=newest&phraseprocessing=excludenaturallanguage"
 
     try:
-        response = requests.get(proxy_request_url, headers=HEADERS, timeout=15)
+        response = requests.get(url, headers=HEADERS, timeout=10)
         html = response.text
     except Exception as e:
-        print(f"❌ Failed to fetch images for {query} via proxy: {e}")
+        print(f"❌ Failed to fetch images for '{query}': {e}")
         return []
 
-    image_urls = []
+    # Extract <img> and <source> URLs from HTML
+    pattern = r'<(?:source|img)[^>]+(?:srcSet|src)="([^"]+)"'
+    matches = re.findall(pattern, html)
+    image_urls = [unescape(u) for u in matches if "gettyimages" in u]
 
-    # -------- Try extracting from inline JSON -------- #
-    try:
-        json_match = re.search(r'{"search":.*?,"gallery":{.*}}', html)
-        if json_match:
-            data = json.loads(unescape(json_match.group(0)))
-            gallery = data.get("gallery", {})
-            items = gallery.get("items", [])
-            for item in items:
-                sizes = item.get("display_sizes", [])
-                for s in sizes:
-                    link = s.get("uri")
-                    if link and link.startswith("http"):
-                        image_urls.append(link)
-            image_urls = list(dict.fromkeys(image_urls))  # dedupe
-    except Exception as e:
-        print(f"⚠️ JSON parse fallback for {query}: {e}")
-
-    # -------- Fallback: regex on <img>/<source> tags -------- #
-    if not image_urls:
-        pattern = r'<(?:source|img)[^>]+(?:srcSet|src)="([^"]+)"'
-        matches = re.findall(pattern, html)
-        image_urls = [unescape(u) for u in matches if "gettyimages" in u]
-
-    return image_urls[:limit]
+    # Deduplicate and limit
+    return list(dict.fromkeys(image_urls))[:limit]
 
 # ---------------- PROCESS EACH LEAGUE ---------------- #
-IST = timezone(timedelta(hours=5, minutes=30))  # UTC+5:30
+IST = timezone(timedelta(hours=5, minutes=30))
 now_ist = datetime.now(IST)
+
 today_str = now_ist.strftime("%Y-%m-%d")
 yesterday_str = (now_ist - timedelta(days=1)).strftime("%Y-%m-%d")
-tomorrow_str = (now_ist + timedelta(days=1)).strftime("%Y-%m-%d")
-TARGET_DATES = {yesterday_str, today_str, tomorrow_str}
+TARGET_DATES = {yesterday_str, today_str}
 
 for league, json_url in LEAGUE_FILES.items():
     print(f"\n🔵 Processing {league}...")
@@ -82,7 +65,6 @@ for league, json_url in LEAGUE_FILES.items():
         print(f"❌ Failed to fetch {league} JSON: {e}")
         continue
 
-    # Load existing file if available
     output_file = os.path.join(OUTPUT_DIR, f"{league}.json")
     if os.path.exists(output_file):
         with open(output_file, "r") as f:
@@ -90,11 +72,10 @@ for league, json_url in LEAGUE_FILES.items():
     else:
         existing = {}
 
-    # Filter only yesterday, today, and tomorrow matches
     target_games = [g for g in games if g.get("Date") in TARGET_DATES]
 
     if not target_games:
-        print(f"⚠️ No matches for yesterday, today, or tomorrow in {league}")
+        print(f"⚠️ No matches for yesterday or today in {league}")
         continue
 
     for game in target_games:
@@ -103,7 +84,6 @@ for league, json_url in LEAGUE_FILES.items():
         if not game_dt_str:
             continue
 
-        # Convert DateTime (UTC from JSON) to IST
         try:
             dt_utc = datetime.fromisoformat(game_dt_str.replace("Z", "+00:00"))
             dt_ist = dt_utc.astimezone(IST)
@@ -111,9 +91,8 @@ for league, json_url in LEAGUE_FILES.items():
             print(f"⚠️ Failed to parse DateTime for Game {game_id}: {e}")
             continue
 
-        # Only proceed if scheduled time has already passed in IST
         if now_ist <= dt_ist:
-            print(f"⏳ Skipping {game['HomeTeamName']} vs {game['AwayTeamName']} (not started yet)")
+            print(f"⏳ Skipping {game.get('HomeTeamName')} vs {game.get('AwayTeamName')} (not started yet)")
             continue
 
         home_team = game.get("HomeTeamName")
@@ -123,21 +102,31 @@ for league, json_url in LEAGUE_FILES.items():
 
         print(f"📸 Fetching images for: {home_team} vs {away_team}")
 
-        home_images = fetch_images_for_query(home_team, limit=15)
-        sleep(1)
-        away_images = fetch_images_for_query(away_team, limit=15)
-        sleep(1)
+        # Fetch images
+        home_images_all = fetch_images_for_query(home_team)
+        home_images = home_images_all[:HOME_LIMIT]
 
-        # Replace existing images if re-run or add new match
+        away_images_all = fetch_images_for_query(away_team)
+        # Remove duplicates with home images
+        away_images_unique = [img for img in away_images_all if img not in home_images]
+        away_images = away_images_unique[:AWAY_LIMIT]
+
+        # If not enough images, warn
+        if len(away_images) < AWAY_LIMIT:
+            print(f"⚠️ Only {len(away_images)} unique away images found for {away_team}")
+
+        # Add to existing
         existing[game_id] = {
             "GameId": int(game_id),
             "HomeTeam": home_team,
             "AwayTeam": away_team,
             "HomeTeamImages": home_images,
-            "AwayTeamImages": away_images
+            "AwayTeamImages": away_images,
+            "MatchDateTime": game_dt_str,
+            "MatchDateTime_IST": dt_ist.isoformat()
         }
+        sleep(1)
 
-    # Save merged results
     with open(output_file, "w") as f:
         json.dump(list(existing.values()), f, indent=2)
 
