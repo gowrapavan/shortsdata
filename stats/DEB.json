@@ -11182,7 +11182,1618 @@
     "Lineups": [],
     "Statistics": [],
     "Players": [],
-    "HeadToHead": []
+    "HeadToHead": [
+      {
+        "fixture": {
+          "id": 11002,
+          "referee": "Sören Storks, Germany",
+          "timezone": "UTC",
+          "date": "2018-03-04T14:30:00+00:00",
+          "timestamp": 1520173800,
+          "periods": {
+            "first": 1520173800,
+            "second": 1520177400
+          },
+          "venue": {
+            "id": null,
+            "name": "RheinEnergieStadion",
+            "city": "Cologne"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2017,
+          "round": "Regular Season - 25",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          },
+          "away": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 194721,
+          "referee": "Manuel Gräfe, Germany",
+          "timezone": "UTC",
+          "date": "2016-01-23T14:30:00+00:00",
+          "timestamp": 1453559400,
+          "periods": {
+            "first": 1453559400,
+            "second": 1453563000
+          },
+          "venue": {
+            "id": null,
+            "name": "RheinEnergieStadion",
+            "city": "Cologne"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2015,
+          "round": "Regular Season - 18",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          },
+          "away": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 195042,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2015-02-04T19:00:00+00:00",
+          "timestamp": 1423076400,
+          "periods": {
+            "first": 1423076400,
+            "second": 1423080000
+          },
+          "venue": {
+            "id": null,
+            "name": "RheinEnergieStadion (Köln)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2014,
+          "round": "Regular Season - 19",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          },
+          "away": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 196074,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2012-04-21T13:30:00+00:00",
+          "timestamp": 1335015000,
+          "periods": {
+            "first": 1335015000,
+            "second": 1335018600
+          },
+          "venue": {
+            "id": null,
+            "name": "RheinEnergieStadion (Köln)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2011,
+          "round": "Regular Season - 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          },
+          "away": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 196359,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2011-04-16T13:30:00+00:00",
+          "timestamp": 1302960600,
+          "periods": {
+            "first": 1302960600,
+            "second": 1302964200
+          },
+          "venue": {
+            "id": null,
+            "name": "RheinEnergieStadion (Köln)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2010,
+          "round": "Regular Season - 30",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          },
+          "away": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 587371,
+          "referee": "B. Cortus",
+          "timezone": "UTC",
+          "date": "2021-02-20T14:30:00+00:00",
+          "timestamp": 1613831400,
+          "periods": {
+            "first": 1613831400,
+            "second": 1613835000
+          },
+          "venue": {
+            "id": 731,
+            "name": "RheinEnergieStadion",
+            "city": "Köln"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2020,
+          "round": "Regular Season - 22",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          },
+          "away": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 719499,
+          "referee": "B. Dankert",
+          "timezone": "UTC",
+          "date": "2021-12-19T16:30:00+00:00",
+          "timestamp": 1639931400,
+          "periods": {
+            "first": 1639931400,
+            "second": 1639935000
+          },
+          "venue": {
+            "id": 731,
+            "name": "RheinEnergieStadion",
+            "city": "Köln"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2021,
+          "round": "Regular Season - 17",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": true
+          },
+          "away": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871194,
+          "referee": "H. Osmers",
+          "timezone": "UTC",
+          "date": "2022-08-28T13:30:00+00:00",
+          "timestamp": 1661693400,
+          "periods": {
+            "first": 1661693400,
+            "second": 1661697000
+          },
+          "venue": {
+            "id": 731,
+            "name": "RheinEnergieStadion",
+            "city": "Köln"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 4",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          },
+          "away": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 977070,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2022-11-19T21:00:00+00:00",
+          "timestamp": 1668891600,
+          "periods": {
+            "first": 1668891600,
+            "second": 1668895200
+          },
+          "venue": {
+            "id": 11535,
+            "name": "Q2 Stadium",
+            "city": "Austin, Texas"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2022,
+          "round": "Club Friendlies 3",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          },
+          "away": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1048930,
+          "referee": "T. Stieler",
+          "timezone": "UTC",
+          "date": "2023-09-30T13:30:00+00:00",
+          "timestamp": 1696080600,
+          "periods": {
+            "first": 1696080600,
+            "second": 1696084200
+          },
+          "venue": {
+            "id": 20736,
+            "name": "Cologne Stadium",
+            "city": "Köln"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2023,
+          "round": "Regular Season - 6",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          },
+          "away": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1388346,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-09-28T15:30:00+00:00",
+          "timestamp": 1759073400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "RheinEnergieSTADION",
+            "city": "Cologne"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2025,
+          "round": "Regular Season - 5",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          },
+          "away": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 11162,
+          "referee": "Benjamin Cortus, Germany",
+          "timezone": "UTC",
+          "date": "2017-10-13T18:30:00+00:00",
+          "timestamp": 1507919400,
+          "periods": {
+            "first": 1507919400,
+            "second": 1507923000
+          },
+          "venue": {
+            "id": 750,
+            "name": "Mercedes-Benz Arena",
+            "city": "Stuttgart"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2017,
+          "round": "Regular Season - 8",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": true
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 194575,
+          "referee": "Wolfgang Stark, Germany",
+          "timezone": "UTC",
+          "date": "2015-08-16T15:30:00+00:00",
+          "timestamp": 1439739000,
+          "periods": {
+            "first": 1439739000,
+            "second": 1439742600
+          },
+          "venue": {
+            "id": 750,
+            "name": "Mercedes-Benz Arena",
+            "city": "Stuttgart"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2015,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": false
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 194886,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2014-08-30T13:30:00+00:00",
+          "timestamp": 1409405400,
+          "periods": {
+            "first": 1409405400,
+            "second": 1409409000
+          },
+          "venue": {
+            "id": null,
+            "name": "Mercedes-Benz-Arena (Stuttgart)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2014,
+          "round": "Regular Season - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": false
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 195923,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2011-12-03T17:30:00+00:00",
+          "timestamp": 1322933400,
+          "periods": {
+            "first": 1322933400,
+            "second": 1322937000
+          },
+          "venue": {
+            "id": null,
+            "name": "Mercedes-Benz-Arena (Stuttgart)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2011,
+          "round": "Regular Season - 15",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": null
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 196212,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2010-11-21T14:30:00+00:00",
+          "timestamp": 1290349800,
+          "periods": {
+            "first": 1290349800,
+            "second": 1290353400
+          },
+          "venue": {
+            "id": null,
+            "name": "Mercedes-Benz-Arena (Stuttgart)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2010,
+          "round": "Regular Season - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": false
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 559942,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2012-12-19T19:30:00+00:00",
+          "timestamp": 1355945400,
+          "periods": {
+            "first": 1355945400,
+            "second": 1355949000
+          },
+          "venue": {
+            "id": null,
+            "name": "Mercedes-Benz-Arena",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 81,
+          "name": "DFB Pokal",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/81.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2012,
+          "round": "8th Finals",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": true
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 587220,
+          "referee": "G. Winkmann",
+          "timezone": "UTC",
+          "date": "2020-10-23T18:30:00+00:00",
+          "timestamp": 1603477800,
+          "periods": {
+            "first": 1603477800,
+            "second": 1603481400
+          },
+          "venue": {
+            "id": 750,
+            "name": "Mercedes-Benz-Arena",
+            "city": "Stuttgart"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2020,
+          "round": "Regular Season - 5",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": null
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 719651,
+          "referee": "R. Schröder",
+          "timezone": "UTC",
+          "date": "2022-05-14T13:30:00+00:00",
+          "timestamp": 1652535000,
+          "periods": {
+            "first": 1652535000,
+            "second": 1652538600
+          },
+          "venue": {
+            "id": 750,
+            "name": "Mercedes-Benz-Arena",
+            "city": "Stuttgart"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2021,
+          "round": "Regular Season - 34",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": true
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 788049,
+          "referee": "D. Aytekin",
+          "timezone": "UTC",
+          "date": "2021-10-27T18:45:00+00:00",
+          "timestamp": 1635360300,
+          "periods": {
+            "first": 1635360300,
+            "second": 1635363900
+          },
+          "venue": {
+            "id": 750,
+            "name": "Mercedes-Benz-Arena",
+            "city": "Stuttgart"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 81,
+          "name": "DFB Pokal",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/81.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2021,
+          "round": "2nd Round",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": false
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871352,
+          "referee": "B. Cortus",
+          "timezone": "UTC",
+          "date": "2023-02-18T14:30:00+00:00",
+          "timestamp": 1676730600,
+          "periods": {
+            "first": 1676730600,
+            "second": 1676734200
+          },
+          "venue": {
+            "id": 750,
+            "name": "Mercedes-Benz-Arena",
+            "city": "Stuttgart"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 21",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": true
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1049087,
+          "referee": "P. Ittrich",
+          "timezone": "UTC",
+          "date": "2024-02-24T14:30:00+00:00",
+          "timestamp": 1708785000,
+          "periods": {
+            "first": 1708785000,
+            "second": 1708788600
+          },
+          "venue": {
+            "id": 20739,
+            "name": "Stuttgart Arena",
+            "city": "Stuttgart"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2023,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": null
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1388504,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-02-14T14:30:00+00:00",
+          "timestamp": 1771079400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "MHPArena",
+            "city": "Stuttgart"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2025,
+          "round": "Regular Season - 22",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 172,
+            "name": "VfB Stuttgart",
+            "logo": "https://media.api-sports.io/football/teams/172.png",
+            "winner": null
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
   },
   {
     "StatsId": 1388351,
@@ -11200,6 +12811,287 @@
     "Lineups": [],
     "Statistics": [],
     "Players": [],
-    "HeadToHead": []
+    "HeadToHead": [
+      {
+        "fixture": {
+          "id": 2942,
+          "referee": "Frank Willenborg, Germany",
+          "timezone": "UTC",
+          "date": "2018-11-26T19:30:00+00:00",
+          "timestamp": 1543260600,
+          "periods": {
+            "first": 1543260600,
+            "second": 1543264200
+          },
+          "venue": {
+            "id": 720,
+            "name": "Volksparkstadion",
+            "city": "Hamburg"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 79,
+          "name": "2. Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/79.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2018,
+          "round": "Regular Season - 14",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 175,
+            "name": "Hamburger SV",
+            "logo": "https://media.api-sports.io/football/teams/175.png",
+            "winner": null
+          },
+          "away": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1388501,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-02-14T14:30:00+00:00",
+          "timestamp": 1771079400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 720,
+            "name": "Volksparkstadion",
+            "city": "Hamburg"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2025,
+          "round": "Regular Season - 22",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 175,
+            "name": "Hamburger SV",
+            "logo": "https://media.api-sports.io/football/teams/175.png",
+            "winner": null
+          },
+          "away": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 3100,
+          "referee": "Sascha Stegemann, Germany",
+          "timezone": "UTC",
+          "date": "2019-04-28T11:30:00+00:00",
+          "timestamp": 1556451000,
+          "periods": {
+            "first": 1556451000,
+            "second": 1556454600
+          },
+          "venue": {
+            "id": null,
+            "name": "An der Alten Försterei",
+            "city": "Berlin"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 79,
+          "name": "2. Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/79.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2018,
+          "round": "Regular Season - 31",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png",
+            "winner": true
+          },
+          "away": {
+            "id": 175,
+            "name": "Hamburger SV",
+            "logo": "https://media.api-sports.io/football/teams/175.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1388351,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-09-28T17:30:00+00:00",
+          "timestamp": 1759080600,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 748,
+            "name": "Stadion An der Alten Försterei",
+            "city": "Berlin"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2025,
+          "round": "Regular Season - 5",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 182,
+            "name": "Union Berlin",
+            "logo": "https://media.api-sports.io/football/teams/182.png",
+            "winner": null
+          },
+          "away": {
+            "id": 175,
+            "name": "Hamburger SV",
+            "logo": "https://media.api-sports.io/football/teams/175.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
   }
 ]
