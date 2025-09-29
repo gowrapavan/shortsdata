@@ -13332,6 +13332,147 @@
     "Lineups": [],
     "Statistics": [],
     "Players": [],
-    "HeadToHead": []
+    "HeadToHead": [
+      {
+        "fixture": {
+          "id": 1390887,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-09-29T19:00:00+00:00",
+          "timestamp": 1759172400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1497,
+            "name": "Estadio de Mestalla",
+            "city": "Valencia"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2025,
+          "round": "Regular Season - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 532,
+            "name": "Valencia",
+            "logo": "https://media.api-sports.io/football/teams/532.png",
+            "winner": null
+          },
+          "away": {
+            "id": 718,
+            "name": "Oviedo",
+            "logo": "https://media.api-sports.io/football/teams/718.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1391098,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-03-15T17:00:00+00:00",
+          "timestamp": 1773594000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 1490,
+            "name": "Estadio Nuevo Carlos Tartiere",
+            "city": "Oviedo"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2025,
+          "round": "Regular Season - 28",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 718,
+            "name": "Oviedo",
+            "logo": "https://media.api-sports.io/football/teams/718.png",
+            "winner": null
+          },
+          "away": {
+            "id": 532,
+            "name": "Valencia",
+            "logo": "https://media.api-sports.io/football/teams/532.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
   }
 ]
