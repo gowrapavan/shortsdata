@@ -1316,6 +1316,1407 @@
     "Lineups": [],
     "Statistics": [],
     "Players": [],
-    "HeadToHead": []
+    "HeadToHead": [
+      {
+        "fixture": {
+          "id": 8723,
+          "referee": "Marco Guida, Italy",
+          "timezone": "UTC",
+          "date": "2018-04-18T18:45:00+00:00",
+          "timestamp": 1524077100,
+          "periods": {
+            "first": 1524077100,
+            "second": 1524080700
+          },
+          "venue": {
+            "id": null,
+            "name": "Marc'Antonio Bentegodi",
+            "city": "Verona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2017,
+          "round": "Regular Season - 33",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": false
+          },
+          "away": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 196567,
+          "referee": "Marco Guida, Italy",
+          "timezone": "UTC",
+          "date": "2015-12-20T14:00:00+00:00",
+          "timestamp": 1450620000,
+          "periods": {
+            "first": 1450620000,
+            "second": 1450623600
+          },
+          "venue": {
+            "id": null,
+            "name": "Marc'Antonio Bentegodi",
+            "city": "Verona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2015,
+          "round": "Regular Season - 17",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": null
+          },
+          "away": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 197100,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2015-04-26T13:00:00+00:00",
+          "timestamp": 1430053200,
+          "periods": {
+            "first": 1430053200,
+            "second": 1430056800
+          },
+          "venue": {
+            "id": null,
+            "name": "Stadio Marc'Antonio Bentegodi (Verona)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2014,
+          "round": "Regular Season - 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": true
+          },
+          "away": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 197187,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2013-09-15T13:00:00+00:00",
+          "timestamp": 1379250000,
+          "periods": {
+            "first": 1379250000,
+            "second": 1379253600
+          },
+          "venue": {
+            "id": null,
+            "name": "Stadio Marc'Antonio Bentegodi (Verona)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2013,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": true
+          },
+          "away": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 232608,
+          "referee": "L. Pairetto",
+          "timezone": "UTC",
+          "date": "2019-10-25T18:45:00+00:00",
+          "timestamp": 1572029100,
+          "periods": {
+            "first": 1572029100,
+            "second": 1572032700
+          },
+          "venue": {
+            "id": 890,
+            "name": "Stadio Marc'Antonio Bentegodi",
+            "city": "Verona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2019,
+          "round": "Regular Season - 9",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": false
+          },
+          "away": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 608614,
+          "referee": "D. Chiffi",
+          "timezone": "UTC",
+          "date": "2020-11-22T14:00:00+00:00",
+          "timestamp": 1606053600,
+          "periods": {
+            "first": 1606053600,
+            "second": 1606057200
+          },
+          "venue": {
+            "id": 890,
+            "name": "Stadio Marc'Antonio Bentegodi",
+            "city": "Verona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2020,
+          "round": "Regular Season - 8",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": false
+          },
+          "away": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 731587,
+          "referee": "M. Volpi",
+          "timezone": "UTC",
+          "date": "2021-08-21T16:30:00+00:00",
+          "timestamp": 1629563400,
+          "periods": {
+            "first": 1629563400,
+            "second": 1629567000
+          },
+          "venue": {
+            "id": 890,
+            "name": "Stadio Marc'Antonio Bentegodi",
+            "city": "Verona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2021,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": false
+          },
+          "away": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 882062,
+          "referee": "F. Fourneau",
+          "timezone": "UTC",
+          "date": "2023-04-08T16:30:00+00:00",
+          "timestamp": 1680971400,
+          "periods": {
+            "first": 1680971400,
+            "second": 1680975000
+          },
+          "venue": {
+            "id": 890,
+            "name": "Stadio Marc'Antonio Bentegodi",
+            "city": "Verona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2022,
+          "round": "Regular Season - 29",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": true
+          },
+          "away": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1052516,
+          "referee": "F. Maresca",
+          "timezone": "UTC",
+          "date": "2024-03-03T11:30:00+00:00",
+          "timestamp": 1709465400,
+          "periods": {
+            "first": 1709465400,
+            "second": 1709469000
+          },
+          "venue": {
+            "id": 890,
+            "name": "Stadio Marcantonio Bentegodi",
+            "city": "Verona"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2023,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": true
+          },
+          "away": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1377923,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-03T18:45:00+00:00",
+          "timestamp": 1759517100,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 0,
+            "name": "Stadio Marcantonio Bentegodi",
+            "city": "Verona"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 6",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": null
+          },
+          "away": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 8916,
+          "referee": "Paolo Valeri, Italy",
+          "timezone": "UTC",
+          "date": "2017-11-25T17:00:00+00:00",
+          "timestamp": 1511629200,
+          "periods": {
+            "first": 1511629200,
+            "second": 1511632800
+          },
+          "venue": {
+            "id": 935,
+            "name": "Mapei Stadium – Città del Tricolore",
+            "city": "Reggio Emilia"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2017,
+          "round": "Regular Season - 14",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": false
+          },
+          "away": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 196758,
+          "referee": "Claudio Gavillucci, Italy",
+          "timezone": "UTC",
+          "date": "2016-05-01T13:00:00+00:00",
+          "timestamp": 1462107600,
+          "periods": {
+            "first": 1462107600,
+            "second": 1462111200
+          },
+          "venue": {
+            "id": 935,
+            "name": "Mapei Stadium – Città del Tricolore",
+            "city": "Reggio Emilia"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2015,
+          "round": "Regular Season - 36",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": true
+          },
+          "away": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 196903,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2014-11-29T17:00:00+00:00",
+          "timestamp": 1417280400,
+          "periods": {
+            "first": 1417280400,
+            "second": 1417284000
+          },
+          "venue": {
+            "id": null,
+            "name": "Stadio Città del Tricolore (Reggio Emilia)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2014,
+          "round": "Regular Season - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": true
+          },
+          "away": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 197376,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2014-02-02T14:00:00+00:00",
+          "timestamp": 1391349600,
+          "periods": {
+            "first": 1391349600,
+            "second": 1391353200
+          },
+          "venue": {
+            "id": null,
+            "name": "Stadio Città del Tricolore (Reggio Emilia)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2013,
+          "round": "Regular Season - 22",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": false
+          },
+          "away": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 232798,
+          "referee": "A. Giua",
+          "timezone": "UTC",
+          "date": "2020-06-28T17:30:00+00:00",
+          "timestamp": 1593365400,
+          "periods": {
+            "first": 1593365400,
+            "second": 1593369000
+          },
+          "venue": {
+            "id": 935,
+            "name": "MAPEI Stadium - Città del Tricolore",
+            "city": "Reggio nell'Emilia"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2019,
+          "round": "Regular Season - 28",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": null
+          },
+          "away": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 608804,
+          "referee": "A. Prontera",
+          "timezone": "UTC",
+          "date": "2021-03-13T14:00:00+00:00",
+          "timestamp": 1615644000,
+          "periods": {
+            "first": 1615644000,
+            "second": 1615647600
+          },
+          "venue": {
+            "id": 935,
+            "name": "MAPEI Stadium - Città del Tricolore",
+            "city": "Reggio nell'Emilia"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2020,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": true
+          },
+          "away": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 731802,
+          "referee": "A. Prontera",
+          "timezone": "UTC",
+          "date": "2022-01-16T11:30:00+00:00",
+          "timestamp": 1642332600,
+          "periods": {
+            "first": 1642332600,
+            "second": 1642336200
+          },
+          "venue": {
+            "id": 935,
+            "name": "MAPEI Stadium - Città del Tricolore",
+            "city": "Reggio nell'Emilia"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2021,
+          "round": "Regular Season - 22",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": false
+          },
+          "away": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 881888,
+          "referee": "A. Santoro",
+          "timezone": "UTC",
+          "date": "2022-10-24T18:45:00+00:00",
+          "timestamp": 1666637100,
+          "periods": {
+            "first": 1666637100,
+            "second": 1666640700
+          },
+          "venue": {
+            "id": 935,
+            "name": "MAPEI Stadium - Città del Tricolore",
+            "city": "Reggio nell'Emilia"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2022,
+          "round": "Regular Season - 11",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": true
+          },
+          "away": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1052280,
+          "referee": "M. Piccinini",
+          "timezone": "UTC",
+          "date": "2023-09-01T16:30:00+00:00",
+          "timestamp": 1693585800,
+          "periods": {
+            "first": 1693585800,
+            "second": 1693589400
+          },
+          "venue": {
+            "id": 935,
+            "name": "MAPEI Stadium - Città del Tricolore",
+            "city": "Reggio Emilia"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2023,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": true
+          },
+          "away": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1378123,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-02-22T14:00:00+00:00",
+          "timestamp": 1771768800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 0,
+            "name": "MAPEI Stadium - Città del Tricolore",
+            "city": "Reggio Emilia"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 135,
+          "name": "Serie A",
+          "country": "Italy",
+          "logo": "https://media.api-sports.io/football/leagues/135.png",
+          "flag": "https://media.api-sports.io/flags/it.svg",
+          "season": 2025,
+          "round": "Regular Season - 26",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png",
+            "winner": null
+          },
+          "away": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
   }
 ]
