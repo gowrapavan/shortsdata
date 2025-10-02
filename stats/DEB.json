@@ -11201,5 +11201,1844 @@
     "Statistics": [],
     "Players": [],
     "HeadToHead": []
+  },
+  {
+    "StatsId": 1388359,
+    "GameId": 540458,
+    "Date": "2025-10-03T19:30:00+01:00",
+    "Status": "NS",
+    "Round": "Regular Season - 6",
+    "HomeTeam": "1899 Hoffenheim",
+    "AwayTeam": "1.FC Köln",
+    "Score": {
+      "Home": null,
+      "Away": null
+    },
+    "Events": [],
+    "Lineups": [],
+    "Statistics": [],
+    "Players": [],
+    "HeadToHead": [
+      {
+        "fixture": {
+          "id": 10978,
+          "referee": "Robert Hartmann, Germany",
+          "timezone": "UTC",
+          "date": "2018-03-31T13:30:00+00:00",
+          "timestamp": 1522503000,
+          "periods": {
+            "first": 1522503000,
+            "second": 1522506600
+          },
+          "venue": {
+            "id": null,
+            "name": "WIRSOL Rhein-Neckar-Arena",
+            "city": "Sinsheim"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2017,
+          "round": "Regular Season - 28",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": true
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 6,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 6,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 16897,
+          "referee": "Gunter Perl, Germany",
+          "timezone": "UTC",
+          "date": "2016-12-03T14:30:00+00:00",
+          "timestamp": 1480775400,
+          "periods": {
+            "first": 1480775400,
+            "second": 1480779000
+          },
+          "venue": {
+            "id": null,
+            "name": "WIRSOL Rhein-Neckar-Arena",
+            "city": "Sinsheim"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2016,
+          "round": "Regular Season - 13",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": true
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 194818,
+          "referee": "Deniz Aytekin, Germany",
+          "timezone": "UTC",
+          "date": "2016-04-03T15:30:00+00:00",
+          "timestamp": 1459697400,
+          "periods": {
+            "first": 1459697400,
+            "second": 1459701000
+          },
+          "venue": {
+            "id": null,
+            "name": "WIRSOL Rhein-Neckar-Arena",
+            "city": "Sinsheim"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2015,
+          "round": "Regular Season - 28",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": null
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 194966,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2014-11-08T14:30:00+00:00",
+          "timestamp": 1415457000,
+          "periods": {
+            "first": 1415457000,
+            "second": 1415460600
+          },
+          "venue": {
+            "id": null,
+            "name": "Wirsol Rhein-Neckar-Arena (Sinsheim)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2014,
+          "round": "Regular Season - 11",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": false
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 3,
+            "away": 3
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 196006,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2012-03-04T16:30:00+00:00",
+          "timestamp": 1330878600,
+          "periods": {
+            "first": 1330878600,
+            "second": 1330882200
+          },
+          "venue": {
+            "id": null,
+            "name": "Wirsol Rhein-Neckar-Arena (Sinsheim)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2011,
+          "round": "Regular Season - 24",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": null
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 196298,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2011-02-19T14:30:00+00:00",
+          "timestamp": 1298125800,
+          "periods": {
+            "first": 1298125800,
+            "second": 1298129400
+          },
+          "venue": {
+            "id": null,
+            "name": "Wirsol Rhein-Neckar-Arena (Sinsheim)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2010,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": null
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 209162,
+          "referee": "F. Brych",
+          "timezone": "UTC",
+          "date": "2020-05-27T18:30:00+00:00",
+          "timestamp": 1590604200,
+          "periods": {
+            "first": 1590604200,
+            "second": 1590607800
+          },
+          "venue": {
+            "id": 724,
+            "name": "PreZero Arena",
+            "city": "Sinsheim"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2019,
+          "round": "Regular Season - 28",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": true
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 560020,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2011-10-25T18:30:00+00:00",
+          "timestamp": 1319567400,
+          "periods": {
+            "first": 1319567400,
+            "second": 1319571000
+          },
+          "venue": {
+            "id": null,
+            "name": "Wirsol Rhein-Neckar-Arena",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 81,
+          "name": "DFB Pokal",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/81.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2011,
+          "round": "2nd Round",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": true
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 587331,
+          "referee": "S. Jablonski",
+          "timezone": "UTC",
+          "date": "2021-01-24T17:00:00+00:00",
+          "timestamp": 1611507600,
+          "periods": {
+            "first": 1611507600,
+            "second": 1611511200
+          },
+          "venue": {
+            "id": 724,
+            "name": "PreZero Arena",
+            "city": "Sinsheim"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2020,
+          "round": "Regular Season - 18",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": true
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 719418,
+          "referee": "T. Reichel",
+          "timezone": "UTC",
+          "date": "2021-10-15T18:30:00+00:00",
+          "timestamp": 1634322600,
+          "periods": {
+            "first": 1634322600,
+            "second": 1634326200
+          },
+          "venue": {
+            "id": 724,
+            "name": "PreZero Arena",
+            "city": "Sinsheim"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2021,
+          "round": "Regular Season - 8",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": true
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 5,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871420,
+          "referee": "R. Braun",
+          "timezone": "UTC",
+          "date": "2023-04-22T13:30:00+00:00",
+          "timestamp": 1682170200,
+          "periods": {
+            "first": 1682170200,
+            "second": 1682173800
+          },
+          "venue": {
+            "id": 724,
+            "name": "PreZero Arena",
+            "city": "Sinsheim"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 29",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": false
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1049066,
+          "referee": "C. Dingert",
+          "timezone": "UTC",
+          "date": "2024-02-11T16:30:00+00:00",
+          "timestamp": 1707669000,
+          "periods": {
+            "first": 1707669000,
+            "second": 1707672600
+          },
+          "venue": {
+            "id": 724,
+            "name": "PreZero Arena",
+            "city": "Sinsheim"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2023,
+          "round": "Regular Season - 21",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": null
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1388359,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-03T18:30:00+00:00",
+          "timestamp": 1759516200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": 724,
+            "name": "PreZero Arena",
+            "city": "Sinsheim"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2025,
+          "round": "Regular Season - 6",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": null
+          },
+          "away": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 11128,
+          "referee": "Deniz Aytekin, Germany",
+          "timezone": "UTC",
+          "date": "2017-11-05T14:30:00+00:00",
+          "timestamp": 1509892200,
+          "periods": {
+            "first": 1509892200,
+            "second": 1509895800
+          },
+          "venue": {
+            "id": null,
+            "name": "RheinEnergieStadion",
+            "city": "Cologne"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2017,
+          "round": "Regular Season - 11",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 16749,
+          "referee": "Marco Fritz, Germany",
+          "timezone": "UTC",
+          "date": "2017-04-21T18:30:00+00:00",
+          "timestamp": 1492799400,
+          "periods": {
+            "first": 1492799400,
+            "second": 1492803000
+          },
+          "venue": {
+            "id": null,
+            "name": "RheinEnergieStadion",
+            "city": "Cologne"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2016,
+          "round": "Regular Season - 30",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 57366,
+          "referee": "Marco Fritz, Germany",
+          "timezone": "UTC",
+          "date": "2016-10-26T18:45:00+00:00",
+          "timestamp": 1477507500,
+          "periods": {
+            "first": 1477507500,
+            "second": 1477511100
+          },
+          "venue": {
+            "id": null,
+            "name": "RheinEnergieStadion",
+            "city": "Cologne"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "AET",
+            "elapsed": 120,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 81,
+          "name": "DFB Pokal",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/81.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2016,
+          "round": "2nd Round",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": true
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": 2,
+            "away": 1
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 194661,
+          "referee": "Gunter Perl, Germany",
+          "timezone": "UTC",
+          "date": "2015-10-31T14:30:00+00:00",
+          "timestamp": 1446301800,
+          "periods": {
+            "first": 1446301800,
+            "second": 1446305400
+          },
+          "venue": {
+            "id": null,
+            "name": "RheinEnergieStadion",
+            "city": "Cologne"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2015,
+          "round": "Regular Season - 11",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 195123,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2015-04-12T13:30:00+00:00",
+          "timestamp": 1428845400,
+          "periods": {
+            "first": 1428845400,
+            "second": 1428849000
+          },
+          "venue": {
+            "id": null,
+            "name": "RheinEnergieStadion (Köln)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2014,
+          "round": "Regular Season - 28",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": true
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 195852,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2011-09-25T13:40:00+00:00",
+          "timestamp": 1316958000,
+          "periods": {
+            "first": 1316958000,
+            "second": 1316961600
+          },
+          "venue": {
+            "id": null,
+            "name": "RheinEnergieStadion (Köln)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2011,
+          "round": "Regular Season - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": true
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 196142,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2010-09-24T18:30:00+00:00",
+          "timestamp": 1285353000,
+          "periods": {
+            "first": 1285353000,
+            "second": 1285356600
+          },
+          "venue": {
+            "id": null,
+            "name": "RheinEnergieStadion (Köln)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2010,
+          "round": "Regular Season - 6",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 209011,
+          "referee": "R. Kampka",
+          "timezone": "UTC",
+          "date": "2019-11-08T19:30:00+00:00",
+          "timestamp": 1573241400,
+          "periods": {
+            "first": 1573241400,
+            "second": 1573245000
+          },
+          "venue": {
+            "id": 731,
+            "name": "RheinEnergieStadion",
+            "city": "Köln"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2019,
+          "round": "Regular Season - 11",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 587182,
+          "referee": "D. Siebert",
+          "timezone": "UTC",
+          "date": "2020-09-19T13:30:00+00:00",
+          "timestamp": 1600522200,
+          "periods": {
+            "first": 1600522200,
+            "second": 1600525800
+          },
+          "venue": {
+            "id": 731,
+            "name": "RheinEnergieStadion",
+            "city": "Köln"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2020,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 719572,
+          "referee": "M. Fritz",
+          "timezone": "UTC",
+          "date": "2022-03-06T16:30:00+00:00",
+          "timestamp": 1646584200,
+          "periods": {
+            "first": 1646584200,
+            "second": 1646587800
+          },
+          "venue": {
+            "id": 731,
+            "name": "RheinEnergieStadion",
+            "city": "Köln"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2021,
+          "round": "Regular Season - 25",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 871266,
+          "referee": "F. Willenborg",
+          "timezone": "UTC",
+          "date": "2022-10-30T18:30:00+00:00",
+          "timestamp": 1667154600,
+          "periods": {
+            "first": 1667154600,
+            "second": 1667158200
+          },
+          "venue": {
+            "id": 731,
+            "name": "RheinEnergieStadion",
+            "city": "Köln"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2022,
+          "round": "Regular Season - 12",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1048913,
+          "referee": "D. Siebert",
+          "timezone": "UTC",
+          "date": "2023-09-16T13:30:00+00:00",
+          "timestamp": 1694871000,
+          "periods": {
+            "first": 1694871000,
+            "second": 1694874600
+          },
+          "venue": {
+            "id": 20736,
+            "name": "Cologne Stadium",
+            "city": "Köln"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2023,
+          "round": "Regular Season - 4",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": false
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1388507,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-02-21T14:30:00+00:00",
+          "timestamp": 1771684200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "RheinEnergieStadion",
+            "city": "Cologne"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 78,
+          "name": "Bundesliga",
+          "country": "Germany",
+          "logo": "https://media.api-sports.io/football/leagues/78.png",
+          "flag": "https://media.api-sports.io/flags/de.svg",
+          "season": 2025,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 192,
+            "name": "1.FC Köln",
+            "logo": "https://media.api-sports.io/football/teams/192.png",
+            "winner": null
+          },
+          "away": {
+            "id": 167,
+            "name": "1899 Hoffenheim",
+            "logo": "https://media.api-sports.io/football/teams/167.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
   }
 ]
