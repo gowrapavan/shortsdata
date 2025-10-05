@@ -13635,7 +13635,1688 @@
     "Lineups": [],
     "Statistics": [],
     "Players": [],
-    "HeadToHead": []
+    "HeadToHead": [
+      {
+        "fixture": {
+          "id": 27195,
+          "referee": "Juan Martinez Munuera, Spain",
+          "timezone": "UTC",
+          "date": "2018-09-25T19:00:00+00:00",
+          "timestamp": 1537902000,
+          "periods": {
+            "first": 1537902000,
+            "second": 1537905600
+          },
+          "venue": {
+            "id": null,
+            "name": "Anoeta",
+            "city": "San Sebastian"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2018,
+          "round": "Regular Season - 6",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          },
+          "away": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 203697,
+          "referee": "Santiago Jaime Latre, Spain",
+          "timezone": "UTC",
+          "date": "2016-05-08T15:00:00+00:00",
+          "timestamp": 1462719600,
+          "periods": {
+            "first": 1462719600,
+            "second": 1462723200
+          },
+          "venue": {
+            "id": null,
+            "name": "Anoeta",
+            "city": "San Sebastian"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2015,
+          "round": "Regular Season - 37",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          },
+          "away": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 203898,
+          "referee": "Mario Melero Lopez, Spain",
+          "timezone": "UTC",
+          "date": "2015-01-17T15:00:00+00:00",
+          "timestamp": 1421506800,
+          "periods": {
+            "first": 1421506800,
+            "second": 1421510400
+          },
+          "venue": {
+            "id": null,
+            "name": "Anoeta",
+            "city": "San Sebastian"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2014,
+          "round": "Regular Season - 19",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          },
+          "away": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204366,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2014-03-10T21:00:00+00:00",
+          "timestamp": 1394485200,
+          "periods": {
+            "first": 1394485200,
+            "second": 1394488800
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Municipal de Anoeta (Donostia-San Sebastián)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2013,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          },
+          "away": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204596,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2012-11-19T20:30:00+00:00",
+          "timestamp": 1353357000,
+          "periods": {
+            "first": 1353357000,
+            "second": 1353360600
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Municipal de Anoeta (Donostia-San Sebastián)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2012,
+          "round": "Regular Season - 12",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          },
+          "away": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 205164,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2012-04-01T19:30:00+00:00",
+          "timestamp": 1333308600,
+          "periods": {
+            "first": 1333308600,
+            "second": 1333312200
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Municipal de Anoeta (Donostia-San Sebastián)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2011,
+          "round": "Regular Season - 31",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          },
+          "away": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 720758,
+          "referee": "Santiago Jaime",
+          "timezone": "UTC",
+          "date": "2021-08-22T15:00:00+00:00",
+          "timestamp": 1629644400,
+          "periods": {
+            "first": 1629644400,
+            "second": 1629648000
+          },
+          "venue": {
+            "id": 1491,
+            "name": "Reale Arena",
+            "city": "Donostia-San Sebastián"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2021,
+          "round": "Regular Season - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          },
+          "away": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 878240,
+          "referee": "Alejandro Muñiz",
+          "timezone": "UTC",
+          "date": "2023-04-22T16:30:00+00:00",
+          "timestamp": 1682181000,
+          "periods": {
+            "first": 1682181000,
+            "second": 1682184600
+          },
+          "venue": {
+            "id": 1491,
+            "name": "Reale Arena",
+            "city": "Donostia-San Sebastián"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2022,
+          "round": "Regular Season - 30",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          },
+          "away": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 979560,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2022-12-10T00:00:00+00:00",
+          "timestamp": 1670630400,
+          "periods": {
+            "first": 1670630400,
+            "second": 1670634000
+          },
+          "venue": {
+            "id": 1491,
+            "name": "Reale Arena",
+            "city": "Donostia-San Sebastián"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 667,
+          "name": "Friendlies Clubs",
+          "country": "World",
+          "logo": "https://media.api-sports.io/football/leagues/667.png",
+          "flag": null,
+          "season": 2022,
+          "round": "Club Friendlies 3",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          },
+          "away": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1038170,
+          "referee": "Alejandro Hernandez, Spain",
+          "timezone": "UTC",
+          "date": "2024-01-27T13:00:00+00:00",
+          "timestamp": 1706360400,
+          "periods": {
+            "first": 1706360400,
+            "second": 1706364000
+          },
+          "venue": {
+            "id": 1491,
+            "name": "Reale Arena",
+            "city": "Donostia-San Sebastián"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023,
+          "round": "Regular Season - 22",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          },
+          "away": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1208500,
+          "referee": "Alejandro Hernández",
+          "timezone": "UTC",
+          "date": "2024-08-18T17:00:00+00:00",
+          "timestamp": 1724000400,
+          "periods": {
+            "first": 1724000400,
+            "second": 1724004000
+          },
+          "venue": {
+            "id": 1491,
+            "name": "Reale Arena",
+            "city": "Donostia-San Sebastián"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2024,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          },
+          "away": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1334035,
+          "referee": "Francisco Hernández",
+          "timezone": "UTC",
+          "date": "2025-01-16T18:30:00+00:00",
+          "timestamp": 1737052200,
+          "periods": {
+            "first": 1737052200,
+            "second": 1737055800
+          },
+          "venue": {
+            "id": 1491,
+            "name": "Reale Arena",
+            "city": "Donostia-San Sebastián"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 6
+          }
+        },
+        "league": {
+          "id": 143,
+          "name": "Copa del Rey",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/143.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2024,
+          "round": "Round of 16",
+          "standings": false
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          },
+          "away": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1390896,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-05T16:30:00+00:00",
+          "timestamp": 1759681800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Municipal de Anoeta",
+            "city": "San Sebastian"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2025,
+          "round": "Regular Season - 8",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          },
+          "away": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 27336,
+          "referee": "David Medie Jimenez, Spain",
+          "timezone": "UTC",
+          "date": "2019-01-20T17:30:00+00:00",
+          "timestamp": 1548005400,
+          "periods": {
+            "first": 1548005400,
+            "second": 1548009000
+          },
+          "venue": {
+            "id": 1488,
+            "name": "Estadio de Vallecas",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2018,
+          "round": "Regular Season - 20",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": null
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 203510,
+          "referee": "Antonio Mateu, Spain",
+          "timezone": "UTC",
+          "date": "2016-01-03T11:00:00+00:00",
+          "timestamp": 1451818800,
+          "periods": {
+            "first": 1451818800,
+            "second": 1451822400
+          },
+          "venue": {
+            "id": 1488,
+            "name": "Estadio de Vallecas",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2015,
+          "round": "Regular Season - 18",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": null
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204091,
+          "referee": "Fernando Teixeira Vitienes, Spain",
+          "timezone": "UTC",
+          "date": "2015-05-23T16:30:00+00:00",
+          "timestamp": 1432398600,
+          "periods": {
+            "first": 1432398600,
+            "second": 1432402200
+          },
+          "venue": {
+            "id": 1488,
+            "name": "Estadio de Vallecas",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2014,
+          "round": "Regular Season - 38",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": false
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204170,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2013-10-05T16:00:00+00:00",
+          "timestamp": 1380988800,
+          "periods": {
+            "first": 1380988800,
+            "second": 1380992400
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio del Rayo Vallecano (de Vallecas Teresa Rivero) (Madrid)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2013,
+          "round": "Regular Season - 8",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204782,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2013-04-14T10:00:00+00:00",
+          "timestamp": 1365933600,
+          "periods": {
+            "first": 1365933600,
+            "second": 1365937200
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio del Rayo Vallecano (de Vallecas Teresa Rivero) (Madrid)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2012,
+          "round": "Regular Season - 31",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": false
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204973,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2011-11-06T17:00:00+00:00",
+          "timestamp": 1320598800,
+          "periods": {
+            "first": 1320598800,
+            "second": 1320602400
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio del Rayo Vallecano (de Vallecas Teresa Rivero) (Madrid)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2011,
+          "round": "Regular Season - 12",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": true
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 721077,
+          "referee": "Alejandro Muñiz",
+          "timezone": "UTC",
+          "date": "2022-05-01T16:30:00+00:00",
+          "timestamp": 1651422600,
+          "periods": {
+            "first": 1651422600,
+            "second": 1651426200
+          },
+          "venue": {
+            "id": 1488,
+            "name": "Estadio de Vallecas",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2021,
+          "round": "Regular Season - 34",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": null
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 878116,
+          "referee": "Antonio Mateu",
+          "timezone": "UTC",
+          "date": "2023-01-21T13:00:00+00:00",
+          "timestamp": 1674306000,
+          "periods": {
+            "first": 1674306000,
+            "second": 1674309600
+          },
+          "venue": {
+            "id": 1488,
+            "name": "Estadio de Vallecas",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2022,
+          "round": "Regular Season - 18",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": false
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 2
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1038057,
+          "referee": "Mateo Busquets Ferrer, Spain",
+          "timezone": "UTC",
+          "date": "2023-10-29T15:15:00+00:00",
+          "timestamp": 1698592500,
+          "periods": {
+            "first": 1698592500,
+            "second": 1698596100
+          },
+          "venue": {
+            "id": 1488,
+            "name": "Estadio de Vallecas",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023,
+          "round": "Regular Season - 11",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": null
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1208739,
+          "referee": "Alejandro Muñiz",
+          "timezone": "UTC",
+          "date": "2025-03-16T17:30:00+00:00",
+          "timestamp": 1742146200,
+          "periods": {
+            "first": 1742146200,
+            "second": 1742149800
+          },
+          "venue": {
+            "id": 1488,
+            "name": "Estadio de Vallecas",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2024,
+          "round": "Regular Season - 28",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": null
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1391135,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-04-19T16:00:00+00:00",
+          "timestamp": 1776614400,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Campo de Futbol de Vallecas",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2025,
+          "round": "Regular Season - 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 728,
+            "name": "Rayo Vallecano",
+            "logo": "https://media.api-sports.io/football/teams/728.png",
+            "winner": null
+          },
+          "away": {
+            "id": 548,
+            "name": "Real Sociedad",
+            "logo": "https://media.api-sports.io/football/teams/548.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
   },
   {
     "StatsId": 1390891,
@@ -13653,6 +15334,1967 @@
     "Lineups": [],
     "Statistics": [],
     "Players": [],
-    "HeadToHead": []
+    "HeadToHead": [
+      {
+        "fixture": {
+          "id": 9611,
+          "referee": "Javier Alberola Rojas, Spain",
+          "timezone": "UTC",
+          "date": "2018-03-11T15:15:00+00:00",
+          "timestamp": 1520781300,
+          "periods": {
+            "first": 1520781300,
+            "second": 1520784900
+          },
+          "venue": {
+            "id": 1461,
+            "name": "Estadio Wanda Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2017,
+          "round": "Regular Season - 28",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 20608,
+          "referee": "Alejandro Hernandez, Spain",
+          "timezone": "UTC",
+          "date": "2017-02-12T19:45:00+00:00",
+          "timestamp": 1486928700,
+          "periods": {
+            "first": 1486928700,
+            "second": 1486932300
+          },
+          "venue": {
+            "id": null,
+            "name": "Vicente Calderón",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2016,
+          "round": "Regular Season - 22",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 27450,
+          "referee": "Ricardo De Burgos Bengoetxea, Spain",
+          "timezone": "UTC",
+          "date": "2019-04-13T16:30:00+00:00",
+          "timestamp": 1555173000,
+          "periods": {
+            "first": 1555173000,
+            "second": 1555176600
+          },
+          "venue": {
+            "id": 1461,
+            "name": "Estadio Wanda Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2018,
+          "round": "Regular Season - 32",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 203711,
+          "referee": "David Fernandez Borbalan, Spain",
+          "timezone": "UTC",
+          "date": "2016-05-14T17:30:00+00:00",
+          "timestamp": 1463247000,
+          "periods": {
+            "first": 1463247000,
+            "second": 1463250600
+          },
+          "venue": {
+            "id": null,
+            "name": "Vicente Calderón",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2015,
+          "round": "Regular Season - 38",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 203750,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2014-09-20T18:00:00+00:00",
+          "timestamp": 1411236000,
+          "periods": {
+            "first": 1411236000,
+            "second": 1411239600
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Vicente Calderón (Madrid)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2014,
+          "round": "Regular Season - 4",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": null
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204173,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2013-10-06T10:00:00+00:00",
+          "timestamp": 1381053600,
+          "periods": {
+            "first": 1381053600,
+            "second": 1381057200
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Vicente Calderón (Madrid)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2013,
+          "round": "Regular Season - 8",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204641,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2012-12-21T21:00:00+00:00",
+          "timestamp": 1356123600,
+          "periods": {
+            "first": 1356123600,
+            "second": 1356127200
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Vicente Calderón (Madrid)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2012,
+          "round": "Regular Season - 17",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 214063,
+          "referee": "Mario Melero",
+          "timezone": "UTC",
+          "date": "2019-09-21T16:30:00+00:00",
+          "timestamp": 1569083400,
+          "periods": {
+            "first": 1569083400,
+            "second": 1569087000
+          },
+          "venue": {
+            "id": 1461,
+            "name": "Estadio Wanda Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2019,
+          "round": "Regular Season - 5",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": null
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 605277,
+          "referee": "Guillermo Cuadra",
+          "timezone": "UTC",
+          "date": "2021-02-08T20:00:00+00:00",
+          "timestamp": 1612814400,
+          "periods": {
+            "first": 1612814400,
+            "second": 1612818000
+          },
+          "venue": {
+            "id": 1461,
+            "name": "Estadio Wanda Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2020,
+          "round": "Regular Season - 22",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": null
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 720989,
+          "referee": "Alejandro Hernández",
+          "timezone": "UTC",
+          "date": "2022-02-26T20:00:00+00:00",
+          "timestamp": 1645905600,
+          "periods": {
+            "first": 1645905600,
+            "second": 1645909200
+          },
+          "venue": {
+            "id": 1461,
+            "name": "Estadio Wanda Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2021,
+          "round": "Regular Season - 26",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 877982,
+          "referee": "Alejandro Hernández",
+          "timezone": "UTC",
+          "date": "2022-09-10T19:00:00+00:00",
+          "timestamp": 1662836400,
+          "periods": {
+            "first": 1662836400,
+            "second": 1662840000
+          },
+          "venue": {
+            "id": 19217,
+            "name": "Estádio Cívitas Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2022,
+          "round": "Regular Season - 5",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1038293,
+          "referee": "Jorge Figueroa Vazquez, Spain",
+          "timezone": "UTC",
+          "date": "2024-05-12T14:15:00+00:00",
+          "timestamp": 1715523300,
+          "periods": {
+            "first": 1715523300,
+            "second": 1715526900
+          },
+          "venue": {
+            "id": 19217,
+            "name": "Estádio Cívitas Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023,
+          "round": "Regular Season - 35",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1208701,
+          "referee": "Juan Martínez",
+          "timezone": "UTC",
+          "date": "2025-02-15T17:30:00+00:00",
+          "timestamp": 1739640600,
+          "periods": {
+            "first": 1739640600,
+            "second": 1739644200
+          },
+          "venue": {
+            "id": 19217,
+            "name": "Riyadh Air Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2024,
+          "round": "Regular Season - 24",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": null
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1391160,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-05-10T16:00:00+00:00",
+          "timestamp": 1778428800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Metropolitano Stadium",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2025,
+          "round": "Regular Season - 35",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": null
+          },
+          "away": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 9802,
+          "referee": "Jose Luis Munuera Montero, Spain",
+          "timezone": "UTC",
+          "date": "2017-10-22T14:15:00+00:00",
+          "timestamp": 1508681700,
+          "periods": {
+            "first": 1508681700,
+            "second": 1508685300
+          },
+          "venue": {
+            "id": null,
+            "name": "Municipal de Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2017,
+          "round": "Regular Season - 9",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 20802,
+          "referee": "Santiago Jaime Latre, Spain",
+          "timezone": "UTC",
+          "date": "2016-09-10T11:00:00+00:00",
+          "timestamp": 1473505200,
+          "periods": {
+            "first": 1473505200,
+            "second": 1473508800
+          },
+          "venue": {
+            "id": null,
+            "name": "Municipal de Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2016,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 27162,
+          "referee": "Antonio Mateu, Spain",
+          "timezone": "UTC",
+          "date": "2018-09-01T16:30:00+00:00",
+          "timestamp": 1535819400,
+          "periods": {
+            "first": 1535819400,
+            "second": 1535823000
+          },
+          "venue": {
+            "id": null,
+            "name": "Municipal de Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2018,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": true
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 203526,
+          "referee": "Ricardo De Burgos Bengoetxea, Spain",
+          "timezone": "UTC",
+          "date": "2016-01-10T19:30:00+00:00",
+          "timestamp": 1452454200,
+          "periods": {
+            "first": 1452454200,
+            "second": 1452457800
+          },
+          "venue": {
+            "id": null,
+            "name": "Municipal de Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2015,
+          "round": "Regular Season - 19",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 203945,
+          "referee": "Juan Martinez Munuera, Spain",
+          "timezone": "UTC",
+          "date": "2015-02-15T20:00:00+00:00",
+          "timestamp": 1424030400,
+          "periods": {
+            "first": 1424030400,
+            "second": 1424034000
+          },
+          "venue": {
+            "id": null,
+            "name": "Municipal de Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2014,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": true
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204359,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2014-03-08T19:00:00+00:00",
+          "timestamp": 1394305200,
+          "periods": {
+            "first": 1394305200,
+            "second": 1394308800
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio de Balaídos (Vigo)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2013,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204827,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2013-05-08T17:30:00+00:00",
+          "timestamp": 1368034200,
+          "periods": {
+            "first": 1368034200,
+            "second": 1368037800
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio de Balaídos (Vigo)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2012,
+          "round": "Regular Season - 36",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 214365,
+          "referee": "José Sánchez",
+          "timezone": "UTC",
+          "date": "2020-07-07T20:00:00+00:00",
+          "timestamp": 1594152000,
+          "periods": {
+            "first": 1594152000,
+            "second": 1594155600
+          },
+          "venue": {
+            "id": 1467,
+            "name": "Abanca-Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2019,
+          "round": "Regular Season - 35",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": null
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 605118,
+          "referee": "Juan Martínez",
+          "timezone": "UTC",
+          "date": "2020-10-17T14:00:00+00:00",
+          "timestamp": 1602943200,
+          "periods": {
+            "first": 1602943200,
+            "second": 1602946800
+          },
+          "venue": {
+            "id": 1467,
+            "name": "Abanca-Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2020,
+          "round": "Regular Season - 6",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 720741,
+          "referee": "José Munuera",
+          "timezone": "UTC",
+          "date": "2021-08-15T15:30:00+00:00",
+          "timestamp": 1629041400,
+          "periods": {
+            "first": 1629041400,
+            "second": 1629045000
+          },
+          "venue": {
+            "id": 1467,
+            "name": "Abanca-Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2021,
+          "round": "Regular Season - 1",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 878147,
+          "referee": "Jorge Figueroa",
+          "timezone": "UTC",
+          "date": "2023-02-12T15:15:00+00:00",
+          "timestamp": 1676214900,
+          "periods": {
+            "first": 1676214900,
+            "second": 1676218500
+          },
+          "venue": {
+            "id": 1467,
+            "name": "Abanca-Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2022,
+          "round": "Regular Season - 21",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1038045,
+          "referee": "Guillermo Cuadra Fernandez, Spain",
+          "timezone": "UTC",
+          "date": "2023-10-21T19:00:00+00:00",
+          "timestamp": 1697914800,
+          "periods": {
+            "first": 1697914800,
+            "second": 1697918400
+          },
+          "venue": {
+            "id": 1467,
+            "name": "Estadio Abanca-Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023,
+          "round": "Regular Season - 10",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1208553,
+          "referee": "Víctor García",
+          "timezone": "UTC",
+          "date": "2024-09-26T19:00:00+00:00",
+          "timestamp": 1727377200,
+          "periods": {
+            "first": 1727377200,
+            "second": 1727380800
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Abanca-Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 5
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2024,
+          "round": "Regular Season - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1390891,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-05T19:00:00+00:00",
+          "timestamp": 1759690800,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Abanca-Balaídos",
+            "city": "Vigo"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2025,
+          "round": "Regular Season - 8",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png",
+            "winner": null
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
   }
 ]
