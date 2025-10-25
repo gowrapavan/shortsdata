@@ -71,7 +71,7 @@ def fetch_sportzonline():
             })
     return matches
 
-# ---------- 4. Hesgoal ----------
+# ---------- 2. Hesgoal ----------
 def fetch_hesgoal():
     url = "https://hesgoal.im/today-matches/"
     headers = {"User-Agent": "Mozilla/5.0"}
@@ -100,7 +100,7 @@ def fetch_hesgoal():
         date_tag = event.select_one("span.EventDate")
         if date_tag and "data-start" in date_tag.attrs:
             dt_str = date_tag["data-start"].strip()
-            dt = datetime.fromisoformat(dt_str)  # already tz-aware
+            dt = datetime.fromisoformat(dt_str)
             dt_ist = dt.astimezone(IST)
             time_ist = dt_ist.strftime("%Y-%m-%d %H:%M IST")
         else:
@@ -119,6 +119,51 @@ def fetch_hesgoal():
 
     return matches
 
+# ---------- 3. LiveKora ----------
+def fetch_livekora():
+    url = "https://www.livekora.vip/"
+    headers = {"User-Agent": "Mozilla/5.0"}
+    html = requests.get(url, headers=headers, timeout=10).text
+    soup = BeautifulSoup(html, "html.parser")
+
+    matches = []
+    for a_tag in soup.select("div.benacer-matches-container a[href]"):
+        href = a_tag["href"].strip()
+        # Convert to albaplayer URL
+        slug = href.rstrip("/").split("/")[-1]
+        albaplayer_url = f"https://pl.yallashooot.video/albaplayer/{slug}/"
+
+        teams = a_tag.select("div.right-team .team-name, div.left-team .team-name")
+        if len(teams) >= 2:
+            home = teams[0].text.strip()
+            away = teams[1].text.strip()
+        else:
+            home = ""
+            away = ""
+
+        # Extract match time from data-start or date span
+        time_tag = a_tag.select_one("div.match-container span.date")
+        if time_tag and time_tag.has_attr("data-start"):
+            dt_str = time_tag["data-start"].strip()
+            dt = datetime.fromisoformat(dt_str)
+            dt_ist = dt.astimezone(IST)
+            time_ist = dt_ist.strftime("%Y-%m-%d %H:%M IST")
+        else:
+            time_ist = ""
+
+        matches.append({
+            "time": time_ist,
+            "game": "football",
+            "league": "",
+            "home_team": home,
+            "away_team": away,
+            "label": short_label(home, away) if home and away else "livekora-stream",
+            "Logo": random_logo(),
+            "url": albaplayer_url
+        })
+
+    return matches
+
 # === Save JSONs ===
 JSON_FOLDER = "json"
 os.makedirs(JSON_FOLDER, exist_ok=True)
@@ -126,7 +171,8 @@ os.makedirs(JSON_FOLDER, exist_ok=True)
 if __name__ == "__main__":
     sources = {
         "sportsonline.json": fetch_sportzonline,
-        "hesgoal.json": fetch_hesgoal
+        "hesgoal.json": fetch_hesgoal,
+        "livekora.json": fetch_livekora
     }
 
     for filename, func in sources.items():
