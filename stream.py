@@ -133,15 +133,17 @@ def fetch_livekora():
         slug = href.rstrip("/").split("/")[-1]
         albaplayer_url = f"https://pl.yallashooot.video/albaplayer/{slug}/"
 
-        teams = a_tag.select("div.right-team .team-name, div.left-team .team-name")
-        if len(teams) >= 2:
-            home = teams[0].text.strip()
-            away = teams[1].text.strip()
-        else:
-            home = ""
-            away = ""
+        # Get home and away team names
+        right_team_name = a_tag.select_one("div.right-team .team-name")
+        left_team_name = a_tag.select_one("div.left-team .team-name")
+        home = right_team_name.text.strip() if right_team_name else ""
+        away = left_team_name.text.strip() if left_team_name else ""
 
-        # Extract match time from data-start or date span
+        # Get home team logo
+        home_logo_tag = a_tag.select_one("div.right-team .team-logo img")
+        home_logo = home_logo_tag["src"].strip() if home_logo_tag and "src" in home_logo_tag.attrs else random_logo()
+
+        # Extract match time from data-start
         time_tag = a_tag.select_one("div.match-container span.date")
         if time_tag and time_tag.has_attr("data-start"):
             dt_str = time_tag["data-start"].strip()
@@ -158,11 +160,12 @@ def fetch_livekora():
             "home_team": home,
             "away_team": away,
             "label": short_label(home, away) if home and away else "livekora-stream",
-            "Logo": random_logo(),
+            "Logo": home_logo,
             "url": albaplayer_url
         })
 
     return matches
+
 
 # === Save JSONs ===
 JSON_FOLDER = "json"
