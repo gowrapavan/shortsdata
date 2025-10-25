@@ -172,58 +172,6 @@ def fetch_hesgoal():
         })
 
     return matches
-# ---------- 4. Hesgoal ----------
-def fetch_hesgoal():
-    url = "https://hesgoal.im/today-matches/"
-    headers = {"User-Agent": "Mozilla/5.0"}
-    html = requests.get(url, headers=headers, timeout=10).text
-    soup = BeautifulSoup(html, "html.parser")
-
-    matches = []
-
-    for event in soup.select("div.EventBox"):
-        # Extract home and away teams
-        teams = event.select("div.EventTeamName")
-        if len(teams) < 2:
-            continue
-        home = teams[1].text.strip()  # Right team is home
-        away = teams[0].text.strip()  # Left team is away
-
-        # Extract league
-        league_tag = event.select_one("ul.EventFooter li:nth-child(3)")
-        league = league_tag.text.strip() if league_tag else ""
-
-        # Extract match URL and convert to yallashoot format
-        link_tag = event.select_one("a#EventLink")
-        if not link_tag or "href" not in link_tag.attrs:
-            continue
-        href = link_tag["href"].strip()
-        # Example: https://hesgoal.im/manchester-united-vs-brighton -> manchester-united-vs-brighton
-        slug = href.rstrip("/").split("/")[-1]
-        yalla_url = f"https://yallashoot.mobi/albaplayer/{slug}/"
-
-        # Extract match time (data-start) and convert GMT+3 to IST
-        date_tag = event.select_one("span.EventDate")
-        if date_tag and "data-start" in date_tag.attrs:
-            dt_str = date_tag["data-start"].strip()
-            dt = datetime.fromisoformat(dt_str)  # Hesgoal is GMT+3
-            dt = pytz.timezone("Etc/GMT-3").localize(dt).astimezone(IST)
-            time_ist = dt.strftime("%Y-%m-%d %H:%M IST")
-        else:
-            time_ist = ""
-
-        matches.append({
-            "time": time_ist,
-            "game": "football",
-            "league": league,
-            "home_team": home,
-            "away_team": away,
-            "label": short_label(home, away),
-            "Logo": random_logo(),
-            "url": yalla_url
-        })
-
-    return matches
 
 
 
