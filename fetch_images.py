@@ -4,6 +4,7 @@ import json
 import os
 from html import unescape
 from datetime import datetime, timezone, timedelta
+from dateutil import parser
 from time import sleep
 
 # ---------------- CONFIG ---------------- #
@@ -13,16 +14,19 @@ LEAGUE_FILES = {
     "FRL1": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/FRL1.json",
     "ITSA": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/ITSA.json",
     "DEB": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/DEB.json",
-
 }
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                  "(KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/140.0.0.0 Safari/537.36"
+    )
 }
 
 OUTPUT_DIR = "images"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+
 HOME_LIMIT = 20
 AWAY_LIMIT = 20
 FETCH_LIMIT = 60  # fetch more to ensure uniqueness
@@ -31,7 +35,10 @@ FETCH_LIMIT = 60  # fetch more to ensure uniqueness
 def fetch_images_for_query(query, limit=FETCH_LIMIT):
     """Fetch Getty image URLs for a search query."""
     query_encoded = query.replace(" ", "%20")
-    url = f"https://www.gettyimages.in/search/2/image?family=editorial&phrase={query_encoded}&sort=newest&phraseprocessing=excludenaturallanguage"
+    url = (
+        f"https://www.gettyimages.in/search/2/image?family=editorial"
+        f"&phrase={query_encoded}&sort=newest&phraseprocessing=excludenaturallanguage"
+    )
 
     try:
         response = requests.get(url, headers=HEADERS, timeout=10)
@@ -48,7 +55,8 @@ def fetch_images_for_query(query, limit=FETCH_LIMIT):
     # Deduplicate and limit
     return list(dict.fromkeys(image_urls))[:limit]
 
-# ---------------- PROCESS EACH LEAGUE ---------------- #
+
+# ---------------- MAIN SCRIPT ---------------- #
 IST = timezone(timedelta(hours=5, minutes=30))
 now_ist = datetime.now(IST)
 
@@ -72,7 +80,20 @@ for league, json_url in LEAGUE_FILES.items():
     else:
         existing = {}
 
-    target_games = [g for g in games if g.get("Date") in TARGET_DATES]
+    # 🧠 Flexible date detection (fix for missing 'Date' field)
+    target_games = []
+    for g in games:
+        dt = g.get("MatchDateTime") or g.get("MatchDateTime_IST") or g.get("DateTime") or g.get("Date")
+        if not dt:
+            continue
+        try:
+            date_str = parser.parse(dt).astimezone(IST).strftime("%Y-%m-%d")
+            if date_str in TARGET_DATES:
+                target_games.append(g)
+        except Exception as e:
+            print(f"⚠️ Skipping {g.get('GameId')} (invalid date): {e}")
+
+    print(f"📅 Found {len(target_games)} matches for {league}")
 
     if not target_games:
         print(f"⚠️ No matches for yesterday or today in {league}")
@@ -80,42 +101,43 @@ for league, json_url in LEAGUE_FILES.items():
 
     for game in target_games:
         game_id = str(game.get("GameId"))
-        game_dt_str = game.get("DateTime")
+        game_dt_str = game.get("MatchDateTime") or game.get("MatchDateTime_IST") or game.get("DateTime")
+
         if not game_dt_str:
             continue
 
         try:
-            dt_utc = datetime.fromisoformat(game_dt_str.replace("Z", "+00:00"))
+            dt_utc = parser.parse(game_dt_str)
             dt_ist = dt_utc.astimezone(IST)
         except Exception as e:
             print(f"⚠️ Failed to parse DateTime for Game {game_id}: {e}")
             continue
 
         if now_ist <= dt_ist:
-            print(f"⏳ Skipping {game.get('HomeTeamName')} vs {game.get('AwayTeamName')} (not started yet)")
+            print(f"⏳ Skipping {game.get('HomeTeam')} vs {game.get('AwayTeam')} (not started yet)")
             continue
 
-        home_team = game.get("HomeTeamName")
-        away_team = game.get("AwayTeamName")
+        home_team = game.get("HomeTeam") or game.get("HomeTeamName")
+        away_team = game.get("AwayTeam") or game.get("AwayTeamName")
+
         if not home_team or not away_team:
             continue
 
         print(f"📸 Fetching images for: {home_team} vs {away_team}")
 
-        # Fetch images
+        # Fetch home team images
         home_images_all = fetch_images_for_query(home_team)
         home_images = home_images_all[:HOME_LIMIT]
 
+        # Fetch away team images, removing duplicates
         away_images_all = fetch_images_for_query(away_team)
-        # Remove duplicates with home images
         away_images_unique = [img for img in away_images_all if img not in home_images]
         away_images = away_images_unique[:AWAY_LIMIT]
 
-        # If not enough images, warn
         if len(away_images) < AWAY_LIMIT:
             print(f"⚠️ Only {len(away_images)} unique away images found for {away_team}")
 
-        # Add to existing
+        # Update or create entry
         existing[game_id] = {
             "GameId": int(game_id),
             "HomeTeam": home_team,
@@ -123,10 +145,12 @@ for league, json_url in LEAGUE_FILES.items():
             "HomeTeamImages": home_images,
             "AwayTeamImages": away_images,
             "MatchDateTime": game_dt_str,
-            "MatchDateTime_IST": dt_ist.isoformat()
+            "MatchDateTime_IST": dt_ist.isoformat(),
         }
+
         sleep(1)
 
+    # Write updated file
     with open(output_file, "w") as f:
         json.dump(list(existing.values()), f, indent=2)
 
