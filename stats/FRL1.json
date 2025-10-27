@@ -6472,9 +6472,1120 @@
       "Home": 6,
       "Away": 1
     },
-    "Events": [],
-    "Lineups": [],
-    "Statistics": [],
+    "Events": [
+      {
+        "time": {
+          "elapsed": 22,
+          "extra": null
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 1567,
+          "name": "Aïssa Mandi"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Foul"
+      },
+      {
+        "time": {
+          "elapsed": 24,
+          "extra": null
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 306979,
+          "name": "H. Igamane"
+        },
+        "assist": {
+          "id": 340077,
+          "name": "M. Fernandez-Pardo"
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 34,
+          "extra": null
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 135749,
+          "name": "F. Correia"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 36,
+          "extra": null
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 438688,
+          "name": "Ayyoub Bouaddi"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Foul"
+      },
+      {
+        "time": {
+          "elapsed": 46,
+          "extra": null
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 438688,
+          "name": "A. Bouaddi"
+        },
+        "assist": {
+          "id": 375598,
+          "name": "N. Mukau"
+        },
+        "type": "subst",
+        "detail": "Substitution 1",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 53,
+          "extra": null
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 135749,
+          "name": "F. Correia"
+        },
+        "assist": {
+          "id": 340077,
+          "name": "M. Fernandez-Pardo"
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 61,
+          "extra": null
+        },
+        "team": {
+          "id": 112,
+          "name": "Metz",
+          "logo": "https://media.api-sports.io/football/teams/112.png"
+        },
+        "player": {
+          "id": 96331,
+          "name": "K. Kouao"
+        },
+        "assist": {
+          "id": 404588,
+          "name": "C. Melieres"
+        },
+        "type": "subst",
+        "detail": "Substitution 1",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 61,
+          "extra": null
+        },
+        "team": {
+          "id": 112,
+          "name": "Metz",
+          "logo": "https://media.api-sports.io/football/teams/112.png"
+        },
+        "player": {
+          "id": 434352,
+          "name": "A. Toure"
+        },
+        "assist": {
+          "id": 20529,
+          "name": "G. Hein"
+        },
+        "type": "subst",
+        "detail": "Substitution 2",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 61,
+          "extra": null
+        },
+        "team": {
+          "id": 112,
+          "name": "Metz",
+          "logo": "https://media.api-sports.io/football/teams/112.png"
+        },
+        "player": {
+          "id": 68177,
+          "name": "G. Abuashvili"
+        },
+        "assist": {
+          "id": 336180,
+          "name": "M. Bokele Mputu"
+        },
+        "type": "subst",
+        "detail": "Substitution 3",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 62,
+          "extra": null
+        },
+        "team": {
+          "id": 112,
+          "name": "Metz",
+          "logo": "https://media.api-sports.io/football/teams/112.png"
+        },
+        "player": {
+          "id": 404588,
+          "name": "Cléo Mélières"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Foul"
+      },
+      {
+        "time": {
+          "elapsed": 64,
+          "extra": null
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 20600,
+          "name": "R. Perraud"
+        },
+        "assist": {
+          "id": 67889,
+          "name": "H. Haraldsson"
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 68,
+          "extra": null
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 306979,
+          "name": "H. Igamane"
+        },
+        "assist": {
+          "id": 99576,
+          "name": "O. Sahraoui"
+        },
+        "type": "subst",
+        "detail": "Substitution 2",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 68,
+          "extra": null
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 1567,
+          "name": "A. Mandi"
+        },
+        "assist": {
+          "id": 312964,
+          "name": "N. Ngoy"
+        },
+        "type": "subst",
+        "detail": "Substitution 3",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 68,
+          "extra": null
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 340077,
+          "name": "M. Fernandez-Pardo"
+        },
+        "assist": {
+          "id": 409,
+          "name": "N. Bentaleb"
+        },
+        "type": "subst",
+        "detail": "Substitution 4",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 77,
+          "extra": null
+        },
+        "team": {
+          "id": 112,
+          "name": "Metz",
+          "logo": "https://media.api-sports.io/football/teams/112.png"
+        },
+        "player": {
+          "id": 403878,
+          "name": "P. Sy"
+        },
+        "assist": {
+          "id": 158532,
+          "name": "J. Fischer"
+        },
+        "type": "subst",
+        "detail": "Substitution 4",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 82,
+          "extra": null
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 2204,
+          "name": "B. Andre"
+        },
+        "assist": {
+          "id": 135749,
+          "name": "F. Correia"
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 83,
+          "extra": null
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 135749,
+          "name": "F. Correia"
+        },
+        "assist": {
+          "id": 318416,
+          "name": "M. Broholm"
+        },
+        "type": "subst",
+        "detail": "Substitution 5",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 89,
+          "extra": null
+        },
+        "team": {
+          "id": 112,
+          "name": "Metz",
+          "logo": "https://media.api-sports.io/football/teams/112.png"
+        },
+        "player": {
+          "id": 21640,
+          "name": "Jessy Deminguet"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Foul"
+      },
+      {
+        "time": {
+          "elapsed": 90,
+          "extra": 10
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 67889,
+          "name": "Hakon Arnar Haraldsson"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Argument"
+      },
+      {
+        "time": {
+          "elapsed": 90,
+          "extra": null
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 2204,
+          "name": "B. Andre"
+        },
+        "assist": {
+          "id": 487381,
+          "name": "S. Diaoune"
+        },
+        "type": "subst",
+        "detail": "Substitution 6",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 90,
+          "extra": null
+        },
+        "team": {
+          "id": 112,
+          "name": "Metz",
+          "logo": "https://media.api-sports.io/football/teams/112.png"
+        },
+        "player": {
+          "id": 21640,
+          "name": "J. Deminguet"
+        },
+        "assist": {
+          "id": 384683,
+          "name": "I. Guerti"
+        },
+        "type": "subst",
+        "detail": "Substitution 5",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 90,
+          "extra": null
+        },
+        "team": {
+          "id": 112,
+          "name": "Metz",
+          "logo": "https://media.api-sports.io/football/teams/112.png"
+        },
+        "player": {
+          "id": 20534,
+          "name": "C. Sabaly"
+        },
+        "assist": {
+          "id": 408870,
+          "name": "I. Sane"
+        },
+        "type": "subst",
+        "detail": "Substitution 6",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 90,
+          "extra": null
+        },
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "player": {
+          "id": 67889,
+          "name": "H. Haraldsson"
+        },
+        "assist": {
+          "id": 487381,
+          "name": "S. Diaoune"
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 90,
+          "extra": null
+        },
+        "team": {
+          "id": 112,
+          "name": "Metz",
+          "logo": "https://media.api-sports.io/football/teams/112.png"
+        },
+        "player": {
+          "id": 408870,
+          "name": "I. Sane"
+        },
+        "assist": {
+          "id": 20535,
+          "name": "H. Diallo"
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      }
+    ],
+    "Lineups": [
+      {
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png",
+          "colors": {
+            "player": {
+              "primary": "df0000",
+              "number": "ffffff",
+              "border": "df0000"
+            },
+            "goalkeeper": {
+              "primary": "86bdf3",
+              "number": "ffffff",
+              "border": "86bdf3"
+            }
+          }
+        },
+        "coach": {
+          "id": 68,
+          "name": "Bruno Génésio",
+          "photo": "https://media.api-sports.io/football/coachs/68.png"
+        },
+        "formation": "4-2-3-1",
+        "startXI": [
+          {
+            "player": {
+              "id": 1337,
+              "name": "B. Ozer",
+              "number": 1,
+              "pos": "G",
+              "grid": "1:1"
+            }
+          },
+          {
+            "player": {
+              "id": 264,
+              "name": "T. Meunier",
+              "number": 12,
+              "pos": "D",
+              "grid": "2:4"
+            }
+          },
+          {
+            "player": {
+              "id": 375,
+              "name": "C. Mbemba",
+              "number": 18,
+              "pos": "D",
+              "grid": "2:3"
+            }
+          },
+          {
+            "player": {
+              "id": 1567,
+              "name": "A. Mandi",
+              "number": 23,
+              "pos": "D",
+              "grid": "2:2"
+            }
+          },
+          {
+            "player": {
+              "id": 20600,
+              "name": "R. Perraud",
+              "number": 15,
+              "pos": "D",
+              "grid": "2:1"
+            }
+          },
+          {
+            "player": {
+              "id": 2204,
+              "name": "B. Andre",
+              "number": 21,
+              "pos": "M",
+              "grid": "3:2"
+            }
+          },
+          {
+            "player": {
+              "id": 438688,
+              "name": "A. Bouaddi",
+              "number": 32,
+              "pos": "M",
+              "grid": "3:1"
+            }
+          },
+          {
+            "player": {
+              "id": 135749,
+              "name": "F. Correia",
+              "number": 27,
+              "pos": "M",
+              "grid": "4:3"
+            }
+          },
+          {
+            "player": {
+              "id": 67889,
+              "name": "H. Haraldsson",
+              "number": 10,
+              "pos": "M",
+              "grid": "4:2"
+            }
+          },
+          {
+            "player": {
+              "id": 340077,
+              "name": "M. Fernandez-Pardo",
+              "number": 7,
+              "pos": "M",
+              "grid": "4:1"
+            }
+          },
+          {
+            "player": {
+              "id": 306979,
+              "name": "H. Igamane",
+              "number": 29,
+              "pos": "F",
+              "grid": "5:1"
+            }
+          }
+        ],
+        "substitutes": [
+          {
+            "player": {
+              "id": 375598,
+              "name": "N. Mukau",
+              "number": 17,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 99576,
+              "name": "O. Sahraoui",
+              "number": 11,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 2096,
+              "name": "A. Bodart",
+              "number": 16,
+              "pos": "G",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 318416,
+              "name": "M. Broholm",
+              "number": 14,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 312964,
+              "name": "N. Ngoy",
+              "number": 3,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 37151,
+              "name": "C. Verdonk",
+              "number": 24,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 334878,
+              "name": "U. Raghouber",
+              "number": 28,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 487381,
+              "name": "S. Diaoune",
+              "number": 35,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 409,
+              "name": "N. Bentaleb",
+              "number": 6,
+              "pos": "M",
+              "grid": null
+            }
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 112,
+          "name": "Metz",
+          "logo": "https://media.api-sports.io/football/teams/112.png",
+          "colors": {
+            "player": {
+              "primary": "cbc7dc",
+              "number": "74333f",
+              "border": "cbc7dc"
+            },
+            "goalkeeper": {
+              "primary": "c33b8a",
+              "number": "dbe821",
+              "border": "c33b8a"
+            }
+          }
+        },
+        "coach": {
+          "id": 10194,
+          "name": "Stéphane Le Mignan",
+          "photo": "https://media.api-sports.io/football/coachs/10194.png"
+        },
+        "formation": "4-3-3",
+        "startXI": [
+          {
+            "player": {
+              "id": 403878,
+              "name": "P. Sy",
+              "number": 61,
+              "pos": "G",
+              "grid": "1:1"
+            }
+          },
+          {
+            "player": {
+              "id": 96331,
+              "name": "K. Kouao",
+              "number": 39,
+              "pos": "D",
+              "grid": "2:4"
+            }
+          },
+          {
+            "player": {
+              "id": 3240,
+              "name": "J. Gbamin",
+              "number": 5,
+              "pos": "D",
+              "grid": "2:3"
+            }
+          },
+          {
+            "player": {
+              "id": 363792,
+              "name": "T. Yegbe",
+              "number": 15,
+              "pos": "D",
+              "grid": "2:2"
+            }
+          },
+          {
+            "player": {
+              "id": 2181,
+              "name": "G. Tsitaishvili",
+              "number": 7,
+              "pos": "D",
+              "grid": "2:1"
+            }
+          },
+          {
+            "player": {
+              "id": 434352,
+              "name": "A. Toure",
+              "number": 12,
+              "pos": "M",
+              "grid": "3:3"
+            }
+          },
+          {
+            "player": {
+              "id": 407,
+              "name": "B. Stambouli",
+              "number": 21,
+              "pos": "M",
+              "grid": "3:2"
+            }
+          },
+          {
+            "player": {
+              "id": 21640,
+              "name": "J. Deminguet",
+              "number": 20,
+              "pos": "M",
+              "grid": "3:1"
+            }
+          },
+          {
+            "player": {
+              "id": 20534,
+              "name": "C. Sabaly",
+              "number": 14,
+              "pos": "F",
+              "grid": "4:3"
+            }
+          },
+          {
+            "player": {
+              "id": 20535,
+              "name": "H. Diallo",
+              "number": 30,
+              "pos": "F",
+              "grid": "4:2"
+            }
+          },
+          {
+            "player": {
+              "id": 68177,
+              "name": "G. Abuashvili",
+              "number": 9,
+              "pos": "F",
+              "grid": "4:1"
+            }
+          }
+        ],
+        "substitutes": [
+          {
+            "player": {
+              "id": 158532,
+              "name": "J. Fischer",
+              "number": 1,
+              "pos": "G",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 19518,
+              "name": "M. Colin",
+              "number": 2,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 404588,
+              "name": "C. Melieres",
+              "number": 25,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 20529,
+              "name": "G. Hein",
+              "number": 10,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 384683,
+              "name": "I. Guerti",
+              "number": 29,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 570580,
+              "name": "B. Munongo",
+              "number": 33,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 336180,
+              "name": "M. Bokele Mputu",
+              "number": 19,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 408870,
+              "name": "I. Sane",
+              "number": 23,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 19323,
+              "name": "J. Asoro",
+              "number": 99,
+              "pos": "F",
+              "grid": null
+            }
+          }
+        ]
+      }
+    ],
+    "Statistics": [
+      {
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": 12
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 8
+          },
+          {
+            "type": "Total Shots",
+            "value": 23
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 3
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 18
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 5
+          },
+          {
+            "type": "Fouls",
+            "value": 18
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 7
+          },
+          {
+            "type": "Offsides",
+            "value": 1
+          },
+          {
+            "type": "Ball Possession",
+            "value": "62%"
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 3
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 3
+          },
+          {
+            "type": "Total passes",
+            "value": 551
+          },
+          {
+            "type": "Passes accurate",
+            "value": 477
+          },
+          {
+            "type": "Passes %",
+            "value": "87%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "2.84"
+          },
+          {
+            "type": "goals_prevented",
+            "value": -1
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 112,
+          "name": "Metz",
+          "logo": "https://media.api-sports.io/football/teams/112.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": 4
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 5
+          },
+          {
+            "type": "Total Shots",
+            "value": 10
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 1
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 9
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 1
+          },
+          {
+            "type": "Fouls",
+            "value": 12
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 8
+          },
+          {
+            "type": "Offsides",
+            "value": 0
+          },
+          {
+            "type": "Ball Possession",
+            "value": "38%"
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 2
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 6
+          },
+          {
+            "type": "Total passes",
+            "value": 319
+          },
+          {
+            "type": "Passes accurate",
+            "value": 251
+          },
+          {
+            "type": "Passes %",
+            "value": "79%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "1.29"
+          },
+          {
+            "type": "goals_prevented",
+            "value": -1
+          }
+        ]
+      }
+    ],
     "Players": [],
     "HeadToHead": []
   },
@@ -6490,9 +7601,878 @@
       "Home": 2,
       "Away": 0
     },
-    "Events": [],
-    "Lineups": [],
-    "Statistics": [],
+    "Events": [
+      {
+        "time": {
+          "elapsed": 16,
+          "extra": null
+        },
+        "team": {
+          "id": 77,
+          "name": "Angers",
+          "logo": "https://media.api-sports.io/football/teams/77.png"
+        },
+        "player": {
+          "id": 457541,
+          "name": "P. Peter"
+        },
+        "assist": {
+          "id": 191289,
+          "name": "A. Sbai"
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 28,
+          "extra": null
+        },
+        "team": {
+          "id": 77,
+          "name": "Angers",
+          "logo": "https://media.api-sports.io/football/teams/77.png"
+        },
+        "player": {
+          "id": 457541,
+          "name": "P. Peter"
+        },
+        "assist": {
+          "id": 421875,
+          "name": "S. Cherif"
+        },
+        "type": "subst",
+        "detail": "Substitution 1",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 46,
+          "extra": null
+        },
+        "team": {
+          "id": 97,
+          "name": "Lorient",
+          "logo": "https://media.api-sports.io/football/teams/97.png"
+        },
+        "player": {
+          "id": 193501,
+          "name": "B. Meite"
+        },
+        "assist": {
+          "id": 1031,
+          "name": "Igor Silva"
+        },
+        "type": "subst",
+        "detail": "Substitution 1",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 59,
+          "extra": null
+        },
+        "team": {
+          "id": 77,
+          "name": "Angers",
+          "logo": "https://media.api-sports.io/football/teams/77.png"
+        },
+        "player": {
+          "id": 421875,
+          "name": "S. Cherif"
+        },
+        "assist": {
+          "id": 174708,
+          "name": "Y. Belkhdim"
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 64,
+          "extra": null
+        },
+        "team": {
+          "id": 77,
+          "name": "Angers",
+          "logo": "https://media.api-sports.io/football/teams/77.png"
+        },
+        "player": {
+          "id": 191289,
+          "name": "A. Sbai"
+        },
+        "assist": {
+          "id": 174660,
+          "name": "L. Raolisoa"
+        },
+        "type": "subst",
+        "detail": "Substitution 2",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 64,
+          "extra": null
+        },
+        "team": {
+          "id": 77,
+          "name": "Angers",
+          "logo": "https://media.api-sports.io/football/teams/77.png"
+        },
+        "player": {
+          "id": 289555,
+          "name": "L. Mouton"
+        },
+        "assist": {
+          "id": 403277,
+          "name": "L. Machine"
+        },
+        "type": "subst",
+        "detail": "Substitution 3",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 65,
+          "extra": null
+        },
+        "team": {
+          "id": 97,
+          "name": "Lorient",
+          "logo": "https://media.api-sports.io/football/teams/97.png"
+        },
+        "player": {
+          "id": 22171,
+          "name": "J. Makengo"
+        },
+        "assist": {
+          "id": 322865,
+          "name": "D. Karim"
+        },
+        "type": "subst",
+        "detail": "Substitution 2",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 65,
+          "extra": null
+        },
+        "team": {
+          "id": 97,
+          "name": "Lorient",
+          "logo": "https://media.api-sports.io/football/teams/97.png"
+        },
+        "player": {
+          "id": 276662,
+          "name": "P. Pagis"
+        },
+        "assist": {
+          "id": 200873,
+          "name": "M. Bamba"
+        },
+        "type": "subst",
+        "detail": "Substitution 3",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 65,
+          "extra": null
+        },
+        "team": {
+          "id": 97,
+          "name": "Lorient",
+          "logo": "https://media.api-sports.io/football/teams/97.png"
+        },
+        "player": {
+          "id": 72457,
+          "name": "A. Tosin"
+        },
+        "assist": {
+          "id": 144319,
+          "name": "S. Soumano"
+        },
+        "type": "subst",
+        "detail": "Substitution 4",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 75,
+          "extra": null
+        },
+        "team": {
+          "id": 77,
+          "name": "Angers",
+          "logo": "https://media.api-sports.io/football/teams/77.png"
+        },
+        "player": {
+          "id": 21381,
+          "name": "Jordan Lefort"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Foul"
+      },
+      {
+        "time": {
+          "elapsed": 78,
+          "extra": null
+        },
+        "team": {
+          "id": 97,
+          "name": "Lorient",
+          "logo": "https://media.api-sports.io/football/teams/97.png"
+        },
+        "player": {
+          "id": 20917,
+          "name": "L. Abergel"
+        },
+        "assist": {
+          "id": 23363,
+          "name": "N. Cadiou"
+        },
+        "type": "subst",
+        "detail": "Substitution 5",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 89,
+          "extra": null
+        },
+        "team": {
+          "id": 77,
+          "name": "Angers",
+          "logo": "https://media.api-sports.io/football/teams/77.png"
+        },
+        "player": {
+          "id": 20692,
+          "name": "H. Abdelli"
+        },
+        "assist": {
+          "id": 343609,
+          "name": "J. Ekomie"
+        },
+        "type": "subst",
+        "detail": "Substitution 4",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 89,
+          "extra": null
+        },
+        "team": {
+          "id": 77,
+          "name": "Angers",
+          "logo": "https://media.api-sports.io/football/teams/77.png"
+        },
+        "player": {
+          "id": 174708,
+          "name": "Y. Belkhdim"
+        },
+        "assist": {
+          "id": 425207,
+          "name": "M. Courcoul"
+        },
+        "type": "subst",
+        "detail": "Substitution 5",
+        "comments": null
+      }
+    ],
+    "Lineups": [
+      {
+        "team": {
+          "id": 77,
+          "name": "Angers",
+          "logo": "https://media.api-sports.io/football/teams/77.png",
+          "colors": {
+            "player": {
+              "primary": "ebeef0",
+              "number": "ffffff",
+              "border": "ebeef0"
+            },
+            "goalkeeper": {
+              "primary": "00d8ad",
+              "number": "ffffff",
+              "border": "00d8ad"
+            }
+          }
+        },
+        "coach": {
+          "id": 19560,
+          "name": "Alexandre Dujeux",
+          "photo": "https://media.api-sports.io/football/coachs/19560.png"
+        },
+        "formation": "4-2-3-1",
+        "startXI": [
+          {
+            "player": {
+              "id": 22220,
+              "name": "H. Koffi",
+              "number": 12,
+              "pos": "G",
+              "grid": "1:1"
+            }
+          },
+          {
+            "player": {
+              "id": 20850,
+              "name": "C. Arcus",
+              "number": 2,
+              "pos": "D",
+              "grid": "2:4"
+            }
+          },
+          {
+            "player": {
+              "id": 271540,
+              "name": "O. Camara",
+              "number": 4,
+              "pos": "D",
+              "grid": "2:3"
+            }
+          },
+          {
+            "player": {
+              "id": 21381,
+              "name": "J. Lefort",
+              "number": 21,
+              "pos": "D",
+              "grid": "2:2"
+            }
+          },
+          {
+            "player": {
+              "id": 41146,
+              "name": "F. Hanin",
+              "number": 26,
+              "pos": "D",
+              "grid": "2:1"
+            }
+          },
+          {
+            "player": {
+              "id": 20554,
+              "name": "H. Belkebla",
+              "number": 93,
+              "pos": "M",
+              "grid": "3:2"
+            }
+          },
+          {
+            "player": {
+              "id": 20692,
+              "name": "H. Abdelli",
+              "number": 10,
+              "pos": "M",
+              "grid": "3:1"
+            }
+          },
+          {
+            "player": {
+              "id": 174708,
+              "name": "Y. Belkhdim",
+              "number": 14,
+              "pos": "M",
+              "grid": "4:3"
+            }
+          },
+          {
+            "player": {
+              "id": 289555,
+              "name": "L. Mouton",
+              "number": 6,
+              "pos": "M",
+              "grid": "4:2"
+            }
+          },
+          {
+            "player": {
+              "id": 191289,
+              "name": "A. Sbai",
+              "number": 7,
+              "pos": "M",
+              "grid": "4:1"
+            }
+          },
+          {
+            "player": {
+              "id": 457541,
+              "name": "P. Peter",
+              "number": 35,
+              "pos": "F",
+              "grid": "5:1"
+            }
+          }
+        ],
+        "substitutes": [
+          {
+            "player": {
+              "id": 174973,
+              "name": "M. Zinga",
+              "number": 16,
+              "pos": "G",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 343609,
+              "name": "J. Ekomie",
+              "number": 3,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 3234,
+              "name": "A. Bamba",
+              "number": 25,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 21145,
+              "name": "P. Capelle",
+              "number": 15,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 425207,
+              "name": "M. Courcoul",
+              "number": 5,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 174660,
+              "name": "L. Raolisoa",
+              "number": 27,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 579375,
+              "name": "H. Djibirin",
+              "number": 31,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 421875,
+              "name": "S. Cherif",
+              "number": 11,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 403277,
+              "name": "L. Machine",
+              "number": 36,
+              "pos": "F",
+              "grid": null
+            }
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 97,
+          "name": "Lorient",
+          "logo": "https://media.api-sports.io/football/teams/97.png",
+          "colors": {
+            "player": {
+              "primary": "ffffff",
+              "number": "518ac8",
+              "border": "ffffff"
+            },
+            "goalkeeper": {
+              "primary": "db009f",
+              "number": "ffffff",
+              "border": "db009f"
+            }
+          }
+        },
+        "coach": {
+          "id": 1466,
+          "name": "Olivier Pantaloni",
+          "photo": "https://media.api-sports.io/football/coachs/1466.png"
+        },
+        "formation": "3-4-2-1",
+        "startXI": [
+          {
+            "player": {
+              "id": 1142,
+              "name": "Y. Mvogo",
+              "number": 38,
+              "pos": "G",
+              "grid": "1:1"
+            }
+          },
+          {
+            "player": {
+              "id": 193501,
+              "name": "B. Meite",
+              "number": 5,
+              "pos": "D",
+              "grid": "2:3"
+            }
+          },
+          {
+            "player": {
+              "id": 50030,
+              "name": "M. Talbi",
+              "number": 3,
+              "pos": "D",
+              "grid": "2:2"
+            }
+          },
+          {
+            "player": {
+              "id": 152669,
+              "name": "D. Yongwa",
+              "number": 44,
+              "pos": "D",
+              "grid": "2:1"
+            }
+          },
+          {
+            "player": {
+              "id": 174703,
+              "name": "T. Le Bris",
+              "number": 11,
+              "pos": "M",
+              "grid": "3:4"
+            }
+          },
+          {
+            "player": {
+              "id": 402265,
+              "name": "A. Avom",
+              "number": 62,
+              "pos": "M",
+              "grid": "3:3"
+            }
+          },
+          {
+            "player": {
+              "id": 20917,
+              "name": "L. Abergel",
+              "number": 6,
+              "pos": "M",
+              "grid": "3:2"
+            }
+          },
+          {
+            "player": {
+              "id": 402386,
+              "name": "A. Kouassi",
+              "number": 43,
+              "pos": "M",
+              "grid": "3:1"
+            }
+          },
+          {
+            "player": {
+              "id": 22171,
+              "name": "J. Makengo",
+              "number": 17,
+              "pos": "F",
+              "grid": "4:2"
+            }
+          },
+          {
+            "player": {
+              "id": 276662,
+              "name": "P. Pagis",
+              "number": 10,
+              "pos": "F",
+              "grid": "4:1"
+            }
+          },
+          {
+            "player": {
+              "id": 72457,
+              "name": "A. Tosin",
+              "number": 15,
+              "pos": "F",
+              "grid": "5:1"
+            }
+          }
+        ],
+        "substitutes": [
+          {
+            "player": {
+              "id": 22241,
+              "name": "B. Kamara",
+              "number": 21,
+              "pos": "G",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 214310,
+              "name": "N. Adjei",
+              "number": 32,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 1031,
+              "name": "Igor Silva",
+              "number": 2,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 23363,
+              "name": "N. Cadiou",
+              "number": 8,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 322865,
+              "name": "D. Karim",
+              "number": 29,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 158551,
+              "name": "J. Mvuka Mugisha",
+              "number": 93,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 434785,
+              "name": "M. Bley",
+              "number": 34,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 200873,
+              "name": "M. Bamba",
+              "number": 9,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 144319,
+              "name": "S. Soumano",
+              "number": 28,
+              "pos": "F",
+              "grid": null
+            }
+          }
+        ]
+      }
+    ],
+    "Statistics": [
+      {
+        "team": {
+          "id": 77,
+          "name": "Angers",
+          "logo": "https://media.api-sports.io/football/teams/77.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": 4
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 1
+          },
+          {
+            "type": "Total Shots",
+            "value": 7
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 2
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 5
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 2
+          },
+          {
+            "type": "Fouls",
+            "value": 14
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 1
+          },
+          {
+            "type": "Offsides",
+            "value": 0
+          },
+          {
+            "type": "Ball Possession",
+            "value": "37%"
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 1
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 4
+          },
+          {
+            "type": "Total passes",
+            "value": 380
+          },
+          {
+            "type": "Passes accurate",
+            "value": 315
+          },
+          {
+            "type": "Passes %",
+            "value": "83%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "0.93"
+          },
+          {
+            "type": "goals_prevented",
+            "value": -1
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 97,
+          "name": "Lorient",
+          "logo": "https://media.api-sports.io/football/teams/97.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": 4
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 8
+          },
+          {
+            "type": "Total Shots",
+            "value": 23
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 11
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 14
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 9
+          },
+          {
+            "type": "Fouls",
+            "value": 6
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 6
+          },
+          {
+            "type": "Offsides",
+            "value": 1
+          },
+          {
+            "type": "Ball Possession",
+            "value": "63%"
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 0
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 2
+          },
+          {
+            "type": "Total passes",
+            "value": 616
+          },
+          {
+            "type": "Passes accurate",
+            "value": 548
+          },
+          {
+            "type": "Passes %",
+            "value": "89%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "1.92"
+          },
+          {
+            "type": "goals_prevented",
+            "value": -1
+          }
+        ]
+      }
+    ],
     "Players": [],
     "HeadToHead": []
   },
@@ -6508,8 +8488,705 @@
       "Home": 0,
       "Away": 1
     },
-    "Events": [],
-    "Lineups": [],
+    "Events": [
+      {
+        "time": {
+          "elapsed": 2,
+          "extra": null
+        },
+        "team": {
+          "id": 111,
+          "name": "Le Havre",
+          "logo": "https://media.api-sports.io/football/teams/111.png"
+        },
+        "player": {
+          "id": 174927,
+          "name": "Arouna Sangante"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Foul"
+      },
+      {
+        "time": {
+          "elapsed": 28,
+          "extra": null
+        },
+        "team": {
+          "id": 111,
+          "name": "Le Havre",
+          "logo": "https://media.api-sports.io/football/teams/111.png"
+        },
+        "player": {
+          "id": 162443,
+          "name": "Étienne Youte Kinkoue"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Foul"
+      },
+      {
+        "time": {
+          "elapsed": 41,
+          "extra": null
+        },
+        "team": {
+          "id": 108,
+          "name": "Auxerre",
+          "logo": "https://media.api-sports.io/football/teams/108.png"
+        },
+        "player": {
+          "id": 90617,
+          "name": "Lassine Sinayoko"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Foul"
+      },
+      {
+        "time": {
+          "elapsed": 46,
+          "extra": null
+        },
+        "team": {
+          "id": 108,
+          "name": "Auxerre",
+          "logo": "https://media.api-sports.io/football/teams/108.png"
+        },
+        "player": {
+          "id": 21010,
+          "name": "E. Owusu"
+        },
+        "assist": {
+          "id": 30748,
+          "name": "A. Diousse"
+        },
+        "type": "subst",
+        "detail": "Substitution 1",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 47,
+          "extra": null
+        },
+        "team": {
+          "id": 111,
+          "name": "Le Havre",
+          "logo": "https://media.api-sports.io/football/teams/111.png"
+        },
+        "player": {
+          "id": 21103,
+          "name": "A. Toure"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 62,
+          "extra": null
+        },
+        "team": {
+          "id": 111,
+          "name": "Le Havre",
+          "logo": "https://media.api-sports.io/football/teams/111.png"
+        },
+        "player": {
+          "id": 1945,
+          "name": "A. Samatta"
+        },
+        "assist": {
+          "id": 36932,
+          "name": "Y. Namli"
+        },
+        "type": "subst",
+        "detail": "Substitution 1",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 68,
+          "extra": null
+        },
+        "team": {
+          "id": 108,
+          "name": "Auxerre",
+          "logo": "https://media.api-sports.io/football/teams/108.png"
+        },
+        "player": {
+          "id": 190686,
+          "name": "S. Mara"
+        },
+        "assist": {
+          "id": 322595,
+          "name": "L. Coulibaly"
+        },
+        "type": "subst",
+        "detail": "Substitution 2",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 68,
+          "extra": null
+        },
+        "team": {
+          "id": 108,
+          "name": "Auxerre",
+          "logo": "https://media.api-sports.io/football/teams/108.png"
+        },
+        "player": {
+          "id": 174915,
+          "name": "J. Casimir"
+        },
+        "assist": {
+          "id": 496896,
+          "name": "R. Matondo"
+        },
+        "type": "subst",
+        "detail": "Substitution 3",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 78,
+          "extra": null
+        },
+        "team": {
+          "id": 111,
+          "name": "Le Havre",
+          "logo": "https://media.api-sports.io/football/teams/111.png"
+        },
+        "player": {
+          "id": 174937,
+          "name": "Y. Kechta"
+        },
+        "assist": {
+          "id": 174625,
+          "name": "F. Doucoure"
+        },
+        "type": "subst",
+        "detail": "Substitution 2",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 78,
+          "extra": null
+        },
+        "team": {
+          "id": 111,
+          "name": "Le Havre",
+          "logo": "https://media.api-sports.io/football/teams/111.png"
+        },
+        "player": {
+          "id": 128342,
+          "name": "R. Ndiaye"
+        },
+        "assist": {
+          "id": 364093,
+          "name": "S. Ebonog"
+        },
+        "type": "subst",
+        "detail": "Substitution 3",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 82,
+          "extra": null
+        },
+        "team": {
+          "id": 108,
+          "name": "Auxerre",
+          "logo": "https://media.api-sports.io/football/teams/108.png"
+        },
+        "player": {
+          "id": 191240,
+          "name": "M. Senaya"
+        },
+        "assist": {
+          "id": 293643,
+          "name": "I. Osman"
+        },
+        "type": "subst",
+        "detail": "Substitution 4",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 87,
+          "extra": null
+        },
+        "team": {
+          "id": 108,
+          "name": "Auxerre",
+          "logo": "https://media.api-sports.io/football/teams/108.png"
+        },
+        "player": {
+          "id": 7578,
+          "name": "G. Mensah"
+        },
+        "assist": {
+          "id": 215827,
+          "name": "F. Oppegard"
+        },
+        "type": "subst",
+        "detail": "Substitution 5",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 89,
+          "extra": null
+        },
+        "team": {
+          "id": 108,
+          "name": "Auxerre",
+          "logo": "https://media.api-sports.io/football/teams/108.png"
+        },
+        "player": {
+          "id": 19625,
+          "name": "Danny Namaso"
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Card",
+        "detail": "Yellow Card",
+        "comments": "Argument"
+      }
+    ],
+    "Lineups": [
+      {
+        "team": {
+          "id": 108,
+          "name": "Auxerre",
+          "logo": "https://media.api-sports.io/football/teams/108.png",
+          "colors": {
+            "player": {
+              "primary": "ffffff",
+              "number": "2654d7",
+              "border": "ffffff"
+            },
+            "goalkeeper": {
+              "primary": "8bdae1",
+              "number": "2c3793",
+              "border": "8bdae1"
+            }
+          }
+        },
+        "coach": {
+          "id": 1470,
+          "name": "Christophe Pélissier",
+          "photo": "https://media.api-sports.io/football/coachs/1470.png"
+        },
+        "formation": "3-4-2-1",
+        "startXI": [
+          {
+            "player": {
+              "id": 20542,
+              "name": "D. Leon",
+              "number": 16,
+              "pos": "G",
+              "grid": "1:1"
+            }
+          },
+          {
+            "player": {
+              "id": 191240,
+              "name": "M. Senaya",
+              "number": 29,
+              "pos": "D",
+              "grid": "2:3"
+            }
+          },
+          {
+            "player": {
+              "id": 31016,
+              "name": "F. Sierralta",
+              "number": 4,
+              "pos": "D",
+              "grid": "2:2"
+            }
+          },
+          {
+            "player": {
+              "id": 191189,
+              "name": "C. Akpa",
+              "number": 92,
+              "pos": "D",
+              "grid": "2:1"
+            }
+          },
+          {
+            "player": {
+              "id": 174915,
+              "name": "J. Casimir",
+              "number": 7,
+              "pos": "M",
+              "grid": "3:4"
+            }
+          },
+          {
+            "player": {
+              "id": 319919,
+              "name": "O. El Azzouzi",
+              "number": 17,
+              "pos": "M",
+              "grid": "3:3"
+            }
+          },
+          {
+            "player": {
+              "id": 21010,
+              "name": "E. Owusu",
+              "number": 42,
+              "pos": "M",
+              "grid": "3:2"
+            }
+          },
+          {
+            "player": {
+              "id": 7578,
+              "name": "G. Mensah",
+              "number": 14,
+              "pos": "M",
+              "grid": "3:1"
+            }
+          },
+          {
+            "player": {
+              "id": 90617,
+              "name": "L. Sinayoko",
+              "number": 10,
+              "pos": "F",
+              "grid": "4:2"
+            }
+          },
+          {
+            "player": {
+              "id": 19625,
+              "name": "Danny Namaso",
+              "number": 19,
+              "pos": "F",
+              "grid": "4:1"
+            }
+          },
+          {
+            "player": {
+              "id": 190686,
+              "name": "S. Mara",
+              "number": 9,
+              "pos": "F",
+              "grid": "5:1"
+            }
+          }
+        ],
+        "substitutes": [
+          {
+            "player": {
+              "id": 193681,
+              "name": "T. De Percin",
+              "number": 40,
+              "pos": "G",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 162466,
+              "name": "S. Diomande",
+              "number": 20,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 215827,
+              "name": "F. Oppegard",
+              "number": 22,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 193953,
+              "name": "L. Sy",
+              "number": 27,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 30748,
+              "name": "A. Diousse",
+              "number": 18,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 322595,
+              "name": "L. Coulibaly",
+              "number": 21,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 496896,
+              "name": "R. Matondo",
+              "number": 34,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 293643,
+              "name": "I. Osman",
+              "number": 23,
+              "pos": "F",
+              "grid": null
+            }
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 111,
+          "name": "Le Havre",
+          "logo": "https://media.api-sports.io/football/teams/111.png",
+          "colors": {
+            "player": {
+              "primary": "a4def9",
+              "number": "ffffff",
+              "border": "a4def9"
+            },
+            "goalkeeper": {
+              "primary": "fb2a3d",
+              "number": "ffffff",
+              "border": "fb2a3d"
+            }
+          }
+        },
+        "coach": {
+          "id": 19134,
+          "name": "Didier Frédéric Thierry Digard",
+          "photo": "https://media.api-sports.io/football/coachs/19134.png"
+        },
+        "formation": "4-1-3-2",
+        "startXI": [
+          {
+            "player": {
+              "id": 119853,
+              "name": "M. Diaw",
+              "number": 99,
+              "pos": "G",
+              "grid": "1:1"
+            }
+          },
+          {
+            "player": {
+              "id": 2336,
+              "name": "L. Nego",
+              "number": 7,
+              "pos": "D",
+              "grid": "2:4"
+            }
+          },
+          {
+            "player": {
+              "id": 162443,
+              "name": "E. Youte Kinkoue",
+              "number": 6,
+              "pos": "D",
+              "grid": "2:3"
+            }
+          },
+          {
+            "player": {
+              "id": 174927,
+              "name": "A. Sangante",
+              "number": 93,
+              "pos": "D",
+              "grid": "2:2"
+            }
+          },
+          {
+            "player": {
+              "id": 23637,
+              "name": "Y. Zouaoui",
+              "number": 18,
+              "pos": "D",
+              "grid": "2:1"
+            }
+          },
+          {
+            "player": {
+              "id": 33165,
+              "name": "A. Seko",
+              "number": 15,
+              "pos": "M",
+              "grid": "3:1"
+            }
+          },
+          {
+            "player": {
+              "id": 174937,
+              "name": "Y. Kechta",
+              "number": 8,
+              "pos": "M",
+              "grid": "4:3"
+            }
+          },
+          {
+            "player": {
+              "id": 128342,
+              "name": "R. Ndiaye",
+              "number": 14,
+              "pos": "M",
+              "grid": "4:2"
+            }
+          },
+          {
+            "player": {
+              "id": 21103,
+              "name": "A. Toure",
+              "number": 94,
+              "pos": "M",
+              "grid": "4:1"
+            }
+          },
+          {
+            "player": {
+              "id": 1945,
+              "name": "A. Samatta",
+              "number": 70,
+              "pos": "F",
+              "grid": "5:2"
+            }
+          },
+          {
+            "player": {
+              "id": 156465,
+              "name": "I. Soumare",
+              "number": 45,
+              "pos": "F",
+              "grid": "5:1"
+            }
+          }
+        ],
+        "substitutes": [
+          {
+            "player": {
+              "id": 20521,
+              "name": "T. Delaine",
+              "number": 23,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 174625,
+              "name": "F. Doucoure",
+              "number": 13,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 513415,
+              "name": "S. Zagadou",
+              "number": 29,
+              "pos": "D",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 364093,
+              "name": "S. Ebonog",
+              "number": 26,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 145476,
+              "name": "R. Khadra",
+              "number": 30,
+              "pos": "M",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 36932,
+              "name": "Y. Namli",
+              "number": 21,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 21641,
+              "name": "G. Kyeremeh",
+              "number": 11,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 961,
+              "name": "F. Mambimbi",
+              "number": 10,
+              "pos": "F",
+              "grid": null
+            }
+          },
+          {
+            "player": {
+              "id": 24012,
+              "name": "L. Mpasi-Nzau",
+              "number": 77,
+              "pos": "G",
+              "grid": null
+            }
+          }
+        ]
+      }
+    ],
     "Statistics": [],
     "Players": [],
     "HeadToHead": []
