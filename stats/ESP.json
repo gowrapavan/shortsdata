@@ -13726,5 +13726,1984 @@
     "Statistics": [],
     "Players": [],
     "HeadToHead": []
+  },
+  {
+    "StatsId": 1390910,
+    "GameId": 544306,
+    "Date": "2025-10-27T20:00:00+00:00",
+    "Status": "NS",
+    "Round": "Regular Season - 10",
+    "HomeTeam": "Real Betis",
+    "AwayTeam": "Atletico Madrid",
+    "Score": {
+      "Home": null,
+      "Away": null
+    },
+    "Events": [],
+    "Lineups": [],
+    "Statistics": [],
+    "Players": [],
+    "HeadToHead": [
+      {
+        "fixture": {
+          "id": 9551,
+          "referee": "Juan Martinez Munuera, Spain",
+          "timezone": "UTC",
+          "date": "2018-04-22T18:45:00+00:00",
+          "timestamp": 1524422700,
+          "periods": {
+            "first": 1524422700,
+            "second": 1524426300
+          },
+          "venue": {
+            "id": 1461,
+            "name": "Estadio Wanda Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2017,
+          "round": "Regular Season - 34",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": null
+          },
+          "away": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 20652,
+          "referee": "Carlos Clos Gomez, Spain",
+          "timezone": "UTC",
+          "date": "2017-01-14T17:30:00+00:00",
+          "timestamp": 1484415000,
+          "periods": {
+            "first": 1484415000,
+            "second": 1484418600
+          },
+          "venue": {
+            "id": null,
+            "name": "Vicente Calderón",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2016,
+          "round": "Regular Season - 18",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 27211,
+          "referee": "Alberto Undiano, Spain",
+          "timezone": "UTC",
+          "date": "2018-10-07T14:15:00+00:00",
+          "timestamp": 1538921700,
+          "periods": {
+            "first": 1538921700,
+            "second": 1538925300
+          },
+          "venue": {
+            "id": 1461,
+            "name": "Estadio Wanda Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2018,
+          "round": "Regular Season - 8",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 203638,
+          "referee": "Jose Luis Gonzalez Gonzalez, Spain",
+          "timezone": "UTC",
+          "date": "2016-04-02T14:00:00+00:00",
+          "timestamp": 1459605600,
+          "periods": {
+            "first": 1459605600,
+            "second": 1459609200
+          },
+          "venue": {
+            "id": null,
+            "name": "Vicente Calderón",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2015,
+          "round": "Regular Season - 31",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 5,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204195,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2013-10-27T20:00:00+00:00",
+          "timestamp": 1382904000,
+          "periods": {
+            "first": 1382904000,
+            "second": 1382907600
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Vicente Calderón (Madrid)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2013,
+          "round": "Regular Season - 10",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 5,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 5,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204695,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2013-02-03T20:00:00+00:00",
+          "timestamp": 1359921600,
+          "periods": {
+            "first": 1359921600,
+            "second": 1359925200
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Vicente Calderón (Madrid)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2012,
+          "round": "Regular Season - 22",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 205022,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2011-12-18T11:00:00+00:00",
+          "timestamp": 1324206000,
+          "periods": {
+            "first": 1324206000,
+            "second": 1324209600
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Vicente Calderón (Madrid)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2011,
+          "round": "Regular Season - 17",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": false
+          },
+          "away": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 214373,
+          "referee": "José González",
+          "timezone": "UTC",
+          "date": "2020-07-11T20:00:00+00:00",
+          "timestamp": 1594497600,
+          "periods": {
+            "first": 1594497600,
+            "second": 1594501200
+          },
+          "venue": {
+            "id": 1461,
+            "name": "Estadio Wanda Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2019,
+          "round": "Regular Season - 36",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 605125,
+          "referee": "Antonio Mateu",
+          "timezone": "UTC",
+          "date": "2020-10-24T19:00:00+00:00",
+          "timestamp": 1603566000,
+          "periods": {
+            "first": 1603566000,
+            "second": 1603569600
+          },
+          "venue": {
+            "id": 1461,
+            "name": "Estadio Wanda Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2020,
+          "round": "Regular Season - 7",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 720849,
+          "referee": "Javier Alberola",
+          "timezone": "UTC",
+          "date": "2021-10-31T15:15:00+00:00",
+          "timestamp": 1635693300,
+          "periods": {
+            "first": 1635693300,
+            "second": 1635696900
+          },
+          "venue": {
+            "id": 1461,
+            "name": "Estadio Wanda Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2021,
+          "round": "Regular Season - 12",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 3,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 3,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 878203,
+          "referee": "Juan Martínez",
+          "timezone": "UTC",
+          "date": "2023-04-02T19:00:00+00:00",
+          "timestamp": 1680462000,
+          "periods": {
+            "first": 1680462000,
+            "second": 1680465600
+          },
+          "venue": {
+            "id": 19217,
+            "name": "Estádio Cívitas Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2022,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1038213,
+          "referee": "Cesar Soto Grado, Spain",
+          "timezone": "UTC",
+          "date": "2024-03-03T15:15:00+00:00",
+          "timestamp": 1709478900,
+          "periods": {
+            "first": 1709478900,
+            "second": 1709482500
+          },
+          "venue": {
+            "id": 19217,
+            "name": "Estádio Cívitas Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1208818,
+          "referee": "Adrián Cordero",
+          "timezone": "UTC",
+          "date": "2025-05-18T17:00:00+00:00",
+          "timestamp": 1747587600,
+          "periods": {
+            "first": 1747587600,
+            "second": 1747591200
+          },
+          "venue": {
+            "id": 19217,
+            "name": "Riyadh Air Metropolitano",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2024,
+          "round": "Regular Season - 37",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          },
+          "away": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 4,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 4,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1391041,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2026-02-08T17:00:00+00:00",
+          "timestamp": 1770570000,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Metropolitano Stadium",
+            "city": "Madrid"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2025,
+          "round": "Regular Season - 23",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": null
+          },
+          "away": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 9741,
+          "referee": "Alejandro Hernandez, Spain",
+          "timezone": "UTC",
+          "date": "2017-12-10T15:15:00+00:00",
+          "timestamp": 1512918900,
+          "periods": {
+            "first": 1512918900,
+            "second": 1512922500
+          },
+          "venue": {
+            "id": null,
+            "name": "Benito Villamarín",
+            "city": "Seville"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2017,
+          "round": "Regular Season - 15",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 20456,
+          "referee": "Alfonso Alvarez Izquierdo, Spain",
+          "timezone": "UTC",
+          "date": "2017-05-14T18:00:00+00:00",
+          "timestamp": 1494784800,
+          "periods": {
+            "first": 1494784800,
+            "second": 1494788400
+          },
+          "venue": {
+            "id": null,
+            "name": "Benito Villamarín",
+            "city": "Seville"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2016,
+          "round": "Regular Season - 37",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": null
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 27350,
+          "referee": "David Medie Jimenez, Spain",
+          "timezone": "UTC",
+          "date": "2019-02-03T15:15:00+00:00",
+          "timestamp": 1549206900,
+          "periods": {
+            "first": 1549206900,
+            "second": 1549210500
+          },
+          "venue": {
+            "id": null,
+            "name": "Benito Villamarín",
+            "city": "Seville"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2018,
+          "round": "Regular Season - 22",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": true
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 203455,
+          "referee": "Santiago Jaime Latre, Spain",
+          "timezone": "UTC",
+          "date": "2015-11-22T19:30:00+00:00",
+          "timestamp": 1448220600,
+          "periods": {
+            "first": 1448220600,
+            "second": 1448224200
+          },
+          "venue": {
+            "id": null,
+            "name": "Benito Villamarín",
+            "city": "Seville"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2015,
+          "round": "Regular Season - 12",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204383,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2014-03-23T16:00:00+00:00",
+          "timestamp": 1395590400,
+          "periods": {
+            "first": 1395590400,
+            "second": 1395594000
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Benito Villamarín (Sevilla)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2013,
+          "round": "Regular Season - 29",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 204506,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2012-09-26T19:00:00+00:00",
+          "timestamp": 1348686000,
+          "periods": {
+            "first": 1348686000,
+            "second": 1348689600
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Benito Villamarín (Sevilla)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2012,
+          "round": "Regular Season - 3",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 4
+        },
+        "score": {
+          "halftime": {
+            "home": 2,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 4
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 205215,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2012-04-29T17:45:00+00:00",
+          "timestamp": 1335721500,
+          "periods": {
+            "first": 1335721500,
+            "second": 1335725100
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio Benito Villamarín (Sevilla)",
+            "city": null
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2011,
+          "round": "Regular Season - 36",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": null
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 2,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 2,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 214193,
+          "referee": "Javier Estrada",
+          "timezone": "UTC",
+          "date": "2019-12-22T15:00:00+00:00",
+          "timestamp": 1577026800,
+          "periods": {
+            "first": 1577026800,
+            "second": 1577030400
+          },
+          "venue": {
+            "id": 1489,
+            "name": "Estadio Benito Villamarín",
+            "city": "Sevilla"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2019,
+          "round": "Regular Season - 18",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 605356,
+          "referee": "Guillermo Cuadra",
+          "timezone": "UTC",
+          "date": "2021-04-11T19:00:00+00:00",
+          "timestamp": 1618167600,
+          "periods": {
+            "first": 1618167600,
+            "second": 1618171200
+          },
+          "venue": {
+            "id": 1489,
+            "name": "Estadio Benito Villamarín",
+            "city": "Sevilla"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2020,
+          "round": "Regular Season - 30",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": null
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 1
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 1
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 721001,
+          "referee": "Guillermo Cuadra",
+          "timezone": "UTC",
+          "date": "2022-03-06T20:00:00+00:00",
+          "timestamp": 1646596800,
+          "periods": {
+            "first": 1646596800,
+            "second": 1646600400
+          },
+          "venue": {
+            "id": 1489,
+            "name": "Estadio Benito Villamarín",
+            "city": "Sevilla"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2021,
+          "round": "Regular Season - 27",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 3
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 1
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 3
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 878046,
+          "referee": "Jesús Gil",
+          "timezone": "UTC",
+          "date": "2022-10-23T14:15:00+00:00",
+          "timestamp": 1666534500,
+          "periods": {
+            "first": 1666534500,
+            "second": 1666538100
+          },
+          "venue": {
+            "id": 1489,
+            "name": "Estadio Benito Villamarín",
+            "city": "Sevilla"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2022,
+          "round": "Regular Season - 11",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": false
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": true
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 2
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 2
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1037968,
+          "referee": "Ricardo De Burgos Bengoetxea, Spain",
+          "timezone": "UTC",
+          "date": "2023-08-20T19:30:00+00:00",
+          "timestamp": 1692559800,
+          "periods": {
+            "first": 1692559800,
+            "second": 1692563400
+          },
+          "venue": {
+            "id": 1489,
+            "name": "Estadio Benito Villamarín",
+            "city": "Sevilla"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023,
+          "round": "Regular Season - 2",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": null
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": 0,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 0,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 0,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1208586,
+          "referee": "Gil Manzano",
+          "timezone": "UTC",
+          "date": "2024-10-27T16:30:00+00:00",
+          "timestamp": 1730046600,
+          "periods": {
+            "first": 1730046600,
+            "second": 1730050200
+          },
+          "venue": {
+            "id": 1489,
+            "name": "Estadio Benito Villamarín",
+            "city": "Sevilla"
+          },
+          "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90,
+            "extra": 7
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2024,
+          "round": "Regular Season - 11",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": true
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": false
+          }
+        },
+        "goals": {
+          "home": 1,
+          "away": 0
+        },
+        "score": {
+          "halftime": {
+            "home": 1,
+            "away": 0
+          },
+          "fulltime": {
+            "home": 1,
+            "away": 0
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      },
+      {
+        "fixture": {
+          "id": 1390910,
+          "referee": null,
+          "timezone": "UTC",
+          "date": "2025-10-27T20:00:00+00:00",
+          "timestamp": 1761595200,
+          "periods": {
+            "first": null,
+            "second": null
+          },
+          "venue": {
+            "id": null,
+            "name": "Estadio La Cartuja de Sevilla",
+            "city": "Sevilla"
+          },
+          "status": {
+            "long": "Not Started",
+            "short": "NS",
+            "elapsed": null,
+            "extra": null
+          }
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2025,
+          "round": "Regular Season - 10",
+          "standings": true
+        },
+        "teams": {
+          "home": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png",
+            "winner": null
+          },
+          "away": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png",
+            "winner": null
+          }
+        },
+        "goals": {
+          "home": null,
+          "away": null
+        },
+        "score": {
+          "halftime": {
+            "home": null,
+            "away": null
+          },
+          "fulltime": {
+            "home": null,
+            "away": null
+          },
+          "extratime": {
+            "home": null,
+            "away": null
+          },
+          "penalty": {
+            "home": null,
+            "away": null
+          }
+        }
+      }
+    ]
   }
 ]
