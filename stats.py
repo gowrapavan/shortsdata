@@ -9,7 +9,6 @@ from datetime import datetime, timedelta
 from difflib import SequenceMatcher  # fuzzy string matching
 
 # ---------------- CONFIG ---------------- #
-# Multiple keys for fallback rotation
 API_KEYS = [
     "dec966a0a00434be718c28d5e39d590f",
     "91fa929380bfaf2825905aa038794cfc"
@@ -21,7 +20,7 @@ TIMEZONE = "Europe/London"
 OUTPUT_DIR = "stats"
 SCHEDULE_DIR = "2026"  # local fallback directory
 FUZZY_THRESHOLD = 0.6
-PAUSE_SEC = 6  # ~10 req/min
+PAUSE_SEC = 6
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 LEAGUES = {
@@ -61,8 +60,8 @@ def _is_plan_block_error(data):
     return False
 
 def fetch_json(url, params=None):
-    """Centralized fetch with retries, rate-limit and key rotation"""
-    for _ in range(len(API_KEYS) * 2):  # up to 2 full rotations
+    """Centralized fetch with retries and key rotation"""
+    for _ in range(len(API_KEYS) * 2):
         try:
             res = requests.get(url, headers=get_headers(), params=params, timeout=15)
             try:
@@ -76,7 +75,7 @@ def fetch_json(url, params=None):
                 return {"response": []}
 
             if res.status_code == 429 or "Too many requests" in json.dumps(data):
-                print(f"⚠️ Rate limit hit. Switching key and waiting 10s...")
+                print("⚠️ Rate limit hit. Switching key...")
                 switch_key()
                 time.sleep(10)
                 continue
@@ -163,7 +162,7 @@ def find_game_id(league_name, match_date, home_team, away_team):
 
 # ---------------- MAIN ---------------- #
 def main():
-    # Only process: yesterday (-1), day-before (-2), and today (0)
+    # process last 3 days
     deltas = [-2, -1, 0]
 
     for delta in deltas:
@@ -181,6 +180,7 @@ def main():
 
             output_file = os.path.join(OUTPUT_DIR, f"{league_name}.json")
 
+            # Load existing data
             if os.path.exists(output_file):
                 with open(output_file, "r", encoding="utf-8") as fh:
                     try:
@@ -215,37 +215,32 @@ def main():
                     "Events": existing.get("Events", []),
                     "Lineups": existing.get("Lineups", []),
                     "Statistics": existing.get("Statistics", []),
-                    "Players": existing.get("Players", [])
+                    "Players": existing.get("Players", []),
+                    "HeadToHead": existing.get("HeadToHead", [])
                 }
 
-                # update policy:
-                # - today: always refresh
-                # - past dates: only fill empty arrays
-                try:
-                    if delta == 0 or not match_obj["Events"]:
-                        print(f"  → events {fixture_id}")
-                        match_obj["Events"] = fetch_fixture_data(fixture_id, "events") or []
-                    if delta == 0 or not match_obj["Lineups"]:
-                        print(f"  → lineups {fixture_id}")
-                        match_obj["Lineups"] = fetch_fixture_data(fixture_id, "lineups") or []
-                    if delta == 0 or not match_obj["Statistics"]:
-                        print(f"  → statistics {fixture_id}")
-                        match_obj["Statistics"] = fetch_fixture_data(fixture_id, "statistics") or []
-                    if delta == 0 or not match_obj["Players"]:
-                        print(f"  → players {fixture_id}")
-                        match_obj["Players"] = fetch_fixture_data(fixture_id, "players") or []
+                # ✅ Re-fetch if data missing (even for past fixtures)
+                need_refetch = False
+                for key in ["Events", "Lineups", "Statistics", "Players"]:
+                    if not match_obj[key]:
+                        need_refetch = True
+                        print(f"  🔁 Missing {key} for {fixture_id}, refetching...")
+                        match_obj[key] = fetch_fixture_data(fixture_id, key.lower()) or []
 
-                except Exception as e:
-                    print(f"❌ Error fetching {fixture_id}: {e}")
-                    existing_data[fixture_id] = match_obj
-                    continue
+                # always refresh today’s fixtures fully
+                if delta == 0:
+                    print(f"  ♻️ Today’s match {fixture_id}, refreshing all fields...")
+                    for key in ["Events", "Lineups", "Statistics", "Players"]:
+                        match_obj[key] = fetch_fixture_data(fixture_id, key.lower()) or []
 
                 existing_data[fixture_id] = match_obj
 
+            # Save updated file
             with open(output_file, "w", encoding="utf-8") as fh:
                 json.dump(list(existing_data.values()), fh, ensure_ascii=False, indent=2)
 
             print(f"💾 Saved {len(existing_data)} total matches to {output_file}")
+
 
 if __name__ == "__main__":
     main()
