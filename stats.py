@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 from difflib import SequenceMatcher  # fuzzy string matching
 
 # ---------------- CONFIG ---------------- #
-API_KEY = "0a55623d384f9a715c8d884d9d6bbd8f"
+API_KEY = "dec966a0a00434be718c28d5e39d590f"
 BASE_URL = "https://v3.football.api-sports.io/fixtures"
 HEADERS = {"x-apisports-key": API_KEY}
 
