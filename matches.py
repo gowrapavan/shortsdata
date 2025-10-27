@@ -5,7 +5,7 @@ import time
 from datetime import datetime, timedelta
 
 # ------------------ CONFIG ------------------ #
-API_TOKEN = os.getenv("API_KEY")  # Use GitHub Actions secret
+API_TOKEN = "18eaa48000cb4abc9db7dfea5e219828"
 HEADERS = {"X-Auth-Token": API_TOKEN}
 BASE_URL = "https://api.football-data.org/v4/competitions"
 
