@@ -1,15 +1,28 @@
+#!/usr/bin/env python3
 import requests
 import json
 import os
 import unicodedata
 import re
+import time
 from datetime import datetime, timedelta
 from difflib import SequenceMatcher  # fuzzy string matching
 
 # ---------------- CONFIG ---------------- #
-API_KEY = "dec966a0a00434be718c28d5e39d590f"
+# Multiple keys for fallback rotation
+API_KEYS = [
+    "dec966a0a00434be718c28d5e39d590f",
+    "91fa929380bfaf2825905aa038794cfc"
+]
+current_key_index = 0
+
 BASE_URL = "https://v3.football.api-sports.io/fixtures"
-HEADERS = {"x-apisports-key": API_KEY}
+TIMEZONE = "Europe/London"
+OUTPUT_DIR = "stats"
+SCHEDULE_DIR = "2026"  # local fallback directory
+FUZZY_THRESHOLD = 0.6
+PAUSE_SEC = 6  # ~10 req/min
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 LEAGUES = {
     "DEB": 78,
@@ -19,7 +32,6 @@ LEAGUES = {
     "ITSA": 135
 }
 
-# GitHub JSON schedules
 SCHEDULE_URLS = {
     "DEB": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/DEB.json",
     "EPL": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/EPL.json",
@@ -28,34 +40,73 @@ SCHEDULE_URLS = {
     "ITSA": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/ITSA.json"
 }
 
-TIMEZONE = "Europe/London"
-OUTPUT_DIR = "stats"
-SCHEDULE_DIR = "2026"  # local fallback directory
-FUZZY_THRESHOLD = 0.6
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-
 # ---------------- HELPERS ---------------- #
+def get_headers():
+    return {"x-apisports-key": API_KEYS[current_key_index]}
+
+def switch_key():
+    global current_key_index
+    current_key_index = (current_key_index + 1) % len(API_KEYS)
+    print(f"🔄 Switched to API key {current_key_index + 1}")
+
 def format_date(date):
     return date.strftime("%Y-%m-%d")
 
-def fetch_json(url, params=None, headers=None):
-    res = requests.get(url, headers=headers, params=params)
-    res.raise_for_status()
-    return res.json()
+def _is_plan_block_error(data):
+    if not isinstance(data, dict):
+        return False
+    errs = data.get("errors")
+    if errs:
+        return "Free plans do not have access" in json.dumps(errs)
+    return False
+
+def fetch_json(url, params=None):
+    """Centralized fetch with retries, rate-limit and key rotation"""
+    for _ in range(len(API_KEYS) * 2):  # up to 2 full rotations
+        try:
+            res = requests.get(url, headers=get_headers(), params=params, timeout=15)
+            try:
+                data = res.json()
+            except ValueError:
+                res.raise_for_status()
+                return {}
+
+            if _is_plan_block_error(data):
+                print(f"⚠️ Plan restriction on {url}")
+                return {"response": []}
+
+            if res.status_code == 429 or "Too many requests" in json.dumps(data):
+                print(f"⚠️ Rate limit hit. Switching key and waiting 10s...")
+                switch_key()
+                time.sleep(10)
+                continue
+
+            if isinstance(data, dict) and data.get("errors"):
+                print(f"⚠️ API errors: {data.get('errors')} — switching key...")
+                switch_key()
+                time.sleep(5)
+                continue
+
+            res.raise_for_status()
+            return data
+
+        except requests.exceptions.RequestException as e:
+            print(f"❌ Network error: {e}")
+            time.sleep(10)
+            continue
+
+    print("❌ All keys exhausted or repeated errors")
+    return {"response": []}
 
 def fetch_matches_by_date(date_str):
     url = f"{BASE_URL}?date={date_str}&timezone={TIMEZONE}"
-    data = fetch_json(url, headers=HEADERS)
+    data = fetch_json(url)
     return data.get("response", [])
 
 def fetch_fixture_data(fixture_id, data_type):
-    url = f"{BASE_URL}/{data_type}?fixture={fixture_id}"
-    data = fetch_json(url, headers=HEADERS)
-    return data.get("response", [])
-
-def fetch_head_to_head(team1_id, team2_id):
-    url = f"{BASE_URL}/headtohead?h2h={team1_id}-{team2_id}"
-    data = fetch_json(url, headers=HEADERS)
+    url = f"https://v3.football.api-sports.io/fixtures/{data_type}?fixture={fixture_id}"
+    data = fetch_json(url)
+    time.sleep(PAUSE_SEC)
     return data.get("response", [])
 
 def normalize_name(name: str) -> str:
@@ -71,129 +122,130 @@ def string_similarity(a, b):
     return SequenceMatcher(None, normalize_name(a), normalize_name(b)).ratio()
 
 def find_game_id(league_name, match_date, home_team, away_team):
-    # Try GitHub JSON first
     schedule_data = []
     url = SCHEDULE_URLS.get(league_name)
     if url:
         try:
-            schedule_data = fetch_json(url)
-        except requests.RequestException:
-            print(f"⚠️ Could not fetch schedule for {league_name} from GitHub, using local fallback.")
-
-    # Local fallback
-    if not schedule_data:
-        schedule_file = os.path.join(SCHEDULE_DIR, f"{league_name}.json")
-        if os.path.exists(schedule_file):
-            with open(schedule_file, "r", encoding="utf-8") as f:
-                schedule_data = json.load(f)
+            data = fetch_json(url)
+            if isinstance(data, list):
+                schedule_data = data
+            elif isinstance(data, dict) and "response" in data:
+                schedule_data = data["response"]
+        except Exception:
+            schedule_data = []
 
     if not schedule_data:
-        return None
+        local_file = os.path.join(SCHEDULE_DIR, f"{league_name}.json")
+        if os.path.exists(local_file):
+            with open(local_file, "r", encoding="utf-8") as f:
+                try:
+                    schedule_data = json.load(f)
+                except Exception:
+                    schedule_data = []
 
     best_match = None
     best_score = 0.0
-
     for match in schedule_data:
         sched_date = match.get("Date", "")[:10]
         if sched_date != match_date:
             continue
 
-        sched_home_names = [
-            match.get("HomeTeamName", ""),
-            match.get("HomeTeamKey", ""),
-            match.get("HomeTeam", "")
-        ]
-        sched_away_names = [
-            match.get("AwayTeamName", ""),
-            match.get("AwayTeamKey", ""),
-            match.get("AwayTeam", "")
-        ]
-
-        home_sim = max([string_similarity(home_team, n) for n in sched_home_names if n] or [0])
-        away_sim = max([string_similarity(away_team, n) for n in sched_away_names if n] or [0])
+        home_sim = max((string_similarity(home_team, n) for n in [match.get("HomeTeamName", ""), match.get("HomeTeamKey", ""), match.get("HomeTeam", "")] if n), default=0)
+        away_sim = max((string_similarity(away_team, n) for n in [match.get("AwayTeamName", ""), match.get("AwayTeamKey", ""), match.get("AwayTeam", "")] if n), default=0)
         score = (home_sim + away_sim) / 2
-
         if score > best_score:
             best_score = score
             best_match = match
 
     if best_match and best_score >= FUZZY_THRESHOLD:
         return best_match.get("GameId")
-
     return None
 
 # ---------------- MAIN ---------------- #
 def main():
-    # Yesterday, today, and tomorrow
-    for delta_days in [1, 0, -1]:
-        target_date = datetime.utcnow() - timedelta(days=delta_days)
+    # Only process: yesterday (-1), day-before (-2), and today (0)
+    deltas = [-2, -1, 0]
+
+    for delta in deltas:
+        target_date = datetime.utcnow() + timedelta(days=delta)
         date_str = format_date(target_date)
-        print(f"\nFetching matches for {date_str}...")
+        print(f"\n📅 Fetching matches for {date_str}...")
 
         all_fixtures = fetch_matches_by_date(date_str)
 
         for league_name, league_id in LEAGUES.items():
-            fixtures = [f for f in all_fixtures if f["league"]["id"] == league_id]
-
+            fixtures = [fx for fx in all_fixtures if fx.get("league", {}).get("id") == league_id]
             if not fixtures:
                 print(f"No matches found for {league_name} on {date_str}.")
                 continue
 
             output_file = os.path.join(OUTPUT_DIR, f"{league_name}.json")
 
-            # Load existing data
             if os.path.exists(output_file):
-                with open(output_file, "r", encoding="utf-8") as f:
-                    existing_data_dict = {m["StatsId"]: m for m in json.load(f)}
+                with open(output_file, "r", encoding="utf-8") as fh:
+                    try:
+                        existing_data = {m["StatsId"]: m for m in json.load(fh)}
+                    except Exception:
+                        existing_data = {}
             else:
-                existing_data_dict = {}
+                existing_data = {}
 
-            for f in fixtures:
-                fixture_id = f["fixture"]["id"]
-                match_date = f["fixture"]["date"][:10]
-                home_team = f["teams"]["home"]["name"]
-                away_team = f["teams"]["away"]["name"]
-                home_id = f["teams"]["home"]["id"]
-                away_id = f["teams"]["away"]["id"]
-                status = f["fixture"]["status"]["short"]
+            for fx in fixtures:
+                fixture_id = fx["fixture"]["id"]
+                match_date = fx["fixture"]["date"][:10]
+                home_team = fx["teams"]["home"]["name"]
+                away_team = fx["teams"]["away"]["name"]
+                status = fx["fixture"]["status"]["short"]
 
                 game_id = find_game_id(league_name, match_date, home_team, away_team)
                 if not game_id:
-                    print(f"⚠️ No GameId found for {home_team} vs {away_team} on {match_date}, skipping...")
+                    print(f"⚠️ No GameId found for {home_team} vs {away_team} ({match_date})")
                     continue
 
-                if fixture_id in existing_data_dict and status == "FT":
-                    print(f"Skipping finished fixture {fixture_id} ({home_team} vs {away_team})")
-                    continue
-
+                existing = existing_data.get(fixture_id, {})
                 match_obj = {
                     "StatsId": fixture_id,
                     "GameId": game_id,
-                    "Date": f["fixture"]["date"],
+                    "Date": fx["fixture"]["date"],
                     "Status": status,
-                    "Round": f["league"].get("round"),
+                    "Round": fx["league"].get("round"),
                     "HomeTeam": home_team,
                     "AwayTeam": away_team,
-                    "Score": {"Home": f["goals"]["home"], "Away": f["goals"]["away"]}
+                    "Score": {"Home": fx.get("goals", {}).get("home"), "Away": fx.get("goals", {}).get("away")},
+                    "Events": existing.get("Events", []),
+                    "Lineups": existing.get("Lineups", []),
+                    "Statistics": existing.get("Statistics", []),
+                    "Players": existing.get("Players", [])
                 }
 
+                # update policy:
+                # - today: always refresh
+                # - past dates: only fill empty arrays
                 try:
-                    match_obj["Events"] = fetch_fixture_data(fixture_id, "events")
-                    match_obj["Lineups"] = fetch_fixture_data(fixture_id, "lineups")
-                    match_obj["Statistics"] = fetch_fixture_data(fixture_id, "statistics")
-                    match_obj["Players"] = fetch_fixture_data(fixture_id, "players")
-                    match_obj["HeadToHead"] = fetch_head_to_head(home_id, away_id)
-                except requests.RequestException as e:
-                    print(f"Error fetching details for fixture {fixture_id}: {e}")
+                    if delta == 0 or not match_obj["Events"]:
+                        print(f"  → events {fixture_id}")
+                        match_obj["Events"] = fetch_fixture_data(fixture_id, "events") or []
+                    if delta == 0 or not match_obj["Lineups"]:
+                        print(f"  → lineups {fixture_id}")
+                        match_obj["Lineups"] = fetch_fixture_data(fixture_id, "lineups") or []
+                    if delta == 0 or not match_obj["Statistics"]:
+                        print(f"  → statistics {fixture_id}")
+                        match_obj["Statistics"] = fetch_fixture_data(fixture_id, "statistics") or []
+                    if delta == 0 or not match_obj["Players"]:
+                        print(f"  → players {fixture_id}")
+                        match_obj["Players"] = fetch_fixture_data(fixture_id, "players") or []
+
+                except Exception as e:
+                    print(f"❌ Error fetching {fixture_id}: {e}")
+                    existing_data[fixture_id] = match_obj
                     continue
 
-                existing_data_dict[fixture_id] = match_obj
+                existing_data[fixture_id] = match_obj
 
-            # Save combined data
-            with open(output_file, "w", encoding="utf-8") as f:
-                json.dump(list(existing_data_dict.values()), f, ensure_ascii=False, indent=2)
+            with open(output_file, "w", encoding="utf-8") as fh:
+                json.dump(list(existing_data.values()), fh, ensure_ascii=False, indent=2)
 
-            print(f"Saved {len(existing_data_dict)} total matches to {output_file}")
+            print(f"💾 Saved {len(existing_data)} total matches to {output_file}")
 
 if __name__ == "__main__":
     main()
