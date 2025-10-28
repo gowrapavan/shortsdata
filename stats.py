@@ -11,6 +11,7 @@ import pytz  # for timezone
 
 # ---------------- CONFIG ---------------- #
 API_KEYS = [
+    "281705414df7ea8aa6ff1650a2dc4c04",
     "dec966a0a00434be718c28d5e39d590f",
     "91fa929380bfaf2825905aa038794cfc"
 ]
