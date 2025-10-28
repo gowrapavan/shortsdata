@@ -1,82 +1,442 @@
 [
   {
-    "time": "2025-10-27 19:30 IST",
-    "game": "football",
-    "league": "Premier League",
-    "home_team": "El Gounah",
-    "away_team": "Smouha",
-    "label": "elg-smo",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
-    "url": "https://yallashoot.mobi/albaplayer/smouha-vs-el-gounah/"
-  },
-  {
-    "time": "2025-10-27 20:05 IST",
+    "time": "2025-10-28 20:05 IST",
     "game": "football",
     "league": "King's Cup - Round of 16",
-    "home_team": "Al Taawoun",
-    "away_team": "Al Khaleej Club",
-    "label": "alt-alk",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
-    "url": "https://yallashoot.mobi/albaplayer/al-khaleej-club-vs-al-taawoun/"
-  },
-  {
-    "time": "2025-10-27 20:05 IST",
-    "game": "football",
-    "league": "King's Cup - Round of 16",
-    "home_team": "Al Riyadh SC",
-    "away_team": "Al Fateh",
-    "label": "alr-alf",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
-    "url": "https://yallashoot.mobi/albaplayer/al-fateh-vs-al-riyadh-sc/"
-  },
-  {
-    "time": "2025-10-27 20:30 IST",
-    "game": "football",
-    "league": "King's Cup - Round of 16",
-    "home_team": "Al-Najma",
-    "away_team": "Al-Khlood",
-    "label": "aln-alk",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
-    "url": "https://yallashoot.mobi/albaplayer/al-khlood-vs-al-najma/"
-  },
-  {
-    "time": "2025-10-27 23:30 IST",
-    "game": "football",
-    "league": "Superliga",
-    "home_team": "Brøndby IF",
-    "away_team": "Odense",
-    "label": "brn-ode",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "home_team": "Al Hazm",
+    "away_team": "Qadisiya",
+    "label": "alh-qad",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   },
   {
-    "time": "2025-10-27 23:30 IST",
+    "time": "2025-10-28 20:20 IST",
     "game": "football",
     "league": "King's Cup - Round of 16",
-    "home_team": "Al Ahli Jeddah",
-    "away_team": "Al Baten",
-    "label": "ala-alb",
+    "home_team": "Zulfi Club",
+    "away_team": "Al Shabab Riyadh",
+    "label": "zul-als",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-28 20:40 IST",
+    "game": "football",
+    "league": "King's Cup - Round of 16",
+    "home_team": "Al Hilal Riyadh",
+    "away_team": "Al-Akhdoud",
+    "label": "alh-ala",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-28 23:00 IST",
+    "game": "football",
+    "league": "Serie A",
+    "home_team": "Napoli",
+    "away_team": "Lecce",
+    "label": "nap-lec",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-28 23:00 IST",
+    "game": "football",
+    "league": "DFB-Pokal - Round of 32",
+    "home_team": "SV 07 Elversberg",
+    "away_team": "Hertha Berlin",
+    "label": "sve-her",
     "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   },
   {
-    "time": "2025-10-28 01:30 IST",
+    "time": "2025-10-28 23:00 IST",
     "game": "football",
-    "league": "LaLiga",
-    "home_team": "Atletico Madrid",
-    "away_team": "Real Betis",
-    "label": "atl-rea",
+    "league": "DFB-Pokal - Round of 32",
+    "home_team": "Borussia Dortmund",
+    "away_team": "Eintracht Frankfurt",
+    "label": "bor-ein",
     "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   },
   {
-    "time": "2025-10-28 01:45 IST",
+    "time": "2025-10-28 23:00 IST",
     "game": "football",
-    "league": "Liga Portugal",
-    "home_team": "FC Porto",
-    "away_team": "Moreirense",
-    "label": "fcp-mor",
+    "league": "DFB-Pokal - Round of 32",
+    "home_team": "Holstein Kiel",
+    "away_team": "Wolfsburg",
+    "label": "hol-wol",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-28 23:00 IST",
+    "game": "football",
+    "league": "DFB-Pokal - Round of 32",
+    "home_team": "Hamburger SV",
+    "away_team": "FC Heidenheim",
+    "label": "ham-fch",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-28 23:30 IST",
+    "game": "football",
+    "league": "King's Cup - Round of 16",
+    "home_team": "Ittihad Jeddah",
+    "away_team": "Al Nassr FC Riyadh",
+    "label": "itt-aln",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-28 23:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Real Oviedo",
+    "away_team": "Ourense CF",
+    "label": "rea-our",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-28 23:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Burgos CF",
+    "away_team": "Atlético Tordesillas",
+    "label": "bur-atl",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-28 23:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Girona",
+    "away_team": "CD Constancia",
+    "label": "gir-cdc",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 00:00 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Racing Ferrol",
+    "away_team": "UP Langreo",
+    "label": "rac-upl",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 00:00 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Racing Santander",
+    "away_team": "SD Logrones",
+    "label": "rac-sdl",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 00:00 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Cadiz CF",
+    "away_team": "UCAM Murcia",
+    "label": "cad-uca",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 00:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Cultural Leonesa",
+    "away_team": "CD Tropezón",
+    "label": "cul-cdt",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 00:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Albacete",
+    "away_team": "UD San Fernando",
+    "label": "alb-uds",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 00:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "CF Talavera De La Reina",
+    "away_team": "Rayo Majadahonda",
+    "label": "cft-ray",
     "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 00:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Polideportivo Cacereno",
+    "away_team": "Guadalajara",
+    "label": "pol-gua",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 00:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Valencia",
+    "away_team": "Ud Maracena",
+    "label": "val-udm",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 00:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Getafe",
+    "away_team": "Inter Valdemoro",
+    "label": "get-int",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 00:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Granada",
+    "away_team": "Roda",
+    "label": "gra-rod",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:00 IST",
+    "game": "football",
+    "league": "Ligue 2",
+    "home_team": "Guingamp",
+    "away_team": "Grenoble",
+    "label": "gui-gre",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:00 IST",
+    "game": "football",
+    "league": "Ligue 2",
+    "home_team": "Amiens",
+    "away_team": "Troyes",
+    "label": "ami-tro",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:00 IST",
+    "game": "football",
+    "league": "Ligue 2",
+    "home_team": "FC Annecy",
+    "away_team": "Rodez",
+    "label": "fca-rod",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:00 IST",
+    "game": "football",
+    "league": "Ligue 2",
+    "home_team": "Red Star FC93",
+    "away_team": "Dunkerque",
+    "label": "red-dun",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:00 IST",
+    "game": "football",
+    "league": "Ligue 2",
+    "home_team": "Le Mans",
+    "away_team": "Laval",
+    "label": "lem-lav",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:00 IST",
+    "game": "football",
+    "league": "Ligue 2",
+    "home_team": "Bastia",
+    "away_team": "Nancy",
+    "label": "bas-nan",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:00 IST",
+    "game": "football",
+    "league": "Ligue 2",
+    "home_team": "Montpellier",
+    "away_team": "Clermont Foot",
+    "label": "mon-cle",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:00 IST",
+    "game": "football",
+    "league": "Ligue 2",
+    "home_team": "Pau FC",
+    "away_team": "Saint-Étienne",
+    "label": "pau-sai",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:00 IST",
+    "game": "football",
+    "league": "Ligue 2",
+    "home_team": "Reims",
+    "away_team": "Boulogne",
+    "label": "rei-bou",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:00 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "SD Huesca",
+    "away_team": "Utebo FC",
+    "label": "sdh-ute",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:00 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Tenerife",
+    "away_team": "RSD Alcala",
+    "label": "ten-rsd",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:15 IST",
+    "game": "football",
+    "league": "DFB-Pokal - Round of 32",
+    "home_team": "Hoffenheim",
+    "away_team": "St. Pauli",
+    "label": "hof-stp",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:15 IST",
+    "game": "football",
+    "league": "DFB-Pokal - Round of 32",
+    "home_team": "Karlsruher",
+    "away_team": "Borussia Mönchengladbach",
+    "label": "kar-bor",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:15 IST",
+    "game": "football",
+    "league": "Serie A",
+    "home_team": "AC Milan",
+    "away_team": "Atalanta",
+    "label": "acm-ata",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:15 IST",
+    "game": "football",
+    "league": "DFB-Pokal - Round of 32",
+    "home_team": "RB Leipzig",
+    "away_team": "Energie Cottbus",
+    "label": "rbl-ene",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:15 IST",
+    "game": "football",
+    "league": "DFB-Pokal - Round of 32",
+    "home_team": "VfL Bochum",
+    "away_team": "FC Augsburg",
+    "label": "vfl-fca",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:15 IST",
+    "game": "football",
+    "league": "EFL Cup - 4th Round",
+    "home_team": "Brentford",
+    "away_team": "Grimsby",
+    "label": "bre-gri",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:15 IST",
+    "game": "football",
+    "league": "EFL Cup - 4th Round",
+    "home_team": "Fulham",
+    "away_team": "Wycombe Wanderers",
+    "label": "ful-wyc",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:30 IST",
+    "game": "football",
+    "league": "EFL Cup - 4th Round",
+    "home_team": "Cardiff",
+    "away_team": "Wrexham",
+    "label": "car-wre",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Las Palmas",
+    "away_team": "Extremadura UD",
+    "label": "las-ext",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Sevilla",
+    "away_team": "CD Toledo",
+    "label": "sev-cdt",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-10-29 01:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - 1st Round",
+    "home_team": "Real Sociedad",
+    "away_team": "SD Negreira",
+    "label": "rea-sdn",
+    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   }
 ]
