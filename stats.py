@@ -6,8 +6,8 @@ import unicodedata
 import re
 import time
 from datetime import datetime, timedelta
-from difflib import SequenceMatcher  # fuzzy string matching
-import pytz  # ✅ added for timezone handling
+from difflib import SequenceMatcher
+import pytz  # for timezone
 
 # ---------------- CONFIG ---------------- #
 API_KEYS = [
@@ -19,7 +19,6 @@ current_key_index = 0
 BASE_URL = "https://v3.football.api-sports.io/fixtures"
 TIMEZONE = "Europe/London"
 OUTPUT_DIR = "stats"
-SCHEDULE_DIR = "2026"  # local fallback directory
 FUZZY_THRESHOLD = 0.6
 PAUSE_SEC = 6
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -32,6 +31,7 @@ LEAGUES = {
     "ITSA": 135
 }
 
+# ✅ All schedule files come directly from your GitHub repo
 SCHEDULE_URLS = {
     "DEB": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/DEB.json",
     "EPL": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/EPL.json",
@@ -122,40 +122,30 @@ def string_similarity(a, b):
     return SequenceMatcher(None, normalize_name(a), normalize_name(b)).ratio()
 
 def find_game_id(league_name, match_date, home_team, away_team):
-    schedule_data = []
     url = SCHEDULE_URLS.get(league_name)
-    if url:
-        try:
-            data = fetch_json(url)
-            if isinstance(data, list):
-                schedule_data = data
-            elif isinstance(data, dict) and "response" in data:
-                schedule_data = data["response"]
-        except Exception:
-            schedule_data = []
+    if not url:
+        return None
 
-    if not schedule_data:
-        local_file = os.path.join(SCHEDULE_DIR, f"{league_name}.json")
-        if os.path.exists(local_file):
-            with open(local_file, "r", encoding="utf-8") as f:
-                try:
-                    schedule_data = json.load(f)
-                except Exception:
-                    schedule_data = []
+    try:
+        data = fetch_json(url)
+        schedule_data = data if isinstance(data, list) else data.get("response", [])
+    except Exception:
+        schedule_data = []
 
-    best_match = None
-    best_score = 0.0
+    best_match, best_score = None, 0.0
     for match in schedule_data:
         sched_date = match.get("Date", "")[:10]
         if sched_date != match_date:
             continue
 
-        home_sim = max((string_similarity(home_team, n) for n in [match.get("HomeTeamName", ""), match.get("HomeTeamKey", ""), match.get("HomeTeam", "")] if n), default=0)
-        away_sim = max((string_similarity(away_team, n) for n in [match.get("AwayTeamName", ""), match.get("AwayTeamKey", ""), match.get("AwayTeam", "")] if n), default=0)
+        home_sim = max((string_similarity(home_team, n)
+                        for n in [match.get("HomeTeamName", ""), match.get("HomeTeamKey", ""), match.get("HomeTeam", "")] if n), default=0)
+        away_sim = max((string_similarity(away_team, n)
+                        for n in [match.get("AwayTeamName", ""), match.get("AwayTeamKey", ""), match.get("AwayTeam", "")] if n), default=0)
         score = (home_sim + away_sim) / 2
+
         if score > best_score:
-            best_score = score
-            best_match = match
+            best_score, best_match = score, match
 
     if best_match and best_score >= FUZZY_THRESHOLD:
         return best_match.get("GameId")
@@ -163,14 +153,13 @@ def find_game_id(league_name, match_date, home_team, away_team):
 
 # ---------------- MAIN ---------------- #
 def main():
-    # ✅ Skip runs outside 6 PM – 3 AM IST
+    # ✅ Run only 6 PM – 3 AM IST
     india = pytz.timezone("Asia/Kolkata")
     now = datetime.now(india)
     if not (now.hour >= 18 or now.hour < 3):
         print("⏸️ Skipping — outside 6 PM – 3 AM IST window.")
         return
 
-    # process last 3 days
     deltas = [-2, -1, 0]
 
     for delta in deltas:
@@ -188,7 +177,6 @@ def main():
 
             output_file = os.path.join(OUTPUT_DIR, f"{league_name}.json")
 
-            # Load existing data
             if os.path.exists(output_file):
                 with open(output_file, "r", encoding="utf-8") as fh:
                     try:
@@ -227,15 +215,13 @@ def main():
                     "HeadToHead": existing.get("HeadToHead", [])
                 }
 
-                # ✅ Re-fetch if data missing (even for past fixtures)
-                need_refetch = False
+                # Re-fetch missing data
                 for key in ["Events", "Lineups", "Statistics", "Players"]:
                     if not match_obj[key]:
-                        need_refetch = True
                         print(f"  🔁 Missing {key} for {fixture_id}, refetching...")
                         match_obj[key] = fetch_fixture_data(fixture_id, key.lower()) or []
 
-                # always refresh today’s fixtures fully
+                # Always refresh today’s data
                 if delta == 0:
                     print(f"  ♻️ Today’s match {fixture_id}, refreshing all fields...")
                     for key in ["Events", "Lineups", "Statistics", "Players"]:
@@ -243,7 +229,6 @@ def main():
 
                 existing_data[fixture_id] = match_obj
 
-            # Save updated file
             with open(output_file, "w", encoding="utf-8") as fh:
                 json.dump(list(existing_data.values()), fh, ensure_ascii=False, indent=2)
 
