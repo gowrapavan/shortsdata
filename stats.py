@@ -7,6 +7,7 @@ import re
 import time
 from datetime import datetime, timedelta
 from difflib import SequenceMatcher  # fuzzy string matching
+import pytz  # ✅ added for timezone handling
 
 # ---------------- CONFIG ---------------- #
 API_KEYS = [
@@ -162,6 +163,13 @@ def find_game_id(league_name, match_date, home_team, away_team):
 
 # ---------------- MAIN ---------------- #
 def main():
+    # ✅ Skip runs outside 6 PM – 3 AM IST
+    india = pytz.timezone("Asia/Kolkata")
+    now = datetime.now(india)
+    if not (now.hour >= 18 or now.hour < 3):
+        print("⏸️ Skipping — outside 6 PM – 3 AM IST window.")
+        return
+
     # process last 3 days
     deltas = [-2, -1, 0]
 
