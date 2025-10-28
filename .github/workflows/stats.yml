@@ -1,14 +1,18 @@
 name: Fetch Football Stats
 
-# Run every 30 minutes
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    # Run every 30 minutes from 12:30 UTC (6 PM IST) to 21:30 UTC (3 AM IST)
+    - cron: "30 12-20 * * *"   # 12:30, 13:30, ..., 20:30 UTC
+    - cron: "0 13-21 * * *"    # 13:00, 14:00, ..., 21:00 UTC
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
   fetch-stats:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # ✅ allows commits & pushes
 
     steps:
       - name: Checkout repository
@@ -26,7 +30,7 @@ jobs:
 
       - name: Run football stats script
         run: |
-          python stats.py  # Replace with your script filename
+          python stats.py
 
       - name: Commit updated stats
         run: |
@@ -34,9 +38,5 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add stats/
           git commit -m "Update football stats [skip ci]" || echo "No changes to commit"
-          git pull --rebase origin main
-          git push origin main
-
-        env:
-          # This token allows pushing back to the repository
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git pull --rebase origin main || true
+          git push origin main || true
