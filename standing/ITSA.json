@@ -39,16 +39,35 @@
           },
           "playedGames": 9,
           "form": null,
-          "won": 6,
-          "draw": 1,
+          "won": 7,
+          "draw": 0,
           "lost": 2,
-          "points": 19,
-          "goalsFor": 15,
+          "points": 21,
+          "goalsFor": 16,
           "goalsAgainst": 8,
-          "goalDifference": 7
+          "goalDifference": 8
         },
         {
           "position": 2,
+          "team": {
+            "id": 98,
+            "name": "AC Milan",
+            "shortName": "Milan",
+            "tla": "MIL",
+            "crest": "https://crests.football-data.org/98.png"
+          },
+          "playedGames": 9,
+          "form": null,
+          "won": 5,
+          "draw": 3,
+          "lost": 1,
+          "points": 18,
+          "goalsFor": 14,
+          "goalsAgainst": 7,
+          "goalDifference": 7
+        },
+        {
+          "position": 3,
           "team": {
             "id": 100,
             "name": "AS Roma",
@@ -65,25 +84,6 @@
           "goalsFor": 8,
           "goalsAgainst": 3,
           "goalDifference": 5
-        },
-        {
-          "position": 3,
-          "team": {
-            "id": 98,
-            "name": "AC Milan",
-            "shortName": "Milan",
-            "tla": "MIL",
-            "crest": "https://crests.football-data.org/98.png"
-          },
-          "playedGames": 8,
-          "form": null,
-          "won": 5,
-          "draw": 2,
-          "lost": 1,
-          "points": 17,
-          "goalsFor": 13,
-          "goalsAgainst": 6,
-          "goalDifference": 7
         },
         {
           "position": 4,
@@ -126,6 +126,25 @@
         {
           "position": 6,
           "team": {
+            "id": 102,
+            "name": "Atalanta BC",
+            "shortName": "Atalanta",
+            "tla": "ATA",
+            "crest": "https://crests.football-data.org/102.png"
+          },
+          "playedGames": 9,
+          "form": null,
+          "won": 2,
+          "draw": 7,
+          "lost": 0,
+          "points": 13,
+          "goalsFor": 13,
+          "goalsAgainst": 7,
+          "goalDifference": 6
+        },
+        {
+          "position": 7,
+          "team": {
             "id": 7397,
             "name": "Como 1907",
             "shortName": "Como 1907",
@@ -141,25 +160,6 @@
           "goalsFor": 9,
           "goalsAgainst": 5,
           "goalDifference": 4
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": 102,
-            "name": "Atalanta BC",
-            "shortName": "Atalanta",
-            "tla": "ATA",
-            "crest": "https://crests.football-data.org/102.png"
-          },
-          "playedGames": 8,
-          "form": null,
-          "won": 2,
-          "draw": 6,
-          "lost": 0,
-          "points": 12,
-          "goalsFor": 12,
-          "goalsAgainst": 6,
-          "goalDifference": 6
         },
         {
           "position": 8,
@@ -325,12 +325,12 @@
           "playedGames": 9,
           "form": null,
           "won": 1,
-          "draw": 4,
-          "lost": 4,
-          "points": 7,
+          "draw": 3,
+          "lost": 5,
+          "points": 6,
           "goalsFor": 7,
-          "goalsAgainst": 13,
-          "goalDifference": -6
+          "goalsAgainst": 14,
+          "goalDifference": -7
         },
         {
           "position": 17,
