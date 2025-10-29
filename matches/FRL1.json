@@ -2021,7 +2021,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T18:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 533,
@@ -2032,11 +2032,11 @@
     "AwayTeamName": "Stade Brestois 29",
     "HomeTeamLogo": "https://crests.football-data.org/533.png",
     "AwayTeamLogo": "https://crests.football-data.org/512.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 533,
     "Points": {
-      "533": 0,
+      "533": 3,
       "512": 0
     },
     "Goals": []
@@ -2047,7 +2047,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T18:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 525,
@@ -2058,12 +2058,12 @@
     "AwayTeamName": "Paris Saint-Germain FC",
     "HomeTeamLogo": "https://crests.football-data.org/525.png",
     "AwayTeamLogo": "https://crests.football-data.org/524.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "525": 0,
-      "524": 0
+      "525": 1,
+      "524": 1
     },
     "Goals": []
   },
@@ -2073,7 +2073,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T18:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 545,
@@ -2084,11 +2084,11 @@
     "AwayTeamName": "Racing Club de Lens",
     "HomeTeamLogo": "https://crests.football-data.org/545.png",
     "AwayTeamLogo": "https://crests.football-data.org/546.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 545,
     "Points": {
-      "545": 0,
+      "545": 3,
       "546": 0
     },
     "Goals": []
@@ -2110,8 +2110,8 @@
     "AwayTeamName": "AS Monaco FC",
     "HomeTeamLogo": "https://crests.football-data.org/543.png",
     "AwayTeamLogo": "https://crests.football-data.org/548.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "543": 0,
@@ -2136,8 +2136,8 @@
     "AwayTeamName": "Olympique Lyonnais",
     "HomeTeamLogo": "https://crests.football-data.org/1045.png",
     "AwayTeamLogo": "https://crests.football-data.org/523.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "1045": 0,
@@ -2162,8 +2162,8 @@
     "AwayTeamName": "Stade Rennais FC 1901",
     "HomeTeamLogo": "https://crests.football-data.org/511.png",
     "AwayTeamLogo": "https://crests.football-data.org/529.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "511": 0,
@@ -2177,7 +2177,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T18:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 522,
@@ -2188,11 +2188,11 @@
     "AwayTeamName": "Lille OSC",
     "HomeTeamLogo": "https://crests.football-data.org/522.png",
     "AwayTeamLogo": "https://crests.football-data.org/521.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 522,
     "Points": {
-      "522": 0,
+      "522": 3,
       "521": 0
     },
     "Goals": []
@@ -2214,8 +2214,8 @@
     "AwayTeamName": "Angers SCO",
     "HomeTeamLogo": "https://crests.football-data.org/516.png",
     "AwayTeamLogo": "https://crests.football-data.org/532.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "516": 0,
@@ -2240,8 +2240,8 @@
     "AwayTeamName": "AJ Auxerre",
     "HomeTeamLogo": "https://crests.football-data.org/576.png",
     "AwayTeamLogo": "https://crests.football-data.org/519.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "576": 0,

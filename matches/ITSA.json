@@ -2005,7 +2005,7 @@
     "RoundName": "Serie A",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 100,
@@ -2016,11 +2016,11 @@
     "AwayTeamName": "Parma Calcio 1913",
     "HomeTeamLogo": "https://crests.football-data.org/100.png",
     "AwayTeamLogo": "https://crests.football-data.org/112.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 100,
     "Points": {
-      "100": 0,
+      "100": 3,
       "112": 0
     },
     "Goals": []
@@ -2094,8 +2094,8 @@
     "AwayTeamName": "US Cremonese",
     "HomeTeamLogo": "https://crests.football-data.org/107.png",
     "AwayTeamLogo": "https://crests.football-data.org/457.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "107": 0,
@@ -2109,7 +2109,7 @@
     "RoundName": "Serie A",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 7397,
@@ -2120,11 +2120,11 @@
     "AwayTeamName": "Hellas Verona FC",
     "HomeTeamLogo": "https://crests.football-data.org/7397.png",
     "AwayTeamLogo": "https://crests.football-data.org/450.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 7397,
     "Points": {
-      "7397": 0,
+      "7397": 3,
       "450": 0
     },
     "Goals": []
@@ -2146,8 +2146,8 @@
     "AwayTeamName": "Torino FC",
     "HomeTeamLogo": "https://crests.football-data.org/103.png",
     "AwayTeamLogo": "https://crests.football-data.org/586.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "103": 0,
@@ -2172,8 +2172,8 @@
     "AwayTeamName": "ACF Fiorentina",
     "HomeTeamLogo": "https://crests.football-data.org/108.png",
     "AwayTeamLogo": "https://crests.football-data.org/99.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "108": 0,
@@ -2187,7 +2187,7 @@
     "RoundName": "Serie A",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 109,
@@ -2198,11 +2198,11 @@
     "AwayTeamName": "Udinese Calcio",
     "HomeTeamLogo": "https://crests.football-data.org/109.png",
     "AwayTeamLogo": "https://crests.football-data.org/115.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 109,
     "Points": {
-      "109": 0,
+      "109": 3,
       "115": 0
     },
     "Goals": []
