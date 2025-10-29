@@ -5743,7 +5743,7 @@
     "StatsId": 1377944,
     "GameId": 536896,
     "Date": "2025-10-28T19:45:00+00:00",
-    "Status": "2H",
+    "Status": "FT",
     "Round": "Regular Season - 9",
     "HomeTeam": "Atalanta",
     "AwayTeam": "AC Milan",
@@ -9270,6 +9270,114 @@
         ]
       }
     ],
+    "HeadToHead": []
+  },
+  {
+    "StatsId": 1377947,
+    "GameId": 536899,
+    "Date": "2025-10-29T17:30:00+00:00",
+    "Status": "NS",
+    "Round": "Regular Season - 9",
+    "HomeTeam": "Como",
+    "AwayTeam": "Verona",
+    "Score": {
+      "Home": null,
+      "Away": null
+    },
+    "Events": [],
+    "Lineups": [],
+    "Statistics": [],
+    "Players": [],
+    "HeadToHead": []
+  },
+  {
+    "StatsId": 1377950,
+    "GameId": 536902,
+    "Date": "2025-10-29T17:30:00+00:00",
+    "Status": "NS",
+    "Round": "Regular Season - 9",
+    "HomeTeam": "Juventus",
+    "AwayTeam": "Udinese",
+    "Score": {
+      "Home": null,
+      "Away": null
+    },
+    "Events": [],
+    "Lineups": [],
+    "Statistics": [],
+    "Players": [],
+    "HeadToHead": []
+  },
+  {
+    "StatsId": 1377953,
+    "GameId": 536895,
+    "Date": "2025-10-29T17:30:00+00:00",
+    "Status": "NS",
+    "Round": "Regular Season - 9",
+    "HomeTeam": "AS Roma",
+    "AwayTeam": "Parma",
+    "Score": {
+      "Home": null,
+      "Away": null
+    },
+    "Events": [],
+    "Lineups": [],
+    "Statistics": [],
+    "Players": [],
+    "HeadToHead": []
+  },
+  {
+    "StatsId": 1377945,
+    "GameId": 536900,
+    "Date": "2025-10-29T19:45:00+00:00",
+    "Status": "NS",
+    "Round": "Regular Season - 9",
+    "HomeTeam": "Bologna",
+    "AwayTeam": "Torino",
+    "Score": {
+      "Home": null,
+      "Away": null
+    },
+    "Events": [],
+    "Lineups": [],
+    "Statistics": [],
+    "Players": [],
+    "HeadToHead": []
+  },
+  {
+    "StatsId": 1377948,
+    "GameId": 536898,
+    "Date": "2025-10-29T19:45:00+00:00",
+    "Status": "NS",
+    "Round": "Regular Season - 9",
+    "HomeTeam": "Genoa",
+    "AwayTeam": "Cremonese",
+    "Score": {
+      "Home": null,
+      "Away": null
+    },
+    "Events": [],
+    "Lineups": [],
+    "Statistics": [],
+    "Players": [],
+    "HeadToHead": []
+  },
+  {
+    "StatsId": 1377949,
+    "GameId": 536901,
+    "Date": "2025-10-29T19:45:00+00:00",
+    "Status": "NS",
+    "Round": "Regular Season - 9",
+    "HomeTeam": "Inter",
+    "AwayTeam": "Fiorentina",
+    "Score": {
+      "Home": null,
+      "Away": null
+    },
+    "Events": [],
+    "Lineups": [],
+    "Statistics": [],
+    "Players": [],
     "HeadToHead": []
   }
 ]
