@@ -2083,7 +2083,7 @@
     "RoundName": "Serie A",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 107,
@@ -2096,10 +2096,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/457.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 457,
     "Points": {
       "107": 0,
-      "457": 0
+      "457": 3
     },
     "Goals": []
   },
@@ -2135,7 +2135,7 @@
     "RoundName": "Serie A",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 103,
@@ -2150,8 +2150,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "103": 0,
-      "586": 0
+      "103": 1,
+      "586": 1
     },
     "Goals": []
   },
@@ -2161,7 +2161,7 @@
     "RoundName": "Serie A",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 108,
@@ -2172,11 +2172,11 @@
     "AwayTeamName": "ACF Fiorentina",
     "HomeTeamLogo": "https://crests.football-data.org/108.png",
     "AwayTeamLogo": "https://crests.football-data.org/99.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 108,
     "Points": {
-      "108": 0,
+      "108": 3,
       "99": 0
     },
     "Goals": []

@@ -2099,7 +2099,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T20:05:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 543,
@@ -2110,12 +2110,12 @@
     "AwayTeamName": "AS Monaco FC",
     "HomeTeamLogo": "https://crests.football-data.org/543.png",
     "AwayTeamLogo": "https://crests.football-data.org/548.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 5,
+    "Result": 548,
     "Points": {
       "543": 0,
-      "548": 0
+      "548": 3
     },
     "Goals": []
   },
@@ -2125,7 +2125,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T20:05:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1045,
@@ -2136,12 +2136,12 @@
     "AwayTeamName": "Olympique Lyonnais",
     "HomeTeamLogo": "https://crests.football-data.org/1045.png",
     "AwayTeamLogo": "https://crests.football-data.org/523.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
-      "1045": 0,
-      "523": 0
+      "1045": 1,
+      "523": 1
     },
     "Goals": []
   },
@@ -2151,7 +2151,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T20:05:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 511,
@@ -2162,12 +2162,12 @@
     "AwayTeamName": "Stade Rennais FC 1901",
     "HomeTeamLogo": "https://crests.football-data.org/511.png",
     "AwayTeamLogo": "https://crests.football-data.org/529.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "511": 0,
-      "529": 0
+      "511": 1,
+      "529": 1
     },
     "Goals": []
   },
@@ -2203,7 +2203,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T20:05:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 516,
@@ -2214,12 +2214,12 @@
     "AwayTeamName": "Angers SCO",
     "HomeTeamLogo": "https://crests.football-data.org/516.png",
     "AwayTeamLogo": "https://crests.football-data.org/532.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "516": 0,
-      "532": 0
+      "516": 1,
+      "532": 1
     },
     "Goals": []
   },
@@ -2229,7 +2229,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-10-29",
     "DateTime": "2025-10-29T20:05:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 576,
@@ -2240,11 +2240,11 @@
     "AwayTeamName": "AJ Auxerre",
     "HomeTeamLogo": "https://crests.football-data.org/576.png",
     "AwayTeamLogo": "https://crests.football-data.org/519.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 576,
     "Points": {
-      "576": 0,
+      "576": 3,
       "519": 0
     },
     "Goals": []
