@@ -2237,7 +2237,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-10-31",
     "DateTime": "2025-10-31T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 674,
@@ -2248,11 +2248,11 @@
     "AwayTeamName": "Fortuna Sittard",
     "HomeTeamLogo": "https://crests.football-data.org/674.png",
     "AwayTeamLogo": "https://crests.football-data.org/1920.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 5,
+    "AwayTeamScore": 2,
+    "Result": 674,
     "Points": {
-      "674": 0,
+      "674": 3,
       "1920": 0
     },
     "Goals": []
