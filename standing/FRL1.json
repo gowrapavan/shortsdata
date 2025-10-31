@@ -19,7 +19,7 @@
     "id": 2420,
     "startDate": "2025-08-17",
     "endDate": "2026-05-16",
-    "currentMatchday": 10,
+    "currentMatchday": 11,
     "winner": null
   },
   "standings": [
@@ -37,34 +37,34 @@
             "tla": "PSG",
             "crest": "https://crests.football-data.org/524.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 6,
-          "draw": 2,
+          "draw": 3,
           "lost": 1,
-          "points": 20,
-          "goalsFor": 19,
-          "goalsAgainst": 8,
+          "points": 21,
+          "goalsFor": 20,
+          "goalsAgainst": 9,
           "goalDifference": 11
         },
         {
           "position": 2,
           "team": {
-            "id": 546,
-            "name": "Racing Club de Lens",
-            "shortName": "RC Lens",
-            "tla": "RCL",
-            "crest": "https://crests.football-data.org/546.png"
+            "id": 548,
+            "name": "AS Monaco FC",
+            "shortName": "Monaco",
+            "tla": "ASM",
+            "crest": "https://crests.football-data.org/548.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 6,
-          "draw": 1,
+          "draw": 2,
           "lost": 2,
-          "points": 19,
-          "goalsFor": 14,
-          "goalsAgainst": 8,
-          "goalDifference": 6
+          "points": 20,
+          "goalsFor": 23,
+          "goalsAgainst": 16,
+          "goalDifference": 7
         },
         {
           "position": 3,
@@ -75,75 +75,18 @@
             "tla": "MAR",
             "crest": "https://crests.football-data.org/516.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 6,
-          "draw": 0,
+          "draw": 1,
           "lost": 3,
-          "points": 18,
-          "goalsFor": 22,
-          "goalsAgainst": 9,
+          "points": 19,
+          "goalsFor": 24,
+          "goalsAgainst": 11,
           "goalDifference": 13
         },
         {
           "position": 4,
-          "team": {
-            "id": 523,
-            "name": "Olympique Lyonnais",
-            "shortName": "Olympique Lyon",
-            "tla": "LYO",
-            "crest": "https://crests.football-data.org/523.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 6,
-          "draw": 0,
-          "lost": 3,
-          "points": 18,
-          "goalsFor": 13,
-          "goalsAgainst": 9,
-          "goalDifference": 4
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 521,
-            "name": "Lille OSC",
-            "shortName": "Lille",
-            "tla": "LIL",
-            "crest": "https://crests.football-data.org/521.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 5,
-          "draw": 2,
-          "lost": 2,
-          "points": 17,
-          "goalsFor": 22,
-          "goalsAgainst": 11,
-          "goalDifference": 11
-        },
-        {
-          "position": 6,
-          "team": {
-            "id": 548,
-            "name": "AS Monaco FC",
-            "shortName": "Monaco",
-            "tla": "ASM",
-            "crest": "https://crests.football-data.org/548.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 5,
-          "draw": 2,
-          "lost": 2,
-          "points": 17,
-          "goalsFor": 18,
-          "goalsAgainst": 13,
-          "goalDifference": 5
-        },
-        {
-          "position": 7,
           "team": {
             "id": 576,
             "name": "RC Strasbourg Alsace",
@@ -151,15 +94,72 @@
             "tla": "RC ",
             "crest": "https://crests.football-data.org/576.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
-          "won": 5,
+          "won": 6,
           "draw": 1,
           "lost": 3,
-          "points": 16,
-          "goalsFor": 18,
+          "points": 19,
+          "goalsFor": 21,
           "goalsAgainst": 12,
-          "goalDifference": 6
+          "goalDifference": 9
+        },
+        {
+          "position": 5,
+          "team": {
+            "id": 523,
+            "name": "Olympique Lyonnais",
+            "shortName": "Olympique Lyon",
+            "tla": "LYO",
+            "crest": "https://crests.football-data.org/523.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 6,
+          "draw": 1,
+          "lost": 3,
+          "points": 19,
+          "goalsFor": 16,
+          "goalsAgainst": 12,
+          "goalDifference": 4
+        },
+        {
+          "position": 6,
+          "team": {
+            "id": 546,
+            "name": "Racing Club de Lens",
+            "shortName": "RC Lens",
+            "tla": "RCL",
+            "crest": "https://crests.football-data.org/546.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 6,
+          "draw": 1,
+          "lost": 3,
+          "points": 19,
+          "goalsFor": 14,
+          "goalsAgainst": 10,
+          "goalDifference": 4
+        },
+        {
+          "position": 7,
+          "team": {
+            "id": 521,
+            "name": "Lille OSC",
+            "shortName": "Lille",
+            "tla": "LIL",
+            "crest": "https://crests.football-data.org/521.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 5,
+          "draw": 2,
+          "lost": 3,
+          "points": 17,
+          "goalsFor": 22,
+          "goalsAgainst": 13,
+          "goalDifference": 9
         },
         {
           "position": 8,
@@ -170,15 +170,15 @@
             "tla": "NIC",
             "crest": "https://crests.football-data.org/522.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
-          "won": 4,
+          "won": 5,
           "draw": 2,
           "lost": 3,
-          "points": 14,
-          "goalsFor": 14,
+          "points": 17,
+          "goalsFor": 16,
           "goalsAgainst": 15,
-          "goalDifference": -1
+          "goalDifference": 1
         },
         {
           "position": 9,
@@ -189,14 +189,14 @@
             "tla": "TOU",
             "crest": "https://crests.football-data.org/511.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 4,
-          "draw": 1,
+          "draw": 2,
           "lost": 4,
-          "points": 13,
-          "goalsFor": 15,
-          "goalsAgainst": 13,
+          "points": 14,
+          "goalsFor": 17,
+          "goalsAgainst": 15,
           "goalDifference": 2
         },
         {
@@ -208,75 +208,18 @@
             "tla": "REN",
             "crest": "https://crests.football-data.org/529.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 2,
-          "draw": 5,
+          "draw": 6,
           "lost": 2,
-          "points": 11,
-          "goalsFor": 12,
-          "goalsAgainst": 14,
+          "points": 12,
+          "goalsFor": 14,
+          "goalsAgainst": 16,
           "goalDifference": -2
         },
         {
           "position": 11,
-          "team": {
-            "id": 1045,
-            "name": "Paris FC",
-            "shortName": "Paris FC",
-            "tla": "PFC",
-            "crest": "https://crests.football-data.org/1045.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 3,
-          "draw": 1,
-          "lost": 5,
-          "points": 10,
-          "goalsFor": 14,
-          "goalsAgainst": 17,
-          "goalDifference": -3
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 512,
-            "name": "Stade Brestois 29",
-            "shortName": "Brest",
-            "tla": "BRE",
-            "crest": "https://crests.football-data.org/512.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 2,
-          "draw": 3,
-          "lost": 4,
-          "points": 9,
-          "goalsFor": 14,
-          "goalsAgainst": 17,
-          "goalDifference": -3
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 543,
-            "name": "FC Nantes",
-            "shortName": "Nantes",
-            "tla": "NAN",
-            "crest": "https://crests.football-data.org/543.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 2,
-          "draw": 3,
-          "lost": 4,
-          "points": 9,
-          "goalsFor": 7,
-          "goalsAgainst": 10,
-          "goalDifference": -3
-        },
-        {
-          "position": 14,
           "team": {
             "id": 533,
             "name": "Le Havre AC",
@@ -284,18 +227,37 @@
             "tla": "HAC",
             "crest": "https://crests.football-data.org/533.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
-          "won": 2,
+          "won": 3,
           "draw": 3,
           "lost": 4,
-          "points": 9,
-          "goalsFor": 11,
+          "points": 12,
+          "goalsFor": 12,
           "goalsAgainst": 16,
-          "goalDifference": -5
+          "goalDifference": -4
         },
         {
-          "position": 15,
+          "position": 12,
+          "team": {
+            "id": 1045,
+            "name": "Paris FC",
+            "shortName": "Paris FC",
+            "tla": "PFC",
+            "crest": "https://crests.football-data.org/1045.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 3,
+          "draw": 2,
+          "lost": 5,
+          "points": 11,
+          "goalsFor": 17,
+          "goalsAgainst": 20,
+          "goalDifference": -3
+        },
+        {
+          "position": 13,
           "team": {
             "id": 532,
             "name": "Angers SCO",
@@ -303,15 +265,53 @@
             "tla": "ANG",
             "crest": "https://crests.football-data.org/532.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
+          "form": null,
+          "won": 2,
+          "draw": 4,
+          "lost": 4,
+          "points": 10,
+          "goalsFor": 8,
+          "goalsAgainst": 14,
+          "goalDifference": -6
+        },
+        {
+          "position": 14,
+          "team": {
+            "id": 512,
+            "name": "Stade Brestois 29",
+            "shortName": "Brest",
+            "tla": "BRE",
+            "crest": "https://crests.football-data.org/512.png"
+          },
+          "playedGames": 10,
           "form": null,
           "won": 2,
           "draw": 3,
-          "lost": 4,
+          "lost": 5,
           "points": 9,
-          "goalsFor": 6,
-          "goalsAgainst": 12,
-          "goalDifference": -6
+          "goalsFor": 14,
+          "goalsAgainst": 18,
+          "goalDifference": -4
+        },
+        {
+          "position": 15,
+          "team": {
+            "id": 543,
+            "name": "FC Nantes",
+            "shortName": "Nantes",
+            "tla": "NAN",
+            "crest": "https://crests.football-data.org/543.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 2,
+          "draw": 3,
+          "lost": 5,
+          "points": 9,
+          "goalsFor": 10,
+          "goalsAgainst": 15,
+          "goalDifference": -5
         },
         {
           "position": 16,
@@ -322,14 +322,14 @@
             "tla": "FCL",
             "crest": "https://crests.football-data.org/525.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 2,
-          "draw": 2,
+          "draw": 3,
           "lost": 5,
-          "points": 8,
-          "goalsFor": 12,
-          "goalsAgainst": 21,
+          "points": 9,
+          "goalsFor": 13,
+          "goalsAgainst": 22,
           "goalDifference": -9
         },
         {
@@ -341,15 +341,15 @@
             "tla": "AJA",
             "crest": "https://crests.football-data.org/519.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 2,
           "draw": 1,
-          "lost": 6,
+          "lost": 7,
           "points": 7,
           "goalsFor": 7,
-          "goalsAgainst": 13,
-          "goalDifference": -6
+          "goalsAgainst": 16,
+          "goalDifference": -9
         },
         {
           "position": 18,
@@ -360,15 +360,15 @@
             "tla": "FCM",
             "crest": "https://crests.football-data.org/545.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
-          "won": 0,
+          "won": 1,
           "draw": 2,
           "lost": 7,
-          "points": 2,
-          "goalsFor": 6,
+          "points": 5,
+          "goalsFor": 8,
           "goalsAgainst": 26,
-          "goalDifference": -20
+          "goalDifference": -18
         }
       ]
     }
