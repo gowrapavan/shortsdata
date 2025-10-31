@@ -2213,7 +2213,7 @@
     "RoundName": "Serie A",
     "Date": "2025-10-30",
     "DateTime": "2025-10-30T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 487,
@@ -2228,8 +2228,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "487": 0,
-      "110": 0
+      "487": 1,
+      "110": 1
     },
     "Goals": []
   },
