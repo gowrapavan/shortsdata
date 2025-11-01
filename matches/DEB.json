@@ -1816,8 +1816,8 @@
     "AwayTeamName": "Bayer 04 Leverkusen",
     "HomeTeamLogo": "https://crests.football-data.org/5.png",
     "AwayTeamLogo": "https://crests.football-data.org/3.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "5": 0,
@@ -1831,7 +1831,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-01",
     "DateTime": "2025-11-01T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 15,
@@ -1843,11 +1843,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/15.png",
     "AwayTeamLogo": "https://crests.football-data.org/12.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "15": 0,
-      "12": 0
+      "15": 1,
+      "12": 1
     },
     "Goals": []
   },
@@ -1857,7 +1857,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-01",
     "DateTime": "2025-11-01T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 721,
@@ -1868,11 +1868,11 @@
     "AwayTeamName": "VfB Stuttgart",
     "HomeTeamLogo": "https://crests.football-data.org/721.png",
     "AwayTeamLogo": "https://crests.football-data.org/10.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 721,
     "Points": {
-      "721": 0,
+      "721": 3,
       "10": 0
     },
     "Goals": []
@@ -1935,7 +1935,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-01",
     "DateTime": "2025-11-01T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 28,
@@ -1947,11 +1947,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/28.png",
     "AwayTeamLogo": "https://crests.football-data.org/17.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "28": 0,
-      "17": 0
+      "28": 1,
+      "17": 1
     },
     "Goals": []
   },
@@ -1961,7 +1961,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-01",
     "DateTime": "2025-11-01T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 20,
@@ -1973,11 +1973,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/20.png",
     "AwayTeamLogo": "https://crests.football-data.org/18.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 4,
+    "Result": 18,
     "Points": {
       "20": 0,
-      "18": 0
+      "18": 3
     },
     "Goals": []
   },
@@ -1987,7 +1987,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-01",
     "DateTime": "2025-11-01T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 44,
@@ -1999,11 +1999,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/44.png",
     "AwayTeamLogo": "https://crests.football-data.org/19.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "44": 0,
-      "19": 0
+      "44": 1,
+      "19": 1
     },
     "Goals": []
   },

@@ -2515,7 +2515,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-11-01",
     "DateTime": "2025-11-01T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 78,
@@ -2526,11 +2526,11 @@
     "AwayTeamName": "Sevilla FC",
     "HomeTeamLogo": "https://crests.football-data.org/78.png",
     "AwayTeamLogo": "https://crests.football-data.org/559.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
+    "Result": 78,
     "Points": {
-      "78": 0,
+      "78": 3,
       "559": 0
     },
     "Goals": []
@@ -2656,8 +2656,8 @@
     "AwayTeamName": "Athletic Club",
     "HomeTeamLogo": "https://crests.football-data.org/92.png",
     "AwayTeamLogo": "https://crests.football-data.org/77.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "92": 0,
