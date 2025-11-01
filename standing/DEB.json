@@ -50,6 +50,25 @@
         {
           "position": 2,
           "team": {
+            "id": 4,
+            "name": "Borussia Dortmund",
+            "shortName": "Dortmund",
+            "tla": "BVB",
+            "crest": "https://crests.football-data.org/4.png"
+          },
+          "playedGames": 9,
+          "form": null,
+          "won": 6,
+          "draw": 2,
+          "lost": 1,
+          "points": 20,
+          "goalsFor": 15,
+          "goalsAgainst": 6,
+          "goalDifference": 9
+        },
+        {
+          "position": 3,
+          "team": {
             "id": 721,
             "name": "RB Leipzig",
             "shortName": "RB Leipzig",
@@ -67,7 +86,7 @@
           "goalDifference": 7
         },
         {
-          "position": 3,
+          "position": 4,
           "team": {
             "id": 10,
             "name": "VfB Stuttgart",
@@ -84,25 +103,6 @@
           "goalsFor": 13,
           "goalsAgainst": 7,
           "goalDifference": 6
-        },
-        {
-          "position": 4,
-          "team": {
-            "id": 4,
-            "name": "Borussia Dortmund",
-            "shortName": "Dortmund",
-            "tla": "BVB",
-            "crest": "https://crests.football-data.org/4.png"
-          },
-          "playedGames": 8,
-          "form": null,
-          "won": 5,
-          "draw": 2,
-          "lost": 1,
-          "points": 17,
-          "goalsFor": 14,
-          "goalsAgainst": 6,
-          "goalDifference": 8
         },
         {
           "position": 5,
@@ -303,15 +303,15 @@
             "tla": "FCA",
             "crest": "https://crests.football-data.org/16.png"
           },
-          "playedGames": 8,
+          "playedGames": 9,
           "form": null,
           "won": 2,
           "draw": 1,
-          "lost": 5,
+          "lost": 6,
           "points": 7,
           "goalsFor": 12,
-          "goalsAgainst": 20,
-          "goalDifference": -8
+          "goalsAgainst": 21,
+          "goalDifference": -9
         },
         {
           "position": 16,

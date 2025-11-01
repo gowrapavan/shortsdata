@@ -37,15 +37,15 @@
             "tla": "COV",
             "crest": "https://crests.football-data.org/1076.png"
           },
-          "playedGames": 12,
+          "playedGames": 13,
           "form": null,
           "won": 8,
           "draw": 4,
-          "lost": 0,
+          "lost": 1,
           "points": 28,
-          "goalsFor": 34,
-          "goalsAgainst": 9,
-          "goalDifference": 25
+          "goalsFor": 36,
+          "goalsAgainst": 12,
+          "goalDifference": 24
         },
         {
           "position": 2,
@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 404,
+            "name": "Wrexham AFC",
+            "shortName": "Wrexham",
+            "tla": "WRE",
+            "crest": "https://crests.football-data.org/404.png"
+          },
+          "playedGames": 13,
+          "form": null,
+          "won": 4,
+          "draw": 5,
+          "lost": 4,
+          "points": 17,
+          "goalsFor": 19,
+          "goalsAgainst": 19,
+          "goalDifference": 0
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 74,
             "name": "West Bromwich Albion FC",
             "shortName": "West Brom",
@@ -238,7 +257,7 @@
           "goalDifference": -2
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 349,
             "name": "Ipswich Town FC",
@@ -257,7 +276,7 @@
           "goalDifference": 4
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 72,
             "name": "Swansea City AFC",
@@ -276,7 +295,7 @@
           "goalDifference": 0
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 346,
             "name": "Watford FC",
@@ -295,7 +314,7 @@
           "goalDifference": -2
         },
         {
-          "position": 15,
+          "position": 16,
           "team": {
             "id": 332,
             "name": "Birmingham City FC",
@@ -312,25 +331,6 @@
           "goalsFor": 11,
           "goalsAgainst": 15,
           "goalDifference": -4
-        },
-        {
-          "position": 16,
-          "team": {
-            "id": 404,
-            "name": "Wrexham AFC",
-            "shortName": "Wrexham",
-            "tla": "WRE",
-            "crest": "https://crests.football-data.org/404.png"
-          },
-          "playedGames": 12,
-          "form": null,
-          "won": 3,
-          "draw": 5,
-          "lost": 4,
-          "points": 14,
-          "goalsFor": 16,
-          "goalsAgainst": 17,
-          "goalDifference": -1
         },
         {
           "position": 17,

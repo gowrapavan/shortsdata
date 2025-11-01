@@ -31,6 +31,25 @@
         {
           "position": 1,
           "team": {
+            "id": 674,
+            "name": "PSV",
+            "shortName": "PSV",
+            "tla": "PSV",
+            "crest": "https://crests.football-data.org/674.png"
+          },
+          "playedGames": 11,
+          "form": null,
+          "won": 9,
+          "draw": 1,
+          "lost": 1,
+          "points": 28,
+          "goalsFor": 35,
+          "goalsAgainst": 16,
+          "goalDifference": 19
+        },
+        {
+          "position": 2,
+          "team": {
             "id": 675,
             "name": "Feyenoord Rotterdam",
             "shortName": "Feyenoord",
@@ -46,25 +65,6 @@
           "goalsFor": 27,
           "goalsAgainst": 9,
           "goalDifference": 18
-        },
-        {
-          "position": 2,
-          "team": {
-            "id": 674,
-            "name": "PSV",
-            "shortName": "PSV",
-            "tla": "PSV",
-            "crest": "https://crests.football-data.org/674.png"
-          },
-          "playedGames": 10,
-          "form": null,
-          "won": 8,
-          "draw": 1,
-          "lost": 1,
-          "points": 25,
-          "goalsFor": 30,
-          "goalsAgainst": 14,
-          "goalDifference": 16
         },
         {
           "position": 3,
@@ -246,15 +246,15 @@
             "tla": "SIT",
             "crest": "https://crests.football-data.org/1920.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
           "won": 4,
           "draw": 1,
-          "lost": 5,
+          "lost": 6,
           "points": 13,
-          "goalsFor": 14,
-          "goalsAgainst": 15,
-          "goalDifference": -1
+          "goalsFor": 16,
+          "goalsAgainst": 20,
+          "goalDifference": -4
         },
         {
           "position": 13,
