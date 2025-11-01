@@ -2263,7 +2263,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-11-01",
     "DateTime": "2025-11-01T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 675,
@@ -2274,11 +2274,11 @@
     "AwayTeamName": "FC Volendam",
     "HomeTeamLogo": "https://crests.football-data.org/675.png",
     "AwayTeamLogo": "https://crests.football-data.org/1919.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 675,
     "Points": {
-      "675": 0,
+      "675": 3,
       "1919": 0
     },
     "Goals": []
@@ -2289,7 +2289,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-11-01",
     "DateTime": "2025-11-01T17:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 681,
@@ -2300,11 +2300,11 @@
     "AwayTeamName": "Go Ahead Eagles",
     "HomeTeamLogo": "https://crests.football-data.org/681.png",
     "AwayTeamLogo": "https://crests.football-data.org/718.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 681,
     "Points": {
-      "681": 0,
+      "681": 3,
       "718": 0
     },
     "Goals": []
@@ -2352,8 +2352,8 @@
     "AwayTeamName": "SBV Excelsior",
     "HomeTeamLogo": "https://crests.football-data.org/1912.png",
     "AwayTeamLogo": "https://crests.football-data.org/670.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "1912": 0,

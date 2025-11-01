@@ -2447,7 +2447,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-01",
     "DateTime": "2025-11-01T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 113,
@@ -2462,8 +2462,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "113": 0,
-      "7397": 0
+      "113": 1,
+      "7397": 1
     },
     "Goals": []
   },
@@ -2510,8 +2510,8 @@
     "AwayTeamName": "Juventus FC",
     "HomeTeamLogo": "https://crests.football-data.org/457.png",
     "AwayTeamLogo": "https://crests.football-data.org/109.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "457": 0,
