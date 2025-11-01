@@ -2723,7 +2723,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-11-01",
     "DateTime": "2025-11-01T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 94,
@@ -2734,11 +2734,11 @@
     "AwayTeamName": "Rayo Vallecano de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/94.png",
     "AwayTeamLogo": "https://crests.football-data.org/87.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 0,
+    "Result": 94,
     "Points": {
-      "94": 0,
+      "94": 3,
       "87": 0
     },
     "Goals": []
