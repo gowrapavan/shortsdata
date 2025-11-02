@@ -8,11 +8,10 @@ import time
 from datetime import datetime, timedelta
 from difflib import SequenceMatcher
 import pytz  # for timezone
-import sys
 
 # ---------------- CONFIG ---------------- #
 API_KEYS = [
-    "7120426d0dc6a0486626407834572f25",
+    "281705414df7ea8aa6ff1650a2dc4c04",
     "dec966a0a00434be718c28d5e39d590f",
     "91fa929380bfaf2825905aa038794cfc",
     "e45c153e4854b06ce88d2a9a3c55b7de"
@@ -25,11 +24,6 @@ OUTPUT_DIR = "stats"
 FUZZY_THRESHOLD = 0.6
 PAUSE_SEC = 6
 os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-# ✅ Run Mode — easy ON/OFF key
-# "on" → run anytime (day or night)
-# "off" → only 6 PM – 3 AM IST
-RUN_MODE = "on"  # change to "off" to restrict to 6PM–3AM
 
 LEAGUES = {
     "DEB": 78,
@@ -161,11 +155,10 @@ def find_game_id(league_name, match_date, home_team, away_team):
 
 # ---------------- MAIN ---------------- #
 def main():
+    # ✅ Run only 6 PM – 3 AM IST
     india = pytz.timezone("Asia/Kolkata")
     now = datetime.now(india)
-
-    # ⏸️ Restrict execution if outside time window and RUN_MODE is off
-    if RUN_MODE.lower() == "off" and not (now.hour >= 18 or now.hour < 3):
+    if not (now.hour >= 18 or now.hour < 3):
         print("⏸️ Skipping — outside 6 PM – 3 AM IST window.")
         return
 
@@ -243,8 +236,6 @@ def main():
 
             print(f"💾 Saved {len(existing_data)} total matches to {output_file}")
 
-    print("✅ Script completed successfully, exiting now.")
-    sys.exit(0)
 
 if __name__ == "__main__":
     main()
