@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 import requests
 import json
@@ -11,7 +12,7 @@ import pytz  # for timezone
 
 # ---------------- CONFIG ---------------- #
 API_KEYS = [
-    "281705414df7ea8aa6ff1650a2dc4c04",
+    "7120426d0dc6a0486626407834572f25",
     "dec966a0a00434be718c28d5e39d590f",
     "91fa929380bfaf2825905aa038794cfc",
     "e45c153e4854b06ce88d2a9a3c55b7de"
@@ -155,13 +156,7 @@ def find_game_id(league_name, match_date, home_team, away_team):
 
 # ---------------- MAIN ---------------- #
 def main():
-    # ✅ Run only 6 PM – 3 AM IST
-    india = pytz.timezone("Asia/Kolkata")
-    now = datetime.now(india)
-    if not (now.hour >= 18 or now.hour < 3):
-        print("⏸️ Skipping — outside 6 PM – 3 AM IST window.")
-        return
-
+    # ✅ Runs 24/7 (removed time condition)
     deltas = [-2, -1, 0]
 
     for delta in deltas:
