@@ -2255,7 +2255,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-01",
     "DateTime": "2025-11-01T20:05:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 519,
@@ -2266,12 +2266,12 @@
     "AwayTeamName": "Olympique de Marseille",
     "HomeTeamLogo": "https://crests.football-data.org/519.png",
     "AwayTeamLogo": "https://crests.football-data.org/516.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "519": 0,
-      "516": 0
+      "519": 1,
+      "516": 1
     },
     "Goals": []
   },
