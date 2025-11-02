@@ -2541,7 +2541,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 81,
@@ -2552,11 +2552,11 @@
     "AwayTeamName": "Elche CF",
     "HomeTeamLogo": "https://crests.football-data.org/81.png",
     "AwayTeamLogo": "https://crests.football-data.org/285.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 81,
     "Points": {
-      "81": 0,
+      "81": 3,
       "285": 0
     },
     "Goals": []
@@ -2578,8 +2578,8 @@
     "AwayTeamName": "RCD Mallorca",
     "HomeTeamLogo": "https://crests.football-data.org/90.png",
     "AwayTeamLogo": "https://crests.football-data.org/89.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "90": 0,

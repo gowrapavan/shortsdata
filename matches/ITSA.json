@@ -2302,8 +2302,8 @@
     "AwayTeamName": "AS Roma",
     "HomeTeamLogo": "https://crests.football-data.org/98.png",
     "AwayTeamLogo": "https://crests.football-data.org/100.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "98": 0,
@@ -2395,7 +2395,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 112,
@@ -2407,11 +2407,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/112.png",
     "AwayTeamLogo": "https://crests.football-data.org/103.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 103,
     "Points": {
       "112": 0,
-      "103": 0
+      "103": 3
     },
     "Goals": []
   },

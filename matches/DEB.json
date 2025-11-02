@@ -1883,7 +1883,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 11,
@@ -1896,10 +1896,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/2.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 4,
-    "Result": null,
+    "Result": 2,
     "Points": {
       "11": 0,
-      "2": 0
+      "2": 3
     },
     "Goals": []
   },
