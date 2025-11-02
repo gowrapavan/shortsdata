@@ -2307,7 +2307,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 543,
@@ -2318,12 +2318,12 @@
     "AwayTeamName": "FC Metz",
     "HomeTeamLogo": "https://crests.football-data.org/543.png",
     "AwayTeamLogo": "https://crests.football-data.org/545.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
+    "Result": 545,
     "Points": {
       "543": 0,
-      "545": 0
+      "545": 3
     },
     "Goals": []
   },
@@ -2333,7 +2333,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 511,
@@ -2344,12 +2344,12 @@
     "AwayTeamName": "Le Havre AC",
     "HomeTeamLogo": "https://crests.football-data.org/511.png",
     "AwayTeamLogo": "https://crests.football-data.org/533.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "511": 0,
-      "533": 0
+      "511": 1,
+      "533": 1
     },
     "Goals": []
   },
@@ -2359,7 +2359,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 521,
@@ -2370,11 +2370,11 @@
     "AwayTeamName": "Angers SCO",
     "HomeTeamLogo": "https://crests.football-data.org/521.png",
     "AwayTeamLogo": "https://crests.football-data.org/532.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 521,
     "Points": {
-      "521": 0,
+      "521": 3,
       "532": 0
     },
     "Goals": []
@@ -2411,7 +2411,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 546,
@@ -2422,11 +2422,11 @@
     "AwayTeamName": "FC Lorient",
     "HomeTeamLogo": "https://crests.football-data.org/546.png",
     "AwayTeamLogo": "https://crests.football-data.org/525.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
+    "Result": 546,
     "Points": {
-      "546": 0,
+      "546": 3,
       "525": 0
     },
     "Goals": []
@@ -2463,7 +2463,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 529,
@@ -2474,11 +2474,11 @@
     "AwayTeamName": "RC Strasbourg Alsace",
     "HomeTeamLogo": "https://crests.football-data.org/529.png",
     "AwayTeamLogo": "https://crests.football-data.org/576.png",
-    "HomeTeamScore": 3,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 1,
+    "Result": 529,
     "Points": {
-      "529": 0,
+      "529": 3,
       "576": 0
     },
     "Goals": []

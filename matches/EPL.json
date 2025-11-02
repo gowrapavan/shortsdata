@@ -2412,8 +2412,8 @@
     "AwayTeamName": "AFC Bournemouth",
     "HomeTeamLogo": "https://crests.football-data.org/65.png",
     "AwayTeamLogo": "https://crests.football-data.org/bournemouth.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "65": 0,
@@ -2479,7 +2479,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 563,
@@ -2490,11 +2490,11 @@
     "AwayTeamName": "Newcastle United FC",
     "HomeTeamLogo": "https://crests.football-data.org/563.png",
     "AwayTeamLogo": "https://crests.football-data.org/67.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 563,
     "Points": {
-      "563": 0,
+      "563": 3,
       "67": 0
     },
     "Goals": []

@@ -2265,7 +2265,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 99,
@@ -2278,10 +2278,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/5890.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 5890,
     "Points": {
       "99": 0,
-      "5890": 0
+      "5890": 3
     },
     "Goals": []
   },
@@ -2317,7 +2317,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 586,
@@ -2332,8 +2332,8 @@
     "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "586": 0,
-      "487": 0
+      "586": 1,
+      "487": 1
     },
     "Goals": []
   },
@@ -2406,8 +2406,8 @@
     "AwayTeamName": "Bologna FC 1909",
     "HomeTeamLogo": "https://crests.football-data.org/112.png",
     "AwayTeamLogo": "https://crests.football-data.org/103.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "112": 0,
