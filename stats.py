@@ -155,10 +155,14 @@ def find_game_id(league_name, match_date, home_team, away_team):
 
 # ---------------- MAIN ---------------- #
 def main():
-    # ✅ Run only 6 PM – 3 AM IST
+    # 🕒 Run control flag
+    FORCE_RUN = True  # ✅ Set to True to run anytime; False to limit to 6PM–3AM IST
+
     india = pytz.timezone("Asia/Kolkata")
     now = datetime.now(india)
-    if not (now.hour >= 18 or now.hour < 3):
+
+    # ⏸️ Restrict execution if outside time window and FORCE_RUN is False
+    if not FORCE_RUN and not (now.hour >= 18 or now.hour < 3):
         print("⏸️ Skipping — outside 6 PM – 3 AM IST window.")
         return
 
