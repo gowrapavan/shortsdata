@@ -2671,7 +2671,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 88,
@@ -2682,12 +2682,12 @@
     "AwayTeamName": "RC Celta de Vigo",
     "HomeTeamLogo": "https://crests.football-data.org/88.png",
     "AwayTeamLogo": "https://crests.football-data.org/558.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 558,
     "Points": {
       "88": 0,
-      "558": 0
+      "558": 3
     },
     "Goals": []
   },

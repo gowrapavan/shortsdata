@@ -2276,8 +2276,8 @@
     "AwayTeamName": "US Lecce",
     "HomeTeamLogo": "https://crests.football-data.org/99.png",
     "AwayTeamLogo": "https://crests.football-data.org/5890.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "99": 0,
@@ -2328,8 +2328,8 @@
     "AwayTeamName": "AC Pisa 1909",
     "HomeTeamLogo": "https://crests.football-data.org/586.png",
     "AwayTeamLogo": "https://crests.football-data.org/487.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "586": 0,
@@ -2343,7 +2343,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T11:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 450,
@@ -2355,11 +2355,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/450.png",
     "AwayTeamLogo": "https://crests.football-data.org/108.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 108,
     "Points": {
       "450": 0,
-      "108": 0
+      "108": 3
     },
     "Goals": []
   },

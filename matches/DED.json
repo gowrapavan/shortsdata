@@ -2367,7 +2367,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T11:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 671,
@@ -2378,11 +2378,11 @@
     "AwayTeamName": "PEC Zwolle",
     "HomeTeamLogo": "https://crests.football-data.org/671.png",
     "AwayTeamLogo": "https://crests.football-data.org/684.png",
-    "HomeTeamScore": 5,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 8,
+    "AwayTeamScore": 2,
+    "Result": 671,
     "Points": {
-      "671": 0,
+      "671": 3,
       "684": 0
     },
     "Goals": []
@@ -2404,8 +2404,8 @@
     "AwayTeamName": "FC Twente '65",
     "HomeTeamLogo": "https://crests.football-data.org/677.png",
     "AwayTeamLogo": "https://crests.football-data.org/666.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "677": 0,
@@ -2430,8 +2430,8 @@
     "AwayTeamName": "AZ",
     "HomeTeamLogo": "https://crests.football-data.org/6806.png",
     "AwayTeamLogo": "https://crests.football-data.org/682.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "6806": 0,
