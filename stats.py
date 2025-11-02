@@ -13,7 +13,8 @@ import pytz  # for timezone
 API_KEYS = [
     "281705414df7ea8aa6ff1650a2dc4c04",
     "dec966a0a00434be718c28d5e39d590f",
-    "91fa929380bfaf2825905aa038794cfc"
+    "91fa929380bfaf2825905aa038794cfc",
+    "e45c153e4854b06ce88d2a9a3c55b7de"
 ]
 current_key_index = 0
 
