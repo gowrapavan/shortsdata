@@ -37,12 +37,12 @@
             "tla": "NAP",
             "crest": "https://crests.football-data.org/113.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 7,
-          "draw": 0,
+          "draw": 1,
           "lost": 2,
-          "points": 21,
+          "points": 22,
           "goalsFor": 16,
           "goalsAgainst": 8,
           "goalDifference": 8
@@ -107,24 +107,43 @@
         {
           "position": 5,
           "team": {
+            "id": 109,
+            "name": "Juventus FC",
+            "shortName": "Juventus",
+            "tla": "JUV",
+            "crest": "https://crests.football-data.org/109.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 5,
+          "draw": 3,
+          "lost": 2,
+          "points": 18,
+          "goalsFor": 14,
+          "goalsAgainst": 10,
+          "goalDifference": 4
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 7397,
             "name": "Como 1907",
             "shortName": "Como 1907",
             "tla": "COM",
             "crest": "https://crests.football-data.org/7397.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 4,
-          "draw": 4,
+          "draw": 5,
           "lost": 1,
-          "points": 16,
+          "points": 17,
           "goalsFor": 12,
           "goalsAgainst": 6,
           "goalDifference": 6
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 103,
             "name": "Bologna FC 1909",
@@ -143,26 +162,26 @@
           "goalDifference": 6
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
-            "id": 109,
-            "name": "Juventus FC",
-            "shortName": "Juventus",
-            "tla": "JUV",
-            "crest": "https://crests.football-data.org/109.png"
+            "id": 115,
+            "name": "Udinese Calcio",
+            "shortName": "Udinese",
+            "tla": "UDI",
+            "crest": "https://crests.football-data.org/115.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 4,
           "draw": 3,
-          "lost": 2,
+          "lost": 3,
           "points": 15,
           "goalsFor": 12,
-          "goalsAgainst": 9,
-          "goalDifference": 3
+          "goalsAgainst": 15,
+          "goalDifference": -3
         },
         {
-          "position": 8,
+          "position": 9,
           "team": {
             "id": 457,
             "name": "US Cremonese",
@@ -170,18 +189,18 @@
             "tla": "CRE",
             "crest": "https://crests.football-data.org/457.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 3,
           "draw": 5,
-          "lost": 1,
+          "lost": 2,
           "points": 14,
-          "goalsFor": 11,
-          "goalsAgainst": 10,
-          "goalDifference": 1
+          "goalsFor": 12,
+          "goalsAgainst": 12,
+          "goalDifference": 0
         },
         {
-          "position": 9,
+          "position": 10,
           "team": {
             "id": 102,
             "name": "Atalanta BC",
@@ -189,18 +208,18 @@
             "tla": "ATA",
             "crest": "https://crests.football-data.org/102.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 2,
           "draw": 7,
-          "lost": 0,
+          "lost": 1,
           "points": 13,
           "goalsFor": 13,
-          "goalsAgainst": 7,
-          "goalDifference": 6
+          "goalsAgainst": 8,
+          "goalDifference": 5
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 471,
             "name": "US Sassuolo Calcio",
@@ -219,7 +238,7 @@
           "goalDifference": 0
         },
         {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 110,
             "name": "SS Lazio",
@@ -236,25 +255,6 @@
           "goalsFor": 11,
           "goalsAgainst": 7,
           "goalDifference": 4
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 115,
-            "name": "Udinese Calcio",
-            "shortName": "Udinese",
-            "tla": "UDI",
-            "crest": "https://crests.football-data.org/115.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 3,
-          "draw": 3,
-          "lost": 3,
-          "points": 12,
-          "goalsFor": 11,
-          "goalsAgainst": 15,
-          "goalDifference": -4
         },
         {
           "position": 13,

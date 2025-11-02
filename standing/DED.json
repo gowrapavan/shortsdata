@@ -31,6 +31,25 @@
         {
           "position": 1,
           "team": {
+            "id": 675,
+            "name": "Feyenoord Rotterdam",
+            "shortName": "Feyenoord",
+            "tla": "FEY",
+            "crest": "https://crests.football-data.org/675.png"
+          },
+          "playedGames": 11,
+          "form": null,
+          "won": 9,
+          "draw": 1,
+          "lost": 1,
+          "points": 28,
+          "goalsFor": 30,
+          "goalsAgainst": 10,
+          "goalDifference": 20
+        },
+        {
+          "position": 2,
+          "team": {
             "id": 674,
             "name": "PSV",
             "shortName": "PSV",
@@ -46,25 +65,6 @@
           "goalsFor": 35,
           "goalsAgainst": 16,
           "goalDifference": 19
-        },
-        {
-          "position": 2,
-          "team": {
-            "id": 675,
-            "name": "Feyenoord Rotterdam",
-            "shortName": "Feyenoord",
-            "tla": "FEY",
-            "crest": "https://crests.football-data.org/675.png"
-          },
-          "playedGames": 10,
-          "form": null,
-          "won": 8,
-          "draw": 1,
-          "lost": 1,
-          "points": 25,
-          "goalsFor": 27,
-          "goalsAgainst": 9,
-          "goalDifference": 18
         },
         {
           "position": 3,
@@ -94,14 +94,14 @@
             "tla": "AJA",
             "crest": "https://crests.football-data.org/678.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
           "won": 5,
-          "draw": 4,
+          "draw": 5,
           "lost": 1,
-          "points": 19,
-          "goalsFor": 20,
-          "goalsAgainst": 14,
+          "points": 20,
+          "goalsFor": 21,
+          "goalsAgainst": 15,
           "goalDifference": 6
         },
         {
@@ -183,6 +183,25 @@
         {
           "position": 9,
           "team": {
+            "id": 673,
+            "name": "SC Heerenveen",
+            "shortName": "Heerenveen",
+            "tla": "HEE",
+            "crest": "https://crests.football-data.org/673.png"
+          },
+          "playedGames": 11,
+          "form": null,
+          "won": 3,
+          "draw": 5,
+          "lost": 3,
+          "points": 14,
+          "goalsFor": 19,
+          "goalsAgainst": 19,
+          "goalDifference": 0
+        },
+        {
+          "position": 10,
+          "team": {
             "id": 676,
             "name": "FC Utrecht",
             "shortName": "Utrecht",
@@ -200,7 +219,7 @@
           "goalDifference": 4
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 718,
             "name": "Go Ahead Eagles",
@@ -208,33 +227,14 @@
             "tla": "GOA",
             "crest": "https://crests.football-data.org/718.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
           "won": 3,
           "draw": 4,
-          "lost": 3,
+          "lost": 4,
           "points": 13,
           "goalsFor": 17,
-          "goalsAgainst": 16,
-          "goalDifference": 1
-        },
-        {
-          "position": 11,
-          "team": {
-            "id": 673,
-            "name": "SC Heerenveen",
-            "shortName": "Heerenveen",
-            "tla": "HEE",
-            "crest": "https://crests.football-data.org/673.png"
-          },
-          "playedGames": 10,
-          "form": null,
-          "won": 3,
-          "draw": 4,
-          "lost": 3,
-          "points": 13,
-          "goalsFor": 18,
-          "goalsAgainst": 18,
+          "goalsAgainst": 17,
           "goalDifference": 0
         },
         {
@@ -259,43 +259,62 @@
         {
           "position": 13,
           "team": {
-            "id": 1919,
-            "name": "FC Volendam",
-            "shortName": "Volendam",
-            "tla": "VOL",
-            "crest": "https://crests.football-data.org/1919.png"
-          },
-          "playedGames": 10,
-          "form": null,
-          "won": 2,
-          "draw": 4,
-          "lost": 4,
-          "points": 10,
-          "goalsFor": 13,
-          "goalsAgainst": 16,
-          "goalDifference": -3
-        },
-        {
-          "position": 14,
-          "team": {
             "id": 681,
             "name": "NAC Breda",
             "shortName": "NAC",
             "tla": "NAC",
             "crest": "https://crests.football-data.org/681.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
-          "won": 2,
+          "won": 3,
           "draw": 3,
           "lost": 5,
-          "points": 9,
-          "goalsFor": 13,
+          "points": 12,
+          "goalsFor": 14,
           "goalsAgainst": 19,
-          "goalDifference": -6
+          "goalDifference": -5
+        },
+        {
+          "position": 14,
+          "team": {
+            "id": 1919,
+            "name": "FC Volendam",
+            "shortName": "Volendam",
+            "tla": "VOL",
+            "crest": "https://crests.football-data.org/1919.png"
+          },
+          "playedGames": 11,
+          "form": null,
+          "won": 2,
+          "draw": 4,
+          "lost": 5,
+          "points": 10,
+          "goalsFor": 14,
+          "goalsAgainst": 19,
+          "goalDifference": -5
         },
         {
           "position": 15,
+          "team": {
+            "id": 670,
+            "name": "SBV Excelsior",
+            "shortName": "Excelsior",
+            "tla": "EXC",
+            "crest": "https://crests.football-data.org/670.png"
+          },
+          "playedGames": 11,
+          "form": null,
+          "won": 3,
+          "draw": 1,
+          "lost": 7,
+          "points": 10,
+          "goalsFor": 10,
+          "goalsAgainst": 21,
+          "goalDifference": -11
+        },
+        {
+          "position": 16,
           "team": {
             "id": 684,
             "name": "PEC Zwolle",
@@ -314,25 +333,6 @@
           "goalDifference": -8
         },
         {
-          "position": 16,
-          "team": {
-            "id": 670,
-            "name": "SBV Excelsior",
-            "shortName": "Excelsior",
-            "tla": "EXC",
-            "crest": "https://crests.football-data.org/670.png"
-          },
-          "playedGames": 10,
-          "form": null,
-          "won": 3,
-          "draw": 0,
-          "lost": 7,
-          "points": 9,
-          "goalsFor": 8,
-          "goalsAgainst": 19,
-          "goalDifference": -11
-        },
-        {
           "position": 17,
           "team": {
             "id": 1912,
@@ -341,14 +341,14 @@
             "tla": "TEL",
             "crest": "https://crests.football-data.org/1912.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
           "won": 2,
-          "draw": 1,
+          "draw": 2,
           "lost": 7,
-          "points": 7,
-          "goalsFor": 12,
-          "goalsAgainst": 19,
+          "points": 8,
+          "goalsFor": 14,
+          "goalsAgainst": 21,
           "goalDifference": -7
         },
         {
