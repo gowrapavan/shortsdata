@@ -2567,7 +2567,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 90,
@@ -2580,9 +2580,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/89.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 90,
     "Points": {
-      "90": 0,
+      "90": 3,
       "89": 0
     },
     "Goals": []

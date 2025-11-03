@@ -2437,7 +2437,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-02",
     "DateTime": "2025-11-02T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 512,
@@ -2452,8 +2452,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "512": 0,
-      "523": 0
+      "512": 1,
+      "523": 1
     },
     "Goals": []
   },
