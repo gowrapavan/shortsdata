@@ -102,6 +102,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 288898,
+        "name": "Selton Sánchez",
+        "position": "Midfield",
+        "dateOfBirth": "2007-02-20",
+        "nationality": "Spain"
+      },
+      {
         "id": 189820,
         "name": "Urko Izeta",
         "position": "Offence",
@@ -622,10 +629,24 @@
         "nationality": "Spain"
       },
       {
+        "id": 277419,
+        "name": "Jon García",
+        "position": "Midfield",
+        "dateOfBirth": "2003-01-28",
+        "nationality": "Spain"
+      },
+      {
         "id": 284105,
         "name": "Mauro Echegoyen",
         "position": "Midfield",
         "dateOfBirth": "2005-03-03",
+        "nationality": "Spain"
+      },
+      {
+        "id": 187083,
+        "name": "Roberto Arroyo",
+        "position": "Offence",
+        "dateOfBirth": "2003-08-25",
         "nationality": "Spain"
       },
       {
@@ -868,6 +889,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 273284,
+        "name": "José López",
+        "position": "Defence",
+        "dateOfBirth": "2006-01-01",
+        "nationality": "Spain"
+      },
+      {
         "id": 30876,
         "name": "Charles Pickel",
         "position": "Midfield",
@@ -886,6 +914,13 @@
         "name": "Coarasa",
         "position": "Midfield",
         "dateOfBirth": "2004-01-30",
+        "nationality": "Spain"
+      },
+      {
+        "id": 288783,
+        "name": "Ferran Gómez",
+        "position": "Midfield",
+        "dateOfBirth": "2006-03-23",
         "nationality": "Spain"
       },
       {
@@ -1512,6 +1547,13 @@
         "position": "Left Winger",
         "dateOfBirth": "2002-07-26",
         "nationality": "Spain"
+      },
+      {
+        "id": 250899,
+        "name": "Yassin Tallal",
+        "position": "Left Winger",
+        "dateOfBirth": "2005-03-03",
+        "nationality": "Morocco"
       },
       {
         "id": 250399,
@@ -2203,6 +2245,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 288777,
+        "name": "Huseini",
+        "position": "Defence",
+        "dateOfBirth": null,
+        "nationality": "Spain"
+      },
+      {
         "id": 4159,
         "name": "Oriol Rey",
         "position": "Midfield",
@@ -2236,6 +2285,13 @@
         "position": "Midfield",
         "dateOfBirth": "1998-01-05",
         "nationality": "Honduras"
+      },
+      {
+        "id": 288776,
+        "name": "Pablo Rosón",
+        "position": "Midfield",
+        "dateOfBirth": "2005-06-12",
+        "nationality": "Spain"
       },
       {
         "id": 126913,
@@ -3524,59 +3580,17 @@
         "nationality": "Spain"
       },
       {
+        "id": 271693,
+        "name": "Marc Jurado",
+        "position": "Offence",
+        "dateOfBirth": "2005-12-08",
+        "nationality": "Spain"
+      },
+      {
         "id": 283441,
         "name": "Aimar Blázquez",
         "position": "Offence",
         "dateOfBirth": "2006-03-19",
-        "nationality": "Spain"
-      },
-      {
-        "id": 244743,
-        "name": "David Otorbi",
-        "position": "Right Winger",
-        "dateOfBirth": "2007-10-16",
-        "nationality": "Spain"
-      },
-      {
-        "id": 180061,
-        "name": "Diego López",
-        "position": "Right Winger",
-        "dateOfBirth": "2002-05-13",
-        "nationality": "Spain"
-      },
-      {
-        "id": 177180,
-        "name": "Javier Guerra",
-        "position": "Central Midfield",
-        "dateOfBirth": "2003-05-13",
-        "nationality": "Spain"
-      },
-      {
-        "id": 176602,
-        "name": "Ruben Iranzo",
-        "position": "Centre-Back",
-        "dateOfBirth": "2003-03-14",
-        "nationality": "Spain"
-      },
-      {
-        "id": 176041,
-        "name": "Cesar Tarrega",
-        "position": "Centre-Back",
-        "dateOfBirth": "2002-02-26",
-        "nationality": "Spain"
-      },
-      {
-        "id": 172108,
-        "name": "Copete",
-        "position": "Centre-Back",
-        "dateOfBirth": "1999-10-10",
-        "nationality": "Spain"
-      },
-      {
-        "id": 157190,
-        "name": "Jesus Vazquez Alcalde",
-        "position": "Left-Back",
-        "dateOfBirth": "2003-01-02",
         "nationality": "Spain"
       },
       {
@@ -3676,6 +3690,62 @@
         "position": "Centre-Back",
         "dateOfBirth": "1996-12-19",
         "nationality": "France"
+      },
+      {
+        "id": 244743,
+        "name": "David Otorbi",
+        "position": "Right Winger",
+        "dateOfBirth": "2007-10-16",
+        "nationality": "Spain"
+      },
+      {
+        "id": 181914,
+        "name": "Mario Dominguez",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2004-02-10",
+        "nationality": "Spain"
+      },
+      {
+        "id": 180061,
+        "name": "Diego López",
+        "position": "Right Winger",
+        "dateOfBirth": "2002-05-13",
+        "nationality": "Spain"
+      },
+      {
+        "id": 177180,
+        "name": "Javier Guerra",
+        "position": "Central Midfield",
+        "dateOfBirth": "2003-05-13",
+        "nationality": "Spain"
+      },
+      {
+        "id": 176602,
+        "name": "Ruben Iranzo",
+        "position": "Centre-Back",
+        "dateOfBirth": "2003-03-14",
+        "nationality": "Spain"
+      },
+      {
+        "id": 176041,
+        "name": "Cesar Tarrega",
+        "position": "Centre-Back",
+        "dateOfBirth": "2002-02-26",
+        "nationality": "Spain"
+      },
+      {
+        "id": 172108,
+        "name": "Copete",
+        "position": "Centre-Back",
+        "dateOfBirth": "1999-10-10",
+        "nationality": "Spain"
+      },
+      {
+        "id": 157190,
+        "name": "Jesus Vazquez Alcalde",
+        "position": "Left-Back",
+        "dateOfBirth": "2003-01-02",
+        "nationality": "Spain"
       }
     ],
     "staff": [],
@@ -3802,6 +3872,13 @@
         "name": "Diego Morcillo",
         "position": "Offence",
         "dateOfBirth": "2003-06-18",
+        "nationality": "Spain"
+      },
+      {
+        "id": 250990,
+        "name": "Álvaro García",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-09-15",
         "nationality": "Spain"
       },
       {
@@ -4104,6 +4181,13 @@
         "name": "Antonio Martínez",
         "position": "Midfield",
         "dateOfBirth": "2006-04-09",
+        "nationality": "Spain"
+      },
+      {
+        "id": 217520,
+        "name": "Nordin",
+        "position": "Offence",
+        "dateOfBirth": "2005-02-14",
         "nationality": "Spain"
       },
       {
@@ -4543,10 +4627,24 @@
         "nationality": "Spain"
       },
       {
+        "id": 288770,
+        "name": "Marcos Maestu",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2006-01-10",
+        "nationality": "Spain"
+      },
+      {
         "id": 279927,
         "name": "Manuel Fernández",
         "position": "Defence",
         "dateOfBirth": "2001-04-23",
+        "nationality": "Spain"
+      },
+      {
+        "id": 288771,
+        "name": "Pablo González",
+        "position": "Defence",
+        "dateOfBirth": "2003-05-21",
         "nationality": "Spain"
       },
       {
@@ -4571,45 +4669,31 @@
         "nationality": "Spain"
       },
       {
+        "id": 288772,
+        "name": "Andrés Antañón",
+        "position": "Midfield",
+        "dateOfBirth": "2007-01-22",
+        "nationality": "Spain"
+      },
+      {
+        "id": 288773,
+        "name": "Óscar Marcos",
+        "position": "Midfield",
+        "dateOfBirth": "2006-02-19",
+        "nationality": "Spain"
+      },
+      {
+        "id": 288775,
+        "name": "Hugo Burcio",
+        "position": "Midfield",
+        "dateOfBirth": "2006-10-31",
+        "nationality": "Spain"
+      },
+      {
         "id": 180104,
         "name": "Bryan Zaragoza",
         "position": "Offence",
         "dateOfBirth": "2001-04-25",
-        "nationality": "Spain"
-      },
-      {
-        "id": 253001,
-        "name": "Javi Rueda",
-        "position": "Right-Back",
-        "dateOfBirth": "2002-05-08",
-        "nationality": "Spain"
-      },
-      {
-        "id": 252993,
-        "name": "Yoel Lago",
-        "position": "Centre-Back",
-        "dateOfBirth": "2004-03-25",
-        "nationality": "Spain"
-      },
-      {
-        "id": 229003,
-        "name": "Javi Rodríguez",
-        "position": "Centre-Back",
-        "dateOfBirth": "2003-06-26",
-        "nationality": "Spain"
-      },
-      {
-        "id": 188859,
-        "name": "Pablo Duran",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2001-05-25",
-        "nationality": "Spain"
-      },
-      {
-        "id": 182269,
-        "name": "Damian Rodriguez",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2003-03-17",
         "nationality": "Spain"
       },
       {
@@ -4715,6 +4799,48 @@
         "name": "Marcos Alonso",
         "position": "Left-Back",
         "dateOfBirth": "1990-12-28",
+        "nationality": "Spain"
+      },
+      {
+        "id": 253001,
+        "name": "Javi Rueda",
+        "position": "Right-Back",
+        "dateOfBirth": "2002-05-08",
+        "nationality": "Spain"
+      },
+      {
+        "id": 252993,
+        "name": "Yoel Lago",
+        "position": "Centre-Back",
+        "dateOfBirth": "2004-03-25",
+        "nationality": "Spain"
+      },
+      {
+        "id": 229003,
+        "name": "Javi Rodríguez",
+        "position": "Centre-Back",
+        "dateOfBirth": "2003-06-26",
+        "nationality": "Spain"
+      },
+      {
+        "id": 188859,
+        "name": "Pablo Duran",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2001-05-25",
+        "nationality": "Spain"
+      },
+      {
+        "id": 182269,
+        "name": "Damian Rodriguez",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2003-03-17",
+        "nationality": "Spain"
+      },
+      {
+        "id": 175892,
+        "name": "Hugo Gonzalez",
+        "position": "Right Winger",
+        "dateOfBirth": "2003-02-07",
         "nationality": "Spain"
       }
     ],
@@ -5189,6 +5315,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 230706,
+        "name": "Diego Menéndez",
+        "position": "Midfield",
+        "dateOfBirth": "2005-01-01",
+        "nationality": "Spain"
+      },
+      {
         "id": 274926,
         "name": "Diego Tejón",
         "position": "Midfield",
@@ -5207,6 +5340,13 @@
         "name": "Cheli",
         "position": "Midfield",
         "dateOfBirth": "2005-07-05",
+        "nationality": "Spain"
+      },
+      {
+        "id": 288568,
+        "name": "Pablo Menéndez",
+        "position": "Midfield",
+        "dateOfBirth": "2007-11-08",
         "nationality": "Spain"
       },
       {
