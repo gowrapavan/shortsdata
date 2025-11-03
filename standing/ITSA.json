@@ -50,43 +50,24 @@
         {
           "position": 2,
           "team": {
-            "id": 100,
-            "name": "AS Roma",
-            "shortName": "Roma",
-            "tla": "ROM",
-            "crest": "https://crests.football-data.org/100.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 7,
-          "draw": 0,
-          "lost": 2,
-          "points": 21,
-          "goalsFor": 10,
-          "goalsAgainst": 4,
-          "goalDifference": 6
-        },
-        {
-          "position": 3,
-          "team": {
             "id": 108,
             "name": "FC Internazionale Milano",
             "shortName": "Inter",
             "tla": "INT",
             "crest": "https://crests.football-data.org/108.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
-          "won": 6,
+          "won": 7,
           "draw": 0,
           "lost": 3,
-          "points": 18,
-          "goalsFor": 22,
-          "goalsAgainst": 11,
-          "goalDifference": 11
+          "points": 21,
+          "goalsFor": 24,
+          "goalsAgainst": 12,
+          "goalDifference": 12
         },
         {
-          "position": 4,
+          "position": 3,
           "team": {
             "id": 98,
             "name": "AC Milan",
@@ -94,18 +75,56 @@
             "tla": "MIL",
             "crest": "https://crests.football-data.org/98.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
-          "won": 5,
+          "won": 6,
           "draw": 3,
           "lost": 1,
-          "points": 18,
-          "goalsFor": 14,
+          "points": 21,
+          "goalsFor": 15,
           "goalsAgainst": 7,
-          "goalDifference": 7
+          "goalDifference": 8
+        },
+        {
+          "position": 4,
+          "team": {
+            "id": 100,
+            "name": "AS Roma",
+            "shortName": "Roma",
+            "tla": "ROM",
+            "crest": "https://crests.football-data.org/100.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 7,
+          "draw": 0,
+          "lost": 3,
+          "points": 21,
+          "goalsFor": 10,
+          "goalsAgainst": 5,
+          "goalDifference": 5
         },
         {
           "position": 5,
+          "team": {
+            "id": 103,
+            "name": "Bologna FC 1909",
+            "shortName": "Bologna",
+            "tla": "BOL",
+            "crest": "https://crests.football-data.org/103.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 5,
+          "draw": 3,
+          "lost": 2,
+          "points": 18,
+          "goalsFor": 16,
+          "goalsAgainst": 8,
+          "goalDifference": 8
+        },
+        {
+          "position": 6,
           "team": {
             "id": 109,
             "name": "Juventus FC",
@@ -124,7 +143,7 @@
           "goalDifference": 4
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 7397,
             "name": "Como 1907",
@@ -140,25 +159,6 @@
           "points": 17,
           "goalsFor": 12,
           "goalsAgainst": 6,
-          "goalDifference": 6
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": 103,
-            "name": "Bologna FC 1909",
-            "shortName": "Bologna",
-            "tla": "BOL",
-            "crest": "https://crests.football-data.org/103.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 4,
-          "draw": 3,
-          "lost": 2,
-          "points": 15,
-          "goalsFor": 13,
-          "goalsAgainst": 7,
           "goalDifference": 6
         },
         {
@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 586,
+            "name": "Torino FC",
+            "shortName": "Torino",
+            "tla": "TOR",
+            "crest": "https://crests.football-data.org/586.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 3,
+          "draw": 4,
+          "lost": 3,
+          "points": 13,
+          "goalsFor": 10,
+          "goalsAgainst": 16,
+          "goalDifference": -6
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 110,
             "name": "SS Lazio",
             "shortName": "Lazio",
@@ -255,25 +274,6 @@
           "goalsFor": 11,
           "goalsAgainst": 7,
           "goalDifference": 4
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 586,
-            "name": "Torino FC",
-            "shortName": "Torino",
-            "tla": "TOR",
-            "crest": "https://crests.football-data.org/586.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 3,
-          "draw": 3,
-          "lost": 3,
-          "points": 12,
-          "goalsFor": 8,
-          "goalsAgainst": 14,
-          "goalDifference": -6
         },
         {
           "position": 14,
@@ -297,39 +297,39 @@
         {
           "position": 15,
           "team": {
-            "id": 112,
-            "name": "Parma Calcio 1913",
-            "shortName": "Parma",
-            "tla": "PAR",
-            "crest": "https://crests.football-data.org/112.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 1,
-          "draw": 4,
-          "lost": 4,
-          "points": 7,
-          "goalsFor": 4,
-          "goalsAgainst": 9,
-          "goalDifference": -5
-        },
-        {
-          "position": 16,
-          "team": {
             "id": 5890,
             "name": "US Lecce",
             "shortName": "Lecce",
             "tla": "USL",
             "crest": "https://crests.football-data.org/5890.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
-          "won": 1,
+          "won": 2,
           "draw": 3,
           "lost": 5,
-          "points": 6,
-          "goalsFor": 7,
+          "points": 9,
+          "goalsFor": 8,
           "goalsAgainst": 14,
+          "goalDifference": -6
+        },
+        {
+          "position": 16,
+          "team": {
+            "id": 112,
+            "name": "Parma Calcio 1913",
+            "shortName": "Parma",
+            "tla": "PAR",
+            "crest": "https://crests.football-data.org/112.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 1,
+          "draw": 4,
+          "lost": 5,
+          "points": 7,
+          "goalsFor": 5,
+          "goalsAgainst": 12,
           "goalDifference": -7
         },
         {
@@ -341,14 +341,14 @@
             "tla": "PIS",
             "crest": "https://crests.football-data.org/487.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 0,
-          "draw": 5,
+          "draw": 6,
           "lost": 4,
-          "points": 5,
-          "goalsFor": 5,
-          "goalsAgainst": 12,
+          "points": 6,
+          "goalsFor": 7,
+          "goalsAgainst": 14,
           "goalDifference": -7
         },
         {
@@ -360,15 +360,15 @@
             "tla": "HVE",
             "crest": "https://crests.football-data.org/450.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 0,
           "draw": 5,
-          "lost": 4,
+          "lost": 5,
           "points": 5,
-          "goalsFor": 5,
-          "goalsAgainst": 14,
-          "goalDifference": -9
+          "goalsFor": 6,
+          "goalsAgainst": 16,
+          "goalDifference": -10
         },
         {
           "position": 19,
@@ -379,15 +379,15 @@
             "tla": "FIO",
             "crest": "https://crests.football-data.org/99.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 0,
           "draw": 4,
-          "lost": 5,
+          "lost": 6,
           "points": 4,
           "goalsFor": 7,
-          "goalsAgainst": 15,
-          "goalDifference": -8
+          "goalsAgainst": 16,
+          "goalDifference": -9
         },
         {
           "position": 20,

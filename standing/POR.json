@@ -31,6 +31,25 @@
         {
           "position": 1,
           "team": {
+            "id": 503,
+            "name": "FC Porto",
+            "shortName": "Porto",
+            "tla": "FCP",
+            "crest": "https://crests.football-data.org/503.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 9,
+          "draw": 1,
+          "lost": 0,
+          "points": 28,
+          "goalsFor": 23,
+          "goalsAgainst": 3,
+          "goalDifference": 20
+        },
+        {
+          "position": 2,
+          "team": {
             "id": 498,
             "name": "Sporting Clube de Portugal",
             "shortName": "Sporting CP",
@@ -46,25 +65,6 @@
           "goalsFor": 25,
           "goalsAgainst": 5,
           "goalDifference": 20
-        },
-        {
-          "position": 2,
-          "team": {
-            "id": 503,
-            "name": "FC Porto",
-            "shortName": "Porto",
-            "tla": "FCP",
-            "crest": "https://crests.football-data.org/503.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 8,
-          "draw": 1,
-          "lost": 0,
-          "points": 25,
-          "goalsFor": 21,
-          "goalsAgainst": 2,
-          "goalDifference": 19
         },
         {
           "position": 3,
@@ -132,15 +132,15 @@
             "tla": "MOR",
             "crest": "https://crests.football-data.org/583.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
-          "won": 5,
+          "won": 6,
           "draw": 0,
           "lost": 4,
-          "points": 15,
-          "goalsFor": 13,
+          "points": 18,
+          "goalsFor": 15,
           "goalsAgainst": 13,
-          "goalDifference": 0
+          "goalDifference": 2
         },
         {
           "position": 7,
@@ -151,15 +151,15 @@
             "tla": "SCB",
             "crest": "https://crests.football-data.org/5613.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 3,
           "draw": 4,
-          "lost": 2,
+          "lost": 3,
           "points": 13,
-          "goalsFor": 16,
-          "goalsAgainst": 8,
-          "goalDifference": 8
+          "goalsFor": 17,
+          "goalsAgainst": 10,
+          "goalDifference": 7
         },
         {
           "position": 8,
@@ -303,15 +303,15 @@
             "tla": "FCA",
             "crest": "https://crests.football-data.org/712.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 2,
           "draw": 3,
-          "lost": 4,
+          "lost": 5,
           "points": 9,
           "goalsFor": 10,
-          "goalsAgainst": 24,
-          "goalDifference": -14
+          "goalsAgainst": 26,
+          "goalDifference": -16
         },
         {
           "position": 16,
@@ -341,14 +341,14 @@
             "tla": "TON",
             "crest": "https://crests.football-data.org/1049.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 1,
-          "draw": 2,
+          "draw": 3,
           "lost": 6,
-          "points": 5,
-          "goalsFor": 4,
-          "goalsAgainst": 17,
+          "points": 6,
+          "goalsFor": 6,
+          "goalsAgainst": 19,
           "goalDifference": -13
         },
         {
@@ -360,14 +360,14 @@
             "tla": "AVS",
             "crest": "https://crests.football-data.org/10340.png"
           },
-          "playedGames": 9,
+          "playedGames": 10,
           "form": null,
           "won": 0,
-          "draw": 1,
+          "draw": 2,
           "lost": 8,
-          "points": 1,
-          "goalsFor": 5,
-          "goalsAgainst": 22,
+          "points": 2,
+          "goalsFor": 7,
+          "goalsAgainst": 24,
           "goalDifference": -17
         }
       ]
