@@ -40,8 +40,8 @@
     "AwayTeamName": "FC Bayern München",
     "HomeTeamLogo": "https://crests.football-data.org/524.png",
     "AwayTeamLogo": "https://crests.football-data.org/5.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "524": 0,
@@ -430,8 +430,8 @@
     "AwayTeamName": "Real Madrid CF",
     "HomeTeamLogo": "https://crests.football-data.org/64.png",
     "AwayTeamLogo": "https://crests.football-data.org/86.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "64": 0,
@@ -1833,7 +1833,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-04",
     "DateTime": "2025-11-04T17:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 930,
@@ -1845,11 +1845,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/930.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 57,
     "Points": {
       "930": 0,
-      "57": 0
+      "57": 3
     },
     "Goals": []
   },
@@ -2347,7 +2347,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-04",
     "DateTime": "2025-11-04T17:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 113,
@@ -2362,8 +2362,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "113": 0,
-      "19": 0
+      "113": 1,
+      "19": 1
     },
     "Goals": []
   },
@@ -2460,8 +2460,8 @@
     "AwayTeamName": "Sporting Clube de Portugal",
     "HomeTeamLogo": "https://crests.football-data.org/109.png",
     "AwayTeamLogo": "https://crests.football-data.org/498.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "109": 0,
@@ -2616,8 +2616,8 @@
     "AwayTeamName": "Royale Union Saint-Gilloise",
     "HomeTeamLogo": "https://crests.football-data.org/78.png",
     "AwayTeamLogo": "https://crests.football-data.org/3929.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "78": 0,
@@ -2926,8 +2926,8 @@
     "AwayTeamName": "FC København",
     "HomeTeamLogo": "https://crests.football-data.org/73.png",
     "AwayTeamLogo": "https://crests.football-data.org/1876.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "73": 0,
@@ -3002,8 +3002,8 @@
     "AwayTeamName": "AS Monaco FC",
     "HomeTeamLogo": "https://crests.football-data.org/5721.png",
     "AwayTeamLogo": "https://crests.football-data.org/548.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "5721": 0,
@@ -3130,8 +3130,8 @@
     "AwayTeamName": "PSV",
     "HomeTeamLogo": "https://crests.football-data.org/654.png",
     "AwayTeamLogo": "https://crests.football-data.org/674.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "654": 0,
