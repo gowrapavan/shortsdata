@@ -29,7 +29,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-04",
     "DateTime": "2025-11-04T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 524,
@@ -40,12 +40,12 @@
     "AwayTeamName": "FC Bayern München",
     "HomeTeamLogo": "https://crests.football-data.org/524.png",
     "AwayTeamLogo": "https://crests.football-data.org/5.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 5,
     "Points": {
       "524": 0,
-      "5": 0
+      "5": 3
     },
     "Goals": []
   },
@@ -419,7 +419,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-04",
     "DateTime": "2025-11-04T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 64,
@@ -430,11 +430,11 @@
     "AwayTeamName": "Real Madrid CF",
     "HomeTeamLogo": "https://crests.football-data.org/64.png",
     "AwayTeamLogo": "https://crests.football-data.org/86.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 64,
     "Points": {
-      "64": 0,
+      "64": 3,
       "86": 0
     },
     "Goals": []
@@ -2449,7 +2449,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-04",
     "DateTime": "2025-11-04T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 109,
@@ -2464,8 +2464,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "109": 0,
-      "498": 0
+      "109": 1,
+      "498": 1
     },
     "Goals": []
   },
@@ -2605,7 +2605,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-04",
     "DateTime": "2025-11-04T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 78,
@@ -2616,11 +2616,11 @@
     "AwayTeamName": "Royale Union Saint-Gilloise",
     "HomeTeamLogo": "https://crests.football-data.org/78.png",
     "AwayTeamLogo": "https://crests.football-data.org/3929.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 78,
     "Points": {
-      "78": 0,
+      "78": 3,
       "3929": 0
     },
     "Goals": []
@@ -2915,7 +2915,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-04",
     "DateTime": "2025-11-04T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 73,
@@ -2926,11 +2926,11 @@
     "AwayTeamName": "FC København",
     "HomeTeamLogo": "https://crests.football-data.org/73.png",
     "AwayTeamLogo": "https://crests.football-data.org/1876.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 4,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 73,
     "Points": {
-      "73": 0,
+      "73": 3,
       "1876": 0
     },
     "Goals": []
@@ -2991,7 +2991,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-04",
     "DateTime": "2025-11-04T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5721,
@@ -3004,10 +3004,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/548.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 548,
     "Points": {
       "5721": 0,
-      "548": 0
+      "548": 3
     },
     "Goals": []
   },
@@ -3119,7 +3119,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-04",
     "DateTime": "2025-11-04T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 654,
@@ -3131,11 +3131,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/654.png",
     "AwayTeamLogo": "https://crests.football-data.org/674.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "654": 0,
-      "674": 0
+      "654": 1,
+      "674": 1
     },
     "Goals": []
   },
