@@ -2471,7 +2471,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-11-07",
     "DateTime": "2025-11-07T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 666,
@@ -2482,12 +2482,12 @@
     "AwayTeamName": "Telstar 1963",
     "HomeTeamLogo": "https://crests.football-data.org/666.png",
     "AwayTeamLogo": "https://crests.football-data.org/1912.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "666": 0,
-      "1912": 0
+      "666": 1,
+      "1912": 1
     },
     "Goals": []
   },
