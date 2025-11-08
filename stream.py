@@ -119,7 +119,7 @@ def fetch_hesgoal():
 
     return matches
 
-# ---------- 3. LiveKora ----------
+# ---------- 3. LiveKora (UPDATED: now fetches iframe) ----------
 def fetch_livekora():
     url = "https://www.livekora.vip/"
     headers = {"User-Agent": "Mozilla/5.0"}
@@ -129,21 +129,31 @@ def fetch_livekora():
     matches = []
     for a_tag in soup.select("div.benacer-matches-container a[href]"):
         href = a_tag["href"].strip()
-        # Convert to albaplayer URL
         slug = href.rstrip("/").split("/")[-1]
         albaplayer_url = f"https://pl.yallashooot.video/albaplayer/{slug}/"
 
-        # Get home and away team names
+        # Fetch iframe from that match page
+        iframe_src = ""
+        try:
+            match_html = requests.get(albaplayer_url, headers=headers, timeout=10).text
+            match_soup = BeautifulSoup(match_html, "html.parser")
+            iframe = match_soup.find("iframe")
+            if iframe and iframe.get("src"):
+                iframe_src = iframe["src"]
+        except Exception:
+            iframe_src = ""
+
+        # Team info
         right_team_name = a_tag.select_one("div.right-team .team-name")
         left_team_name = a_tag.select_one("div.left-team .team-name")
         home = right_team_name.text.strip() if right_team_name else ""
         away = left_team_name.text.strip() if left_team_name else ""
 
-        # Get home team logo
+        # Logos
         home_logo_tag = a_tag.select_one("div.right-team .team-logo img")
         home_logo = home_logo_tag["src"].strip() if home_logo_tag and "src" in home_logo_tag.attrs else random_logo()
 
-        # Extract match time from data-start
+        # Match time
         time_tag = a_tag.select_one("div.match-container span.date")
         if time_tag and time_tag.has_attr("data-start"):
             dt_str = time_tag["data-start"].strip()
@@ -161,7 +171,8 @@ def fetch_livekora():
             "away_team": away,
             "label": short_label(home, away) if home and away else "livekora-stream",
             "Logo": home_logo,
-            "url": albaplayer_url
+            "url": albaplayer_url,
+            "iframe": iframe_src  # <--- added here
         })
 
     return matches
