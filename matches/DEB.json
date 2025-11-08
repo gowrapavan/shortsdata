@@ -2169,7 +2169,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-08",
     "DateTime": "2025-11-08T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 18,
@@ -2180,11 +2180,11 @@
     "AwayTeamName": "1. FC Köln",
     "HomeTeamLogo": "https://crests.football-data.org/18.png",
     "AwayTeamLogo": "https://crests.football-data.org/1.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 18,
     "Points": {
-      "18": 0,
+      "18": 3,
       "1": 0
     },
     "Goals": []

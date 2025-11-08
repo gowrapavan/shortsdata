@@ -2523,7 +2523,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-11-08",
     "DateTime": "2025-11-08T17:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1919,
@@ -2534,11 +2534,11 @@
     "AwayTeamName": "NAC Breda",
     "HomeTeamLogo": "https://crests.football-data.org/1919.png",
     "AwayTeamLogo": "https://crests.football-data.org/681.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 1919,
     "Points": {
-      "1919": 0,
+      "1919": 3,
       "681": 0
     },
     "Goals": []
@@ -2549,7 +2549,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-11-08",
     "DateTime": "2025-11-08T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1920,
@@ -2560,11 +2560,11 @@
     "AwayTeamName": "SC Heerenveen",
     "HomeTeamLogo": "https://crests.football-data.org/1920.png",
     "AwayTeamLogo": "https://crests.football-data.org/673.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 1920,
     "Points": {
-      "1920": 0,
+      "1920": 3,
       "673": 0
     },
     "Goals": []
@@ -2586,8 +2586,8 @@
     "AwayTeamName": "Sparta Rotterdam",
     "HomeTeamLogo": "https://crests.football-data.org/684.png",
     "AwayTeamLogo": "https://crests.football-data.org/6806.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "684": 0,

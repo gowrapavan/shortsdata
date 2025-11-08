@@ -2681,7 +2681,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-08",
     "DateTime": "2025-11-08T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 109,
@@ -2696,8 +2696,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "109": 0,
-      "586": 0
+      "109": 1,
+      "586": 1
     },
     "Goals": []
   },
@@ -2718,8 +2718,8 @@
     "AwayTeamName": "AC Milan",
     "HomeTeamLogo": "https://crests.football-data.org/112.png",
     "AwayTeamLogo": "https://crests.football-data.org/98.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "112": 0,
