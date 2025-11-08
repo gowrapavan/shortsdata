@@ -2733,7 +2733,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-07",
     "DateTime": "2025-11-07T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 487,
@@ -2744,11 +2744,11 @@
     "AwayTeamName": "US Cremonese",
     "HomeTeamLogo": "https://crests.football-data.org/487.png",
     "AwayTeamLogo": "https://crests.football-data.org/457.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 487,
     "Points": {
-      "487": 0,
+      "487": 3,
       "457": 0
     },
     "Goals": []
@@ -2781,7 +2781,7 @@
   },
   {
     "GameId": 536925,
-    "RoundId": 5,
+    "RoundId": 11,
     "RoundName": "Serie A",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T17:00:00Z",
@@ -2807,7 +2807,7 @@
   },
   {
     "GameId": 536926,
-    "RoundId": 5,
+    "RoundId": 11,
     "RoundName": "Serie A",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T14:00:00Z",
@@ -2963,7 +2963,7 @@
   },
   {
     "GameId": 536932,
-    "RoundId": 5,
+    "RoundId": 11,
     "RoundName": "Serie A",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T19:45:00Z",
@@ -2989,7 +2989,7 @@
   },
   {
     "GameId": 536933,
-    "RoundId": 5,
+    "RoundId": 11,
     "RoundName": "Serie A",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T14:00:00Z",

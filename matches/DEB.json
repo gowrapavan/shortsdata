@@ -2117,7 +2117,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-07",
     "DateTime": "2025-11-07T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 12,
@@ -2128,11 +2128,11 @@
     "AwayTeamName": "VfL Wolfsburg",
     "HomeTeamLogo": "https://crests.football-data.org/12.png",
     "AwayTeamLogo": "https://crests.football-data.org/11.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 12,
     "Points": {
-      "12": 0,
+      "12": 3,
       "11": 0
     },
     "Goals": []
@@ -2269,7 +2269,7 @@
   },
   {
     "GameId": 540496,
-    "RoundId": 5,
+    "RoundId": 10,
     "RoundName": "Bundesliga",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T14:30:00Z",
@@ -2295,7 +2295,7 @@
   },
   {
     "GameId": 540497,
-    "RoundId": 5,
+    "RoundId": 10,
     "RoundName": "Bundesliga",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T14:30:00Z",
@@ -2373,7 +2373,7 @@
   },
   {
     "GameId": 540500,
-    "RoundId": 5,
+    "RoundId": 10,
     "RoundName": "Bundesliga",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T14:30:00Z",
@@ -2399,7 +2399,7 @@
   },
   {
     "GameId": 540501,
-    "RoundId": 5,
+    "RoundId": 10,
     "RoundName": "Bundesliga",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T14:30:00Z",
@@ -2451,7 +2451,7 @@
   },
   {
     "GameId": 540503,
-    "RoundId": 5,
+    "RoundId": 10,
     "RoundName": "Bundesliga",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T14:30:00Z",
@@ -2477,7 +2477,7 @@
   },
   {
     "GameId": 540504,
-    "RoundId": 5,
+    "RoundId": 10,
     "RoundName": "Bundesliga",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T17:30:00Z",

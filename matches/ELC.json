@@ -4465,7 +4465,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-07",
     "DateTime": "2025-11-07T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 346,
@@ -4480,8 +4480,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "346": 0,
-      "387": 0
+      "346": 1,
+      "387": 1
     },
     "Goals": []
   },
@@ -4539,7 +4539,7 @@
   },
   {
     "GameId": 540892,
-    "RoundId": 7,
+    "RoundId": 15,
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T15:00:00Z",
@@ -4565,7 +4565,7 @@
   },
   {
     "GameId": 540893,
-    "RoundId": 7,
+    "RoundId": 15,
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T12:30:00Z",
@@ -4591,7 +4591,7 @@
   },
   {
     "GameId": 540894,
-    "RoundId": 7,
+    "RoundId": 15,
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T12:30:00Z",
@@ -4617,7 +4617,7 @@
   },
   {
     "GameId": 540895,
-    "RoundId": 7,
+    "RoundId": 15,
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T12:30:00Z",
@@ -4643,7 +4643,7 @@
   },
   {
     "GameId": 540896,
-    "RoundId": 7,
+    "RoundId": 15,
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T15:00:00Z",
@@ -4669,7 +4669,7 @@
   },
   {
     "GameId": 540897,
-    "RoundId": 7,
+    "RoundId": 15,
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T15:00:00Z",
@@ -4695,7 +4695,7 @@
   },
   {
     "GameId": 540898,
-    "RoundId": 7,
+    "RoundId": 15,
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T15:00:00Z",
@@ -4721,7 +4721,7 @@
   },
   {
     "GameId": 540899,
-    "RoundId": 7,
+    "RoundId": 15,
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T15:00:00Z",
@@ -4747,7 +4747,7 @@
   },
   {
     "GameId": 540900,
-    "RoundId": 7,
+    "RoundId": 15,
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T15:00:00Z",
@@ -4799,7 +4799,7 @@
   },
   {
     "GameId": 540902,
-    "RoundId": 7,
+    "RoundId": 15,
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T15:00:00Z",
