@@ -2603,7 +2603,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-08",
     "DateTime": "2025-11-08T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 7397,
@@ -2618,8 +2618,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "7397": 0,
-      "104": 0
+      "7397": 1,
+      "104": 1
     },
     "Goals": []
   },
@@ -2692,8 +2692,8 @@
     "AwayTeamName": "Torino FC",
     "HomeTeamLogo": "https://crests.football-data.org/109.png",
     "AwayTeamLogo": "https://crests.football-data.org/586.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "109": 0,
@@ -2759,7 +2759,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-08",
     "DateTime": "2025-11-08T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5890,
@@ -2774,8 +2774,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "5890": 0,
-      "450": 0
+      "5890": 1,
+      "450": 1
     },
     "Goals": []
   },

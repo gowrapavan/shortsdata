@@ -2497,7 +2497,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-11-08",
     "DateTime": "2025-11-08T15:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 670,
@@ -2508,12 +2508,12 @@
     "AwayTeamName": "Heracles Almelo",
     "HomeTeamLogo": "https://crests.football-data.org/670.png",
     "AwayTeamLogo": "https://crests.football-data.org/671.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 671,
     "Points": {
       "670": 0,
-      "671": 0
+      "671": 3
     },
     "Goals": []
   },
@@ -2534,8 +2534,8 @@
     "AwayTeamName": "NAC Breda",
     "HomeTeamLogo": "https://crests.football-data.org/1919.png",
     "AwayTeamLogo": "https://crests.football-data.org/681.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "1919": 0,

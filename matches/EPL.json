@@ -2516,8 +2516,8 @@
     "AwayTeamName": "Arsenal FC",
     "HomeTeamLogo": "https://crests.football-data.org/71.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "71": 0,
@@ -2635,7 +2635,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-08",
     "DateTime": "2025-11-08T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 62,
@@ -2646,11 +2646,11 @@
     "AwayTeamName": "Fulham FC",
     "HomeTeamLogo": "https://crests.football-data.org/62.png",
     "AwayTeamLogo": "https://crests.football-data.org/63.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 62,
     "Points": {
-      "62": 0,
+      "62": 3,
       "63": 0
     },
     "Goals": []
@@ -2739,7 +2739,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-08",
     "DateTime": "2025-11-08T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 563,
@@ -2750,11 +2750,11 @@
     "AwayTeamName": "Burnley FC",
     "HomeTeamLogo": "https://crests.football-data.org/563.png",
     "AwayTeamLogo": "https://crests.football-data.org/328.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 563,
     "Points": {
-      "563": 0,
+      "563": 3,
       "328": 0
     },
     "Goals": []
