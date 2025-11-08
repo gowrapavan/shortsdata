@@ -4231,7 +4231,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-08",
     "DateTime": "2025-11-08T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 59,
@@ -4242,12 +4242,12 @@
     "AwayTeamName": "Derby County FC",
     "HomeTeamLogo": "https://crests.football-data.org/59.png",
     "AwayTeamLogo": "https://crests.football-data.org/342.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 342,
     "Points": {
       "59": 0,
-      "342": 0
+      "342": 3
     },
     "Goals": []
   },
@@ -4257,7 +4257,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-08",
     "DateTime": "2025-11-08T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 322,
@@ -4268,11 +4268,11 @@
     "AwayTeamName": "Portsmouth FC",
     "HomeTeamLogo": "https://crests.football-data.org/322.png",
     "AwayTeamLogo": "https://crests.football-data.org/325.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 322,
     "Points": {
-      "322": 0,
+      "322": 3,
       "325": 0
     },
     "Goals": []
@@ -4294,8 +4294,8 @@
     "AwayTeamName": "Birmingham City FC",
     "HomeTeamLogo": "https://crests.football-data.org/343.png",
     "AwayTeamLogo": "https://crests.football-data.org/332.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "343": 0,
@@ -4309,7 +4309,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-08",
     "DateTime": "2025-11-08T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 384,
@@ -4320,12 +4320,12 @@
     "AwayTeamName": "Preston North End FC",
     "HomeTeamLogo": "https://crests.football-data.org/384.png",
     "AwayTeamLogo": "https://crests.football-data.org/1081.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "384": 0,
-      "1081": 0
+      "384": 1,
+      "1081": 1
     },
     "Goals": []
   },
@@ -4346,8 +4346,8 @@
     "AwayTeamName": "Leicester City FC",
     "HomeTeamLogo": "https://crests.football-data.org/68.png",
     "AwayTeamLogo": "https://crests.football-data.org/338.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "68": 0,
@@ -4372,8 +4372,8 @@
     "AwayTeamName": "Queens Park Rangers FC",
     "HomeTeamLogo": "https://crests.football-data.org/356.png",
     "AwayTeamLogo": "https://crests.football-data.org/69.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "356": 0,
@@ -4398,8 +4398,8 @@
     "AwayTeamName": "Sheffield Wednesday FC",
     "HomeTeamLogo": "https://crests.football-data.org/340.png",
     "AwayTeamLogo": "https://crests.football-data.org/345.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "340": 0,
@@ -4424,8 +4424,8 @@
     "AwayTeamName": "Coventry City FC",
     "HomeTeamLogo": "https://crests.football-data.org/70.png",
     "AwayTeamLogo": "https://crests.football-data.org/1076.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "70": 0,
@@ -4450,8 +4450,8 @@
     "AwayTeamName": "Ipswich Town FC",
     "HomeTeamLogo": "https://crests.football-data.org/72.png",
     "AwayTeamLogo": "https://crests.football-data.org/349.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "72": 0,
@@ -4502,8 +4502,8 @@
     "AwayTeamName": "Oxford United FC",
     "HomeTeamLogo": "https://crests.football-data.org/74.png",
     "AwayTeamLogo": "https://crests.football-data.org/1082.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "74": 0,
@@ -4528,8 +4528,8 @@
     "AwayTeamName": "Charlton Athletic FC",
     "HomeTeamLogo": "https://crests.football-data.org/404.png",
     "AwayTeamLogo": "https://crests.football-data.org/348.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "404": 0,
