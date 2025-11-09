@@ -187,7 +187,7 @@ def fetch_yallashooote():
         href = link_tag["href"].strip()
         if "kooragol360.com" in href:
             last_part = href.rstrip("/").split("/")[-1]
-            iframe_url = f"https://goal-koora.com/live/{last_part}9.php"
+            iframe_url = f"https://goal-koora.com/live/{last_part}.php"
         else:
             iframe_url = href
 
