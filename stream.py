@@ -172,9 +172,9 @@ def fetch_hesgoal():
         })
     return matches
 
-
 # ---------- 3. YallaShooote ----------
 def fetch_yallashooote():
+    """Scrape yallashooote.online and handle kooragol links."""
     url = "https://yallashooote.online/"
     headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers, timeout=10).text
@@ -185,26 +185,36 @@ def fetch_yallashooote():
         link_tag = div.select_one("a.alba_sports_events_link")
         if not link_tag or "href" not in link_tag.attrs:
             continue
+
         href = link_tag["href"].strip()
-        iframe_url = href
+        # 🧠 handle goal-koora redirect pattern
+        if "kooragol360.com" in href:
+            last_part = href.rstrip("/").split("/")[-1]
+            iframe_url = f"https://goal-koora.com/live/{last_part}.php"
+        else:
+            iframe_url = href
 
         home_tag = div.select_one("div.team-first .alba_sports_events-team_title")
         away_tag = div.select_one("div.team-second .alba_sports_events-team_title")
         home = home_tag.text.strip() if home_tag else ""
         away = away_tag.text.strip() if away_tag else ""
 
-        # 🆕 Both logos
+        # 🖼️ Take logos directly from HTML (fallback to random)
         home_logo_tag = div.select_one("div.team-first img")
         away_logo_tag = div.select_one("div.team-second img")
         home_logo = home_logo_tag["src"].strip() if home_logo_tag and "src" in home_logo_tag.attrs else random_logo()
         away_logo = away_logo_tag["src"].strip() if away_logo_tag and "src" in away_logo_tag.attrs else random_logo()
 
+        # ⏰ Time conversion
         date_tag = div.select_one("div.date[data-start]")
         if date_tag and "data-start" in date_tag.attrs:
-            dt_str = date_tag["data-start"].strip()
-            dt = datetime.strptime(dt_str, "%Y/%m/%d %H:%M")
-            dt = GMT.localize(dt).astimezone(IST)
-            time_ist = dt.strftime("%Y-%m-%d %H:%M IST")
+            try:
+                dt_str = date_tag["data-start"].strip()
+                dt = datetime.strptime(dt_str, "%Y/%m/%d %H:%M")
+                dt = GMT.localize(dt).astimezone(IST)
+                time_ist = dt.strftime("%Y-%m-%d %H:%M IST")
+            except Exception:
+                time_ist = ""
         else:
             time_ist = ""
 
@@ -214,16 +224,18 @@ def fetch_yallashooote():
             "league": "",
             "home_team": home,
             "away_team": away,
-            "label": short_label(home, away),
-            "home_logo": home_logo,
-            "away_logo": away_logo,
+            "label": short_label(home, away) if home and away else "yalla-stream",
+            "Logo": home_logo,
+            "awayLogo": away_logo,
             "url": iframe_url
         })
+
     return matches
 
 
 # ---------- 4. LiveKora ----------
 def fetch_livekora():
+    """Scrape livekora.vip and link to yallashooot albaplayer."""
     url = "https://www.livekora.vip/"
     headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers, timeout=10).text
@@ -235,22 +247,26 @@ def fetch_livekora():
         slug = href.rstrip("/").split("/")[-1]
         albaplayer_url = f"https://pl.yallashooot.video/albaplayer/{slug}/"
 
+        # ⚽ Team names
         right_team_name = a_tag.select_one("div.right-team .team-name")
         left_team_name = a_tag.select_one("div.left-team .team-name")
         home = right_team_name.text.strip() if right_team_name else ""
         away = left_team_name.text.strip() if left_team_name else ""
 
+        # 🖼️ Logo from HTML (fallback random)
         home_logo_tag = a_tag.select_one("div.right-team .team-logo img")
-        away_logo_tag = a_tag.select_one("div.left-team .team-logo img")
         home_logo = home_logo_tag["src"].strip() if home_logo_tag and "src" in home_logo_tag.attrs else random_logo()
-        away_logo = away_logo_tag["src"].strip() if away_logo_tag and "src" in away_logo_tag.attrs else random_logo()
 
+        # ⏰ Time conversion
         time_tag = a_tag.select_one("div.match-container span.date")
         if time_tag and time_tag.has_attr("data-start"):
-            dt_str = time_tag["data-start"].strip()
-            dt = datetime.fromisoformat(dt_str)
-            dt_ist = dt.astimezone(IST)
-            time_ist = dt_ist.strftime("%Y-%m-%d %H:%M IST")
+            try:
+                dt_str = time_tag["data-start"].strip()
+                dt = datetime.fromisoformat(dt_str)
+                dt_ist = dt.astimezone(IST)
+                time_ist = dt_ist.strftime("%Y-%m-%d %H:%M IST")
+            except Exception:
+                time_ist = ""
         else:
             time_ist = ""
 
@@ -260,11 +276,11 @@ def fetch_livekora():
             "league": "",
             "home_team": home,
             "away_team": away,
-            "label": short_label(home, away),
-            "home_logo": home_logo,
-            "away_logo": away_logo,
+            "label": short_label(home, away) if home and away else "livekora-stream",
+            "Logo": home_logo,
             "url": albaplayer_url
         })
+
     return matches
 
 
