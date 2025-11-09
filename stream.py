@@ -74,7 +74,6 @@ def find_team_crest(team_name):
     for team in TEAM_DATA:
         if team_name_low in team["name"].lower() or team_name_low in team.get("shortName", "").lower():
             return team.get("crest")
-    # fuzzy match: partial
     for team in TEAM_DATA:
         if team_name_low.split()[0] in team["name"].lower():
             return team.get("crest")
@@ -88,7 +87,7 @@ def fetch_sportzonline():
     url = "https://sportsonline.pk/prog.txt"
     text = requests.get(url, timeout=10).text
 
-    today = datetime.now(IST).strftime("%A").upper()  # e.g. "SUNDAY"
+    today = datetime.now(IST).strftime("%A").upper()
     pattern = rf"{today}\n(.*?)(?=\n[A-Z]+\n|$)"
     m = re.search(pattern, text, re.S)
     if not m:
@@ -170,7 +169,64 @@ def fetch_hesgoal():
     return matches
 
 
-# ---------- 3. LiveKora ----------
+# ---------- 3. YallaShooote ----------
+def fetch_yallashooote():
+    """Scrape yallashooote.online and take logo URLs directly from page."""
+    url = "https://yallashooote.online/"
+    headers = {"User-Agent": "Mozilla/5.0"}
+    html = requests.get(url, headers=headers, timeout=10).text
+    soup = BeautifulSoup(html, "html.parser")
+
+    matches = []
+
+    for div in soup.select("div.m_block.alba_sports_events-event_item"):
+        link_tag = div.select_one("a.alba_sports_events_link")
+        if not link_tag or "href" not in link_tag.attrs:
+            continue
+
+        href = link_tag["href"].strip()
+        if "kooragol360.com" in href:
+            last_part = href.rstrip("/").split("/")[-1]
+            iframe_url = f"https://goal-koora.com/live/{last_part}9.php"
+        else:
+            iframe_url = href
+
+        home_tag = div.select_one("div.team-first .alba_sports_events-team_title")
+        away_tag = div.select_one("div.team-second .alba_sports_events-team_title")
+        home = home_tag.text.strip() if home_tag else ""
+        away = away_tag.text.strip() if away_tag else ""
+
+        # 🆕 Take logo directly from source
+        home_logo_tag = div.select_one("div.team-first img")
+        away_logo_tag = div.select_one("div.team-second img")
+        home_logo = home_logo_tag["src"].strip() if home_logo_tag and "src" in home_logo_tag.attrs else random_logo()
+        away_logo = away_logo_tag["src"].strip() if away_logo_tag and "src" in away_logo_tag.attrs else random_logo()
+
+        date_tag = div.select_one("div.date[data-start]")
+        if date_tag and "data-start" in date_tag.attrs:
+            dt_str = date_tag["data-start"].strip()
+            dt = datetime.strptime(dt_str, "%Y/%m/%d %H:%M")
+            dt = GMT.localize(dt).astimezone(IST)
+            time_ist = dt.strftime("%Y-%m-%d %H:%M IST")
+        else:
+            time_ist = ""
+
+        matches.append({
+            "time": time_ist,
+            "game": "football",
+            "league": "",
+            "home_team": home,
+            "away_team": away,
+            "label": short_label(home, away) if home and away else "yalla-stream",
+            "Logo": home_logo,
+            "awayLogo": away_logo,
+            "url": iframe_url
+        })
+
+    return matches
+
+
+# ---------- 4. LiveKora ----------
 def fetch_livekora():
     url = "https://www.livekora.vip/"
     headers = {"User-Agent": "Mozilla/5.0"}
@@ -222,6 +278,7 @@ if __name__ == "__main__":
     sources = {
         "sportsonline.json": fetch_sportzonline,
         "hesgoal.json": fetch_hesgoal,
+        "yallashooote.json": fetch_yallashooote,
         "livekora.json": fetch_livekora
     }
 
