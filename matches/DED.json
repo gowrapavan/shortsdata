@@ -2679,7 +2679,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-11-09",
     "DateTime": "2025-11-09T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 718,
@@ -2690,11 +2690,11 @@
     "AwayTeamName": "Feyenoord Rotterdam",
     "HomeTeamLogo": "https://crests.football-data.org/718.png",
     "AwayTeamLogo": "https://crests.football-data.org/675.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 718,
     "Points": {
-      "718": 0,
+      "718": 3,
       "675": 0
     },
     "Goals": []

@@ -2525,7 +2525,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-09",
     "DateTime": "2025-11-09T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 100,
@@ -2536,11 +2536,11 @@
     "AwayTeamName": "Udinese Calcio",
     "HomeTeamLogo": "https://crests.football-data.org/100.png",
     "AwayTeamLogo": "https://crests.football-data.org/115.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 100,
     "Points": {
-      "100": 0,
+      "100": 3,
       "115": 0
     },
     "Goals": []
@@ -2666,8 +2666,8 @@
     "AwayTeamName": "SS Lazio",
     "HomeTeamLogo": "https://crests.football-data.org/108.png",
     "AwayTeamLogo": "https://crests.football-data.org/110.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "108": 0,
