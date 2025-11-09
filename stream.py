@@ -40,6 +40,49 @@ def short_label(home, away):
     a = re.sub(r'[^a-z]', '', away.lower())[:3] or away.lower()[:3]
     return f"{h}-{a}"
 
+# ===============================
+# 🏟️ LOAD TEAM CRESTS FROM JSONS
+# ===============================
+TEAM_JSONS = {
+    "EPL": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/EPL.json",
+    "ESP": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/ESP.json",
+    "ITSA": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/ITSA.json",
+    "FRL1": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/FRL1.json",
+    "DED": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DED.json",
+    "DEB": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DEB.json",
+}
+
+TEAM_LOGO_MAP = {}
+
+def load_team_logos():
+    """Load team crest URLs from multiple league JSONs."""
+    global TEAM_LOGO_MAP
+    for code, url in TEAM_JSONS.items():
+        try:
+            res = requests.get(url, timeout=10)
+            teams = res.json()
+            for team in teams:
+                name = team.get("name", "").lower()
+                short_name = team.get("shortName", "").lower()
+                tla = team.get("tla", "").lower()
+                crest = team.get("crest", "")
+                if name:
+                    TEAM_LOGO_MAP[name] = crest
+                if short_name:
+                    TEAM_LOGO_MAP[short_name] = crest
+                if tla:
+                    TEAM_LOGO_MAP[tla] = crest
+        except Exception as e:
+            print(f"⚠️ Failed to load {code}: {e}")
+
+def find_team_logo(team_name):
+    """Try to find crest by fuzzy team name."""
+    name = team_name.lower().strip()
+    for key, logo in TEAM_LOGO_MAP.items():
+        if key in name or name in key:
+            return logo
+    return random_logo()
+
 # ---------- 1. SportsOnline ----------
 def fetch_sportzonline():
     url = "https://sportsonline.pk/prog.txt"
@@ -59,6 +102,10 @@ def fetch_sportzonline():
         if m:
             time_str, home, away, url = m.groups()
             time_ist = convert_time(time_str, GMT)
+
+            # ✅ Try to fetch crest for home team
+            logo = find_team_logo(home)
+
             matches.append({
                 "time": time_ist,
                 "game": "football",
@@ -66,7 +113,7 @@ def fetch_sportzonline():
                 "home_team": home.strip(),
                 "away_team": away.strip(),
                 "label": short_label(home, away),
-                "Logo": random_logo(),
+                "Logo": logo,
                 "url": url.strip()
             })
     return matches
@@ -129,21 +176,17 @@ def fetch_livekora():
     matches = []
     for a_tag in soup.select("div.benacer-matches-container a[href]"):
         href = a_tag["href"].strip()
-        # Convert to albaplayer URL
         slug = href.rstrip("/").split("/")[-1]
         albaplayer_url = f"https://pl.yallashooot.video/albaplayer/{slug}/"
 
-        # Get home and away team names
         right_team_name = a_tag.select_one("div.right-team .team-name")
         left_team_name = a_tag.select_one("div.left-team .team-name")
         home = right_team_name.text.strip() if right_team_name else ""
         away = left_team_name.text.strip() if left_team_name else ""
 
-        # Get home team logo
         home_logo_tag = a_tag.select_one("div.right-team .team-logo img")
         home_logo = home_logo_tag["src"].strip() if home_logo_tag and "src" in home_logo_tag.attrs else random_logo()
 
-        # Extract match time from data-start
         time_tag = a_tag.select_one("div.match-container span.date")
         if time_tag and time_tag.has_attr("data-start"):
             dt_str = time_tag["data-start"].strip()
@@ -166,12 +209,15 @@ def fetch_livekora():
 
     return matches
 
-
 # === Save JSONs ===
 JSON_FOLDER = "json"
 os.makedirs(JSON_FOLDER, exist_ok=True)
 
 if __name__ == "__main__":
+    print("⏳ Loading team crests...")
+    load_team_logos()
+    print(f"✅ Loaded {len(TEAM_LOGO_MAP)} team logos from all leagues.\n")
+
     sources = {
         "sportsonline.json": fetch_sportzonline,
         "hesgoal.json": fetch_hesgoal,
