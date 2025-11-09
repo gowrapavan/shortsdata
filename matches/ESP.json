@@ -2749,7 +2749,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-11-09",
     "DateTime": "2025-11-09T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 77,
@@ -2760,11 +2760,11 @@
     "AwayTeamName": "Real Oviedo",
     "HomeTeamLogo": "https://crests.football-data.org/77.png",
     "AwayTeamLogo": "https://crests.football-data.org/1048.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 77,
     "Points": {
-      "77": 0,
+      "77": 3,
       "1048": 0
     },
     "Goals": []
