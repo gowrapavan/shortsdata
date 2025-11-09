@@ -174,7 +174,7 @@ def fetch_hesgoal():
 
 # ---------- 3. YallaShooote ----------
 def fetch_yallashooote():
-    """Scrape yallashooote.online and handle kooragol links."""
+    """Scrape yallashooote.online and handle kooragol links with both team logos."""
     url = "https://yallashooote.online/"
     headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers, timeout=10).text
@@ -187,21 +187,22 @@ def fetch_yallashooote():
             continue
 
         href = link_tag["href"].strip()
-        # 🧠 handle goal-koora redirect pattern
+        # 🧠 Handle goal-koora redirect pattern
         if "kooragol360.com" in href:
             last_part = href.rstrip("/").split("/")[-1]
             iframe_url = f"https://goal-koora.com/live/{last_part}.php"
         else:
             iframe_url = href
 
-        home_tag = div.select_one("div.team-first .alba_sports_events-team_title")
-        away_tag = div.select_one("div.team-second .alba_sports_events-team_title")
+        # ⚽ Team names
+        home_tag = div.select_one("div.team-first .alba_sports_events-team_title, div.team-first .h2.alba_sports_events-team_title")
+        away_tag = div.select_one("div.team-second .alba_sports_events-team_title, div.team-second .h2.alba_sports_events-team_title")
         home = home_tag.text.strip() if home_tag else ""
         away = away_tag.text.strip() if away_tag else ""
 
-        # 🖼️ Take logos directly from HTML (fallback to random)
-        home_logo_tag = div.select_one("div.team-first img")
-        away_logo_tag = div.select_one("div.team-second img")
+        # 🖼️ Logos
+        home_logo_tag = div.select_one("div.team-first .alba-team_logo img")
+        away_logo_tag = div.select_one("div.team-second .alba-team_logo img")
         home_logo = home_logo_tag["src"].strip() if home_logo_tag and "src" in home_logo_tag.attrs else random_logo()
         away_logo = away_logo_tag["src"].strip() if away_logo_tag and "src" in away_logo_tag.attrs else random_logo()
 
@@ -225,8 +226,8 @@ def fetch_yallashooote():
             "home_team": home,
             "away_team": away,
             "label": short_label(home, away) if home and away else "yalla-stream",
-            "Logo": home_logo,
-            "awayLogo": away_logo,
+            "home_logo": home_logo,
+            "away_logo": away_logo,
             "url": iframe_url
         })
 
@@ -235,7 +236,7 @@ def fetch_yallashooote():
 
 # ---------- 4. LiveKora ----------
 def fetch_livekora():
-    """Scrape livekora.vip and link to yallashooot albaplayer."""
+    """Scrape livekora.vip and extract both home and away logos."""
     url = "https://www.livekora.vip/"
     headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers, timeout=10).text
@@ -253,9 +254,11 @@ def fetch_livekora():
         home = right_team_name.text.strip() if right_team_name else ""
         away = left_team_name.text.strip() if left_team_name else ""
 
-        # 🖼️ Logo from HTML (fallback random)
+        # 🖼️ Logos (both sides)
         home_logo_tag = a_tag.select_one("div.right-team .team-logo img")
+        away_logo_tag = a_tag.select_one("div.left-team .team-logo img")
         home_logo = home_logo_tag["src"].strip() if home_logo_tag and "src" in home_logo_tag.attrs else random_logo()
+        away_logo = away_logo_tag["src"].strip() if away_logo_tag and "src" in away_logo_tag.attrs else random_logo()
 
         # ⏰ Time conversion
         time_tag = a_tag.select_one("div.match-container span.date")
@@ -277,11 +280,13 @@ def fetch_livekora():
             "home_team": home,
             "away_team": away,
             "label": short_label(home, away) if home and away else "livekora-stream",
-            "Logo": home_logo,
+            "home_logo": home_logo,
+            "away_logo": away_logo,
             "url": albaplayer_url
         })
 
     return matches
+
 
 
 # === Save JSONs ===
