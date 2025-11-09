@@ -1,38 +1,5 @@
 [
   {
-    "time": "2025-11-09 23:30 IST",
-    "game": "football",
-    "league": "Liga Portugal",
-    "home_team": "FC Porto",
-    "away_team": "Famalicão",
-    "label": "fcp-fam",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/887.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/11172.png",
-    "url": "https://yallashoot.mobi/albaplayer/famalicao-vs-fc-porto/"
-  },
-  {
-    "time": "2025-11-10 00:00 IST",
-    "game": "football",
-    "league": "Bundesliga",
-    "home_team": "Mainz 05",
-    "away_team": "Eintracht Frankfurt",
-    "label": "mai-ein",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/352.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/337.png",
-    "url": "https://yallashoot.mobi/albaplayer/eintracht-frankfurt-vs-mainz-05-t/"
-  },
-  {
-    "time": "2025-11-10 00:30 IST",
-    "game": "football",
-    "league": "Eredivisie",
-    "home_team": "Feyenoord",
-    "away_team": "Go Ahead Eagles",
-    "label": "fey-goa",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/691.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/714.png",
-    "url": "https://yallashoot.mobi/albaplayer/go-ahead-eagles-vs-feyenoord/"
-  },
-  {
     "time": "2025-11-10 01:15 IST",
     "game": "football",
     "league": "Serie A",
@@ -97,5 +64,93 @@
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/5916.png",
     "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/80778",
     "url": "https://yallashoot.mobi/albaplayer/sporting-braga-x-moreirense/"
+  },
+  {
+    "time": "2025-11-10 18:00 IST",
+    "game": "football",
+    "league": "U17 World Cup",
+    "home_team": "Mexico U17",
+    "away_team": "Switzerland U17",
+    "label": "mex-swi",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2336",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5223",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-11-10 18:00 IST",
+    "game": "football",
+    "league": "U17 World Cup",
+    "home_team": "Ivory Coast U17",
+    "away_team": "South Korea U17",
+    "label": "ivo-sou",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2324",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5287",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-11-10 19:00 IST",
+    "game": "football",
+    "league": "U17 World Cup",
+    "home_team": "Germany U17",
+    "away_team": "El Salvador U17",
+    "label": "ger-els",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5235",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/48113",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-11-10 19:00 IST",
+    "game": "football",
+    "league": "U17 World Cup",
+    "home_team": "North Korea U17",
+    "away_team": "Colombia U17",
+    "label": "nor-col",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5288",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5272",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-11-10 20:15 IST",
+    "game": "football",
+    "league": "U17 World Cup",
+    "home_team": "Indonesia U17",
+    "away_team": "Honduras U17",
+    "label": "ind-hon",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/77386",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/15464",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-11-10 20:15 IST",
+    "game": "football",
+    "league": "U17 World Cup",
+    "home_team": "Brazil U17",
+    "away_team": "Zambia U17",
+    "label": "bra-zam",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5271",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2331",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-11-10 21:15 IST",
+    "game": "football",
+    "league": "U17 World Cup",
+    "home_team": "England U17",
+    "away_team": "Egypt U17",
+    "label": "eng-egy",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5248",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2330",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
+  },
+  {
+    "time": "2025-11-10 21:15 IST",
+    "game": "football",
+    "league": "U17 World Cup",
+    "home_team": "Haiti U17",
+    "away_team": "Venezuela U17",
+    "label": "hai-ven",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/48112",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5273",
+    "url": "https://yallashoot.mobi/albaplayer/#/"
   }
 ]
