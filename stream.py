@@ -246,7 +246,7 @@ def fetch_livekora():
     for a_tag in soup.select("div.benacer-matches-container a[href]"):
         href = a_tag["href"].strip()
         slug = href.rstrip("/").split("/")[-1]
-        albaplayer_url = f"https://pl.yallashooot.video/albaplayer/{slug}/"
+        albaplayer_url = f"https://pl.yallashooot.video/albaplayer/{slug}/?serv=0"
 
         # ⚽ Team names
         right_team_name = a_tag.select_one("div.right-team .team-name")
