@@ -156,8 +156,8 @@ def fetch_hesgoal():
 
         # 🆕 Try to extract logos
         imgs = event.select("img")
-        home_logo = imgs[1]["src"] if len(imgs) > 1 and imgs[1].has_attr("src") else find_team_crest(home)
-        away_logo = imgs[0]["src"] if imgs and imgs[0].has_attr("src") else find_team_crest(away)
+        home_logo = imgs[1]["data-img"] if len(imgs) > 1 and imgs[1].has_attr("data-img") else find_team_crest(home)
+        away_logo = imgs[0]["data-img"] if imgs and imgs[0].has_attr("data-img") else find_team_crest(away)
 
         matches.append({
             "time": time_ist,
