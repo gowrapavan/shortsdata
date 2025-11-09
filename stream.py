@@ -7,7 +7,7 @@ import pytz
 import random
 import os
 
-# === Random logo placeholders from your GitHub ===
+# === Random logo placeholders ===
 LOGOS = [
     "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
     "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
@@ -22,6 +22,7 @@ LOGOS = [
 def random_logo():
     return random.choice(LOGOS)
 
+
 # === Timezones ===
 IST = pytz.timezone("Asia/Kolkata")
 GMT = pytz.timezone("GMT")
@@ -34,57 +35,56 @@ def convert_time(timestr, src_tz):
     dt = src_tz.localize(dt).astimezone(IST)
     return dt.strftime("%Y-%m-%d %H:%M IST")
 
+
 def short_label(home, away):
     """Generate short label like bri-man."""
     h = re.sub(r'[^a-z]', '', home.lower())[:3] or home.lower()[:3]
     a = re.sub(r'[^a-z]', '', away.lower())[:3] or away.lower()[:3]
     return f"{h}-{a}"
 
-# ===============================
-# 🏟️ LOAD TEAM CRESTS FROM JSONS
-# ===============================
-TEAM_JSONS = {
+
+# === Load Team Data from GitHub ===
+TEAM_SOURCES = {
     "EPL": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/EPL.json",
     "ESP": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/ESP.json",
-    "ITSA": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/ITSA.json",
     "FRL1": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/FRL1.json",
+    "ITSA": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/ITSA.json",
     "DED": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DED.json",
     "DEB": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DEB.json",
 }
 
-TEAM_LOGO_MAP = {}
+TEAM_DATA = []
 
-def load_team_logos():
-    """Load team crest URLs from multiple league JSONs."""
-    global TEAM_LOGO_MAP
-    for code, url in TEAM_JSONS.items():
+def load_team_data():
+    global TEAM_DATA
+    if TEAM_DATA:
+        return TEAM_DATA
+    for name, url in TEAM_SOURCES.items():
         try:
-            res = requests.get(url, timeout=10)
-            teams = res.json()
-            for team in teams:
-                name = team.get("name", "").lower()
-                short_name = team.get("shortName", "").lower()
-                tla = team.get("tla", "").lower()
-                crest = team.get("crest", "")
-                if name:
-                    TEAM_LOGO_MAP[name] = crest
-                if short_name:
-                    TEAM_LOGO_MAP[short_name] = crest
-                if tla:
-                    TEAM_LOGO_MAP[tla] = crest
+            resp = requests.get(url, timeout=10)
+            if resp.status_code == 200:
+                TEAM_DATA.extend(resp.json())
         except Exception as e:
-            print(f"⚠️ Failed to load {code}: {e}")
+            print(f"⚠️ Failed loading {name}: {e}")
+    return TEAM_DATA
 
-def find_team_logo(team_name):
-    """Try to find crest by fuzzy team name."""
-    name = team_name.lower().strip()
-    for key, logo in TEAM_LOGO_MAP.items():
-        if key in name or name in key:
-            return logo
+def find_team_crest(team_name):
+    """Find crest URL for given team name."""
+    team_name_low = team_name.lower()
+    for team in TEAM_DATA:
+        if team_name_low in team["name"].lower() or team_name_low in team.get("shortName", "").lower():
+            return team.get("crest")
+    # fuzzy match: partial
+    for team in TEAM_DATA:
+        if team_name_low.split()[0] in team["name"].lower():
+            return team.get("crest")
     return random_logo()
+
 
 # ---------- 1. SportsOnline ----------
 def fetch_sportzonline():
+    load_team_data()
+
     url = "https://sportsonline.pk/prog.txt"
     text = requests.get(url, timeout=10).text
 
@@ -102,9 +102,7 @@ def fetch_sportzonline():
         if m:
             time_str, home, away, url = m.groups()
             time_ist = convert_time(time_str, GMT)
-
-            # ✅ Try to fetch crest for home team
-            logo = find_team_logo(home)
+            logo = find_team_crest(home.strip())
 
             matches.append({
                 "time": time_ist,
@@ -118,8 +116,11 @@ def fetch_sportzonline():
             })
     return matches
 
+
 # ---------- 2. Hesgoal ----------
 def fetch_hesgoal():
+    load_team_data()
+
     url = "https://hesgoal.im/today-matches/"
     headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers, timeout=10).text
@@ -153,6 +154,8 @@ def fetch_hesgoal():
         else:
             time_ist = ""
 
+        logo = find_team_crest(home.strip())
+
         matches.append({
             "time": time_ist,
             "game": "football",
@@ -160,11 +163,12 @@ def fetch_hesgoal():
             "home_team": home,
             "away_team": away,
             "label": short_label(home, away),
-            "Logo": random_logo(),
+            "Logo": logo,
             "url": yalla_url
         })
 
     return matches
+
 
 # ---------- 3. LiveKora ----------
 def fetch_livekora():
@@ -209,15 +213,12 @@ def fetch_livekora():
 
     return matches
 
+
 # === Save JSONs ===
 JSON_FOLDER = "json"
 os.makedirs(JSON_FOLDER, exist_ok=True)
 
 if __name__ == "__main__":
-    print("⏳ Loading team crests...")
-    load_team_logos()
-    print(f"✅ Loaded {len(TEAM_LOGO_MAP)} team logos from all leagues.\n")
-
     sources = {
         "sportsonline.json": fetch_sportzonline,
         "hesgoal.json": fetch_hesgoal,
