@@ -1,22 +1,13 @@
 [
   {
-    "time": "2025-11-09 20:00 IST",
-    "game": "football",
-    "league": "Bundesliga",
-    "home_team": "St. Pauli",
-    "away_team": "Freiburg",
-    "label": "stp-fre",
-    "Logo": "https://crests.football-data.org/20.png",
-    "url": "https://yallashoot.mobi/albaplayer/freiburg-vs-st-pauli/"
-  },
-  {
     "time": "2025-11-09 20:15 IST",
     "game": "football",
     "league": "U17 World Cup",
     "home_team": "Costa Rica U17",
     "away_team": "Croatia U17",
     "label": "cos-cro",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/croatia-u17-vs-costa-rica-u17/"
   },
   {
@@ -26,7 +17,8 @@
     "home_team": "Senegal U17",
     "away_team": "U.A.E. U17",
     "label": "sen-uae",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/u-a-e-u17-vs-senegal-u17/"
   },
   {
@@ -36,7 +28,8 @@
     "home_team": "Standard de Liège",
     "away_team": "STVV",
     "label": "sta-stv",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/stvv-vs-standard-de-liege/"
   },
   {
@@ -46,7 +39,8 @@
     "home_team": "Real Madrid",
     "away_team": "Rayo Vallecano",
     "label": "rea-ray",
-    "Logo": "https://crests.football-data.org/86.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/d.html/"
   },
   {
@@ -56,7 +50,8 @@
     "home_team": "Nacional Madeira",
     "away_team": "Estrela da Amadora",
     "label": "nac-est",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/estrela-da-amadora-vs-nacional-madeira/"
   },
   {
@@ -66,7 +61,8 @@
     "home_team": "Gil Vicente FC",
     "away_team": "AVS",
     "label": "gil-avs",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/avs-vs-gil-vicente-fc/"
   },
   {
@@ -76,7 +72,8 @@
     "home_team": "Zamalek SC",
     "away_team": "Al Ahly SC",
     "label": "zam-ala",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/al-ahly-sc-vs-zamalek-sc/"
   },
   {
@@ -86,7 +83,8 @@
     "home_team": "South Africa U17",
     "away_team": "Italy U17",
     "label": "sou-ita",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/italy-u17-vs-south-africa-u17/"
   },
   {
@@ -96,7 +94,8 @@
     "home_team": "Qatar U17",
     "away_team": "Bolivia U17",
     "label": "qat-bol",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/bolivia-u17-vs-qatar-u17/"
   },
   {
@@ -106,7 +105,8 @@
     "home_team": "PSV Eindhoven",
     "away_team": "AZ Alkmaar",
     "label": "psv-aza",
-    "Logo": "https://crests.football-data.org/674.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/az-alkmaar-vs-psv-eindhoven/"
   },
   {
@@ -116,7 +116,8 @@
     "home_team": "Lille",
     "away_team": "Strasbourg",
     "label": "lil-str",
-    "Logo": "https://crests.football-data.org/521.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/strasbourg-vs-lille/"
   },
   {
@@ -126,7 +127,8 @@
     "home_team": "Auxerre",
     "away_team": "Angers",
     "label": "aux-ang",
-    "Logo": "https://crests.football-data.org/519.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/angers-vs-auxerre/"
   },
   {
@@ -136,7 +138,8 @@
     "home_team": "OGC Nice",
     "away_team": "Metz",
     "label": "ogc-met",
-    "Logo": "https://crests.football-data.org/522.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/metz-vs-ogc-nice/"
   },
   {
@@ -146,7 +149,8 @@
     "home_team": "Liverpool",
     "away_team": "Manchester City",
     "label": "liv-man",
-    "Logo": "https://crests.football-data.org/64.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/get-your-best-commercial-liability-comp_4.html/"
   },
   {
@@ -156,7 +160,8 @@
     "home_team": "FC Augsburg",
     "away_team": "Stuttgart",
     "label": "fca-stu",
-    "Logo": "https://crests.football-data.org/16.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/stuttgart-vs-fc-augsburg/"
   },
   {
@@ -166,18 +171,9 @@
     "home_team": "Udinese",
     "away_team": "AS Roma",
     "label": "udi-asr",
-    "Logo": "https://crests.football-data.org/115.png",
-    "url": "https://yallashoot.mobi/albaplayer/#/"
-  },
-  {
-    "time": "2025-11-09 22:30 IST",
-    "game": "football",
-    "league": "Superliga",
-    "home_team": "Sonderjyske",
-    "away_team": "Aarhus",
-    "label": "son-aar",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
-    "url": "https://yallashoot.mobi/albaplayer/#/"
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "url": "https://yallashoot.mobi/albaplayer/as-roma-vs-udinese/"
   },
   {
     "time": "2025-11-09 23:00 IST",
@@ -186,8 +182,9 @@
     "home_team": "KRC Genk",
     "away_team": "KAA Gent",
     "label": "krc-kaa",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
-    "url": "https://yallashoot.mobi/albaplayer/#/"
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "url": "https://yallashoot.mobi/albaplayer/kaa-gent-vs-krc-genk/"
   },
   {
     "time": "2025-11-09 23:00 IST",
@@ -196,8 +193,9 @@
     "home_team": "Getafe",
     "away_team": "Mallorca",
     "label": "get-mal",
-    "Logo": "https://crests.football-data.org/82.png",
-    "url": "https://yallashoot.mobi/albaplayer/#/"
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "url": "https://yallashoot.mobi/albaplayer/mallorca-vs-getafe/"
   },
   {
     "time": "2025-11-09 23:00 IST",
@@ -206,8 +204,9 @@
     "home_team": "Real Betis",
     "away_team": "Valencia",
     "label": "rea-val",
-    "Logo": "https://crests.football-data.org/90.png",
-    "url": "https://yallashoot.mobi/albaplayer/#/"
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "url": "https://yallashoot.mobi/albaplayer/valencia-vs-real-betis/"
   },
   {
     "time": "2025-11-09 23:30 IST",
@@ -216,7 +215,8 @@
     "home_team": "FC Porto",
     "away_team": "Famalicão",
     "label": "fcp-fam",
-    "Logo": "https://crests.football-data.org/57.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   },
   {
@@ -226,7 +226,8 @@
     "home_team": "Union St. Gilloise",
     "away_team": "KV Mechelen",
     "label": "uni-kvm",
-    "Logo": "https://crests.football-data.org/28.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   },
   {
@@ -236,7 +237,8 @@
     "home_team": "Mainz 05",
     "away_team": "Eintracht Frankfurt",
     "label": "mai-ein",
-    "Logo": "https://crests.football-data.org/15.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   },
   {
@@ -246,7 +248,8 @@
     "home_team": "FC Nordsjælland",
     "away_team": "Brøndby IF",
     "label": "fcn-brn",
-    "Logo": "https://crests.football-data.org/57.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   },
   {
@@ -256,7 +259,8 @@
     "home_team": "Feyenoord",
     "away_team": "Go Ahead Eagles",
     "label": "fey-goa",
-    "Logo": "https://crests.football-data.org/675.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   },
   {
@@ -266,7 +270,8 @@
     "home_team": "Lazio",
     "away_team": "Inter Milan",
     "label": "laz-int",
-    "Logo": "https://crests.football-data.org/110.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   },
   {
@@ -276,7 +281,8 @@
     "home_team": "PSG",
     "away_team": "Lyon",
     "label": "psg-lyo",
-    "Logo": "https://crests.football-data.org/524.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   },
   {
@@ -286,7 +292,8 @@
     "home_team": "FC Barcelona",
     "away_team": "Celta Vigo",
     "label": "fcb-cel",
-    "Logo": "https://crests.football-data.org/81.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   },
   {
@@ -296,7 +303,8 @@
     "home_team": "Casa Pia AC",
     "away_team": "Benfica",
     "label": "cas-ben",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   },
   {
@@ -306,7 +314,8 @@
     "home_team": "Moreirense",
     "away_team": "SC Braga",
     "label": "mor-scb",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   },
   {
@@ -316,7 +325,8 @@
     "home_team": "Portland Timbers",
     "away_team": "San Diego FC",
     "label": "por-san",
-    "Logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "home_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+    "away_logo": "data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
     "url": "https://yallashoot.mobi/albaplayer/#/"
   }
 ]
