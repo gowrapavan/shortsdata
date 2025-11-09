@@ -2531,7 +2531,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-09",
     "DateTime": "2025-11-09T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 58,
@@ -2542,11 +2542,11 @@
     "AwayTeamName": "AFC Bournemouth",
     "HomeTeamLogo": "https://crests.football-data.org/58.png",
     "AwayTeamLogo": "https://crests.football-data.org/bournemouth.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 4,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 58,
     "Points": {
-      "58": 0,
+      "58": 3,
       "1044": 0
     },
     "Goals": []
@@ -2557,7 +2557,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-09",
     "DateTime": "2025-11-09T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 354,
@@ -2572,8 +2572,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "354": 0,
-      "397": 0
+      "354": 1,
+      "397": 1
     },
     "Goals": []
   },
@@ -2583,7 +2583,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-09",
     "DateTime": "2025-11-09T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 402,
@@ -2594,11 +2594,11 @@
     "AwayTeamName": "Newcastle United FC",
     "HomeTeamLogo": "https://crests.football-data.org/402.png",
     "AwayTeamLogo": "https://crests.football-data.org/67.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 402,
     "Points": {
-      "402": 0,
+      "402": 3,
       "67": 0
     },
     "Goals": []
@@ -2672,8 +2672,8 @@
     "AwayTeamName": "Liverpool FC",
     "HomeTeamLogo": "https://crests.football-data.org/65.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "65": 0,
@@ -2687,7 +2687,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-09",
     "DateTime": "2025-11-09T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 351,
@@ -2698,11 +2698,11 @@
     "AwayTeamName": "Leeds United FC",
     "HomeTeamLogo": "https://crests.football-data.org/351.png",
     "AwayTeamLogo": "https://crests.football-data.org/341.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 351,
     "Points": {
-      "351": 0,
+      "351": 3,
       "341": 0
     },
     "Goals": []

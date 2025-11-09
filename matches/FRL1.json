@@ -2541,7 +2541,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-09",
     "DateTime": "2025-11-09T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 525,
@@ -2553,11 +2553,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/525.png",
     "AwayTeamLogo": "https://crests.football-data.org/511.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "525": 0,
-      "511": 0
+      "525": 1,
+      "511": 1
     },
     "Goals": []
   },
@@ -2567,7 +2567,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-09",
     "DateTime": "2025-11-09T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 545,
@@ -2578,11 +2578,11 @@
     "AwayTeamName": "OGC Nice",
     "HomeTeamLogo": "https://crests.football-data.org/545.png",
     "AwayTeamLogo": "https://crests.football-data.org/522.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 545,
     "Points": {
-      "545": 0,
+      "545": 3,
       "522": 0
     },
     "Goals": []
@@ -2671,7 +2671,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-09",
     "DateTime": "2025-11-09T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 576,
@@ -2682,11 +2682,11 @@
     "AwayTeamName": "Lille OSC",
     "HomeTeamLogo": "https://crests.football-data.org/576.png",
     "AwayTeamLogo": "https://crests.football-data.org/521.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 576,
     "Points": {
-      "576": 0,
+      "576": 3,
       "521": 0
     },
     "Goals": []
@@ -2697,7 +2697,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-09",
     "DateTime": "2025-11-09T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 532,
@@ -2708,11 +2708,11 @@
     "AwayTeamName": "AJ Auxerre",
     "HomeTeamLogo": "https://crests.football-data.org/532.png",
     "AwayTeamLogo": "https://crests.football-data.org/519.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 532,
     "Points": {
-      "532": 0,
+      "532": 3,
       "519": 0
     },
     "Goals": []
