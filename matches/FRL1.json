@@ -2515,7 +2515,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-08",
     "DateTime": "2025-11-08T20:05:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 548,
@@ -2527,11 +2527,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/548.png",
     "AwayTeamLogo": "https://crests.football-data.org/546.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 3,
-    "Result": null,
+    "AwayTeamScore": 4,
+    "Result": 546,
     "Points": {
       "548": 0,
-      "546": 0
+      "546": 3
     },
     "Goals": []
   },
@@ -2719,7 +2719,7 @@
   },
   {
     "GameId": 542514,
-    "RoundId": 6,
+    "RoundId": 12,
     "RoundName": "Ligue 1",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T14:00:00Z",
@@ -2745,7 +2745,7 @@
   },
   {
     "GameId": 542515,
-    "RoundId": 6,
+    "RoundId": 12,
     "RoundName": "Ligue 1",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T16:15:00Z",
@@ -2771,7 +2771,7 @@
   },
   {
     "GameId": 542516,
-    "RoundId": 6,
+    "RoundId": 12,
     "RoundName": "Ligue 1",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T16:15:00Z",
@@ -2823,7 +2823,7 @@
   },
   {
     "GameId": 542518,
-    "RoundId": 6,
+    "RoundId": 12,
     "RoundName": "Ligue 1",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T19:45:00Z",
@@ -2901,7 +2901,7 @@
   },
   {
     "GameId": 542521,
-    "RoundId": 6,
+    "RoundId": 12,
     "RoundName": "Ligue 1",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T16:15:00Z",
