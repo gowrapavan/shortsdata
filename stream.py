@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import requests
 import re
 import json
@@ -83,7 +84,6 @@ def find_team_crest(team_name):
 # ---------- 1. SportsOnline ----------
 def fetch_sportzonline():
     load_team_data()
-
     url = "https://sportsonline.pk/prog.txt"
     text = requests.get(url, timeout=10).text
 
@@ -101,7 +101,8 @@ def fetch_sportzonline():
         if m:
             time_str, home, away, url = m.groups()
             time_ist = convert_time(time_str, GMT)
-            logo = find_team_crest(home.strip())
+            home_logo = find_team_crest(home.strip())
+            away_logo = find_team_crest(away.strip())
 
             matches.append({
                 "time": time_ist,
@@ -110,7 +111,8 @@ def fetch_sportzonline():
                 "home_team": home.strip(),
                 "away_team": away.strip(),
                 "label": short_label(home, away),
-                "Logo": logo,
+                "home_logo": home_logo,
+                "away_logo": away_logo,
                 "url": url.strip()
             })
     return matches
@@ -119,7 +121,6 @@ def fetch_sportzonline():
 # ---------- 2. Hesgoal ----------
 def fetch_hesgoal():
     load_team_data()
-
     url = "https://hesgoal.im/today-matches/"
     headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers, timeout=10).text
@@ -153,7 +154,10 @@ def fetch_hesgoal():
         else:
             time_ist = ""
 
-        logo = find_team_crest(home.strip())
+        # 🆕 Try to extract logos
+        imgs = event.select("img")
+        home_logo = imgs[1]["src"] if len(imgs) > 1 and imgs[1].has_attr("src") else find_team_crest(home)
+        away_logo = imgs[0]["src"] if imgs and imgs[0].has_attr("src") else find_team_crest(away)
 
         matches.append({
             "time": time_ist,
@@ -162,41 +166,34 @@ def fetch_hesgoal():
             "home_team": home,
             "away_team": away,
             "label": short_label(home, away),
-            "Logo": logo,
+            "home_logo": home_logo or random_logo(),
+            "away_logo": away_logo or random_logo(),
             "url": yalla_url
         })
-
     return matches
 
 
 # ---------- 3. YallaShooote ----------
 def fetch_yallashooote():
-    """Scrape yallashooote.online and take logo URLs directly from page."""
     url = "https://yallashooote.online/"
     headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers, timeout=10).text
     soup = BeautifulSoup(html, "html.parser")
 
     matches = []
-
     for div in soup.select("div.m_block.alba_sports_events-event_item"):
         link_tag = div.select_one("a.alba_sports_events_link")
         if not link_tag or "href" not in link_tag.attrs:
             continue
-
         href = link_tag["href"].strip()
-        if "kooragol360.com" in href:
-            last_part = href.rstrip("/").split("/")[-1]
-            iframe_url = f"https://goal-koora.com/live/{last_part}.php"
-        else:
-            iframe_url = href
+        iframe_url = href
 
         home_tag = div.select_one("div.team-first .alba_sports_events-team_title")
         away_tag = div.select_one("div.team-second .alba_sports_events-team_title")
         home = home_tag.text.strip() if home_tag else ""
         away = away_tag.text.strip() if away_tag else ""
 
-        # 🆕 Take logo directly from source
+        # 🆕 Both logos
         home_logo_tag = div.select_one("div.team-first img")
         away_logo_tag = div.select_one("div.team-second img")
         home_logo = home_logo_tag["src"].strip() if home_logo_tag and "src" in home_logo_tag.attrs else random_logo()
@@ -217,12 +214,11 @@ def fetch_yallashooote():
             "league": "",
             "home_team": home,
             "away_team": away,
-            "label": short_label(home, away) if home and away else "yalla-stream",
-            "Logo": home_logo,
-            "awayLogo": away_logo,
+            "label": short_label(home, away),
+            "home_logo": home_logo,
+            "away_logo": away_logo,
             "url": iframe_url
         })
-
     return matches
 
 
@@ -245,7 +241,9 @@ def fetch_livekora():
         away = left_team_name.text.strip() if left_team_name else ""
 
         home_logo_tag = a_tag.select_one("div.right-team .team-logo img")
+        away_logo_tag = a_tag.select_one("div.left-team .team-logo img")
         home_logo = home_logo_tag["src"].strip() if home_logo_tag and "src" in home_logo_tag.attrs else random_logo()
+        away_logo = away_logo_tag["src"].strip() if away_logo_tag and "src" in away_logo_tag.attrs else random_logo()
 
         time_tag = a_tag.select_one("div.match-container span.date")
         if time_tag and time_tag.has_attr("data-start"):
@@ -262,11 +260,11 @@ def fetch_livekora():
             "league": "",
             "home_team": home,
             "away_team": away,
-            "label": short_label(home, away) if home and away else "livekora-stream",
-            "Logo": home_logo,
+            "label": short_label(home, away),
+            "home_logo": home_logo,
+            "away_logo": away_logo,
             "url": albaplayer_url
         })
-
     return matches
 
 
