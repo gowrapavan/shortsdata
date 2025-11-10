@@ -2619,7 +2619,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-09",
     "DateTime": "2025-11-09T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 523,
@@ -2631,11 +2631,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/523.png",
     "AwayTeamLogo": "https://crests.football-data.org/524.png",
     "HomeTeamScore": 2,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 524,
     "Points": {
       "523": 0,
-      "524": 0
+      "524": 3
     },
     "Goals": []
   },
