@@ -50,7 +50,8 @@ TEAM_SOURCES = {
     "ESP": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/ESP.json",
     "FRL1": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/FRL1.json",
     "ITSA": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/ITSA.json",
-    "DED": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DED.json",
+    "DED": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DED.json", 
+    "WC": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/WC.json",
     "DEB": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DEB.json",
 }
 
