@@ -3,7 +3,7 @@ import time
 import json
 import requests
 
-# ⚙️ CONFIG
+# ⚙️ CONFIG 
 API_KEY = "18eaa48000cb4abc9db7dfea5e219828"  # 🔑 replace with your real Football-Data.org key
 BASE_URL = "https://api.football-data.org/v4"
 OUTPUT_DIR = "teams"
