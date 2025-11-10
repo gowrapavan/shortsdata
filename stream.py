@@ -172,9 +172,8 @@ def fetch_hesgoal():
         })
     return matches
 
-# ---------- 3. YallaShooote ----------
 def fetch_yallashooote():
-    """Scrape yallashooote.online and handle kooragol links with both team logos."""
+    """Scrape yallashooote.online and convert short /beinX links to iframe URLs."""
     url = "https://yallashooote.online/"
     headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers, timeout=10).text
@@ -187,10 +186,11 @@ def fetch_yallashooote():
             continue
 
         href = link_tag["href"].strip()
-        # 🧠 Handle goal-koora redirect pattern
-        if "kooragol360.com" in href:
-            last_part = href.rstrip("/").split("/")[-1]
-            iframe_url = f"https://yallashooote.online/live/{last_part}.php"
+
+        # ✅ Fix: turn /beinX → full iframe URL
+        if href.startswith("/"):
+            slug = href.lstrip("/")
+            iframe_url = f"https://yallashooote.online/live/{slug}.php"
         else:
             iframe_url = href
 
