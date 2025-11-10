@@ -44,7 +44,7 @@ def short_label(home, away):
     return f"{h}-{a}"
 
 
-# === Load Team Data from GitHub (includes WC) ===
+# === Load Team Data from GitHub ===
 TEAM_SOURCES = {
     "EPL": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/EPL.json",
     "ESP": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/ESP.json",
@@ -52,55 +52,32 @@ TEAM_SOURCES = {
     "ITSA": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/ITSA.json",
     "DED": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DED.json",
     "DEB": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DEB.json",
-    "WC": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/WC.json",
 }
 
 TEAM_DATA = []
 
 def load_team_data():
-    """Load and cache all team data from GitHub sources, including World Cup teams."""
     global TEAM_DATA
     if TEAM_DATA:
         return TEAM_DATA
-
     for name, url in TEAM_SOURCES.items():
         try:
             resp = requests.get(url, timeout=10)
             if resp.status_code == 200:
-                data = resp.json()
-                # WC file has nested structure: [{ "teams": [...] }]
-                if name == "WC":
-                    if isinstance(data, list) and len(data) > 0 and "teams" in data[0]:
-                        TEAM_DATA.extend(data[0]["teams"])
-                else:
-                    TEAM_DATA.extend(data)
+                TEAM_DATA.extend(resp.json())
         except Exception as e:
             print(f"⚠️ Failed loading {name}: {e}")
-
-    print(f"✅ Loaded {len(TEAM_DATA)} total teams from GitHub sources")
     return TEAM_DATA
-
 
 def find_team_crest(team_name):
     """Find crest URL for given team name."""
     team_name_low = team_name.lower()
-
-    # Try exact or short name match
     for team in TEAM_DATA:
         if team_name_low in team["name"].lower() or team_name_low in team.get("shortName", "").lower():
             return team.get("crest")
-
-    # Try partial (first word) match
     for team in TEAM_DATA:
         if team_name_low.split()[0] in team["name"].lower():
             return team.get("crest")
-
-    # Try by area name (for national teams in WC)
-    for team in TEAM_DATA:
-        area = team.get("area", {}).get("name", "").lower()
-        if area and (area in team_name_low or team_name_low in area):
-            return team.get("crest")
-
     return random_logo()
 
 
@@ -177,6 +154,7 @@ def fetch_hesgoal():
         else:
             time_ist = ""
 
+        # 🆕 Try to extract logos
         imgs = event.select("img")
         home_logo = imgs[1]["data-img"] if len(imgs) > 1 and imgs[1].has_attr("data-img") else find_team_crest(home)
         away_logo = imgs[0]["data-img"] if imgs and imgs[0].has_attr("data-img") else find_team_crest(away)
@@ -194,11 +172,8 @@ def fetch_hesgoal():
         })
     return matches
 
-
-# ---------- 3. YallaShooote ----------
 def fetch_yallashooote():
     """Scrape yallashooote.online and convert short /beinX links to iframe URLs."""
-    load_team_data()
     url = "https://yallashooote.online/"
     headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers, timeout=10).text
@@ -211,16 +186,27 @@ def fetch_yallashooote():
             continue
 
         href = link_tag["href"].strip()
-        iframe_url = f"https://yallashooote.online/live/{href.lstrip('/')}.php" if href.startswith("/") else href
 
-        home_tag = div.select_one("div.team-first .alba_sports_events-team_title")
-        away_tag = div.select_one("div.team-second .alba_sports_events-team_title")
+        # ✅ Fix: turn /beinX → full iframe URL
+        if href.startswith("/"):
+            slug = href.lstrip("/")
+            iframe_url = f"https://yallashooote.online/live/{slug}.php"
+        else:
+            iframe_url = href
+
+        # ⚽ Team names
+        home_tag = div.select_one("div.team-first .alba_sports_events-team_title, div.team-first .h2.alba_sports_events-team_title")
+        away_tag = div.select_one("div.team-second .alba_sports_events-team_title, div.team-second .h2.alba_sports_events-team_title")
         home = home_tag.text.strip() if home_tag else ""
         away = away_tag.text.strip() if away_tag else ""
 
-        home_logo = find_team_crest(home)
-        away_logo = find_team_crest(away)
+        # 🖼️ Logos
+        home_logo_tag = div.select_one("div.team-first .alba-team_logo img")
+        away_logo_tag = div.select_one("div.team-second .alba-team_logo img")
+        home_logo = home_logo_tag["src"].strip() if home_logo_tag and "src" in home_logo_tag.attrs else random_logo()
+        away_logo = away_logo_tag["src"].strip() if away_logo_tag and "src" in away_logo_tag.attrs else random_logo()
 
+        # ⏰ Time conversion
         date_tag = div.select_one("div.date[data-start]")
         if date_tag and "data-start" in date_tag.attrs:
             try:
@@ -251,7 +237,6 @@ def fetch_yallashooote():
 # ---------- 4. LiveKora ----------
 def fetch_livekora():
     """Scrape livekora.vip and extract both home and away logos."""
-    load_team_data()
     url = "https://www.livekora.vip/"
     headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers, timeout=10).text
@@ -263,14 +248,19 @@ def fetch_livekora():
         slug = href.rstrip("/").split("/")[-1]
         albaplayer_url = f"https://pl.yalashoot.xyz/albaplayer/{slug}/?serv=0"
 
-        home_tag = a_tag.select_one("div.right-team .team-name")
-        away_tag = a_tag.select_one("div.left-team .team-name")
-        home = home_tag.text.strip() if home_tag else ""
-        away = away_tag.text.strip() if away_tag else ""
+        # ⚽ Team names
+        right_team_name = a_tag.select_one("div.right-team .team-name")
+        left_team_name = a_tag.select_one("div.left-team .team-name")
+        home = right_team_name.text.strip() if right_team_name else ""
+        away = left_team_name.text.strip() if left_team_name else ""
 
-        home_logo = find_team_crest(home)
-        away_logo = find_team_crest(away)
+        # 🖼️ Logos (both sides)
+        home_logo_tag = a_tag.select_one("div.right-team .team-logo img")
+        away_logo_tag = a_tag.select_one("div.left-team .team-logo img")
+        home_logo = home_logo_tag["src"].strip() if home_logo_tag and "src" in home_logo_tag.attrs else random_logo()
+        away_logo = away_logo_tag["src"].strip() if away_logo_tag and "src" in away_logo_tag.attrs else random_logo()
 
+        # ⏰ Time conversion
         time_tag = a_tag.select_one("div.match-container span.date")
         if time_tag and time_tag.has_attr("data-start"):
             try:
@@ -296,6 +286,7 @@ def fetch_livekora():
         })
 
     return matches
+
 
 
 # === Save JSONs ===
