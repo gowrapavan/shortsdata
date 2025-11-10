@@ -1,0 +1,1406 @@
+{
+    "count": 32,
+    "filters": {
+        "season": "2022"
+    },
+    "competition": {
+        "id": 2000,
+        "name": "FIFA World Cup",
+        "code": "WC",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/qatar.png"
+    },
+    "season": {
+        "id": 1382,
+        "startDate": "2022-11-21",
+        "endDate": "2022-12-18",
+        "currentMatchday": 1,
+        "winner": null,
+        "stages": [
+            "GROUP_STAGE",
+            "LAST_16",
+            "QUARTER_FINALS",
+            "SEMI_FINALS",
+            "THIRD_PLACE",
+            "FINAL"
+        ]
+    },
+    "teams": [
+        {
+            "area": {
+                "id": 2257,
+                "name": "Uruguay",
+                "code": "URY",
+                "flag": null
+            },
+            "id": 758,
+            "name": "Uruguay",
+            "shortName": "Uruguay",
+            "tla": "URU",
+            "crest": "https://crests.football-data.org/758.svg",
+            "address": "Guayaybo 1531 Montevideo 11200",
+            "website": "http://www.auf.org.uy",
+            "founded": 1900,
+            "clubColors": "Sky Blue / White / Black",
+            "venue": "Estadio Centenario",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-22T11:54:30Z"
+        },
+        {
+            "area": {
+                "id": 2088,
+                "name": "Germany",
+                "code": "DEU",
+                "flag": "https://crests.football-data.org/759.svg"
+            },
+            "id": 759,
+            "name": "Germany",
+            "shortName": "Germany",
+            "tla": "GER",
+            "crest": "https://crests.football-data.org/759.svg",
+            "address": "Otto-Fleck-Schneise 6 / Postfach 710265 Frankfurt am Main 60492",
+            "website": "http://www.dfb.de",
+            "founded": 1900,
+            "clubColors": "White / Black",
+            "venue": "RheinEnergieSTADION",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-26T09:46:39Z"
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https://crests.football-data.org/760.svg"
+            },
+            "id": 760,
+            "name": "Spain",
+            "shortName": "Spain",
+            "tla": "ESP",
+            "crest": "https://crests.football-data.org/760.svg",
+            "address": "Ramón y Cajal, s/n Las Rozas 28230",
+            "website": "http://www.rfef.es",
+            "founded": 1909,
+            "clubColors": "Red / Blue / Yellow",
+            "venue": "Estadio Alfredo Di Stéfano",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-26T09:46:48Z"
+        },
+        {
+            "area": {
+                "id": 2011,
+                "name": "Argentina",
+                "code": "ARG",
+                "flag": "https://crests.football-data.org/762.png"
+            },
+            "id": 762,
+            "name": "Argentina",
+            "shortName": "Argentina",
+            "tla": "ARG",
+            "crest": "https://crests.football-data.org/762.png",
+            "address": "Viamonte 1366/76 Buenos Aires, Buenos Aires 1053",
+            "website": "http://www.afa.org.ar",
+            "founded": 1893,
+            "clubColors": "Sky Blue / White / Black",
+            "venue": null,
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2022-05-17T21:09:25Z"
+        },
+        {
+            "area": {
+                "id": 2089,
+                "name": "Ghana",
+                "code": "GHA",
+                "flag": null
+            },
+            "id": 763,
+            "name": "Ghana",
+            "shortName": "Ghana",
+            "tla": "GHA",
+            "crest": "https://crests.football-data.org/ghana.svg",
+            "address": "South East Ridge Accra 19338",
+            "website": "http://www.ghanafa.org",
+            "founded": 1957,
+            "clubColors": "White / Black",
+            "venue": "Cape Coast Sports Stadium",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2022-04-02T10:45:00Z"
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "id": 764,
+            "name": "Brazil",
+            "shortName": "Brazil",
+            "tla": "BRA",
+            "crest": "https://crests.football-data.org/764.svg",
+            "address": "Rua Victor Civita 66 Bloco 1, Edifico 5 Rio de Janeiro, RJ 22775-044",
+            "website": "http://www.cbf.com.br/",
+            "founded": 1914,
+            "clubColors": "Yellow / Green / Blue",
+            "venue": null,
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-22T11:31:45Z"
+        },
+        {
+            "area": {
+                "id": 2187,
+                "name": "Portugal",
+                "code": "PRT",
+                "flag": "https://crests.football-data.org/765.svg"
+            },
+            "id": 765,
+            "name": "Portugal",
+            "shortName": "Portugal",
+            "tla": "POR",
+            "crest": "https://crests.football-data.org/765.svg",
+            "address": "Rua Alexandre Herculano, 58 Lisboa 1250-012",
+            "website": "http://www.fpf.pt",
+            "founded": 1914,
+            "clubColors": "Red / Green",
+            "venue": "Estádio José Alvalade",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-26T09:46:58Z"
+        },
+        {
+            "area": {
+                "id": 2116,
+                "name": "Japan",
+                "code": "JPN",
+                "flag": null
+            },
+            "id": 766,
+            "name": "Japan",
+            "shortName": "Japan",
+            "tla": "JPN",
+            "crest": "https://crests.football-data.org/766.svg",
+            "address": "JFA House Football Avenue, Bunkyo-ku Tōkyō 113-8311",
+            "website": "http://www.jfa.or.jp",
+            "founded": 1921,
+            "clubColors": "Blue / White",
+            "venue": "Stadion Galgenwaard",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2022-04-02T10:44:23Z"
+        },
+        {
+            "area": {
+                "id": 2149,
+                "name": "Mexico",
+                "code": "MEX",
+                "flag": null
+            },
+            "id": 769,
+            "name": "Mexico",
+            "shortName": "Mexico",
+            "tla": "MEX",
+            "crest": "https://crests.football-data.org/769.svg",
+            "address": "Colima #373, Colonia Roma Norte, Del. Cuauhtémoc Ciudad de México 6700",
+            "website": "http://www.femexfut.org.mx",
+            "founded": 1927,
+            "clubColors": "Green / White / Red",
+            "venue": "Levi's Stadium",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2022-04-02T10:44:07Z"
+        },
+        {
+            "area": {
+                "id": 2072,
+                "name": "England",
+                "code": "ENG",
+                "flag": "https://crests.football-data.org/770.svg"
+            },
+            "id": 770,
+            "name": "England",
+            "shortName": "England",
+            "tla": "ENG",
+            "crest": "https://crests.football-data.org/770.svg",
+            "address": "Wembley Stadium, PO Box 1966 London SW1P 9EQ",
+            "website": "http://www.thefa.com",
+            "founded": 1863,
+            "clubColors": "White / Red / Navy Blue",
+            "venue": "Wembley Stadium",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-26T09:47:50Z"
+        },
+        {
+            "area": {
+                "id": 2256,
+                "name": "United States",
+                "code": "USA",
+                "flag": null
+            },
+            "id": 771,
+            "name": "United States",
+            "shortName": "USA",
+            "tla": "USA",
+            "crest": "https://crests.football-data.org/usa.svg",
+            "address": "1801 South Prairie Ave Chicago, IL 90266",
+            "website": "http://www.ussoccer.com",
+            "founded": 1913,
+            "clubColors": "White / Navy Blue / Red",
+            "venue": "Raymond James Stadium",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2022-04-02T10:43:52Z"
+        },
+        {
+            "area": {
+                "id": 2123,
+                "name": "Korea Republic",
+                "code": "KOR",
+                "flag": null
+            },
+            "id": 772,
+            "name": "South Korea",
+            "shortName": "Korea Republic",
+            "tla": "KOR",
+            "crest": "https://crests.football-data.org/772.png",
+            "address": "1-131 Sinmunno, 2-ga Jongno-Gu Seoul 110-062",
+            "website": "http://www.kfa.or.kr",
+            "founded": 1928,
+            "clubColors": "Red / White / Blue",
+            "venue": null,
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2022-04-02T10:45:25Z"
+        },
+        {
+            "area": {
+                "id": 2081,
+                "name": "France",
+                "code": "FRA",
+                "flag": "https://crests.football-data.org/773.svg"
+            },
+            "id": 773,
+            "name": "France",
+            "shortName": "France",
+            "tla": "FRA",
+            "crest": "https://crests.football-data.org/773.svg",
+            "address": "87 Boulevard de Grenelle Paris 75738",
+            "website": "http://www.fff.fr",
+            "founded": 1919,
+            "clubColors": "Blue / White / Red",
+            "venue": "Stade de France",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-26T09:47:59Z"
+        },
+        {
+            "area": {
+                "id": 2206,
+                "name": "Serbia",
+                "code": "SER",
+                "flag": null
+            },
+            "id": 780,
+            "name": "Serbia",
+            "shortName": "Serbia",
+            "tla": "SRB",
+            "crest": "https://crests.football-data.org/780.svg",
+            "address": "Terazije 35 / CP 263 Beograd 11000",
+            "website": "http://www.fss.rs",
+            "founded": 1919,
+            "clubColors": "Red / Blue / White",
+            "venue": "Stadion Rajko Mitić",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2022-04-02T10:42:59Z"
+        },
+        {
+            "area": {
+                "id": 2039,
+                "name": "Cameroon",
+                "code": "CMR",
+                "flag": null
+            },
+            "id": 781,
+            "name": "Cameroon",
+            "shortName": "Cameroon",
+            "tla": "CMR",
+            "crest": "https://crests.football-data.org/cameroon.svg",
+            "address": "Avenue du 27 Août 1940, Tsinga Yaoundé 1116",
+            "website": "http://www.fecafoot-officiel.com",
+            "founded": 1959,
+            "clubColors": "Green / Red / Yellow",
+            "venue": null,
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2022-04-02T10:42:41Z"
+        },
+        {
+            "area": {
+                "id": 2065,
+                "name": "Denmark",
+                "code": "DNK",
+                "flag": "https://crests.football-data.org/782.svg"
+            },
+            "id": 782,
+            "name": "Denmark",
+            "shortName": "Denmark",
+            "tla": "DEN",
+            "crest": "https://crests.football-data.org/782.svg",
+            "address": "House of Football, DBU Allé 1 Brøndby 2605",
+            "website": "http://www.dbu.dk",
+            "founded": 1889,
+            "clubColors": "Red / White",
+            "venue": "Telia Parken",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-26T10:45:14Z"
+        },
+        {
+            "area": {
+                "id": 2234,
+                "name": "Switzerland",
+                "code": "CHE",
+                "flag": "https://crests.football-data.org/788.svg"
+            },
+            "id": 788,
+            "name": "Switzerland",
+            "shortName": "Switzerland",
+            "tla": "SUI",
+            "crest": "https://crests.football-data.org/788.svg",
+            "address": "Worbstrasse 48 Bern 3000",
+            "website": "http://www.football.ch",
+            "founded": 1895,
+            "clubColors": "Red / White",
+            "venue": "St. Jakob-Park",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-26T10:29:27Z"
+        },
+        {
+            "area": {
+                "id": 2253,
+                "name": "Ukraine",
+                "code": "UKR",
+                "flag": "https://crests.football-data.org/790.svg"
+            },
+            "id": 790,
+            "name": "Ukraine",
+            "shortName": "Ukraine",
+            "tla": "UKR",
+            "crest": "https://crests.football-data.org/790.svg",
+            "address": "Provulok Laboratorniy 7-A / PO Box 55 Kyïv 01133",
+            "website": "http://www.ffu.org.ua",
+            "founded": 1991,
+            "clubColors": "Yellow / Blue",
+            "venue": "NSK Olimpijs'kyj",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-06-02T14:19:45Z"
+        },
+        {
+            "area": {
+                "id": 2069,
+                "name": "Ecuador",
+                "code": "ECU",
+                "flag": null
+            },
+            "id": 791,
+            "name": "Ecuador",
+            "shortName": "Ecuador",
+            "tla": "ECU",
+            "crest": "https://crests.football-data.org/791.svg",
+            "address": "Avenida Las Aguas y Calle Alianza Guayaquil 593",
+            "website": "http://www.ecuafutbol.org",
+            "founded": 1925,
+            "clubColors": "Yellow / Blue / Red",
+            "venue": null,
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-22T11:30:19Z"
+        },
+        {
+            "area": {
+                "id": 2186,
+                "name": "Poland",
+                "code": "POL",
+                "flag": "https://crests.football-data.org/794.svg"
+            },
+            "id": 794,
+            "name": "Poland",
+            "shortName": "Poland",
+            "tla": "POL",
+            "crest": "https://crests.football-data.org/794.svg",
+            "address": "Bitwy Warszawskiej 1920 r., 7 Warszawa 02366",
+            "website": "http://www.pzpn.pl",
+            "founded": 1919,
+            "clubColors": "White / Red",
+            "venue": "Stadion Energa Gdańsk",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-26T09:49:02Z"
+        },
+        {
+            "area": {
+                "id": 2058,
+                "name": "Croatia",
+                "code": "HRV",
+                "flag": "https://crests.football-data.org/799.svg"
+            },
+            "id": 799,
+            "name": "Croatia",
+            "shortName": "Croatia",
+            "tla": "CRO",
+            "crest": "https://crests.football-data.org/799.svg",
+            "address": "Ulica grada Vukovara, 269 A Zagreb 10000",
+            "website": "http://www.hns-cff.hr",
+            "founded": 1912,
+            "clubColors": "Red / White / Blue",
+            "venue": "Stadion Maksimir",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-26T10:28:24Z"
+        },
+        {
+            "area": {
+                "id": 2203,
+                "name": "Saudi Arabia",
+                "code": "KSA",
+                "flag": null
+            },
+            "id": 801,
+            "name": "Saudi Arabia",
+            "shortName": "Saudi Arabia",
+            "tla": "KSA",
+            "crest": "https://crests.football-data.org/saudi_arabia.svg",
+            "address": "Al Mather Quarter, Prince Faisal bin Fahad Street, P.O. Box 5844 ar-Riyāḍ 11432",
+            "website": "http://www.thesaff.com.sa",
+            "founded": 1956,
+            "clubColors": "White / Green",
+            "venue": null,
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2022-04-02T10:42:19Z"
+        },
+        {
+            "area": {
+                "id": 2246,
+                "name": "Tunisia",
+                "code": "TUN",
+                "flag": null
+            },
+            "id": 802,
+            "name": "Tunisia",
+            "shortName": "Tunisia",
+            "tla": "TUN",
+            "crest": "https://crests.football-data.org/tunisia.svg",
+            "address": "Stade Annexe d'El Menzah Tunis 1003",
+            "website": "http://www.ftf.org.tn",
+            "founded": 1957,
+            "clubColors": "White / Red",
+            "venue": null,
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2022-04-02T10:41:55Z"
+        },
+        {
+            "area": {
+                "id": 2205,
+                "name": "Senegal",
+                "code": "SEN",
+                "flag": null
+            },
+            "id": 804,
+            "name": "Senegal",
+            "shortName": "Senegal",
+            "tla": "SEN",
+            "crest": "https://crests.football-data.org/senegal.svg",
+            "address": "VDN-Ouest-Foire en face du CICES, Boite postale 13021 Dakar null",
+            "website": "http://www.fsfoot.sn",
+            "founded": 1960,
+            "clubColors": "White / Green",
+            "venue": null,
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2022-04-02T10:41:30Z"
+        },
+        {
+            "area": {
+                "id": 2023,
+                "name": "Belgium",
+                "code": "BEL",
+                "flag": "https://crests.football-data.org/805.svg"
+            },
+            "id": 805,
+            "name": "Belgium",
+            "shortName": "Belgium",
+            "tla": "BEL",
+            "crest": "https://crests.football-data.org/805.svg",
+            "address": "145, avenue Houba de Strooper Brussels 1020",
+            "website": "https://www.rbfa.be",
+            "founded": 1895,
+            "clubColors": "Red / Black / Yellow",
+            "venue": "King Power at Den Dreef Stadion",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-26T10:28:44Z"
+        },
+        {
+            "area": {
+                "id": 2156,
+                "name": "Morocco",
+                "code": "MAR",
+                "flag": null
+            },
+            "id": 815,
+            "name": "Morocco",
+            "shortName": "Morocco",
+            "tla": "MAR",
+            "crest": "https://crests.football-data.org/morocco.svg",
+            "address": "51 bis, Avenue Ibn Sina Rabat 10000",
+            "website": "http://www.frmf.ma",
+            "founded": 1955,
+            "clubColors": "Red / Green",
+            "venue": null,
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2022-04-02T10:40:28Z"
+        },
+        {
+            "area": {
+                "id": 2040,
+                "name": "Canada",
+                "code": "CAN",
+                "flag": null
+            },
+            "id": 828,
+            "name": "Canada",
+            "shortName": null,
+            "tla": null,
+            "crest": "https://crests.football-data.org/canada.svg",
+            "address": "null null null",
+            "website": null,
+            "founded": null,
+            "clubColors": null,
+            "venue": null,
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2022-04-02T10:41:01Z"
+        },
+        {
+            "area": {
+                "id": 2264,
+                "name": "Wales",
+                "code": "WAL",
+                "flag": "https://crests.football-data.org/833.svg"
+            },
+            "id": 833,
+            "name": "Wales",
+            "shortName": "Wales",
+            "tla": "WAL",
+            "crest": "https://crests.football-data.org/833.svg",
+            "address": "11/12 Neptune Court, Vanguard Way Cardiff CF24 5PJ",
+            "website": "http://www.faw.org.uk",
+            "founded": 1876,
+            "clubColors": "Red / White",
+            "venue": "Cardiff City Stadium",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-28T19:08:03Z"
+        },
+        {
+            "area": {
+                "id": 2110,
+                "name": "Iran",
+                "code": "IRN",
+                "flag": null
+            },
+            "id": 840,
+            "name": "Iran",
+            "shortName": "Iran",
+            "tla": "IRN",
+            "crest": "https://crests.football-data.org/iran.svg",
+            "address": "No. 2/2 Third St. Seoul Avenue Tehrān 19958-7359",
+            "website": "http://www.ffiri.ir",
+            "founded": 1920,
+            "clubColors": "White / Green / Red",
+            "venue": null,
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2022-04-02T10:38:42Z"
+        },
+        {
+            "area": {
+                "id": 2190,
+                "name": "Qatar",
+                "code": "QAT",
+                "flag": null
+            },
+            "id": 8030,
+            "name": "Qatar",
+            "shortName": "Qatar",
+            "tla": "QAT",
+            "crest": "https://crests.football-data.org/8030.svg",
+            "address": "28th Floor, Al Bidda Tower Corniche Street, West Bay Doha P.O. Box 5",
+            "website": "http://www.qfa.com.qa",
+            "founded": 1960,
+            "clubColors": "Maroon / White",
+            "venue": null,
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-22T11:27:38Z"
+        },
+        {
+            "area": {
+                "id": 2163,
+                "name": "Netherlands",
+                "code": "NLD",
+                "flag": "https://crests.football-data.org/8601.svg"
+            },
+            "id": 8601,
+            "name": "Netherlands",
+            "shortName": "Netherlands",
+            "tla": "NED",
+            "crest": "https://crests.football-data.org/8601.svg",
+            "address": "Woudenbergseweg 56-58 / Postbus 515 Zeist 3700 AM",
+            "website": "http://www.knvb.nl",
+            "founded": 1889,
+            "clubColors": "Orange / White / Blue",
+            "venue": "Johan Cruyff ArenA",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-28T18:49:20Z"
+        },
+        {
+            "area": {
+                "id": 2204,
+                "name": "Scotland",
+                "code": "SCO",
+                "flag": "https://crests.football-data.org/814.svg"
+            },
+            "id": 8873,
+            "name": "Scotland",
+            "shortName": "Scotland",
+            "tla": "SCO",
+            "crest": "https://crests.football-data.org/814.svg",
+            "address": "Hampden Park Glasgow G42 9AY",
+            "website": "http://www.scottishfa.co.uk",
+            "founded": 1873,
+            "clubColors": "Navy Blue / White",
+            "venue": "Hampden Park",
+            "runningCompetitions": [
+                {
+                    "id": 2000,
+                    "name": "FIFA World Cup",
+                    "code": "WC",
+                    "type": "CUP",
+                    "emblem": "https://crests.football-data.org/qatar.png"
+                }
+            ],
+            "coach": {
+                "id": null,
+                "firstName": null,
+                "lastName": null,
+                "name": null,
+                "dateOfBirth": null,
+                "nationality": null,
+                "contract": {
+                    "start": null,
+                    "until": null
+                }
+            },
+            "marketValue": null,
+            "squad": [],
+            "staff": [],
+            "lastUpdated": "2021-05-28T18:49:42Z"
+        }
+    ]
+}
