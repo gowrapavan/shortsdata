@@ -190,7 +190,7 @@ def fetch_yallashooote():
         # 🧠 Handle goal-koora redirect pattern
         if "kooragol360.com" in href:
             last_part = href.rstrip("/").split("/")[-1]
-            iframe_url = f"https://goal-koora.com/live/{last_part}.php"
+            iframe_url = f"https://yallashooote.online/live/{last_part}.php"
         else:
             iframe_url = href
 
