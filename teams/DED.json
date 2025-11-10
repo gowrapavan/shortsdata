@@ -1139,7 +1139,7 @@
         "name": "Anass Salah-Eddine",
         "position": "Left-Back",
         "dateOfBirth": "2002-01-18",
-        "nationality": "Netherlands"
+        "nationality": "Morocco"
       },
       {
         "id": 130173,
@@ -1344,6 +1344,13 @@
         "position": "Midfield",
         "dateOfBirth": "1996-09-20",
         "nationality": "South Korea"
+      },
+      {
+        "id": 275067,
+        "name": "Tobias van den Elshout",
+        "position": "Midfield",
+        "dateOfBirth": "2007-02-02",
+        "nationality": "Netherlands"
       },
       {
         "id": 276431,
@@ -2071,15 +2078,15 @@
       }
     ],
     "coach": {
-      "id": 155805,
-      "firstName": "John",
-      "lastName": "Heitinga",
-      "name": "John Heitinga",
-      "dateOfBirth": "1983-11-15",
+      "id": 9592,
+      "firstName": "Fred",
+      "lastName": "Grim",
+      "name": "Fred Grim",
+      "dateOfBirth": "1965-08-17",
       "nationality": "Netherlands",
       "contract": {
-        "start": "2025-05",
-        "until": "2027-06"
+        "start": "2025-11",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -2660,6 +2667,13 @@
         "nationality": "Denmark"
       },
       {
+        "id": 246558,
+        "name": "Kasper Boogaard",
+        "position": "Midfield",
+        "dateOfBirth": "2006-01-29",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 255429,
         "name": "Matěj Šín",
         "position": "Midfield",
@@ -2692,41 +2706,6 @@
         "name": "Jasper Hartog",
         "position": "Offence",
         "dateOfBirth": "2006-03-23",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 246145,
-        "name": "Mateo Chávez",
-        "position": "Left-Back",
-        "dateOfBirth": "2004-05-12",
-        "nationality": "Mexico"
-      },
-      {
-        "id": 191223,
-        "name": "Kees Smit",
-        "position": "Central Midfield",
-        "dateOfBirth": "2006-01-21",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 188075,
-        "name": "Dave Kwakman",
-        "position": "Central Midfield",
-        "dateOfBirth": "2004-08-07",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 176746,
-        "name": "Mexx Meerdink",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2003-07-24",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 175823,
-        "name": "Wouter Goes",
-        "position": "Centre-Back",
-        "dateOfBirth": "2004-06-10",
         "nationality": "Netherlands"
       },
       {
@@ -2804,6 +2783,41 @@
         "name": "Jordy Clasie",
         "position": "Defensive Midfield",
         "dateOfBirth": "1991-06-27",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 246145,
+        "name": "Mateo Chávez",
+        "position": "Left-Back",
+        "dateOfBirth": "2004-05-12",
+        "nationality": "Mexico"
+      },
+      {
+        "id": 191223,
+        "name": "Kees Smit",
+        "position": "Central Midfield",
+        "dateOfBirth": "2006-01-21",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 188075,
+        "name": "Dave Kwakman",
+        "position": "Central Midfield",
+        "dateOfBirth": "2004-08-07",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 176746,
+        "name": "Mexx Meerdink",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2003-07-24",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 175823,
+        "name": "Wouter Goes",
+        "position": "Centre-Back",
+        "dateOfBirth": "2004-06-10",
         "nationality": "Netherlands"
       }
     ],
@@ -2955,6 +2969,13 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 288925,
+        "name": "Corean Drost",
+        "position": "Midfield",
+        "dateOfBirth": null,
+        "nationality": "Netherlands"
+      },
+      {
         "id": 188411,
         "name": "David Voute",
         "position": "Offence",
@@ -3050,13 +3071,6 @@
         "name": "Odysseus Velanas",
         "position": "Attacking Midfield",
         "dateOfBirth": "1998-06-05",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 288925,
-        "name": "Corean Drost",
-        "position": null,
-        "dateOfBirth": null,
         "nationality": "Netherlands"
       },
       {

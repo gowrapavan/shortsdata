@@ -67,6 +67,13 @@
         "nationality": "England"
       },
       {
+        "id": 270668,
+        "name": "Aleksei Fedorushchenko",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2005-09-28",
+        "nationality": "Russia"
+      },
+      {
         "id": 285128,
         "name": "Max Dowman",
         "position": "Midfield",
@@ -1936,6 +1943,13 @@
         "nationality": "Paraguay"
       },
       {
+        "id": 271941,
+        "name": "Jack Fletcher",
+        "position": "Midfield",
+        "dateOfBirth": "2007-03-19",
+        "nationality": "England"
+      },
+      {
         "id": 275522,
         "name": "Chido Obi-Martin",
         "position": "Offence",
@@ -2772,6 +2786,13 @@
         "nationality": "England"
       },
       {
+        "id": 274808,
+        "name": "Rio Kyerematen",
+        "position": "Midfield",
+        "dateOfBirth": "2005-06-09",
+        "nationality": "England"
+      },
+      {
         "id": 272687,
         "name": "Luca Williams-Barnett",
         "position": "Offence",
@@ -2784,6 +2805,20 @@
         "position": "Offence",
         "dateOfBirth": "2008-04-17",
         "nationality": "England"
+      },
+      {
+        "id": 289075,
+        "name": "Yusuf Akhamrich",
+        "position": "Offence",
+        "dateOfBirth": "2005-09-05",
+        "nationality": "England"
+      },
+      {
+        "id": 140432,
+        "name": "Radu Drăgușin",
+        "position": "Centre-Back",
+        "dateOfBirth": "2002-02-03",
+        "nationality": "Romania"
       },
       {
         "id": 131177,
@@ -2952,13 +2987,6 @@
         "position": "Attacking Midfield",
         "dateOfBirth": "2003-04-21",
         "nationality": "Netherlands"
-      },
-      {
-        "id": 140432,
-        "name": "Radu Drăgușin",
-        "position": "Centre-Back",
-        "dateOfBirth": "2002-02-03",
-        "nationality": "Romania"
       }
     ],
     "staff": [],
@@ -2991,15 +3019,15 @@
       }
     ],
     "coach": {
-      "id": 21714,
-      "firstName": "",
-      "lastName": "Vítor Pereira",
-      "name": "Vítor Pereira",
-      "dateOfBirth": "1968-07-26",
-      "nationality": "Portugal",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-12",
-        "until": "2028-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -3812,6 +3840,34 @@
         "nationality": "Brazil"
       },
       {
+        "id": 289124,
+        "name": "Jack Thompson",
+        "position": "Defence",
+        "dateOfBirth": "2005-05-05",
+        "nationality": "England"
+      },
+      {
+        "id": 289125,
+        "name": "Ben Hammond",
+        "position": "Defence",
+        "dateOfBirth": "2004-10-02",
+        "nationality": "Wales"
+      },
+      {
+        "id": 289122,
+        "name": "Jimmy Sinclair",
+        "position": "Midfield",
+        "dateOfBirth": "2006-08-11",
+        "nationality": "England"
+      },
+      {
+        "id": 289123,
+        "name": "Archie Whitehall",
+        "position": "Midfield",
+        "dateOfBirth": "2006-05-21",
+        "nationality": "England"
+      },
+      {
         "id": 256339,
         "name": "Igor Jesus",
         "position": "Offence",
@@ -3824,69 +3880,6 @@
         "position": "Offence",
         "dateOfBirth": "2007-11-13",
         "nationality": "England"
-      },
-      {
-        "id": 204483,
-        "name": "Zach Abbott",
-        "position": "Centre-Back",
-        "dateOfBirth": "2006-05-13",
-        "nationality": "England"
-      },
-      {
-        "id": 192637,
-        "name": "Murillo",
-        "position": "Centre-Back",
-        "dateOfBirth": "2002-07-04",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 191730,
-        "name": "Nicolò Savona",
-        "position": "Right-Back",
-        "dateOfBirth": "2003-03-19",
-        "nationality": "Italy"
-      },
-      {
-        "id": 177477,
-        "name": "Omari Hutchinson",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2003-10-29",
-        "nationality": "England"
-      },
-      {
-        "id": 172956,
-        "name": "James McAtee",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2002-10-18",
-        "nationality": "England"
-      },
-      {
-        "id": 151295,
-        "name": "Dilane Bakwa",
-        "position": "Right Winger",
-        "dateOfBirth": "2002-08-26",
-        "nationality": "France"
-      },
-      {
-        "id": 133765,
-        "name": "Neco Williams",
-        "position": "Right-Back",
-        "dateOfBirth": "2001-04-13",
-        "nationality": "Wales"
-      },
-      {
-        "id": 130668,
-        "name": "Arnaud Kalimuendo",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2002-01-20",
-        "nationality": "France"
-      },
-      {
-        "id": 119596,
-        "name": "Morato",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-06-30",
-        "nationality": "Brazil"
       },
       {
         "id": 107330,
@@ -3985,6 +3978,69 @@
         "position": "Centre-Back",
         "dateOfBirth": "1997-10-12",
         "nationality": "Serbia"
+      },
+      {
+        "id": 204483,
+        "name": "Zach Abbott",
+        "position": "Centre-Back",
+        "dateOfBirth": "2006-05-13",
+        "nationality": "England"
+      },
+      {
+        "id": 192637,
+        "name": "Murillo",
+        "position": "Centre-Back",
+        "dateOfBirth": "2002-07-04",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 191730,
+        "name": "Nicolò Savona",
+        "position": "Right-Back",
+        "dateOfBirth": "2003-03-19",
+        "nationality": "Italy"
+      },
+      {
+        "id": 177477,
+        "name": "Omari Hutchinson",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2003-10-29",
+        "nationality": "England"
+      },
+      {
+        "id": 172956,
+        "name": "James McAtee",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2002-10-18",
+        "nationality": "England"
+      },
+      {
+        "id": 151295,
+        "name": "Dilane Bakwa",
+        "position": "Right Winger",
+        "dateOfBirth": "2002-08-26",
+        "nationality": "France"
+      },
+      {
+        "id": 133765,
+        "name": "Neco Williams",
+        "position": "Right-Back",
+        "dateOfBirth": "2001-04-13",
+        "nationality": "Wales"
+      },
+      {
+        "id": 130668,
+        "name": "Arnaud Kalimuendo",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2002-01-20",
+        "nationality": "France"
+      },
+      {
+        "id": 119596,
+        "name": "Morato",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-06-30",
+        "nationality": "Brazil"
       }
     ],
     "staff": [],
@@ -4836,6 +4892,20 @@
         "position": "Defence",
         "dateOfBirth": "2004-12-28",
         "nationality": "Senegal"
+      },
+      {
+        "id": 273157,
+        "name": "Ezra Mayers",
+        "position": "Defence",
+        "dateOfBirth": "2007-01-16",
+        "nationality": "England"
+      },
+      {
+        "id": 289166,
+        "name": "Airidas Golambeckis",
+        "position": "Defence",
+        "dateOfBirth": "2007-11-04",
+        "nationality": "Lithuania"
       },
       {
         "id": 219676,

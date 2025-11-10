@@ -125,7 +125,7 @@
       {
         "id": 289016,
         "name": "Alex Castiello",
-        "position": null,
+        "position": "Offence",
         "dateOfBirth": "2007-02-13",
         "nationality": "Italy"
       },
@@ -279,15 +279,15 @@
       }
     ],
     "coach": {
-      "id": 10998,
-      "firstName": "Stefano",
-      "lastName": "Pioli",
-      "name": "Stefano Pioli",
-      "dateOfBirth": "1965-10-20",
+      "id": 178133,
+      "firstName": "Paolo",
+      "lastName": "Vanoli",
+      "name": "Paolo Vanoli",
+      "dateOfBirth": "1972-08-12",
       "nationality": "Italy",
       "contract": {
-        "start": "2025-07",
-        "until": "2028-06"
+        "start": "2025-11",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -353,6 +353,13 @@
         "position": "Offence",
         "dateOfBirth": "2006-08-24",
         "nationality": "Italy"
+      },
+      {
+        "id": 98606,
+        "name": "Simon Sohm",
+        "position": "Central Midfield",
+        "dateOfBirth": "2001-04-11",
+        "nationality": "Switzerland"
       },
       {
         "id": 97894,
@@ -500,13 +507,6 @@
         "position": "Centre-Forward",
         "dateOfBirth": "2001-01-27",
         "nationality": "Italy"
-      },
-      {
-        "id": 98606,
-        "name": "Simon Sohm",
-        "position": "Central Midfield",
-        "dateOfBirth": "2001-04-11",
-        "nationality": "Switzerland"
       }
     ],
     "staff": [],
@@ -1593,15 +1593,15 @@
       }
     ],
     "coach": {
-      "id": 208589,
-      "firstName": "Roberto",
-      "lastName": "Murgita",
-      "name": "Roberto Murgita",
-      "dateOfBirth": "1968-11-11",
+      "id": 1810,
+      "firstName": "Daniele",
+      "lastName": "De Rossi",
+      "name": "Daniele De Rossi",
+      "dateOfBirth": "1983-07-24",
       "nationality": "Italy",
       "contract": {
         "start": "2025-11",
-        "until": "2025-11"
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -2807,6 +2807,20 @@
         "nationality": "Italy"
       },
       {
+        "id": 289179,
+        "name": "Abdou-Salam Konate",
+        "position": "Midfield",
+        "dateOfBirth": "2006-11-25",
+        "nationality": "Senegal"
+      },
+      {
+        "id": 289183,
+        "name": "Edoardo Tigani",
+        "position": "Midfield",
+        "dateOfBirth": "2006-07-06",
+        "nationality": "Italy"
+      },
+      {
         "id": 184455,
         "name": "Matija Frigan",
         "position": "Offence",
@@ -2819,6 +2833,13 @@
         "position": "Offence",
         "dateOfBirth": "2006-03-02",
         "nationality": "Italy"
+      },
+      {
+        "id": 176730,
+        "name": "Alessandro Circati",
+        "position": "Centre-Back",
+        "dateOfBirth": "2003-10-10",
+        "nationality": "Australia"
       },
       {
         "id": 171586,
@@ -2931,13 +2952,6 @@
         "position": "Left Winger",
         "dateOfBirth": "2003-06-30",
         "nationality": "Slovenia"
-      },
-      {
-        "id": 176730,
-        "name": "Alessandro Circati",
-        "position": "Centre-Back",
-        "dateOfBirth": "2003-10-10",
-        "nationality": "Australia"
       }
     ],
     "staff": [],
