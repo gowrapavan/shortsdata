@@ -51,7 +51,6 @@ TEAM_SOURCES = {
     "FRL1": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/FRL1.json",
     "ITSA": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/ITSA.json",
     "DED": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DED.json",
-    "WC": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/WC.json",
     "DEB": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DEB.json",
 }
 
@@ -86,51 +85,37 @@ def find_team_crest(team_name):
 def fetch_sportzonline():
     load_team_data()
     url = "https://sportsonline.pk/prog.txt"
-    try:
-        text = requests.get(url, timeout=10).text
-    except Exception as e:
-        print(f"⚠️ Error fetching sportsonline source: {e}")
-        return []
+    text = requests.get(url, timeout=10).text
 
     today = datetime.now(IST).strftime("%A").upper()
     pattern = rf"{today}\n(.*?)(?=\n[A-Z]+\n|$)"
     m = re.search(pattern, text, re.S)
     if not m:
-        print("⚠️ No data block found for today in sportsonline")
         return []
 
     block = m.group(1)
     matches = []
 
     for line in block.splitlines():
-        # Example line: 20:30 Team A x Team B | http://link
-        m = re.match(r"(\d{2}:\d{2})\s+(.+?)\s+x\s+(.+?)\s*\|\s*(http.+)", line)
-        if not m:
-            continue
-
-        time_str, home, away, link = m.groups()
-        try:
+        m = re.match(r"(\d{2}:\d{2})\s+(.+?)\s+x\s+(.+?) \| (http.+)", line)
+        if m:
+            time_str, home, away, url = m.groups()
             time_ist = convert_time(time_str, GMT)
-        except Exception:
-            time_ist = ""
+            home_logo = find_team_crest(home.strip())
+            away_logo = find_team_crest(away.strip())
 
-        home_logo = find_team_crest(home.strip())
-        away_logo = find_team_crest(away.strip())
-
-        matches.append({
-            "time": time_ist,
-            "game": "football",
-            "league": "",
-            "home_team": home.strip(),
-            "away_team": away.strip(),
-            "label": short_label(home, away),
-            "home_logo": home_logo or random_logo(),
-            "away_logo": away_logo or random_logo(),
-            "url": link.strip()
-        })
-
+            matches.append({
+                "time": time_ist,
+                "game": "football",
+                "league": "",
+                "home_team": home.strip(),
+                "away_team": away.strip(),
+                "label": short_label(home, away),
+                "home_logo": home_logo,
+                "away_logo": away_logo,
+                "url": url.strip()
+            })
     return matches
-
 
 
 # ---------- 2. Hesgoal ----------
