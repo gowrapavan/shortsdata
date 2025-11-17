@@ -300,15 +300,15 @@
       }
     ],
     "coach": {
-      "id": 147727,
-      "firstName": "Liam",
-      "lastName": "Manning",
-      "name": "Liam Manning",
-      "dateOfBirth": "1985-08-20",
+      "id": 249643,
+      "firstName": "Ryan",
+      "lastName": "Garry",
+      "name": "Ryan Garry",
+      "dateOfBirth": "1983-09-29",
       "nationality": "England",
       "contract": {
-        "start": "2025-07",
-        "until": "2026-06"
+        "start": "2025-11",
+        "until": "2025-11"
       }
     },
     "squad": [
@@ -1788,13 +1788,6 @@
         "nationality": "England"
       },
       {
-        "id": 282509,
-        "name": "Pharrell Brown",
-        "position": "Midfield",
-        "dateOfBirth": "2005-08-30",
-        "nationality": "England"
-      },
-      {
         "id": 285165,
         "name": "Aidon Shehu",
         "position": "Midfield",
@@ -1827,13 +1820,6 @@
         "name": "Joel Ndala",
         "position": "Offence",
         "dateOfBirth": "2006-05-31",
-        "nationality": "England"
-      },
-      {
-        "id": 131126,
-        "name": "Brandon Williams",
-        "position": "Left-Back",
-        "dateOfBirth": "2000-09-03",
         "nationality": "England"
       },
       {
@@ -1939,6 +1925,13 @@
         "name": "Cody Drameh",
         "position": "Right-Back",
         "dateOfBirth": "2001-12-08",
+        "nationality": "England"
+      },
+      {
+        "id": 131126,
+        "name": "Brandon Williams",
+        "position": "Left-Back",
+        "dateOfBirth": "2000-09-03",
         "nationality": "England"
       }
     ],
@@ -2355,6 +2348,13 @@
         "position": "Defence",
         "dateOfBirth": "2000-06-14",
         "nationality": "Austria"
+      },
+      {
+        "id": 274119,
+        "name": "Byron Pendleton",
+        "position": "Defence",
+        "dateOfBirth": "2005-12-15",
+        "nationality": "England"
       },
       {
         "id": 4031,
@@ -2940,6 +2940,13 @@
         "nationality": "Scotland"
       },
       {
+        "id": 8091,
+        "name": "Oriol Romeu",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "1991-09-24",
+        "nationality": "Spain"
+      },
+      {
         "id": 8085,
         "name": "Jack Stephens",
         "position": "Centre-Back",
@@ -3335,15 +3342,15 @@
       }
     ],
     "coach": {
-      "id": 46697,
-      "firstName": "Rob",
-      "lastName": "Edwards",
-      "name": "Rob Edwards",
-      "dateOfBirth": "1982-12-25",
-      "nationality": "Wales",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-07",
-        "until": "2028-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -3620,13 +3627,6 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2005-07-21",
         "nationality": "Northern Ireland"
-      },
-      {
-        "id": 272231,
-        "name": "Killian Barrett",
-        "position": "Goalkeeper",
-        "dateOfBirth": null,
-        "nationality": "Ireland"
       },
       {
         "id": 282801,
@@ -3952,13 +3952,6 @@
         "nationality": "England"
       },
       {
-        "id": 251115,
-        "name": "Leo Ramirez-Espain",
-        "position": "Midfield",
-        "dateOfBirth": "2006-10-02",
-        "nationality": "England"
-      },
-      {
         "id": 277905,
         "name": "Amar Sanghrajka",
         "position": "Midfield",
@@ -3999,13 +3992,6 @@
         "position": "Offence",
         "dateOfBirth": "2005-01-28",
         "nationality": "Portugal"
-      },
-      {
-        "id": 156630,
-        "name": "Formose Mendy",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-01-02",
-        "nationality": "Senegal"
       },
       {
         "id": 137657,
@@ -4125,6 +4111,13 @@
         "position": "Centre-Back",
         "dateOfBirth": "2004-01-26",
         "nationality": "Cameroon"
+      },
+      {
+        "id": 156630,
+        "name": "Formose Mendy",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-01-02",
+        "nationality": "Senegal"
       }
     ],
     "staff": [],
@@ -4816,13 +4809,6 @@
         "nationality": "Nigeria"
       },
       {
-        "id": 151693,
-        "name": "Mark McGuinness",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-01-05",
-        "nationality": "Ireland"
-      },
-      {
         "id": 131037,
         "name": "Japhet Tanganga",
         "position": "Centre-Back",
@@ -4914,6 +4900,13 @@
         "nationality": "Ireland"
       },
       {
+        "id": 4223,
+        "name": "Patrick Bamford",
+        "position": "Centre-Forward",
+        "dateOfBirth": "1993-09-05",
+        "nationality": "England"
+      },
+      {
         "id": 3914,
         "name": "Callum O'Hare",
         "position": "Attacking Midfield",
@@ -4968,6 +4961,13 @@
         "position": "Centre-Back",
         "dateOfBirth": "1989-09-21",
         "nationality": "England"
+      },
+      {
+        "id": 151693,
+        "name": "Mark McGuinness",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-01-05",
+        "nationality": "Ireland"
       }
     ],
     "staff": [],

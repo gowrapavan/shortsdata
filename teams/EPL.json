@@ -587,13 +587,6 @@
         "nationality": "England"
       },
       {
-        "id": 246743,
-        "name": "Ted Curd",
-        "position": "Goalkeeper",
-        "dateOfBirth": "2006-02-14",
-        "nationality": "England"
-      },
-      {
         "id": 277888,
         "name": "Landon Emenalo",
         "position": "Defence",
@@ -627,13 +620,6 @@
         "position": "Offence",
         "dateOfBirth": "2009-01-01",
         "nationality": "England"
-      },
-      {
-        "id": 166366,
-        "name": "Andrey Santos",
-        "position": "Central Midfield",
-        "dateOfBirth": "2004-05-03",
-        "nationality": "Brazil"
       },
       {
         "id": 165314,
@@ -823,6 +809,13 @@
         "position": "Centre-Back",
         "dateOfBirth": "2001-03-26",
         "nationality": "France"
+      },
+      {
+        "id": 166366,
+        "name": "Andrey Santos",
+        "position": "Central Midfield",
+        "dateOfBirth": "2004-05-03",
+        "nationality": "Brazil"
       }
     ],
     "staff": [],
@@ -3019,15 +3012,15 @@
       }
     ],
     "coach": {
-      "id": null,
-      "firstName": null,
-      "lastName": null,
-      "name": null,
-      "dateOfBirth": null,
-      "nationality": null,
+      "id": 46697,
+      "firstName": "Rob",
+      "lastName": "Edwards",
+      "name": "Rob Edwards",
+      "dateOfBirth": "1982-12-25",
+      "nationality": "Wales",
       "contract": {
-        "start": null,
-        "until": null
+        "start": "2025-11",
+        "until": "2029-06"
       }
     },
     "squad": [

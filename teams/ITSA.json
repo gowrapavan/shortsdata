@@ -820,14 +820,14 @@
       }
     ],
     "coach": {
-      "id": 11034,
-      "firstName": "Ivan",
-      "lastName": "Jurić",
-      "name": "Ivan Juric",
-      "dateOfBirth": "1975-08-25",
-      "nationality": "Croatia",
+      "id": 2854,
+      "firstName": "Raffaele",
+      "lastName": "Palladino",
+      "name": "Raffaele Palladino",
+      "dateOfBirth": "1984-04-17",
+      "nationality": "Italy",
       "contract": {
-        "start": "2025-06",
+        "start": "2025-11",
         "until": "2027-06"
       }
     },
@@ -1632,6 +1632,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2007-03-09",
         "nationality": "Lithuania"
+      },
+      {
+        "id": 252927,
+        "name": "Alin Kumer",
+        "position": "Defence",
+        "dateOfBirth": "2007-02-22",
+        "nationality": "Slovenia"
       },
       {
         "id": 9353,
