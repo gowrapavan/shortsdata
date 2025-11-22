@@ -171,42 +171,89 @@ def fetch_hesgoal():
             "url": yalla_url
         })
     return matches
-
 def fetch_yallashooote():
-    """Scrape yallashooote.online and convert short /beinX links to iframe URLs."""
+    """Scrape YallaShooote with full internal/external link resolving."""
+
+    BASE_NEW = "https://goal-koora.com"
+    BASE_NEW_LIVE = "https://goal-koora.com/live/"
+
     url = "https://yallashooote.online/"
     headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers, timeout=10).text
     soup = BeautifulSoup(html, "html.parser")
 
     matches = []
+
     for div in soup.select("div.m_block.alba_sports_events-event_item"):
+
+        # -----------------------------------------------
+        # 1️⃣ Extract match link (href)
+        # -----------------------------------------------
         link_tag = div.select_one("a.alba_sports_events_link")
         if not link_tag or "href" not in link_tag.attrs:
             continue
 
-        href = link_tag["href"].strip()
+        raw_href = link_tag["href"].strip()
 
-        # ✅ Fix: turn /beinX → full iframe URL
-        if href.startswith("/"):
-            slug = href.lstrip("/")
-            iframe_url = f"https://yallashooote.online/live/{slug}.php"
+        # -----------------------------------------------
+        # 2️⃣ INTERNAL LINK ( /bein1 , /hd2 etc.)
+        # -----------------------------------------------
+        if raw_href.startswith("/"):
+
+            slug = raw_href.lstrip("/")  # remove leading /
+            # build final URL (using goal-koora)
+            iframe_url = f"{BASE_NEW_LIVE}{slug}.php"
+
+        # -----------------------------------------------
+        # 3️⃣ EXTERNAL LINK → Fetch & extract iframe
+        # -----------------------------------------------
         else:
-            iframe_url = href
+            iframe_url = None
 
-        # ⚽ Team names
+            try:
+                ext_html = requests.get(raw_href, headers=headers, timeout=10).text
+                ext_soup = BeautifulSoup(ext_html, "html.parser")
+
+                # The iframe is inside <div id='post_middle'>
+                iframe_tag = ext_soup.select_one("#post_middle iframe")
+                if iframe_tag and "src" in iframe_tag.attrs:
+                    extracted_src = iframe_tag["src"].strip()
+
+                    # ALWAYS replace yallashooote domain inside iframe src
+                    extracted_src = extracted_src.replace("https://yallashooote.online", BASE_NEW)
+                    extracted_src = extracted_src.replace("https://yallashooote.online/live", BASE_NEW_LIVE)
+
+                    # Always convert base domain to goal-koora
+                    # Example: https://goal-koora.com/live/bein1.php
+                    iframe_url = extracted_src
+
+            except Exception as e:
+                print("⚠️ External link fetch failed:", raw_href, e)
+
+            if not iframe_url:
+                # fallback → keep raw external link
+                iframe_url = raw_href
+
+        # ------------------------------------------------
+        # 4️⃣ Extract TEAMS
+        # ------------------------------------------------
         home_tag = div.select_one("div.team-first .alba_sports_events-team_title, div.team-first .h2.alba_sports_events-team_title")
         away_tag = div.select_one("div.team-second .alba_sports_events-team_title, div.team-second .h2.alba_sports_events-team_title")
         home = home_tag.text.strip() if home_tag else ""
         away = away_tag.text.strip() if away_tag else ""
 
-        # 🖼️ Logos
+        # ------------------------------------------------
+        # 5️⃣ Extract LOGOS
+        # ------------------------------------------------
         home_logo_tag = div.select_one("div.team-first .alba-team_logo img")
         away_logo_tag = div.select_one("div.team-second .alba-team_logo img")
+
         home_logo = home_logo_tag["src"].strip() if home_logo_tag and "src" in home_logo_tag.attrs else random_logo()
         away_logo = away_logo_tag["src"].strip() if away_logo_tag and "src" in away_logo_tag.attrs else random_logo()
 
-        # ⏰ Time conversion
+        # ------------------------------------------------
+        # 6️⃣ Extract & convert TIME → IST
+        # ------------------------------------------------
         date_tag = div.select_one("div.date[data-start]")
         if date_tag and "data-start" in date_tag.attrs:
             try:
@@ -219,16 +266,19 @@ def fetch_yallashooote():
         else:
             time_ist = ""
 
+        # ------------------------------------------------
+        # 7️⃣ Append match object
+        # ------------------------------------------------
         matches.append({
             "time": time_ist,
             "game": "football",
             "league": "",
             "home_team": home,
             "away_team": away,
-            "label": short_label(home, away) if home and away else "yalla-stream",
+            "label": short_label(home, away) if home and away else "yalla",
             "home_logo": home_logo,
             "away_logo": away_logo,
-            "url": iframe_url
+            "url": iframe_url  # FINAL FIXED STREAM URL
         })
 
     return matches
