@@ -1,4 +1,4 @@
-name: Fetch Matches 
+name: Fetch Stream Sources 
 
 on:
   push:
@@ -13,9 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout repo
+      # 1. Checkout repo with full history
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # IMPORTANT
 
       # 2. Setup Python
       - name: Set up Python
@@ -37,17 +39,27 @@ jobs:
       - name: List JSON files
         run: ls -l json/
 
-      # 6. Commit & Push updated JSON files
+      # 6. Commit & Push updated JSON files safely
       - name: Commit & Push JSONs
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git checkout main
-          git pull --rebase origin main || echo "No remote changes"
-          git add -f json/*.json
+
+          # Stage changes
+          git add -A
+
+          # If no changes, exit
           if git diff --cached --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "Update match JSONs"
-            git push origin main
+            exit 0
           fi
+
+          # Commit
+          git commit -m "Update match JSONs"
+
+          # Fix conflicts: stash, autostash, rebase pull
+          git stash push --include-untracked || true
+          git pull --rebase --autostash origin main || true
+
+          # Push safely (force-with-lease)
+          git push --force-with-lease origin main
