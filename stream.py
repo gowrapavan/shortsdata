@@ -120,7 +120,8 @@ def fetch_sportzonline():
     return matches
 
 
-# ---------- 2. Hesgoal ----------def fetch_hesgoal():
+# ---------- 2. Hesgoal ----------
+def fetch_hesgoal():
     load_team_data()
     url = "https://hesgoal.im/today-matches/"
     headers = {"User-Agent": "Mozilla/5.0"}
