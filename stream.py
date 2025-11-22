@@ -7,6 +7,8 @@ from datetime import datetime
 import pytz
 import random
 import os
+from urllib.parse import urlparse, parse_qs
+
 
 # === Random logo placeholders ===
 LOGOS = [
@@ -132,33 +134,93 @@ def fetch_hesgoal():
         teams = event.select("div.EventTeamName")
         if len(teams) < 2:
             continue
+
+        # Teams
         home = teams[1].text.strip()
         away = teams[0].text.strip()
 
+        # League
         league_tag = event.select_one("ul.EventFooter li:nth-child(3)")
         league = league_tag.text.strip() if league_tag else ""
 
+        # Link
         link_tag = event.select_one("a#EventLink")
         if not link_tag or "href" not in link_tag.attrs:
             continue
-        href = link_tag["href"].strip()
-        slug = href.rstrip("/").split("/")[-1]
-        yalla_url = f"https://yallashoot.mobi/albaplayer/{slug}/"
 
+        event_link = link_tag["href"].strip()
+
+        # Time
         date_tag = event.select_one("span.EventDate")
         if date_tag and "data-start" in date_tag.attrs:
-            dt_str = date_tag["data-start"].strip()
-            dt = datetime.fromisoformat(dt_str)
+            dt = datetime.fromisoformat(date_tag["data-start"].strip())
             dt_ist = dt.astimezone(IST)
             time_ist = dt_ist.strftime("%Y-%m-%d %H:%M IST")
         else:
             time_ist = ""
 
-        # 🆕 Try to extract logos
+        # Logos
         imgs = event.select("img")
         home_logo = imgs[1]["data-img"] if len(imgs) > 1 and imgs[1].has_attr("data-img") else find_team_crest(home)
         away_logo = imgs[0]["data-img"] if imgs and imgs[0].has_attr("data-img") else find_team_crest(away)
 
+        # --------------------------
+        # CHECK IF EXTERNAL PAGE
+        # --------------------------
+        parsed = urlparse(event_link)
+        is_external = parsed.netloc not in ("hesgoal.im", "www.hesgoal.im")
+
+        servers = []
+        final_url = ""
+
+        # --------------------------
+        # 🌐 EXTERNAL LINK
+        # --------------------------
+        if is_external:
+            try:
+                ext_html = requests.get(event_link, headers=headers, timeout=10).text
+                ext_soup = BeautifulSoup(ext_html, "html.parser")
+
+                # MAIN iframe
+                iframe = ext_soup.select_one("iframe")
+                if iframe and iframe.has_attr("src"):
+                    raw = iframe["src"]
+                    p = urlparse(raw)
+                    qs = parse_qs(p.query)
+                    final_url = qs.get("src", [""])[0] or raw
+
+                # SERVER LINKS: ONLY <a target="search_iframe">
+                for a in ext_soup.select('a[target="search_iframe"]'):
+                    if not a.has_attr("href"):
+                        continue
+
+                    name = a.text.strip() or "Server"
+                    href = a["href"]
+
+                    # Clean ?src=
+                    p = urlparse(href)
+                    qs = parse_qs(p.query)
+                    clean = qs.get("src", [""])[0] or href
+
+                    if clean.startswith("http"):
+                        servers.append({
+                            "name": name,
+                            "url": clean
+                        })
+
+            except Exception as e:
+                print("⚠️ External match parse failed:", e)
+
+        # --------------------------
+        # 🟩 INTERNAL (normal Hesgoal)
+        # --------------------------
+        else:
+            slug = event_link.rstrip("/").split("/")[-1]
+            final_url = f"https://yallashoot.mobi/albaplayer/{slug}/"
+
+        # --------------------------
+        # FINAL MATCH OBJECT
+        # --------------------------
         matches.append({
             "time": time_ist,
             "game": "football",
@@ -168,9 +230,13 @@ def fetch_hesgoal():
             "label": short_label(home, away),
             "home_logo": home_logo or random_logo(),
             "away_logo": away_logo or random_logo(),
-            "url": yalla_url
+            "url": final_url,
+            "servers": servers     # only valid servers now
         })
+
     return matches
+    
+# ---------- 3. Yallashooote ----------
 def fetch_yallashooote():
     """Scrape YallaShooote with full internal/external link resolving."""
 
