@@ -2864,8 +2864,8 @@
     "AwayTeamName": "Le Havre AC",
     "HomeTeamLogo": "https://crests.football-data.org/524.png",
     "AwayTeamLogo": "https://crests.football-data.org/533.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "524": 0,
@@ -2931,7 +2931,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T18:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 529,
@@ -2942,11 +2942,11 @@
     "AwayTeamName": "AS Monaco FC",
     "HomeTeamLogo": "https://crests.football-data.org/529.png",
     "AwayTeamLogo": "https://crests.football-data.org/548.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 5,
+    "AwayTeamScore": 1,
+    "Result": 529,
     "Points": {
-      "529": 0,
+      "529": 3,
       "548": 0
     },
     "Goals": []
