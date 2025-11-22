@@ -120,8 +120,7 @@ def fetch_sportzonline():
     return matches
 
 
-# ---------- 2. Hesgoal ----------
-def fetch_hesgoal():
+# ---------- 2. Hesgoal ----------def fetch_hesgoal():
     load_team_data()
     url = "https://hesgoal.im/today-matches/"
     headers = {"User-Agent": "Mozilla/5.0"}
@@ -145,10 +144,25 @@ def fetch_hesgoal():
 
         # Link
         link_tag = event.select_one("a#EventLink")
-        if not link_tag or "href" not in link_tag.attrs:
-            continue
+        raw_link = ""
+        if link_tag and "href" in link_tag.attrs:
+            raw_link = link_tag["href"].strip()
 
-        event_link = link_tag["href"].strip()
+        # --------------------------
+        # 🔥 FIX: GENERATE URL IF href="#" OR EMPTY
+        # --------------------------
+       # --------------------------
+        # 🔥 FIX: GENERATE URL IF href="#" OR EMPTY
+        # --------------------------
+        if raw_link in ("", "#"):
+            # Hesgoal format is ALWAYS: away-vs-home
+            away_slug = away.lower().replace(" ", "-")
+            home_slug = home.lower().replace(" ", "-")
+            slug = f"{away_slug}-vs-{home_slug}"
+            raw_link = f"https://hesgoal.im/{slug}"
+
+
+        event_link = raw_link
 
         # Time
         date_tag = event.select_one("span.EventDate")
@@ -174,7 +188,7 @@ def fetch_hesgoal():
         final_url = ""
 
         # --------------------------
-        # 🌐 EXTERNAL LINK
+        # 🌐 EXTERNAL PAGE
         # --------------------------
         if is_external:
             try:
@@ -189,7 +203,7 @@ def fetch_hesgoal():
                     qs = parse_qs(p.query)
                     final_url = qs.get("src", [""])[0] or raw
 
-                # SERVER LINKS: ONLY <a target="search_iframe">
+                # ONLY <a target="search_iframe">
                 for a in ext_soup.select('a[target="search_iframe"]'):
                     if not a.has_attr("href"):
                         continue
@@ -197,7 +211,6 @@ def fetch_hesgoal():
                     name = a.text.strip() or "Server"
                     href = a["href"]
 
-                    # Clean ?src=
                     p = urlparse(href)
                     qs = parse_qs(p.query)
                     clean = qs.get("src", [""])[0] or href
@@ -211,15 +224,13 @@ def fetch_hesgoal():
             except Exception as e:
                 print("⚠️ External match parse failed:", e)
 
-        # --------------------------
-        # 🟩 INTERNAL (normal Hesgoal)
-        # --------------------------
         else:
+            # INTERNAL normal Hesgoal
             slug = event_link.rstrip("/").split("/")[-1]
             final_url = f"https://yallashoot.mobi/albaplayer/{slug}/"
 
         # --------------------------
-        # FINAL MATCH OBJECT
+        # FINAL MATCH
         # --------------------------
         matches.append({
             "time": time_ist,
@@ -231,10 +242,12 @@ def fetch_hesgoal():
             "home_logo": home_logo or random_logo(),
             "away_logo": away_logo or random_logo(),
             "url": final_url,
-            "servers": servers     # only valid servers now
+            "servers": servers
         })
 
     return matches
+
+    
     
 # ---------- 3. Yallashooote ----------
 def fetch_yallashooote():
