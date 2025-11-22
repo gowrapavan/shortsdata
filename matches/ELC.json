@@ -4543,7 +4543,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 332,
@@ -4554,11 +4554,11 @@
     "AwayTeamName": "Norwich City FC",
     "HomeTeamLogo": "https://crests.football-data.org/332.png",
     "AwayTeamLogo": "https://crests.football-data.org/68.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 1,
+    "Result": 332,
     "Points": {
-      "332": 0,
+      "332": 3,
       "68": 0
     },
     "Goals": []
@@ -4647,7 +4647,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 342,
@@ -4658,12 +4658,12 @@
     "AwayTeamName": "Watford FC",
     "HomeTeamLogo": "https://crests.football-data.org/342.png",
     "AwayTeamLogo": "https://crests.football-data.org/346.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 346,
     "Points": {
       "342": 0,
-      "346": 0
+      "346": 3
     },
     "Goals": []
   },
@@ -4673,7 +4673,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 349,
@@ -4688,8 +4688,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "349": 0,
-      "404": 0
+      "349": 1,
+      "404": 1
     },
     "Goals": []
   },
@@ -4699,7 +4699,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 338,
@@ -4710,11 +4710,11 @@
     "AwayTeamName": "Stoke City FC",
     "HomeTeamLogo": "https://crests.football-data.org/338.png",
     "AwayTeamLogo": "https://crests.football-data.org/70.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 338,
     "Points": {
-      "338": 0,
+      "338": 3,
       "70": 0
     },
     "Goals": []
@@ -4725,7 +4725,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1082,
@@ -4736,12 +4736,12 @@
     "AwayTeamName": "Middlesbrough FC",
     "HomeTeamLogo": "https://crests.football-data.org/1082.png",
     "AwayTeamLogo": "https://crests.football-data.org/343.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "1082": 0,
-      "343": 0
+      "1082": 1,
+      "343": 1
     },
     "Goals": []
   },
@@ -4751,7 +4751,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 325,
@@ -4762,11 +4762,11 @@
     "AwayTeamName": "Millwall FC",
     "HomeTeamLogo": "https://crests.football-data.org/325.png",
     "AwayTeamLogo": "https://crests.football-data.org/384.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 325,
     "Points": {
-      "325": 0,
+      "325": 3,
       "384": 0
     },
     "Goals": []
@@ -4803,7 +4803,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 69,
@@ -4814,11 +4814,11 @@
     "AwayTeamName": "Hull City AFC",
     "HomeTeamLogo": "https://crests.football-data.org/69.png",
     "AwayTeamLogo": "https://crests.football-data.org/322.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 69,
     "Points": {
-      "69": 0,
+      "69": 3,
       "322": 0
     },
     "Goals": []

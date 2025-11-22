@@ -2796,8 +2796,8 @@
     "AwayTeamName": "Juventus FC",
     "HomeTeamLogo": "https://crests.football-data.org/99.png",
     "AwayTeamLogo": "https://crests.football-data.org/109.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "99": 0,
@@ -2811,7 +2811,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 104,
@@ -2822,12 +2822,12 @@
     "AwayTeamName": "Genoa CFC",
     "HomeTeamLogo": "https://crests.football-data.org/104.png",
     "AwayTeamLogo": "https://crests.football-data.org/107.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 2,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
-      "104": 0,
-      "107": 0
+      "104": 1,
+      "107": 1
     },
     "Goals": []
   },
@@ -2993,7 +2993,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-22",
     "DateTime": "2025-11-22T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 115,
@@ -3005,11 +3005,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/115.png",
     "AwayTeamLogo": "https://crests.football-data.org/103.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 103,
     "Points": {
       "115": 0,
-      "103": 0
+      "103": 3
     },
     "Goals": []
   },
