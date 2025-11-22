@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-21T06:15:30.324051Z",
+    "last_updated": "2025-11-22T06:13:11.146240Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -404,6 +404,15 @@
                     "nationality": "Argentina"
                 },
                 {
+                    "player_name": "Mason Greenwood",
+                    "team_name": "Olympique de Marseille",
+                    "team_crest": "https://crests.football-data.org/516.png",
+                    "goals": 9,
+                    "assists": 4,
+                    "penalties": 4,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Esteban Lepaul",
                     "team_name": "Stade Rennais FC 1901",
                     "team_crest": "https://crests.football-data.org/529.png",
@@ -413,22 +422,22 @@
                     "nationality": "France"
                 },
                 {
-                    "player_name": "Mason Greenwood",
-                    "team_name": "Olympique de Marseille",
-                    "team_crest": "https://crests.football-data.org/516.png",
-                    "goals": 8,
-                    "assists": 4,
-                    "penalties": 4,
-                    "nationality": "England"
-                },
-                {
                     "player_name": "Sofiane Diop",
                     "team_name": "OGC Nice",
                     "team_crest": "https://crests.football-data.org/522.png",
                     "goals": 6,
-                    "assists": 1,
+                    "assists": 2,
                     "penalties": 2,
                     "nationality": "France"
+                },
+                {
+                    "player_name": "Pierre-Emerick Aubameyang",
+                    "team_name": "Olympique de Marseille",
+                    "team_crest": "https://crests.football-data.org/516.png",
+                    "goals": 5,
+                    "assists": 4,
+                    "penalties": null,
+                    "nationality": "Gabon"
                 },
                 {
                     "player_name": "Ilan Kebbal",
@@ -474,15 +483,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Iceland"
-                },
-                {
-                    "player_name": "Pierre-Emerick Aubameyang",
-                    "team_name": "Olympique de Marseille",
-                    "team_crest": "https://crests.football-data.org/516.png",
-                    "goals": 4,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Gabon"
                 }
             ]
         },
