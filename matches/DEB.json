@@ -2351,7 +2351,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 721,
@@ -2362,11 +2362,11 @@
     "AwayTeamName": "SV Werder Bremen",
     "HomeTeamLogo": "https://crests.football-data.org/721.png",
     "AwayTeamLogo": "https://crests.football-data.org/12.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 721,
     "Points": {
-      "721": 0,
+      "721": 3,
       "12": 0
     },
     "Goals": []
@@ -2440,8 +2440,8 @@
     "AwayTeamName": "1. FC Union Berlin",
     "HomeTeamLogo": "https://crests.football-data.org/20.png",
     "AwayTeamLogo": "https://crests.football-data.org/28.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "20": 0,

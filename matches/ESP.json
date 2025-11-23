@@ -3035,7 +3035,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 90,
@@ -3046,12 +3046,12 @@
     "AwayTeamName": "Girona FC",
     "HomeTeamLogo": "https://crests.football-data.org/90.png",
     "AwayTeamLogo": "https://crests.football-data.org/298.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "90": 0,
-      "298": 0
+      "90": 1,
+      "298": 1
     },
     "Goals": []
   },
@@ -3202,8 +3202,8 @@
     "AwayTeamName": "Club Atlético de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/82.png",
     "AwayTeamLogo": "https://crests.football-data.org/78.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "82": 0,

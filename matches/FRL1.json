@@ -2723,7 +2723,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 519,
@@ -2738,8 +2738,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "519": 0,
-      "523": 0
+      "519": 1,
+      "523": 1
     },
     "Goals": []
   },
@@ -2749,7 +2749,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 543,
@@ -2760,12 +2760,12 @@
     "AwayTeamName": "FC Lorient",
     "HomeTeamLogo": "https://crests.football-data.org/543.png",
     "AwayTeamLogo": "https://crests.football-data.org/525.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "543": 0,
-      "525": 0
+      "543": 1,
+      "525": 1
     },
     "Goals": []
   },
@@ -2775,7 +2775,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 511,
@@ -2786,12 +2786,12 @@
     "AwayTeamName": "Angers SCO",
     "HomeTeamLogo": "https://crests.football-data.org/511.png",
     "AwayTeamLogo": "https://crests.football-data.org/532.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 532,
     "Points": {
       "511": 0,
-      "532": 0
+      "532": 3
     },
     "Goals": []
   },
@@ -2905,7 +2905,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 512,
@@ -2916,11 +2916,11 @@
     "AwayTeamName": "FC Metz",
     "HomeTeamLogo": "https://crests.football-data.org/512.png",
     "AwayTeamLogo": "https://crests.football-data.org/545.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 512,
     "Points": {
-      "512": 0,
+      "512": 3,
       "545": 0
     },
     "Goals": []

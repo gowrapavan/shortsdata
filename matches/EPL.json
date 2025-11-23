@@ -2828,8 +2828,8 @@
     "AwayTeamName": "Tottenham Hotspur FC",
     "HomeTeamLogo": "https://crests.football-data.org/57.png",
     "AwayTeamLogo": "https://crests.football-data.org/73.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "57": 0,
@@ -2921,7 +2921,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 341,
@@ -2932,12 +2932,12 @@
     "AwayTeamName": "Aston Villa FC",
     "HomeTeamLogo": "https://crests.football-data.org/341.png",
     "AwayTeamLogo": "https://crests.football-data.org/58.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "341": 0,
-      "58": 0
+      "341": 1,
+      "58": 1
     },
     "Goals": []
   },
