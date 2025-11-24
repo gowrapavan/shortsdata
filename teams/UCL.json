@@ -2266,6 +2266,13 @@
         "nationality": "England"
       },
       {
+        "id": 4078,
+        "name": "John Ruddy",
+        "position": "Goalkeeper",
+        "dateOfBirth": "1986-10-24",
+        "nationality": "England"
+      },
+      {
         "id": 5048,
         "name": "Mark Gillespie",
         "position": "Goalkeeper",
@@ -2301,81 +2308,18 @@
         "nationality": "Germany"
       },
       {
+        "id": 275209,
+        "name": "Sean Neave",
+        "position": "Offence",
+        "dateOfBirth": "2007-05-27",
+        "nationality": "England"
+      },
+      {
         "id": 283375,
         "name": "Seung-soo Park",
         "position": "Offence",
         "dateOfBirth": "2007-03-17",
         "nationality": "South Korea"
-      },
-      {
-        "id": 230364,
-        "name": "Alex Murphy",
-        "position": "Left-Back",
-        "dateOfBirth": "2004-06-25",
-        "nationality": "Ireland"
-      },
-      {
-        "id": 191939,
-        "name": "Lewis Miley",
-        "position": "Central Midfield",
-        "dateOfBirth": "2006-05-01",
-        "nationality": "England"
-      },
-      {
-        "id": 169324,
-        "name": "William Osula",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2003-08-04",
-        "nationality": "Denmark"
-      },
-      {
-        "id": 168712,
-        "name": "Valentino Livramento",
-        "position": "Right-Back",
-        "dateOfBirth": "2002-11-12",
-        "nationality": "England"
-      },
-      {
-        "id": 166376,
-        "name": "Anthony Elanga",
-        "position": "Right Winger",
-        "dateOfBirth": "2002-04-27",
-        "nationality": "Sweden"
-      },
-      {
-        "id": 150776,
-        "name": "Harrison Ashby",
-        "position": "Right-Back",
-        "dateOfBirth": "2001-11-14",
-        "nationality": "Scotland"
-      },
-      {
-        "id": 142732,
-        "name": "Malick Thiaw",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-08-08",
-        "nationality": "Germany"
-      },
-      {
-        "id": 111437,
-        "name": "Jacob Ramsey",
-        "position": "Left Midfield",
-        "dateOfBirth": "2001-05-28",
-        "nationality": "England"
-      },
-      {
-        "id": 81082,
-        "name": "Sven Botman",
-        "position": "Centre-Back",
-        "dateOfBirth": "2000-01-12",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 10653,
-        "name": "Joelinton",
-        "position": "Central Midfield",
-        "dateOfBirth": "1996-08-14",
-        "nationality": "Brazil"
       },
       {
         "id": 8076,
@@ -2460,6 +2404,76 @@
         "position": "Centre-Back",
         "dateOfBirth": "1991-12-20",
         "nationality": "Switzerland"
+      },
+      {
+        "id": 230364,
+        "name": "Alex Murphy",
+        "position": "Left-Back",
+        "dateOfBirth": "2004-06-25",
+        "nationality": "Ireland"
+      },
+      {
+        "id": 191939,
+        "name": "Lewis Miley",
+        "position": "Central Midfield",
+        "dateOfBirth": "2006-05-01",
+        "nationality": "England"
+      },
+      {
+        "id": 169324,
+        "name": "William Osula",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2003-08-04",
+        "nationality": "Denmark"
+      },
+      {
+        "id": 168712,
+        "name": "Valentino Livramento",
+        "position": "Right-Back",
+        "dateOfBirth": "2002-11-12",
+        "nationality": "England"
+      },
+      {
+        "id": 166376,
+        "name": "Anthony Elanga",
+        "position": "Right Winger",
+        "dateOfBirth": "2002-04-27",
+        "nationality": "Sweden"
+      },
+      {
+        "id": 150776,
+        "name": "Harrison Ashby",
+        "position": "Right-Back",
+        "dateOfBirth": "2001-11-14",
+        "nationality": "Scotland"
+      },
+      {
+        "id": 142732,
+        "name": "Malick Thiaw",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-08-08",
+        "nationality": "Germany"
+      },
+      {
+        "id": 111437,
+        "name": "Jacob Ramsey",
+        "position": "Left Midfield",
+        "dateOfBirth": "2001-05-28",
+        "nationality": "England"
+      },
+      {
+        "id": 81082,
+        "name": "Sven Botman",
+        "position": "Centre-Back",
+        "dateOfBirth": "2000-01-12",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 10653,
+        "name": "Joelinton",
+        "position": "Central Midfield",
+        "dateOfBirth": "1996-08-14",
+        "nationality": "Brazil"
       }
     ],
     "staff": [],
@@ -8764,10 +8778,24 @@
         "nationality": "Portugal"
       },
       {
+        "id": 263708,
+        "name": "Rodrigo Rêgo",
+        "position": "Offence",
+        "dateOfBirth": "2005-01-03",
+        "nationality": "Portugal"
+      },
+      {
         "id": 282872,
         "name": "Gonçalo Moreira",
         "position": "Offence",
         "dateOfBirth": "2006-01-03",
+        "nationality": "Portugal"
+      },
+      {
+        "id": 177322,
+        "name": "Henrique Araujo",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2002-01-19",
         "nationality": "Portugal"
       },
       {
@@ -8859,13 +8887,6 @@
         "name": "Tomas Araujo",
         "position": "Centre-Back",
         "dateOfBirth": "2002-05-16",
-        "nationality": "Portugal"
-      },
-      {
-        "id": 177322,
-        "name": "Henrique Araujo",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2002-01-19",
         "nationality": "Portugal"
       }
     ],

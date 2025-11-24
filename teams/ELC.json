@@ -102,6 +102,13 @@
         "nationality": "England"
       },
       {
+        "id": 218273,
+        "name": "Moussa Baradji",
+        "position": "Defence",
+        "dateOfBirth": "1990-01-21",
+        "nationality": "France"
+      },
+      {
         "id": 218489,
         "name": "Tom Atcheson",
         "position": "Defence",
@@ -300,15 +307,15 @@
       }
     ],
     "coach": {
-      "id": 249643,
-      "firstName": "Ryan",
-      "lastName": "Garry",
-      "name": "Ryan Garry",
-      "dateOfBirth": "1983-09-29",
-      "nationality": "England",
+      "id": 11886,
+      "firstName": "Philippe",
+      "lastName": "Clement",
+      "name": "Philippe Clement",
+      "dateOfBirth": "1974-03-22",
+      "nationality": "Belgium",
       "contract": {
         "start": "2025-11",
-        "until": "2025-11"
+        "until": "2029-06"
       }
     },
     "squad": [
@@ -3095,13 +3102,6 @@
         "nationality": "England"
       },
       {
-        "id": 6339,
-        "name": "Richard O'Donnell",
-        "position": "Goalkeeper",
-        "dateOfBirth": "1988-09-12",
-        "nationality": "England"
-      },
-      {
         "id": 180671,
         "name": "Jacob Widell Zetterström",
         "position": "Goalkeeper",
@@ -3177,6 +3177,34 @@
         "position": "Offence",
         "dateOfBirth": null,
         "nationality": "England"
+      },
+      {
+        "id": 186708,
+        "name": "Bobby Clark",
+        "position": "Central Midfield",
+        "dateOfBirth": "2005-02-07",
+        "nationality": "England"
+      },
+      {
+        "id": 175895,
+        "name": "Owen Beck",
+        "position": "Left-Back",
+        "dateOfBirth": "2002-08-09",
+        "nationality": "Wales"
+      },
+      {
+        "id": 157329,
+        "name": "Liam Thompson",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2002-04-29",
+        "nationality": "England"
+      },
+      {
+        "id": 14631,
+        "name": "Ebou Adams",
+        "position": "Central Midfield",
+        "dateOfBirth": "1996-01-15",
+        "nationality": "Gambia"
       },
       {
         "id": 11300,
@@ -3275,34 +3303,6 @@
         "position": "Right Winger",
         "dateOfBirth": "1997-09-23",
         "nationality": "England"
-      },
-      {
-        "id": 186708,
-        "name": "Bobby Clark",
-        "position": "Central Midfield",
-        "dateOfBirth": "2005-02-07",
-        "nationality": "England"
-      },
-      {
-        "id": 175895,
-        "name": "Owen Beck",
-        "position": "Left-Back",
-        "dateOfBirth": "2002-08-09",
-        "nationality": "Wales"
-      },
-      {
-        "id": 157329,
-        "name": "Liam Thompson",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2002-04-29",
-        "nationality": "England"
-      },
-      {
-        "id": 14631,
-        "name": "Ebou Adams",
-        "position": "Central Midfield",
-        "dateOfBirth": "1996-01-15",
-        "nationality": "Gambia"
       }
     ],
     "staff": [],
@@ -3402,6 +3402,13 @@
         "position": "Midfield",
         "dateOfBirth": "2005-07-09",
         "nationality": "Ivory Coast"
+      },
+      {
+        "id": 218492,
+        "name": "Finley Cartwright",
+        "position": "Midfield",
+        "dateOfBirth": "2007-02-28",
+        "nationality": "England"
       },
       {
         "id": 85239,

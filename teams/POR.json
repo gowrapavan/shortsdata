@@ -1544,14 +1544,14 @@
       }
     ],
     "coach": {
-      "id": 37293,
-      "firstName": "",
-      "lastName": "Ivo Vieira",
-      "name": "Ivo Vieira",
-      "dateOfBirth": "1976-01-10",
-      "nationality": "Portugal",
+      "id": 209555,
+      "firstName": "Cristiano",
+      "lastName": "Bacci",
+      "name": "Christiano Bacci",
+      "dateOfBirth": "1975-07-06",
+      "nationality": "Italy",
       "contract": {
-        "start": "2025-07",
+        "start": "2025-11",
         "until": "2026-06"
       }
     },
@@ -1929,10 +1929,24 @@
         "nationality": "Portugal"
       },
       {
+        "id": 263708,
+        "name": "Rodrigo Rêgo",
+        "position": "Offence",
+        "dateOfBirth": "2005-01-03",
+        "nationality": "Portugal"
+      },
+      {
         "id": 282872,
         "name": "Gonçalo Moreira",
         "position": "Offence",
         "dateOfBirth": "2006-01-03",
+        "nationality": "Portugal"
+      },
+      {
+        "id": 177322,
+        "name": "Henrique Araujo",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2002-01-19",
         "nationality": "Portugal"
       },
       {
@@ -2024,13 +2038,6 @@
         "name": "Tomas Araujo",
         "position": "Centre-Back",
         "dateOfBirth": "2002-05-16",
-        "nationality": "Portugal"
-      },
-      {
-        "id": 177322,
-        "name": "Henrique Araujo",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2002-01-19",
         "nationality": "Portugal"
       }
     ],
