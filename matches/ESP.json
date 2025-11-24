@@ -3061,7 +3061,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 285,
@@ -3072,12 +3072,12 @@
     "AwayTeamName": "Real Madrid CF",
     "HomeTeamLogo": "https://crests.football-data.org/285.png",
     "AwayTeamLogo": "https://crests.football-data.org/86.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "285": 0,
-      "86": 0
+      "285": 1,
+      "86": 1
     },
     "Goals": []
   },
@@ -3707,10 +3707,10 @@
   },
   {
     "GameId": 544358,
-    "RoundId": 7,
+    "RoundId": 13,
     "RoundName": "Primera Division",
-    "Date": "2025-12-07",
-    "DateTime": "2025-12-07T00:00:00Z",
+    "Date": "2025-12-08",
+    "DateTime": "2025-12-08T20:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",

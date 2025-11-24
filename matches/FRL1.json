@@ -2827,7 +2827,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 521,
@@ -2838,11 +2838,11 @@
     "AwayTeamName": "Paris FC",
     "HomeTeamLogo": "https://crests.football-data.org/521.png",
     "AwayTeamLogo": "https://crests.football-data.org/1045.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 2,
+    "Result": 521,
     "Points": {
-      "521": 0,
+      "521": 3,
       "1045": 0
     },
     "Goals": []

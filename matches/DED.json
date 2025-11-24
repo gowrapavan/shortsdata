@@ -2731,7 +2731,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-11-23",
     "DateTime": "2025-11-23T15:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 677,
@@ -2742,12 +2742,12 @@
     "AwayTeamName": "PEC Zwolle",
     "HomeTeamLogo": "https://crests.football-data.org/677.png",
     "AwayTeamLogo": "https://crests.football-data.org/684.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "677": 0,
-      "684": 0
+      "677": 1,
+      "684": 1
     },
     "Goals": []
   },
