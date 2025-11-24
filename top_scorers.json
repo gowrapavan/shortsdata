@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-23T06:13:48.215773Z",
+    "last_updated": "2025-11-24T06:15:59.845114Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -52,6 +52,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Richarlison",
+                    "team_name": "Tottenham Hotspur FC",
+                    "team_crest": "https://crests.football-data.org/73.png",
+                    "goals": 5,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Brazil"
+                },
+                {
                     "player_name": "Bryan Mbeumo",
                     "team_name": "Manchester United FC",
                     "team_crest": "https://crests.football-data.org/66.png",
@@ -79,15 +88,6 @@
                     "nationality": "France"
                 },
                 {
-                    "player_name": "Richarlison",
-                    "team_name": "Tottenham Hotspur FC",
-                    "team_crest": "https://crests.football-data.org/73.png",
-                    "goals": 4,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Brazil"
-                },
-                {
                     "player_name": "João Pedro",
                     "team_name": "Chelsea FC",
                     "team_crest": "https://crests.football-data.org/61.png",
@@ -108,7 +108,7 @@
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
                     "goals": 13,
-                    "assists": 2,
+                    "assists": 3,
                     "penalties": 3,
                     "nationality": "France"
                 },
@@ -201,6 +201,15 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Christian Pulisic",
+                    "team_name": "AC Milan",
+                    "team_crest": "https://crests.football-data.org/98.png",
+                    "goals": 5,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "USA"
+                },
+                {
                     "player_name": "Riccardo Orsolini",
                     "team_name": "Bologna FC 1909",
                     "team_crest": "https://crests.football-data.org/103.png",
@@ -280,15 +289,6 @@
                     "assists": 3,
                     "penalties": 2,
                     "nationality": "Italy"
-                },
-                {
-                    "player_name": "Christian Pulisic",
-                    "team_name": "AC Milan",
-                    "team_crest": "https://crests.football-data.org/98.png",
-                    "goals": 4,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "USA"
                 }
             ]
         },
@@ -383,7 +383,7 @@
                     "team_name": "RB Leipzig",
                     "team_crest": "https://crests.football-data.org/721.png",
                     "goals": 5,
-                    "assists": 2,
+                    "assists": 3,
                     "penalties": null,
                     "nationality": "Austria"
                 }
@@ -476,13 +476,13 @@
                     "nationality": "France"
                 },
                 {
-                    "player_name": "Ansu Fati",
-                    "team_name": "AS Monaco FC",
-                    "team_crest": "https://crests.football-data.org/548.png",
+                    "player_name": "Romain Del Castillo",
+                    "team_name": "Stade Brestois 29",
+                    "team_crest": "https://crests.football-data.org/512.png",
                     "goals": 5,
-                    "assists": null,
-                    "penalties": 3,
-                    "nationality": "Spain"
+                    "assists": 2,
+                    "penalties": 4,
+                    "nationality": "France"
                 }
             ]
         },
@@ -519,6 +519,15 @@
                     "nationality": "Morocco"
                 },
                 {
+                    "player_name": "Troy Parrott",
+                    "team_name": "AZ",
+                    "team_crest": "https://crests.football-data.org/682.png",
+                    "goals": 7,
+                    "assists": 1,
+                    "penalties": 2,
+                    "nationality": "Ireland"
+                },
+                {
                     "player_name": "Jizz Hornkamp",
                     "team_name": "Heracles Almelo",
                     "team_crest": "https://crests.football-data.org/671.png",
@@ -532,7 +541,7 @@
                     "team_name": "Feyenoord Rotterdam",
                     "team_crest": "https://crests.football-data.org/675.png",
                     "goals": 6,
-                    "assists": 1,
+                    "assists": 2,
                     "penalties": 1,
                     "nationality": "Netherlands"
                 },
@@ -544,15 +553,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Netherlands"
-                },
-                {
-                    "player_name": "Troy Parrott",
-                    "team_name": "AZ",
-                    "team_crest": "https://crests.football-data.org/682.png",
-                    "goals": 6,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "Ireland"
                 },
                 {
                     "player_name": "Koen Kostons",
