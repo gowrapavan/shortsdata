@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-24T06:15:59.845114Z",
+    "last_updated": "2025-11-25T06:16:15.980084Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -167,6 +167,15 @@
                     "nationality": "Spain"
                 },
                 {
+                    "player_name": "Pere Milla",
+                    "team_name": "RCD Espanyol de Barcelona",
+                    "team_crest": "https://crests.football-data.org/80.png",
+                    "goals": 5,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Spain"
+                },
+                {
                     "player_name": "Vinicius Junior",
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
@@ -183,15 +192,6 @@
                     "assists": 3,
                     "penalties": 3,
                     "nationality": "Spain"
-                },
-                {
-                    "player_name": "Cucho Hernández",
-                    "team_name": "Real Betis Balompié",
-                    "team_crest": "https://crests.football-data.org/90.png",
-                    "goals": 5,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Colombia"
                 }
             ]
         },
@@ -200,6 +200,15 @@
             "code": "SA",
             "count": 10,
             "scorers": [
+                {
+                    "player_name": "Nico Paz",
+                    "team_name": "Como 1907",
+                    "team_crest": "https://crests.football-data.org/7397.png",
+                    "goals": 5,
+                    "assists": 4,
+                    "penalties": null,
+                    "nationality": "Argentina"
+                },
                 {
                     "player_name": "Christian Pulisic",
                     "team_name": "AC Milan",
@@ -244,15 +253,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Italy"
-                },
-                {
-                    "player_name": "Nico Paz",
-                    "team_name": "Como 1907",
-                    "team_crest": "https://crests.football-data.org/7397.png",
-                    "goals": 4,
-                    "assists": 4,
-                    "penalties": null,
-                    "nationality": "Argentina"
                 },
                 {
                     "player_name": "Lautaro Martínez",
