@@ -2941,7 +2941,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-24",
     "DateTime": "2025-11-24T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 471,
@@ -2952,12 +2952,12 @@
     "AwayTeamName": "AC Pisa 1909",
     "HomeTeamLogo": "https://crests.football-data.org/471.png",
     "AwayTeamLogo": "https://crests.football-data.org/487.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "471": 0,
-      "487": 0
+      "471": 1,
+      "487": 1
     },
     "Goals": []
   },
