@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-25T06:16:15.980084Z",
+    "last_updated": "2025-11-26T06:15:44.967334Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -652,6 +652,15 @@
                     "nationality": "Argentina"
                 },
                 {
+                    "player_name": "Harvey Barnes",
+                    "team_name": "Newcastle United FC",
+                    "team_crest": "https://crests.football-data.org/67.png",
+                    "goals": 4,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Martinelli",
                     "team_name": "Arsenal FC",
                     "team_crest": "https://crests.football-data.org/57.png",
@@ -668,15 +677,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Germany"
-                },
-                {
-                    "player_name": "Dušan Vlahović",
-                    "team_name": "Juventus FC",
-                    "team_crest": "https://crests.football-data.org/109.png",
-                    "goals": 3,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "Serbia"
                 }
             ]
         }
