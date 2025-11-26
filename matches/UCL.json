@@ -211,7 +211,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-25",
     "DateTime": "2025-11-25T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 61,
@@ -222,11 +222,11 @@
     "AwayTeamName": "FC Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/61.png",
     "AwayTeamLogo": "https://crests.football-data.org/81.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 61,
     "Points": {
-      "61": 0,
+      "61": 3,
       "81": 0
     },
     "Goals": []
@@ -389,7 +389,7 @@
   },
   {
     "GameId": 551923,
-    "RoundId": 2,
+    "RoundId": 5,
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
@@ -831,7 +831,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-25",
     "DateTime": "2025-11-25T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 4,
@@ -842,11 +842,11 @@
     "AwayTeamName": "Villarreal CF",
     "HomeTeamLogo": "https://crests.football-data.org/4.png",
     "AwayTeamLogo": "https://crests.football-data.org/94.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 4,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 4,
     "Points": {
-      "4": 0,
+      "4": 3,
       "94": 0
     },
     "Goals": []
@@ -877,7 +877,7 @@
   },
   {
     "GameId": 551942,
-    "RoundId": 2,
+    "RoundId": 5,
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
@@ -1421,7 +1421,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-25",
     "DateTime": "2025-11-25T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 65,
@@ -1434,10 +1434,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/3.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 3,
     "Points": {
       "65": 0,
-      "3": 0
+      "3": 3
     },
     "Goals": []
   },
@@ -1571,7 +1571,7 @@
   },
   {
     "GameId": 551969,
-    "RoundId": 2,
+    "RoundId": 5,
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
@@ -1701,7 +1701,7 @@
   },
   {
     "GameId": 551974,
-    "RoundId": 2,
+    "RoundId": 5,
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
@@ -1777,7 +1777,7 @@
   },
   {
     "GameId": 551977,
-    "RoundId": 2,
+    "RoundId": 5,
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
@@ -2087,7 +2087,7 @@
   },
   {
     "GameId": 551989,
-    "RoundId": 2,
+    "RoundId": 5,
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
@@ -2475,7 +2475,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-25",
     "DateTime": "2025-11-25T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5721,
@@ -2486,18 +2486,18 @@
     "AwayTeamName": "Juventus FC",
     "HomeTeamLogo": "https://crests.football-data.org/5721.png",
     "AwayTeamLogo": "https://crests.football-data.org/109.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 109,
     "Points": {
       "5721": 0,
-      "109": 0
+      "109": 3
     },
     "Goals": []
   },
   {
     "GameId": 552005,
-    "RoundId": 2,
+    "RoundId": 5,
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
@@ -2703,7 +2703,7 @@
   },
   {
     "GameId": 552013,
-    "RoundId": 2,
+    "RoundId": 5,
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T17:45:00Z",
@@ -2811,7 +2811,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-25",
     "DateTime": "2025-11-25T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 516,
@@ -2822,11 +2822,11 @@
     "AwayTeamName": "Newcastle United FC",
     "HomeTeamLogo": "https://crests.football-data.org/516.png",
     "AwayTeamLogo": "https://crests.football-data.org/67.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 516,
     "Points": {
-      "516": 0,
+      "516": 3,
       "67": 0
     },
     "Goals": []
@@ -3243,7 +3243,7 @@
   },
   {
     "GameId": 552034,
-    "RoundId": 2,
+    "RoundId": 5,
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T17:45:00Z",
@@ -3273,7 +3273,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-25",
     "DateTime": "2025-11-25T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 930,
@@ -3288,8 +3288,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "930": 0,
-      "77": 0
+      "930": 1,
+      "77": 1
     },
     "Goals": []
   },
@@ -3325,7 +3325,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-11-25",
     "DateTime": "2025-11-25T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 113,
@@ -3336,11 +3336,11 @@
     "AwayTeamName": "Qarabağ Ağdam FK",
     "HomeTeamLogo": "https://crests.football-data.org/113.png",
     "AwayTeamLogo": "https://crests.football-data.org/611.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 113,
     "Points": {
-      "113": 0,
+      "113": 3,
       "611": 0
     },
     "Goals": []

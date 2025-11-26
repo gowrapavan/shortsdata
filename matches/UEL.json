@@ -4855,7 +4855,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-25",
     "DateTime": "2025-11-25T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 322,
@@ -4867,11 +4867,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/322.png",
     "AwayTeamLogo": "https://crests.football-data.org/349.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 349,
     "Points": {
       "322": 0,
-      "349": 0
+      "349": 3
     },
     "Goals": []
   },
@@ -4881,7 +4881,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-25",
     "DateTime": "2025-11-25T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 343,
@@ -4893,11 +4893,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/343.png",
     "AwayTeamLogo": "https://crests.football-data.org/1076.png",
     "HomeTeamScore": 2,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "AwayTeamScore": 4,
+    "Result": 1076,
     "Points": {
       "343": 0,
-      "1076": 0
+      "1076": 3
     },
     "Goals": []
   },
@@ -4959,7 +4959,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-25",
     "DateTime": "2025-11-25T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 340,
@@ -4972,9 +4972,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/338.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 340,
     "Points": {
-      "340": 0,
+      "340": 3,
       "338": 0
     },
     "Goals": []
@@ -4985,7 +4985,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-25",
     "DateTime": "2025-11-25T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 70,
@@ -4998,9 +4998,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/348.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 70,
     "Points": {
-      "70": 0,
+      "70": 3,
       "348": 0
     },
     "Goals": []
@@ -5011,7 +5011,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-25",
     "DateTime": "2025-11-25T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 72,
@@ -5022,12 +5022,12 @@
     "AwayTeamName": "Derby County FC",
     "HomeTeamLogo": "https://crests.football-data.org/72.png",
     "AwayTeamLogo": "https://crests.football-data.org/342.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 342,
     "Points": {
       "72": 0,
-      "342": 0
+      "342": 3
     },
     "Goals": []
   },
@@ -5037,7 +5037,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-25",
     "DateTime": "2025-11-25T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 346,
@@ -5052,8 +5052,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "346": 0,
-      "1081": 0
+      "346": 1,
+      "1081": 1
     },
     "Goals": []
   },
@@ -5089,7 +5089,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-25",
     "DateTime": "2025-11-25T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 68,
@@ -5101,11 +5101,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/68.png",
     "AwayTeamLogo": "https://crests.football-data.org/1082.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "68": 0,
-      "1082": 0
+      "68": 1,
+      "1082": 1
     },
     "Goals": []
   },
@@ -5995,7 +5995,7 @@
   },
   {
     "GameId": 540948,
-    "RoundId": 7,
+    "RoundId": 17,
     "RoundName": "Championship",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T19:45:00Z",
@@ -6021,7 +6021,7 @@
   },
   {
     "GameId": 540949,
-    "RoundId": 7,
+    "RoundId": 17,
     "RoundName": "Championship",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T19:45:00Z",
@@ -6047,7 +6047,7 @@
   },
   {
     "GameId": 540950,
-    "RoundId": 7,
+    "RoundId": 17,
     "RoundName": "Championship",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
@@ -6073,7 +6073,7 @@
   },
   {
     "GameId": 540951,
-    "RoundId": 7,
+    "RoundId": 17,
     "RoundName": "Championship",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T19:45:00Z",
