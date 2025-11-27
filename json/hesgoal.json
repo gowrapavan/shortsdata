@@ -1,693 +1,566 @@
 [
   {
-    "time": "2025-11-26 23:15 IST",
+    "time": "2025-11-27 13:15 IST",
     "game": "football",
-    "league": "UEFA Champions League",
-    "home_team": "Kairat Almaty",
-    "away_team": "FC Copenhagen",
-    "label": "kai-fcc",
-    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/10564",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1824.png",
-    "url": "https://ballcontrol.click/home/blog2/",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://ballcontrol.click/home/blog2/"
-      },
-      {
-        "name": "TNT",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=dG50NV8x"
-      },
-      {
-        "name": "Canal+",
-        "url": "https://bolaloca.my/player/4/13"
-      },
-      {
-        "name": "ExtraSp",
-        "url": "https://bolaloca.my/player/4/163"
-      },
-      {
-        "name": "SkyDe",
-        "url": "https://bolaloca.my/player/4/114"
-      },
-      {
-        "name": "DaznIT",
-        "url": "https://bolaloca.my/player/4/137"
-      },
-      {
-        "name": "Espn2",
-        "url": "https://bolaloca.my/player/4/88"
-      },
-      {
-        "name": "TudnUs",
-        "url": "https://bolaloca.my/player/4/68"
-      },
-      {
-        "name": "EN",
-        "url": "https://sportzonline.top/channels/hd/hd11.php"
-      },
-      {
-        "name": "ElevenPT",
-        "url": "https://sportzonline.top/channels/pt/eleven2.php"
-      },
-      {
-        "name": "BR",
-        "url": "https://sportzonline.top/channels/bra/br4.php"
-      },
-      {
-        "name": "DaznPt",
-        "url": "https://popcdn.day/go.php?stream=ELEVEN2"
-      },
-      {
-        "name": "SkySp",
-        "url": "https://popcdn.day/go.php?stream=SkySportMaxIT"
-      },
-      {
-        "name": "ZiggoSp",
-        "url": "https://popcdn.day/go.php?stream=ZiggoSport3"
-      },
-      {
-        "name": "DigiSp",
-        "url": "https://popcdn.day/go.php?stream=DIGISPORT2"
-      },
-      {
-        "name": "PrimaSp",
-        "url": "https://popcdn.day/go.php?stream=PrimaSport3"
-      },
-      {
-        "name": "CosmotSp",
-        "url": "https://popcdn.day/go.php?stream=COSMOTESPORT5"
-      },
-      {
-        "name": "EspnArg",
-        "url": "https://popcdn.day/go.php?stream=ESPN2ARG"
-      },
-      {
-        "name": "SportIL",
-        "url": "https://popcdn.day/go.php?stream=SPORT5PLUS"
-      },
-      {
-        "name": "رئيسي",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=YjNfMQ=="
-      },
-      {
-        "name": "بث1",
-        "url": "https://popcdn.day/go.php?stream=beINAR3"
-      },
-      {
-        "name": "2بث",
-        "url": "https://lovecdn.ru/daddy.php?stream=beINAR3"
-      }
-    ]
-  },
-  {
-    "time": "2025-11-26 23:15 IST",
-    "game": "football",
-    "league": "UEFA Champions League",
-    "home_team": "Monaco",
-    "away_team": "Pafos FC",
-    "label": "mon-paf",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/471.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2273.png",
-    "url": "https://ballcontrol.click/home/blog1/",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://ballcontrol.click/home/blog1/"
-      },
-      {
-        "name": "TnTuk",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=dG50NF8x"
-      },
-      {
-        "name": "C+Live",
-        "url": "https://bolaloca.my/player/4/12"
-      },
-      {
-        "name": "ExtraSp",
-        "url": "https://bolaloca.my/player/4/162"
-      },
-      {
-        "name": "EPLuk",
-        "url": "https://bolaloca.my/player/4/131"
-      },
-      {
-        "name": "SkyDe",
-        "url": "https://bolaloca.my/player/4/113"
-      },
-      {
-        "name": "ESPN1",
-        "url": "https://bolaloca.my/player/4/87"
-      },
-      {
-        "name": "FoxARG",
-        "url": "https://bolaloca.my/player/4/78"
-      },
-      {
-        "name": "EN",
-        "url": "https://sportzonline.top/channels/hd/hd5.php"
-      },
-      {
-        "name": "FR",
-        "url": "https://sportzonline.top/channels/hd/hd4.php"
-      },
-      {
-        "name": "SPANISH",
-        "url": "https://sportzonline.top/channels/hd/hd10.php"
-      },
-      {
-        "name": "ElevenPl",
-        "url": "https://sportzonline.top/channels/pt/eleven1.php"
-      },
-      {
-        "name": "BR",
-        "url": "https://sportzonline.top/channels/bra/br2.php"
-      },
-      {
-        "name": "TNT",
-        "url": "https://popcdn.day/go.php?stream=tntsports4"
-      },
-      {
-        "name": "DaznPt",
-        "url": "https://popcdn.day/go.php?stream=ELEVEN1"
-      },
-      {
-        "name": "DigiSp",
-        "url": "https://popcdn.day/go.php?stream=DIGISPORT1"
-      },
-      {
-        "name": "CosmotSp",
-        "url": "https://popcdn.day/on.php?stream=COSMOTESPORT3"
-      },
-      {
-        "name": "PrimaSp",
-        "url": "https://popcdn.day/go.php?stream=PrimaSport1"
-      },
-      {
-        "name": "ZiggoSp",
-        "url": "https://popcdn.day/go.php?stream=ZiggoSport1"
-      },
-      {
-        "name": "SportIL",
-        "url": "https://popcdn.day/go.php?stream=SPORT1IL"
-      },
-      {
-        "name": "رئيسي",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=YjJfMQ=="
-      },
-      {
-        "name": "1بث",
-        "url": "https://popcdn.day/go.php?stream=beINAR2"
-      },
-      {
-        "name": "بث2",
-        "url": "https://live26.yalla-sport.online/chtv/ch2.php"
-      },
-      {
-        "name": "بث3",
-        "url": "https://footballii.ir/official/b2"
-      }
-    ]
-  },
-  {
-    "time": "2025-11-27 01:15 IST",
-    "game": "football",
-    "league": "Championship",
-    "home_team": "Bristol City",
-    "away_team": "Wrexham",
-    "label": "bri-wre",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/6.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/75.png",
-    "url": "https://yallashoot.mobi/albaplayer/wrexham-vs-bristol-city/",
+    "league": "AFC Champions League Two - Group Stage",
+    "home_team": "Tai Po FC",
+    "away_team": "Macarthur Fc",
+    "label": "tai-mac",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/16976",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/67689",
+    "url": "https://yallashoot.mobi/albaplayer/macarthur-fc-vs-tai-po-fc/",
     "servers": []
   },
   {
-    "time": "2025-11-27 01:15 IST",
+    "time": "2025-11-27 15:30 IST",
     "game": "football",
-    "league": "Championship",
-    "home_team": "QPR",
-    "away_team": "Blackburn Rovers",
-    "label": "qpr-bla",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/18.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/112.png",
-    "url": "https://yallashoot.mobi/albaplayer/blackburn-rovers-vs-qpr/",
+    "league": "AFC Champions League Two - Group Stage",
+    "home_team": "Nam Dinh",
+    "away_team": "Ratchaburi FC",
+    "label": "nam-rat",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/24448",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/10318",
+    "url": "https://yallashoot.mobi/albaplayer/ratchaburi-fc-vs-nam-dinh/",
     "servers": []
   },
   {
-    "time": "2025-11-27 01:15 IST",
+    "time": "2025-11-27 15:30 IST",
     "game": "football",
-    "league": "Championship",
-    "home_team": "Portsmouth",
-    "away_team": "Sheffield Utd",
-    "label": "por-she",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/111.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/20.png",
-    "url": "https://yallashoot.mobi/albaplayer/sheffield-utd-vs-portsmouth/",
+    "league": "AFC Champions League Two - Group Stage",
+    "home_team": "Gamba Osaka",
+    "away_team": "Eastern SC",
+    "label": "gam-eas",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2150",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/16958",
+    "url": "https://yallashoot.mobi/albaplayer/eastern-sc-vs-gamba-osaka/",
     "servers": []
   },
   {
-    "time": "2025-11-27 01:15 IST",
+    "time": "2025-11-27 15:30 IST",
     "game": "football",
-    "league": "Championship",
-    "home_team": "Sheffield Wed",
-    "away_team": "Millwall",
-    "label": "she-mil",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/25.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/45.png",
-    "url": "https://yallashoot.mobi/albaplayer/millwall-vs-sheffield-wed/",
+    "league": "AFC Champions League Two - Group Stage",
+    "home_team": "BG Pathum United",
+    "away_team": "Pohang Steelers",
+    "label": "bgp-poh",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/7767.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/9822.png",
+    "url": "https://yallashoot.mobi/albaplayer/pohang-steelers-vs-bg-pathum-united/",
     "servers": []
   },
   {
-    "time": "2025-11-27 01:30 IST",
+    "time": "2025-11-27 17:45 IST",
     "game": "football",
-    "league": "Championship",
-    "home_team": "Birmingham",
-    "away_team": "West Brom",
-    "label": "bir-wes",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/5.png",
-    "url": "https://yallashoot.mobi/albaplayer/west-brom-vs-birmingham/",
+    "league": "AFC Champions League Two - Group Stage",
+    "home_team": "Kaya",
+    "away_team": "Tampines Rovers",
+    "label": "kay-tam",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/25007.png",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2369",
+    "url": "https://yallashoot.mobi/albaplayer/tampines-rovers-vs-kaya/",
     "servers": []
   },
   {
-    "time": "2025-11-27 01:30 IST",
+    "time": "2025-11-27 17:45 IST",
     "game": "football",
-    "league": "UEFA Champions League",
-    "home_team": "Bayern Munich",
-    "away_team": "Arsenal",
-    "label": "bay-ars",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/331.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/104.png",
-    "url": "https://ballcontrol.click/home/blog1/",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://ballcontrol.click/home/blog1/"
-      },
-      {
-        "name": "TNT1",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=dG50MV8x"
-      },
-      {
-        "name": "DaznDe1",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=ZGF6bjFkZV8x"
-      },
-      {
-        "name": "C+Live",
-        "url": "https://bolaloca.my/player/4/12"
-      },
-      {
-        "name": "ExtraSp",
-        "url": "https://bolaloca.my/player/4/163"
-      },
-      {
-        "name": "DaznDe2",
-        "url": "https://bolaloca.my/player/4/123"
-      },
-      {
-        "name": "Espn",
-        "url": "https://bolaloca.my/player/4/87"
-      },
-      {
-        "name": "TNTuk",
-        "url": "https://bolaloca.my/player/4/126"
-      },
-      {
-        "name": "EN",
-        "url": "https://sportzonline.live/channels/hd/hd5.php"
-      },
-      {
-        "name": "Eleven",
-        "url": "https://sportzonline.top/channels/pt/eleven3.php"
-      },
-      {
-        "name": "EN",
-        "url": "https://sportzonline.top/channels/hd/hd1.php"
-      },
-      {
-        "name": "DE",
-        "url": "https://sportzonline.top/channels/hd/hd3.php"
-      },
-      {
-        "name": "Eleven",
-        "url": "https://sportzonline.top/channels/pt/eleven1.php"
-      },
-      {
-        "name": "BR",
-        "url": "https://sportzonline.live/channels/bra/br3.php"
-      },
-      {
-        "name": "بث1",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=YjJfMQ=="
-      },
-      {
-        "name": "بث2",
-        "url": "https://popcdn.day/go.php?stream=beINAR2"
-      },
-      {
-        "name": "بث4",
-        "url": "https://live26.yalla-sport.online/chtv/ch2.php"
-      },
-      {
-        "name": "متعدد",
-        "url": "https://feed1nov.shikeaben.site/albaplayer/p2/?serv=1"
-      }
-    ]
-  },
-  {
-    "time": "2025-11-27 01:30 IST",
-    "game": "football",
-    "league": "UEFA Champions League",
-    "home_team": "Inter Milan",
-    "away_team": "Atletico Madrid",
-    "label": "int-atl",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/224.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/134.png",
-    "url": "https://ballcontrol.click/home/blog5/",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://ballcontrol.click/home/blog5/"
-      },
-      {
-        "name": "TNT",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=dG50Nl8x"
-      },
-      {
-        "name": "Canal+",
-        "url": "https://bolaloca.my/player/4/34"
-      },
-      {
-        "name": "ExtraSp",
-        "url": "https://bolaloca.my/player/4/162"
-      },
-      {
-        "name": "Bundliga",
-        "url": "https://bolaloca.my/player/4/113"
-      },
-      {
-        "name": "SkyCalcio",
-        "url": "https://bolaloca.my/player/4/138"
-      },
-      {
-        "name": "Espn",
-        "url": "https://bolaloca.my/player/4/91"
-      },
-      {
-        "name": "FoxARG",
-        "url": "https://bolaloca.my/player/4/78"
-      },
-      {
-        "name": "ITALIAN",
-        "url": "https://sportzonline.top/channels/hd/hd7.php"
-      },
-      {
-        "name": "SPANISH",
-        "url": "https://sportzonline.top/channels/hd/hd10.php"
-      },
-      {
-        "name": "BRAZILIAN",
-        "url": "https://sportzonline.top/channels/bra/br1.php"
-      },
-      {
-        "name": "بث1",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=YjVfMQ=="
-      },
-      {
-        "name": "بث2",
-        "url": "https://popcdn.day/go.php?stream=beINAR5"
-      },
-      {
-        "name": "بث3",
-        "url": "https://live26.yalla-sport.online/chtv/ch5.php"
-      },
-      {
-        "name": "بث4",
-        "url": "https://sportzonline.top/channels/hd/hd9.php"
-      },
-      {
-        "name": "متعدد",
-        "url": "https://feed1nov.shikeaben.site/albaplayer/p5/?serv=1"
-      }
-    ]
-  },
-  {
-    "time": "2025-11-27 01:30 IST",
-    "game": "football",
-    "league": "UEFA Champions League",
-    "home_team": "Atalanta",
-    "away_team": "Eintracht Frankfurt",
-    "label": "ata-ein",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/232.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/337.png",
-    "url": "https://yallashoot.mobi/albaplayer/eintracht-frankfurt-vs-atalanta/",
+    "league": "AFC Champions League Two - Group Stage",
+    "home_team": "Beijing Guoan",
+    "away_team": "Công An Hà Nội",
+    "label": "bei-cng",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2182",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/72909",
+    "url": "https://yallashoot.mobi/albaplayer/công-an-hà-nội-vs-beijing-guoan/",
     "servers": []
   },
   {
-    "time": "2025-11-27 01:30 IST",
+    "time": "2025-11-27 18:00 IST",
     "game": "football",
-    "league": "UEFA Champions League",
-    "home_team": "PSV Eindhoven",
-    "away_team": "Liverpool",
-    "label": "psv-liv",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/725.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/108.png",
-    "url": "https://ballcontrol.click/home/blog2/",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://ballcontrol.click/home/blog2/"
-      },
-      {
-        "name": "TNT",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=dG50Ml8x"
-      },
-      {
-        "name": "C+Live",
-        "url": "https://bolaloca.my/player/4/35"
-      },
-      {
-        "name": "ExtraSp",
-        "url": "https://bolaloca.my/player/4/166"
-      },
-      {
-        "name": "EPLuk",
-        "url": "https://bolaloca.my/player/4/129"
-      },
-      {
-        "name": "EspnNL",
-        "url": "https://bolaloca.my/player/4/141"
-      },
-      {
-        "name": "Bundliga",
-        "url": "https://bolaloca.my/player/4/114"
-      },
-      {
-        "name": "Espn",
-        "url": "https://bolaloca.my/player/4/93"
-      },
-      {
-        "name": "FoxARG",
-        "url": "https://bolaloca.my/player/4/79"
-      },
-      {
-        "name": "EN",
-        "url": "https://sportzonline.top/channels/hd/hd2.php"
-      },
-      {
-        "name": "IT",
-        "url": "https://sportzonline.top/channels/pt/eleven3.php"
-      },
-      {
-        "name": "BR",
-        "url": "https://sportzonline.top/channels/bra/br5.php"
-      },
-      {
-        "name": "بث1",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=YjRfMQ=="
-      },
-      {
-        "name": "بث2",
-        "url": "https://popcdn.day/go.php?stream=beINAR4"
-      },
-      {
-        "name": "بث3",
-        "url": "https://live26.yalla-sport.online/chtv/ch4.php"
-      },
-      {
-        "name": "متعدد",
-        "url": "https://feed1nov.shikeaben.site/albaplayer/p4/?serv=1"
-      }
-    ]
+    "league": "Egypt Cup - Round of 32",
+    "home_team": "Ghazl El-Mehalla",
+    "away_team": "Smouha",
+    "label": "gha-smo",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8610.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8309.png",
+    "url": "https://yallashoot.mobi/albaplayer/smouha-vs-ghazl-el-mehalla/",
+    "servers": []
   },
   {
-    "time": "2025-11-27 01:30 IST",
+    "time": "2025-11-27 18:00 IST",
     "game": "football",
-    "league": "UEFA Champions League",
-    "home_team": "Real Madrid",
-    "away_team": "Olympiacos",
-    "label": "rea-oly",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/131.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1023.png",
-    "url": "https://ballcontrol.click/home/blog4/",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://ballcontrol.click/home/blog4/"
-      },
-      {
-        "name": "TNT1",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=dG50NV8x"
-      },
-      {
-        "name": "Canal+",
-        "url": "https://bolaloca.my/player/4/13"
-      },
-      {
-        "name": "ExtraSp",
-        "url": "https://bolaloca.my/player/4/161"
-      },
-      {
-        "name": "ESPN",
-        "url": "https://bolaloca.my/player/4/88"
-      },
-      {
-        "name": "TudnUs",
-        "url": "https://bolaloca.my/player/4/68"
-      },
-      {
-        "name": "BR",
-        "url": "https://sportzonline.top/channels/bra/br2.php"
-      },
-      {
-        "name": "ES",
-        "url": "https://sportzonline.top/channels/hd/hd6.php"
-      },
-      {
-        "name": "بث1",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=YjNfMQ=="
-      },
-      {
-        "name": "بث2",
-        "url": "https://popcdn.day/go.php?stream=beINAR3"
-      },
-      {
-        "name": "بث3",
-        "url": "https://lovecdn.ru/daddy.php?stream=beINAR3"
-      },
-      {
-        "name": "بث4",
-        "url": "https://live25.yalla-sport.online/chtv/ch3.php"
-      },
-      {
-        "name": "بث5",
-        "url": "https://sportzonline.top/channels/hd/hd11.php"
-      },
-      {
-        "name": "بث6",
-        "url": "https://footballii.ir/official/b3"
-      },
-      {
-        "name": "متعدد",
-        "url": "https://feed1nov.shikeaben.site/albaplayer/p3/?serv=1"
-      }
-    ]
+    "league": "U17 World Cup - 3rd Place",
+    "home_team": "Italy U17",
+    "away_team": "Brazil U17",
+    "label": "ita-bra",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5259",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5271",
+    "url": "https://yallashoot.mobi/albaplayer/brazil-u17-vs-italy-u17/",
+    "servers": []
   },
   {
-    "time": "2025-11-27 01:30 IST",
+    "time": "2025-11-27 20:30 IST",
     "game": "football",
-    "league": "UEFA Champions League",
-    "home_team": "Tottenham",
-    "away_team": "PSG",
-    "label": "tot-psg",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/114.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/480.png",
-    "url": "https://ballcontrol.click/home/blog3/",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://ballcontrol.click/home/blog3/"
-      },
-      {
-        "name": "TNT",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=dG50M18x"
-      },
-      {
-        "name": "Canal+",
-        "url": "https://bolaloca.my/player/4/11"
-      },
-      {
-        "name": "ExtraSp",
-        "url": "https://bolaloca.my/player/4/165"
-      },
-      {
-        "name": "EPLuk",
-        "url": "https://bolaloca.my/player/4/130"
-      },
-      {
-        "name": "Bundliga",
-        "url": "https://bolaloca.my/player/4/112"
-      },
-      {
-        "name": "Espn",
-        "url": "https://bolaloca.my/player/4/89"
-      },
-      {
-        "name": "FR",
-        "url": "https://sportzonline.top/channels/hd/hd4.php"
-      },
-      {
-        "name": "EN",
-        "url": "https://sportzonline.top/channels/hd/hd5.php"
-      },
-      {
-        "name": "Eleven1",
-        "url": "https://sportzonline.top/channels/pt/eleven2.php"
-      },
-      {
-        "name": "BR",
-        "url": "https://sportzonline.top/channels/bra/br4.php"
-      },
-      {
-        "name": "رئيسي",
-        "url": "https://footballii.ir/official/b1"
-      },
-      {
-        "name": "بث1",
-        "url": "https://reddit-soccer-streams.app/frame.php?ch=YjFfMQ=="
-      },
-      {
-        "name": "بث2",
-        "url": "https://popcdn.day/go.php?stream=beINAR"
-      },
-      {
-        "name": "بث3",
-        "url": "https://live26.yalla-sport.online/chtv/ch1.php"
-      },
-      {
-        "name": "بث4",
-        "url": "https://can.yalla--shoots.live/bein-premium1/CH3.php"
-      },
-      {
-        "name": "Vimeo",
-        "url": "https://can.yalla--shoots.live/bein-premium1/CH1.php"
-      },
-      {
-        "name": "متعدد",
-        "url": "https://feed1nov.shikeaben.site/albaplayer/p1/?serv=1"
-      }
-    ]
+    "league": "Egypt Cup - Round of 32",
+    "home_team": "Bourfoad",
+    "away_team": "National Bank Of Egypt",
+    "label": "bou-nat",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/54364",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/50527.png",
+    "url": "https://yallashoot.mobi/albaplayer/national-bank-of-egypt-vs-bourfoad/",
+    "servers": []
   },
   {
-    "time": "2025-11-27 01:30 IST",
+    "time": "2025-11-27 21:30 IST",
     "game": "football",
-    "league": "UEFA Champions League",
-    "home_team": "Club Brugge",
-    "away_team": "Sporting CP",
-    "label": "clu-spo",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1169.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/890.png",
-    "url": "https://yallashoot.mobi/albaplayer/sporting-cp-vs-club-brugge/",
+    "league": "U17 World Cup - Final",
+    "home_team": "Austria U17",
+    "away_team": "Portugal U17",
+    "label": "aus-por",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5253",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5218",
+    "url": "https://yallashoot.mobi/albaplayer/portugal-u17-vs-austria-u17/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:00 IST",
+    "game": "football",
+    "league": "Egypt Cup - Round of 32",
+    "home_team": "Wadi Degla",
+    "away_team": "Petrojet",
+    "label": "wad-pet",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8311.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8302.png",
+    "url": "https://yallashoot.mobi/albaplayer/petrojet-vs-wadi-degla/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "Celta Vigo",
+    "away_team": "Ludogorets",
+    "label": "cel-lud",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/158.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8528.png",
+    "url": "https://yallashoot.mobi/albaplayer/ludogorets-vs-celta-vigo/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "Dinamo Zagreb",
+    "away_team": "Lille",
+    "label": "din-lil",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2245.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/478.png",
+    "url": "https://yallashoot.mobi/albaplayer/lille-vs-dinamo-zagreb/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "Celtic",
+    "away_team": "Feyenoord",
+    "label": "cel-fey",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/754.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/691.png",
+    "url": "https://yallashoot.mobi/albaplayer/feyenoord-vs-celtic/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "Ferencvaros",
+    "away_team": "Fenerbahçe SK",
+    "label": "fer-fen",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/6020.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/946.png",
+    "url": "https://yallashoot.mobi/albaplayer/fenerbahçe-sk-vs-ferencvaros/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "Freiburg",
+    "away_team": "Viktoria Plzen",
+    "label": "fre-vik",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/354.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1796.png",
+    "url": "https://yallashoot.mobi/albaplayer/viktoria-plzen-vs-freiburg/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "OGC Nice",
+    "away_team": "FC Porto",
+    "label": "ogc-fcp",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/470.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/887.png",
+    "url": "https://yallashoot.mobi/albaplayer/fc-porto-vs-ogc-nice/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "Young Boys",
+    "away_team": "Aston Villa",
+    "label": "you-ast",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1139.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/109.png",
+    "url": "https://yallashoot.mobi/albaplayer/aston-villa-vs-young-boys/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "FC Midtjylland",
+    "away_team": "AS Roma",
+    "label": "fcm-asr",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1823.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/225.png",
+    "url": "https://yallashoot.mobi/albaplayer/as-roma-vs-fc-midtjylland/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Slovan Bratislava",
+    "label": "ray-slo",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/174.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2112.png",
+    "url": "https://yallashoot.mobi/albaplayer/slovan-bratislava-vs-rayo-vallecano/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "Mainz 05",
+    "away_team": "CS Universitatea Craiova",
+    "label": "mai-csu",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/352.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2048.png",
+    "url": "https://yallashoot.mobi/albaplayer/cs-universitatea-craiova-vs-mainz-05/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "NK Celje",
+    "away_team": "Sigma Olomouc",
+    "label": "nkc-sig",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2345.png",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1798",
+    "url": "https://yallashoot.mobi/albaplayer/sigma-olomouc-vs-nk-celje/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "Rapid Vienna",
+    "away_team": "Rakow Czestochowa",
+    "label": "rap-rak",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1738.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/13058.png",
+    "url": "https://yallashoot.mobi/albaplayer/rakow-czestochowa-vs-rapid-vienna/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "Dynamo Kyiv",
+    "away_team": "Omonia",
+    "label": "dyn-omo",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1956.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2262.png",
+    "url": "https://yallashoot.mobi/albaplayer/omonia-vs-dynamo-kyiv/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "FC Lausanne-Sport",
+    "away_team": "Lech Poznan",
+    "label": "fcl-lec",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1160.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2211.png",
+    "url": "https://yallashoot.mobi/albaplayer/lech-poznan-vs-fc-lausanne-sport/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "BK Häcken",
+    "away_team": "Zrinjski",
+    "label": "bkh-zri",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1903.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/5650.png",
+    "url": "https://yallashoot.mobi/albaplayer/zrinjski-vs-bk-häcken/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "Lincoln Red Imps",
+    "away_team": "Hamrun Spartans",
+    "label": "lin-ham",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/16037",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/14989",
+    "url": "https://yallashoot.mobi/albaplayer/hamrun-spartans-vs-lincoln-red-imps/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "Shelbourne",
+    "away_team": "AZ Alkmaar",
+    "label": "she-aza",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/849",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/699.png",
+    "url": "https://yallashoot.mobi/albaplayer/az-alkmaar-vs-shelbourne/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-27 23:15 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "Brann",
+    "away_team": "PAOK",
+    "label": "bra-pao",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1982",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1029.png",
+    "url": "https://yallashoot.mobi/albaplayer/paok-vs-brann/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "Utrecht",
+    "away_team": "Real Betis",
+    "label": "utr-rea",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/698.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/146.png",
+    "url": "https://yallashoot.mobi/albaplayer/real-betis-vs-utrecht/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "Sturm Graz",
+    "away_team": "Panathinaikos",
+    "label": "stu-pan",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1741.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1022.png",
+    "url": "https://yallashoot.mobi/albaplayer/panathinaikos-vs-sturm-graz/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "Malmö FF",
+    "away_team": "Nottingham Forest",
+    "label": "mal-not",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1891.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/29.png",
+    "url": "https://yallashoot.mobi/albaplayer/nottingham-forest-vs-malmö-ff/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "SC Braga",
+    "away_team": "Rangers",
+    "label": "scb-ran",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/895.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/753.png",
+    "url": "https://yallashoot.mobi/albaplayer/rangers-vs-sc-braga/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "Lyon",
+    "away_team": "Maccabi Tel Aviv",
+    "label": "lyo-mac",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/465.png",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/566",
+    "url": "https://yallashoot.mobi/albaplayer/maccabi-tel-aviv-vs-lyon/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "FC Basel 1893",
+    "away_team": "KRC Genk",
+    "label": "fcb-krc",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1138.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1177.png",
+    "url": "https://yallashoot.mobi/albaplayer/krc-genk-vs-fc-basel-1893/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "Stuttgart",
+    "away_team": "Go Ahead Eagles",
+    "label": "stu-goa",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/338.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/714.png",
+    "url": "https://yallashoot.mobi/albaplayer/go-ahead-eagles-vs-stuttgart/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "FCSB",
+    "away_team": "FK Crvena zvezda",
+    "label": "fcs-fkc",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2041.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8957.png",
+    "url": "https://yallashoot.mobi/albaplayer/fk-crvena-zvezda-vs-fcsb/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Europa League",
+    "home_team": "Red Bull Salzburg",
+    "away_team": "Bologna",
+    "label": "red-bol",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1739.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/245.png",
+    "url": "https://yallashoot.mobi/albaplayer/bologna-vs-red-bull-salzburg/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "Crystal Palace",
+    "away_team": "Strasbourg",
+    "label": "cry-str",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/10.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/479.png",
+    "url": "https://yallashoot.mobi/albaplayer/strasbourg-vs-crystal-palace/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "Sparta Praha",
+    "away_team": "Legia Warszawa",
+    "label": "spa-leg",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1788.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2209.png",
+    "url": "https://yallashoot.mobi/albaplayer/legia-warszawa-vs-sparta-praha/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "Shakhtar Donetsk",
+    "away_team": "Shamrock",
+    "label": "sha-sha",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1955.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/838.png",
+    "url": "https://yallashoot.mobi/albaplayer/shamrock-vs-shakhtar-donetsk/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "KuPS",
+    "away_team": "Jagiellonia",
+    "label": "kup-jag",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1935",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2220.png",
+    "url": "https://yallashoot.mobi/albaplayer/jagiellonia-vs-kups/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "AEK Larnaca",
+    "away_team": "HNK Rijeka",
+    "label": "aek-hnk",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2274",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2248",
+    "url": "https://yallashoot.mobi/albaplayer/hnk-rijeka-vs-aek-larnaca/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "KF Shkendija 79",
+    "away_team": "Drita",
+    "label": "kfs-dri",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8486",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/45033",
+    "url": "https://yallashoot.mobi/albaplayer/drita-vs-kf-shkendija-79/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "AEK Athens",
+    "away_team": "Fiorentina",
+    "label": "aek-fio",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1024.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/228.png",
+    "url": "https://yallashoot.mobi/albaplayer/fiorentina-vs-aek-athens/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "Samsunspor",
+    "away_team": "Breidablik",
+    "label": "sam-bre",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/997.png",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2089",
+    "url": "https://yallashoot.mobi/albaplayer/breidablik-vs-samsunspor/",
+    "servers": []
+  },
+  {
+    "time": "2025-11-28 01:30 IST",
+    "game": "football",
+    "league": "UEFA Conference League",
+    "home_team": "Noah",
+    "away_team": "Aberdeen",
+    "label": "noa-abe",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/56933.png",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/761",
+    "url": "https://yallashoot.mobi/albaplayer/aberdeen-vs-noah/",
     "servers": []
   }
 ]
