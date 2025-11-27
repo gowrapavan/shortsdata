@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-26T06:15:44.967334Z",
+    "last_updated": "2025-11-27T06:16:14.607670Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -589,6 +589,15 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Kylian Mbappé",
+                    "team_name": "Real Madrid CF",
+                    "team_crest": "https://crests.football-data.org/86.png",
+                    "goals": 9,
+                    "assists": null,
+                    "penalties": 3,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Victor Osimhen",
                     "team_name": "Galatasaray SK",
                     "team_crest": "https://crests.football-data.org/610.png",
@@ -596,15 +605,6 @@
                     "assists": null,
                     "penalties": 3,
                     "nationality": "Nigeria"
-                },
-                {
-                    "player_name": "Kylian Mbappé",
-                    "team_name": "Real Madrid CF",
-                    "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 5,
-                    "assists": null,
-                    "penalties": 3,
-                    "nationality": "France"
                 },
                 {
                     "player_name": "Harry Kane",
@@ -623,6 +623,15 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Norway"
+                },
+                {
+                    "player_name": "Martinelli",
+                    "team_name": "Arsenal FC",
+                    "team_crest": "https://crests.football-data.org/57.png",
+                    "goals": 4,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Brazil"
                 },
                 {
                     "player_name": "Marcus Rashford",
@@ -661,22 +670,13 @@
                     "nationality": "England"
                 },
                 {
-                    "player_name": "Martinelli",
-                    "team_name": "Arsenal FC",
-                    "team_crest": "https://crests.football-data.org/57.png",
-                    "goals": 3,
+                    "player_name": "Vitinha",
+                    "team_name": "Paris Saint-Germain FC",
+                    "team_crest": "https://crests.football-data.org/524.png",
+                    "goals": 4,
                     "assists": 1,
-                    "penalties": null,
-                    "nationality": "Brazil"
-                },
-                {
-                    "player_name": "Felix Kalu Nmecha",
-                    "team_name": "Borussia Dortmund",
-                    "team_crest": "https://crests.football-data.org/4.png",
-                    "goals": 3,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Germany"
+                    "penalties": 1,
+                    "nationality": "Portugal"
                 }
             ]
         }
