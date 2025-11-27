@@ -4907,7 +4907,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-26",
     "DateTime": "2025-11-26T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 384,
@@ -4920,9 +4920,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/345.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 384,
     "Points": {
-      "384": 0,
+      "384": 3,
       "345": 0
     },
     "Goals": []
@@ -4933,7 +4933,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-26",
     "DateTime": "2025-11-26T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 356,
@@ -4944,11 +4944,11 @@
     "AwayTeamName": "Portsmouth FC",
     "HomeTeamLogo": "https://crests.football-data.org/356.png",
     "AwayTeamLogo": "https://crests.football-data.org/325.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 356,
     "Points": {
-      "356": 0,
+      "356": 3,
       "325": 0
     },
     "Goals": []
@@ -5063,7 +5063,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-26",
     "DateTime": "2025-11-26T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 59,
@@ -5075,11 +5075,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/59.png",
     "AwayTeamLogo": "https://crests.football-data.org/69.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 69,
     "Points": {
       "59": 0,
-      "69": 0
+      "69": 3
     },
     "Goals": []
   },
@@ -5115,7 +5115,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-26",
     "DateTime": "2025-11-26T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 74,
@@ -5127,11 +5127,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/74.png",
     "AwayTeamLogo": "https://crests.football-data.org/332.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "74": 0,
-      "332": 0
+      "74": 1,
+      "332": 1
     },
     "Goals": []
   },
@@ -5141,7 +5141,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-26",
     "DateTime": "2025-11-26T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 404,
@@ -5152,11 +5152,11 @@
     "AwayTeamName": "Bristol City FC",
     "HomeTeamLogo": "https://crests.football-data.org/404.png",
     "AwayTeamLogo": "https://crests.football-data.org/387.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 404,
     "Points": {
-      "404": 0,
+      "404": 3,
       "387": 0
     },
     "Goals": []
