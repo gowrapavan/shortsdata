@@ -37,14 +37,14 @@
             "tla": "FLA",
             "crest": "https://crests.football-data.org/1783.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 22,
-          "draw": 8,
+          "draw": 9,
           "lost": 5,
-          "points": 74,
-          "goalsFor": 73,
-          "goalsAgainst": 23,
+          "points": 75,
+          "goalsFor": 74,
+          "goalsAgainst": 24,
           "goalDifference": 50
         },
         {
@@ -56,15 +56,15 @@
             "tla": "PAL",
             "crest": "https://crests.football-data.org/1769.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 21,
           "draw": 7,
-          "lost": 7,
+          "lost": 8,
           "points": 70,
-          "goalsFor": 58,
-          "goalsAgainst": 29,
-          "goalDifference": 29
+          "goalsFor": 60,
+          "goalsAgainst": 32,
+          "goalDifference": 28
         },
         {
           "position": 3,
@@ -183,24 +183,43 @@
         {
           "position": 9,
           "team": {
+            "id": 1767,
+            "name": "Grêmio FBPA",
+            "shortName": "Grêmio",
+            "tla": "FBP",
+            "crest": "https://crests.football-data.org/1767.png"
+          },
+          "playedGames": 36,
+          "form": null,
+          "won": 12,
+          "draw": 10,
+          "lost": 14,
+          "points": 46,
+          "goalsFor": 42,
+          "goalsAgainst": 48,
+          "goalDifference": -6
+        },
+        {
+          "position": 10,
+          "team": {
             "id": 4286,
             "name": "RB Bragantino",
             "shortName": "Bragantino",
             "tla": "RBB",
             "crest": "https://crests.football-data.org/4286.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 13,
           "draw": 6,
-          "lost": 16,
+          "lost": 17,
           "points": 45,
           "goalsFor": 40,
-          "goalsAgainst": 53,
-          "goalDifference": -13
+          "goalsAgainst": 54,
+          "goalDifference": -14
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 1779,
             "name": "SC Corinthians Paulista",
@@ -219,7 +238,7 @@
           "goalDifference": -4
         },
         {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 1766,
             "name": "CA Mineiro",
@@ -227,34 +246,15 @@
             "tla": "CAM",
             "crest": "https://crests.football-data.org/1766.png"
           },
-          "playedGames": 34,
-          "form": null,
-          "won": 11,
-          "draw": 11,
-          "lost": 12,
-          "points": 44,
-          "goalsFor": 37,
-          "goalsAgainst": 39,
-          "goalDifference": -2
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 1767,
-            "name": "Grêmio FBPA",
-            "shortName": "Grêmio",
-            "tla": "FBP",
-            "crest": "https://crests.football-data.org/1767.png"
-          },
           "playedGames": 35,
           "form": null,
           "won": 11,
-          "draw": 10,
-          "lost": 14,
-          "points": 43,
-          "goalsFor": 39,
-          "goalsAgainst": 46,
-          "goalDifference": -7
+          "draw": 12,
+          "lost": 12,
+          "points": 45,
+          "goalsFor": 38,
+          "goalsAgainst": 40,
+          "goalDifference": -2
         },
         {
           "position": 13,
@@ -360,15 +360,15 @@
             "tla": "FEC",
             "crest": "https://crests.football-data.org/3984.png"
           },
-          "playedGames": 34,
+          "playedGames": 35,
           "form": null,
-          "won": 8,
+          "won": 9,
           "draw": 10,
           "lost": 16,
-          "points": 34,
-          "goalsFor": 37,
+          "points": 37,
+          "goalsFor": 38,
           "goalsAgainst": 53,
-          "goalDifference": -16
+          "goalDifference": -15
         },
         {
           "position": 19,
