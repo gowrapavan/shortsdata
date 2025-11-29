@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 529,
+            "name": "Stade Rennais FC 1901",
+            "shortName": "Stade Rennais",
+            "tla": "REN",
+            "crest": "https://crests.football-data.org/529.png"
+          },
+          "playedGames": 14,
+          "form": null,
+          "won": 6,
+          "draw": 6,
+          "lost": 2,
+          "points": 24,
+          "goalsFor": 24,
+          "goalsAgainst": 18,
+          "goalDifference": 6
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 521,
             "name": "Lille OSC",
             "shortName": "Lille",
@@ -105,7 +124,7 @@
           "goalDifference": 10
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 576,
             "name": "RC Strasbourg Alsace",
@@ -122,25 +141,6 @@
           "goalsFor": 24,
           "goalsAgainst": 17,
           "goalDifference": 7
-        },
-        {
-          "position": 6,
-          "team": {
-            "id": 529,
-            "name": "Stade Rennais FC 1901",
-            "shortName": "Stade Rennais",
-            "tla": "REN",
-            "crest": "https://crests.football-data.org/529.png"
-          },
-          "playedGames": 13,
-          "form": null,
-          "won": 5,
-          "draw": 6,
-          "lost": 2,
-          "points": 21,
-          "goalsFor": 23,
-          "goalsAgainst": 18,
-          "goalDifference": 5
         },
         {
           "position": 7,
@@ -341,15 +341,15 @@
             "tla": "FCM",
             "crest": "https://crests.football-data.org/545.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
           "won": 3,
           "draw": 2,
-          "lost": 8,
+          "lost": 9,
           "points": 11,
           "goalsFor": 14,
-          "goalsAgainst": 30,
-          "goalDifference": -16
+          "goalsAgainst": 31,
+          "goalDifference": -17
         },
         {
           "position": 18,

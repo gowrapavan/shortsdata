@@ -19,7 +19,7 @@
     "id": 2416,
     "startDate": "2025-08-08",
     "endDate": "2026-12-29",
-    "currentMatchday": 17,
+    "currentMatchday": 18,
     "winner": null
   },
   "standings": [
@@ -113,15 +113,15 @@
             "tla": "IPS",
             "crest": "https://crests.football-data.org/349.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 7,
           "draw": 6,
-          "lost": 3,
+          "lost": 4,
           "points": 27,
-          "goalsFor": 28,
-          "goalsAgainst": 16,
-          "goalDifference": 12
+          "goalsFor": 29,
+          "goalsAgainst": 18,
+          "goalDifference": 11
         },
         {
           "position": 6,
@@ -373,6 +373,25 @@
         {
           "position": 19,
           "team": {
+            "id": 1082,
+            "name": "Oxford United FC",
+            "shortName": "Oxford United",
+            "tla": "OXF",
+            "crest": "https://crests.football-data.org/1082.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 4,
+          "draw": 6,
+          "lost": 8,
+          "points": 18,
+          "goalsFor": 20,
+          "goalsAgainst": 25,
+          "goalDifference": -5
+        },
+        {
+          "position": 20,
+          "team": {
             "id": 72,
             "name": "Swansea City AFC",
             "shortName": "Swansea",
@@ -390,7 +409,7 @@
           "goalDifference": -8
         },
         {
-          "position": 20,
+          "position": 21,
           "team": {
             "id": 325,
             "name": "Portsmouth FC",
@@ -409,7 +428,7 @@
           "goalDifference": -9
         },
         {
-          "position": 21,
+          "position": 22,
           "team": {
             "id": 356,
             "name": "Sheffield United FC",
@@ -426,25 +445,6 @@
           "goalsFor": 17,
           "goalsAgainst": 26,
           "goalDifference": -9
-        },
-        {
-          "position": 22,
-          "team": {
-            "id": 1082,
-            "name": "Oxford United FC",
-            "shortName": "Oxford United",
-            "tla": "OXF",
-            "crest": "https://crests.football-data.org/1082.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 3,
-          "draw": 6,
-          "lost": 8,
-          "points": 15,
-          "goalsFor": 18,
-          "goalsAgainst": 24,
-          "goalDifference": -6
         },
         {
           "position": 23,
