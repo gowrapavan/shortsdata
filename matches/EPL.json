@@ -3155,7 +3155,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-29",
     "DateTime": "2025-11-29T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 62,
@@ -3166,12 +3166,12 @@
     "AwayTeamName": "Newcastle United FC",
     "HomeTeamLogo": "https://crests.football-data.org/62.png",
     "AwayTeamLogo": "https://crests.football-data.org/67.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 3,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 4,
+    "Result": 67,
     "Points": {
       "62": 0,
-      "67": 0
+      "67": 3
     },
     "Goals": []
   },
@@ -3244,8 +3244,8 @@
     "AwayTeamName": "Fulham FC",
     "HomeTeamLogo": "https://crests.football-data.org/73.png",
     "AwayTeamLogo": "https://crests.football-data.org/63.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "73": 0,
