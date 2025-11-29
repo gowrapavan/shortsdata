@@ -3347,7 +3347,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-11-29",
     "DateTime": "2025-11-29T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 89,
@@ -3358,12 +3358,12 @@
     "AwayTeamName": "CA Osasuna",
     "HomeTeamLogo": "https://crests.football-data.org/89.png",
     "AwayTeamLogo": "https://crests.football-data.org/79.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "89": 0,
-      "79": 0
+      "89": 1,
+      "79": 1
     },
     "Goals": []
   },
