@@ -3123,7 +3123,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-29",
     "DateTime": "2025-11-29T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 107,
@@ -3134,11 +3134,11 @@
     "AwayTeamName": "Hellas Verona FC",
     "HomeTeamLogo": "https://crests.football-data.org/107.png",
     "AwayTeamLogo": "https://crests.football-data.org/450.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 107,
     "Points": {
-      "107": 0,
+      "107": 3,
       "450": 0
     },
     "Goals": []
@@ -3212,8 +3212,8 @@
     "AwayTeamName": "Cagliari Calcio",
     "HomeTeamLogo": "https://crests.football-data.org/109.png",
     "AwayTeamLogo": "https://crests.football-data.org/104.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "109": 0,
@@ -3227,7 +3227,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-29",
     "DateTime": "2025-11-29T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 112,
@@ -3239,11 +3239,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/112.png",
     "AwayTeamLogo": "https://crests.football-data.org/115.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 115,
     "Points": {
       "112": 0,
-      "115": 0
+      "115": 3
     },
     "Goals": []
   },

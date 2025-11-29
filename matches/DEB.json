@@ -2507,7 +2507,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-29",
     "DateTime": "2025-11-29T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5,
@@ -2518,11 +2518,11 @@
     "AwayTeamName": "FC St. Pauli 1910",
     "HomeTeamLogo": "https://crests.football-data.org/5.png",
     "AwayTeamLogo": "https://crests.football-data.org/20.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 5,
     "Points": {
-      "5": 0,
+      "5": 3,
       "20": 0
     },
     "Goals": []
@@ -2544,8 +2544,8 @@
     "AwayTeamName": "Borussia Dortmund",
     "HomeTeamLogo": "https://crests.football-data.org/3.png",
     "AwayTeamLogo": "https://crests.football-data.org/4.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "3": 0,
@@ -2611,7 +2611,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-29",
     "DateTime": "2025-11-29T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 12,
@@ -2623,11 +2623,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/12.png",
     "AwayTeamLogo": "https://crests.football-data.org/1.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "12": 0,
-      "1": 0
+      "12": 1,
+      "1": 1
     },
     "Goals": []
   },
@@ -2663,7 +2663,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-29",
     "DateTime": "2025-11-29T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 28,
@@ -2674,12 +2674,12 @@
     "AwayTeamName": "1. FC Heidenheim 1846",
     "HomeTeamLogo": "https://crests.football-data.org/28.png",
     "AwayTeamLogo": "https://crests.football-data.org/44.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 44,
     "Points": {
       "28": 0,
-      "44": 0
+      "44": 3
     },
     "Goals": []
   },
@@ -2689,7 +2689,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-29",
     "DateTime": "2025-11-29T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 2,
@@ -2700,11 +2700,11 @@
     "AwayTeamName": "FC Augsburg",
     "HomeTeamLogo": "https://crests.football-data.org/2.png",
     "AwayTeamLogo": "https://crests.football-data.org/16.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 2,
     "Points": {
-      "2": 0,
+      "2": 3,
       "16": 0
     },
     "Goals": []

@@ -3025,7 +3025,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-29",
     "DateTime": "2025-11-29T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 71,
@@ -3036,11 +3036,11 @@
     "AwayTeamName": "AFC Bournemouth",
     "HomeTeamLogo": "https://crests.football-data.org/71.png",
     "AwayTeamLogo": "https://crests.football-data.org/bournemouth.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 71,
     "Points": {
-      "71": 0,
+      "71": 3,
       "1044": 0
     },
     "Goals": []
@@ -3103,7 +3103,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-29",
     "DateTime": "2025-11-29T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 402,
@@ -3114,11 +3114,11 @@
     "AwayTeamName": "Burnley FC",
     "HomeTeamLogo": "https://crests.football-data.org/402.png",
     "AwayTeamLogo": "https://crests.football-data.org/328.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 402,
     "Points": {
-      "402": 0,
+      "402": 3,
       "328": 0
     },
     "Goals": []
@@ -3166,8 +3166,8 @@
     "AwayTeamName": "Newcastle United FC",
     "HomeTeamLogo": "https://crests.football-data.org/62.png",
     "AwayTeamLogo": "https://crests.football-data.org/67.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
       "62": 0,
@@ -3181,7 +3181,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-29",
     "DateTime": "2025-11-29T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 65,
@@ -3192,11 +3192,11 @@
     "AwayTeamName": "Leeds United FC",
     "HomeTeamLogo": "https://crests.football-data.org/65.png",
     "AwayTeamLogo": "https://crests.football-data.org/341.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 65,
     "Points": {
-      "65": 0,
+      "65": 3,
       "341": 0
     },
     "Goals": []

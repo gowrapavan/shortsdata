@@ -3425,7 +3425,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-11-29",
     "DateTime": "2025-11-29T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 81,
@@ -3436,11 +3436,11 @@
     "AwayTeamName": "Deportivo Alavés",
     "HomeTeamLogo": "https://crests.football-data.org/81.png",
     "AwayTeamLogo": "https://crests.football-data.org/263.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 81,
     "Points": {
-      "81": 0,
+      "81": 3,
       "263": 0
     },
     "Goals": []
@@ -3462,8 +3462,8 @@
     "AwayTeamName": "Athletic Club",
     "HomeTeamLogo": "https://crests.football-data.org/88.png",
     "AwayTeamLogo": "https://crests.football-data.org/77.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "88": 0,
