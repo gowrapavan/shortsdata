@@ -5323,7 +5323,7 @@
     "RoundName": "Championship",
     "Date": "2025-11-28",
     "DateTime": "2025-11-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1082,
@@ -5334,11 +5334,11 @@
     "AwayTeamName": "Ipswich Town FC",
     "HomeTeamLogo": "https://crests.football-data.org/1082.png",
     "AwayTeamLogo": "https://crests.football-data.org/349.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 1082,
     "Points": {
-      "1082": 0,
+      "1082": 3,
       "349": 0
     },
     "Goals": []
@@ -6099,7 +6099,7 @@
   },
   {
     "GameId": 540952,
-    "RoundId": 7,
+    "RoundId": 18,
     "RoundName": "Championship",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T15:00:00Z",
@@ -6125,7 +6125,7 @@
   },
   {
     "GameId": 540953,
-    "RoundId": 7,
+    "RoundId": 18,
     "RoundName": "Championship",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T15:00:00Z",
@@ -6151,7 +6151,7 @@
   },
   {
     "GameId": 540954,
-    "RoundId": 7,
+    "RoundId": 18,
     "RoundName": "Championship",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T15:00:00Z",
@@ -6177,7 +6177,7 @@
   },
   {
     "GameId": 540955,
-    "RoundId": 7,
+    "RoundId": 18,
     "RoundName": "Championship",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T15:00:00Z",
@@ -6203,7 +6203,7 @@
   },
   {
     "GameId": 540956,
-    "RoundId": 7,
+    "RoundId": 18,
     "RoundName": "Championship",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T15:00:00Z",
@@ -6229,7 +6229,7 @@
   },
   {
     "GameId": 540957,
-    "RoundId": 7,
+    "RoundId": 18,
     "RoundName": "Championship",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T12:30:00Z",
@@ -6255,7 +6255,7 @@
   },
   {
     "GameId": 540958,
-    "RoundId": 7,
+    "RoundId": 18,
     "RoundName": "Championship",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T12:30:00Z",
@@ -6281,7 +6281,7 @@
   },
   {
     "GameId": 540959,
-    "RoundId": 7,
+    "RoundId": 18,
     "RoundName": "Championship",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T15:00:00Z",
@@ -6333,7 +6333,7 @@
   },
   {
     "GameId": 540961,
-    "RoundId": 7,
+    "RoundId": 18,
     "RoundName": "Championship",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T12:30:00Z",
@@ -6385,7 +6385,7 @@
   },
   {
     "GameId": 540963,
-    "RoundId": 7,
+    "RoundId": 18,
     "RoundName": "Championship",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T15:00:00Z",
