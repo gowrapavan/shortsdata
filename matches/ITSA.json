@@ -3082,8 +3082,8 @@
     "AwayTeamName": "SSC Napoli",
     "HomeTeamLogo": "https://crests.football-data.org/100.png",
     "AwayTeamLogo": "https://crests.football-data.org/113.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "100": 0,
@@ -3097,7 +3097,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-30",
     "DateTime": "2025-11-30T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 102,
@@ -3110,9 +3110,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/99.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 102,
     "Points": {
-      "102": 0,
+      "102": 3,
       "99": 0
     },
     "Goals": []

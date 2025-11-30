@@ -2559,7 +2559,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-30",
     "DateTime": "2025-11-30T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 19,
@@ -2570,12 +2570,12 @@
     "AwayTeamName": "VfL Wolfsburg",
     "HomeTeamLogo": "https://crests.football-data.org/19.png",
     "AwayTeamLogo": "https://crests.football-data.org/11.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "19": 0,
-      "11": 0
+      "19": 1,
+      "11": 1
     },
     "Goals": []
   },
@@ -2585,7 +2585,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-11-30",
     "DateTime": "2025-11-30T18:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 17,
@@ -2596,11 +2596,11 @@
     "AwayTeamName": "1. FSV Mainz 05",
     "HomeTeamLogo": "https://crests.football-data.org/17.png",
     "AwayTeamLogo": "https://crests.football-data.org/15.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 0,
+    "Result": 17,
     "Points": {
-      "17": 0,
+      "17": 3,
       "15": 0
     },
     "Goals": []
