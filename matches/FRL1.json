@@ -2957,7 +2957,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-30",
     "DateTime": "2025-11-30T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 533,
@@ -2968,12 +2968,12 @@
     "AwayTeamName": "Lille OSC",
     "HomeTeamLogo": "https://crests.football-data.org/533.png",
     "AwayTeamLogo": "https://crests.football-data.org/521.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 521,
     "Points": {
       "533": 0,
-      "521": 0
+      "521": 3
     },
     "Goals": []
   },
@@ -3009,7 +3009,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-30",
     "DateTime": "2025-11-30T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 525,
@@ -3020,11 +3020,11 @@
     "AwayTeamName": "OGC Nice",
     "HomeTeamLogo": "https://crests.football-data.org/525.png",
     "AwayTeamLogo": "https://crests.football-data.org/522.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 525,
     "Points": {
-      "525": 0,
+      "525": 3,
       "522": 0
     },
     "Goals": []
@@ -3139,7 +3139,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-30",
     "DateTime": "2025-11-30T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 576,
@@ -3151,11 +3151,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/576.png",
     "AwayTeamLogo": "https://crests.football-data.org/512.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 512,
     "Points": {
       "576": 0,
-      "512": 0
+      "512": 3
     },
     "Goals": []
   },
@@ -3165,7 +3165,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-11-30",
     "DateTime": "2025-11-30T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 532,
@@ -3176,12 +3176,12 @@
     "AwayTeamName": "Racing Club de Lens",
     "HomeTeamLogo": "https://crests.football-data.org/532.png",
     "AwayTeamLogo": "https://crests.football-data.org/546.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 546,
     "Points": {
       "532": 0,
-      "546": 0
+      "546": 3
     },
     "Goals": []
   },

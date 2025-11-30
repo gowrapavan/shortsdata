@@ -3051,7 +3051,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-30",
     "DateTime": "2025-11-30T14:05:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 58,
@@ -3062,11 +3062,11 @@
     "AwayTeamName": "Wolverhampton Wanderers FC",
     "HomeTeamLogo": "https://crests.football-data.org/58.png",
     "AwayTeamLogo": "https://crests.football-data.org/76.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 58,
     "Points": {
-      "58": 0,
+      "58": 3,
       "76": 0
     },
     "Goals": []
@@ -3140,8 +3140,8 @@
     "AwayTeamName": "Arsenal FC",
     "HomeTeamLogo": "https://crests.football-data.org/61.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "61": 0,
@@ -3207,7 +3207,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-30",
     "DateTime": "2025-11-30T14:05:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 351,
@@ -3219,11 +3219,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/351.png",
     "AwayTeamLogo": "https://crests.football-data.org/397.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 397,
     "Points": {
       "351": 0,
-      "397": 0
+      "397": 3
     },
     "Goals": []
   },
@@ -3259,7 +3259,7 @@
     "RoundName": "Premier League",
     "Date": "2025-11-30",
     "DateTime": "2025-11-30T14:05:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 563,
@@ -3271,11 +3271,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/563.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 64,
     "Points": {
       "563": 0,
-      "64": 0
+      "64": 3
     },
     "Goals": []
   },
