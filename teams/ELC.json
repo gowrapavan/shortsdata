@@ -116,6 +116,13 @@
         "nationality": "Northern Ireland"
       },
       {
+        "id": 272666,
+        "name": "Matty Litherland",
+        "position": "Defence",
+        "dateOfBirth": null,
+        "nationality": "England"
+      },
+      {
         "id": 274055,
         "name": "George Pratt",
         "position": "Defence",
@@ -1220,15 +1227,15 @@
       }
     ],
     "coach": {
-      "id": 5603,
-      "firstName": "Alan",
-      "lastName": "Sheehan",
-      "name": "Alan Sheehan",
-      "dateOfBirth": "1986-09-14",
-      "nationality": "Ireland",
+      "id": 204450,
+      "firstName": "Vítor",
+      "lastName": "Matos",
+      "name": "Vítor Matos",
+      "dateOfBirth": "1988-03-28",
+      "nationality": "Portugal",
       "contract": {
-        "start": "2025-05",
-        "until": "2026-06"
+        "start": "2025-11",
+        "until": "2029-06"
       }
     },
     "squad": [
@@ -1526,13 +1533,6 @@
         "position": "Midfield",
         "dateOfBirth": "2003-09-26",
         "nationality": "Northern Ireland"
-      },
-      {
-        "id": 264340,
-        "name": "Cole Deeming",
-        "position": "Midfield",
-        "dateOfBirth": "2007-01-19",
-        "nationality": "England"
       },
       {
         "id": 273841,
@@ -3102,6 +3102,13 @@
         "nationality": "England"
       },
       {
+        "id": 6339,
+        "name": "Richard O'Donnell",
+        "position": "Goalkeeper",
+        "dateOfBirth": "1988-09-12",
+        "nationality": "England"
+      },
+      {
         "id": 180671,
         "name": "Jacob Widell Zetterström",
         "position": "Goalkeeper",
@@ -3177,34 +3184,6 @@
         "position": "Offence",
         "dateOfBirth": null,
         "nationality": "England"
-      },
-      {
-        "id": 186708,
-        "name": "Bobby Clark",
-        "position": "Central Midfield",
-        "dateOfBirth": "2005-02-07",
-        "nationality": "England"
-      },
-      {
-        "id": 175895,
-        "name": "Owen Beck",
-        "position": "Left-Back",
-        "dateOfBirth": "2002-08-09",
-        "nationality": "Wales"
-      },
-      {
-        "id": 157329,
-        "name": "Liam Thompson",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2002-04-29",
-        "nationality": "England"
-      },
-      {
-        "id": 14631,
-        "name": "Ebou Adams",
-        "position": "Central Midfield",
-        "dateOfBirth": "1996-01-15",
-        "nationality": "Gambia"
       },
       {
         "id": 11300,
@@ -3303,6 +3282,34 @@
         "position": "Right Winger",
         "dateOfBirth": "1997-09-23",
         "nationality": "England"
+      },
+      {
+        "id": 186708,
+        "name": "Bobby Clark",
+        "position": "Central Midfield",
+        "dateOfBirth": "2005-02-07",
+        "nationality": "England"
+      },
+      {
+        "id": 175895,
+        "name": "Owen Beck",
+        "position": "Left-Back",
+        "dateOfBirth": "2002-08-09",
+        "nationality": "Wales"
+      },
+      {
+        "id": 157329,
+        "name": "Liam Thompson",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2002-04-29",
+        "nationality": "England"
+      },
+      {
+        "id": 14631,
+        "name": "Ebou Adams",
+        "position": "Central Midfield",
+        "dateOfBirth": "1996-01-15",
+        "nationality": "Gambia"
       }
     ],
     "staff": [],
@@ -3342,15 +3349,15 @@
       }
     ],
     "coach": {
-      "id": null,
-      "firstName": null,
-      "lastName": null,
-      "name": null,
-      "dateOfBirth": null,
-      "nationality": null,
+      "id": 178591,
+      "firstName": "Kim",
+      "lastName": "Hellberg",
+      "name": "Kim Hellberg",
+      "dateOfBirth": "1988-02-01",
+      "nationality": "Sweden",
       "contract": {
-        "start": null,
-        "until": null
+        "start": "2025-11",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -3390,6 +3397,13 @@
         "nationality": "England"
       },
       {
+        "id": 289617,
+        "name": "Archie Baptiste",
+        "position": "Defence",
+        "dateOfBirth": "2005-10-28",
+        "nationality": "England"
+      },
+      {
         "id": 180453,
         "name": "Sverre Nypan",
         "position": "Midfield",
@@ -3408,6 +3422,13 @@
         "name": "Finley Cartwright",
         "position": "Midfield",
         "dateOfBirth": "2007-02-28",
+        "nationality": "England"
+      },
+      {
+        "id": 289575,
+        "name": "Cruz Ibeh",
+        "position": "Midfield",
+        "dateOfBirth": "2009-01-26",
         "nationality": "England"
       },
       {
@@ -3437,48 +3458,6 @@
         "position": "Offence",
         "dateOfBirth": "2005-11-02",
         "nationality": "England"
-      },
-      {
-        "id": 221259,
-        "name": "Micah Hamilton",
-        "position": "Left Winger",
-        "dateOfBirth": "2003-11-13",
-        "nationality": "England"
-      },
-      {
-        "id": 172604,
-        "name": "Alex Gilbert",
-        "position": "Left Winger",
-        "dateOfBirth": "2001-12-28",
-        "nationality": "Ireland"
-      },
-      {
-        "id": 171323,
-        "name": "Sam Silvera",
-        "position": "Left Winger",
-        "dateOfBirth": "2000-10-25",
-        "nationality": "Australia"
-      },
-      {
-        "id": 161089,
-        "name": "Tommy Conway",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2002-08-06",
-        "nationality": "Scotland"
-      },
-      {
-        "id": 140417,
-        "name": "Aidan Morris",
-        "position": "Central Midfield",
-        "dateOfBirth": "2001-11-16",
-        "nationality": "USA"
-      },
-      {
-        "id": 137025,
-        "name": "Sontje Hansen",
-        "position": "Right Winger",
-        "dateOfBirth": "2000-05-18",
-        "nationality": "Curaçao"
       },
       {
         "id": 136284,
@@ -3570,6 +3549,48 @@
         "position": "Left-Back",
         "dateOfBirth": "1995-09-18",
         "nationality": "England"
+      },
+      {
+        "id": 221259,
+        "name": "Micah Hamilton",
+        "position": "Left Winger",
+        "dateOfBirth": "2003-11-13",
+        "nationality": "England"
+      },
+      {
+        "id": 172604,
+        "name": "Alex Gilbert",
+        "position": "Left Winger",
+        "dateOfBirth": "2001-12-28",
+        "nationality": "Ireland"
+      },
+      {
+        "id": 171323,
+        "name": "Sam Silvera",
+        "position": "Left Winger",
+        "dateOfBirth": "2000-10-25",
+        "nationality": "Australia"
+      },
+      {
+        "id": 161089,
+        "name": "Tommy Conway",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2002-08-06",
+        "nationality": "Scotland"
+      },
+      {
+        "id": 140417,
+        "name": "Aidan Morris",
+        "position": "Central Midfield",
+        "dateOfBirth": "2001-11-16",
+        "nationality": "USA"
+      },
+      {
+        "id": 137025,
+        "name": "Sontje Hansen",
+        "position": "Right Winger",
+        "dateOfBirth": "2000-05-18",
+        "nationality": "Curaçao"
       }
     ],
     "staff": [],
@@ -3648,6 +3669,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2005-10-15",
         "nationality": "England"
+      },
+      {
+        "id": 4135,
+        "name": "Liam Cooper",
+        "position": "Defence",
+        "dateOfBirth": "1991-08-30",
+        "nationality": "Scotland"
       },
       {
         "id": 245211,
@@ -3769,13 +3797,6 @@
         "nationality": "England"
       },
       {
-        "id": 210150,
-        "name": "Harry Amass",
-        "position": "Left-Back",
-        "dateOfBirth": "2007-03-16",
-        "nationality": "England"
-      },
-      {
         "id": 188310,
         "name": "Charlie McNeill",
         "position": "Centre-Forward",
@@ -3815,6 +3836,13 @@
         "name": "Nathaniel Chalobah",
         "position": "Defensive Midfield",
         "dateOfBirth": "1994-12-12",
+        "nationality": "England"
+      },
+      {
+        "id": 8092,
+        "name": "Nathan Redmond",
+        "position": "Right Winger",
+        "dateOfBirth": "1994-03-06",
         "nationality": "England"
       },
       {
@@ -3858,6 +3886,13 @@
         "position": "Left Winger",
         "dateOfBirth": "2001-07-10",
         "nationality": "Poland"
+      },
+      {
+        "id": 210150,
+        "name": "Harry Amass",
+        "position": "Left-Back",
+        "dateOfBirth": "2007-03-16",
+        "nationality": "England"
       }
     ],
     "staff": [],

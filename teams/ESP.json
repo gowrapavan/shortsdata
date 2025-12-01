@@ -355,6 +355,13 @@
         "nationality": "Argentina"
       },
       {
+        "id": 203506,
+        "name": "Mario de Luis",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2002-05-06",
+        "nationality": "Spain"
+      },
+      {
         "id": 279062,
         "name": "Salvi Esquivel",
         "position": "Goalkeeper",
@@ -634,6 +641,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2003-04-23",
         "nationality": "Greece"
+      },
+      {
+        "id": 243833,
+        "name": "Mikel Serrano",
+        "position": "Defence",
+        "dateOfBirth": "2003-06-16",
+        "nationality": "Spain"
       },
       {
         "id": 264456,
@@ -1184,6 +1198,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 289622,
+        "name": "Tomy Marqués",
+        "position": "Midfield",
+        "dateOfBirth": "2006-10-30",
+        "nationality": "Spain"
+      },
+      {
         "id": 205534,
         "name": "Roony Bardagji",
         "position": "Offence",
@@ -1451,6 +1472,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 289600,
+        "name": "Jorge Montes",
+        "position": "Defence",
+        "dateOfBirth": "2004-03-06",
+        "nationality": "Spain"
+      },
+      {
         "id": 211825,
         "name": "Alejandro Sancris",
         "position": "Midfield",
@@ -1470,6 +1498,13 @@
         "position": "Midfield",
         "dateOfBirth": "2004-10-26",
         "nationality": "Ukraine"
+      },
+      {
+        "id": 186707,
+        "name": "Gorka Rivera",
+        "position": "Left-Back",
+        "dateOfBirth": "2004-08-01",
+        "nationality": "Spain"
       },
       {
         "id": 178634,
@@ -1591,17 +1626,17 @@
         "nationality": "Spain"
       },
       {
+        "id": 228935,
+        "name": "Hugo Solozábal",
+        "position": "Central Midfield",
+        "dateOfBirth": "2003-02-07",
+        "nationality": "Spain"
+      },
+      {
         "id": 191064,
         "name": "Mario Martin",
         "position": "Defensive Midfield",
         "dateOfBirth": "2004-03-05",
-        "nationality": "Spain"
-      },
-      {
-        "id": 186707,
-        "name": "Gorka Rivera",
-        "position": "Left-Back",
-        "dateOfBirth": "2004-08-01",
         "nationality": "Spain"
       }
     ],
@@ -2704,7 +2739,7 @@
       "nationality": "Chile",
       "contract": {
         "start": "2020-08",
-        "until": "2026-06"
+        "until": "2027-06"
       }
     },
     "squad": [
@@ -3896,6 +3931,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 289619,
+        "name": "Izei Hernández",
+        "position": "Midfield",
+        "dateOfBirth": "2007-02-02",
+        "nationality": "Spain"
+      },
+      {
         "id": 11113,
         "name": "Lucas Boyé",
         "position": "Offence",
@@ -3914,55 +3956,6 @@
         "name": "Diego Morcillo",
         "position": "Offence",
         "dateOfBirth": "2003-06-18",
-        "nationality": "Spain"
-      },
-      {
-        "id": 250990,
-        "name": "Álvaro García",
-        "position": "Centre-Back",
-        "dateOfBirth": "2005-09-15",
-        "nationality": "Spain"
-      },
-      {
-        "id": 244942,
-        "name": "Egoitz Muñoz",
-        "position": "Right-Back",
-        "dateOfBirth": "2005-01-01",
-        "nationality": "Spain"
-      },
-      {
-        "id": 213404,
-        "name": "Carlos Vicente",
-        "position": "Right Winger",
-        "dateOfBirth": "1999-04-23",
-        "nationality": "Spain"
-      },
-      {
-        "id": 184988,
-        "name": "Abde Rebbach",
-        "position": "Left Winger",
-        "dateOfBirth": "1998-08-11",
-        "nationality": "Algeria"
-      },
-      {
-        "id": 173617,
-        "name": "Pablo Ibáñez Tébar",
-        "position": "Central Midfield",
-        "dateOfBirth": "1998-09-20",
-        "nationality": "Spain"
-      },
-      {
-        "id": 157626,
-        "name": "Antonio Blanco",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2000-07-23",
-        "nationality": "Spain"
-      },
-      {
-        "id": 144615,
-        "name": "Jon Pacheco",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-01-08",
         "nationality": "Spain"
       },
       {
@@ -4048,6 +4041,55 @@
         "position": "Centre-Forward",
         "dateOfBirth": "1993-08-01",
         "nationality": "Dominican Republic"
+      },
+      {
+        "id": 250990,
+        "name": "Álvaro García",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-09-15",
+        "nationality": "Spain"
+      },
+      {
+        "id": 244942,
+        "name": "Egoitz Muñoz",
+        "position": "Right-Back",
+        "dateOfBirth": "2005-01-01",
+        "nationality": "Spain"
+      },
+      {
+        "id": 213404,
+        "name": "Carlos Vicente",
+        "position": "Right Winger",
+        "dateOfBirth": "1999-04-23",
+        "nationality": "Spain"
+      },
+      {
+        "id": 184988,
+        "name": "Abde Rebbach",
+        "position": "Left Winger",
+        "dateOfBirth": "1998-08-11",
+        "nationality": "Algeria"
+      },
+      {
+        "id": 173617,
+        "name": "Pablo Ibáñez Tébar",
+        "position": "Central Midfield",
+        "dateOfBirth": "1998-09-20",
+        "nationality": "Spain"
+      },
+      {
+        "id": 157626,
+        "name": "Antonio Blanco",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2000-07-23",
+        "nationality": "Spain"
+      },
+      {
+        "id": 144615,
+        "name": "Jon Pacheco",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-01-08",
+        "nationality": "Spain"
       }
     ],
     "staff": [],

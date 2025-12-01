@@ -559,13 +559,6 @@
         "nationality": "Belgium"
       },
       {
-        "id": 285608,
-        "name": "Fodé Camara",
-        "position": "Defence",
-        "dateOfBirth": "2007-06-16",
-        "nationality": "France"
-      },
-      {
         "id": 288911,
         "name": "Pladi N'Zinga-Pambani",
         "position": "Defence",
@@ -847,6 +840,13 @@
         "nationality": "France"
       },
       {
+        "id": 255520,
+        "name": "Louis Mezerette",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2006-08-30",
+        "nationality": "France"
+      },
+      {
         "id": 277960,
         "name": "Telli Siwe",
         "position": "Defence",
@@ -875,6 +875,13 @@
         "nationality": "France"
       },
       {
+        "id": 289523,
+        "name": "Evan Diamalunda",
+        "position": "Defence",
+        "dateOfBirth": "2006-07-22",
+        "nationality": "France"
+      },
+      {
         "id": 277673,
         "name": "Rudy Matondo",
         "position": "Midfield",
@@ -900,48 +907,6 @@
         "name": "Ryan Rodin",
         "position": "Offence",
         "dateOfBirth": "2006-03-02",
-        "nationality": "France"
-      },
-      {
-        "id": 289523,
-        "name": "Evan Diamalunda",
-        "position": null,
-        "dateOfBirth": "2006-07-22",
-        "nationality": "France"
-      },
-      {
-        "id": 205531,
-        "name": "Ibrahim Osman",
-        "position": "Left Winger",
-        "dateOfBirth": "2004-12-14",
-        "nationality": "Ghana"
-      },
-      {
-        "id": 189237,
-        "name": "Nathan Buayi-Kiala",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2004-02-29",
-        "nationality": "France"
-      },
-      {
-        "id": 185194,
-        "name": "Clement Akpa",
-        "position": "Left-Back",
-        "dateOfBirth": "2001-11-24",
-        "nationality": "Ivory Coast"
-      },
-      {
-        "id": 177412,
-        "name": "Lamine Sy",
-        "position": "Right-Back",
-        "dateOfBirth": "2002-08-10",
-        "nationality": "France"
-      },
-      {
-        "id": 175724,
-        "name": "Kevin Danois",
-        "position": "Central Midfield",
-        "dateOfBirth": "2004-06-28",
         "nationality": "France"
       },
       {
@@ -1033,6 +998,41 @@
         "name": "Lassine Sinayoko",
         "position": "Left Winger",
         "dateOfBirth": "1999-12-08",
+        "nationality": "France"
+      },
+      {
+        "id": 205531,
+        "name": "Ibrahim Osman",
+        "position": "Left Winger",
+        "dateOfBirth": "2004-12-14",
+        "nationality": "Ghana"
+      },
+      {
+        "id": 189237,
+        "name": "Nathan Buayi-Kiala",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2004-02-29",
+        "nationality": "France"
+      },
+      {
+        "id": 185194,
+        "name": "Clement Akpa",
+        "position": "Left-Back",
+        "dateOfBirth": "2001-11-24",
+        "nationality": "Ivory Coast"
+      },
+      {
+        "id": 177412,
+        "name": "Lamine Sy",
+        "position": "Right-Back",
+        "dateOfBirth": "2002-08-10",
+        "nationality": "France"
+      },
+      {
+        "id": 175724,
+        "name": "Kevin Danois",
+        "position": "Central Midfield",
+        "dateOfBirth": "2004-06-28",
         "nationality": "France"
       }
     ],
@@ -1739,11 +1739,25 @@
         "nationality": "France"
       },
       {
+        "id": 289526,
+        "name": "Fallou Fall",
+        "position": "Midfield",
+        "dateOfBirth": "2006-03-08",
+        "nationality": "Senegal"
+      },
+      {
         "id": 267821,
         "name": "Alejandro Rodriguez",
         "position": "Offence",
         "dateOfBirth": "2008-03-11",
         "nationality": "England"
+      },
+      {
+        "id": 289527,
+        "name": "Adil Hamdani",
+        "position": "Offence",
+        "dateOfBirth": "2009-01-21",
+        "nationality": "France"
       },
       {
         "id": 152458,
@@ -1814,20 +1828,6 @@
         "position": "Central Midfield",
         "dateOfBirth": "1994-08-03",
         "nationality": "France"
-      },
-      {
-        "id": 289527,
-        "name": "Adil Hamdani",
-        "position": null,
-        "dateOfBirth": "2009-01-21",
-        "nationality": "France"
-      },
-      {
-        "id": 289526,
-        "name": "Fallou Fall",
-        "position": null,
-        "dateOfBirth": "2006-03-08",
-        "nationality": "Senegal"
       },
       {
         "id": 267849,
@@ -1934,6 +1934,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2006-07-10",
         "nationality": "Italy"
+      },
+      {
+        "id": 289578,
+        "name": "Martin James",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2008-02-14",
+        "nationality": "France"
       },
       {
         "id": 277933,
@@ -2432,6 +2439,13 @@
         "name": "Kilian Belazzoug",
         "position": "Goalkeeper",
         "dateOfBirth": "2006-07-18",
+        "nationality": "France"
+      },
+      {
+        "id": 289597,
+        "name": "Elias Legendre Quiñonez",
+        "position": "Midfield",
+        "dateOfBirth": "2008-04-22",
         "nationality": "France"
       },
       {
@@ -3440,18 +3454,32 @@
         "nationality": "Senegal"
       },
       {
-        "id": 272870,
-        "name": "Joseph Mangondo",
-        "position": "Offence",
-        "dateOfBirth": "2005-08-06",
-        "nationality": "France"
-      },
-      {
         "id": 280446,
         "name": "Brian Madjo",
         "position": "Offence",
         "dateOfBirth": "2009-01-12",
         "nationality": "Luxembourg"
+      },
+      {
+        "id": 261552,
+        "name": "Alpha Touré",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2006-01-25",
+        "nationality": "Senegal"
+      },
+      {
+        "id": 260808,
+        "name": "Morgan Bokelé",
+        "position": "Left Winger",
+        "dateOfBirth": "2004-03-13",
+        "nationality": "Cameroon"
+      },
+      {
+        "id": 212866,
+        "name": "Sadibou Sané",
+        "position": "Centre-Back",
+        "dateOfBirth": "2004-06-10",
+        "nationality": "Senegal"
       },
       {
         "id": 212864,
@@ -3529,27 +3557,6 @@
         "position": "Right Winger",
         "dateOfBirth": "1996-08-07",
         "nationality": "France"
-      },
-      {
-        "id": 261552,
-        "name": "Alpha Touré",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2006-01-25",
-        "nationality": "Senegal"
-      },
-      {
-        "id": 260808,
-        "name": "Morgan Bokelé",
-        "position": "Left Winger",
-        "dateOfBirth": "2004-03-13",
-        "nationality": "Cameroon"
-      },
-      {
-        "id": 212866,
-        "name": "Sadibou Sané",
-        "position": "Centre-Back",
-        "dateOfBirth": "2004-06-10",
-        "nationality": "Senegal"
       }
     ],
     "staff": [],
