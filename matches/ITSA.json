@@ -3071,7 +3071,7 @@
     "RoundName": "Serie A",
     "Date": "2025-11-30",
     "DateTime": "2025-11-30T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 100,
@@ -3084,10 +3084,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/113.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 113,
     "Points": {
       "100": 0,
-      "113": 0
+      "113": 3
     },
     "Goals": []
   },
@@ -3613,10 +3613,10 @@
   },
   {
     "GameId": 536957,
-    "RoundId": 5,
+    "RoundId": 13,
     "RoundName": "Serie A",
-    "Date": "2025-12-14",
-    "DateTime": "2025-12-14T00:00:00Z",
+    "Date": "2025-12-15",
+    "DateTime": "2025-12-15T19:45:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",

@@ -3321,7 +3321,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-11-30",
     "DateTime": "2025-11-30T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 298,
@@ -3333,11 +3333,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/298.png",
     "AwayTeamLogo": "https://crests.football-data.org/86.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "298": 0,
-      "86": 0
+      "298": 1,
+      "86": 1
     },
     "Goals": []
   },
@@ -3915,10 +3915,10 @@
   },
   {
     "GameId": 544366,
-    "RoundId": 7,
+    "RoundId": 14,
     "RoundName": "Primera Division",
-    "Date": "2025-12-14",
-    "DateTime": "2025-12-14T00:00:00Z",
+    "Date": "2025-12-15",
+    "DateTime": "2025-12-15T20:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
