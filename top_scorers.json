@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-01T06:17:10.442314Z",
+    "last_updated": "2025-12-02T06:16:23.921896Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -210,6 +210,15 @@
                     "nationality": "Argentina"
                 },
                 {
+                    "player_name": "Riccardo Orsolini",
+                    "team_name": "Bologna FC 1909",
+                    "team_crest": "https://crests.football-data.org/103.png",
+                    "goals": 6,
+                    "assists": 1,
+                    "penalties": 3,
+                    "nationality": "Italy"
+                },
+                {
                     "player_name": "Nico Paz",
                     "team_name": "Como 1907",
                     "team_crest": "https://crests.football-data.org/7397.png",
@@ -226,15 +235,6 @@
                     "assists": 2,
                     "penalties": null,
                     "nationality": "USA"
-                },
-                {
-                    "player_name": "Riccardo Orsolini",
-                    "team_name": "Bologna FC 1909",
-                    "team_crest": "https://crests.football-data.org/103.png",
-                    "goals": 5,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "Italy"
                 },
                 {
                     "player_name": "Hakan Çalhanoğlu",
@@ -268,7 +268,7 @@
                     "team_name": "US Cremonese",
                     "team_crest": "https://crests.football-data.org/457.png",
                     "goals": 4,
-                    "assists": null,
+                    "assists": 1,
                     "penalties": null,
                     "nationality": "Italy"
                 },
