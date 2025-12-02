@@ -3175,7 +3175,7 @@
     "RoundName": "Serie A",
     "Date": "2025-12-01",
     "DateTime": "2025-12-01T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 103,
@@ -3188,10 +3188,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/457.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 3,
-    "Result": null,
+    "Result": 457,
     "Points": {
       "103": 0,
-      "457": 0
+      "457": 3
     },
     "Goals": []
   },
