@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-02T06:16:23.921896Z",
+    "last_updated": "2025-12-03T06:16:13.509186Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -10,8 +10,8 @@
                     "player_name": "Erling Haaland",
                     "team_name": "Manchester City FC",
                     "team_crest": "https://crests.football-data.org/65.png",
-                    "goals": 14,
-                    "assists": 1,
+                    "goals": 15,
+                    "assists": 3,
                     "penalties": null,
                     "nationality": "Norway"
                 },
@@ -74,9 +74,18 @@
                     "team_name": "Newcastle United FC",
                     "team_crest": "https://crests.football-data.org/67.png",
                     "goals": 5,
-                    "assists": null,
+                    "assists": 1,
                     "penalties": 1,
                     "nationality": "Germany"
+                },
+                {
+                    "player_name": "Phil Foden",
+                    "team_name": "Manchester City FC",
+                    "team_crest": "https://crests.football-data.org/65.png",
+                    "goals": 5,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "England"
                 },
                 {
                     "player_name": "Cody Gakpo",
@@ -86,15 +95,6 @@
                     "assists": 3,
                     "penalties": null,
                     "nationality": "Netherlands"
-                },
-                {
-                    "player_name": "Mohamed Salah",
-                    "team_name": "Liverpool FC",
-                    "team_crest": "https://crests.football-data.org/64.png",
-                    "goals": 4,
-                    "assists": 2,
-                    "penalties": 1,
-                    "nationality": "Egypt"
                 }
             ]
         },
@@ -113,6 +113,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Ferrán Torres",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
+                    "goals": 8,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Spain"
+                },
+                {
                     "player_name": "Vedat Muriqi",
                     "team_name": "RCD Mallorca",
                     "team_crest": "https://crests.football-data.org/89.png",
@@ -129,15 +138,6 @@
                     "assists": 1,
                     "penalties": 1,
                     "nationality": "Poland"
-                },
-                {
-                    "player_name": "Ferrán Torres",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 7,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Spain"
                 },
                 {
                     "player_name": "Julián Álvarez",
