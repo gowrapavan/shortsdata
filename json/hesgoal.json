@@ -113,15 +113,15 @@
     "label": "rea-ath",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/131.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/144.png",
-    "url": "https://streamingon.org/embed/tv-7.php",
+    "url": "https://ballcontrol.click/home/blog7/",
     "servers": [
-      {
-        "name": "EDeportes",
-        "url": "https://streamingon.org/embed/tv-7.php"
-      },
       {
         "name": "Home",
         "url": "https://ballcontrol.click/home/blog7/"
+      },
+      {
+        "name": "EDeportes",
+        "url": "https://streamingon.org/embed/tv-7.php"
       },
       {
         "name": "Bein2HD",
@@ -164,24 +164,36 @@
         "url": "https://sportzonline.top/channels/bra/br4.php"
       },
       {
-        "name": "بث2",
+        "name": "رئيسي",
+        "url": "https://footballii.ir/official/b1"
+      },
+      {
+        "name": "1بث",
         "url": "https://popcdn.day/go.php?stream=beINAR"
       },
       {
-        "name": "بث3",
+        "name": "بث2",
         "url": "https://live30.yalla-sport.online/chtv/ch1.php"
       },
       {
         "name": "بث3",
-        "url": "https://can.yalla--shoots.live/bein-premium1/CH0.php"
-      },
-      {
-        "name": "بث4",
         "url": "https://can.yalla--shoots.live/bein-premium1/CH3.php"
       },
       {
         "name": "جوال",
-        "url": "https://yallashoot.cfd/albaplayer/360/?serv=2"
+        "url": "https://yallashoot.cfd/albaplayer/yalla1/"
+      },
+      {
+        "name": "بث مستقر",
+        "url": "https://yallashoot.cfd/albaplayer/360/"
+      },
+      {
+        "name": "وقت’الماتش",
+        "url": "https://player.syria-live.site/albaplayer/bein1"
+      },
+      {
+        "name": "FullHD",
+        "url": "https://yallashoot.cfd/albaplayer/480/"
       }
     ]
   },
