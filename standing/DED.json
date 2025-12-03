@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 678,
+            "name": "AFC Ajax",
+            "shortName": "Ajax",
+            "tla": "AJA",
+            "crest": "https://crests.football-data.org/678.png"
+          },
+          "playedGames": 14,
+          "form": null,
+          "won": 6,
+          "draw": 5,
+          "lost": 3,
+          "points": 23,
+          "goalsFor": 25,
+          "goalsAgainst": 19,
+          "goalDifference": 6
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 676,
             "name": "FC Utrecht",
             "shortName": "Utrecht",
@@ -122,25 +141,6 @@
           "goalsFor": 25,
           "goalsAgainst": 19,
           "goalDifference": 6
-        },
-        {
-          "position": 6,
-          "team": {
-            "id": 678,
-            "name": "AFC Ajax",
-            "shortName": "Ajax",
-            "tla": "AJA",
-            "crest": "https://crests.football-data.org/678.png"
-          },
-          "playedGames": 13,
-          "form": null,
-          "won": 5,
-          "draw": 5,
-          "lost": 3,
-          "points": 20,
-          "goalsFor": 23,
-          "goalsAgainst": 19,
-          "goalDifference": 4
         },
         {
           "position": 7,
@@ -170,15 +170,15 @@
             "tla": "GRO",
             "crest": "https://crests.football-data.org/677.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
           "won": 6,
           "draw": 2,
-          "lost": 5,
+          "lost": 6,
           "points": 20,
           "goalsFor": 19,
-          "goalsAgainst": 19,
-          "goalDifference": 0
+          "goalsAgainst": 21,
+          "goalDifference": -2
         },
         {
           "position": 9,

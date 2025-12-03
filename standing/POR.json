@@ -126,6 +126,25 @@
         {
           "position": 6,
           "team": {
+            "id": 5613,
+            "name": "Sporting Clube de Braga",
+            "shortName": "Braga",
+            "tla": "SCB",
+            "crest": "https://crests.football-data.org/5613.png"
+          },
+          "playedGames": 12,
+          "form": null,
+          "won": 5,
+          "draw": 4,
+          "lost": 3,
+          "points": 19,
+          "goalsFor": 23,
+          "goalsAgainst": 11,
+          "goalDifference": 12
+        },
+        {
+          "position": 7,
+          "team": {
             "id": 583,
             "name": "Moreirense FC",
             "shortName": "Moreirense",
@@ -143,7 +162,7 @@
           "goalDifference": 1
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 5543,
             "name": "Vitória SC",
@@ -160,25 +179,6 @@
           "goalsFor": 14,
           "goalsAgainst": 17,
           "goalDifference": -3
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 5613,
-            "name": "Sporting Clube de Braga",
-            "shortName": "Braga",
-            "tla": "SCB",
-            "crest": "https://crests.football-data.org/5613.png"
-          },
-          "playedGames": 11,
-          "form": null,
-          "won": 4,
-          "draw": 4,
-          "lost": 3,
-          "points": 16,
-          "goalsFor": 19,
-          "goalsAgainst": 11,
-          "goalDifference": 8
         },
         {
           "position": 9,
@@ -341,15 +341,15 @@
             "tla": "FCA",
             "crest": "https://crests.football-data.org/712.png"
           },
-          "playedGames": 11,
+          "playedGames": 12,
           "form": null,
           "won": 2,
           "draw": 3,
-          "lost": 6,
+          "lost": 7,
           "points": 9,
           "goalsFor": 13,
-          "goalsAgainst": 30,
-          "goalDifference": -17
+          "goalsAgainst": 34,
+          "goalDifference": -21
         },
         {
           "position": 18,

@@ -107,25 +107,6 @@
         {
           "position": 5,
           "team": {
-            "id": 103,
-            "name": "Bologna FC 1909",
-            "shortName": "Bologna",
-            "tla": "BOL",
-            "crest": "https://crests.football-data.org/103.png"
-          },
-          "playedGames": 12,
-          "form": null,
-          "won": 7,
-          "draw": 3,
-          "lost": 2,
-          "points": 24,
-          "goalsFor": 21,
-          "goalsAgainst": 8,
-          "goalDifference": 13
-        },
-        {
-          "position": 6,
-          "team": {
             "id": 7397,
             "name": "Como 1907",
             "shortName": "Como 1907",
@@ -141,6 +122,25 @@
           "goalsFor": 19,
           "goalsAgainst": 7,
           "goalDifference": 12
+        },
+        {
+          "position": 6,
+          "team": {
+            "id": 103,
+            "name": "Bologna FC 1909",
+            "shortName": "Bologna",
+            "tla": "BOL",
+            "crest": "https://crests.football-data.org/103.png"
+          },
+          "playedGames": 13,
+          "form": null,
+          "won": 7,
+          "draw": 3,
+          "lost": 3,
+          "points": 24,
+          "goalsFor": 22,
+          "goalsAgainst": 11,
+          "goalDifference": 11
         },
         {
           "position": 7,
@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 457,
+            "name": "US Cremonese",
+            "shortName": "Cremonese",
+            "tla": "CRE",
+            "crest": "https://crests.football-data.org/457.png"
+          },
+          "playedGames": 13,
+          "form": null,
+          "won": 4,
+          "draw": 5,
+          "lost": 4,
+          "points": 17,
+          "goalsFor": 16,
+          "goalsAgainst": 17,
+          "goalDifference": -1
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 102,
             "name": "Atalanta BC",
             "shortName": "Atalanta",
@@ -236,25 +255,6 @@
           "goalsFor": 16,
           "goalsAgainst": 14,
           "goalDifference": 2
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 457,
-            "name": "US Cremonese",
-            "shortName": "Cremonese",
-            "tla": "CRE",
-            "crest": "https://crests.football-data.org/457.png"
-          },
-          "playedGames": 12,
-          "form": null,
-          "won": 3,
-          "draw": 5,
-          "lost": 4,
-          "points": 14,
-          "goalsFor": 13,
-          "goalsAgainst": 16,
-          "goalDifference": -3
         },
         {
           "position": 13,
