@@ -4673,7 +4673,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-12-02",
     "DateTime": "2025-12-02T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 81,
@@ -4684,11 +4684,11 @@
     "AwayTeamName": "Club Atlético de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/81.png",
     "AwayTeamLogo": "https://crests.football-data.org/78.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 81,
     "Points": {
-      "81": 0,
+      "81": 3,
       "78": 0
     },
     "Goals": []
