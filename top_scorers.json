@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-03T06:16:13.509186Z",
+    "last_updated": "2025-12-04T06:16:05.914839Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -61,6 +61,15 @@
                     "nationality": "Brazil"
                 },
                 {
+                    "player_name": "Pedro Neto",
+                    "team_name": "Chelsea FC",
+                    "team_crest": "https://crests.football-data.org/61.png",
+                    "goals": 5,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Portugal"
+                },
+                {
                     "player_name": "Bryan Mbeumo",
                     "team_name": "Manchester United FC",
                     "team_crest": "https://crests.football-data.org/66.png",
@@ -86,15 +95,6 @@
                     "assists": 1,
                     "penalties": null,
                     "nationality": "England"
-                },
-                {
-                    "player_name": "Cody Gakpo",
-                    "team_name": "Liverpool FC",
-                    "team_crest": "https://crests.football-data.org/64.png",
-                    "goals": 4,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "Netherlands"
                 }
             ]
         },
@@ -107,8 +107,8 @@
                     "player_name": "Kylian Mbappé",
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 14,
-                    "assists": 3,
+                    "goals": 16,
+                    "assists": 4,
                     "penalties": 4,
                     "nationality": "France"
                 },
