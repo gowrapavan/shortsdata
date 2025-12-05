@@ -3199,7 +3199,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-12-05",
     "DateTime": "2025-12-05T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 670,
@@ -3210,12 +3210,12 @@
     "AwayTeamName": "FC Groningen",
     "HomeTeamLogo": "https://crests.football-data.org/670.png",
     "AwayTeamLogo": "https://crests.football-data.org/677.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
+    "Result": 677,
     "Points": {
       "670": 0,
-      "677": 0
+      "677": 3
     },
     "Goals": []
   },
