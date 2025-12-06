@@ -3545,7 +3545,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1044,
@@ -3560,8 +3560,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "1044": 0,
-      "61": 0
+      "1044": 1,
+      "61": 1
     },
     "Goals": []
   },
@@ -3623,7 +3623,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 62,
@@ -3634,11 +3634,11 @@
     "AwayTeamName": "Nottingham Forest FC",
     "HomeTeamLogo": "https://crests.football-data.org/62.png",
     "AwayTeamLogo": "https://crests.football-data.org/351.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 62,
     "Points": {
-      "62": 0,
+      "62": 3,
       "351": 0
     },
     "Goals": []
@@ -3686,8 +3686,8 @@
     "AwayTeamName": "Liverpool FC",
     "HomeTeamLogo": "https://crests.football-data.org/341.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "341": 0,
@@ -3701,7 +3701,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 65,
@@ -3712,11 +3712,11 @@
     "AwayTeamName": "Sunderland AFC",
     "HomeTeamLogo": "https://crests.football-data.org/65.png",
     "AwayTeamLogo": "https://crests.football-data.org/71.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 65,
     "Points": {
-      "65": 0,
+      "65": 3,
       "71": 0
     },
     "Goals": []
@@ -3727,7 +3727,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 67,
@@ -3738,11 +3738,11 @@
     "AwayTeamName": "Burnley FC",
     "HomeTeamLogo": "https://crests.football-data.org/67.png",
     "AwayTeamLogo": "https://crests.football-data.org/328.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 67,
     "Points": {
-      "67": 0,
+      "67": 3,
       "328": 0
     },
     "Goals": []
@@ -3753,7 +3753,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 73,
@@ -3764,11 +3764,11 @@
     "AwayTeamName": "Brentford FC",
     "HomeTeamLogo": "https://crests.football-data.org/73.png",
     "AwayTeamLogo": "https://crests.football-data.org/402.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 73,
     "Points": {
-      "73": 0,
+      "73": 3,
       "402": 0
     },
     "Goals": []

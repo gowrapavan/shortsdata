@@ -3394,8 +3394,8 @@
     "AwayTeamName": "Como 1907",
     "HomeTeamLogo": "https://crests.football-data.org/108.png",
     "AwayTeamLogo": "https://crests.football-data.org/7397.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "108": 0,
@@ -3461,7 +3461,7 @@
     "RoundName": "Serie A",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 471,
@@ -3472,11 +3472,11 @@
     "AwayTeamName": "ACF Fiorentina",
     "HomeTeamLogo": "https://crests.football-data.org/471.png",
     "AwayTeamLogo": "https://crests.football-data.org/99.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 471,
     "Points": {
-      "471": 0,
+      "471": 3,
       "99": 0
     },
     "Goals": []

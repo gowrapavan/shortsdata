@@ -3314,8 +3314,8 @@
     "AwayTeamName": "AFC Ajax",
     "HomeTeamLogo": "https://crests.football-data.org/1920.png",
     "AwayTeamLogo": "https://crests.football-data.org/678.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "1920": 0,
@@ -3355,7 +3355,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T15:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 673,
@@ -3366,12 +3366,12 @@
     "AwayTeamName": "PSV",
     "HomeTeamLogo": "https://crests.football-data.org/673.png",
     "AwayTeamLogo": "https://crests.football-data.org/674.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
+    "Result": 674,
     "Points": {
       "673": 0,
-      "674": 0
+      "674": 3
     },
     "Goals": []
   },

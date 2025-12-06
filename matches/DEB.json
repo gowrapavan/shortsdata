@@ -2804,8 +2804,8 @@
     "AwayTeamName": "Eintracht Frankfurt",
     "HomeTeamLogo": "https://crests.football-data.org/721.png",
     "AwayTeamLogo": "https://crests.football-data.org/19.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "721": 0,
@@ -2819,7 +2819,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 10,
@@ -2830,12 +2830,12 @@
     "AwayTeamName": "FC Bayern München",
     "HomeTeamLogo": "https://crests.football-data.org/10.png",
     "AwayTeamLogo": "https://crests.football-data.org/5.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 5,
+    "Result": 5,
     "Points": {
       "10": 0,
-      "5": 0
+      "5": 3
     },
     "Goals": []
   },
@@ -2845,7 +2845,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 11,
@@ -2856,11 +2856,11 @@
     "AwayTeamName": "1. FC Union Berlin",
     "HomeTeamLogo": "https://crests.football-data.org/11.png",
     "AwayTeamLogo": "https://crests.football-data.org/28.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 11,
     "Points": {
-      "11": 0,
+      "11": 3,
       "28": 0
     },
     "Goals": []
@@ -2871,7 +2871,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 44,
@@ -2882,11 +2882,11 @@
     "AwayTeamName": "SC Freiburg",
     "HomeTeamLogo": "https://crests.football-data.org/44.png",
     "AwayTeamLogo": "https://crests.football-data.org/17.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 44,
     "Points": {
-      "44": 0,
+      "44": 3,
       "17": 0
     },
     "Goals": []
@@ -2897,7 +2897,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1,
@@ -2908,12 +2908,12 @@
     "AwayTeamName": "FC St. Pauli 1910",
     "HomeTeamLogo": "https://crests.football-data.org/1.png",
     "AwayTeamLogo": "https://crests.football-data.org/20.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "1": 0,
-      "20": 0
+      "1": 1,
+      "20": 1
     },
     "Goals": []
   },
@@ -2949,7 +2949,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 16,
@@ -2962,9 +2962,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/3.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 16,
     "Points": {
-      "16": 0,
+      "16": 3,
       "3": 0
     },
     "Goals": []
