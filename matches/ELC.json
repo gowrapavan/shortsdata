@@ -1467,9 +1467,9 @@
     "GameId": 540773,
     "RoundId": 19,
     "RoundName": "Championship",
-    "Date": "2025-09-20",
-    "DateTime": "2025-09-20T14:00:00Z",
-    "Status": "Scheduled",
+    "Date": "2025-12-02",
+    "DateTime": "2025-12-02T19:45:00Z",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 59,
@@ -1481,11 +1481,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/59.png",
     "AwayTeamLogo": "https://crests.football-data.org/349.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "59": 0,
-      "349": 0
+      "59": 1,
+      "349": 1
     },
     "Goals": []
   },
