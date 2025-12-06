@@ -5583,7 +5583,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-05",
     "DateTime": "2025-12-05T20:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 322,
@@ -5594,12 +5594,12 @@
     "AwayTeamName": "Middlesbrough FC",
     "HomeTeamLogo": "https://crests.football-data.org/322.png",
     "AwayTeamLogo": "https://crests.football-data.org/343.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 4,
-    "Result": null,
+    "Result": 343,
     "Points": {
       "322": 0,
-      "343": 0
+      "343": 3
     },
     "Goals": []
   },
@@ -6411,7 +6411,7 @@
   },
   {
     "GameId": 540964,
-    "RoundId": 7,
+    "RoundId": 19,
     "RoundName": "Championship",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T12:30:00Z",
@@ -6437,7 +6437,7 @@
   },
   {
     "GameId": 540965,
-    "RoundId": 7,
+    "RoundId": 19,
     "RoundName": "Championship",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T15:00:00Z",
@@ -6463,7 +6463,7 @@
   },
   {
     "GameId": 540966,
-    "RoundId": 7,
+    "RoundId": 19,
     "RoundName": "Championship",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T15:00:00Z",
@@ -6489,7 +6489,7 @@
   },
   {
     "GameId": 540967,
-    "RoundId": 7,
+    "RoundId": 19,
     "RoundName": "Championship",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T15:00:00Z",
@@ -6515,7 +6515,7 @@
   },
   {
     "GameId": 540968,
-    "RoundId": 7,
+    "RoundId": 19,
     "RoundName": "Championship",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T15:00:00Z",
@@ -6541,7 +6541,7 @@
   },
   {
     "GameId": 540969,
-    "RoundId": 7,
+    "RoundId": 19,
     "RoundName": "Championship",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T15:00:00Z",
@@ -6567,7 +6567,7 @@
   },
   {
     "GameId": 540970,
-    "RoundId": 7,
+    "RoundId": 19,
     "RoundName": "Championship",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T12:30:00Z",
@@ -6593,7 +6593,7 @@
   },
   {
     "GameId": 540971,
-    "RoundId": 7,
+    "RoundId": 19,
     "RoundName": "Championship",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T15:00:00Z",
@@ -6619,7 +6619,7 @@
   },
   {
     "GameId": 540972,
-    "RoundId": 7,
+    "RoundId": 19,
     "RoundName": "Championship",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T15:00:00Z",
@@ -6645,7 +6645,7 @@
   },
   {
     "GameId": 540973,
-    "RoundId": 7,
+    "RoundId": 19,
     "RoundName": "Championship",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T12:30:00Z",
@@ -6697,7 +6697,7 @@
   },
   {
     "GameId": 540975,
-    "RoundId": 7,
+    "RoundId": 19,
     "RoundName": "Championship",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T15:00:00Z",
