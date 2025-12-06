@@ -3675,7 +3675,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 341,
@@ -3686,12 +3686,12 @@
     "AwayTeamName": "Liverpool FC",
     "HomeTeamLogo": "https://crests.football-data.org/341.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
-      "341": 0,
-      "64": 0
+      "341": 1,
+      "64": 1
     },
     "Goals": []
   },

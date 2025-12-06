@@ -3288,8 +3288,8 @@
     "AwayTeamName": "PEC Zwolle",
     "HomeTeamLogo": "https://crests.football-data.org/675.png",
     "AwayTeamLogo": "https://crests.football-data.org/684.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "675": 0,
@@ -3303,7 +3303,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T17:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1920,
@@ -3315,11 +3315,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/1920.png",
     "AwayTeamLogo": "https://crests.football-data.org/678.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 678,
     "Points": {
       "1920": 0,
-      "678": 0
+      "678": 3
     },
     "Goals": []
   },
@@ -3329,7 +3329,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 671,
@@ -3340,12 +3340,12 @@
     "AwayTeamName": "Telstar 1963",
     "HomeTeamLogo": "https://crests.football-data.org/671.png",
     "AwayTeamLogo": "https://crests.football-data.org/1912.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "671": 0,
-      "1912": 0
+      "671": 1,
+      "1912": 1
     },
     "Goals": []
   },

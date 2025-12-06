@@ -3566,8 +3566,8 @@
     "AwayTeamName": "Club Atlético de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/77.png",
     "AwayTeamLogo": "https://crests.football-data.org/78.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "77": 0,
@@ -3633,7 +3633,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 90,
@@ -3644,12 +3644,12 @@
     "AwayTeamName": "FC Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/90.png",
     "AwayTeamLogo": "https://crests.football-data.org/81.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 4,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 5,
+    "Result": 81,
     "Points": {
       "90": 0,
-      "81": 0
+      "81": 3
     },
     "Goals": []
   },

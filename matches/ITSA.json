@@ -3368,8 +3368,8 @@
     "AwayTeamName": "Atalanta BC",
     "HomeTeamLogo": "https://crests.football-data.org/450.png",
     "AwayTeamLogo": "https://crests.football-data.org/102.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "450": 0,
@@ -3383,7 +3383,7 @@
     "RoundName": "Serie A",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 108,
@@ -3394,11 +3394,11 @@
     "AwayTeamName": "Como 1907",
     "HomeTeamLogo": "https://crests.football-data.org/108.png",
     "AwayTeamLogo": "https://crests.football-data.org/7397.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 4,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 108,
     "Points": {
-      "108": 0,
+      "108": 3,
       "7397": 0
     },
     "Goals": []

@@ -3269,7 +3269,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T16:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 543,
@@ -3282,10 +3282,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/546.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 546,
     "Points": {
       "543": 0,
-      "546": 0
+      "546": 3
     },
     "Goals": []
   },
@@ -3295,7 +3295,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T18:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 511,
@@ -3306,11 +3306,11 @@
     "AwayTeamName": "RC Strasbourg Alsace",
     "HomeTeamLogo": "https://crests.football-data.org/511.png",
     "AwayTeamLogo": "https://crests.football-data.org/576.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 511,
     "Points": {
-      "511": 0,
+      "511": 3,
       "576": 0
     },
     "Goals": []
@@ -3384,8 +3384,8 @@
     "AwayTeamName": "Stade Rennais FC 1901",
     "HomeTeamLogo": "https://crests.football-data.org/524.png",
     "AwayTeamLogo": "https://crests.football-data.org/529.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "524": 0,
