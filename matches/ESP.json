@@ -3618,8 +3618,8 @@
     "AwayTeamName": "Rayo Vallecano de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/80.png",
     "AwayTeamLogo": "https://crests.football-data.org/87.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "80": 0,
@@ -3763,7 +3763,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-12-07",
     "DateTime": "2025-12-07T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 95,
@@ -3774,12 +3774,12 @@
     "AwayTeamName": "Sevilla FC",
     "HomeTeamLogo": "https://crests.football-data.org/95.png",
     "AwayTeamLogo": "https://crests.football-data.org/559.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "95": 0,
-      "559": 0
+      "95": 1,
+      "559": 1
     },
     "Goals": []
   },

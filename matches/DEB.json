@@ -2752,8 +2752,8 @@
     "AwayTeamName": "TSG 1899 Hoffenheim",
     "HomeTeamLogo": "https://crests.football-data.org/4.png",
     "AwayTeamLogo": "https://crests.football-data.org/2.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "4": 0,
@@ -2923,7 +2923,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-12-07",
     "DateTime": "2025-12-07T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 7,
@@ -2934,11 +2934,11 @@
     "AwayTeamName": "SV Werder Bremen",
     "HomeTeamLogo": "https://crests.football-data.org/7.png",
     "AwayTeamLogo": "https://crests.football-data.org/12.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 7,
     "Points": {
-      "7": 0,
+      "7": 3,
       "12": 0
     },
     "Goals": []

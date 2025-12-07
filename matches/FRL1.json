@@ -3191,7 +3191,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-12-07",
     "DateTime": "2025-12-07T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 533,
@@ -3202,12 +3202,12 @@
     "AwayTeamName": "Paris FC",
     "HomeTeamLogo": "https://crests.football-data.org/533.png",
     "AwayTeamLogo": "https://crests.football-data.org/1045.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "533": 0,
-      "1045": 0
+      "533": 1,
+      "1045": 1
     },
     "Goals": []
   },
@@ -3217,7 +3217,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-12-07",
     "DateTime": "2025-12-07T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 519,
@@ -3228,11 +3228,11 @@
     "AwayTeamName": "FC Metz",
     "HomeTeamLogo": "https://crests.football-data.org/519.png",
     "AwayTeamLogo": "https://crests.football-data.org/545.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 519,
     "Points": {
-      "519": 0,
+      "519": 3,
       "545": 0
     },
     "Goals": []
@@ -3321,7 +3321,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-12-07",
     "DateTime": "2025-12-07T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 522,
@@ -3334,10 +3334,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/532.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 532,
     "Points": {
       "522": 0,
-      "532": 0
+      "532": 3
     },
     "Goals": []
   },
