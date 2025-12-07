@@ -3581,7 +3581,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-12-07",
     "DateTime": "2025-12-07T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 285,
@@ -3592,11 +3592,11 @@
     "AwayTeamName": "Girona FC",
     "HomeTeamLogo": "https://crests.football-data.org/285.png",
     "AwayTeamLogo": "https://crests.football-data.org/298.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
+    "Result": 285,
     "Points": {
-      "285": 0,
+      "285": 3,
       "298": 0
     },
     "Goals": []

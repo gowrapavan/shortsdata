@@ -3316,8 +3316,8 @@
     "AwayTeamName": "AS Roma",
     "HomeTeamLogo": "https://crests.football-data.org/104.png",
     "AwayTeamLogo": "https://crests.football-data.org/100.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "104": 0,
@@ -3539,7 +3539,7 @@
     "RoundName": "Serie A",
     "Date": "2025-12-07",
     "DateTime": "2025-12-07T11:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 457,
@@ -3550,11 +3550,11 @@
     "AwayTeamName": "US Lecce",
     "HomeTeamLogo": "https://crests.football-data.org/457.png",
     "AwayTeamLogo": "https://crests.football-data.org/5890.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 457,
     "Points": {
-      "457": 0,
+      "457": 3,
       "5890": 0
     },
     "Goals": []
