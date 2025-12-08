@@ -3435,7 +3435,7 @@
     "RoundName": "Serie A",
     "Date": "2025-12-08",
     "DateTime": "2025-12-08T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 487,
@@ -3448,10 +3448,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/112.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 112,
     "Points": {
       "487": 0,
-      "112": 0
+      "112": 3
     },
     "Goals": []
   },
@@ -3524,8 +3524,8 @@
     "AwayTeamName": "Genoa CFC",
     "HomeTeamLogo": "https://crests.football-data.org/115.png",
     "AwayTeamLogo": "https://crests.football-data.org/107.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "115": 0,
