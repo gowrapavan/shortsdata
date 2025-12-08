@@ -3342,8 +3342,8 @@
     "AwayTeamName": "AC Milan",
     "HomeTeamLogo": "https://crests.football-data.org/586.png",
     "AwayTeamLogo": "https://crests.football-data.org/98.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "586": 0,
@@ -3513,7 +3513,7 @@
     "RoundName": "Serie A",
     "Date": "2025-12-08",
     "DateTime": "2025-12-08T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 115,
@@ -3524,12 +3524,12 @@
     "AwayTeamName": "Genoa CFC",
     "HomeTeamLogo": "https://crests.football-data.org/115.png",
     "AwayTeamLogo": "https://crests.football-data.org/107.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 107,
     "Points": {
       "115": 0,
-      "107": 0
+      "107": 3
     },
     "Goals": []
   },
