@@ -1458,6 +1458,13 @@
         "nationality": "Croatia"
       },
       {
+        "id": 277579,
+        "name": "Shafiq Nandja",
+        "position": "Defence",
+        "dateOfBirth": "2007-01-15",
+        "nationality": "Germany"
+      },
+      {
         "id": 102974,
         "name": "Nicolás Capaldo",
         "position": "Midfield",
@@ -1470,6 +1477,13 @@
         "position": "Offence",
         "dateOfBirth": "2007-01-20",
         "nationality": "Norway"
+      },
+      {
+        "id": 125686,
+        "name": "Rayan Philippe",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2000-10-23",
+        "nationality": "France"
       },
       {
         "id": 112948,
@@ -1617,13 +1631,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "2000-04-23",
         "nationality": "Comoros"
-      },
-      {
-        "id": 125686,
-        "name": "Rayan Philippe",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2000-10-23",
-        "nationality": "France"
       }
     ],
     "staff": [],
@@ -1944,15 +1951,15 @@
       }
     ],
     "coach": {
-      "id": 278254,
-      "firstName": "Daniel",
-      "lastName": "Bauer",
-      "name": "Daniel Bauer",
-      "dateOfBirth": "1982-10-17",
-      "nationality": "Germany",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-11",
-        "until": "2025-11"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -1997,6 +2004,13 @@
         "position": "Defence",
         "dateOfBirth": "2007-04-21",
         "nationality": "France"
+      },
+      {
+        "id": 264451,
+        "name": "Till Neininger",
+        "position": "Defence",
+        "dateOfBirth": "2007-04-03",
+        "nationality": "Germany"
       },
       {
         "id": 278463,
@@ -2485,15 +2499,15 @@
       }
     ],
     "coach": {
-      "id": 23951,
-      "firstName": "Bo",
-      "lastName": "Henriksen",
-      "name": "Bo Henriksen",
-      "dateOfBirth": "1975-02-07",
-      "nationality": "Denmark",
+      "id": 246097,
+      "firstName": "Benjamin",
+      "lastName": "Hoffmann",
+      "name": "Benjamin Hoffmann",
+      "dateOfBirth": "1979-09-28",
+      "nationality": "Germany",
       "contract": {
-        "start": "2024-02",
-        "until": "2027-06"
+        "start": "2025-12",
+        "until": "2025-12"
       }
     },
     "squad": [
@@ -2752,15 +2766,15 @@
       }
     ],
     "coach": {
-      "id": 375,
-      "firstName": "Sandro",
-      "lastName": "Wagner",
-      "name": "Sandro Wagner",
-      "dateOfBirth": "1987-11-29",
+      "id": 10242,
+      "firstName": "Manuel",
+      "lastName": "Baum",
+      "name": "Manuel Baum",
+      "dateOfBirth": "1979-08-30",
       "nationality": "Germany",
       "contract": {
-        "start": "2025-07",
-        "until": "2028-06"
+        "start": "2025-12",
+        "until": "2025-12"
       }
     },
     "squad": [
@@ -4592,6 +4606,13 @@
         "nationality": "Belgium"
       },
       {
+        "id": 289807,
+        "name": "Benno Kaltefleiter",
+        "position": "Midfield",
+        "dateOfBirth": "2008-02-14",
+        "nationality": "Germany"
+      },
+      {
         "id": 178783,
         "name": "Romulo Cruz",
         "position": "Offence",
@@ -4613,38 +4634,10 @@
         "nationality": "Ivory Coast"
       },
       {
-        "id": 217929,
-        "name": "Kosta Nedeljković",
-        "position": "Right-Back",
-        "dateOfBirth": "2005-12-16",
-        "nationality": "Serbia"
-      },
-      {
-        "id": 214538,
-        "name": "Max Finkgräfe",
-        "position": "Left-Back",
-        "dateOfBirth": "2004-03-27",
-        "nationality": "Germany"
-      },
-      {
-        "id": 211796,
-        "name": "Tidiam Gomis",
-        "position": "Left Winger",
-        "dateOfBirth": "2006-08-08",
-        "nationality": "France"
-      },
-      {
-        "id": 171405,
-        "name": "Castello Lukeba",
-        "position": "Centre-Back",
-        "dateOfBirth": "2002-12-17",
-        "nationality": "France"
-      },
-      {
-        "id": 170415,
-        "name": "El Chadaille Bitshiabu",
-        "position": "Centre-Back",
-        "dateOfBirth": "2005-05-16",
+        "id": 289697,
+        "name": "Samba Konaté",
+        "position": "Offence",
+        "dateOfBirth": "2009-02-27",
         "nationality": "France"
       },
       {
@@ -4730,6 +4723,41 @@
         "position": "Right-Back",
         "dateOfBirth": "1997-02-23",
         "nationality": "Germany"
+      },
+      {
+        "id": 217929,
+        "name": "Kosta Nedeljković",
+        "position": "Right-Back",
+        "dateOfBirth": "2005-12-16",
+        "nationality": "Serbia"
+      },
+      {
+        "id": 214538,
+        "name": "Max Finkgräfe",
+        "position": "Left-Back",
+        "dateOfBirth": "2004-03-27",
+        "nationality": "Germany"
+      },
+      {
+        "id": 211796,
+        "name": "Tidiam Gomis",
+        "position": "Left Winger",
+        "dateOfBirth": "2006-08-08",
+        "nationality": "France"
+      },
+      {
+        "id": 171405,
+        "name": "Castello Lukeba",
+        "position": "Centre-Back",
+        "dateOfBirth": "2002-12-17",
+        "nationality": "France"
+      },
+      {
+        "id": 170415,
+        "name": "El Chadaille Bitshiabu",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-05-16",
+        "nationality": "France"
       }
     ],
     "staff": [],

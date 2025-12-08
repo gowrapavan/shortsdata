@@ -518,15 +518,15 @@
       }
     ],
     "coach": {
-      "id": 155098,
-      "firstName": "Hendrie",
-      "lastName": "Krüzen",
-      "name": "Hendrie Krüzen",
-      "dateOfBirth": "1964-11-24",
+      "id": 9583,
+      "firstName": "Ernest",
+      "lastName": "Faber",
+      "name": "Ernest Faber",
+      "dateOfBirth": "1971-08-27",
       "nationality": "Netherlands",
       "contract": {
-        "start": "2025-10",
-        "until": "2025-11"
+        "start": "2025-12",
+        "until": "2027-06"
       }
     },
     "squad": [
@@ -592,69 +592,6 @@
         "position": "Offence",
         "dateOfBirth": "2008-03-18",
         "nationality": "Netherlands"
-      },
-      {
-        "id": 263801,
-        "name": "Giandro Sambo",
-        "position": "Left Winger",
-        "dateOfBirth": "2006-08-28",
-        "nationality": "Curaçao"
-      },
-      {
-        "id": 262684,
-        "name": "Luka Kulenović",
-        "position": "Centre-Forward",
-        "dateOfBirth": "1999-09-29",
-        "nationality": "Bosnia-Herzegovina"
-      },
-      {
-        "id": 252865,
-        "name": "Jop Tijink",
-        "position": "Centre-Back",
-        "dateOfBirth": "2005-01-30",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 192656,
-        "name": "Alec Van Hoorenbeeck",
-        "position": "Centre-Back",
-        "dateOfBirth": "1998-12-30",
-        "nationality": "Belgium"
-      },
-      {
-        "id": 184974,
-        "name": "Yvandro Borges Sanches",
-        "position": "Left Winger",
-        "dateOfBirth": "2004-05-24",
-        "nationality": "Luxembourg"
-      },
-      {
-        "id": 178569,
-        "name": "Sem Scheperman",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2002-06-24",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 177672,
-        "name": "Walid Ould-Chikh",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "1999-11-06",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 172448,
-        "name": "Mimeirhel Benita",
-        "position": "Right-Back",
-        "dateOfBirth": "2003-11-17",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 158876,
-        "name": "Lorenzo Milani",
-        "position": "Left-Back",
-        "dateOfBirth": "2001-05-22",
-        "nationality": "Italy"
       },
       {
         "id": 150521,
@@ -739,6 +676,69 @@
         "position": "Right Winger",
         "dateOfBirth": "1993-10-22",
         "nationality": "Germany"
+      },
+      {
+        "id": 263801,
+        "name": "Giandro Sambo",
+        "position": "Left Winger",
+        "dateOfBirth": "2006-08-28",
+        "nationality": "Curaçao"
+      },
+      {
+        "id": 262684,
+        "name": "Luka Kulenović",
+        "position": "Centre-Forward",
+        "dateOfBirth": "1999-09-29",
+        "nationality": "Bosnia-Herzegovina"
+      },
+      {
+        "id": 252865,
+        "name": "Jop Tijink",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-01-30",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 192656,
+        "name": "Alec Van Hoorenbeeck",
+        "position": "Centre-Back",
+        "dateOfBirth": "1998-12-30",
+        "nationality": "Belgium"
+      },
+      {
+        "id": 184974,
+        "name": "Yvandro Borges Sanches",
+        "position": "Left Winger",
+        "dateOfBirth": "2004-05-24",
+        "nationality": "Luxembourg"
+      },
+      {
+        "id": 178569,
+        "name": "Sem Scheperman",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2002-06-24",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 177672,
+        "name": "Walid Ould-Chikh",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "1999-11-06",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 172448,
+        "name": "Mimeirhel Benita",
+        "position": "Right-Back",
+        "dateOfBirth": "2003-11-17",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 158876,
+        "name": "Lorenzo Milani",
+        "position": "Left-Back",
+        "dateOfBirth": "2001-05-22",
+        "nationality": "Italy"
       }
     ],
     "staff": [],
@@ -809,6 +809,13 @@
         "name": "Bernt Klaverboer",
         "position": "Goalkeeper",
         "dateOfBirth": "2005-09-26",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 273322,
+        "name": "Tjalling van Keimpema",
+        "position": "Goalkeeper",
+        "dateOfBirth": null,
         "nationality": "Netherlands"
       },
       {
@@ -2168,6 +2175,13 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 265344,
+        "name": "Mylo van der Lans",
+        "position": "Defence",
+        "dateOfBirth": "2007-04-11",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 190731,
         "name": "Oscar Gloukh",
         "position": "Midfield",
@@ -3032,10 +3046,24 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 289718,
+        "name": "Gilles van der Wal",
+        "position": "Midfield",
+        "dateOfBirth": "2008-01-01",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 188411,
         "name": "David Voute",
         "position": "Offence",
         "dateOfBirth": "2005-11-04",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 176994,
+        "name": "Damian van der Haar",
+        "position": "Centre-Back",
+        "dateOfBirth": "2004-01-16",
         "nationality": "Netherlands"
       },
       {
@@ -3142,13 +3170,6 @@
         "position": "Right-Back",
         "dateOfBirth": "2004-09-02",
         "nationality": "Netherlands"
-      },
-      {
-        "id": 176994,
-        "name": "Damian van der Haar",
-        "position": "Centre-Back",
-        "dateOfBirth": "2004-01-16",
-        "nationality": "Netherlands"
       }
     ],
     "staff": [],
@@ -3240,6 +3261,13 @@
         "name": "Giovanni van Zwam",
         "position": "Defence",
         "dateOfBirth": "2004-01-02",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 289666,
+        "name": "Dani Tijman",
+        "position": "Defence",
+        "dateOfBirth": null,
         "nationality": "Netherlands"
       },
       {
@@ -3359,13 +3387,6 @@
         "name": "Evert Linthorst",
         "position": "Defensive Midfield",
         "dateOfBirth": "2000-03-03",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 289666,
-        "name": "Dani Tijman",
-        "position": null,
-        "dateOfBirth": null,
         "nationality": "Netherlands"
       },
       {

@@ -25,13 +25,6 @@
         "emblem": "https://crests.football-data.org/bsa.png"
       },
       {
-        "id": 2081,
-        "name": "Copa Sudamericana",
-        "code": "CS",
-        "type": "CUP",
-        "emblem": null
-      },
-      {
         "id": 2037,
         "name": "Copa do Brasil",
         "code": "CDB",
@@ -495,13 +488,6 @@
         "emblem": "https://crests.football-data.org/bsa.png"
       },
       {
-        "id": 2081,
-        "name": "Copa Sudamericana",
-        "code": "CS",
-        "type": "CUP",
-        "emblem": null
-      },
-      {
         "id": 2037,
         "name": "Copa do Brasil",
         "code": "CDB",
@@ -555,13 +541,6 @@
         "name": "Pedro",
         "position": "Goalkeeper",
         "dateOfBirth": "2006-05-16",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 276275,
-        "name": "Diego",
-        "position": "Goalkeeper",
-        "dateOfBirth": "2004-08-31",
         "nationality": "Brazil"
       },
       {
@@ -716,13 +695,6 @@
         "name": "José Phelipe",
         "position": "Midfield",
         "dateOfBirth": "2005-06-14",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 276209,
-        "name": "Kauan",
-        "position": "Midfield",
-        "dateOfBirth": "2005-01-05",
         "nationality": "Brazil"
       },
       {
@@ -900,13 +872,6 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2081,
-        "name": "Copa Sudamericana",
-        "code": "CS",
-        "type": "CUP",
-        "emblem": null
       },
       {
         "id": 2037,
@@ -1772,13 +1737,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 278564,
-        "name": "Kaíque Da Silva",
-        "position": "Defence",
-        "dateOfBirth": "2007-03-02",
-        "nationality": "Brazil"
-      },
-      {
         "id": 286981,
         "name": "Gabriel Pereira",
         "position": "Defence",
@@ -2016,24 +1974,17 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2081,
-        "name": "Copa Sudamericana",
-        "code": "CS",
-        "type": "CUP",
-        "emblem": null
       }
     ],
     "coach": {
-      "id": 15925,
+      "id": 289745,
       "firstName": "",
-      "lastName": "Leonardo Jardim",
-      "name": "Leonardo Jardim",
-      "dateOfBirth": "1974-08-01",
-      "nationality": "Portugal",
+      "lastName": "Mairon César",
+      "name": "Mairon César",
+      "dateOfBirth": "1986-03-27",
+      "nationality": "Brazil",
       "contract": {
-        "start": "2025-02",
+        "start": "2025-12",
         "until": "2025-12"
       }
     },
@@ -2270,6 +2221,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 224583,
+        "name": "João Pedro",
+        "position": "Offence",
+        "dateOfBirth": "2003-02-02",
+        "nationality": "Brazil"
+      },
+      {
         "id": 227024,
         "name": "Luis Fernando",
         "position": "Offence",
@@ -2324,6 +2282,20 @@
         "position": "Central Midfield",
         "dateOfBirth": "1997-12-19",
         "nationality": "Brazil"
+      },
+      {
+        "id": 289855,
+        "name": "Rhuan Gabriel",
+        "position": null,
+        "dateOfBirth": "2006-02-06",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 289854,
+        "name": "Cauan",
+        "position": null,
+        "dateOfBirth": "2007-10-30",
+        "nationality": "Italy"
       }
     ],
     "staff": [],
@@ -2586,6 +2558,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 249186,
+        "name": "Iba Ly",
+        "position": "Midfield",
+        "dateOfBirth": "2003-01-22",
+        "nationality": "Senegal"
+      },
+      {
         "id": 276268,
         "name": "Pedrinho",
         "position": "Midfield",
@@ -2725,13 +2704,6 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2081,
-        "name": "Copa Sudamericana",
-        "code": "CS",
-        "type": "CUP",
-        "emblem": null
       }
     ],
     "coach": {
@@ -3672,13 +3644,6 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2081,
-        "name": "Copa Sudamericana",
-        "code": "CS",
-        "type": "CUP",
-        "emblem": null
       }
     ],
     "coach": {
@@ -3980,6 +3945,13 @@
         "position": "Centre-Back",
         "dateOfBirth": "1993-03-24",
         "nationality": "Brazil"
+      },
+      {
+        "id": 289853,
+        "name": "Guilherme Amorim",
+        "position": null,
+        "dateOfBirth": "2008-01-15",
+        "nationality": "Brazil"
       }
     ],
     "staff": [],
@@ -4009,13 +3981,6 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2081,
-        "name": "Copa Sudamericana",
-        "code": "CS",
-        "type": "CUP",
-        "emblem": null
       },
       {
         "id": 2037,
@@ -4141,6 +4106,13 @@
         "name": "Paulinho",
         "position": "Defence",
         "dateOfBirth": "2005-05-23",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 203258,
+        "name": "Lyncon Correa",
+        "position": "Defence",
+        "dateOfBirth": "2005-05-07",
         "nationality": "Brazil"
       },
       {
@@ -4458,13 +4430,6 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2081,
-        "name": "Copa Sudamericana",
-        "code": "CS",
-        "type": "CUP",
-        "emblem": null
       },
       {
         "id": 2037,
@@ -4916,6 +4881,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 289790,
+        "name": "Gabriel Laizo",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2009-02-14",
+        "nationality": "Brazil"
+      },
+      {
         "id": 1074,
         "name": "Ayrton Lucas",
         "position": "Defence",
@@ -5011,6 +4983,13 @@
         "name": "Johnny Goes",
         "position": "Defence",
         "dateOfBirth": "2007-03-27",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 289789,
+        "name": "Yago",
+        "position": "Defence",
+        "dateOfBirth": "2007-02-06",
         "nationality": "Brazil"
       },
       {
@@ -5172,6 +5151,13 @@
         "name": "Douglas Telles",
         "position": "Offence",
         "dateOfBirth": "2007-06-01",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 289791,
+        "name": "João Paulo",
+        "position": "Offence",
+        "dateOfBirth": "2007-04-12",
         "nationality": "Brazil"
       },
       {
@@ -5474,6 +5460,13 @@
         "name": "Wellington",
         "position": "Midfield",
         "dateOfBirth": "2007-04-14",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 262199,
+        "name": "Lucas",
+        "position": "Midfield",
+        "dateOfBirth": "2000-06-03",
         "nationality": "Brazil"
       },
       {
@@ -6165,13 +6158,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 213437,
-        "name": "Caué da Rocha",
-        "position": "Defence",
-        "dateOfBirth": "2004-12-13",
-        "nationality": "Brazil"
-      },
-      {
         "id": 283428,
         "name": "Bernardo Tichz",
         "position": "Defence",
@@ -6323,6 +6309,13 @@
         "name": "João Paulo",
         "position": "Midfield",
         "dateOfBirth": "2008-05-18",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 289757,
+        "name": "Arthur Antunes",
+        "position": "Midfield",
+        "dateOfBirth": "2009-02-27",
         "nationality": "Brazil"
       },
       {
@@ -6548,6 +6541,13 @@
         "name": "Gustavo Marques",
         "position": "Defence",
         "dateOfBirth": "2001-10-09",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 179176,
+        "name": "Halls",
+        "position": "Defence",
+        "dateOfBirth": "2002-02-04",
         "nationality": "Brazil"
       },
       {
@@ -6937,13 +6937,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 250882,
-        "name": "Paulo Henrique",
-        "position": "Defence",
-        "dateOfBirth": "1996-12-19",
-        "nationality": "Brazil"
-      },
-      {
         "id": 276367,
         "name": "Everton Oliveira",
         "position": "Defence",
@@ -7295,6 +7288,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 182086,
+        "name": "Estevao",
+        "position": "Midfield",
+        "dateOfBirth": "2002-02-03",
+        "nationality": "Brazil"
+      },
+      {
         "id": 249134,
         "name": "Gustavo Prado",
         "position": "Midfield",
@@ -7632,6 +7632,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 183577,
+        "name": "Ed Carlos",
+        "position": "Midfield",
+        "dateOfBirth": "2001-03-19",
+        "nationality": "Brazil"
+      },
+      {
         "id": 191772,
         "name": "Gustavo Caballero",
         "position": "Midfield",
@@ -7723,6 +7730,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 181927,
+        "name": "Bilal Brahimi",
+        "position": "Left Winger",
+        "dateOfBirth": "2000-03-14",
+        "nationality": "France"
+      },
+      {
         "id": 122016,
         "name": "Benjamín Rollheiser",
         "position": "Right Winger",
@@ -7742,13 +7756,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "1997-01-13",
         "nationality": "Brazil"
-      },
-      {
-        "id": 181927,
-        "name": "Bilal Brahimi",
-        "position": "Left Winger",
-        "dateOfBirth": "2000-03-14",
-        "nationality": "France"
       }
     ],
     "staff": [],

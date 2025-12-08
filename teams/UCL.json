@@ -1163,6 +1163,13 @@
         "nationality": "Russia"
       },
       {
+        "id": 289765,
+        "name": "Marli Salmon",
+        "position": "Defence",
+        "dateOfBirth": "2009-08-29",
+        "nationality": "England"
+      },
+      {
         "id": 285128,
         "name": "Max Dowman",
         "position": "Midfield",
@@ -2861,6 +2868,13 @@
         "code": "CL",
         "type": "CUP",
         "emblem": "https://crests.football-data.org/CL.png"
+      },
+      {
+        "id": 2078,
+        "name": "Supercopa de España",
+        "code": "SDE",
+        "type": "SUPER_CUP",
+        "emblem": "https://crests.football-data.org/sde.png"
       }
     ],
     "coach": {
@@ -2905,6 +2919,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 276982,
+        "name": "Ander Izagirre",
+        "position": "Defence",
+        "dateOfBirth": "2003-06-28",
+        "nationality": "Spain"
+      },
+      {
         "id": 283817,
         "name": "Jon de Luis",
         "position": "Defence",
@@ -2916,13 +2937,6 @@
         "name": "Iker Monreal",
         "position": "Defence",
         "dateOfBirth": "2005-07-03",
-        "nationality": "Spain"
-      },
-      {
-        "id": 289114,
-        "name": "Ander Izaguirre",
-        "position": "Defence",
-        "dateOfBirth": "2003-06-28",
         "nationality": "Spain"
       },
       {
@@ -2954,6 +2968,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 231471,
+        "name": "Endika Buján",
+        "position": "Offence",
+        "dateOfBirth": "2003-01-16",
+        "nationality": "Spain"
+      },
+      {
         "id": 287080,
         "name": "Adrián Pérez",
         "position": "Offence",
@@ -2965,6 +2986,20 @@
         "name": "Asier Hierro",
         "position": "Offence",
         "dateOfBirth": "2005-05-06",
+        "nationality": "Spain"
+      },
+      {
+        "id": 289717,
+        "name": "Éder García",
+        "position": "Offence",
+        "dateOfBirth": "2004-01-04",
+        "nationality": "Spain"
+      },
+      {
+        "id": 168663,
+        "name": "Benat Prados",
+        "position": "Central Midfield",
+        "dateOfBirth": "2001-02-08",
         "nationality": "Spain"
       },
       {
@@ -3113,13 +3148,6 @@
         "position": "Left Winger",
         "dateOfBirth": "2003-03-05",
         "nationality": "Spain"
-      },
-      {
-        "id": 168663,
-        "name": "Benat Prados",
-        "position": "Central Midfield",
-        "dateOfBirth": "2001-02-08",
-        "nationality": "Spain"
       }
     ],
     "staff": [],
@@ -3156,6 +3184,13 @@
         "code": "CL",
         "type": "CUP",
         "emblem": "https://crests.football-data.org/CL.png"
+      },
+      {
+        "id": 2078,
+        "name": "Supercopa de España",
+        "code": "SDE",
+        "type": "SUPER_CUP",
+        "emblem": "https://crests.football-data.org/sde.png"
       }
     ],
     "coach": {
@@ -3219,6 +3254,13 @@
         "position": "Defence",
         "dateOfBirth": "1995-01-20",
         "nationality": "Uruguay"
+      },
+      {
+        "id": 261186,
+        "name": "Aleksa Puric",
+        "position": "Defence",
+        "dateOfBirth": "2003-07-07",
+        "nationality": "Serbia"
       },
       {
         "id": 171955,
@@ -3361,13 +3403,6 @@
         "nationality": "France"
       },
       {
-        "id": 244719,
-        "name": "Rayane Belaid",
-        "position": "Left Winger",
-        "dateOfBirth": "2005-11-02",
-        "nationality": "Algeria"
-      },
-      {
         "id": 221562,
         "name": "Javier Boñar",
         "position": "Right-Back",
@@ -3437,6 +3472,13 @@
         "code": "CL",
         "type": "CUP",
         "emblem": "https://crests.football-data.org/CL.png"
+      },
+      {
+        "id": 2078,
+        "name": "Supercopa de España",
+        "code": "SDE",
+        "type": "SUPER_CUP",
+        "emblem": "https://crests.football-data.org/sde.png"
       }
     ],
     "coach": {
@@ -3718,6 +3760,13 @@
         "code": "CL",
         "type": "CUP",
         "emblem": "https://crests.football-data.org/CL.png"
+      },
+      {
+        "id": 2078,
+        "name": "Supercopa de España",
+        "code": "SDE",
+        "type": "SUPER_CUP",
+        "emblem": "https://crests.football-data.org/sde.png"
       }
     ],
     "coach": {
@@ -4085,10 +4134,24 @@
         "nationality": "Spain"
       },
       {
+        "id": 273016,
+        "name": "Alassane Diatta",
+        "position": "Midfield",
+        "dateOfBirth": "2005-05-14",
+        "nationality": "Senegal"
+      },
+      {
         "id": 285597,
         "name": "Hugo López",
         "position": "Midfield",
         "dateOfBirth": null,
+        "nationality": "Spain"
+      },
+      {
+        "id": 289770,
+        "name": "Carlos Macià",
+        "position": "Midfield",
+        "dateOfBirth": "2008-09-01",
         "nationality": "Spain"
       },
       {
@@ -4104,6 +4167,13 @@
         "position": "Offence",
         "dateOfBirth": "2006-06-11",
         "nationality": "Mali"
+      },
+      {
+        "id": 176758,
+        "name": "Rafa Marin",
+        "position": "Centre-Back",
+        "dateOfBirth": "2002-05-19",
+        "nationality": "Spain"
       },
       {
         "id": 176202,
@@ -4251,13 +4321,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "2003-07-29",
         "nationality": "Portugal"
-      },
-      {
-        "id": 176758,
-        "name": "Rafa Marin",
-        "position": "Centre-Back",
-        "dateOfBirth": "2002-05-19",
-        "nationality": "Spain"
       }
     ],
     "staff": [],
@@ -4633,6 +4696,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 283944,
+        "name": "Yvan Maye",
+        "position": "Defence",
+        "dateOfBirth": "2006-03-21",
+        "nationality": "France"
+      },
+      {
         "id": 154013,
         "name": "Petar Sucic",
         "position": "Midfield",
@@ -4644,6 +4714,13 @@
         "name": "Thomas Berenbruch",
         "position": "Midfield",
         "dateOfBirth": "2005-05-31",
+        "nationality": "Italy"
+      },
+      {
+        "id": 279859,
+        "name": "Leonardo Bovo",
+        "position": "Midfield",
+        "dateOfBirth": "2005-05-07",
         "nationality": "Italy"
       },
       {
@@ -4673,6 +4750,13 @@
         "position": "Offence",
         "dateOfBirth": "2007-03-26",
         "nationality": "Italy"
+      },
+      {
+        "id": 115074,
+        "name": "Luis Henrique",
+        "position": "Left Winger",
+        "dateOfBirth": "2001-12-14",
+        "nationality": "Brazil"
       },
       {
         "id": 30821,
@@ -4799,13 +4883,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "2003-04-28",
         "nationality": "Argentina"
-      },
-      {
-        "id": 115074,
-        "name": "Luis Henrique",
-        "position": "Left Winger",
-        "dateOfBirth": "2001-12-14",
-        "nationality": "Brazil"
       }
     ],
     "staff": [],
@@ -7661,6 +7738,13 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 265344,
+        "name": "Mylo van der Lans",
+        "position": "Defence",
+        "dateOfBirth": "2007-04-11",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 190731,
         "name": "Oscar Gloukh",
         "position": "Midfield",
@@ -7714,6 +7798,13 @@
         "name": "Pharell Nash",
         "position": "Offence",
         "dateOfBirth": "2008-02-07",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 157120,
+        "name": "Kian Fitz-Jim",
+        "position": "Central Midfield",
+        "dateOfBirth": "2003-07-05",
         "nationality": "Netherlands"
       },
       {
@@ -7827,13 +7918,6 @@
         "position": "Right-Back",
         "dateOfBirth": "2002-11-19",
         "nationality": "Denmark"
-      },
-      {
-        "id": 157120,
-        "name": "Kian Fitz-Jim",
-        "position": "Central Midfield",
-        "dateOfBirth": "2003-07-05",
-        "nationality": "Netherlands"
       }
     ],
     "staff": [],
@@ -7926,6 +8010,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2006-04-06",
         "nationality": "Nigeria"
+      },
+      {
+        "id": 289785,
+        "name": "Stefan Ostoici",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2009-02-03",
+        "nationality": "Hungary"
       },
       {
         "id": 8873,
@@ -8515,13 +8606,6 @@
         "name": "Oscar Buur",
         "position": "Goalkeeper",
         "dateOfBirth": "2006-10-29",
-        "nationality": "Denmark"
-      },
-      {
-        "id": 3453,
-        "name": "Nicolai Boilesen",
-        "position": "Defence",
-        "dateOfBirth": "1992-02-16",
         "nationality": "Denmark"
       },
       {
