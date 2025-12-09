@@ -19,7 +19,7 @@
     "id": 2416,
     "startDate": "2025-08-08",
     "endDate": "2026-12-29",
-    "currentMatchday": 19,
+    "currentMatchday": 20,
     "winner": null
   },
   "standings": [
@@ -335,25 +335,6 @@
         {
           "position": 17,
           "team": {
-            "id": 59,
-            "name": "Blackburn Rovers FC",
-            "shortName": "Blackburn",
-            "tla": "BLA",
-            "crest": "https://crests.football-data.org/59.png"
-          },
-          "playedGames": 19,
-          "form": null,
-          "won": 7,
-          "draw": 3,
-          "lost": 9,
-          "points": 24,
-          "goalsFor": 19,
-          "goalsAgainst": 23,
-          "goalDifference": -4
-        },
-        {
-          "position": 18,
-          "team": {
             "id": 348,
             "name": "Charlton Athletic FC",
             "shortName": "Charlton",
@@ -371,7 +352,7 @@
           "goalDifference": -5
         },
         {
-          "position": 19,
+          "position": 18,
           "team": {
             "id": 356,
             "name": "Sheffield United FC",
@@ -388,6 +369,25 @@
           "goalsFor": 24,
           "goalsAgainst": 28,
           "goalDifference": -4
+        },
+        {
+          "position": 19,
+          "team": {
+            "id": 59,
+            "name": "Blackburn Rovers FC",
+            "shortName": "Blackburn",
+            "tla": "BLA",
+            "crest": "https://crests.football-data.org/59.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 6,
+          "draw": 3,
+          "lost": 9,
+          "points": 21,
+          "goalsFor": 18,
+          "goalsAgainst": 23,
+          "goalDifference": -5
         },
         {
           "position": 20,
@@ -474,15 +474,15 @@
             "tla": "SHE",
             "crest": "https://crests.football-data.org/345.png"
           },
-          "playedGames": 19,
+          "playedGames": 18,
           "form": null,
           "won": 1,
           "draw": 5,
-          "lost": 13,
+          "lost": 12,
           "points": 8,
           "goalsFor": 14,
-          "goalsAgainst": 37,
-          "goalDifference": -23
+          "goalsAgainst": 36,
+          "goalDifference": -22
         }
       ]
     }
