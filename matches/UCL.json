@@ -118,8 +118,8 @@
     "AwayTeamName": "Sporting Clube de Portugal",
     "HomeTeamLogo": "https://crests.football-data.org/5.png",
     "AwayTeamLogo": "https://crests.football-data.org/498.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "5": 0,
@@ -3195,7 +3195,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T15:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 10601,
@@ -3206,12 +3206,12 @@
     "AwayTeamName": "PAE Olympiakos SFP",
     "HomeTeamLogo": "https://crests.football-data.org/10601.png",
     "AwayTeamLogo": "https://crests.football-data.org/654.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 654,
     "Points": {
       "10601": 0,
-      "654": 0
+      "654": 3
     },
     "Goals": []
   },
