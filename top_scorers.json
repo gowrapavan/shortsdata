@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-09T06:16:24.936686Z",
+    "last_updated": "2025-12-10T06:16:42.019900Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -638,7 +638,7 @@
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
                     "goals": 4,
-                    "assists": 1,
+                    "assists": 2,
                     "penalties": null,
                     "nationality": "England"
                 },
@@ -652,6 +652,24 @@
                     "nationality": "England"
                 },
                 {
+                    "player_name": "Julián Álvarez",
+                    "team_name": "Club Atlético de Madrid",
+                    "team_crest": "https://crests.football-data.org/78.png",
+                    "goals": 4,
+                    "assists": 1,
+                    "penalties": 1,
+                    "nationality": "Argentina"
+                },
+                {
+                    "player_name": "Igor Paixão",
+                    "team_name": "Olympique de Marseille",
+                    "team_crest": "https://crests.football-data.org/516.png",
+                    "goals": 4,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Brazil"
+                },
+                {
                     "player_name": "Lautaro Martínez",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
@@ -659,24 +677,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Argentina"
-                },
-                {
-                    "player_name": "Harvey Barnes",
-                    "team_name": "Newcastle United FC",
-                    "team_crest": "https://crests.football-data.org/67.png",
-                    "goals": 4,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "England"
-                },
-                {
-                    "player_name": "Vitinha",
-                    "team_name": "Paris Saint-Germain FC",
-                    "team_crest": "https://crests.football-data.org/524.png",
-                    "goals": 4,
-                    "assists": 1,
-                    "penalties": 1,
-                    "nationality": "Portugal"
                 }
             ]
         }
