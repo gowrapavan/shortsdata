@@ -263,7 +263,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 102,
@@ -274,11 +274,11 @@
     "AwayTeamName": "Chelsea FC",
     "HomeTeamLogo": "https://crests.football-data.org/102.png",
     "AwayTeamLogo": "https://crests.football-data.org/61.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 102,
     "Points": {
-      "102": 0,
+      "102": 3,
       "61": 0
     },
     "Goals": []
@@ -599,7 +599,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 108,
@@ -611,11 +611,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/108.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 64,
     "Points": {
       "108": 0,
-      "64": 0
+      "64": 3
     },
     "Goals": []
   },
@@ -1165,7 +1165,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 81,
@@ -1176,11 +1176,11 @@
     "AwayTeamName": "Eintracht Frankfurt",
     "HomeTeamLogo": "https://crests.football-data.org/81.png",
     "AwayTeamLogo": "https://crests.football-data.org/19.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 81,
     "Points": {
-      "81": 0,
+      "81": 3,
       "19": 0
     },
     "Goals": []
@@ -2579,7 +2579,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 674,
@@ -2590,12 +2590,12 @@
     "AwayTeamName": "Club Atlético de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/674.png",
     "AwayTeamLogo": "https://crests.football-data.org/78.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 78,
     "Points": {
       "674": 0,
-      "78": 0
+      "78": 3
     },
     "Goals": []
   },
@@ -2837,7 +2837,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 3929,
@@ -2848,12 +2848,12 @@
     "AwayTeamName": "Olympique de Marseille",
     "HomeTeamLogo": "https://crests.football-data.org/3929.png",
     "AwayTeamLogo": "https://crests.football-data.org/516.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 2,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
-      "3929": 0,
-      "516": 0
+      "3929": 1,
+      "516": 1
     },
     "Goals": []
   },
@@ -2863,7 +2863,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 73,
@@ -2874,11 +2874,11 @@
     "AwayTeamName": "SK Slavia Praha",
     "HomeTeamLogo": "https://crests.football-data.org/73.png",
     "AwayTeamLogo": "https://crests.football-data.org/930.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 73,
     "Points": {
-      "73": 0,
+      "73": 3,
       "930": 0
     },
     "Goals": []
@@ -3429,7 +3429,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 548,
@@ -3440,11 +3440,11 @@
     "AwayTeamName": "Galatasaray SK",
     "HomeTeamLogo": "https://crests.football-data.org/548.png",
     "AwayTeamLogo": "https://crests.football-data.org/610.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 548,
     "Points": {
-      "548": 0,
+      "548": 3,
       "610": 0
     },
     "Goals": []

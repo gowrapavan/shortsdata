@@ -5791,7 +5791,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 59,
@@ -5802,12 +5802,12 @@
     "AwayTeamName": "Oxford United FC",
     "HomeTeamLogo": "https://crests.football-data.org/59.png",
     "AwayTeamLogo": "https://crests.football-data.org/1082.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "59": 0,
-      "1082": 0
+      "59": 1,
+      "1082": 1
     },
     "Goals": []
   },
@@ -5817,7 +5817,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 348,
@@ -5828,12 +5828,12 @@
     "AwayTeamName": "Middlesbrough FC",
     "HomeTeamLogo": "https://crests.football-data.org/348.png",
     "AwayTeamLogo": "https://crests.football-data.org/343.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 343,
     "Points": {
       "348": 0,
-      "343": 0
+      "343": 3
     },
     "Goals": []
   },
@@ -5843,7 +5843,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1081,
@@ -5854,12 +5854,12 @@
     "AwayTeamName": "Coventry City FC",
     "HomeTeamLogo": "https://crests.football-data.org/1081.png",
     "AwayTeamLogo": "https://crests.football-data.org/1076.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "1081": 0,
-      "1076": 0
+      "1081": 1,
+      "1076": 1
     },
     "Goals": []
   },
@@ -5869,7 +5869,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 69,
@@ -5880,11 +5880,11 @@
     "AwayTeamName": "Birmingham City FC",
     "HomeTeamLogo": "https://crests.football-data.org/69.png",
     "AwayTeamLogo": "https://crests.football-data.org/332.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 69,
     "Points": {
-      "69": 0,
+      "69": 3,
       "332": 0
     },
     "Goals": []
@@ -5895,7 +5895,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 356,
@@ -5907,11 +5907,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/356.png",
     "AwayTeamLogo": "https://crests.football-data.org/68.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "356": 0,
-      "68": 0
+      "356": 1,
+      "68": 1
     },
     "Goals": []
   },
@@ -5921,7 +5921,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 340,
@@ -5933,10 +5933,10 @@
     "HomeTeamLogo": "https://crests.football-data.org/340.png",
     "AwayTeamLogo": "https://crests.football-data.org/74.png",
     "HomeTeamScore": 3,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 340,
     "Points": {
-      "340": 0,
+      "340": 3,
       "74": 0
     },
     "Goals": []
@@ -5947,7 +5947,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 72,
@@ -5958,11 +5958,11 @@
     "AwayTeamName": "Portsmouth FC",
     "HomeTeamLogo": "https://crests.football-data.org/72.png",
     "AwayTeamLogo": "https://crests.football-data.org/325.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 72,
     "Points": {
-      "72": 0,
+      "72": 3,
       "325": 0
     },
     "Goals": []
@@ -5973,7 +5973,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-09",
     "DateTime": "2025-12-09T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 346,
@@ -5984,12 +5984,12 @@
     "AwayTeamName": "Sheffield Wednesday FC",
     "HomeTeamLogo": "https://crests.football-data.org/346.png",
     "AwayTeamLogo": "https://crests.football-data.org/345.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "346": 0,
-      "345": 0
+      "346": 1,
+      "345": 1
     },
     "Goals": []
   },
