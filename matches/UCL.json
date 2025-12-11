@@ -393,7 +393,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 86,
@@ -406,10 +406,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/65.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 65,
     "Points": {
       "86": 0,
-      "65": 0
+      "65": 3
     },
     "Goals": []
   },
@@ -881,7 +881,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 4,
@@ -893,11 +893,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/4.png",
     "AwayTeamLogo": "https://crests.football-data.org/5721.png",
     "HomeTeamScore": 2,
-    "AwayTeamScore": 1,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "4": 0,
-      "5721": 0
+      "4": 1,
+      "5721": 1
     },
     "Goals": []
   },
@@ -1575,7 +1575,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 77,
@@ -1590,8 +1590,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "77": 0,
-      "524": 0
+      "77": 1,
+      "524": 1
     },
     "Goals": []
   },
@@ -1705,7 +1705,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 3,
@@ -1716,12 +1716,12 @@
     "AwayTeamName": "Newcastle United FC",
     "HomeTeamLogo": "https://crests.football-data.org/3.png",
     "AwayTeamLogo": "https://crests.football-data.org/67.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "3": 0,
-      "67": 0
+      "3": 1,
+      "67": 1
     },
     "Goals": []
   },
@@ -1781,7 +1781,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 851,
@@ -1793,11 +1793,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/851.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 57,
     "Points": {
       "851": 0,
-      "57": 0
+      "57": 3
     },
     "Goals": []
   },
@@ -2091,7 +2091,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1903,
@@ -2104,9 +2104,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/113.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 1903,
     "Points": {
-      "1903": 0,
+      "1903": 3,
       "113": 0
     },
     "Goals": []
@@ -2501,7 +2501,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 109,
@@ -2512,11 +2512,11 @@
     "AwayTeamName": "Paphos FC",
     "HomeTeamLogo": "https://crests.football-data.org/109.png",
     "AwayTeamLogo": "https://crests.football-data.org/11034.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 109,
     "Points": {
-      "109": 0,
+      "109": 3,
       "11034": 0
     },
     "Goals": []

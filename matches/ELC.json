@@ -5999,7 +5999,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 387,
@@ -6010,12 +6010,12 @@
     "AwayTeamName": "Leicester City FC",
     "HomeTeamLogo": "https://crests.football-data.org/387.png",
     "AwayTeamLogo": "https://crests.football-data.org/338.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "387": 0,
-      "338": 0
+      "387": 1,
+      "338": 1
     },
     "Goals": []
   },
@@ -6025,7 +6025,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 342,
@@ -6036,12 +6036,12 @@
     "AwayTeamName": "Millwall FC",
     "HomeTeamLogo": "https://crests.football-data.org/342.png",
     "AwayTeamLogo": "https://crests.football-data.org/384.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "342": 0,
-      "384": 0
+      "342": 1,
+      "384": 1
     },
     "Goals": []
   },
@@ -6051,7 +6051,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 322,
@@ -6062,11 +6062,11 @@
     "AwayTeamName": "Wrexham AFC",
     "HomeTeamLogo": "https://crests.football-data.org/322.png",
     "AwayTeamLogo": "https://crests.football-data.org/404.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 322,
     "Points": {
-      "322": 0,
+      "322": 3,
       "404": 0
     },
     "Goals": []
@@ -6077,7 +6077,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-10",
     "DateTime": "2025-12-10T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 349,
@@ -6090,9 +6090,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/70.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 349,
     "Points": {
-      "349": 0,
+      "349": 3,
       "70": 0
     },
     "Goals": []
