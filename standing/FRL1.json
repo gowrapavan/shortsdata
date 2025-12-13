@@ -183,6 +183,25 @@
         {
           "position": 9,
           "team": {
+            "id": 532,
+            "name": "Angers SCO",
+            "shortName": "Angers SCO",
+            "tla": "ANG",
+            "crest": "https://crests.football-data.org/532.png"
+          },
+          "playedGames": 16,
+          "form": null,
+          "won": 6,
+          "draw": 4,
+          "lost": 6,
+          "points": 22,
+          "goalsFor": 17,
+          "goalsAgainst": 18,
+          "goalDifference": -1
+        },
+        {
+          "position": 10,
+          "team": {
             "id": 511,
             "name": "Toulouse FC",
             "shortName": "Toulouse",
@@ -200,7 +219,7 @@
           "goalDifference": 2
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 512,
             "name": "Stade Brestois 29",
@@ -216,25 +235,6 @@
           "points": 19,
           "goalsFor": 20,
           "goalsAgainst": 24,
-          "goalDifference": -4
-        },
-        {
-          "position": 11,
-          "team": {
-            "id": 532,
-            "name": "Angers SCO",
-            "shortName": "Angers SCO",
-            "tla": "ANG",
-            "crest": "https://crests.football-data.org/532.png"
-          },
-          "playedGames": 15,
-          "form": null,
-          "won": 5,
-          "draw": 4,
-          "lost": 6,
-          "points": 19,
-          "goalsFor": 13,
-          "goalsAgainst": 17,
           "goalDifference": -4
         },
         {
@@ -341,15 +341,15 @@
             "tla": "NAN",
             "crest": "https://crests.football-data.org/543.png"
           },
-          "playedGames": 15,
+          "playedGames": 16,
           "form": null,
           "won": 2,
           "draw": 5,
-          "lost": 8,
+          "lost": 9,
           "points": 11,
-          "goalsFor": 13,
-          "goalsAgainst": 24,
-          "goalDifference": -11
+          "goalsFor": 14,
+          "goalsAgainst": 28,
+          "goalDifference": -14
         },
         {
           "position": 18,
