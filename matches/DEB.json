@@ -3131,7 +3131,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-12-12",
     "DateTime": "2025-12-12T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 28,
@@ -3142,11 +3142,11 @@
     "AwayTeamName": "RB Leipzig",
     "HomeTeamLogo": "https://crests.football-data.org/28.png",
     "AwayTeamLogo": "https://crests.football-data.org/721.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 28,
     "Points": {
-      "28": 0,
+      "28": 3,
       "721": 0
     },
     "Goals": []

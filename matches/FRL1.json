@@ -3607,7 +3607,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-12-12",
     "DateTime": "2025-12-12T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 532,
@@ -3618,11 +3618,11 @@
     "AwayTeamName": "FC Nantes",
     "HomeTeamLogo": "https://crests.football-data.org/532.png",
     "AwayTeamLogo": "https://crests.football-data.org/543.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 1,
+    "Result": 532,
     "Points": {
-      "532": 0,
+      "532": 3,
       "543": 0
     },
     "Goals": []

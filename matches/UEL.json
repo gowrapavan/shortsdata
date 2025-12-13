@@ -6363,7 +6363,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-12",
     "DateTime": "2025-12-12T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 74,
@@ -6374,11 +6374,11 @@
     "AwayTeamName": "Sheffield United FC",
     "HomeTeamLogo": "https://crests.football-data.org/74.png",
     "AwayTeamLogo": "https://crests.football-data.org/356.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 74,
     "Points": {
-      "74": 0,
+      "74": 3,
       "356": 0
     },
     "Goals": []
