@@ -3920,8 +3920,8 @@
     "AwayTeamName": "Fulham FC",
     "HomeTeamLogo": "https://crests.football-data.org/328.png",
     "AwayTeamLogo": "https://crests.football-data.org/63.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "328": 0,
@@ -3935,7 +3935,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 61,
@@ -3946,11 +3946,11 @@
     "AwayTeamName": "Everton FC",
     "HomeTeamLogo": "https://crests.football-data.org/61.png",
     "AwayTeamLogo": "https://crests.football-data.org/62.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 61,
     "Points": {
-      "61": 0,
+      "61": 3,
       "62": 0
     },
     "Goals": []
@@ -3961,7 +3961,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 64,
@@ -3972,11 +3972,11 @@
     "AwayTeamName": "Brighton & Hove Albion FC",
     "HomeTeamLogo": "https://crests.football-data.org/64.png",
     "AwayTeamLogo": "https://crests.football-data.org/397.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 64,
     "Points": {
-      "64": 0,
+      "64": 3,
       "397": 0
     },
     "Goals": []

@@ -3852,8 +3852,8 @@
     "AwayTeamName": "CA Osasuna",
     "HomeTeamLogo": "https://crests.football-data.org/81.png",
     "AwayTeamLogo": "https://crests.football-data.org/79.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "81": 0,
@@ -3945,7 +3945,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 89,
@@ -3956,11 +3956,11 @@
     "AwayTeamName": "Elche CF",
     "HomeTeamLogo": "https://crests.football-data.org/89.png",
     "AwayTeamLogo": "https://crests.football-data.org/285.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 89,
     "Points": {
-      "89": 0,
+      "89": 3,
       "285": 0
     },
     "Goals": []

@@ -3721,7 +3721,7 @@
     "RoundName": "Serie A",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 586,
@@ -3734,9 +3734,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/457.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 586,
     "Points": {
-      "586": 0,
+      "586": 3,
       "457": 0
     },
     "Goals": []
@@ -3758,8 +3758,8 @@
     "AwayTeamName": "SS Lazio",
     "HomeTeamLogo": "https://crests.football-data.org/112.png",
     "AwayTeamLogo": "https://crests.football-data.org/110.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "112": 0,

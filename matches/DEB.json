@@ -3012,8 +3012,8 @@
     "AwayTeamName": "1. FC Köln",
     "HomeTeamLogo": "https://crests.football-data.org/3.png",
     "AwayTeamLogo": "https://crests.football-data.org/1.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "3": 0,
@@ -3027,7 +3027,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 19,
@@ -3038,12 +3038,12 @@
     "AwayTeamName": "FC Augsburg",
     "HomeTeamLogo": "https://crests.football-data.org/19.png",
     "AwayTeamLogo": "https://crests.football-data.org/16.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "19": 0,
-      "16": 0
+      "19": 1,
+      "16": 1
     },
     "Goals": []
   },
@@ -3105,7 +3105,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 18,
@@ -3116,12 +3116,12 @@
     "AwayTeamName": "VfL Wolfsburg",
     "HomeTeamLogo": "https://crests.football-data.org/18.png",
     "AwayTeamLogo": "https://crests.football-data.org/11.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 3,
-    "Result": null,
+    "Result": 11,
     "Points": {
       "18": 0,
-      "11": 0
+      "11": 3
     },
     "Goals": []
   },
@@ -3157,7 +3157,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 20,
@@ -3168,11 +3168,11 @@
     "AwayTeamName": "1. FC Heidenheim 1846",
     "HomeTeamLogo": "https://crests.football-data.org/20.png",
     "AwayTeamLogo": "https://crests.football-data.org/44.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 20,
     "Points": {
-      "20": 0,
+      "20": 3,
       "44": 0
     },
     "Goals": []
@@ -3183,7 +3183,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 2,
@@ -3194,11 +3194,11 @@
     "AwayTeamName": "Hamburger SV",
     "HomeTeamLogo": "https://crests.football-data.org/2.png",
     "AwayTeamLogo": "https://crests.football-data.org/7.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 1,
+    "Result": 2,
     "Points": {
-      "2": 0,
+      "2": 3,
       "7": 0
     },
     "Goals": []
