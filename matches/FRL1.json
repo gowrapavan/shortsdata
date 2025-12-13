@@ -3451,7 +3451,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T18:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 545,
@@ -3462,12 +3462,12 @@
     "AwayTeamName": "Paris Saint-Germain FC",
     "HomeTeamLogo": "https://crests.football-data.org/545.png",
     "AwayTeamLogo": "https://crests.football-data.org/524.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 524,
     "Points": {
       "545": 0,
-      "524": 0
+      "524": 3
     },
     "Goals": []
   },
@@ -3488,8 +3488,8 @@
     "AwayTeamName": "Toulouse FC",
     "HomeTeamLogo": "https://crests.football-data.org/1045.png",
     "AwayTeamLogo": "https://crests.football-data.org/511.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "1045": 0,

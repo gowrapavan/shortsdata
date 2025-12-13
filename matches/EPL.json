@@ -3868,8 +3868,8 @@
     "AwayTeamName": "Wolverhampton Wanderers FC",
     "HomeTeamLogo": "https://crests.football-data.org/57.png",
     "AwayTeamLogo": "https://crests.football-data.org/76.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "57": 0,
@@ -3909,7 +3909,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-13",
     "DateTime": "2025-12-13T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 328,
@@ -3920,12 +3920,12 @@
     "AwayTeamName": "Fulham FC",
     "HomeTeamLogo": "https://crests.football-data.org/328.png",
     "AwayTeamLogo": "https://crests.football-data.org/63.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 63,
     "Points": {
       "328": 0,
-      "63": 0
+      "63": 3
     },
     "Goals": []
   },
