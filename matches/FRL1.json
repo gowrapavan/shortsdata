@@ -3425,7 +3425,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 519,
@@ -3436,12 +3436,12 @@
     "AwayTeamName": "Lille OSC",
     "HomeTeamLogo": "https://crests.football-data.org/519.png",
     "AwayTeamLogo": "https://crests.football-data.org/521.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 4,
+    "Result": 521,
     "Points": {
       "519": 0,
-      "521": 0
+      "521": 3
     },
     "Goals": []
   },
@@ -3503,7 +3503,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 523,
@@ -3514,11 +3514,11 @@
     "AwayTeamName": "Le Havre AC",
     "HomeTeamLogo": "https://crests.football-data.org/523.png",
     "AwayTeamLogo": "https://crests.football-data.org/533.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 523,
     "Points": {
-      "523": 0,
+      "523": 3,
       "533": 0
     },
     "Goals": []
@@ -3555,7 +3555,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 576,
@@ -3566,12 +3566,12 @@
     "AwayTeamName": "FC Lorient",
     "HomeTeamLogo": "https://crests.football-data.org/576.png",
     "AwayTeamLogo": "https://crests.football-data.org/525.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "576": 0,
-      "525": 0
+      "576": 1,
+      "525": 1
     },
     "Goals": []
   },
@@ -3581,7 +3581,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 546,
@@ -3592,11 +3592,11 @@
     "AwayTeamName": "OGC Nice",
     "HomeTeamLogo": "https://crests.football-data.org/546.png",
     "AwayTeamLogo": "https://crests.football-data.org/522.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 546,
     "Points": {
-      "546": 0,
+      "546": 3,
       "522": 0
     },
     "Goals": []

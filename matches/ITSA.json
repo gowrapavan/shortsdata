@@ -3565,7 +3565,7 @@
     "RoundName": "Serie A",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 99,
@@ -3576,12 +3576,12 @@
     "AwayTeamName": "Hellas Verona FC",
     "HomeTeamLogo": "https://crests.football-data.org/99.png",
     "AwayTeamLogo": "https://crests.football-data.org/450.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 450,
     "Points": {
       "99": 0,
-      "450": 0
+      "450": 3
     },
     "Goals": []
   },
@@ -3680,8 +3680,8 @@
     "AwayTeamName": "FC Internazionale Milano",
     "HomeTeamLogo": "https://crests.football-data.org/107.png",
     "AwayTeamLogo": "https://crests.football-data.org/108.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "107": 0,
@@ -3773,7 +3773,7 @@
     "RoundName": "Serie A",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 115,
@@ -3784,12 +3784,12 @@
     "AwayTeamName": "SSC Napoli",
     "HomeTeamLogo": "https://crests.football-data.org/115.png",
     "AwayTeamLogo": "https://crests.football-data.org/113.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 0,
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "115": 0,
-      "113": 0
+      "115": 1,
+      "113": 1
     },
     "Goals": []
   },

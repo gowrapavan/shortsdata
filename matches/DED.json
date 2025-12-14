@@ -3407,7 +3407,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 678,
@@ -3418,11 +3418,11 @@
     "AwayTeamName": "Feyenoord Rotterdam",
     "HomeTeamLogo": "https://crests.football-data.org/678.png",
     "AwayTeamLogo": "https://crests.football-data.org/675.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 678,
     "Points": {
-      "678": 0,
+      "678": 3,
       "675": 0
     },
     "Goals": []
@@ -3485,7 +3485,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T15:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 681,
@@ -3496,12 +3496,12 @@
     "AwayTeamName": "FC Utrecht",
     "HomeTeamLogo": "https://crests.football-data.org/681.png",
     "AwayTeamLogo": "https://crests.football-data.org/676.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "681": 0,
-      "676": 0
+      "681": 1,
+      "676": 1
     },
     "Goals": []
   },
@@ -3615,7 +3615,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 666,
@@ -3628,9 +3628,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/718.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 666,
     "Points": {
-      "666": 0,
+      "666": 3,
       "718": 0
     },
     "Goals": []
