@@ -3576,8 +3576,8 @@
     "AwayTeamName": "Hellas Verona FC",
     "HomeTeamLogo": "https://crests.football-data.org/99.png",
     "AwayTeamLogo": "https://crests.football-data.org/450.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "99": 0,
@@ -3591,7 +3591,7 @@
     "RoundName": "Serie A",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T11:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 98,
@@ -3602,12 +3602,12 @@
     "AwayTeamName": "US Sassuolo Calcio",
     "HomeTeamLogo": "https://crests.football-data.org/98.png",
     "AwayTeamLogo": "https://crests.football-data.org/471.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "98": 0,
-      "471": 0
+      "98": 1,
+      "471": 1
     },
     "Goals": []
   },
@@ -3784,8 +3784,8 @@
     "AwayTeamName": "SSC Napoli",
     "HomeTeamLogo": "https://crests.football-data.org/115.png",
     "AwayTeamLogo": "https://crests.football-data.org/113.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "115": 0,
