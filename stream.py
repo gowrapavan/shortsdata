@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import requests
 import re
 import json
@@ -363,59 +362,94 @@ def fetch_yallashooote():
 
     return matches
 
-
-# ---------- 4. LiveKora ----------
 def fetch_livekora():
-    """Scrape livekora.vip and extract both home and away logos."""
+    """
+    Updated LiveKora logic:
+    - Go to livekora.vip
+    - Collect match hrefs
+    - Open each href page
+    - Extract iframe#streamFrame src as final URL
+    """
+
     url = "https://www.livekora.vip/"
     headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers, timeout=10).text
     soup = BeautifulSoup(html, "html.parser")
 
     matches = []
+
     for a_tag in soup.select("div.benacer-matches-container a[href]"):
-        href = a_tag["href"].strip()
-        slug = href.rstrip("/").split("/")[-1]
-        albaplayer_url = f"https://pl.yalashoot.xyz/albaplayer/{slug}/?serv=0"
+        match_href = a_tag["href"].strip()
 
-        # ⚽ Team names
-        right_team_name = a_tag.select_one("div.right-team .team-name")
-        left_team_name = a_tag.select_one("div.left-team .team-name")
-        home = right_team_name.text.strip() if right_team_name else ""
-        away = left_team_name.text.strip() if left_team_name else ""
+        # Ensure absolute URL
+        if match_href.startswith("/"):
+            match_url = f"https://www.livekora.vip{match_href}"
+        else:
+            match_url = match_href
 
-        # 🖼️ Logos (both sides)
+        # -----------------------------
+        # Extract teams
+        # -----------------------------
+        right_team = a_tag.select_one("div.right-team .team-name")
+        left_team = a_tag.select_one("div.left-team .team-name")
+
+        home = right_team.text.strip() if right_team else ""
+        away = left_team.text.strip() if left_team else ""
+
+        # -----------------------------
+        # Extract logos
+        # -----------------------------
         home_logo_tag = a_tag.select_one("div.right-team .team-logo img")
         away_logo_tag = a_tag.select_one("div.left-team .team-logo img")
-        home_logo = home_logo_tag["src"].strip() if home_logo_tag and "src" in home_logo_tag.attrs else random_logo()
-        away_logo = away_logo_tag["src"].strip() if away_logo_tag and "src" in away_logo_tag.attrs else random_logo()
 
-        # ⏰ Time conversion
-        time_tag = a_tag.select_one("div.match-container span.date")
-        if time_tag and time_tag.has_attr("data-start"):
+        home_logo = home_logo_tag["src"].strip() if home_logo_tag and home_logo_tag.has_attr("src") else random_logo()
+        away_logo = away_logo_tag["src"].strip() if away_logo_tag and away_logo_tag.has_attr("src") else random_logo()
+
+        # -----------------------------
+        # Extract & convert time
+        # -----------------------------
+        time_tag = a_tag.select_one("span.date[data-start]")
+        if time_tag:
             try:
-                dt_str = time_tag["data-start"].strip()
-                dt = datetime.fromisoformat(dt_str)
-                dt_ist = dt.astimezone(IST)
-                time_ist = dt_ist.strftime("%Y-%m-%d %H:%M IST")
+                dt = datetime.fromisoformat(time_tag["data-start"])
+                time_ist = dt.astimezone(IST).strftime("%Y-%m-%d %H:%M IST")
             except Exception:
                 time_ist = ""
         else:
             time_ist = ""
 
+        # -----------------------------
+        # 🔥 OPEN MATCH PAGE → FIND IFRAME
+        # -----------------------------
+        final_stream_url = ""
+        try:
+            match_html = requests.get(match_url, headers=headers, timeout=10).text
+            match_soup = BeautifulSoup(match_html, "html.parser")
+
+            iframe = match_soup.select_one("iframe#streamFrame")
+            if iframe and iframe.has_attr("src"):
+                final_stream_url = iframe["src"].strip()
+
+        except Exception as e:
+            print("⚠️ LiveKora iframe fetch failed:", e)
+
+        # -----------------------------
+        # Append match
+        # -----------------------------
         matches.append({
             "time": time_ist,
             "game": "football",
             "league": "",
             "home_team": home,
             "away_team": away,
-            "label": short_label(home, away) if home and away else "livekora-stream",
+            "label": short_label(home, away) if home and away else "livekora",
             "home_logo": home_logo,
             "away_logo": away_logo,
-            "url": albaplayer_url
+            "url": final_stream_url
         })
 
     return matches
+
 
 
 
