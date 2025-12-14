@@ -3883,7 +3883,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 402,
@@ -3898,8 +3898,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "402": 0,
-      "341": 0
+      "402": 1,
+      "341": 1
     },
     "Goals": []
   },

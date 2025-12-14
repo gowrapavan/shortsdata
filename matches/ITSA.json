@@ -3669,7 +3669,7 @@
     "RoundName": "Serie A",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 107,
@@ -3680,12 +3680,12 @@
     "AwayTeamName": "FC Internazionale Milano",
     "HomeTeamLogo": "https://crests.football-data.org/107.png",
     "AwayTeamLogo": "https://crests.football-data.org/108.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 108,
     "Points": {
       "107": 0,
-      "108": 0
+      "108": 3
     },
     "Goals": []
   },
@@ -3706,8 +3706,8 @@
     "AwayTeamName": "Juventus FC",
     "HomeTeamLogo": "https://crests.football-data.org/103.png",
     "AwayTeamLogo": "https://crests.football-data.org/109.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "103": 0,

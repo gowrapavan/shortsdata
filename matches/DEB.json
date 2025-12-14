@@ -2975,7 +2975,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5,
@@ -2990,8 +2990,8 @@
     "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "5": 0,
-      "15": 0
+      "5": 1,
+      "15": 1
     },
     "Goals": []
   },
@@ -3079,7 +3079,7 @@
     "RoundName": "Bundesliga",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T18:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 12,
@@ -3090,12 +3090,12 @@
     "AwayTeamName": "VfB Stuttgart",
     "HomeTeamLogo": "https://crests.football-data.org/12.png",
     "AwayTeamLogo": "https://crests.football-data.org/10.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 4,
+    "Result": 10,
     "Points": {
       "12": 0,
-      "10": 0
+      "10": 3
     },
     "Goals": []
   },
