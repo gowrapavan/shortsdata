@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-14T06:14:41.914425Z",
+    "last_updated": "2025-12-15T06:18:17.434651Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -10,9 +10,9 @@
                     "player_name": "Erling Haaland",
                     "team_name": "Manchester City FC",
                     "team_crest": "https://crests.football-data.org/65.png",
-                    "goals": 15,
+                    "goals": 17,
                     "assists": 3,
-                    "penalties": null,
+                    "penalties": 1,
                     "nationality": "Norway"
                 },
                 {
@@ -41,6 +41,15 @@
                     "assists": null,
                     "penalties": 3,
                     "nationality": "France"
+                },
+                {
+                    "player_name": "Phil Foden",
+                    "team_name": "Manchester City FC",
+                    "team_crest": "https://crests.football-data.org/65.png",
+                    "goals": 7,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "England"
                 },
                 {
                     "player_name": "Danny Welbeck",
@@ -79,15 +88,6 @@
                     "nationality": "Cameroon"
                 },
                 {
-                    "player_name": "Phil Foden",
-                    "team_name": "Manchester City FC",
-                    "team_crest": "https://crests.football-data.org/65.png",
-                    "goals": 6,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "England"
-                },
-                {
                     "player_name": "Pedro Neto",
                     "team_name": "Chelsea FC",
                     "team_crest": "https://crests.football-data.org/61.png",
@@ -107,7 +107,7 @@
                     "player_name": "Kylian Mbappé",
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 16,
+                    "goals": 17,
                     "assists": 4,
                     "penalties": 4,
                     "nationality": "France"
@@ -204,8 +204,8 @@
                     "player_name": "Lautaro Martínez",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
-                    "goals": 7,
-                    "assists": 2,
+                    "goals": 8,
+                    "assists": 3,
                     "penalties": null,
                     "nationality": "Argentina"
                 },
@@ -268,7 +268,7 @@
                     "team_name": "Juventus FC",
                     "team_crest": "https://crests.football-data.org/109.png",
                     "goals": 5,
-                    "assists": 3,
+                    "assists": 4,
                     "penalties": 1,
                     "nationality": "Turkey"
                 },
@@ -301,9 +301,9 @@
                     "player_name": "Harry Kane",
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 17,
+                    "goals": 18,
                     "assists": 2,
-                    "penalties": 5,
+                    "penalties": 6,
                     "nationality": "England"
                 },
                 {
@@ -313,6 +313,15 @@
                     "goals": 8,
                     "assists": null,
                     "penalties": 1,
+                    "nationality": "Germany"
+                },
+                {
+                    "player_name": "Deniz Undav",
+                    "team_name": "VfB Stuttgart",
+                    "team_crest": "https://crests.football-data.org/10.png",
+                    "goals": 8,
+                    "assists": null,
+                    "penalties": null,
                     "nationality": "Germany"
                 },
                 {
@@ -332,15 +341,6 @@
                     "assists": 1,
                     "penalties": null,
                     "nationality": "Bosnia-Herzegovina"
-                },
-                {
-                    "player_name": "Deniz Undav",
-                    "team_name": "VfB Stuttgart",
-                    "team_crest": "https://crests.football-data.org/10.png",
-                    "goals": 7,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Germany"
                 },
                 {
                     "player_name": "Michael Olise",
@@ -398,7 +398,7 @@
                     "player_name": "Mason Greenwood",
                     "team_name": "Olympique de Marseille",
                     "team_crest": "https://crests.football-data.org/516.png",
-                    "goals": 10,
+                    "goals": 11,
                     "assists": 4,
                     "penalties": 4,
                     "nationality": "England"
@@ -419,6 +419,24 @@
                     "goals": 9,
                     "assists": 3,
                     "penalties": null,
+                    "nationality": "France"
+                },
+                {
+                    "player_name": "Odsonne Edouard",
+                    "team_name": "Racing Club de Lens",
+                    "team_crest": "https://crests.football-data.org/546.png",
+                    "goals": 7,
+                    "assists": 2,
+                    "penalties": 1,
+                    "nationality": "France"
+                },
+                {
+                    "player_name": "Lassine Sinayoko",
+                    "team_name": "AJ Auxerre",
+                    "team_crest": "https://crests.football-data.org/519.png",
+                    "goals": 6,
+                    "assists": 2,
+                    "penalties": 3,
                     "nationality": "France"
                 },
                 {
@@ -458,31 +476,13 @@
                     "nationality": "France"
                 },
                 {
-                    "player_name": "Pierre-Emerick Aubameyang",
-                    "team_name": "Olympique de Marseille",
-                    "team_crest": "https://crests.football-data.org/516.png",
-                    "goals": 5,
-                    "assists": 5,
-                    "penalties": null,
-                    "nationality": "Gabon"
-                },
-                {
-                    "player_name": "Pablo Pagis",
-                    "team_name": "FC Lorient",
-                    "team_crest": "https://crests.football-data.org/525.png",
+                    "player_name": "Hákon Haraldsson",
+                    "team_name": "Lille OSC",
+                    "team_crest": "https://crests.football-data.org/521.png",
                     "goals": 5,
                     "assists": null,
-                    "penalties": 1,
-                    "nationality": "France"
-                },
-                {
-                    "player_name": "Florian Thauvin",
-                    "team_name": "Racing Club de Lens",
-                    "team_crest": "https://crests.football-data.org/546.png",
-                    "goals": 5,
-                    "assists": 2,
-                    "penalties": 1,
-                    "nationality": "France"
+                    "penalties": null,
+                    "nationality": "Iceland"
                 }
             ]
         },
