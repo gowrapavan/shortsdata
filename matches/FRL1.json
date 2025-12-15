@@ -3529,7 +3529,7 @@
     "RoundName": "Ligue 1",
     "Date": "2025-12-14",
     "DateTime": "2025-12-14T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 516,
@@ -3540,12 +3540,12 @@
     "AwayTeamName": "AS Monaco FC",
     "HomeTeamLogo": "https://crests.football-data.org/516.png",
     "AwayTeamLogo": "https://crests.football-data.org/548.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "516": 0,
-      "548": 0
+      "516": 1,
+      "548": 1
     },
     "Goals": []
   },
