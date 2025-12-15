@@ -23,13 +23,6 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2037,
-        "name": "Copa do Brasil",
-        "code": "CDB",
-        "type": "CUP",
-        "emblem": null
       }
     ],
     "coach": {
@@ -127,6 +120,13 @@
         "name": "Davi",
         "position": "Defence",
         "dateOfBirth": "2002-01-30",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 179146,
+        "name": "Jhonny",
+        "position": "Defence",
+        "dateOfBirth": "2002-04-16",
         "nationality": "Brazil"
       },
       {
@@ -486,13 +486,6 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2037,
-        "name": "Copa do Brasil",
-        "code": "CDB",
-        "type": "CUP",
-        "emblem": null
       }
     ],
     "coach": {
@@ -872,13 +865,6 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2037,
-        "name": "Copa do Brasil",
-        "code": "CDB",
-        "type": "CUP",
-        "emblem": null
       }
     ],
     "coach": {
@@ -1253,13 +1239,6 @@
     "venue": "Allianz Parque",
     "runningCompetitions": [
       {
-        "id": 2152,
-        "name": "Copa Libertadores",
-        "code": "CLI",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/CLI.svg"
-      },
-      {
         "id": 2013,
         "name": "Campeonato Brasileiro Série A",
         "code": "BSA",
@@ -1575,13 +1554,6 @@
     "clubColors": "Black / White",
     "venue": "Estádio Nilton Santos",
     "runningCompetitions": [
-      {
-        "id": 2152,
-        "name": "Copa Libertadores",
-        "code": "CLI",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/CLI.svg"
-      },
       {
         "id": 2013,
         "name": "Campeonato Brasileiro Série A",
@@ -2200,6 +2172,20 @@
         "nationality": "Brazil"
       },
       {
+        "id": 289854,
+        "name": "Cauan",
+        "position": "Midfield",
+        "dateOfBirth": "2007-10-30",
+        "nationality": "Italy"
+      },
+      {
+        "id": 289855,
+        "name": "Rhuan Gabriel",
+        "position": "Midfield",
+        "dateOfBirth": "2006-02-06",
+        "nationality": "Brazil"
+      },
+      {
         "id": 1327,
         "name": "Gabriel Barbosa",
         "position": "Offence",
@@ -2282,20 +2268,6 @@
         "position": "Central Midfield",
         "dateOfBirth": "1997-12-19",
         "nationality": "Brazil"
-      },
-      {
-        "id": 289855,
-        "name": "Rhuan Gabriel",
-        "position": null,
-        "dateOfBirth": "2006-02-06",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 289854,
-        "name": "Cauan",
-        "position": null,
-        "dateOfBirth": "2007-10-30",
-        "nationality": "Italy"
       }
     ],
     "staff": [],
@@ -2319,13 +2291,6 @@
     "clubColors": "White / Red / Black",
     "venue": "Estádio do Morumbi",
     "runningCompetitions": [
-      {
-        "id": 2152,
-        "name": "Copa Libertadores",
-        "code": "CLI",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/CLI.svg"
-      },
       {
         "id": 2013,
         "name": "Campeonato Brasileiro Série A",
@@ -2691,13 +2656,6 @@
     "clubColors": "Blue / White / Red",
     "venue": "Estádio Governador Roberto Santos",
     "runningCompetitions": [
-      {
-        "id": 2152,
-        "name": "Copa Libertadores",
-        "code": "CLI",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/CLI.svg"
-      },
       {
         "id": 2013,
         "name": "Campeonato Brasileiro Série A",
@@ -3181,13 +3139,6 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2037,
-        "name": "Copa do Brasil",
-        "code": "CDB",
-        "type": "CUP",
-        "emblem": null
       }
     ],
     "coach": {
@@ -3365,6 +3316,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 285710,
+        "name": "Igor Mateus",
+        "position": "Defence",
+        "dateOfBirth": "2009-01-04",
+        "nationality": "Brazil"
+      },
+      {
         "id": 1188,
         "name": "Hyoran",
         "position": "Midfield",
@@ -3418,13 +3376,6 @@
         "name": "Matheusinho",
         "position": "Midfield",
         "dateOfBirth": "1998-02-11",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 203735,
-        "name": "Juan Claudio",
-        "position": "Midfield",
-        "dateOfBirth": "2002-02-08",
         "nationality": "Brazil"
       },
       {
@@ -3632,13 +3583,6 @@
     "venue": "Neo Química Arena",
     "runningCompetitions": [
       {
-        "id": 2152,
-        "name": "Copa Libertadores",
-        "code": "CLI",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/CLI.svg"
-      },
-      {
         "id": 2013,
         "name": "Campeonato Brasileiro Série A",
         "code": "BSA",
@@ -3685,6 +3629,13 @@
         "name": "Felipe",
         "position": "Goalkeeper",
         "dateOfBirth": "2005-03-05",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 289897,
+        "name": "Nicollas Siqueira",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2007-05-06",
         "nationality": "Brazil"
       },
       {
@@ -3884,6 +3835,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 289853,
+        "name": "Guilherme Amorim",
+        "position": "Midfield",
+        "dateOfBirth": "2008-01-15",
+        "nationality": "Brazil"
+      },
+      {
         "id": 1325,
         "name": "Yuri Alberto",
         "position": "Offence",
@@ -3945,13 +3903,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "1993-03-24",
         "nationality": "Brazil"
-      },
-      {
-        "id": 289853,
-        "name": "Guilherme Amorim",
-        "position": null,
-        "dateOfBirth": "2008-01-15",
-        "nationality": "Brazil"
       }
     ],
     "staff": [],
@@ -3981,13 +3932,6 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2037,
-        "name": "Copa do Brasil",
-        "code": "CDB",
-        "type": "CUP",
-        "emblem": null
       }
     ],
     "coach": {
@@ -4430,25 +4374,18 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2037,
-        "name": "Copa do Brasil",
-        "code": "CDB",
-        "type": "CUP",
-        "emblem": null
       }
     ],
     "coach": {
-      "id": 213375,
-      "firstName": "",
-      "lastName": "Jair Ventura",
-      "name": "Jair Ventura",
-      "dateOfBirth": "1979-03-14",
+      "id": 278213,
+      "firstName": null,
+      "lastName": null,
+      "name": "Márcio Goiano",
+      "dateOfBirth": "1973-02-25",
       "nationality": "Brazil",
       "contract": {
-        "start": "2025-09",
-        "until": "2025-12"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -4825,13 +4762,6 @@
     "venue": "Estadio Jornalista Mário Filho",
     "runningCompetitions": [
       {
-        "id": 2152,
-        "name": "Copa Libertadores",
-        "code": "CLI",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/CLI.svg"
-      },
-      {
         "id": 2013,
         "name": "Campeonato Brasileiro Série A",
         "code": "BSA",
@@ -5091,6 +5021,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 289868,
+        "name": "Pedro Fachinetti",
+        "position": "Midfield",
+        "dateOfBirth": "2007-12-07",
+        "nationality": "Brazil"
+      },
+      {
         "id": 1077,
         "name": "Pedro",
         "position": "Offence",
@@ -5230,13 +5167,6 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2037,
-        "name": "Copa do Brasil",
-        "code": "CDB",
-        "type": "CUP",
-        "emblem": null
       }
     ],
     "coach": {
@@ -5575,13 +5505,6 @@
     "clubColors": "Red / Blue / White",
     "venue": "Estádio Castelão",
     "runningCompetitions": [
-      {
-        "id": 2152,
-        "name": "Copa Libertadores",
-        "code": "CLI",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/CLI.svg"
-      },
       {
         "id": 2013,
         "name": "Campeonato Brasileiro Série A",
@@ -6016,13 +5939,6 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2037,
-        "name": "Copa do Brasil",
-        "code": "CDB",
-        "type": "CUP",
-        "emblem": null
       }
     ],
     "coach": {
@@ -6242,13 +6158,6 @@
         "nationality": "Argentina"
       },
       {
-        "id": 177630,
-        "name": "Gabriel Tota",
-        "position": "Midfield",
-        "dateOfBirth": "2001-10-29",
-        "nationality": "Brazil"
-      },
-      {
         "id": 181506,
         "name": "Luiz Mandaca",
         "position": "Midfield",
@@ -6316,6 +6225,13 @@
         "name": "Arthur Antunes",
         "position": "Midfield",
         "dateOfBirth": "2009-02-27",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 289909,
+        "name": "Murilo Gabriel",
+        "position": "Midfield",
+        "dateOfBirth": "2009-02-07",
         "nationality": "Brazil"
       },
       {
@@ -6416,13 +6332,6 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      {
-        "id": 2037,
-        "name": "Copa do Brasil",
-        "code": "CDB",
-        "type": "CUP",
-        "emblem": null
       }
     ],
     "coach": {
@@ -6667,6 +6576,13 @@
         "name": "Fabinho",
         "position": "Midfield",
         "dateOfBirth": "2002-04-09",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 189633,
+        "name": "Dija",
+        "position": "Midfield",
+        "dateOfBirth": "2003-04-14",
         "nationality": "Brazil"
       },
       {
@@ -6937,13 +6853,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 276367,
-        "name": "Everton Oliveira",
-        "position": "Defence",
-        "dateOfBirth": "2003-07-14",
-        "nationality": "Brazil"
-      },
-      {
         "id": 1348,
         "name": "Shaylon",
         "position": "Midfield",
@@ -7028,6 +6937,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 289886,
+        "name": "Ramires",
+        "position": "Midfield",
+        "dateOfBirth": "2006-03-21",
+        "nationality": "Brazil"
+      },
+      {
         "id": 1426,
         "name": "Neto Moura",
         "position": "Offence",
@@ -7091,13 +7007,6 @@
     "clubColors": "Red / White",
     "venue": "Estádio José Pinheiro Borba",
     "runningCompetitions": [
-      {
-        "id": 2152,
-        "name": "Copa Libertadores",
-        "code": "CLI",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/CLI.svg"
-      },
       {
         "id": 2013,
         "name": "Campeonato Brasileiro Série A",

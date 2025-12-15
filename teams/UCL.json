@@ -1163,6 +1163,13 @@
         "nationality": "Russia"
       },
       {
+        "id": 270663,
+        "name": "Josh Nichols",
+        "position": "Defence",
+        "dateOfBirth": "2006-07-26",
+        "nationality": "England"
+      },
+      {
         "id": 289765,
         "name": "Marli Salmon",
         "position": "Defence",
@@ -1177,66 +1184,17 @@
         "nationality": "England"
       },
       {
+        "id": 289907,
+        "name": "Louie Copley",
+        "position": "Midfield",
+        "dateOfBirth": "2006-10-20",
+        "nationality": "England"
+      },
+      {
         "id": 285598,
         "name": "Andre Harriman-Annous",
         "position": "Offence",
         "dateOfBirth": "2007-12-27",
-        "nationality": "England"
-      },
-      {
-        "id": 244120,
-        "name": "Myles Lewis-Skelly",
-        "position": "Left-Back",
-        "dateOfBirth": "2006-09-26",
-        "nationality": "England"
-      },
-      {
-        "id": 188476,
-        "name": "Ethan Nwaneri",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2007-03-21",
-        "nationality": "England"
-      },
-      {
-        "id": 172839,
-        "name": "Cristhian Mosquera",
-        "position": "Centre-Back",
-        "dateOfBirth": "2004-06-27",
-        "nationality": "Spain"
-      },
-      {
-        "id": 167720,
-        "name": "Noni Madueke",
-        "position": "Right Winger",
-        "dateOfBirth": "2002-03-10",
-        "nationality": "England"
-      },
-      {
-        "id": 133512,
-        "name": "Riccardo Calafiori",
-        "position": "Left-Back",
-        "dateOfBirth": "2002-05-19",
-        "nationality": "Italy"
-      },
-      {
-        "id": 125674,
-        "name": "Piero Hincapié",
-        "position": "Centre-Back",
-        "dateOfBirth": "2002-01-09",
-        "nationality": "Ecuador"
-      },
-      {
-        "id": 115035,
-        "name": "Martín Zubimendi",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "1999-02-02",
-        "nationality": "Spain"
-      },
-      {
-        "id": 99813,
-        "name": "Bukayo Saka",
-        "position": "Right Winger",
-        "dateOfBirth": "2001-09-05",
         "nationality": "England"
       },
       {
@@ -1336,6 +1294,62 @@
         "position": "Centre-Forward",
         "dateOfBirth": "1999-06-11",
         "nationality": "Germany"
+      },
+      {
+        "id": 244120,
+        "name": "Myles Lewis-Skelly",
+        "position": "Left-Back",
+        "dateOfBirth": "2006-09-26",
+        "nationality": "England"
+      },
+      {
+        "id": 188476,
+        "name": "Ethan Nwaneri",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2007-03-21",
+        "nationality": "England"
+      },
+      {
+        "id": 172839,
+        "name": "Cristhian Mosquera",
+        "position": "Centre-Back",
+        "dateOfBirth": "2004-06-27",
+        "nationality": "Spain"
+      },
+      {
+        "id": 167720,
+        "name": "Noni Madueke",
+        "position": "Right Winger",
+        "dateOfBirth": "2002-03-10",
+        "nationality": "England"
+      },
+      {
+        "id": 133512,
+        "name": "Riccardo Calafiori",
+        "position": "Left-Back",
+        "dateOfBirth": "2002-05-19",
+        "nationality": "Italy"
+      },
+      {
+        "id": 125674,
+        "name": "Piero Hincapié",
+        "position": "Centre-Back",
+        "dateOfBirth": "2002-01-09",
+        "nationality": "Ecuador"
+      },
+      {
+        "id": 115035,
+        "name": "Martín Zubimendi",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "1999-02-02",
+        "nationality": "Spain"
+      },
+      {
+        "id": 99813,
+        "name": "Bukayo Saka",
+        "position": "Right Winger",
+        "dateOfBirth": "2001-09-05",
+        "nationality": "England"
       }
     ],
     "staff": [],
@@ -2329,6 +2343,13 @@
         "nationality": "England"
       },
       {
+        "id": 244853,
+        "name": "Adam Harrison",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2006-10-20",
+        "nationality": "England"
+      },
+      {
         "id": 176852,
         "name": "Lewis Hall",
         "position": "Midfield",
@@ -3263,6 +3284,13 @@
         "nationality": "Serbia"
       },
       {
+        "id": 289895,
+        "name": "Daniel Martínez",
+        "position": "Defence",
+        "dateOfBirth": "2004-05-05",
+        "nationality": "Spain"
+      },
+      {
         "id": 171955,
         "name": "Javier Serrano",
         "position": "Midfield",
@@ -3310,6 +3338,13 @@
         "position": "Offence",
         "dateOfBirth": "2006-08-23",
         "nationality": "Spain"
+      },
+      {
+        "id": 151241,
+        "name": "Matteo Ruggeri",
+        "position": "Left Midfield",
+        "dateOfBirth": "2002-07-11",
+        "nationality": "Italy"
       },
       {
         "id": 123265,
@@ -3429,13 +3464,6 @@
         "position": "Right Winger",
         "dateOfBirth": "2002-12-18",
         "nationality": "Argentina"
-      },
-      {
-        "id": 151241,
-        "name": "Matteo Ruggeri",
-        "position": "Left Midfield",
-        "dateOfBirth": "2002-07-11",
-        "nationality": "Italy"
       }
     ],
     "staff": [],
@@ -3839,10 +3867,24 @@
         "nationality": "Spain"
       },
       {
+        "id": 276963,
+        "name": "Víctor Valdepeñas",
+        "position": "Defence",
+        "dateOfBirth": "2006-10-20",
+        "nationality": "Spain"
+      },
+      {
         "id": 279092,
         "name": "Jesús Fortea",
         "position": "Defence",
         "dateOfBirth": "2007-03-26",
+        "nationality": "Spain"
+      },
+      {
+        "id": 289856,
+        "name": "Joan Martínez",
+        "position": "Defence",
+        "dateOfBirth": "2007-08-20",
         "nationality": "Spain"
       },
       {
@@ -3864,6 +3906,13 @@
         "name": "Roberto Martín",
         "position": "Midfield",
         "dateOfBirth": "2006-08-12",
+        "nationality": "Spain"
+      },
+      {
+        "id": 289908,
+        "name": "Jorge Cestero",
+        "position": "Midfield",
+        "dateOfBirth": "2006-03-24",
         "nationality": "Spain"
       },
       {
@@ -4406,6 +4455,13 @@
         "position": "Defence",
         "dateOfBirth": "2006-04-11",
         "nationality": "Slovenia"
+      },
+      {
+        "id": 251206,
+        "name": "Gabriel Ramaj",
+        "position": "Defence",
+        "dateOfBirth": "2006-02-09",
+        "nationality": "Italy"
       },
       {
         "id": 264061,
@@ -5602,6 +5658,13 @@
         "nationality": "Portugal"
       },
       {
+        "id": 273613,
+        "name": "Eduardo Felicíssimo",
+        "position": "Midfield",
+        "dateOfBirth": "2007-01-08",
+        "nationality": "Portugal"
+      },
+      {
         "id": 32386,
         "name": "Luis Suárez",
         "position": "Offence",
@@ -5649,6 +5712,13 @@
         "position": "Offence",
         "dateOfBirth": "2008-08-20",
         "nationality": "Ivory Coast"
+      },
+      {
+        "id": 176840,
+        "name": "Ivan Fresneda",
+        "position": "Right-Back",
+        "dateOfBirth": "2004-09-28",
+        "nationality": "Spain"
       },
       {
         "id": 145357,
@@ -5747,13 +5817,6 @@
         "position": "Centre-Forward",
         "dateOfBirth": "2005-04-28",
         "nationality": "Portugal"
-      },
-      {
-        "id": 176840,
-        "name": "Ivan Fresneda",
-        "position": "Right-Back",
-        "dateOfBirth": "2004-09-28",
-        "nationality": "Spain"
       }
     ],
     "staff": [],
@@ -6656,6 +6719,13 @@
         "nationality": "Turkey"
       },
       {
+        "id": 289951,
+        "name": "Arda Yılmaz",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2008-02-13",
+        "nationality": "Turkey"
+      },
+      {
         "id": 29804,
         "name": "Abdülkerim Bardakcı",
         "position": "Defence",
@@ -6782,6 +6852,13 @@
         "nationality": "Turkey"
       },
       {
+        "id": 113375,
+        "name": "Wilfried Singo",
+        "position": "Centre-Back",
+        "dateOfBirth": "2000-12-25",
+        "nationality": "Ivory Coast"
+      },
+      {
         "id": 79906,
         "name": "Yunus Akgün",
         "position": "Right Winger",
@@ -6843,13 +6920,6 @@
         "position": "Central Midfield",
         "dateOfBirth": "1998-01-25",
         "nationality": "Turkey"
-      },
-      {
-        "id": 113375,
-        "name": "Wilfried Singo",
-        "position": "Centre-Back",
-        "dateOfBirth": "2000-12-25",
-        "nationality": "Ivory Coast"
       }
     ],
     "staff": [],
@@ -7933,7 +8003,7 @@
     "id": 851,
     "name": "Club Brugge KV",
     "shortName": "Club Brugge",
-    "tla": "CLU",
+    "tla": "BRU",
     "crest": "https://crests.football-data.org/851.png",
     "address": "Olympialaan 74 Brugge 8200",
     "website": "http://www.clubbrugge.be",
@@ -7957,14 +8027,14 @@
       }
     ],
     "coach": {
-      "id": 78938,
-      "firstName": "Nicky",
-      "lastName": "Hayen",
-      "name": "Nicky Hayen",
-      "dateOfBirth": "1980-08-16",
-      "nationality": "Belgium",
+      "id": 11862,
+      "firstName": "Ivan",
+      "lastName": "Leko",
+      "name": "Ivan Leko",
+      "dateOfBirth": "1978-02-07",
+      "nationality": "Croatia",
       "contract": {
-        "start": "2024-03",
+        "start": "2025-12",
         "until": "2026-06"
       }
     },
@@ -8202,7 +8272,7 @@
       }
     ],
     "staff": [],
-    "lastUpdated": "2024-09-19T13:47:01Z"
+    "lastUpdated": "2025-12-12T17:33:04Z"
   },
   {
     "area": {
@@ -8883,6 +8953,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 289781,
+        "name": "José Neto",
+        "position": "Defence",
+        "dateOfBirth": "2008-04-19",
+        "nationality": "Portugal"
+      },
+      {
         "id": 151558,
         "name": "Heorhii Sudakov",
         "position": "Midfield",
@@ -8925,6 +9002,13 @@
         "nationality": "Portugal"
       },
       {
+        "id": 275555,
+        "name": "Tiago Freitas",
+        "position": "Midfield",
+        "dateOfBirth": "2006-08-17",
+        "nationality": "Portugal"
+      },
+      {
         "id": 67299,
         "name": "Vangelis Pavlidis",
         "position": "Offence",
@@ -8957,6 +9041,13 @@
         "name": "Gonçalo Moreira",
         "position": "Offence",
         "dateOfBirth": "2006-01-03",
+        "nationality": "Portugal"
+      },
+      {
+        "id": 177842,
+        "name": "Tomas Araujo",
+        "position": "Centre-Back",
+        "dateOfBirth": "2002-05-16",
         "nationality": "Portugal"
       },
       {
@@ -9049,13 +9140,6 @@
         "position": "Right Winger",
         "dateOfBirth": "2006-01-31",
         "nationality": "Argentina"
-      },
-      {
-        "id": 177842,
-        "name": "Tomas Araujo",
-        "position": "Centre-Back",
-        "dateOfBirth": "2002-05-16",
-        "nationality": "Portugal"
       }
     ],
     "staff": [],
@@ -9346,13 +9430,6 @@
     "clubColors": "Yellow / Black",
     "venue": "Aspmyra Stadion",
     "runningCompetitions": [
-      {
-        "id": 2106,
-        "name": "Tippeligaen",
-        "code": "TIP",
-        "type": "LEAGUE",
-        "emblem": null
-      },
       {
         "id": 2001,
         "name": "UEFA Champions League",
@@ -9695,6 +9772,13 @@
         "name": "Bakhtiyar Aldashev",
         "position": "Goalkeeper",
         "dateOfBirth": "2008-02-12",
+        "nationality": "Kazakhstan"
+      },
+      {
+        "id": 289894,
+        "name": "Danila Buch",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2008-04-20",
         "nationality": "Kazakhstan"
       },
       {

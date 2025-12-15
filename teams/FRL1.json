@@ -910,6 +910,13 @@
         "nationality": "France"
       },
       {
+        "id": 289847,
+        "name": "Mamoudou Cissokho",
+        "position": "Offence",
+        "dateOfBirth": "2007-12-20",
+        "nationality": "France"
+      },
+      {
         "id": 175724,
         "name": "Kevin Danois",
         "position": "Central Midfield",
@@ -1005,13 +1012,6 @@
         "name": "Lassine Sinayoko",
         "position": "Left Winger",
         "dateOfBirth": "1999-12-08",
-        "nationality": "France"
-      },
-      {
-        "id": 289847,
-        "name": "Mamoudou Cissokho",
-        "position": null,
-        "dateOfBirth": "2007-12-20",
         "nationality": "France"
       },
       {
@@ -1128,6 +1128,13 @@
         "nationality": "France"
       },
       {
+        "id": 289914,
+        "name": "Zadig Lanssade",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2008-03-03",
+        "nationality": "France"
+      },
+      {
         "id": 192677,
         "name": "Nathan Ngoy",
         "position": "Defence",
@@ -1175,6 +1182,13 @@
         "position": "Offence",
         "dateOfBirth": "2007-08-14",
         "nationality": "France"
+      },
+      {
+        "id": 185196,
+        "name": "Alexsandro Ribeiro",
+        "position": "Centre-Back",
+        "dateOfBirth": "1999-08-09",
+        "nationality": "Brazil"
       },
       {
         "id": 177365,
@@ -1315,13 +1329,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "2002-06-28",
         "nationality": "Portugal"
-      },
-      {
-        "id": 185196,
-        "name": "Alexsandro Ribeiro",
-        "position": "Centre-Back",
-        "dateOfBirth": "1999-08-09",
-        "nationality": "Brazil"
       }
     ],
     "staff": [],
@@ -2453,7 +2460,7 @@
         "name": "Elias Legendre Quiñonez",
         "position": "Midfield",
         "dateOfBirth": "2008-04-22",
-        "nationality": "France"
+        "nationality": "Ecuador"
       },
       {
         "id": 272764,
@@ -2969,6 +2976,13 @@
         "nationality": "Tanzania"
       },
       {
+        "id": 263481,
+        "name": "Noam Obougou",
+        "position": "Offence",
+        "dateOfBirth": "2006-03-15",
+        "nationality": "France"
+      },
+      {
         "id": 281102,
         "name": "Enzo Koffi",
         "position": "Offence",
@@ -3111,15 +3125,15 @@
       }
     ],
     "coach": {
-      "id": 128034,
-      "firstName": "",
-      "lastName": "Luís Castro",
-      "name": "Luís Castro",
-      "dateOfBirth": "1980-05-07",
-      "nationality": "Portugal",
+      "id": 468,
+      "firstName": "Ahmed",
+      "lastName": "Kantari",
+      "name": "Ahmed Kantari",
+      "dateOfBirth": "1985-06-28",
+      "nationality": "Morocco",
       "contract": {
-        "start": "2025-07",
-        "until": "2027-06"
+        "start": "2025-12",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -3283,6 +3297,13 @@
         "position": "Defensive Midfield",
         "dateOfBirth": "1991-05-13",
         "nationality": "France"
+      },
+      {
+        "id": 8913,
+        "name": "Deiver Machado",
+        "position": "Left-Back",
+        "dateOfBirth": "1993-09-02",
+        "nationality": "Colombia"
       },
       {
         "id": 8373,
@@ -3761,13 +3782,6 @@
         "position": "Centre-Forward",
         "dateOfBirth": "1998-01-16",
         "nationality": "France"
-      },
-      {
-        "id": 8913,
-        "name": "Deiver Machado",
-        "position": "Left-Back",
-        "dateOfBirth": "1993-09-02",
-        "nationality": "Colombia"
       },
       {
         "id": 8717,

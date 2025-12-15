@@ -137,6 +137,13 @@
         "nationality": "Germany"
       },
       {
+        "id": 280335,
+        "name": "Cenny Neumann",
+        "position": "Offence",
+        "dateOfBirth": "2007-01-12",
+        "nationality": "Germany"
+      },
+      {
         "id": 260917,
         "name": "Fayssal Harchaoui",
         "position": "Defensive Midfield",
@@ -1718,6 +1725,13 @@
         "nationality": "Germany"
       },
       {
+        "id": 249707,
+        "name": "Maximilian Herwerth",
+        "position": "Defence",
+        "dateOfBirth": "2006-02-09",
+        "nationality": "Germany"
+      },
+      {
         "id": 212314,
         "name": "Noah Darvich",
         "position": "Midfield",
@@ -1730,6 +1744,13 @@
         "position": "Midfield",
         "dateOfBirth": "2006-11-30",
         "nationality": "Serbia"
+      },
+      {
+        "id": 261054,
+        "name": "Christopher Olivier",
+        "position": "Midfield",
+        "dateOfBirth": "2006-01-31",
+        "nationality": "Austria"
       },
       {
         "id": 270273,
@@ -1757,6 +1778,13 @@
         "name": "Justin Diehl",
         "position": "Offence",
         "dateOfBirth": "2004-11-27",
+        "nationality": "Germany"
+      },
+      {
+        "id": 128565,
+        "name": "Angelo Stiller",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2001-04-04",
         "nationality": "Germany"
       },
       {
@@ -1912,13 +1940,6 @@
         "position": "Right-Back",
         "dateOfBirth": "2000-06-22",
         "nationality": "France"
-      },
-      {
-        "id": 128565,
-        "name": "Angelo Stiller",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2001-04-04",
-        "nationality": "Germany"
       }
     ],
     "staff": [],
@@ -1951,15 +1972,15 @@
       }
     ],
     "coach": {
-      "id": null,
-      "firstName": null,
-      "lastName": null,
-      "name": null,
-      "dateOfBirth": null,
-      "nationality": null,
+      "id": 278254,
+      "firstName": "Daniel",
+      "lastName": "Bauer",
+      "name": "Daniel Bauer",
+      "dateOfBirth": "1982-10-17",
+      "nationality": "Germany",
       "contract": {
-        "start": null,
-        "until": null
+        "start": "2025-11",
+        "until": "2025-12"
       }
     },
     "squad": [
@@ -2060,6 +2081,20 @@
         "position": "Offence",
         "dateOfBirth": "2000-05-09",
         "nationality": "Algeria"
+      },
+      {
+        "id": 289942,
+        "name": "Trevor Benedict",
+        "position": "Offence",
+        "dateOfBirth": "2007-04-04",
+        "nationality": "Germany"
+      },
+      {
+        "id": 124324,
+        "name": "Patrick Wimmer",
+        "position": "Right Winger",
+        "dateOfBirth": "2001-05-30",
+        "nationality": "Austria"
       },
       {
         "id": 121664,
@@ -2179,13 +2214,6 @@
         "position": "Left Midfield",
         "dateOfBirth": "2003-05-07",
         "nationality": "USA"
-      },
-      {
-        "id": 124324,
-        "name": "Patrick Wimmer",
-        "position": "Right Winger",
-        "dateOfBirth": "2001-05-30",
-        "nationality": "Austria"
       }
     ],
     "staff": [],
@@ -2499,15 +2527,15 @@
       }
     ],
     "coach": {
-      "id": 246097,
-      "firstName": "Benjamin",
-      "lastName": "Hoffmann",
-      "name": "Benjamin Hoffmann",
-      "dateOfBirth": "1979-09-28",
-      "nationality": "Germany",
+      "id": 77324,
+      "firstName": "Urs",
+      "lastName": "Fischer",
+      "name": "Urs Fischer",
+      "dateOfBirth": "1966-02-20",
+      "nationality": "Switzerland",
       "contract": {
         "start": "2025-12",
-        "until": "2025-12"
+        "until": "2028-06"
       }
     },
     "squad": [
@@ -2530,6 +2558,13 @@
         "name": "Lasse Rieß",
         "position": "Goalkeeper",
         "dateOfBirth": "2001-07-27",
+        "nationality": "Germany"
+      },
+      {
+        "id": 280403,
+        "name": "Louis Babatz",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2006-01-14",
         "nationality": "Germany"
       },
       {
@@ -3320,6 +3355,13 @@
         "nationality": "Germany"
       },
       {
+        "id": 270641,
+        "name": "Fritz Fleck",
+        "position": "Midfield",
+        "dateOfBirth": "2007-05-30",
+        "nationality": "Germany"
+      },
+      {
         "id": 282450,
         "name": "Wael Mohya",
         "position": "Midfield",
@@ -3352,69 +3394,6 @@
         "name": "Charles Herrmann",
         "position": "Offence",
         "dateOfBirth": "2006-01-21",
-        "nationality": "Germany"
-      },
-      {
-        "id": 187273,
-        "name": "Lukas Ullrich",
-        "position": "Left-Back",
-        "dateOfBirth": "2004-03-16",
-        "nationality": "Germany"
-      },
-      {
-        "id": 183637,
-        "name": "Grant-Leon Ranos",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2003-07-20",
-        "nationality": "Armenia"
-      },
-      {
-        "id": 176307,
-        "name": "Fabio Chiarodia",
-        "position": "Centre-Back",
-        "dateOfBirth": "2005-06-05",
-        "nationality": "Italy"
-      },
-      {
-        "id": 170782,
-        "name": "Oscar Fraulo",
-        "position": "Central Midfield",
-        "dateOfBirth": "2003-12-06",
-        "nationality": "Denmark"
-      },
-      {
-        "id": 151888,
-        "name": "Jens Castrop",
-        "position": "Central Midfield",
-        "dateOfBirth": "2003-07-29",
-        "nationality": "South Korea"
-      },
-      {
-        "id": 150517,
-        "name": "Rocco Reitz",
-        "position": "Central Midfield",
-        "dateOfBirth": "2002-05-29",
-        "nationality": "Germany"
-      },
-      {
-        "id": 144361,
-        "name": "Luca Netz",
-        "position": "Left-Back",
-        "dateOfBirth": "2003-05-15",
-        "nationality": "Germany"
-      },
-      {
-        "id": 136733,
-        "name": "Gio Reyna",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2002-11-13",
-        "nationality": "USA"
-      },
-      {
-        "id": 123277,
-        "name": "Yannik Engelhardt",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2001-02-07",
         "nationality": "Germany"
       },
       {
@@ -3485,6 +3464,69 @@
         "name": "Robin Hack",
         "position": "Left Winger",
         "dateOfBirth": "1998-08-27",
+        "nationality": "Germany"
+      },
+      {
+        "id": 187273,
+        "name": "Lukas Ullrich",
+        "position": "Left-Back",
+        "dateOfBirth": "2004-03-16",
+        "nationality": "Germany"
+      },
+      {
+        "id": 183637,
+        "name": "Grant-Leon Ranos",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2003-07-20",
+        "nationality": "Armenia"
+      },
+      {
+        "id": 176307,
+        "name": "Fabio Chiarodia",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-06-05",
+        "nationality": "Italy"
+      },
+      {
+        "id": 170782,
+        "name": "Oscar Fraulo",
+        "position": "Central Midfield",
+        "dateOfBirth": "2003-12-06",
+        "nationality": "Denmark"
+      },
+      {
+        "id": 151888,
+        "name": "Jens Castrop",
+        "position": "Central Midfield",
+        "dateOfBirth": "2003-07-29",
+        "nationality": "South Korea"
+      },
+      {
+        "id": 150517,
+        "name": "Rocco Reitz",
+        "position": "Central Midfield",
+        "dateOfBirth": "2002-05-29",
+        "nationality": "Germany"
+      },
+      {
+        "id": 144361,
+        "name": "Luca Netz",
+        "position": "Left-Back",
+        "dateOfBirth": "2003-05-15",
+        "nationality": "Germany"
+      },
+      {
+        "id": 136733,
+        "name": "Gio Reyna",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2002-11-13",
+        "nationality": "USA"
+      },
+      {
+        "id": 123277,
+        "name": "Yannik Engelhardt",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2001-02-07",
         "nationality": "Germany"
       }
     ],
