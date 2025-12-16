@@ -6311,7 +6311,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-15",
     "DateTime": "2025-12-15T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 345,
@@ -6323,11 +6323,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/345.png",
     "AwayTeamLogo": "https://crests.football-data.org/342.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 342,
     "Points": {
       "345": 0,
-      "342": 0
+      "342": 3
     },
     "Goals": []
   },
