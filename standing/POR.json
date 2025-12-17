@@ -37,15 +37,15 @@
             "tla": "FCP",
             "crest": "https://crests.football-data.org/503.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
-          "won": 12,
+          "won": 13,
           "draw": 1,
           "lost": 0,
-          "points": 37,
-          "goalsFor": 27,
-          "goalsAgainst": 3,
-          "goalDifference": 24
+          "points": 40,
+          "goalsFor": 30,
+          "goalsAgainst": 4,
+          "goalDifference": 26
         },
         {
           "position": 2,
@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 5613,
+            "name": "Sporting Clube de Braga",
+            "shortName": "Braga",
+            "tla": "SCB",
+            "crest": "https://crests.football-data.org/5613.png"
+          },
+          "playedGames": 14,
+          "form": null,
+          "won": 7,
+          "draw": 4,
+          "lost": 3,
+          "points": 25,
+          "goalsFor": 26,
+          "goalsAgainst": 12,
+          "goalDifference": 14
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 5533,
             "name": "Gil Vicente FC",
             "shortName": "Gil Vicente",
@@ -105,7 +124,7 @@
           "goalDifference": 10
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 5531,
             "name": "FC Famalicão",
@@ -122,25 +141,6 @@
           "goalsFor": 18,
           "goalsAgainst": 9,
           "goalDifference": 9
-        },
-        {
-          "position": 6,
-          "team": {
-            "id": 5613,
-            "name": "Sporting Clube de Braga",
-            "shortName": "Braga",
-            "tla": "SCB",
-            "crest": "https://crests.football-data.org/5613.png"
-          },
-          "playedGames": 13,
-          "form": null,
-          "won": 6,
-          "draw": 4,
-          "lost": 3,
-          "points": 22,
-          "goalsFor": 25,
-          "goalsAgainst": 12,
-          "goalDifference": 13
         },
         {
           "position": 7,
@@ -221,24 +221,43 @@
         {
           "position": 11,
           "team": {
+            "id": 5529,
+            "name": "CD Nacional",
+            "shortName": "CD Nacional",
+            "tla": "CDN",
+            "crest": "https://crests.football-data.org/5529.png"
+          },
+          "playedGames": 14,
+          "form": null,
+          "won": 4,
+          "draw": 3,
+          "lost": 7,
+          "points": 15,
+          "goalsFor": 15,
+          "goalsAgainst": 19,
+          "goalDifference": -4
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 5530,
             "name": "CD Santa Clara",
             "shortName": "Santa Clara",
             "tla": "CD ",
             "crest": "https://crests.football-data.org/5530.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
           "won": 4,
           "draw": 3,
-          "lost": 6,
+          "lost": 7,
           "points": 15,
           "goalsFor": 11,
-          "goalsAgainst": 14,
-          "goalDifference": -3
+          "goalsAgainst": 15,
+          "goalDifference": -4
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 582,
             "name": "GD Estoril Praia",
@@ -257,7 +276,7 @@
           "goalDifference": -3
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 9136,
             "name": "CF Estrela da Amadora",
@@ -265,34 +284,15 @@
             "tla": "AMA",
             "crest": "https://crests.football-data.org/9136.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
           "won": 3,
           "draw": 5,
-          "lost": 5,
+          "lost": 6,
           "points": 14,
-          "goalsFor": 16,
-          "goalsAgainst": 19,
-          "goalDifference": -3
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 5529,
-            "name": "CD Nacional",
-            "shortName": "CD Nacional",
-            "tla": "CDN",
-            "crest": "https://crests.football-data.org/5529.png"
-          },
-          "playedGames": 13,
-          "form": null,
-          "won": 3,
-          "draw": 3,
-          "lost": 7,
-          "points": 12,
-          "goalsFor": 12,
-          "goalsAgainst": 18,
-          "goalDifference": -6
+          "goalsFor": 17,
+          "goalsAgainst": 22,
+          "goalDifference": -5
         },
         {
           "position": 15,
@@ -341,15 +341,15 @@
             "tla": "TON",
             "crest": "https://crests.football-data.org/1049.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
           "won": 2,
           "draw": 3,
-          "lost": 8,
+          "lost": 9,
           "points": 9,
-          "goalsFor": 7,
-          "goalsAgainst": 22,
-          "goalDifference": -15
+          "goalsFor": 8,
+          "goalsAgainst": 25,
+          "goalDifference": -17
         },
         {
           "position": 18,

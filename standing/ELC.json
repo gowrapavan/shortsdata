@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 342,
+            "name": "Derby County FC",
+            "shortName": "Derby County",
+            "tla": "DER",
+            "crest": "https://crests.football-data.org/342.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 8,
+          "draw": 6,
+          "lost": 7,
+          "points": 30,
+          "goalsFor": 30,
+          "goalsAgainst": 29,
+          "goalDifference": 1
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 332,
             "name": "Birmingham City FC",
             "shortName": "Birmingham",
@@ -257,7 +276,7 @@
           "goalDifference": 4
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 346,
             "name": "Watford FC",
@@ -276,7 +295,7 @@
           "goalDifference": 2
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 404,
             "name": "Wrexham AFC",
@@ -295,7 +314,7 @@
           "goalDifference": 1
         },
         {
-          "position": 15,
+          "position": 16,
           "team": {
             "id": 74,
             "name": "West Bromwich Albion FC",
@@ -312,25 +331,6 @@
           "goalsFor": 25,
           "goalsAgainst": 28,
           "goalDifference": -3
-        },
-        {
-          "position": 16,
-          "team": {
-            "id": 342,
-            "name": "Derby County FC",
-            "shortName": "Derby County",
-            "tla": "DER",
-            "crest": "https://crests.football-data.org/342.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 7,
-          "draw": 6,
-          "lost": 7,
-          "points": 27,
-          "goalsFor": 27,
-          "goalsAgainst": 29,
-          "goalDifference": -2
         },
         {
           "position": 17,
@@ -474,15 +474,15 @@
             "tla": "SHE",
             "crest": "https://crests.football-data.org/345.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 1,
           "draw": 6,
-          "lost": 12,
+          "lost": 13,
           "points": 9,
           "goalsFor": 15,
-          "goalsAgainst": 37,
-          "goalDifference": -22
+          "goalsAgainst": 40,
+          "goalDifference": -25
         }
       ]
     }
