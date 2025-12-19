@@ -1,53 +1,5 @@
 [
   {
-    "time": "2025-12-19 23:00 IST",
-    "game": "football",
-    "league": "Bundesliga 2",
-    "home_team": "SV Darmstadt 98",
-    "away_team": "SC Paderborn 07",
-    "label": "svd-scp",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/454.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/366.png",
-    "url": "https://yallashoot.mobi/albaplayer/sc-paderborn-07-vs-sv-darmstadt-98/",
-    "servers": []
-  },
-  {
-    "time": "2025-12-19 23:00 IST",
-    "game": "football",
-    "league": "Bundesliga 2",
-    "home_team": "Arminia Bielefeld",
-    "away_team": "Hertha Berlin",
-    "label": "arm-her",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/345.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/342.png",
-    "url": "https://yallashoot.mobi/albaplayer/hertha-berlin-vs-arminia-bielefeld/",
-    "servers": []
-  },
-  {
-    "time": "2025-12-19 23:30 IST",
-    "game": "football",
-    "league": "Egypt League Cup",
-    "home_team": "Zed FC",
-    "away_team": "Al Masry",
-    "label": "zed-alm",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/29732.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8303.png",
-    "url": "https://yallashoot.mobi/albaplayer/al-masry-vs-zed-fc/",
-    "servers": []
-  },
-  {
-    "time": "2025-12-19 23:30 IST",
-    "game": "football",
-    "league": "Egypt League Cup",
-    "home_team": "Al Ahly SC",
-    "away_team": "Ceramica Cleopatra",
-    "label": "ala-cer",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8200.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/50882.png",
-    "url": "https://yallashoot.mobi/albaplayer/ceramica-cleopatra-vs-al-ahly-sc/",
-    "servers": []
-  },
-  {
     "time": "2025-12-20 00:30 IST",
     "game": "football",
     "league": "Supercoppa Italiana - Semi Finals",
@@ -68,7 +20,7 @@
     "label": "bor-bor",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/349.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/341.png",
-    "url": "https://yallashoot.mobi/albaplayer/borussia-dortmund-vs-borussia-mönchengladbach/",
+    "url": "https://yallashoot.mobi/albaplayer/borussia-dortmund-vs-borussia-monchengladbach/",
     "servers": []
   },
   {
@@ -117,6 +69,90 @@
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/895.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/909.png",
     "url": "https://yallashoot.mobi/albaplayer/estoril-vs-sc-braga/",
+    "servers": []
+  },
+  {
+    "time": "2025-12-20 01:15 IST",
+    "game": "football",
+    "league": "Coupe de France - Round of 64",
+    "home_team": "Le Mans",
+    "away_team": "Périgny",
+    "label": "lem-pri",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/468.png",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/92348",
+    "url": "https://yallashoot.mobi/albaplayer/perigny-vs-le-mans/",
+    "servers": []
+  },
+  {
+    "time": "2025-12-20 01:15 IST",
+    "game": "football",
+    "league": "Coupe de France - Round of 64",
+    "home_team": "Montpellier",
+    "away_team": "Canet Roussillon",
+    "label": "mon-can",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/491.png",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/50414",
+    "url": "https://yallashoot.mobi/albaplayer/canet-roussillon-vs-montpellier/",
+    "servers": []
+  },
+  {
+    "time": "2025-12-20 01:15 IST",
+    "game": "football",
+    "league": "Coupe de France - Round of 64",
+    "home_team": "Laval",
+    "away_team": "Guingamp",
+    "label": "lav-gui",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/5434.png",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/496",
+    "url": "https://yallashoot.mobi/albaplayer/guingamp-vs-laval/",
+    "servers": []
+  },
+  {
+    "time": "2025-12-20 01:15 IST",
+    "game": "football",
+    "league": "Coupe de France - Round of 64",
+    "home_team": "Brest",
+    "away_team": "Avranches",
+    "label": "bre-avr",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/534.png",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/7059",
+    "url": "https://yallashoot.mobi/albaplayer/avranches-vs-brest/",
+    "servers": []
+  },
+  {
+    "time": "2025-12-20 01:15 IST",
+    "game": "football",
+    "league": "Coupe de France - Round of 64",
+    "home_team": "Angers",
+    "away_team": "Les Herbiers",
+    "label": "ang-les",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/493.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/7036.png",
+    "url": "https://yallashoot.mobi/albaplayer/les-herbiers-vs-angers/",
+    "servers": []
+  },
+  {
+    "time": "2025-12-20 01:15 IST",
+    "game": "football",
+    "league": "Coupe de France - Round of 64",
+    "home_team": "Reims",
+    "away_team": "Croix",
+    "label": "rei-cro",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/499.png",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/16843",
+    "url": "https://yallashoot.mobi/albaplayer/croix-vs-reims/",
+    "servers": []
+  },
+  {
+    "time": "2025-12-20 01:30 IST",
+    "game": "football",
+    "league": "Coupe de France - Round of 64",
+    "home_team": "SC Feignies",
+    "away_team": "Lens",
+    "label": "scf-len",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8854.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/481.png",
+    "url": "https://yallashoot.mobi/albaplayer/lens-vs-sc-feignies/",
     "servers": []
   }
 ]
