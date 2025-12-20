@@ -4127,7 +4127,7 @@
     "RoundName": "Primera Division",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 88,
@@ -4138,12 +4138,12 @@
     "AwayTeamName": "Real Sociedad de Fútbol",
     "HomeTeamLogo": "https://crests.football-data.org/88.png",
     "AwayTeamLogo": "https://crests.football-data.org/92.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "88": 0,
-      "92": 0
+      "88": 1,
+      "92": 1
     },
     "Goals": []
   },
@@ -4190,8 +4190,8 @@
     "AwayTeamName": "Deportivo Alavés",
     "HomeTeamLogo": "https://crests.football-data.org/79.png",
     "AwayTeamLogo": "https://crests.football-data.org/263.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "79": 0,

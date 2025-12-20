@@ -4065,7 +4065,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1044,
@@ -4076,12 +4076,12 @@
     "AwayTeamName": "Burnley FC",
     "HomeTeamLogo": "https://crests.football-data.org/bournemouth.png",
     "AwayTeamLogo": "https://crests.football-data.org/328.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "1044": 0,
-      "328": 0
+      "1044": 1,
+      "328": 1
     },
     "Goals": []
   },
@@ -4117,7 +4117,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 397,
@@ -4132,8 +4132,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "397": 0,
-      "71": 0
+      "397": 1,
+      "71": 1
     },
     "Goals": []
   },
@@ -4221,7 +4221,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 65,
@@ -4232,11 +4232,11 @@
     "AwayTeamName": "West Ham United FC",
     "HomeTeamLogo": "https://crests.football-data.org/65.png",
     "AwayTeamLogo": "https://crests.football-data.org/563.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 65,
     "Points": {
-      "65": 0,
+      "65": 3,
       "563": 0
     },
     "Goals": []
@@ -4284,8 +4284,8 @@
     "AwayTeamName": "Liverpool FC",
     "HomeTeamLogo": "https://crests.football-data.org/73.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "73": 0,
@@ -4299,7 +4299,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 76,
@@ -4311,11 +4311,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/76.png",
     "AwayTeamLogo": "https://crests.football-data.org/402.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 402,
     "Points": {
       "76": 0,
-      "402": 0
+      "402": 3
     },
     "Goals": []
   },
