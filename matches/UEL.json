@@ -6675,7 +6675,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-19",
     "DateTime": "2025-12-19T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 72,
@@ -6686,11 +6686,11 @@
     "AwayTeamName": "Wrexham AFC",
     "HomeTeamLogo": "https://crests.football-data.org/72.png",
     "AwayTeamLogo": "https://crests.football-data.org/404.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 72,
     "Points": {
-      "72": 0,
+      "72": 3,
       "404": 0
     },
     "Goals": []
