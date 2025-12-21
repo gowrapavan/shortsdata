@@ -3693,7 +3693,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-12-21",
     "DateTime": "2025-12-21T15:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1919,
@@ -3704,12 +3704,12 @@
     "AwayTeamName": "Sparta Rotterdam",
     "HomeTeamLogo": "https://crests.football-data.org/1919.png",
     "AwayTeamLogo": "https://crests.football-data.org/6806.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 6806,
     "Points": {
       "1919": 0,
-      "6806": 0
+      "6806": 3
     },
     "Goals": []
   },
@@ -3719,7 +3719,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-12-21",
     "DateTime": "2025-12-21T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 675,
@@ -3734,8 +3734,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "675": 0,
-      "666": 0
+      "675": 1,
+      "666": 1
     },
     "Goals": []
   },
@@ -3745,7 +3745,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-12-21",
     "DateTime": "2025-12-21T15:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1920,
@@ -3756,11 +3756,11 @@
     "AwayTeamName": "AZ",
     "HomeTeamLogo": "https://crests.football-data.org/1920.png",
     "AwayTeamLogo": "https://crests.football-data.org/682.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 3,
+    "Result": 1920,
     "Points": {
-      "1920": 0,
+      "1920": 3,
       "682": 0
     },
     "Goals": []
@@ -3771,7 +3771,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-12-21",
     "DateTime": "2025-12-21T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 718,
@@ -3786,8 +3786,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "718": 0,
-      "677": 0
+      "718": 1,
+      "677": 1
     },
     "Goals": []
   },
