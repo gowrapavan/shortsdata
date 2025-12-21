@@ -3823,7 +3823,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-12-20",
     "DateTime": "2025-12-20T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 681,
@@ -3835,11 +3835,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/681.png",
     "AwayTeamLogo": "https://crests.football-data.org/1912.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 1912,
     "Points": {
       "681": 0,
-      "1912": 0
+      "1912": 3
     },
     "Goals": []
   },
