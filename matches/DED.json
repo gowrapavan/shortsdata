@@ -3667,7 +3667,7 @@
     "RoundName": "Eredivisie",
     "Date": "2025-12-21",
     "DateTime": "2025-12-21T11:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 676,
@@ -3679,11 +3679,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/676.png",
     "AwayTeamLogo": "https://crests.football-data.org/674.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 674,
     "Points": {
       "676": 0,
-      "674": 0
+      "674": 3
     },
     "Goals": []
   },
@@ -3730,8 +3730,8 @@
     "AwayTeamName": "FC Twente '65",
     "HomeTeamLogo": "https://crests.football-data.org/675.png",
     "AwayTeamLogo": "https://crests.football-data.org/666.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "675": 0,
@@ -3782,8 +3782,8 @@
     "AwayTeamName": "FC Groningen",
     "HomeTeamLogo": "https://crests.football-data.org/718.png",
     "AwayTeamLogo": "https://crests.football-data.org/677.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "718": 0,
