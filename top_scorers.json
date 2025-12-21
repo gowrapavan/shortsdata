@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-20T06:15:35.617158Z",
+    "last_updated": "2025-12-21T06:14:58.562350Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -10,8 +10,8 @@
                     "player_name": "Erling Haaland",
                     "team_name": "Manchester City FC",
                     "team_crest": "https://crests.football-data.org/65.png",
-                    "goals": 17,
-                    "assists": 3,
+                    "goals": 19,
+                    "assists": 4,
                     "penalties": 1,
                     "nationality": "Norway"
                 },
@@ -28,7 +28,7 @@
                     "player_name": "Hugo Ekitike",
                     "team_name": "Liverpool FC",
                     "team_crest": "https://crests.football-data.org/64.png",
-                    "goals": 7,
+                    "goals": 8,
                     "assists": 1,
                     "penalties": null,
                     "nationality": "France"
@@ -37,10 +37,19 @@
                     "player_name": "Antoine Semenyo",
                     "team_name": "AFC Bournemouth",
                     "team_crest": "https://crests.football-data.org/bournemouth.png",
-                    "goals": 7,
+                    "goals": 8,
                     "assists": 3,
                     "penalties": 1,
                     "nationality": "Ghana"
+                },
+                {
+                    "player_name": "Richarlison",
+                    "team_name": "Tottenham Hotspur FC",
+                    "team_crest": "https://crests.football-data.org/73.png",
+                    "goals": 7,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Brazil"
                 },
                 {
                     "player_name": "Jean-Philippe Mateta",
@@ -52,12 +61,30 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Nick Woltemade",
+                    "team_name": "Newcastle United FC",
+                    "team_crest": "https://crests.football-data.org/67.png",
+                    "goals": 7,
+                    "assists": 1,
+                    "penalties": 1,
+                    "nationality": "Germany"
+                },
+                {
                     "player_name": "Phil Foden",
                     "team_name": "Manchester City FC",
                     "team_crest": "https://crests.football-data.org/65.png",
                     "goals": 7,
                     "assists": 2,
                     "penalties": null,
+                    "nationality": "England"
+                },
+                {
+                    "player_name": "Dominic Calvert-Lewin",
+                    "team_name": "Leeds United FC",
+                    "team_crest": "https://crests.football-data.org/341.png",
+                    "goals": 7,
+                    "assists": null,
+                    "penalties": 1,
                     "nationality": "England"
                 },
                 {
@@ -68,33 +95,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "England"
-                },
-                {
-                    "player_name": "Richarlison",
-                    "team_name": "Tottenham Hotspur FC",
-                    "team_crest": "https://crests.football-data.org/73.png",
-                    "goals": 6,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Brazil"
-                },
-                {
-                    "player_name": "Bryan Mbeumo",
-                    "team_name": "Manchester United FC",
-                    "team_crest": "https://crests.football-data.org/66.png",
-                    "goals": 6,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "Cameroon"
-                },
-                {
-                    "player_name": "Pedro Neto",
-                    "team_name": "Chelsea FC",
-                    "team_crest": "https://crests.football-data.org/61.png",
-                    "goals": 5,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "Portugal"
                 }
             ]
         },
@@ -107,9 +107,9 @@
                     "player_name": "Kylian Mbappé",
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 17,
+                    "goals": 18,
                     "assists": 4,
-                    "penalties": 4,
+                    "penalties": 5,
                     "nationality": "France"
                 },
                 {
@@ -185,13 +185,13 @@
                     "nationality": "Spain"
                 },
                 {
-                    "player_name": "Hugo Duro",
-                    "team_name": "Valencia CF",
-                    "team_crest": "https://crests.football-data.org/95.png",
+                    "player_name": "Ante Budimir",
+                    "team_name": "CA Osasuna",
+                    "team_crest": "https://crests.football-data.org/79.png",
                     "goals": 6,
                     "assists": null,
-                    "penalties": null,
-                    "nationality": "Spain"
+                    "penalties": 3,
+                    "nationality": "Croatia"
                 }
             ]
         },
@@ -374,18 +374,18 @@
                     "team_name": "RB Leipzig",
                     "team_crest": "https://crests.football-data.org/721.png",
                     "goals": 6,
-                    "assists": 5,
+                    "assists": 6,
                     "penalties": null,
                     "nationality": "Austria"
                 },
                 {
-                    "player_name": "Said El Mala",
-                    "team_name": "1. FC Köln",
-                    "team_crest": "https://crests.football-data.org/1.png",
+                    "player_name": "Patrik Schick",
+                    "team_name": "Bayer 04 Leverkusen",
+                    "team_crest": "https://crests.football-data.org/3.png",
                     "goals": 6,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Germany"
+                    "assists": 1,
+                    "penalties": 2,
+                    "nationality": "Czech Republic"
                 }
             ]
         },
@@ -573,13 +573,13 @@
                     "nationality": "Norway"
                 },
                 {
-                    "player_name": "Koki Ogawa",
-                    "team_name": "NEC",
-                    "team_crest": "https://crests.football-data.org/1915.png",
-                    "goals": 6,
-                    "assists": 1,
-                    "penalties": 1,
-                    "nationality": "Japan"
+                    "player_name": "Mika Godts",
+                    "team_name": "AFC Ajax",
+                    "team_crest": "https://crests.football-data.org/678.png",
+                    "goals": 7,
+                    "assists": 6,
+                    "penalties": null,
+                    "nationality": "Belgium"
                 }
             ]
         },
