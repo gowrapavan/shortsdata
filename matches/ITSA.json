@@ -3877,7 +3877,7 @@
     "RoundName": "Serie A",
     "Date": "2025-12-21",
     "DateTime": "2025-12-21T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 107,
@@ -3888,12 +3888,12 @@
     "AwayTeamName": "Atalanta BC",
     "HomeTeamLogo": "https://crests.football-data.org/107.png",
     "AwayTeamLogo": "https://crests.football-data.org/102.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 102,
     "Points": {
       "107": 0,
-      "102": 0
+      "102": 3
     },
     "Goals": []
   },
