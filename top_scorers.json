@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-21T06:14:58.562350Z",
+    "last_updated": "2025-12-22T06:17:35.241837Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -246,6 +246,15 @@
                     "nationality": "Italy"
                 },
                 {
+                    "player_name": "Rolando Mandragora",
+                    "team_name": "ACF Fiorentina",
+                    "team_crest": "https://crests.football-data.org/99.png",
+                    "goals": 5,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Italy"
+                },
+                {
                     "player_name": "Nico Paz",
                     "team_name": "Como 1907",
                     "team_crest": "https://crests.football-data.org/7397.png",
@@ -280,15 +289,6 @@
                     "assists": 1,
                     "penalties": 2,
                     "nationality": "Portugal"
-                },
-                {
-                    "player_name": "Kevin De Bruyne",
-                    "team_name": "SSC Napoli",
-                    "team_crest": "https://crests.football-data.org/113.png",
-                    "goals": 4,
-                    "assists": null,
-                    "penalties": 3,
-                    "nationality": "Belgium"
                 }
             ]
         },
@@ -301,10 +301,19 @@
                     "player_name": "Harry Kane",
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 18,
+                    "goals": 19,
                     "assists": 2,
                     "penalties": 6,
                     "nationality": "England"
+                },
+                {
+                    "player_name": "Luis Díaz",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 8,
+                    "assists": 4,
+                    "penalties": null,
+                    "nationality": "Colombia"
                 },
                 {
                     "player_name": "Jonathan Burkardt",
@@ -325,13 +334,13 @@
                     "nationality": "Germany"
                 },
                 {
-                    "player_name": "Luis Díaz",
+                    "player_name": "Michael Olise",
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
                     "goals": 7,
-                    "assists": 4,
+                    "assists": 8,
                     "penalties": null,
-                    "nationality": "Colombia"
+                    "nationality": "France"
                 },
                 {
                     "player_name": "Haris Tabaković",
@@ -341,15 +350,6 @@
                     "assists": 1,
                     "penalties": null,
                     "nationality": "Bosnia-Herzegovina"
-                },
-                {
-                    "player_name": "Michael Olise",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 6,
-                    "assists": 8,
-                    "penalties": null,
-                    "nationality": "France"
                 },
                 {
                     "player_name": "Fisnik Asllani",
@@ -519,6 +519,15 @@
                     "nationality": "Netherlands"
                 },
                 {
+                    "player_name": "Troy Parrott",
+                    "team_name": "AZ",
+                    "team_crest": "https://crests.football-data.org/682.png",
+                    "goals": 9,
+                    "assists": 1,
+                    "penalties": 2,
+                    "nationality": "Ireland"
+                },
+                {
                     "player_name": "Ismael Saibari",
                     "team_name": "PSV",
                     "team_crest": "https://crests.football-data.org/674.png",
@@ -532,18 +541,9 @@
                     "team_name": "PSV",
                     "team_crest": "https://crests.football-data.org/674.png",
                     "goals": 8,
-                    "assists": 6,
+                    "assists": 7,
                     "penalties": null,
                     "nationality": "Netherlands"
-                },
-                {
-                    "player_name": "Troy Parrott",
-                    "team_name": "AZ",
-                    "team_crest": "https://crests.football-data.org/682.png",
-                    "goals": 8,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "Ireland"
                 },
                 {
                     "player_name": "Koen Kostons",
@@ -555,6 +555,15 @@
                     "nationality": "Netherlands"
                 },
                 {
+                    "player_name": "Tobias Lauritsen",
+                    "team_name": "Sparta Rotterdam",
+                    "team_crest": "https://crests.football-data.org/6806.png",
+                    "goals": 8,
+                    "assists": 1,
+                    "penalties": 3,
+                    "nationality": "Norway"
+                },
+                {
                     "player_name": "Kento Shiogai",
                     "team_name": "NEC",
                     "team_crest": "https://crests.football-data.org/1915.png",
@@ -562,15 +571,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Japan"
-                },
-                {
-                    "player_name": "Tobias Lauritsen",
-                    "team_name": "Sparta Rotterdam",
-                    "team_crest": "https://crests.football-data.org/6806.png",
-                    "goals": 7,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "Norway"
                 },
                 {
                     "player_name": "Mika Godts",
