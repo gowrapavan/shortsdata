@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-22T06:17:35.241837Z",
+    "last_updated": "2025-12-23T06:16:59.495425Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -140,13 +140,40 @@
                     "nationality": "Poland"
                 },
                 {
+                    "player_name": "Raphinha",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
+                    "goals": 7,
+                    "assists": 3,
+                    "penalties": 1,
+                    "nationality": "Brazil"
+                },
+                {
+                    "player_name": "Lamine Yamal",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
+                    "goals": 7,
+                    "assists": 7,
+                    "penalties": 2,
+                    "nationality": "Spain"
+                },
+                {
                     "player_name": "Julián Álvarez",
                     "team_name": "Club Atlético de Madrid",
                     "team_crest": "https://crests.football-data.org/78.png",
                     "goals": 7,
-                    "assists": 2,
+                    "assists": 3,
                     "penalties": 2,
                     "nationality": "Argentina"
+                },
+                {
+                    "player_name": "Cucho Hernández",
+                    "team_name": "Real Betis Balompié",
+                    "team_crest": "https://crests.football-data.org/90.png",
+                    "goals": 7,
+                    "assists": 3,
+                    "penalties": 1,
+                    "nationality": "Colombia"
                 },
                 {
                     "player_name": "Karl Etta Eyong",
@@ -158,40 +185,13 @@
                     "nationality": "Cameroon"
                 },
                 {
-                    "player_name": "Raphinha",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 6,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "Brazil"
-                },
-                {
-                    "player_name": "Lamine Yamal",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 6,
-                    "assists": 7,
-                    "penalties": 2,
-                    "nationality": "Spain"
-                },
-                {
-                    "player_name": "Rafael Mir",
-                    "team_name": "Elche CF",
-                    "team_crest": "https://crests.football-data.org/285.png",
+                    "player_name": "Pere Milla",
+                    "team_name": "RCD Espanyol de Barcelona",
+                    "team_crest": "https://crests.football-data.org/80.png",
                     "goals": 6,
                     "assists": null,
                     "penalties": null,
                     "nationality": "Spain"
-                },
-                {
-                    "player_name": "Ante Budimir",
-                    "team_name": "CA Osasuna",
-                    "team_crest": "https://crests.football-data.org/79.png",
-                    "goals": 6,
-                    "assists": null,
-                    "penalties": 3,
-                    "nationality": "Croatia"
                 }
             ]
         },
