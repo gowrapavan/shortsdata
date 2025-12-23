@@ -37,15 +37,15 @@
             "tla": "PSV",
             "crest": "https://crests.football-data.org/674.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
-          "won": 14,
+          "won": 15,
           "draw": 1,
           "lost": 1,
-          "points": 43,
-          "goalsFor": 50,
-          "goalsAgainst": 20,
-          "goalDifference": 30
+          "points": 46,
+          "goalsFor": 52,
+          "goalsAgainst": 21,
+          "goalDifference": 31
         },
         {
           "position": 2,
@@ -56,14 +56,14 @@
             "tla": "FEY",
             "crest": "https://crests.football-data.org/675.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 11,
-          "draw": 1,
+          "draw": 2,
           "lost": 4,
-          "points": 34,
-          "goalsFor": 41,
-          "goalsAgainst": 20,
+          "points": 35,
+          "goalsFor": 42,
+          "goalsAgainst": 21,
           "goalDifference": 21
         },
         {
@@ -113,37 +113,18 @@
             "tla": "GRO",
             "crest": "https://crests.football-data.org/677.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 8,
-          "draw": 2,
+          "draw": 3,
           "lost": 6,
-          "points": 26,
-          "goalsFor": 24,
-          "goalsAgainst": 21,
+          "points": 27,
+          "goalsFor": 25,
+          "goalsAgainst": 22,
           "goalDifference": 3
         },
         {
           "position": 6,
-          "team": {
-            "id": 682,
-            "name": "AZ",
-            "shortName": "AZ",
-            "tla": "AZ",
-            "crest": "https://crests.football-data.org/682.png"
-          },
-          "playedGames": 15,
-          "form": null,
-          "won": 7,
-          "draw": 4,
-          "lost": 4,
-          "points": 25,
-          "goalsFor": 28,
-          "goalsAgainst": 24,
-          "goalDifference": 4
-        },
-        {
-          "position": 7,
           "team": {
             "id": 666,
             "name": "FC Twente '65",
@@ -151,15 +132,34 @@
             "tla": "TWE",
             "crest": "https://crests.football-data.org/666.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 6,
-          "draw": 6,
+          "draw": 7,
           "lost": 4,
-          "points": 24,
-          "goalsFor": 25,
-          "goalsAgainst": 20,
+          "points": 25,
+          "goalsFor": 26,
+          "goalsAgainst": 21,
           "goalDifference": 5
+        },
+        {
+          "position": 7,
+          "team": {
+            "id": 682,
+            "name": "AZ",
+            "shortName": "AZ",
+            "tla": "AZ",
+            "crest": "https://crests.football-data.org/682.png"
+          },
+          "playedGames": 16,
+          "form": null,
+          "won": 7,
+          "draw": 4,
+          "lost": 5,
+          "points": 25,
+          "goalsFor": 31,
+          "goalsAgainst": 28,
+          "goalDifference": 3
         },
         {
           "position": 8,
@@ -170,15 +170,15 @@
             "tla": "UTR",
             "crest": "https://crests.football-data.org/676.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 6,
           "draw": 5,
-          "lost": 5,
+          "lost": 6,
           "points": 23,
-          "goalsFor": 27,
-          "goalsAgainst": 21,
-          "goalDifference": 6
+          "goalsFor": 28,
+          "goalsAgainst": 23,
+          "goalDifference": 5
         },
         {
           "position": 9,
@@ -208,18 +208,56 @@
             "tla": "SPA",
             "crest": "https://crests.football-data.org/6806.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
-          "won": 6,
+          "won": 7,
           "draw": 2,
           "lost": 8,
-          "points": 20,
-          "goalsFor": 17,
+          "points": 23,
+          "goalsFor": 18,
           "goalsAgainst": 31,
-          "goalDifference": -14
+          "goalDifference": -13
         },
         {
           "position": 11,
+          "team": {
+            "id": 1920,
+            "name": "Fortuna Sittard",
+            "shortName": "Sittard",
+            "tla": "SIT",
+            "crest": "https://crests.football-data.org/1920.png"
+          },
+          "playedGames": 17,
+          "form": null,
+          "won": 6,
+          "draw": 3,
+          "lost": 8,
+          "points": 21,
+          "goalsFor": 25,
+          "goalsAgainst": 29,
+          "goalDifference": -4
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": 718,
+            "name": "Go Ahead Eagles",
+            "shortName": "Go Ahead",
+            "tla": "GOA",
+            "crest": "https://crests.football-data.org/718.png"
+          },
+          "playedGames": 17,
+          "form": null,
+          "won": 4,
+          "draw": 7,
+          "lost": 6,
+          "points": 19,
+          "goalsFor": 26,
+          "goalsAgainst": 29,
+          "goalDifference": -3
+        },
+        {
+          "position": 13,
           "team": {
             "id": 670,
             "name": "SBV Excelsior",
@@ -238,7 +276,7 @@
           "goalDifference": -11
         },
         {
-          "position": 12,
+          "position": 14,
           "team": {
             "id": 684,
             "name": "PEC Zwolle",
@@ -255,44 +293,6 @@
           "goalsFor": 21,
           "goalsAgainst": 38,
           "goalDifference": -17
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 718,
-            "name": "Go Ahead Eagles",
-            "shortName": "Go Ahead",
-            "tla": "GOA",
-            "crest": "https://crests.football-data.org/718.png"
-          },
-          "playedGames": 16,
-          "form": null,
-          "won": 4,
-          "draw": 6,
-          "lost": 6,
-          "points": 18,
-          "goalsFor": 25,
-          "goalsAgainst": 28,
-          "goalDifference": -3
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 1920,
-            "name": "Fortuna Sittard",
-            "shortName": "Sittard",
-            "tla": "SIT",
-            "crest": "https://crests.football-data.org/1920.png"
-          },
-          "playedGames": 16,
-          "form": null,
-          "won": 5,
-          "draw": 3,
-          "lost": 8,
-          "points": 18,
-          "goalsFor": 21,
-          "goalsAgainst": 26,
-          "goalDifference": -5
         },
         {
           "position": 15,
@@ -322,15 +322,15 @@
             "tla": "VOL",
             "crest": "https://crests.football-data.org/1919.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 3,
           "draw": 5,
-          "lost": 8,
+          "lost": 9,
           "points": 14,
           "goalsFor": 19,
-          "goalsAgainst": 30,
-          "goalDifference": -11
+          "goalsAgainst": 31,
+          "goalDifference": -12
         },
         {
           "position": 17,
