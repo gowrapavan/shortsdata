@@ -6,8 +6,8 @@
     "home_team": "IÄdÄ±r FK",
     "away_team": "AliaÄa",
     "label": "idr-ali",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
     "url": "https://sportsonline.click/channels/hd/hd9.php"
   },
   {
@@ -17,7 +17,7 @@
     "home_team": "Boluspor",
     "away_team": "Fethiyespor",
     "label": "bol-fet",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
     "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
     "url": "https://sportsonline.click/channels/hd/hd9.php"
   },
@@ -28,33 +28,44 @@
     "home_team": "Burkina Faso",
     "away_team": "Equatorial Guinea",
     "label": "bur-equ",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "url": "https://sportsonline.click/channels/hd/hd11.php"
+  },
+  {
+    "time": "2025-12-24 18:00 IST",
+    "game": "football",
+    "league": "",
+    "home_team": "Burkina Faso",
+    "away_team": "Equatorial Guinea",
+    "label": "bur-equ",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "url": "https://sportsonline.click/channels/hd/hd10.php"
+  },
+  {
+    "time": "2025-12-24 18:00 IST",
+    "game": "football",
+    "league": "",
+    "home_team": "Burkina Faso",
+    "away_team": "Equatorial Guinea",
+    "label": "bur-equ",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "url": "https://sportsonline.click/channels/pt/sporttv1.php"
+  },
+  {
+    "time": "2025-12-24 20:30 IST",
+    "game": "football",
+    "league": "",
+    "home_team": "Algeria",
+    "away_team": "Sudan",
+    "label": "alg-sud",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
     "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
     "url": "https://sportsonline.click/channels/hd/hd11.php"
   },
   {
-    "time": "2025-12-24 18:00 IST",
-    "game": "football",
-    "league": "",
-    "home_team": "Burkina Faso",
-    "away_team": "Equatorial Guinea",
-    "label": "bur-equ",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
-    "url": "https://sportsonline.click/channels/hd/hd10.php"
-  },
-  {
-    "time": "2025-12-24 18:00 IST",
-    "game": "football",
-    "league": "",
-    "home_team": "Burkina Faso",
-    "away_team": "Equatorial Guinea",
-    "label": "bur-equ",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
-    "url": "https://sportsonline.click/channels/pt/sporttv1.php"
-  },
-  {
     "time": "2025-12-24 20:30 IST",
     "game": "football",
     "league": "",
@@ -62,17 +73,6 @@
     "away_team": "Sudan",
     "label": "alg-sud",
     "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
-    "url": "https://sportsonline.click/channels/hd/hd11.php"
-  },
-  {
-    "time": "2025-12-24 20:30 IST",
-    "game": "football",
-    "league": "",
-    "home_team": "Algeria",
-    "away_team": "Sudan",
-    "label": "alg-sud",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
     "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
     "url": "https://sportsonline.click/channels/hd/hd10.php"
   },
@@ -83,8 +83,8 @@
     "home_team": "Algeria",
     "away_team": "Sudan",
     "label": "alg-sud",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
     "url": "https://sportsonline.click/channels/pt/sporttv1.php"
   },
   {
@@ -94,8 +94,8 @@
     "home_team": "Algeria",
     "away_team": "Sudan",
     "label": "alg-sud",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
     "url": "https://sportsonline.click/channels/bra/br3.php"
   },
   {
@@ -105,8 +105,8 @@
     "home_team": "KeÃ§iÃ¶rengÃ¼cÃ¼",
     "away_team": "BeyoÄlu Yeni ÃarÅÄ±",
     "label": "kei-bey",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
     "url": "https://sportsonline.click/channels/hd/hd9.php"
   },
   {
@@ -117,7 +117,7 @@
     "away_team": "Esteghlal FC",
     "label": "alm-est",
     "home_logo": "https://crests.football-data.org/57.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
     "url": "https://sportsonline.click/channels/hd/hd4.php"
   },
   {
@@ -160,8 +160,8 @@
     "home_team": "Arkadag",
     "away_team": "Khalidiya",
     "label": "ark-kha",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
     "url": "https://sportsonline.click/channels/hd/hd5.php"
   },
   {
@@ -183,7 +183,7 @@
     "away_team": "Andijan",
     "label": "ala-and",
     "home_logo": "https://crests.football-data.org/57.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
     "url": "https://sportsonline.click/channels/hd/hd7.php"
   },
   {
@@ -193,8 +193,8 @@
     "home_team": "Goa",
     "away_team": "Istiqlol",
     "label": "goa-ist",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
     "url": "https://sportsonline.click/channels/hd/hd6.php"
   },
   {
@@ -205,7 +205,7 @@
     "away_team": "Mozambique",
     "label": "cte-moz",
     "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
     "url": "https://sportsonline.click/channels/hd/hd11.php"
   },
   {
@@ -215,8 +215,8 @@
     "home_team": "CÃ´te d'Ivoire",
     "away_team": "Mozambique",
     "label": "cte-moz",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
     "url": "https://sportsonline.click/channels/hd/hd10.php"
   },
   {
@@ -226,8 +226,8 @@
     "home_team": "CÃ´te d'Ivoire",
     "away_team": "Mozambique",
     "label": "cte-moz",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
     "url": "https://sportsonline.click/channels/pt/sporttv1.php"
   },
   {
@@ -238,7 +238,7 @@
     "away_team": "Mozambique",
     "label": "cte-moz",
     "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
     "url": "https://sportsonline.click/channels/bra/br3.php"
   },
   {
@@ -248,9 +248,20 @@
     "home_team": "Samsunspor",
     "away_team": "EyÃ¼pspor",
     "label": "sam-eyp",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
     "url": "https://sportsonline.click/channels/hd/hd9.php"
+  },
+  {
+    "time": "2025-12-25 01:30 IST",
+    "game": "football",
+    "league": "",
+    "home_team": "Cameroon",
+    "away_team": "Gabon",
+    "label": "cam-gab",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "url": "https://sportsonline.click/channels/hd/hd11.php"
   },
   {
     "time": "2025-12-25 01:30 IST",
@@ -261,17 +272,6 @@
     "label": "cam-gab",
     "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
     "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
-    "url": "https://sportsonline.click/channels/hd/hd11.php"
-  },
-  {
-    "time": "2025-12-25 01:30 IST",
-    "game": "football",
-    "league": "",
-    "home_team": "Cameroon",
-    "away_team": "Gabon",
-    "label": "cam-gab",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
     "url": "https://sportsonline.click/channels/hd/hd10.php"
   },
   {
@@ -282,7 +282,7 @@
     "away_team": "Gabon",
     "label": "cam-gab",
     "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
     "url": "https://sportsonline.click/channels/pt/sporttv1.php"
   },
   {
@@ -292,8 +292,8 @@
     "home_team": "Cameroon",
     "away_team": "Gabon",
     "label": "cam-gab",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
     "url": "https://sportsonline.click/channels/bra/br3.php"
   }
 ]
