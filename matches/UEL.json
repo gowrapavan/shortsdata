@@ -6753,7 +6753,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-26",
     "DateTime": "2025-12-26T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1076,
@@ -6764,11 +6764,11 @@
     "AwayTeamName": "Swansea City AFC",
     "HomeTeamLogo": "https://crests.football-data.org/1076.png",
     "AwayTeamLogo": "https://crests.football-data.org/72.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 1076,
     "Points": {
-      "1076": 0,
+      "1076": 3,
       "72": 0
     },
     "Goals": []
@@ -6779,7 +6779,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-26",
     "DateTime": "2025-12-26T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 338,
@@ -6791,11 +6791,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/338.png",
     "AwayTeamLogo": "https://crests.football-data.org/346.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 346,
     "Points": {
       "338": 0,
-      "346": 0
+      "346": 3
     },
     "Goals": []
   },
@@ -6805,7 +6805,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-26",
     "DateTime": "2025-12-26T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 343,
@@ -6820,8 +6820,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "343": 0,
-      "59": 0
+      "343": 1,
+      "59": 1
     },
     "Goals": []
   },
@@ -6857,7 +6857,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-26",
     "DateTime": "2025-12-26T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 68,
@@ -6868,11 +6868,11 @@
     "AwayTeamName": "Charlton Athletic FC",
     "HomeTeamLogo": "https://crests.football-data.org/68.png",
     "AwayTeamLogo": "https://crests.football-data.org/348.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 68,
     "Points": {
-      "68": 0,
+      "68": 3,
       "348": 0
     },
     "Goals": []
@@ -6883,7 +6883,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-26",
     "DateTime": "2025-12-26T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1082,
@@ -6894,11 +6894,11 @@
     "AwayTeamName": "Southampton FC",
     "HomeTeamLogo": "https://crests.football-data.org/1082.png",
     "AwayTeamLogo": "https://crests.football-data.org/340.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 1082,
     "Points": {
-      "1082": 0,
+      "1082": 3,
       "340": 0
     },
     "Goals": []
@@ -6909,7 +6909,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-26",
     "DateTime": "2025-12-26T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 325,
@@ -6920,12 +6920,12 @@
     "AwayTeamName": "Queens Park Rangers FC",
     "HomeTeamLogo": "https://crests.football-data.org/325.png",
     "AwayTeamLogo": "https://crests.football-data.org/69.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "325": 0,
-      "69": 0
+      "325": 1,
+      "69": 1
     },
     "Goals": []
   },
@@ -6935,7 +6935,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-26",
     "DateTime": "2025-12-26T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 345,
@@ -6946,12 +6946,12 @@
     "AwayTeamName": "Hull City AFC",
     "HomeTeamLogo": "https://crests.football-data.org/345.png",
     "AwayTeamLogo": "https://crests.football-data.org/322.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "345": 0,
-      "322": 0
+      "345": 1,
+      "322": 1
     },
     "Goals": []
   },
@@ -6961,7 +6961,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-26",
     "DateTime": "2025-12-26T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 70,
@@ -6976,8 +6976,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "70": 0,
-      "1081": 0
+      "70": 1,
+      "1081": 1
     },
     "Goals": []
   },
@@ -6987,7 +6987,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-26",
     "DateTime": "2025-12-26T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 74,
@@ -6998,12 +6998,12 @@
     "AwayTeamName": "Bristol City FC",
     "HomeTeamLogo": "https://crests.football-data.org/74.png",
     "AwayTeamLogo": "https://crests.football-data.org/387.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 387,
     "Points": {
       "74": 0,
-      "387": 0
+      "387": 3
     },
     "Goals": []
   },
@@ -7024,8 +7024,8 @@
     "AwayTeamName": "Sheffield United FC",
     "HomeTeamLogo": "https://crests.football-data.org/404.png",
     "AwayTeamLogo": "https://crests.football-data.org/356.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
       "404": 0,
