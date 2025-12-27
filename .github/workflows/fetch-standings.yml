@@ -3,7 +3,7 @@ name: Update Football Standings
 on:
   workflow_dispatch:  # manual trigger
   schedule:
-    - cron: "0 7 */2 * *"  # ⏰ Every 2 days at 7 AM UTC
+    - cron: "0 20,22,0,2,4 * * *"  # ⏰ Every 2 hours at night: 8 PM, 10 PM, 12 AM, 2 AM, 4 AM UTC
 
 jobs:
   update-standings:
