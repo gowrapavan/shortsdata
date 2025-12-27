@@ -69,6 +69,25 @@
         {
           "position": 3,
           "team": {
+            "id": 109,
+            "name": "Juventus FC",
+            "shortName": "Juventus",
+            "tla": "JUV",
+            "crest": "https://crests.football-data.org/109.png"
+          },
+          "playedGames": 17,
+          "form": null,
+          "won": 9,
+          "draw": 5,
+          "lost": 3,
+          "points": 32,
+          "goalsFor": 23,
+          "goalsAgainst": 15,
+          "goalDifference": 8
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 113,
             "name": "SSC Napoli",
             "shortName": "Napoli",
@@ -86,7 +105,7 @@
           "goalDifference": 9
         },
         {
-          "position": 4,
+          "position": 5,
           "team": {
             "id": 100,
             "name": "AS Roma",
@@ -103,25 +122,6 @@
           "goalsFor": 17,
           "goalsAgainst": 10,
           "goalDifference": 7
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 109,
-            "name": "Juventus FC",
-            "shortName": "Juventus",
-            "tla": "JUV",
-            "crest": "https://crests.football-data.org/109.png"
-          },
-          "playedGames": 16,
-          "form": null,
-          "won": 8,
-          "draw": 5,
-          "lost": 3,
-          "points": 29,
-          "goalsFor": 21,
-          "goalsAgainst": 15,
-          "goalDifference": 6
         },
         {
           "position": 6,
@@ -379,15 +379,15 @@
             "tla": "PIS",
             "crest": "https://crests.football-data.org/487.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 1,
           "draw": 8,
-          "lost": 7,
+          "lost": 8,
           "points": 11,
           "goalsFor": 12,
-          "goalsAgainst": 22,
-          "goalDifference": -10
+          "goalsAgainst": 24,
+          "goalDifference": -12
         },
         {
           "position": 20,
