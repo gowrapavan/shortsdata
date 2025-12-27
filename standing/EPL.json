@@ -19,7 +19,7 @@
     "id": 2403,
     "startDate": "2025-08-15",
     "endDate": "2026-05-24",
-    "currentMatchday": 17,
+    "currentMatchday": 18,
     "winner": null
   },
   "standings": [
@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 66,
+            "name": "Manchester United FC",
+            "shortName": "Man United",
+            "tla": "MUN",
+            "crest": "https://crests.football-data.org/66.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 8,
+          "draw": 5,
+          "lost": 5,
+          "points": 29,
+          "goalsFor": 32,
+          "goalsAgainst": 28,
+          "goalDifference": 4
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 64,
             "name": "Liverpool FC",
             "shortName": "Liverpool",
@@ -124,7 +143,7 @@
           "goalDifference": 3
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 71,
             "name": "Sunderland AFC",
@@ -141,25 +160,6 @@
           "goalsFor": 19,
           "goalsAgainst": 17,
           "goalDifference": 2
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": 66,
-            "name": "Manchester United FC",
-            "shortName": "Man United",
-            "tla": "MUN",
-            "crest": "https://crests.football-data.org/66.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 7,
-          "draw": 5,
-          "lost": 5,
-          "points": 26,
-          "goalsFor": 31,
-          "goalsAgainst": 28,
-          "goalDifference": 3
         },
         {
           "position": 8,
@@ -227,15 +227,15 @@
             "tla": "NEW",
             "crest": "https://crests.football-data.org/67.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
           "won": 6,
           "draw": 5,
-          "lost": 6,
+          "lost": 7,
           "points": 23,
           "goalsFor": 23,
-          "goalsAgainst": 22,
-          "goalDifference": 1
+          "goalsAgainst": 23,
+          "goalDifference": 0
         },
         {
           "position": 12,
