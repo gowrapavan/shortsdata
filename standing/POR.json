@@ -132,15 +132,15 @@
             "tla": "FAM",
             "crest": "https://crests.football-data.org/5531.png"
           },
-          "playedGames": 15,
+          "playedGames": 16,
           "form": null,
           "won": 6,
           "draw": 5,
-          "lost": 4,
+          "lost": 5,
           "points": 23,
-          "goalsFor": 18,
-          "goalsAgainst": 10,
-          "goalDifference": 8
+          "goalsFor": 20,
+          "goalsAgainst": 13,
+          "goalDifference": 7
         },
         {
           "position": 7,
@@ -183,6 +183,25 @@
         {
           "position": 9,
           "team": {
+            "id": 9136,
+            "name": "CF Estrela da Amadora",
+            "shortName": "Amadora",
+            "tla": "AMA",
+            "crest": "https://crests.football-data.org/9136.png"
+          },
+          "playedGames": 16,
+          "form": null,
+          "won": 4,
+          "draw": 6,
+          "lost": 6,
+          "points": 18,
+          "goalsFor": 20,
+          "goalsAgainst": 24,
+          "goalDifference": -4
+        },
+        {
+          "position": 10,
+          "team": {
             "id": 582,
             "name": "GD Estoril Praia",
             "shortName": "Estoril Praia",
@@ -200,7 +219,7 @@
           "goalDifference": -2
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 496,
             "name": "Rio Ave FC",
@@ -219,7 +238,7 @@
           "goalDifference": -5
         },
         {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 7822,
             "name": "FC Alverca",
@@ -238,7 +257,7 @@
           "goalDifference": -8
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 5529,
             "name": "CD Nacional",
@@ -257,7 +276,7 @@
           "goalDifference": -4
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 5530,
             "name": "CD Santa Clara",
@@ -274,25 +293,6 @@
           "goalsFor": 11,
           "goalsAgainst": 15,
           "goalDifference": -4
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 9136,
-            "name": "CF Estrela da Amadora",
-            "shortName": "Amadora",
-            "tla": "AMA",
-            "crest": "https://crests.football-data.org/9136.png"
-          },
-          "playedGames": 15,
-          "form": null,
-          "won": 3,
-          "draw": 6,
-          "lost": 6,
-          "points": 15,
-          "goalsFor": 17,
-          "goalsAgainst": 22,
-          "goalDifference": -5
         },
         {
           "position": 15,
