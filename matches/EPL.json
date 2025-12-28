@@ -4351,7 +4351,7 @@
     "RoundName": "Premier League",
     "Date": "2025-12-28",
     "DateTime": "2025-12-28T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 354,
@@ -4364,10 +4364,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/73.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 73,
     "Points": {
       "354": 0,
-      "73": 0
+      "73": 3
     },
     "Goals": []
   },
