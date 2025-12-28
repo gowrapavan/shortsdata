@@ -31,6 +31,25 @@
         {
           "position": 1,
           "team": {
+            "id": 108,
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT",
+            "crest": "https://crests.football-data.org/108.png"
+          },
+          "playedGames": 16,
+          "form": null,
+          "won": 12,
+          "draw": 0,
+          "lost": 4,
+          "points": 36,
+          "goalsFor": 35,
+          "goalsAgainst": 14,
+          "goalDifference": 21
+        },
+        {
+          "position": 2,
+          "team": {
             "id": 98,
             "name": "AC Milan",
             "shortName": "Milan",
@@ -46,25 +65,6 @@
           "goalsFor": 27,
           "goalsAgainst": 13,
           "goalDifference": 14
-        },
-        {
-          "position": 2,
-          "team": {
-            "id": 108,
-            "name": "FC Internazionale Milano",
-            "shortName": "Inter",
-            "tla": "INT",
-            "crest": "https://crests.football-data.org/108.png"
-          },
-          "playedGames": 16,
-          "form": null,
-          "won": 11,
-          "draw": 1,
-          "lost": 4,
-          "points": 34,
-          "goalsFor": 34,
-          "goalsAgainst": 14,
-          "goalDifference": 20
         },
         {
           "position": 3,
@@ -183,25 +183,6 @@
         {
           "position": 9,
           "team": {
-            "id": 102,
-            "name": "Atalanta BC",
-            "shortName": "Atalanta",
-            "tla": "ATA",
-            "crest": "https://crests.football-data.org/102.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 5,
-          "draw": 8,
-          "lost": 4,
-          "points": 23,
-          "goalsFor": 20,
-          "goalsAgainst": 18,
-          "goalDifference": 2
-        },
-        {
-          "position": 10,
-          "team": {
             "id": 471,
             "name": "US Sassuolo Calcio",
             "shortName": "Sassuolo",
@@ -216,6 +197,25 @@
           "points": 22,
           "goalsFor": 22,
           "goalsAgainst": 21,
+          "goalDifference": 1
+        },
+        {
+          "position": 10,
+          "team": {
+            "id": 102,
+            "name": "Atalanta BC",
+            "shortName": "Atalanta",
+            "tla": "ATA",
+            "crest": "https://crests.football-data.org/102.png"
+          },
+          "playedGames": 17,
+          "form": null,
+          "won": 5,
+          "draw": 7,
+          "lost": 5,
+          "points": 22,
+          "goalsFor": 20,
+          "goalsAgainst": 19,
           "goalDifference": 1
         },
         {
