@@ -4174,8 +4174,8 @@
     "AwayTeamName": "US Sassuolo Calcio",
     "HomeTeamLogo": "https://crests.football-data.org/103.png",
     "AwayTeamLogo": "https://crests.football-data.org/471.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "103": 0,
@@ -4293,7 +4293,7 @@
     "RoundName": "Serie A",
     "Date": "2025-12-28",
     "DateTime": "2025-12-28T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 457,
@@ -4306,10 +4306,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/113.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 113,
     "Points": {
       "457": 0,
-      "113": 0
+      "113": 3
     },
     "Goals": []
   },
