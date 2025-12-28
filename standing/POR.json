@@ -75,14 +75,14 @@
             "tla": "BEN",
             "crest": "https://crests.football-data.org/1903.png"
           },
-          "playedGames": 15,
+          "playedGames": 16,
           "form": null,
           "won": 10,
-          "draw": 5,
+          "draw": 6,
           "lost": 0,
-          "points": 35,
-          "goalsFor": 31,
-          "goalsAgainst": 8,
+          "points": 36,
+          "goalsFor": 33,
+          "goalsAgainst": 10,
           "goalDifference": 23
         },
         {
@@ -94,14 +94,14 @@
             "tla": "GIL",
             "crest": "https://crests.football-data.org/5533.png"
           },
-          "playedGames": 15,
+          "playedGames": 16,
           "form": null,
           "won": 7,
-          "draw": 5,
+          "draw": 6,
           "lost": 3,
-          "points": 26,
-          "goalsFor": 19,
-          "goalsAgainst": 9,
+          "points": 27,
+          "goalsFor": 21,
+          "goalsAgainst": 11,
           "goalDifference": 10
         },
         {
@@ -113,14 +113,14 @@
             "tla": "SCB",
             "crest": "https://crests.football-data.org/5613.png"
           },
-          "playedGames": 15,
+          "playedGames": 16,
           "form": null,
           "won": 7,
-          "draw": 4,
+          "draw": 5,
           "lost": 4,
-          "points": 25,
-          "goalsFor": 26,
-          "goalsAgainst": 13,
+          "points": 26,
+          "goalsFor": 28,
+          "goalsAgainst": 15,
           "goalDifference": 13
         },
         {
@@ -145,6 +145,25 @@
         {
           "position": 7,
           "team": {
+            "id": 5543,
+            "name": "Vitória SC",
+            "shortName": "Vitória SC",
+            "tla": "GUI",
+            "crest": "https://crests.football-data.org/5543.png"
+          },
+          "playedGames": 16,
+          "form": null,
+          "won": 6,
+          "draw": 4,
+          "lost": 6,
+          "points": 22,
+          "goalsFor": 16,
+          "goalsAgainst": 21,
+          "goalDifference": -5
+        },
+        {
+          "position": 8,
+          "team": {
             "id": 583,
             "name": "Moreirense FC",
             "shortName": "Moreirense",
@@ -160,25 +179,6 @@
           "goalsFor": 21,
           "goalsAgainst": 24,
           "goalDifference": -3
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 5543,
-            "name": "Vitória SC",
-            "shortName": "Vitória SC",
-            "tla": "GUI",
-            "crest": "https://crests.football-data.org/5543.png"
-          },
-          "playedGames": 15,
-          "form": null,
-          "won": 6,
-          "draw": 3,
-          "lost": 6,
-          "points": 21,
-          "goalsFor": 16,
-          "goalsAgainst": 21,
-          "goalDifference": -5
         },
         {
           "position": 9,
@@ -303,12 +303,12 @@
             "tla": "CAS",
             "crest": "https://crests.football-data.org/6618.png"
           },
-          "playedGames": 15,
+          "playedGames": 16,
           "form": null,
           "won": 3,
-          "draw": 4,
+          "draw": 5,
           "lost": 8,
-          "points": 13,
+          "points": 14,
           "goalsFor": 16,
           "goalsAgainst": 29,
           "goalDifference": -13
@@ -322,14 +322,14 @@
             "tla": "FCA",
             "crest": "https://crests.football-data.org/712.png"
           },
-          "playedGames": 15,
+          "playedGames": 16,
           "form": null,
           "won": 3,
-          "draw": 4,
+          "draw": 5,
           "lost": 8,
-          "points": 13,
-          "goalsFor": 15,
-          "goalsAgainst": 37,
+          "points": 14,
+          "goalsFor": 17,
+          "goalsAgainst": 39,
           "goalDifference": -22
         },
         {

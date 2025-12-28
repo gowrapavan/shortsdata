@@ -151,14 +151,14 @@
             "tla": "SUN",
             "crest": "https://crests.football-data.org/71.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
           "won": 7,
-          "draw": 6,
+          "draw": 7,
           "lost": 4,
-          "points": 27,
-          "goalsFor": 19,
-          "goalsAgainst": 17,
+          "points": 28,
+          "goalsFor": 20,
+          "goalsAgainst": 18,
           "goalDifference": 2
         },
         {
@@ -189,15 +189,15 @@
             "tla": "CRY",
             "crest": "https://crests.football-data.org/354.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
           "won": 7,
           "draw": 5,
-          "lost": 5,
+          "lost": 6,
           "points": 26,
           "goalsFor": 21,
-          "goalsAgainst": 19,
-          "goalDifference": 2
+          "goalsAgainst": 20,
+          "goalDifference": 1
         },
         {
           "position": 10,
@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 73,
+            "name": "Tottenham Hotspur FC",
+            "shortName": "Tottenham",
+            "tla": "TOT",
+            "crest": "https://crests.football-data.org/73.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 7,
+          "draw": 4,
+          "lost": 7,
+          "points": 25,
+          "goalsFor": 27,
+          "goalsAgainst": 23,
+          "goalDifference": 4
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 62,
             "name": "Everton FC",
             "shortName": "Everton",
@@ -238,7 +257,7 @@
           "goalDifference": -2
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 397,
             "name": "Brighton & Hove Albion FC",
@@ -257,7 +276,7 @@
           "goalDifference": 1
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 67,
             "name": "Newcastle United FC",
@@ -274,25 +293,6 @@
           "goalsFor": 23,
           "goalsAgainst": 23,
           "goalDifference": 0
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 73,
-            "name": "Tottenham Hotspur FC",
-            "shortName": "Tottenham",
-            "tla": "TOT",
-            "crest": "https://crests.football-data.org/73.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 6,
-          "draw": 4,
-          "lost": 7,
-          "points": 22,
-          "goalsFor": 26,
-          "goalsAgainst": 23,
-          "goalDifference": 3
         },
         {
           "position": 15,
@@ -322,14 +322,14 @@
             "tla": "LEE",
             "crest": "https://crests.football-data.org/341.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
           "won": 5,
-          "draw": 4,
+          "draw": 5,
           "lost": 8,
-          "points": 19,
-          "goalsFor": 24,
-          "goalsAgainst": 31,
+          "points": 20,
+          "goalsFor": 25,
+          "goalsAgainst": 32,
           "goalDifference": -7
         },
         {
