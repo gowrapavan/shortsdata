@@ -130,6 +130,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 179172,
+        "name": "Rafael Monteiro",
+        "position": "Defence",
+        "dateOfBirth": "2004-02-14",
+        "nationality": "Brazil"
+      },
+      {
         "id": 221385,
         "name": "Julio Cesar",
         "position": "Defence",
@@ -868,15 +875,15 @@
       }
     ],
     "coach": {
-      "id": 11123,
+      "id": 45492,
       "firstName": "",
-      "lastName": "Mano Menezes",
-      "name": "Mano Menezes",
-      "dateOfBirth": "1962-06-11",
-      "nationality": "Brazil",
+      "lastName": "Luís Castro",
+      "name": "Luís Castro",
+      "dateOfBirth": "1961-09-03",
+      "nationality": "Portugal",
       "contract": {
-        "start": "2025-04",
-        "until": "2025-12"
+        "start": "2025-12",
+        "until": "2027-12"
       }
     },
     "squad": [
@@ -1255,7 +1262,7 @@
       "nationality": "Portugal",
       "contract": {
         "start": "2020-10",
-        "until": "2025-12"
+        "until": "2026-12"
       }
     },
     "squad": [
@@ -1560,17 +1567,24 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      {
+        "id": 2152,
+        "name": "Copa Libertadores",
+        "code": "CLI",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/CLI.svg"
       }
     ],
     "coach": {
-      "id": 178633,
-      "firstName": "Davide",
-      "lastName": "Ancelotti",
-      "name": "Davide Ancelotti",
-      "dateOfBirth": "1989-07-22",
-      "nationality": "Italy",
+      "id": 179333,
+      "firstName": "Martín",
+      "lastName": "Anselmi",
+      "name": "Martin Anselmi",
+      "dateOfBirth": "1980-02-21",
+      "nationality": "Argentina",
       "contract": {
-        "start": "2025-07",
+        "start": "2025-12",
         "until": "2026-12"
       }
     },
@@ -1765,6 +1779,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 169710,
+        "name": "Luis Oyama",
+        "position": "Midfield",
+        "dateOfBirth": "1997-01-30",
+        "nationality": "Brazil"
+      },
+      {
         "id": 203361,
         "name": "Bernardo Valim",
         "position": "Midfield",
@@ -1804,13 +1825,6 @@
         "name": "Lucyo",
         "position": "Midfield",
         "dateOfBirth": "2006-03-15",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 274153,
-        "name": "Ryan Do Couto",
-        "position": "Midfield",
-        "dateOfBirth": "2005-03-03",
         "nationality": "Brazil"
       },
       {
@@ -1949,15 +1963,15 @@
       }
     ],
     "coach": {
-      "id": 289745,
+      "id": 33639,
       "firstName": "",
-      "lastName": "Mairon César",
-      "name": "Mairon César",
-      "dateOfBirth": "1986-03-27",
+      "lastName": "Tite",
+      "name": "Tite",
+      "dateOfBirth": "1961-05-25",
       "nationality": "Brazil",
       "contract": {
         "start": "2025-12",
-        "until": "2025-12"
+        "until": "2026-12"
       }
     },
     "squad": [
@@ -2474,13 +2488,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 21687,
-        "name": "Oscar",
-        "position": "Midfield",
-        "dateOfBirth": "1991-09-09",
-        "nationality": "Brazil"
-      },
-      {
         "id": 85523,
         "name": "Marcos Antônio",
         "position": "Midfield",
@@ -2662,6 +2669,13 @@
         "code": "BSA",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      {
+        "id": 2152,
+        "name": "Copa Libertadores",
+        "code": "CLI",
+        "type": "CUP",
+        "emblem": "https://crests.football-data.org/CLI.svg"
       }
     ],
     "coach": {
@@ -2673,7 +2687,7 @@
       "nationality": "Brazil",
       "contract": {
         "start": "2023-09",
-        "until": "2025-12"
+        "until": "2026-12"
       }
     },
     "squad": [
@@ -2916,13 +2930,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 203334,
-        "name": "Vitinho",
-        "position": "Midfield",
-        "dateOfBirth": "2004-04-28",
-        "nationality": "Brazil"
-      },
-      {
         "id": 203386,
         "name": "Sidney",
         "position": "Midfield",
@@ -3150,7 +3157,7 @@
       "nationality": "Brazil",
       "contract": {
         "start": "2025-10",
-        "until": "2025-12"
+        "until": "2026-12"
       }
     },
     "squad": [
@@ -3250,6 +3257,13 @@
         "name": "Leo Augusto",
         "position": "Defence",
         "dateOfBirth": "2000-06-29",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 165599,
+        "name": "Renzo",
+        "position": "Defence",
+        "dateOfBirth": "2001-10-17",
         "nationality": "Brazil"
       },
       {
@@ -3943,7 +3957,7 @@
       "nationality": "Brazil",
       "contract": {
         "start": "2025-05",
-        "until": "2025-12"
+        "until": "2026-12"
       }
     },
     "squad": [
@@ -4235,11 +4249,11 @@
         "nationality": "Brazil"
       },
       {
-        "id": 23629,
-        "name": "Jean Meneses",
-        "position": "Offence",
-        "dateOfBirth": "1993-03-16",
-        "nationality": "Chile"
+        "id": 290126,
+        "name": "Lora Capanema",
+        "position": "Midfield",
+        "dateOfBirth": "1993-07-09",
+        "nationality": "Brazil"
       },
       {
         "id": 59859,
@@ -4267,13 +4281,6 @@
         "name": "Rayan",
         "position": "Offence",
         "dateOfBirth": "2006-08-03",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 221205,
-        "name": "Léo Jacó",
-        "position": "Offence",
-        "dateOfBirth": "2005-04-06",
         "nationality": "Brazil"
       },
       {
@@ -4628,13 +4635,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 277420,
-        "name": "Wanderson",
-        "position": "Midfield",
-        "dateOfBirth": "2005-07-27",
-        "nationality": "Brazil"
-      },
-      {
         "id": 278380,
         "name": "Maykon",
         "position": "Midfield",
@@ -4778,7 +4778,7 @@
       "nationality": "Brazil",
       "contract": {
         "start": "2024-09",
-        "until": "2025-12"
+        "until": "2026-12"
       }
     },
     "squad": [
@@ -5170,15 +5170,15 @@
       }
     ],
     "coach": {
-      "id": 181493,
+      "id": 147934,
       "firstName": "",
-      "lastName": "Leo Condé",
-      "name": "Leo Condé",
-      "dateOfBirth": "1978-04-21",
+      "lastName": "Mozart",
+      "name": "Mozart",
+      "dateOfBirth": "1979-11-08",
       "nationality": "Brazil",
       "contract": {
-        "start": "2024-07",
-        "until": "2025-12"
+        "start": "2025-12",
+        "until": "2026-12"
       }
     },
     "squad": [
@@ -5428,6 +5428,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 61015,
+        "name": "Janderson",
+        "position": "Offence",
+        "dateOfBirth": "1999-02-26",
+        "nationality": "Brazil"
+      },
+      {
         "id": 179043,
         "name": "Antonio Galeano",
         "position": "Offence",
@@ -5460,13 +5467,6 @@
         "name": "Kadu",
         "position": "Offence",
         "dateOfBirth": "2004-12-27",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 286951,
-        "name": "Paula",
-        "position": "Offence",
-        "dateOfBirth": "1992-09-24",
         "nationality": "Brazil"
       },
       {
@@ -5514,15 +5514,15 @@
       }
     ],
     "coach": {
-      "id": 23717,
-      "firstName": "Martín",
-      "lastName": "Palermo",
-      "name": "Martín Palermo",
-      "dateOfBirth": "1973-11-07",
-      "nationality": "Argentina",
+      "id": 19611,
+      "firstName": "",
+      "lastName": "Thiago Carpini",
+      "name": "Thiago Carpini",
+      "dateOfBirth": "1984-07-16",
+      "nationality": "Brazil",
       "contract": {
-        "start": "2025-09",
-        "until": "2025-12"
+        "start": "2025-12",
+        "until": "2026-12"
       }
     },
     "squad": [
@@ -5856,13 +5856,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 250572,
-        "name": "Cachoeira",
-        "position": "Offence",
-        "dateOfBirth": "2002-04-25",
-        "nationality": "Brazil"
-      },
-      {
         "id": 264049,
         "name": "Kaiky",
         "position": "Offence",
@@ -5942,15 +5935,15 @@
       }
     ],
     "coach": {
-      "id": 19611,
+      "id": 203346,
       "firstName": "",
-      "lastName": "Thiago Carpini",
-      "name": "Thiago Carpini",
-      "dateOfBirth": "1984-07-16",
+      "lastName": "Mauricio Barbieri",
+      "name": "Mauricio Barbieri",
+      "dateOfBirth": "1981-09-30",
       "nationality": "Brazil",
       "contract": {
-        "start": "2025-08",
-        "until": "2025-12"
+        "start": "2025-12",
+        "until": "2026-12"
       }
     },
     "squad": [
@@ -6078,13 +6071,6 @@
         "name": "Bernardo Tichz",
         "position": "Defence",
         "dateOfBirth": "2005-03-11",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 1083,
-        "name": "Jádson",
-        "position": "Midfield",
-        "dateOfBirth": "1993-08-30",
         "nationality": "Brazil"
       },
       {
@@ -6579,13 +6565,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 189633,
-        "name": "Dija",
-        "position": "Midfield",
-        "dateOfBirth": "2003-04-14",
-        "nationality": "Brazil"
-      },
-      {
         "id": 192621,
         "name": "Gustavinho",
         "position": "Midfield",
@@ -6597,13 +6576,6 @@
         "name": "André Cardoso",
         "position": "Midfield",
         "dateOfBirth": "2003-05-17",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 249304,
-        "name": "Alexandre Cesar",
-        "position": "Midfield",
-        "dateOfBirth": "2005-02-21",
         "nationality": "Brazil"
       },
       {
@@ -6757,7 +6729,7 @@
       "nationality": "Brazil",
       "contract": {
         "start": "2025-03",
-        "until": "2025-12"
+        "until": "2026-12"
       }
     },
     "squad": [
@@ -6773,6 +6745,13 @@
         "name": "Alex Muralha",
         "position": "Goalkeeper",
         "dateOfBirth": "1989-11-10",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 192633,
+        "name": "Sidnei",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2003-03-28",
         "nationality": "Brazil"
       },
       {
@@ -6867,13 +6846,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 13110,
-        "name": "Matheus Sales",
-        "position": "Midfield",
-        "dateOfBirth": "1995-05-13",
-        "nationality": "Brazil"
-      },
-      {
         "id": 13860,
         "name": "Danielzinho",
         "position": "Midfield",
@@ -6965,13 +6937,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 40067,
-        "name": "Chico",
-        "position": "Offence",
-        "dateOfBirth": "1995-05-05",
-        "nationality": "Brazil"
-      },
-      {
         "id": 179086,
         "name": "Renato Marques",
         "position": "Offence",
@@ -7016,14 +6981,14 @@
       }
     ],
     "coach": {
-      "id": 211595,
-      "firstName": "Ramón",
-      "lastName": "Díaz",
-      "name": "Ramón Díaz",
-      "dateOfBirth": "1959-08-29",
-      "nationality": "Argentina",
+      "id": 28355,
+      "firstName": "Paulo",
+      "lastName": "Pezzolano",
+      "name": "Paulo Pezzolano",
+      "dateOfBirth": "1983-04-25",
+      "nationality": "Uruguay",
       "contract": {
-        "start": "2025-09",
+        "start": "2025-12",
         "until": "2026-12"
       }
     },
@@ -7527,24 +7492,10 @@
         "nationality": "Argentina"
       },
       {
-        "id": 169102,
-        "name": "Kevin Malthus",
-        "position": "Midfield",
-        "dateOfBirth": "2003-01-11",
-        "nationality": "Brazil"
-      },
-      {
         "id": 178854,
         "name": "Victor Hugo Gomes",
         "position": "Midfield",
         "dateOfBirth": "2004-05-11",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 183577,
-        "name": "Ed Carlos",
-        "position": "Midfield",
-        "dateOfBirth": "2001-03-19",
         "nationality": "Brazil"
       },
       {

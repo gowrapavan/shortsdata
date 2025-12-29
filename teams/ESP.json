@@ -1904,7 +1904,7 @@
         "name": "Brahim Diaz",
         "position": "Right Winger",
         "dateOfBirth": "1999-08-03",
-        "nationality": "Spain"
+        "nationality": "Morocco"
       },
       {
         "id": 7867,
@@ -2504,6 +2504,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 290072,
+        "name": "Kareem Tunde",
+        "position": "Offence",
+        "dateOfBirth": "2005-08-19",
+        "nationality": "Spain"
+      },
+      {
         "id": 161293,
         "name": "Jon Olasagasti",
         "position": "Central Midfield",
@@ -2649,6 +2656,13 @@
         "name": "Javier Olaizola",
         "position": "Midfield",
         "dateOfBirth": "2007-03-15",
+        "nationality": "Spain"
+      },
+      {
+        "id": 290006,
+        "name": "Jandro García",
+        "position": "Midfield",
+        "dateOfBirth": "2006-02-23",
         "nationality": "Spain"
       },
       {
@@ -3138,14 +3152,14 @@
       }
     ],
     "coach": {
-      "id": 279928,
-      "firstName": "",
-      "lastName": "Sergio Francisco",
-      "name": "Sergio Francisco",
-      "dateOfBirth": "1979-03-19",
-      "nationality": "Spain",
+      "id": 10232,
+      "firstName": "Pellegrino",
+      "lastName": "Matarazzo",
+      "name": "Pellegrino Matarazzo",
+      "dateOfBirth": "1977-11-28",
+      "nationality": "USA",
       "contract": {
-        "start": "2025-07",
+        "start": "2025-12",
         "until": "2027-06"
       }
     },
@@ -3214,11 +3228,25 @@
         "nationality": "Spain"
       },
       {
+        "id": 283802,
+        "name": "Lander",
+        "position": "Midfield",
+        "dateOfBirth": "2006-04-07",
+        "nationality": "Spain"
+      },
+      {
         "id": 182319,
         "name": "Orri Oskarsson",
         "position": "Offence",
         "dateOfBirth": "2004-08-29",
         "nationality": "Iceland"
+      },
+      {
+        "id": 272953,
+        "name": "Arkaitz Mariezkurrena",
+        "position": "Offence",
+        "dateOfBirth": "2005-04-05",
+        "nationality": "Spain"
       },
       {
         "id": 272956,
@@ -3240,13 +3268,6 @@
         "position": "Offence",
         "dateOfBirth": "2005-05-15",
         "nationality": "Spain"
-      },
-      {
-        "id": 170540,
-        "name": "Arsen Zakharyan",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2003-05-26",
-        "nationality": "Russia"
       },
       {
         "id": 156615,
@@ -3394,6 +3415,13 @@
         "position": "Centre-Forward",
         "dateOfBirth": "2002-09-19",
         "nationality": "Spain"
+      },
+      {
+        "id": 170540,
+        "name": "Arsen Zakharyan",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2003-05-26",
+        "nationality": "Russia"
       }
     ],
     "staff": [],
@@ -3514,13 +3542,6 @@
         "position": "Midfield",
         "dateOfBirth": "2005-05-14",
         "nationality": "Senegal"
-      },
-      {
-        "id": 285597,
-        "name": "Hugo López",
-        "position": "Midfield",
-        "dateOfBirth": null,
-        "nationality": "Spain"
       },
       {
         "id": 289770,
@@ -3766,6 +3787,13 @@
         "name": "Julen Agirrezabala",
         "position": "Goalkeeper",
         "dateOfBirth": "2000-12-26",
+        "nationality": "Spain"
+      },
+      {
+        "id": 251106,
+        "name": "Vicent Abril",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2005-02-15",
         "nationality": "Spain"
       },
       {
@@ -5188,6 +5216,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 289968,
+        "name": "Loren Luchino",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2006-03-20",
+        "nationality": "Argentina"
+      },
+      {
         "id": 180165,
         "name": "Castrin",
         "position": "Defence",
@@ -5199,6 +5234,13 @@
         "name": "Ramón Martínez",
         "position": "Defence",
         "dateOfBirth": "2002-10-22",
+        "nationality": "Spain"
+      },
+      {
+        "id": 289967,
+        "name": "Iker Ortín",
+        "position": "Defence",
+        "dateOfBirth": "2004-01-05",
         "nationality": "Spain"
       },
       {
@@ -5363,20 +5405,6 @@
         "nationality": "Spain"
       },
       {
-        "id": 289968,
-        "name": "Loren Luchino",
-        "position": null,
-        "dateOfBirth": "2006-03-20",
-        "nationality": "Argentina"
-      },
-      {
-        "id": 289967,
-        "name": "Iker Ortín",
-        "position": null,
-        "dateOfBirth": "2004-01-05",
-        "nationality": "Spain"
-      },
-      {
         "id": 244751,
         "name": "Oso",
         "position": "Left Winger",
@@ -5442,14 +5470,14 @@
       }
     ],
     "coach": {
-      "id": 32347,
-      "firstName": "",
-      "lastName": "Carrión",
-      "name": "Luis Carrión",
-      "dateOfBirth": "1979-02-07",
-      "nationality": "Spain",
+      "id": 181409,
+      "firstName": "Jorge",
+      "lastName": "Almada",
+      "name": "Jorge Almada",
+      "dateOfBirth": "1969-06-18",
+      "nationality": "Uruguay",
       "contract": {
-        "start": "2025-10",
+        "start": "2025-12",
         "until": "2026-06"
       }
     },

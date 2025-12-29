@@ -186,6 +186,13 @@
         "nationality": "England"
       },
       {
+        "id": 290060,
+        "name": "Nathan Dlamini",
+        "position": "Midfield",
+        "dateOfBirth": null,
+        "nationality": "England"
+      },
+      {
         "id": 102314,
         "name": "Augustus Kargbo",
         "position": "Offence",
@@ -198,6 +205,13 @@
         "position": "Offence",
         "dateOfBirth": "2002-01-29",
         "nationality": "Iceland"
+      },
+      {
+        "id": 215241,
+        "name": "Aodhan Doherty",
+        "position": "Offence",
+        "dateOfBirth": "2006-05-03",
+        "nationality": "Northern Ireland"
       },
       {
         "id": 250640,
@@ -1514,11 +1528,25 @@
         "nationality": "USA"
       },
       {
+        "id": 264338,
+        "name": "Mo Diomande",
+        "position": "Defence",
+        "dateOfBirth": "2006-02-16",
+        "nationality": "Italy"
+      },
+      {
         "id": 283115,
         "name": "Alex Williams",
         "position": "Defence",
         "dateOfBirth": "2005-01-02",
         "nationality": "Wales"
+      },
+      {
+        "id": 290136,
+        "name": "Noah Dupont",
+        "position": "Defence",
+        "dateOfBirth": "2007-10-18",
+        "nationality": "New Zealand"
       },
       {
         "id": 5073,
@@ -1533,6 +1561,13 @@
         "position": "Midfield",
         "dateOfBirth": "2003-09-26",
         "nationality": "Northern Ireland"
+      },
+      {
+        "id": 245402,
+        "name": "Kevin Mfuamba",
+        "position": "Midfield",
+        "dateOfBirth": "2006-08-25",
+        "nationality": "England"
       },
       {
         "id": 273841,
@@ -1792,13 +1827,6 @@
         "name": "Nathan Tinsdale",
         "position": "Midfield",
         "dateOfBirth": "2004-12-20",
-        "nationality": "England"
-      },
-      {
-        "id": 282509,
-        "name": "Pharrell Brown",
-        "position": "Midfield",
-        "dateOfBirth": "2005-08-30",
         "nationality": "England"
       },
       {
@@ -2076,13 +2104,6 @@
         "nationality": "Australia"
       },
       {
-        "id": 260993,
-        "name": "Reuben Swann",
-        "position": "Midfield",
-        "dateOfBirth": null,
-        "nationality": "England"
-      },
-      {
         "id": 283117,
         "name": "Fraser Thomas",
         "position": "Midfield",
@@ -2144,13 +2165,6 @@
         "position": "Offence",
         "dateOfBirth": null,
         "nationality": "England"
-      },
-      {
-        "id": 127875,
-        "name": "Terry Devlin",
-        "position": "Central Midfield",
-        "dateOfBirth": "2003-11-06",
-        "nationality": "Northern Ireland"
       },
       {
         "id": 48352,
@@ -2256,6 +2270,13 @@
         "position": "Right-Back",
         "dateOfBirth": "2000-09-28",
         "nationality": "England"
+      },
+      {
+        "id": 127875,
+        "name": "Terry Devlin",
+        "position": "Central Midfield",
+        "dateOfBirth": "2003-11-06",
+        "nationality": "Northern Ireland"
       }
     ],
     "staff": [],
@@ -2404,6 +2425,13 @@
         "position": "Midfield",
         "dateOfBirth": "1997-03-17",
         "nationality": "South Korea"
+      },
+      {
+        "id": 290134,
+        "name": "George Wynne",
+        "position": "Midfield",
+        "dateOfBirth": null,
+        "nationality": "England"
       },
       {
         "id": 34513,
@@ -3376,13 +3404,6 @@
         "nationality": "Senegal"
       },
       {
-        "id": 4639,
-        "name": "Tom Glover",
-        "position": "Goalkeeper",
-        "dateOfBirth": "1997-12-24",
-        "nationality": "Australia"
-      },
-      {
         "id": 34683,
         "name": "Jon McLaughlin",
         "position": "Goalkeeper",
@@ -3664,13 +3685,6 @@
         "nationality": "Northern Ireland"
       },
       {
-        "id": 272231,
-        "name": "Killian Barrett",
-        "position": "Goalkeeper",
-        "dateOfBirth": null,
-        "nationality": "Ireland"
-      },
-      {
         "id": 282801,
         "name": "Logan Stretch",
         "position": "Goalkeeper",
@@ -3808,6 +3822,13 @@
         "name": "George Brown",
         "position": "Offence",
         "dateOfBirth": null,
+        "nationality": "England"
+      },
+      {
+        "id": 290135,
+        "name": "Devlan Moses",
+        "position": "Offence",
+        "dateOfBirth": "2005-10-17",
         "nationality": "England"
       },
       {
@@ -4050,6 +4071,20 @@
         "nationality": "Portugal"
       },
       {
+        "id": 246911,
+        "name": "Amin Nabizada",
+        "position": "Offence",
+        "dateOfBirth": "2007-06-21",
+        "nationality": "Afghanistan"
+      },
+      {
+        "id": 156630,
+        "name": "Formose Mendy",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-01-02",
+        "nationality": "Senegal"
+      },
+      {
         "id": 137657,
         "name": "Jeremy Ngakia",
         "position": "Right-Back",
@@ -4167,13 +4202,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "2004-01-26",
         "nationality": "Cameroon"
-      },
-      {
-        "id": 156630,
-        "name": "Formose Mendy",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-01-02",
-        "nationality": "Senegal"
       }
     ],
     "staff": [],
@@ -5118,13 +5146,6 @@
         "nationality": "England"
       },
       {
-        "id": 277703,
-        "name": "Ben Drake",
-        "position": "Defence",
-        "dateOfBirth": "2005-01-06",
-        "nationality": "England"
-      },
-      {
         "id": 172759,
         "name": "Thierno Ballo",
         "position": "Midfield",
@@ -5186,13 +5207,6 @@
         "position": "Offence",
         "dateOfBirth": null,
         "nationality": "England"
-      },
-      {
-        "id": 137396,
-        "name": "William Smallbone",
-        "position": "Central Midfield",
-        "dateOfBirth": "2000-02-21",
-        "nationality": "Ireland"
       },
       {
         "id": 131115,
@@ -5326,6 +5340,13 @@
         "position": "Right Winger",
         "dateOfBirth": "2001-11-06",
         "nationality": "Algeria"
+      },
+      {
+        "id": 137396,
+        "name": "William Smallbone",
+        "position": "Central Midfield",
+        "dateOfBirth": "2000-02-21",
+        "nationality": "Ireland"
       }
     ],
     "staff": [],
@@ -5810,6 +5831,13 @@
         "name": "Lewis O'Brien",
         "position": "Central Midfield",
         "dateOfBirth": "1998-10-14",
+        "nationality": "England"
+      },
+      {
+        "id": 8032,
+        "name": "Jay Rodriguez",
+        "position": "Centre-Forward",
+        "dateOfBirth": "1989-07-29",
         "nationality": "England"
       },
       {

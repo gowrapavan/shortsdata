@@ -348,6 +348,13 @@
         "nationality": "Ivory Coast"
       },
       {
+        "id": 213298,
+        "name": "Rômulo",
+        "position": "Defence",
+        "dateOfBirth": "2004-01-31",
+        "nationality": "Brazil"
+      },
+      {
         "id": 229418,
         "name": "Rayan Lucas",
         "position": "Defence",
@@ -1620,6 +1627,13 @@
         "nationality": "Portugal"
       },
       {
+        "id": 98947,
+        "name": "Rodrigo Conceição",
+        "position": "Defence",
+        "dateOfBirth": "2000-01-02",
+        "nationality": "Portugal"
+      },
+      {
         "id": 146970,
         "name": "Christian Marques",
         "position": "Defence",
@@ -1739,20 +1753,6 @@
         "nationality": "Colombia"
       },
       {
-        "id": 251133,
-        "name": "Xabi Huarte",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2001-02-25",
-        "nationality": "Spain"
-      },
-      {
-        "id": 188926,
-        "name": "Joe Hodge",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2004-06-05",
-        "nationality": "England"
-      },
-      {
         "id": 148272,
         "name": "Rémy Vita",
         "position": "Left-Back",
@@ -1779,6 +1779,20 @@
         "position": "Centre-Forward",
         "dateOfBirth": "1996-04-26",
         "nationality": "USA"
+      },
+      {
+        "id": 251133,
+        "name": "Xabi Huarte",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2001-02-25",
+        "nationality": "Spain"
+      },
+      {
+        "id": 188926,
+        "name": "Joe Hodge",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2004-06-05",
+        "nationality": "England"
       }
     ],
     "staff": [],
@@ -1878,6 +1892,13 @@
         "position": "Defence",
         "dateOfBirth": "2004-02-24",
         "nationality": "Spain"
+      },
+      {
+        "id": 282871,
+        "name": "Daniel Banjaqui",
+        "position": "Defence",
+        "dateOfBirth": "2008-03-24",
+        "nationality": "Portugal"
       },
       {
         "id": 289781,
@@ -3353,6 +3374,13 @@
         "position": "Centre-Forward",
         "dateOfBirth": "1991-08-08",
         "nationality": "Portugal"
+      },
+      {
+        "id": 290177,
+        "name": "André Oliveira",
+        "position": null,
+        "dateOfBirth": "2006-02-15",
+        "nationality": "Portugal"
       }
     ],
     "staff": [],
@@ -3645,14 +3673,14 @@
       }
     ],
     "coach": {
-      "id": 261161,
+      "id": 45164,
       "firstName": "",
-      "lastName": "João Pereira",
-      "name": "João Pereira",
-      "dateOfBirth": "1992-02-06",
+      "lastName": "Brandão",
+      "name": "Gonçalo Brandão",
+      "dateOfBirth": "1986-10-09",
       "nationality": "Portugal",
       "contract": {
-        "start": "2024-07",
+        "start": "2025-11",
         "until": "2026-06"
       }
     },
@@ -3951,13 +3979,6 @@
         "position": "Defence",
         "dateOfBirth": "2005-05-29",
         "nationality": "Portugal"
-      },
-      {
-        "id": 249478,
-        "name": "Talisca",
-        "position": "Defence",
-        "dateOfBirth": "2003-03-20",
-        "nationality": "Brazil"
       },
       {
         "id": 253528,
@@ -4495,15 +4516,15 @@
       }
     ],
     "coach": {
-      "id": 125164,
+      "id": 37705,
       "firstName": "",
-      "lastName": "João Pedro",
-      "name": "João Pedro Sousa",
-      "dateOfBirth": "1971-08-04",
-      "nationality": "Angola",
+      "lastName": "João Henriques",
+      "name": "João Henriques",
+      "dateOfBirth": "1972-10-31",
+      "nationality": "Portugal",
       "contract": {
-        "start": "2025-09",
-        "until": "2027-06"
+        "start": "2025-12",
+        "until": "2026-06"
       }
     },
     "squad": [
