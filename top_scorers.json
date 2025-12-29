@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-28T06:15:22.008538Z",
+    "last_updated": "2025-12-29T06:18:54.204155Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -43,11 +43,20 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Dominic Calvert-Lewin",
+                    "team_name": "Leeds United FC",
+                    "team_crest": "https://crests.football-data.org/341.png",
+                    "goals": 8,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Richarlison",
                     "team_name": "Tottenham Hotspur FC",
                     "team_crest": "https://crests.football-data.org/73.png",
                     "goals": 7,
-                    "assists": 2,
+                    "assists": 3,
                     "penalties": null,
                     "nationality": "Brazil"
                 },
@@ -76,15 +85,6 @@
                     "goals": 7,
                     "assists": 2,
                     "penalties": null,
-                    "nationality": "England"
-                },
-                {
-                    "player_name": "Dominic Calvert-Lewin",
-                    "team_name": "Leeds United FC",
-                    "team_crest": "https://crests.football-data.org/341.png",
-                    "goals": 7,
-                    "assists": null,
-                    "penalties": 1,
                     "nationality": "England"
                 },
                 {
@@ -204,7 +204,7 @@
                     "player_name": "Lautaro Martínez",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
-                    "goals": 8,
+                    "goals": 9,
                     "assists": 3,
                     "penalties": null,
                     "nationality": "Argentina"
@@ -213,7 +213,7 @@
                     "player_name": "Christian Pulisic",
                     "team_name": "AC Milan",
                     "team_crest": "https://crests.football-data.org/98.png",
-                    "goals": 7,
+                    "goals": 8,
                     "assists": 2,
                     "penalties": null,
                     "nationality": "USA"
@@ -255,6 +255,15 @@
                     "nationality": "Turkey"
                 },
                 {
+                    "player_name": "Rasmus Højlund",
+                    "team_name": "SSC Napoli",
+                    "team_crest": "https://crests.football-data.org/113.png",
+                    "goals": 6,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Denmark"
+                },
+                {
                     "player_name": "Federico Bonazzoli",
                     "team_name": "US Cremonese",
                     "team_crest": "https://crests.football-data.org/457.png",
@@ -280,15 +289,6 @@
                     "assists": null,
                     "penalties": 1,
                     "nationality": "Italy"
-                },
-                {
-                    "player_name": "Keinan Davis",
-                    "team_name": "Udinese Calcio",
-                    "team_crest": "https://crests.football-data.org/115.png",
-                    "goals": 5,
-                    "assists": 2,
-                    "penalties": 2,
-                    "nationality": "England"
                 }
             ]
         },
