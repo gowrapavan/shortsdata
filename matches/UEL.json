@@ -7039,7 +7039,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-29",
     "DateTime": "2025-12-29T20:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 332,
@@ -7050,12 +7050,12 @@
     "AwayTeamName": "Southampton FC",
     "HomeTeamLogo": "https://crests.football-data.org/332.png",
     "AwayTeamLogo": "https://crests.football-data.org/340.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "332": 0,
-      "340": 0
+      "332": 1,
+      "340": 1
     },
     "Goals": []
   },
@@ -7091,7 +7091,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-29",
     "DateTime": "2025-12-29T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 338,
@@ -7104,9 +7104,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/342.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 338,
     "Points": {
-      "338": 0,
+      "338": 3,
       "342": 0
     },
     "Goals": []
@@ -7117,7 +7117,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-29",
     "DateTime": "2025-12-29T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 343,
@@ -7130,10 +7130,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/322.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 322,
     "Points": {
       "343": 0,
-      "322": 0
+      "322": 3
     },
     "Goals": []
   },
@@ -7143,7 +7143,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-29",
     "DateTime": "2025-12-29T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 384,
@@ -7154,11 +7154,11 @@
     "AwayTeamName": "Bristol City FC",
     "HomeTeamLogo": "https://crests.football-data.org/384.png",
     "AwayTeamLogo": "https://crests.football-data.org/387.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 384,
     "Points": {
-      "384": 0,
+      "384": 3,
       "387": 0
     },
     "Goals": []
@@ -7169,7 +7169,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-29",
     "DateTime": "2025-12-29T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 68,
@@ -7181,11 +7181,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/68.png",
     "AwayTeamLogo": "https://crests.football-data.org/346.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 346,
     "Points": {
       "68": 0,
-      "346": 0
+      "346": 3
     },
     "Goals": []
   },
@@ -7195,7 +7195,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-29",
     "DateTime": "2025-12-29T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1082,
@@ -7208,10 +7208,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/72.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 72,
     "Points": {
       "1082": 0,
-      "72": 0
+      "72": 3
     },
     "Goals": []
   },
@@ -7221,7 +7221,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-29",
     "DateTime": "2025-12-29T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 325,
@@ -7232,11 +7232,11 @@
     "AwayTeamName": "Charlton Athletic FC",
     "HomeTeamLogo": "https://crests.football-data.org/325.png",
     "AwayTeamLogo": "https://crests.football-data.org/348.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 325,
     "Points": {
-      "325": 0,
+      "325": 3,
       "348": 0
     },
     "Goals": []
@@ -7247,7 +7247,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-29",
     "DateTime": "2025-12-29T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 345,
@@ -7262,8 +7262,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "345": 0,
-      "59": 0
+      "345": 1,
+      "59": 1
     },
     "Goals": []
   },
@@ -7273,7 +7273,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-29",
     "DateTime": "2025-12-29T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 70,
@@ -7286,10 +7286,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/356.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 356,
     "Points": {
       "70": 0,
-      "356": 0
+      "356": 3
     },
     "Goals": []
   },
@@ -7299,7 +7299,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-29",
     "DateTime": "2025-12-29T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 74,
@@ -7312,9 +7312,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/69.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 74,
     "Points": {
-      "74": 0,
+      "74": 3,
       "69": 0
     },
     "Goals": []
@@ -7325,7 +7325,7 @@
     "RoundName": "Championship",
     "Date": "2025-12-29",
     "DateTime": "2025-12-29T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 404,
@@ -7336,11 +7336,11 @@
     "AwayTeamName": "Preston North End FC",
     "HomeTeamLogo": "https://crests.football-data.org/404.png",
     "AwayTeamLogo": "https://crests.football-data.org/1081.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 404,
     "Points": {
-      "404": 0,
+      "404": 3,
       "1081": 0
     },
     "Goals": []
