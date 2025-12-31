@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-30T06:16:36.850676Z",
+    "last_updated": "2025-12-31T06:16:47.591226Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -52,6 +52,15 @@
                     "nationality": "England"
                 },
                 {
+                    "player_name": "Danny Welbeck",
+                    "team_name": "Brighton & Hove Albion FC",
+                    "team_crest": "https://crests.football-data.org/397.png",
+                    "goals": 8,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Richarlison",
                     "team_name": "Tottenham Hotspur FC",
                     "team_crest": "https://crests.football-data.org/73.png",
@@ -84,15 +93,6 @@
                     "team_crest": "https://crests.football-data.org/65.png",
                     "goals": 7,
                     "assists": 2,
-                    "penalties": null,
-                    "nationality": "England"
-                },
-                {
-                    "player_name": "Danny Welbeck",
-                    "team_name": "Brighton & Hove Albion FC",
-                    "team_crest": "https://crests.football-data.org/397.png",
-                    "goals": 7,
-                    "assists": null,
                     "penalties": null,
                     "nationality": "England"
                 }
