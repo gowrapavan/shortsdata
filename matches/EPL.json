@@ -4596,8 +4596,8 @@
     "AwayTeamName": "Manchester City FC",
     "HomeTeamLogo": "https://crests.football-data.org/71.png",
     "AwayTeamLogo": "https://crests.football-data.org/65.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "71": 0,
@@ -4611,7 +4611,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-01",
     "DateTime": "2026-01-01T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 354,
@@ -4623,11 +4623,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/354.png",
     "AwayTeamLogo": "https://crests.football-data.org/63.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "354": 0,
-      "63": 0
+      "354": 1,
+      "63": 1
     },
     "Goals": []
   },
@@ -4674,8 +4674,8 @@
     "AwayTeamName": "Tottenham Hotspur FC",
     "HomeTeamLogo": "https://crests.football-data.org/402.png",
     "AwayTeamLogo": "https://crests.football-data.org/73.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "402": 0,
@@ -4741,7 +4741,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-01",
     "DateTime": "2026-01-01T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 64,
@@ -4756,8 +4756,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "64": 0,
-      "341": 0
+      "64": 1,
+      "341": 1
     },
     "Goals": []
   },

@@ -7559,7 +7559,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-01",
     "DateTime": "2026-01-01T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 356,
@@ -7570,11 +7570,11 @@
     "AwayTeamName": "Leicester City FC",
     "HomeTeamLogo": "https://crests.football-data.org/356.png",
     "AwayTeamLogo": "https://crests.football-data.org/338.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 356,
     "Points": {
-      "356": 0,
+      "356": 3,
       "338": 0
     },
     "Goals": []
