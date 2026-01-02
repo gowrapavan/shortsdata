@@ -39,13 +39,13 @@
           },
           "playedGames": 17,
           "form": null,
-          "won": 12,
-          "draw": 2,
+          "won": 13,
+          "draw": 1,
           "lost": 3,
-          "points": 38,
-          "goalsFor": 28,
+          "points": 40,
+          "goalsFor": 31,
           "goalsAgainst": 13,
-          "goalDifference": 15
+          "goalDifference": 18
         },
         {
           "position": 2,
@@ -145,25 +145,6 @@
         {
           "position": 7,
           "team": {
-            "id": 511,
-            "name": "Toulouse FC",
-            "shortName": "Toulouse",
-            "tla": "TOU",
-            "crest": "https://crests.football-data.org/511.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 6,
-          "draw": 6,
-          "lost": 5,
-          "points": 24,
-          "goalsFor": 24,
-          "goalsAgainst": 19,
-          "goalDifference": 5
-        },
-        {
-          "position": 8,
-          "team": {
             "id": 576,
             "name": "RC Strasbourg Alsace",
             "shortName": "Strasbourg",
@@ -179,6 +160,25 @@
           "goalsFor": 25,
           "goalsAgainst": 20,
           "goalDifference": 5
+        },
+        {
+          "position": 8,
+          "team": {
+            "id": 511,
+            "name": "Toulouse FC",
+            "shortName": "Toulouse",
+            "tla": "TOU",
+            "crest": "https://crests.football-data.org/511.png"
+          },
+          "playedGames": 17,
+          "form": null,
+          "won": 6,
+          "draw": 5,
+          "lost": 6,
+          "points": 23,
+          "goalsFor": 24,
+          "goalsAgainst": 22,
+          "goalDifference": 2
         },
         {
           "position": 9,

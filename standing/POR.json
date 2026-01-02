@@ -58,13 +58,13 @@
           },
           "playedGames": 17,
           "form": null,
-          "won": 14,
-          "draw": 2,
+          "won": 13,
+          "draw": 3,
           "lost": 1,
-          "points": 44,
+          "points": 42,
           "goalsFor": 47,
-          "goalsAgainst": 8,
-          "goalDifference": 39
+          "goalsAgainst": 9,
+          "goalDifference": 38
         },
         {
           "position": 3,
@@ -97,12 +97,12 @@
           "playedGames": 17,
           "form": null,
           "won": 7,
-          "draw": 6,
-          "lost": 4,
-          "points": 27,
-          "goalsFor": 21,
+          "draw": 7,
+          "lost": 3,
+          "points": 28,
+          "goalsFor": 22,
           "goalsAgainst": 12,
-          "goalDifference": 9
+          "goalDifference": 10
         },
         {
           "position": 5,
@@ -151,12 +151,12 @@
             "tla": "GUI",
             "crest": "https://crests.football-data.org/5543.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 6,
-          "draw": 4,
+          "draw": 5,
           "lost": 6,
-          "points": 22,
+          "points": 23,
           "goalsFor": 16,
           "goalsAgainst": 21,
           "goalDifference": -5
@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 5529,
+            "name": "CD Nacional",
+            "shortName": "CD Nacional",
+            "tla": "CDN",
+            "crest": "https://crests.football-data.org/5529.png"
+          },
+          "playedGames": 16,
+          "form": null,
+          "won": 4,
+          "draw": 5,
+          "lost": 7,
+          "points": 17,
+          "goalsFor": 17,
+          "goalsAgainst": 21,
+          "goalDifference": -4
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 496,
             "name": "Rio Ave FC",
             "shortName": "Rio Ave",
@@ -238,7 +257,7 @@
           "goalDifference": -9
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 7822,
             "name": "FC Alverca",
@@ -255,25 +274,6 @@
           "goalsFor": 16,
           "goalsAgainst": 27,
           "goalDifference": -11
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 5529,
-            "name": "CD Nacional",
-            "shortName": "CD Nacional",
-            "tla": "CDN",
-            "crest": "https://crests.football-data.org/5529.png"
-          },
-          "playedGames": 15,
-          "form": null,
-          "won": 4,
-          "draw": 4,
-          "lost": 7,
-          "points": 16,
-          "goalsFor": 17,
-          "goalsAgainst": 21,
-          "goalDifference": -4
         },
         {
           "position": 14,
