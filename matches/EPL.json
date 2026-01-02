@@ -4585,7 +4585,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-01",
     "DateTime": "2026-01-01T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 71,
@@ -4600,8 +4600,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "71": 0,
-      "65": 0
+      "71": 1,
+      "65": 1
     },
     "Goals": []
   },
@@ -4663,7 +4663,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-01",
     "DateTime": "2026-01-01T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 402,
@@ -4678,8 +4678,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "402": 0,
-      "73": 0
+      "402": 1,
+      "73": 1
     },
     "Goals": []
   },
