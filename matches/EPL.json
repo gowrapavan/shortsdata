@@ -4871,7 +4871,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-03",
     "DateTime": "2026-01-03T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 58,
@@ -4882,11 +4882,11 @@
     "AwayTeamName": "Nottingham Forest FC",
     "HomeTeamLogo": "https://crests.football-data.org/58.png",
     "AwayTeamLogo": "https://crests.football-data.org/351.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 58,
     "Points": {
-      "58": 0,
+      "58": 3,
       "351": 0
     },
     "Goals": []
@@ -4908,8 +4908,8 @@
     "AwayTeamName": "Burnley FC",
     "HomeTeamLogo": "https://crests.football-data.org/397.png",
     "AwayTeamLogo": "https://crests.football-data.org/328.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "397": 0,
@@ -5090,8 +5090,8 @@
     "AwayTeamName": "West Ham United FC",
     "HomeTeamLogo": "https://crests.football-data.org/76.png",
     "AwayTeamLogo": "https://crests.football-data.org/563.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "76": 0,
