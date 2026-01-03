@@ -4845,7 +4845,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-03",
     "DateTime": "2026-01-03T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1044,
@@ -4856,12 +4856,12 @@
     "AwayTeamName": "Arsenal FC",
     "HomeTeamLogo": "https://crests.football-data.org/bournemouth.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 57,
     "Points": {
       "1044": 0,
-      "57": 0
+      "57": 3
     },
     "Goals": []
   },

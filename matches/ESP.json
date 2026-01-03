@@ -4361,7 +4361,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-01-03",
     "DateTime": "2026-01-03T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 285,
@@ -4373,11 +4373,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/285.png",
     "AwayTeamLogo": "https://crests.football-data.org/94.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 94,
     "Points": {
       "285": 0,
-      "94": 0
+      "94": 3
     },
     "Goals": []
   },
@@ -4450,8 +4450,8 @@
     "AwayTeamName": "FC Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/80.png",
     "AwayTeamLogo": "https://crests.football-data.org/81.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "80": 0,
