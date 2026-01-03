@@ -4856,8 +4856,8 @@
     "AwayTeamName": "Arsenal FC",
     "HomeTeamLogo": "https://crests.football-data.org/bournemouth.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "1044": 0,
@@ -4897,7 +4897,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-03",
     "DateTime": "2026-01-03T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 397,
@@ -4908,11 +4908,11 @@
     "AwayTeamName": "Burnley FC",
     "HomeTeamLogo": "https://crests.football-data.org/397.png",
     "AwayTeamLogo": "https://crests.football-data.org/328.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 397,
     "Points": {
-      "397": 0,
+      "397": 3,
       "328": 0
     },
     "Goals": []
@@ -5079,7 +5079,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-03",
     "DateTime": "2026-01-03T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 76,
@@ -5090,11 +5090,11 @@
     "AwayTeamName": "West Ham United FC",
     "HomeTeamLogo": "https://crests.football-data.org/76.png",
     "AwayTeamLogo": "https://crests.football-data.org/563.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 76,
     "Points": {
-      "76": 0,
+      "76": 3,
       "563": 0
     },
     "Goals": []

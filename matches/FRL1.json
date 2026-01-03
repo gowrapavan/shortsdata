@@ -3685,7 +3685,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-03",
     "DateTime": "2026-01-03T16:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 548,
@@ -3696,12 +3696,12 @@
     "AwayTeamName": "Olympique Lyonnais",
     "HomeTeamLogo": "https://crests.football-data.org/548.png",
     "AwayTeamLogo": "https://crests.football-data.org/523.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 3,
+    "Result": 523,
     "Points": {
       "548": 0,
-      "523": 0
+      "523": 3
     },
     "Goals": []
   },
@@ -3774,8 +3774,8 @@
     "AwayTeamName": "RC Strasbourg Alsace",
     "HomeTeamLogo": "https://crests.football-data.org/522.png",
     "AwayTeamLogo": "https://crests.football-data.org/576.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "522": 0,
