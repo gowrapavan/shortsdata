@@ -145,6 +145,25 @@
         {
           "position": 7,
           "team": {
+            "id": 583,
+            "name": "Moreirense FC",
+            "shortName": "Moreirense",
+            "tla": "MOR",
+            "crest": "https://crests.football-data.org/583.png"
+          },
+          "playedGames": 16,
+          "form": null,
+          "won": 7,
+          "draw": 3,
+          "lost": 6,
+          "points": 24,
+          "goalsFor": 23,
+          "goalsAgainst": 24,
+          "goalDifference": -1
+        },
+        {
+          "position": 8,
+          "team": {
             "id": 5531,
             "name": "FC Famalicão",
             "shortName": "Famalicão",
@@ -160,25 +179,6 @@
           "goalsFor": 20,
           "goalsAgainst": 13,
           "goalDifference": 7
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 583,
-            "name": "Moreirense FC",
-            "shortName": "Moreirense",
-            "tla": "MOR",
-            "crest": "https://crests.football-data.org/583.png"
-          },
-          "playedGames": 15,
-          "form": null,
-          "won": 6,
-          "draw": 3,
-          "lost": 6,
-          "points": 21,
-          "goalsFor": 21,
-          "goalsAgainst": 24,
-          "goalDifference": -3
         },
         {
           "position": 9,
@@ -360,15 +360,15 @@
             "tla": "AVS",
             "crest": "https://crests.football-data.org/10340.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 0,
           "draw": 4,
-          "lost": 12,
+          "lost": 13,
           "points": 4,
           "goalsFor": 11,
-          "goalsAgainst": 41,
-          "goalDifference": -30
+          "goalsAgainst": 43,
+          "goalDifference": -32
         }
       ]
     }
