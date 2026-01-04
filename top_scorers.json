@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-03T06:15:23.623367Z",
+    "last_updated": "2026-01-04T06:15:30.053323Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -134,10 +134,19 @@
                     "player_name": "Robert Lewandowski",
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 8,
+                    "goals": 9,
                     "assists": 1,
                     "penalties": 1,
                     "nationality": "Poland"
+                },
+                {
+                    "player_name": "Borja Iglesias",
+                    "team_name": "RC Celta de Vigo",
+                    "team_crest": "https://crests.football-data.org/558.png",
+                    "goals": 8,
+                    "assists": 1,
+                    "penalties": 2,
+                    "nationality": "Spain"
                 },
                 {
                     "player_name": "Raphinha",
@@ -176,20 +185,11 @@
                     "nationality": "Colombia"
                 },
                 {
-                    "player_name": "Karl Etta Eyong",
-                    "team_name": "Levante UD",
-                    "team_crest": "https://crests.football-data.org/88.png",
-                    "goals": 6,
-                    "assists": 4,
-                    "penalties": null,
-                    "nationality": "Cameroon"
-                },
-                {
-                    "player_name": "Pere Milla",
-                    "team_name": "RCD Espanyol de Barcelona",
-                    "team_crest": "https://crests.football-data.org/80.png",
-                    "goals": 6,
-                    "assists": null,
+                    "player_name": "Alberto Moleiro",
+                    "team_name": "Villarreal CF",
+                    "team_crest": "https://crests.football-data.org/94.png",
+                    "goals": 7,
+                    "assists": 2,
                     "penalties": null,
                     "nationality": "Spain"
                 }
@@ -407,9 +407,9 @@
                     "player_name": "Joaquín Panichelli",
                     "team_name": "RC Strasbourg Alsace",
                     "team_crest": "https://crests.football-data.org/576.png",
-                    "goals": 9,
+                    "goals": 10,
                     "assists": null,
-                    "penalties": 2,
+                    "penalties": 3,
                     "nationality": "Argentina"
                 },
                 {
@@ -438,6 +438,15 @@
                     "assists": 2,
                     "penalties": 1,
                     "nationality": "France"
+                },
+                {
+                    "player_name": "Pavel Šulc",
+                    "team_name": "Olympique Lyonnais",
+                    "team_crest": "https://crests.football-data.org/523.png",
+                    "goals": 7,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Czech Republic"
                 },
                 {
                     "player_name": "Lassine Sinayoko",
@@ -474,15 +483,6 @@
                     "assists": 2,
                     "penalties": 2,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Hákon Haraldsson",
-                    "team_name": "Lille OSC",
-                    "team_crest": "https://crests.football-data.org/521.png",
-                    "goals": 5,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Iceland"
                 }
             ]
         },
