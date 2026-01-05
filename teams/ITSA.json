@@ -22,7 +22,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2122,
@@ -30,13 +30,6 @@
         "code": "CIT",
         "type": "CUP",
         "emblem": "https://crests.football-data.org/CIT.png"
-      },
-      {
-        "id": 2124,
-        "name": "Supercoppa",
-        "code": "ISC",
-        "type": "SUPER_CUP",
-        "emblem": "https://crests.football-data.org/isc.png"
       }
     ],
     "coach": {
@@ -116,6 +109,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 290372,
+        "name": "Matteo Geroli",
+        "position": "Midfield",
+        "dateOfBirth": "2007-05-30",
+        "nationality": "Italy"
+      },
+      {
         "id": 264825,
         "name": "Maximilian Ibrahimović",
         "position": "Offence",
@@ -141,34 +141,6 @@
         "name": "Emanuele Borsani",
         "position": "Offence",
         "dateOfBirth": "2008-01-08",
-        "nationality": "Italy"
-      },
-      {
-        "id": 244837,
-        "name": "Matteo Duțu",
-        "position": "Centre-Back",
-        "dateOfBirth": "2005-11-23",
-        "nationality": "Romania"
-      },
-      {
-        "id": 215616,
-        "name": "Davide Bartesaghi",
-        "position": "Left-Back",
-        "dateOfBirth": "2005-12-29",
-        "nationality": "Italy"
-      },
-      {
-        "id": 153556,
-        "name": "Koni De Winter",
-        "position": "Centre-Back",
-        "dateOfBirth": "2002-06-12",
-        "nationality": "Belgium"
-      },
-      {
-        "id": 115245,
-        "name": "Samuele Ricci",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2001-08-21",
         "nationality": "Italy"
       },
       {
@@ -249,6 +221,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 304,
+        "name": "Niclas Füllkrug",
+        "position": "Centre-Forward",
+        "dateOfBirth": "1993-02-09",
+        "nationality": "Germany"
+      },
+      {
         "id": 145,
         "name": "Christian Pulisic",
         "position": "Right Winger",
@@ -261,6 +240,34 @@
         "position": "Central Midfield",
         "dateOfBirth": "1985-09-09",
         "nationality": "Croatia"
+      },
+      {
+        "id": 244837,
+        "name": "Matteo Duțu",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-11-23",
+        "nationality": "Romania"
+      },
+      {
+        "id": 215616,
+        "name": "Davide Bartesaghi",
+        "position": "Left-Back",
+        "dateOfBirth": "2005-12-29",
+        "nationality": "Italy"
+      },
+      {
+        "id": 153556,
+        "name": "Koni De Winter",
+        "position": "Centre-Back",
+        "dateOfBirth": "2002-06-12",
+        "nationality": "Belgium"
+      },
+      {
+        "id": 115245,
+        "name": "Samuele Ricci",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2001-08-21",
+        "nationality": "Italy"
       }
     ],
     "staff": [],
@@ -289,7 +296,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2154,
@@ -325,6 +332,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "1990-11-07",
         "nationality": "Spain"
+      },
+      {
+        "id": 24293,
+        "name": "Oliver Christensen",
+        "position": "Goalkeeper",
+        "dateOfBirth": "1999-03-22",
+        "nationality": "Denmark"
       },
       {
         "id": 189622,
@@ -556,7 +570,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2146,
@@ -647,6 +661,13 @@
         "name": "Jacopo Mirra",
         "position": "Defence",
         "dateOfBirth": "2006-07-10",
+        "nationality": "Italy"
+      },
+      {
+        "id": 290391,
+        "name": "Emanuele Lulli",
+        "position": "Defence",
+        "dateOfBirth": "2007-08-17",
         "nationality": "Italy"
       },
       {
@@ -844,7 +865,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2001,
@@ -938,76 +959,6 @@
         "nationality": "Guinea"
       },
       {
-        "id": 263661,
-        "name": "Honest Ahanor",
-        "position": "Left-Back",
-        "dateOfBirth": "2008-02-23",
-        "nationality": "Nigeria"
-      },
-      {
-        "id": 170381,
-        "name": "Berat Djimsiti",
-        "position": "Centre-Back",
-        "dateOfBirth": "2023-06-30",
-        "nationality": "Albania"
-      },
-      {
-        "id": 167098,
-        "name": "Odilon Kossounou",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-01-04",
-        "nationality": "Ivory Coast"
-      },
-      {
-        "id": 167031,
-        "name": "Isak Hien",
-        "position": "Centre-Back",
-        "dateOfBirth": "1999-01-13",
-        "nationality": "Sweden"
-      },
-      {
-        "id": 153990,
-        "name": "Giorgio Scalvini",
-        "position": "Centre-Back",
-        "dateOfBirth": "2003-12-11",
-        "nationality": "Italy"
-      },
-      {
-        "id": 152528,
-        "name": "Nicola Zalewski",
-        "position": "Left Midfield",
-        "dateOfBirth": "2002-01-23",
-        "nationality": "Poland"
-      },
-      {
-        "id": 150669,
-        "name": "Yunus Musah",
-        "position": "Central Midfield",
-        "dateOfBirth": "2002-11-29",
-        "nationality": "USA"
-      },
-      {
-        "id": 142140,
-        "name": "Kamal Deen Sulemana",
-        "position": "Left Winger",
-        "dateOfBirth": "2002-02-15",
-        "nationality": "Ghana"
-      },
-      {
-        "id": 136113,
-        "name": "Daniel Maldini",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2001-10-11",
-        "nationality": "Italy"
-      },
-      {
-        "id": 130420,
-        "name": "Lazar Samardzic",
-        "position": "Central Midfield",
-        "dateOfBirth": "2002-02-24",
-        "nationality": "Serbia"
-      },
-      {
         "id": 129947,
         "name": "Charles De Ketelaere",
         "position": "Attacking Midfield",
@@ -1076,6 +1027,83 @@
         "position": "Right Midfield",
         "dateOfBirth": "2000-05-17",
         "nationality": "Italy"
+      },
+      {
+        "id": 263661,
+        "name": "Honest Ahanor",
+        "position": "Left-Back",
+        "dateOfBirth": "2008-02-23",
+        "nationality": "Nigeria"
+      },
+      {
+        "id": 245244,
+        "name": "Pietro Comi",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-06-11",
+        "nationality": "Italy"
+      },
+      {
+        "id": 170381,
+        "name": "Berat Djimsiti",
+        "position": "Centre-Back",
+        "dateOfBirth": "2023-06-30",
+        "nationality": "Albania"
+      },
+      {
+        "id": 167098,
+        "name": "Odilon Kossounou",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-01-04",
+        "nationality": "Ivory Coast"
+      },
+      {
+        "id": 167031,
+        "name": "Isak Hien",
+        "position": "Centre-Back",
+        "dateOfBirth": "1999-01-13",
+        "nationality": "Sweden"
+      },
+      {
+        "id": 153990,
+        "name": "Giorgio Scalvini",
+        "position": "Centre-Back",
+        "dateOfBirth": "2003-12-11",
+        "nationality": "Italy"
+      },
+      {
+        "id": 152528,
+        "name": "Nicola Zalewski",
+        "position": "Left Midfield",
+        "dateOfBirth": "2002-01-23",
+        "nationality": "Poland"
+      },
+      {
+        "id": 150669,
+        "name": "Yunus Musah",
+        "position": "Central Midfield",
+        "dateOfBirth": "2002-11-29",
+        "nationality": "USA"
+      },
+      {
+        "id": 142140,
+        "name": "Kamal Deen Sulemana",
+        "position": "Left Winger",
+        "dateOfBirth": "2002-02-15",
+        "nationality": "Ghana"
+      },
+      {
+        "id": 136113,
+        "name": "Daniel Maldini",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2001-10-11",
+        "nationality": "Italy"
+      },
+      {
+        "id": 130420,
+        "name": "Lazar Samardzic",
+        "position": "Central Midfield",
+        "dateOfBirth": "2002-02-24",
+        "nationality": "Serbia"
       }
     ],
     "staff": [],
@@ -1104,14 +1132,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
-      },
-      {
-        "id": 2124,
-        "name": "Supercoppa",
-        "code": "ISC",
-        "type": "SUPER_CUP",
-        "emblem": "https://crests.football-data.org/isc.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2146,
@@ -1385,7 +1406,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       }
     ],
     "coach": {
@@ -1666,7 +1687,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       }
     ],
     "coach": {
@@ -1711,11 +1732,11 @@
         "nationality": "Lithuania"
       },
       {
-        "id": 252927,
-        "name": "Alin Kumer",
-        "position": "Defence",
-        "dateOfBirth": "2007-02-22",
-        "nationality": "Slovenia"
+        "id": 290183,
+        "name": "Rendijs Mihelsons",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2008-04-23",
+        "nationality": "Latvia"
       },
       {
         "id": 9353,
@@ -1919,14 +1940,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
-      },
-      {
-        "id": 2124,
-        "name": "Supercoppa",
-        "code": "ISC",
-        "type": "SUPER_CUP",
-        "emblem": "https://crests.football-data.org/isc.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2001,
@@ -2242,7 +2256,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2001,
@@ -2544,7 +2558,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       }
     ],
     "coach": {
@@ -2715,6 +2729,13 @@
         "nationality": "Denmark"
       },
       {
+        "id": 191417,
+        "name": "Diego González",
+        "position": "Right Winger",
+        "dateOfBirth": "2003-01-07",
+        "nationality": "Paraguay"
+      },
+      {
         "id": 187476,
         "name": "Reda Belahyane",
         "position": "Defensive Midfield",
@@ -2811,7 +2832,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       }
     ],
     "coach": {
@@ -3113,14 +3134,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
-      },
-      {
-        "id": 2124,
-        "name": "Supercoppa",
-        "code": "ISC",
-        "type": "SUPER_CUP",
-        "emblem": "https://crests.football-data.org/isc.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2001,
@@ -3205,6 +3219,13 @@
         "position": "Offence",
         "dateOfBirth": "2003-09-10",
         "nationality": "Italy"
+      },
+      {
+        "id": 32754,
+        "name": "Mathías Olivera",
+        "position": "Left-Back",
+        "dateOfBirth": "1997-10-31",
+        "nationality": "Uruguay"
       },
       {
         "id": 30629,
@@ -3298,6 +3319,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 290412,
+        "name": "Vincenzo Prisco",
+        "position": null,
+        "dateOfBirth": "2008-08-07",
+        "nationality": "Italy"
+      },
+      {
         "id": 214546,
         "name": "Luca Marianucci",
         "position": "Centre-Back",
@@ -3352,13 +3380,6 @@
         "position": "Defensive Midfield",
         "dateOfBirth": "1994-11-25",
         "nationality": "Slovakia"
-      },
-      {
-        "id": 32754,
-        "name": "Mathías Olivera",
-        "position": "Left-Back",
-        "dateOfBirth": "1997-10-31",
-        "nationality": "Uruguay"
       }
     ],
     "staff": [],
@@ -3387,7 +3408,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2122,
@@ -3572,6 +3593,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 1360,
+        "name": "Brenner",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2000-01-16",
+        "nationality": "Brazil"
+      },
+      {
         "id": 822,
         "name": "Hassane Kamara",
         "position": "Left-Back",
@@ -3654,7 +3682,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       }
     ],
     "coach": {
@@ -3970,7 +3998,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2122,
@@ -4244,7 +4272,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2122,
@@ -4331,6 +4359,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 290380,
+        "name": "Luca Barani",
+        "position": "Defence",
+        "dateOfBirth": "2006-03-20",
+        "nationality": "Italy"
+      },
+      {
         "id": 150821,
         "name": "Edoardo Iannoni",
         "position": "Midfield",
@@ -4371,6 +4406,13 @@
         "position": "Offence",
         "dateOfBirth": "2002-08-12",
         "nationality": "Denmark"
+      },
+      {
+        "id": 123103,
+        "name": "Woyo Coulibaly",
+        "position": "Right-Back",
+        "dateOfBirth": "1999-05-20",
+        "nationality": "Mali"
       },
       {
         "id": 122407,
@@ -4490,13 +4532,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "2000-09-26",
         "nationality": "Netherlands"
-      },
-      {
-        "id": 123103,
-        "name": "Woyo Coulibaly",
-        "position": "Right-Back",
-        "dateOfBirth": "1999-05-20",
-        "nationality": "Mali"
       }
     ],
     "staff": [],
@@ -4525,7 +4560,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2122,
@@ -4682,13 +4717,6 @@
         "nationality": "Italy"
       },
       {
-        "id": 274077,
-        "name": "Giacomo Maucci",
-        "position": "Midfield",
-        "dateOfBirth": "2007-03-16",
-        "nationality": "Italy"
-      },
-      {
         "id": 286825,
         "name": "Brando Bettazzi",
         "position": "Midfield",
@@ -4827,7 +4855,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2122,
@@ -4876,6 +4904,13 @@
         "name": "Lapo Siviero",
         "position": "Goalkeeper",
         "dateOfBirth": "2006-11-23",
+        "nationality": "Italy"
+      },
+      {
+        "id": 290178,
+        "name": "Mattia Pellini",
+        "position": "Defence",
+        "dateOfBirth": "2007-02-23",
         "nationality": "Italy"
       },
       {
@@ -5101,7 +5136,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2122,
@@ -5195,18 +5230,18 @@
         "nationality": "Bosnia-Herzegovina"
       },
       {
+        "id": 131175,
+        "name": "Eetu Mömmö",
+        "position": "Offence",
+        "dateOfBirth": "2002-05-04",
+        "nationality": "Finland"
+      },
+      {
         "id": 221315,
         "name": "Nikola Štulić",
         "position": "Offence",
         "dateOfBirth": "2001-09-08",
         "nationality": "Serbia"
-      },
-      {
-        "id": 137674,
-        "name": "Balthazar Pierret",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2000-05-15",
-        "nationality": "France"
       },
       {
         "id": 129319,
@@ -5375,6 +5410,13 @@
         "position": "Centre-Back",
         "dateOfBirth": "2002-04-02",
         "nationality": "Germany"
+      },
+      {
+        "id": 137674,
+        "name": "Balthazar Pierret",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2000-05-15",
+        "nationality": "France"
       }
     ],
     "staff": [],
@@ -5403,7 +5445,7 @@
         "name": "Serie A",
         "code": "SA",
         "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/SA.png"
+        "emblem": "https://crests.football-data.org/c111.png"
       },
       {
         "id": 2122,
@@ -5439,6 +5481,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "1995-06-08",
         "nationality": "France"
+      },
+      {
+        "id": 146639,
+        "name": "Noel Törnqvist",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2002-02-01",
+        "nationality": "Sweden"
       },
       {
         "id": 270151,

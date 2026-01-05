@@ -362,6 +362,13 @@
         "nationality": "England"
       },
       {
+        "id": 290400,
+        "name": "TJ Carroll",
+        "position": "Defence",
+        "dateOfBirth": "2006-10-19",
+        "nationality": "England"
+      },
+      {
         "id": 270628,
         "name": "Ben Broggio",
         "position": "Midfield",
@@ -395,6 +402,20 @@
         "position": "Midfield",
         "dateOfBirth": "2007-03-04",
         "nationality": "England"
+      },
+      {
+        "id": 260718,
+        "name": "Alysson",
+        "position": "Offence",
+        "dateOfBirth": "2006-05-05",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 114024,
+        "name": "Amadou Onana",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2001-08-16",
+        "nationality": "Belgium"
       },
       {
         "id": 82140,
@@ -542,13 +563,6 @@
         "position": "Central Midfield",
         "dateOfBirth": "2003-04-04",
         "nationality": "England"
-      },
-      {
-        "id": 114024,
-        "name": "Amadou Onana",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2001-08-16",
-        "nationality": "Belgium"
       }
     ],
     "staff": [],
@@ -588,15 +602,15 @@
       }
     ],
     "coach": {
-      "id": 172279,
-      "firstName": "Enzo",
-      "lastName": "Maresca",
-      "name": "Enzo Maresca",
-      "dateOfBirth": "1980-02-10",
-      "nationality": "Italy",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-07",
-        "until": "2029-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -804,6 +818,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 203375,
+        "name": "Deivid Washington",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2005-06-05",
+        "nationality": "Brazil"
+      },
+      {
         "id": 189477,
         "name": "Jorrel Hato",
         "position": "Centre-Back",
@@ -936,6 +957,20 @@
         "position": "Defence",
         "dateOfBirth": "2003-09-19",
         "nationality": "England"
+      },
+      {
+        "id": 272715,
+        "name": "Callum Bates",
+        "position": "Midfield",
+        "dateOfBirth": "2005-09-28",
+        "nationality": "England"
+      },
+      {
+        "id": 244747,
+        "name": "Briaden Graham",
+        "position": "Offence",
+        "dateOfBirth": "2007-11-07",
+        "nationality": "Northern Ireland"
       },
       {
         "id": 246476,
@@ -1168,6 +1203,13 @@
         "position": "Offence",
         "dateOfBirth": "2007-07-04",
         "nationality": "Sweden"
+      },
+      {
+        "id": 290421,
+        "name": "Alfie McNally",
+        "position": null,
+        "dateOfBirth": "2004-12-22",
+        "nationality": "England"
       },
       {
         "id": 246418,
@@ -2547,6 +2589,13 @@
         "nationality": "Belgium"
       },
       {
+        "id": 213245,
+        "name": "Zak Johnson",
+        "position": "Defence",
+        "dateOfBirth": "2004-07-30",
+        "nationality": "England"
+      },
+      {
         "id": 285390,
         "name": "Jenson Jones",
         "position": "Defence",
@@ -2856,13 +2905,6 @@
         "nationality": "England"
       },
       {
-        "id": 181193,
-        "name": "Kota Takai",
-        "position": "Defence",
-        "dateOfBirth": "2004-09-04",
-        "nationality": "Japan"
-      },
-      {
         "id": 272980,
         "name": "Malachi Hardy",
         "position": "Defence",
@@ -2917,13 +2959,6 @@
         "position": "Offence",
         "dateOfBirth": "2005-09-05",
         "nationality": "England"
-      },
-      {
-        "id": 140432,
-        "name": "Radu Drăgușin",
-        "position": "Centre-Back",
-        "dateOfBirth": "2002-02-03",
-        "nationality": "Romania"
       },
       {
         "id": 131177,
@@ -3092,6 +3127,13 @@
         "position": "Attacking Midfield",
         "dateOfBirth": "2003-04-21",
         "nationality": "Netherlands"
+      },
+      {
+        "id": 140432,
+        "name": "Radu Drăgușin",
+        "position": "Centre-Back",
+        "dateOfBirth": "2002-02-03",
+        "nationality": "Romania"
       }
     ],
     "staff": [],
@@ -3179,6 +3221,13 @@
         "nationality": "Colombia"
       },
       {
+        "id": 213637,
+        "name": "Ethan Sutherland",
+        "position": "Midfield",
+        "dateOfBirth": "2006-04-25",
+        "nationality": "Scotland"
+      },
+      {
         "id": 265562,
         "name": "Luke Rawlings",
         "position": "Midfield",
@@ -3219,55 +3268,6 @@
         "position": "Offence",
         "dateOfBirth": "2007-09-16",
         "nationality": "Portugal"
-      },
-      {
-        "id": 193014,
-        "name": "Enso Gonzalez",
-        "position": "Left Winger",
-        "dateOfBirth": "2005-01-20",
-        "nationality": "Paraguay"
-      },
-      {
-        "id": 189575,
-        "name": "Nathan Fraser",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2005-02-22",
-        "nationality": "England"
-      },
-      {
-        "id": 157709,
-        "name": "Hugo Bueno",
-        "position": "Left-Back",
-        "dateOfBirth": "2002-09-18",
-        "nationality": "Spain"
-      },
-      {
-        "id": 153570,
-        "name": "Yerson Mosquera",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-05-02",
-        "nationality": "Colombia"
-      },
-      {
-        "id": 151666,
-        "name": "Alfie Pond",
-        "position": "Centre-Back",
-        "dateOfBirth": "2004-03-01",
-        "nationality": "England"
-      },
-      {
-        "id": 151521,
-        "name": "Rodrigo Gomes",
-        "position": "Right Midfield",
-        "dateOfBirth": "2003-07-07",
-        "nationality": "Portugal"
-      },
-      {
-        "id": 149731,
-        "name": "Emmanuel Agbadou",
-        "position": "Centre-Back",
-        "dateOfBirth": "1997-06-17",
-        "nationality": "Ivory Coast"
       },
       {
         "id": 145538,
@@ -3345,6 +3345,62 @@
         "position": "Central Midfield",
         "dateOfBirth": "1998-06-27",
         "nationality": "France"
+      },
+      {
+        "id": 250791,
+        "name": "Temple Ojinnaka",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2005-03-30",
+        "nationality": "England"
+      },
+      {
+        "id": 193014,
+        "name": "Enso Gonzalez",
+        "position": "Left Winger",
+        "dateOfBirth": "2005-01-20",
+        "nationality": "Paraguay"
+      },
+      {
+        "id": 189575,
+        "name": "Nathan Fraser",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2005-02-22",
+        "nationality": "England"
+      },
+      {
+        "id": 157709,
+        "name": "Hugo Bueno",
+        "position": "Left-Back",
+        "dateOfBirth": "2002-09-18",
+        "nationality": "Spain"
+      },
+      {
+        "id": 153570,
+        "name": "Yerson Mosquera",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-05-02",
+        "nationality": "Colombia"
+      },
+      {
+        "id": 151666,
+        "name": "Alfie Pond",
+        "position": "Centre-Back",
+        "dateOfBirth": "2004-03-01",
+        "nationality": "England"
+      },
+      {
+        "id": 151521,
+        "name": "Rodrigo Gomes",
+        "position": "Right Midfield",
+        "dateOfBirth": "2003-07-07",
+        "nationality": "Portugal"
+      },
+      {
+        "id": 149731,
+        "name": "Emmanuel Agbadou",
+        "position": "Centre-Back",
+        "dateOfBirth": "1997-06-17",
+        "nationality": "Ivory Coast"
       }
     ],
     "staff": [],
@@ -3980,6 +4036,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 181575,
+        "name": "Cuiabano",
+        "position": "Defence",
+        "dateOfBirth": "2003-02-16",
+        "nationality": "Brazil"
+      },
+      {
         "id": 289124,
         "name": "Jack Thompson",
         "position": "Defence",
@@ -4020,6 +4083,13 @@
         "position": "Offence",
         "dateOfBirth": "2007-11-13",
         "nationality": "England"
+      },
+      {
+        "id": 119596,
+        "name": "Morato",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-06-30",
+        "nationality": "Brazil"
       },
       {
         "id": 107330,
@@ -4174,13 +4244,6 @@
         "position": "Centre-Forward",
         "dateOfBirth": "2002-01-20",
         "nationality": "France"
-      },
-      {
-        "id": 119596,
-        "name": "Morato",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-06-30",
-        "nationality": "Brazil"
       }
     ],
     "staff": [],
@@ -4280,6 +4343,13 @@
         "position": "Midfield",
         "dateOfBirth": "2004-02-06",
         "nationality": "England"
+      },
+      {
+        "id": 282169,
+        "name": "Hindolo Mustapha",
+        "position": "Midfield",
+        "dateOfBirth": "2006-07-29",
+        "nationality": "Sierra Leone"
       },
       {
         "id": 289916,
@@ -4626,6 +4696,13 @@
         "nationality": "Turkey"
       },
       {
+        "id": 8273,
+        "name": "Pascal Groß",
+        "position": "Central Midfield",
+        "dateOfBirth": "1991-06-15",
+        "nationality": "Germany"
+      },
+      {
         "id": 8259,
         "name": "Lewis Dunk",
         "position": "Centre-Back",
@@ -4715,6 +4792,13 @@
         "position": "Centre-Back",
         "dateOfBirth": "2003-12-28",
         "nationality": "Italy"
+      },
+      {
+        "id": 175856,
+        "name": "Andrew Moran",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2003-10-15",
+        "nationality": "Ireland"
       },
       {
         "id": 161365,
@@ -5090,6 +5174,13 @@
         "nationality": "France"
       },
       {
+        "id": 178755,
+        "name": "Pablo Felipe",
+        "position": "Offence",
+        "dateOfBirth": "2004-01-02",
+        "nationality": "Brazil"
+      },
+      {
         "id": 248957,
         "name": "George Earthy",
         "position": "Attacking Midfield",
@@ -5235,13 +5326,6 @@
         "position": "Attacking Midfield",
         "dateOfBirth": "1997-08-27",
         "nationality": "Brazil"
-      },
-      {
-        "id": 304,
-        "name": "Niclas Füllkrug",
-        "position": "Centre-Forward",
-        "dateOfBirth": "1993-02-09",
-        "nationality": "Germany"
       }
     ],
     "staff": [],
@@ -5286,6 +5370,13 @@
       }
     },
     "squad": [
+      {
+        "id": 8079,
+        "name": "Fraser Forster",
+        "position": "Goalkeeper",
+        "dateOfBirth": "1988-03-17",
+        "nationality": "England"
+      },
       {
         "id": 121765,
         "name": "Đorđe Petrović",
@@ -5383,13 +5474,6 @@
         "position": "Centre-Forward",
         "dateOfBirth": "1999-10-06",
         "nationality": "Brazil"
-      },
-      {
-        "id": 113335,
-        "name": "Julian Araujo",
-        "position": "Right-Back",
-        "dateOfBirth": "2001-08-13",
-        "nationality": "Mexico"
       },
       {
         "id": 98745,

@@ -404,13 +404,6 @@
         "nationality": "Spain"
       },
       {
-        "id": 213260,
-        "name": "Javi Galán",
-        "position": "Defence",
-        "dateOfBirth": "1994-11-19",
-        "nationality": "Spain"
-      },
-      {
         "id": 213277,
         "name": "José Giménez",
         "position": "Defence",
@@ -481,13 +474,6 @@
         "nationality": "Spain"
       },
       {
-        "id": 151241,
-        "name": "Matteo Ruggeri",
-        "position": "Left Midfield",
-        "dateOfBirth": "2002-07-11",
-        "nationality": "Italy"
-      },
-      {
         "id": 123265,
         "name": "Johnny",
         "position": "Defensive Midfield",
@@ -551,6 +537,13 @@
         "nationality": "Norway"
       },
       {
+        "id": 2127,
+        "name": "Rodrigo de Paul",
+        "position": "Central Midfield",
+        "dateOfBirth": "1994-05-24",
+        "nationality": "Argentina"
+      },
+      {
         "id": 114,
         "name": "Antoine Griezmann",
         "position": "Centre-Forward",
@@ -579,6 +572,13 @@
         "nationality": "France"
       },
       {
+        "id": 290429,
+        "name": "Iker Luque",
+        "position": null,
+        "dateOfBirth": "2005-06-05",
+        "nationality": "Spain"
+      },
+      {
         "id": 221562,
         "name": "Javier Boñar",
         "position": "Right-Back",
@@ -605,6 +605,13 @@
         "position": "Right Winger",
         "dateOfBirth": "2002-12-18",
         "nationality": "Argentina"
+      },
+      {
+        "id": 151241,
+        "name": "Matteo Ruggeri",
+        "position": "Left Midfield",
+        "dateOfBirth": "2002-07-11",
+        "nationality": "Italy"
       }
     ],
     "staff": [],
@@ -676,6 +683,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2003-04-23",
         "nationality": "Greece"
+      },
+      {
+        "id": 213260,
+        "name": "Javi Galán",
+        "position": "Defence",
+        "dateOfBirth": "1994-11-19",
+        "nationality": "Spain"
       },
       {
         "id": 243833,
@@ -1556,6 +1570,20 @@
         "nationality": "Ukraine"
       },
       {
+        "id": 290371,
+        "name": "Mestanza",
+        "position": "Offence",
+        "dateOfBirth": "2004-12-07",
+        "nationality": "Spain"
+      },
+      {
+        "id": 191064,
+        "name": "Mario Martin",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2004-03-05",
+        "nationality": "Spain"
+      },
+      {
         "id": 186707,
         "name": "Gorka Rivera",
         "position": "Left-Back",
@@ -1686,13 +1714,6 @@
         "name": "Hugo Solozábal",
         "position": "Central Midfield",
         "dateOfBirth": "2003-02-07",
-        "nationality": "Spain"
-      },
-      {
-        "id": 191064,
-        "name": "Mario Martin",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2004-03-05",
         "nationality": "Spain"
       }
     ],
@@ -1996,13 +2017,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "2005-04-14",
         "nationality": "Spain"
-      },
-      {
-        "id": 188487,
-        "name": "Endrick",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2006-07-21",
-        "nationality": "Brazil"
       },
       {
         "id": 182020,
@@ -2316,15 +2330,15 @@
       }
     ],
     "coach": {
-      "id": 8073,
+      "id": 128034,
       "firstName": "",
-      "lastName": "Iborra",
-      "name": "Iborra",
-      "dateOfBirth": "1988-01-16",
-      "nationality": "Spain",
+      "lastName": "Luís Castro",
+      "name": "Luís Castro",
+      "dateOfBirth": "1980-05-07",
+      "nationality": "Portugal",
       "contract": {
         "start": "2025-12",
-        "until": "2026-06"
+        "until": "2027-06"
       }
     },
     "squad": [
@@ -3544,6 +3558,13 @@
         "nationality": "Senegal"
       },
       {
+        "id": 285597,
+        "name": "Hugo López",
+        "position": "Midfield",
+        "dateOfBirth": null,
+        "nationality": "Spain"
+      },
+      {
         "id": 289770,
         "name": "Carlos Macià",
         "position": "Midfield",
@@ -3563,6 +3584,13 @@
         "position": "Offence",
         "dateOfBirth": "2006-06-11",
         "nationality": "Mali"
+      },
+      {
+        "id": 290388,
+        "name": "Joselillo",
+        "position": "Offence",
+        "dateOfBirth": "2007-02-25",
+        "nationality": "Spain"
       },
       {
         "id": 176758,
@@ -4991,13 +5019,6 @@
         "nationality": "Spain"
       },
       {
-        "id": 175869,
-        "name": "Hugo Alvarez",
-        "position": "Left Winger",
-        "dateOfBirth": "2003-07-02",
-        "nationality": "Spain"
-      },
-      {
         "id": 170438,
         "name": "Williot Swedberg",
         "position": "Left Winger",
@@ -5010,6 +5031,13 @@
         "position": "Central Midfield",
         "dateOfBirth": "2003-12-19",
         "nationality": "Spain"
+      },
+      {
+        "id": 166029,
+        "name": "Tadeo Allende",
+        "position": "Right Winger",
+        "dateOfBirth": "1999-02-20",
+        "nationality": "Argentina"
       },
       {
         "id": 159446,
@@ -5082,6 +5110,13 @@
         "nationality": "Ghana"
       },
       {
+        "id": 3968,
+        "name": "Luca de la Torre",
+        "position": "Central Midfield",
+        "dateOfBirth": "1998-05-23",
+        "nationality": "USA"
+      },
+      {
         "id": 3201,
         "name": "Iago Aspas",
         "position": "Centre-Forward",
@@ -5135,6 +5170,13 @@
         "name": "Hugo Gonzalez",
         "position": "Right Winger",
         "dateOfBirth": "2003-02-07",
+        "nationality": "Spain"
+      },
+      {
+        "id": 175869,
+        "name": "Hugo Alvarez",
+        "position": "Left Winger",
+        "dateOfBirth": "2003-07-02",
         "nationality": "Spain"
       }
     ],
@@ -5293,13 +5335,6 @@
         "nationality": "Spain"
       },
       {
-        "id": 171984,
-        "name": "Jose Angel Carmona",
-        "position": "Right-Back",
-        "dateOfBirth": "2002-01-29",
-        "nationality": "Spain"
-      },
-      {
         "id": 140251,
         "name": "Batista Mendy",
         "position": "Defensive Midfield",
@@ -5326,6 +5361,13 @@
         "position": "Centre-Forward",
         "dateOfBirth": "2000-01-29",
         "nationality": "Nigeria"
+      },
+      {
+        "id": 80890,
+        "name": "Federico Gattoni",
+        "position": "Centre-Back",
+        "dateOfBirth": "1999-02-16",
+        "nationality": "Argentina"
       },
       {
         "id": 45449,
@@ -5430,6 +5472,13 @@
         "name": "Kike Salas",
         "position": "Centre-Back",
         "dateOfBirth": "2002-04-23",
+        "nationality": "Spain"
+      },
+      {
+        "id": 171984,
+        "name": "Jose Angel Carmona",
+        "position": "Right-Back",
+        "dateOfBirth": "2002-01-29",
         "nationality": "Spain"
       }
     ],
@@ -5663,6 +5712,13 @@
         "position": "Offence",
         "dateOfBirth": "1998-06-30",
         "nationality": "Uruguay"
+      },
+      {
+        "id": 77477,
+        "name": "Nicolas Fonseca",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "1998-10-19",
+        "nationality": "Italy"
       },
       {
         "id": 33142,
