@@ -259,6 +259,25 @@
         {
           "position": 13,
           "team": {
+            "id": 338,
+            "name": "Leicester City FC",
+            "shortName": "Leicester City",
+            "tla": "LEI",
+            "crest": "https://crests.football-data.org/338.png"
+          },
+          "playedGames": 26,
+          "form": null,
+          "won": 9,
+          "draw": 8,
+          "lost": 9,
+          "points": 35,
+          "goalsFor": 35,
+          "goalsAgainst": 37,
+          "goalDifference": -2
+        },
+        {
+          "position": 14,
+          "team": {
             "id": 332,
             "name": "Birmingham City FC",
             "shortName": "Birmingham",
@@ -274,25 +293,6 @@
           "goalsFor": 35,
           "goalsAgainst": 36,
           "goalDifference": -1
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 338,
-            "name": "Leicester City FC",
-            "shortName": "Leicester City",
-            "tla": "LEI",
-            "crest": "https://crests.football-data.org/338.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 9,
-          "draw": 7,
-          "lost": 9,
-          "points": 34,
-          "goalsFor": 35,
-          "goalsAgainst": 37,
-          "goalDifference": -2
         },
         {
           "position": 15,
@@ -335,6 +335,25 @@
         {
           "position": 17,
           "team": {
+            "id": 74,
+            "name": "West Bromwich Albion FC",
+            "shortName": "West Brom",
+            "tla": "WBA",
+            "crest": "https://crests.football-data.org/74.png"
+          },
+          "playedGames": 26,
+          "form": null,
+          "won": 9,
+          "draw": 5,
+          "lost": 12,
+          "points": 32,
+          "goalsFor": 28,
+          "goalsAgainst": 33,
+          "goalDifference": -5
+        },
+        {
+          "position": 18,
+          "team": {
             "id": 72,
             "name": "Swansea City AFC",
             "shortName": "Swansea",
@@ -350,25 +369,6 @@
           "goalsFor": 27,
           "goalsAgainst": 33,
           "goalDifference": -6
-        },
-        {
-          "position": 18,
-          "team": {
-            "id": 74,
-            "name": "West Bromwich Albion FC",
-            "shortName": "West Brom",
-            "tla": "WBA",
-            "crest": "https://crests.football-data.org/74.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 9,
-          "draw": 4,
-          "lost": 12,
-          "points": 31,
-          "goalsFor": 28,
-          "goalsAgainst": 33,
-          "goalDifference": -5
         },
         {
           "position": 19,
