@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-04T06:15:30.053323Z",
+    "last_updated": "2026-01-05T06:22:02.467438Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -19,7 +19,7 @@
                     "player_name": "Thiago Rodrigues",
                     "team_name": "Brentford FC",
                     "team_crest": "https://crests.football-data.org/402.png",
-                    "goals": 11,
+                    "goals": 14,
                     "assists": 1,
                     "penalties": 5,
                     "nationality": "Brazil"
@@ -79,6 +79,15 @@
                     "nationality": "Brazil"
                 },
                 {
+                    "player_name": "Bruno Guimarães",
+                    "team_name": "Newcastle United FC",
+                    "team_crest": "https://crests.football-data.org/67.png",
+                    "goals": 7,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Brazil"
+                },
+                {
                     "player_name": "Nick Woltemade",
                     "team_name": "Newcastle United FC",
                     "team_crest": "https://crests.football-data.org/67.png",
@@ -86,15 +95,6 @@
                     "assists": 1,
                     "penalties": 1,
                     "nationality": "Germany"
-                },
-                {
-                    "player_name": "Phil Foden",
-                    "team_name": "Manchester City FC",
-                    "team_crest": "https://crests.football-data.org/65.png",
-                    "goals": 7,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "England"
                 }
             ]
         },
@@ -125,9 +125,9 @@
                     "player_name": "Vedat Muriqi",
                     "team_name": "RCD Mallorca",
                     "team_crest": "https://crests.football-data.org/89.png",
-                    "goals": 9,
+                    "goals": 10,
                     "assists": null,
-                    "penalties": 2,
+                    "penalties": 3,
                     "nationality": "Kosovo"
                 },
                 {
@@ -147,6 +147,15 @@
                     "assists": 1,
                     "penalties": 2,
                     "nationality": "Spain"
+                },
+                {
+                    "player_name": "Cucho Hernández",
+                    "team_name": "Real Betis Balompié",
+                    "team_crest": "https://crests.football-data.org/90.png",
+                    "goals": 8,
+                    "assists": 3,
+                    "penalties": 1,
+                    "nationality": "Colombia"
                 },
                 {
                     "player_name": "Raphinha",
@@ -176,15 +185,6 @@
                     "nationality": "Argentina"
                 },
                 {
-                    "player_name": "Cucho Hernández",
-                    "team_name": "Real Betis Balompié",
-                    "team_crest": "https://crests.football-data.org/90.png",
-                    "goals": 7,
-                    "assists": 3,
-                    "penalties": 1,
-                    "nationality": "Colombia"
-                },
-                {
                     "player_name": "Alberto Moleiro",
                     "team_name": "Villarreal CF",
                     "team_crest": "https://crests.football-data.org/94.png",
@@ -204,8 +204,8 @@
                     "player_name": "Lautaro Martínez",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
-                    "goals": 9,
-                    "assists": 3,
+                    "goals": 10,
+                    "assists": 4,
                     "penalties": null,
                     "nationality": "Argentina"
                 },
@@ -241,7 +241,7 @@
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
                     "goals": 6,
-                    "assists": 1,
+                    "assists": 2,
                     "penalties": 2,
                     "nationality": "Turkey"
                 },
