@@ -3659,7 +3659,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 533,
@@ -3670,11 +3670,11 @@
     "AwayTeamName": "Angers SCO",
     "HomeTeamLogo": "https://crests.football-data.org/533.png",
     "AwayTeamLogo": "https://crests.football-data.org/532.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 533,
     "Points": {
-      "533": 0,
+      "533": 3,
       "532": 0
     },
     "Goals": []
@@ -3711,7 +3711,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 525,
@@ -3722,12 +3722,12 @@
     "AwayTeamName": "FC Metz",
     "HomeTeamLogo": "https://crests.football-data.org/525.png",
     "AwayTeamLogo": "https://crests.football-data.org/545.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "525": 0,
-      "545": 0
+      "525": 1,
+      "545": 1
     },
     "Goals": []
   },
@@ -3789,7 +3789,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 516,
@@ -3800,12 +3800,12 @@
     "AwayTeamName": "FC Nantes",
     "HomeTeamLogo": "https://crests.football-data.org/516.png",
     "AwayTeamLogo": "https://crests.football-data.org/543.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
+    "Result": 543,
     "Points": {
       "516": 0,
-      "543": 0
+      "543": 3
     },
     "Goals": []
   },
@@ -3841,7 +3841,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 524,
@@ -3852,11 +3852,11 @@
     "AwayTeamName": "Paris FC",
     "HomeTeamLogo": "https://crests.football-data.org/524.png",
     "AwayTeamLogo": "https://crests.football-data.org/1045.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 524,
     "Points": {
-      "524": 0,
+      "524": 3,
       "1045": 0
     },
     "Goals": []
@@ -3867,7 +3867,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 512,
@@ -3878,11 +3878,11 @@
     "AwayTeamName": "AJ Auxerre",
     "HomeTeamLogo": "https://crests.football-data.org/512.png",
     "AwayTeamLogo": "https://crests.football-data.org/519.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 512,
     "Points": {
-      "512": 0,
+      "512": 3,
       "519": 0
     },
     "Goals": []

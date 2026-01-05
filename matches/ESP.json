@@ -4309,7 +4309,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 263,
@@ -4320,12 +4320,12 @@
     "AwayTeamName": "Real Oviedo",
     "HomeTeamLogo": "https://crests.football-data.org/263.png",
     "AwayTeamLogo": "https://crests.football-data.org/1048.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "263": 0,
-      "1048": 0
+      "263": 1,
+      "1048": 1
     },
     "Goals": []
   },
@@ -4413,7 +4413,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 92,
@@ -4424,12 +4424,12 @@
     "AwayTeamName": "Club Atlético de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/92.png",
     "AwayTeamLogo": "https://crests.football-data.org/78.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "92": 0,
-      "78": 0
+      "92": 1,
+      "78": 1
     },
     "Goals": []
   },
@@ -4465,7 +4465,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 86,
@@ -4476,11 +4476,11 @@
     "AwayTeamName": "Real Betis Balompié",
     "HomeTeamLogo": "https://crests.football-data.org/86.png",
     "AwayTeamLogo": "https://crests.football-data.org/90.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 5,
+    "AwayTeamScore": 1,
+    "Result": 86,
     "Points": {
-      "86": 0,
+      "86": 3,
       "90": 0
     },
     "Goals": []
@@ -4517,7 +4517,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 89,
@@ -4528,12 +4528,12 @@
     "AwayTeamName": "Girona FC",
     "HomeTeamLogo": "https://crests.football-data.org/89.png",
     "AwayTeamLogo": "https://crests.football-data.org/298.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 298,
     "Points": {
       "89": 0,
-      "298": 0
+      "298": 3
     },
     "Goals": []
   },
@@ -4543,7 +4543,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 559,
@@ -4554,12 +4554,12 @@
     "AwayTeamName": "Levante UD",
     "HomeTeamLogo": "https://crests.football-data.org/559.png",
     "AwayTeamLogo": "https://crests.football-data.org/88.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 3,
+    "Result": 88,
     "Points": {
       "559": 0,
-      "88": 0
+      "88": 3
     },
     "Goals": []
   },

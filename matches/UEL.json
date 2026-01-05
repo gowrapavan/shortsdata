@@ -7663,7 +7663,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T12:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 332,
@@ -7674,11 +7674,11 @@
     "AwayTeamName": "Coventry City FC",
     "HomeTeamLogo": "https://crests.football-data.org/332.png",
     "AwayTeamLogo": "https://crests.football-data.org/1076.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 332,
     "Points": {
-      "332": 0,
+      "332": 3,
       "1076": 0
     },
     "Goals": []
@@ -7689,7 +7689,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 59,
@@ -7700,12 +7700,12 @@
     "AwayTeamName": "Charlton Athletic FC",
     "HomeTeamLogo": "https://crests.football-data.org/59.png",
     "AwayTeamLogo": "https://crests.football-data.org/348.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "59": 0,
-      "348": 0
+      "59": 1,
+      "348": 1
     },
     "Goals": []
   },
@@ -7715,7 +7715,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 387,
@@ -7726,12 +7726,12 @@
     "AwayTeamName": "Preston North End FC",
     "HomeTeamLogo": "https://crests.football-data.org/387.png",
     "AwayTeamLogo": "https://crests.football-data.org/1081.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
+    "Result": 1081,
     "Points": {
       "387": 0,
-      "1081": 0
+      "1081": 3
     },
     "Goals": []
   },
@@ -7741,7 +7741,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 342,
@@ -7752,12 +7752,12 @@
     "AwayTeamName": "Wrexham AFC",
     "HomeTeamLogo": "https://crests.football-data.org/342.png",
     "AwayTeamLogo": "https://crests.football-data.org/404.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 404,
     "Points": {
       "342": 0,
-      "404": 0
+      "404": 3
     },
     "Goals": []
   },
@@ -7778,8 +7778,8 @@
     "AwayTeamName": "Watford FC",
     "HomeTeamLogo": "https://crests.football-data.org/322.png",
     "AwayTeamLogo": "https://crests.football-data.org/346.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "322": 0,
@@ -7819,7 +7819,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 343,
@@ -7830,11 +7830,11 @@
     "AwayTeamName": "Southampton FC",
     "HomeTeamLogo": "https://crests.football-data.org/343.png",
     "AwayTeamLogo": "https://crests.football-data.org/340.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 0,
+    "Result": 343,
     "Points": {
-      "343": 0,
+      "343": 3,
       "340": 0
     },
     "Goals": []
@@ -7845,7 +7845,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 384,
@@ -7856,11 +7856,11 @@
     "AwayTeamName": "Swansea City AFC",
     "HomeTeamLogo": "https://crests.football-data.org/384.png",
     "AwayTeamLogo": "https://crests.football-data.org/72.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 384,
     "Points": {
-      "384": 0,
+      "384": 3,
       "72": 0
     },
     "Goals": []
@@ -7871,7 +7871,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 68,
@@ -7882,12 +7882,12 @@
     "AwayTeamName": "Stoke City FC",
     "HomeTeamLogo": "https://crests.football-data.org/68.png",
     "AwayTeamLogo": "https://crests.football-data.org/70.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
+    "Result": 70,
     "Points": {
       "68": 0,
-      "70": 0
+      "70": 3
     },
     "Goals": []
   },
@@ -7896,7 +7896,7 @@
     "RoundId": 26,
     "RoundName": "Championship",
     "Date": "2026-01-04",
-    "DateTime": "2026-01-04T15:00:00Z",
+    "DateTime": "2026-01-04T00:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -7923,7 +7923,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-04",
     "DateTime": "2026-01-04T12:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 69,
@@ -7934,11 +7934,11 @@
     "AwayTeamName": "Sheffield Wednesday FC",
     "HomeTeamLogo": "https://crests.football-data.org/69.png",
     "AwayTeamLogo": "https://crests.football-data.org/345.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 69,
     "Points": {
-      "69": 0,
+      "69": 3,
       "345": 0
     },
     "Goals": []
@@ -7948,7 +7948,7 @@
     "RoundId": 26,
     "RoundName": "Championship",
     "Date": "2026-01-04",
-    "DateTime": "2026-01-04T12:00:00Z",
+    "DateTime": "2026-01-04T00:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
