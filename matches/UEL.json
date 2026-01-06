@@ -7793,7 +7793,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-05",
     "DateTime": "2026-01-05T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 338,
@@ -7804,11 +7804,11 @@
     "AwayTeamName": "West Bromwich Albion FC",
     "HomeTeamLogo": "https://crests.football-data.org/338.png",
     "AwayTeamLogo": "https://crests.football-data.org/74.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 338,
     "Points": {
-      "338": 0,
+      "338": 3,
       "74": 0
     },
     "Goals": []
@@ -8283,7 +8283,7 @@
   },
   {
     "GameId": 541036,
-    "RoundId": 7,
+    "RoundId": 26,
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
@@ -8309,7 +8309,7 @@
   },
   {
     "GameId": 541037,
-    "RoundId": 7,
+    "RoundId": 26,
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
@@ -8335,7 +8335,7 @@
   },
   {
     "GameId": 541038,
-    "RoundId": 7,
+    "RoundId": 26,
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
@@ -8361,7 +8361,7 @@
   },
   {
     "GameId": 541039,
-    "RoundId": 7,
+    "RoundId": 26,
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
@@ -8387,7 +8387,7 @@
   },
   {
     "GameId": 541040,
-    "RoundId": 7,
+    "RoundId": 26,
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
@@ -8413,7 +8413,7 @@
   },
   {
     "GameId": 541041,
-    "RoundId": 7,
+    "RoundId": 26,
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
@@ -8439,7 +8439,7 @@
   },
   {
     "GameId": 541042,
-    "RoundId": 7,
+    "RoundId": 26,
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
@@ -8465,10 +8465,10 @@
   },
   {
     "GameId": 541043,
-    "RoundId": 7,
+    "RoundId": 26,
     "RoundName": "Championship",
     "Date": "2026-01-20",
-    "DateTime": "2026-01-20T19:45:00Z",
+    "DateTime": "2026-01-20T20:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -8491,10 +8491,10 @@
   },
   {
     "GameId": 541044,
-    "RoundId": 7,
+    "RoundId": 26,
     "RoundName": "Championship",
-    "Date": "2026-01-21",
-    "DateTime": "2026-01-21T19:45:00Z",
+    "Date": "2026-01-20",
+    "DateTime": "2026-01-20T19:45:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
