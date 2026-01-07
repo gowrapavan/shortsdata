@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-06T06:17:05.673118Z",
+    "last_updated": "2026-01-07T06:17:31.801663Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -219,6 +219,15 @@
                     "nationality": "USA"
                 },
                 {
+                    "player_name": "Anastasios Douvikas",
+                    "team_name": "Como 1907",
+                    "team_crest": "https://crests.football-data.org/7397.png",
+                    "goals": 6,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Greece"
+                },
+                {
                     "player_name": "Nico Paz",
                     "team_name": "Como 1907",
                     "team_crest": "https://crests.football-data.org/7397.png",
@@ -278,15 +287,6 @@
                     "team_crest": "https://crests.football-data.org/457.png",
                     "goals": 5,
                     "assists": 1,
-                    "penalties": 1,
-                    "nationality": "Italy"
-                },
-                {
-                    "player_name": "Rolando Mandragora",
-                    "team_name": "ACF Fiorentina",
-                    "team_crest": "https://crests.football-data.org/99.png",
-                    "goals": 5,
-                    "assists": null,
                     "penalties": 1,
                     "nationality": "Italy"
                 }
