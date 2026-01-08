@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-07T06:17:31.801663Z",
+    "last_updated": "2026-01-08T06:17:20.626798Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -10,16 +10,16 @@
                     "player_name": "Erling Haaland",
                     "team_name": "Manchester City FC",
                     "team_crest": "https://crests.football-data.org/65.png",
-                    "goals": 19,
+                    "goals": 20,
                     "assists": 4,
-                    "penalties": 1,
+                    "penalties": 2,
                     "nationality": "Norway"
                 },
                 {
                     "player_name": "Thiago Rodrigues",
                     "team_name": "Brentford FC",
                     "team_crest": "https://crests.football-data.org/402.png",
-                    "goals": 14,
+                    "goals": 16,
                     "assists": 1,
                     "penalties": 5,
                     "nationality": "Brazil"
@@ -28,10 +28,19 @@
                     "player_name": "Antoine Semenyo",
                     "team_name": "AFC Bournemouth",
                     "team_crest": "https://crests.football-data.org/bournemouth.png",
-                    "goals": 9,
+                    "goals": 10,
                     "assists": 3,
                     "penalties": 1,
                     "nationality": "Ghana"
+                },
+                {
+                    "player_name": "Dominic Calvert-Lewin",
+                    "team_name": "Leeds United FC",
+                    "team_crest": "https://crests.football-data.org/341.png",
+                    "goals": 9,
+                    "assists": 1,
+                    "penalties": 2,
+                    "nationality": "England"
                 },
                 {
                     "player_name": "Hugo Ekitike",
@@ -43,6 +52,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Bruno Guimarães",
+                    "team_name": "Newcastle United FC",
+                    "team_crest": "https://crests.football-data.org/67.png",
+                    "goals": 8,
+                    "assists": 3,
+                    "penalties": 1,
+                    "nationality": "Brazil"
+                },
+                {
                     "player_name": "Jean-Philippe Mateta",
                     "team_name": "Crystal Palace FC",
                     "team_crest": "https://crests.football-data.org/354.png",
@@ -50,15 +68,6 @@
                     "assists": null,
                     "penalties": 3,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Dominic Calvert-Lewin",
-                    "team_name": "Leeds United FC",
-                    "team_crest": "https://crests.football-data.org/341.png",
-                    "goals": 8,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "England"
                 },
                 {
                     "player_name": "Danny Welbeck",
@@ -79,20 +88,11 @@
                     "nationality": "Brazil"
                 },
                 {
-                    "player_name": "Bruno Guimarães",
-                    "team_name": "Newcastle United FC",
-                    "team_crest": "https://crests.football-data.org/67.png",
-                    "goals": 7,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Brazil"
-                },
-                {
                     "player_name": "Nick Woltemade",
                     "team_name": "Newcastle United FC",
                     "team_crest": "https://crests.football-data.org/67.png",
                     "goals": 7,
-                    "assists": 1,
+                    "assists": 2,
                     "penalties": 1,
                     "nationality": "Germany"
                 }
@@ -237,6 +237,15 @@
                     "nationality": "Argentina"
                 },
                 {
+                    "player_name": "Marcus Thuram-Ulien",
+                    "team_name": "FC Internazionale Milano",
+                    "team_crest": "https://crests.football-data.org/108.png",
+                    "goals": 6,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Riccardo Orsolini",
                     "team_name": "Bologna FC 1909",
                     "team_crest": "https://crests.football-data.org/103.png",
@@ -280,15 +289,6 @@
                     "assists": 1,
                     "penalties": 2,
                     "nationality": "Portugal"
-                },
-                {
-                    "player_name": "Federico Bonazzoli",
-                    "team_name": "US Cremonese",
-                    "team_crest": "https://crests.football-data.org/457.png",
-                    "goals": 5,
-                    "assists": 1,
-                    "penalties": 1,
-                    "nationality": "Italy"
                 }
             ]
         },
