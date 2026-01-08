@@ -5105,7 +5105,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-07",
     "DateTime": "2026-01-07T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1044,
@@ -5116,11 +5116,11 @@
     "AwayTeamName": "Tottenham Hotspur FC",
     "HomeTeamLogo": "https://crests.football-data.org/bournemouth.png",
     "AwayTeamLogo": "https://crests.football-data.org/73.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 1044,
     "Points": {
-      "1044": 0,
+      "1044": 3,
       "73": 0
     },
     "Goals": []
@@ -5131,7 +5131,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-07",
     "DateTime": "2026-01-07T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 354,
@@ -5146,8 +5146,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "354": 0,
-      "58": 0
+      "354": 1,
+      "58": 1
     },
     "Goals": []
   },
@@ -5183,7 +5183,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-07",
     "DateTime": "2026-01-07T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 402,
@@ -5196,9 +5196,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/71.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 402,
     "Points": {
-      "402": 0,
+      "402": 3,
       "71": 0
     },
     "Goals": []
@@ -5209,7 +5209,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-07",
     "DateTime": "2026-01-07T20:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 328,
@@ -5220,12 +5220,12 @@
     "AwayTeamName": "Manchester United FC",
     "HomeTeamLogo": "https://crests.football-data.org/328.png",
     "AwayTeamLogo": "https://crests.football-data.org/66.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "328": 0,
-      "66": 0
+      "328": 1,
+      "66": 1
     },
     "Goals": []
   },
@@ -5235,7 +5235,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-07",
     "DateTime": "2026-01-07T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 62,
@@ -5250,8 +5250,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "62": 0,
-      "76": 0
+      "62": 1,
+      "76": 1
     },
     "Goals": []
   },
@@ -5261,7 +5261,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-07",
     "DateTime": "2026-01-07T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 63,
@@ -5272,11 +5272,11 @@
     "AwayTeamName": "Chelsea FC",
     "HomeTeamLogo": "https://crests.football-data.org/63.png",
     "AwayTeamLogo": "https://crests.football-data.org/61.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 63,
     "Points": {
-      "63": 0,
+      "63": 3,
       "61": 0
     },
     "Goals": []
@@ -5287,7 +5287,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-07",
     "DateTime": "2026-01-07T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 65,
@@ -5302,8 +5302,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "65": 0,
-      "397": 0
+      "65": 1,
+      "397": 1
     },
     "Goals": []
   },
@@ -5313,7 +5313,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-07",
     "DateTime": "2026-01-07T20:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 67,
@@ -5324,11 +5324,11 @@
     "AwayTeamName": "Leeds United FC",
     "HomeTeamLogo": "https://crests.football-data.org/67.png",
     "AwayTeamLogo": "https://crests.football-data.org/341.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 3,
+    "Result": 67,
     "Points": {
-      "67": 0,
+      "67": 3,
       "341": 0
     },
     "Goals": []

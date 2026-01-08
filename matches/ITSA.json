@@ -4657,7 +4657,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-07",
     "DateTime": "2026-01-07T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 586,
@@ -4668,12 +4668,12 @@
     "AwayTeamName": "Udinese Calcio",
     "HomeTeamLogo": "https://crests.football-data.org/586.png",
     "AwayTeamLogo": "https://crests.football-data.org/115.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 115,
     "Points": {
       "586": 0,
-      "115": 0
+      "115": 3
     },
     "Goals": []
   },
@@ -4683,7 +4683,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-07",
     "DateTime": "2026-01-07T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 110,
@@ -4694,12 +4694,12 @@
     "AwayTeamName": "ACF Fiorentina",
     "HomeTeamLogo": "https://crests.football-data.org/110.png",
     "AwayTeamLogo": "https://crests.football-data.org/99.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "110": 0,
-      "99": 0
+      "110": 1,
+      "99": 1
     },
     "Goals": []
   },
@@ -4709,7 +4709,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-07",
     "DateTime": "2026-01-07T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 112,
@@ -4721,11 +4721,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/112.png",
     "AwayTeamLogo": "https://crests.football-data.org/108.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 108,
     "Points": {
       "112": 0,
-      "108": 0
+      "108": 3
     },
     "Goals": []
   },
