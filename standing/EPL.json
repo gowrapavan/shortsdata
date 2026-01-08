@@ -126,6 +126,25 @@
         {
           "position": 6,
           "team": {
+            "id": 67,
+            "name": "Newcastle United FC",
+            "shortName": "Newcastle",
+            "tla": "NEW",
+            "crest": "https://crests.football-data.org/67.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 9,
+          "draw": 5,
+          "lost": 7,
+          "points": 32,
+          "goalsFor": 32,
+          "goalsAgainst": 27,
+          "goalDifference": 5
+        },
+        {
+          "position": 7,
+          "team": {
             "id": 66,
             "name": "Manchester United FC",
             "shortName": "Man United",
@@ -143,7 +162,7 @@
           "goalDifference": 4
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 61,
             "name": "Chelsea FC",
@@ -162,7 +181,7 @@
           "goalDifference": 10
         },
         {
-          "position": 8,
+          "position": 9,
           "team": {
             "id": 63,
             "name": "Fulham FC",
@@ -181,7 +200,7 @@
           "goalDifference": 0
         },
         {
-          "position": 9,
+          "position": 10,
           "team": {
             "id": 71,
             "name": "Sunderland AFC",
@@ -200,7 +219,7 @@
           "goalDifference": -1
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 397,
             "name": "Brighton & Hove Albion FC",
@@ -216,25 +235,6 @@
           "points": 29,
           "goalsFor": 31,
           "goalsAgainst": 28,
-          "goalDifference": 3
-        },
-        {
-          "position": 11,
-          "team": {
-            "id": 67,
-            "name": "Newcastle United FC",
-            "shortName": "Newcastle",
-            "tla": "NEW",
-            "crest": "https://crests.football-data.org/67.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 8,
-          "draw": 5,
-          "lost": 8,
-          "points": 29,
-          "goalsFor": 30,
-          "goalsAgainst": 27,
           "goalDifference": 3
         },
         {
@@ -324,13 +324,13 @@
           },
           "playedGames": 21,
           "form": null,
-          "won": 6,
+          "won": 5,
           "draw": 7,
-          "lost": 8,
-          "points": 25,
+          "lost": 9,
+          "points": 22,
           "goalsFor": 29,
-          "goalsAgainst": 35,
-          "goalDifference": -6
+          "goalsAgainst": 37,
+          "goalDifference": -8
         },
         {
           "position": 17,
