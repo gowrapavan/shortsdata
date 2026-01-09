@@ -208,12 +208,12 @@
             "tla": "GET",
             "crest": "https://crests.football-data.org/82.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
           "won": 6,
-          "draw": 3,
+          "draw": 4,
           "lost": 9,
-          "points": 21,
+          "points": 22,
           "goalsFor": 14,
           "goalsAgainst": 23,
           "goalDifference": -9
@@ -259,6 +259,25 @@
         {
           "position": 13,
           "team": {
+            "id": 92,
+            "name": "Real Sociedad de Fútbol",
+            "shortName": "Real Sociedad",
+            "tla": "RSO",
+            "crest": "https://crests.football-data.org/92.png"
+          },
+          "playedGames": 19,
+          "form": null,
+          "won": 4,
+          "draw": 7,
+          "lost": 8,
+          "points": 19,
+          "goalsFor": 22,
+          "goalsAgainst": 26,
+          "goalDifference": -4
+        },
+        {
+          "position": 14,
+          "team": {
             "id": 263,
             "name": "Deportivo Alavés",
             "shortName": "Alavés",
@@ -276,7 +295,7 @@
           "goalDifference": -6
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 87,
             "name": "Rayo Vallecano de Madrid",
@@ -293,25 +312,6 @@
           "goalsFor": 14,
           "goalsAgainst": 21,
           "goalDifference": -7
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 92,
-            "name": "Real Sociedad de Fútbol",
-            "shortName": "Real Sociedad",
-            "tla": "RSO",
-            "crest": "https://crests.football-data.org/92.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 4,
-          "draw": 6,
-          "lost": 8,
-          "points": 18,
-          "goalsFor": 22,
-          "goalsAgainst": 26,
-          "goalDifference": -4
         },
         {
           "position": 16,
