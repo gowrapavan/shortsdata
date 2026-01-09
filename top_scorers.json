@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-08T06:17:20.626798Z",
+    "last_updated": "2026-01-09T06:17:30.537939Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -219,6 +219,15 @@
                     "nationality": "USA"
                 },
                 {
+                    "player_name": "Rafael Leão",
+                    "team_name": "AC Milan",
+                    "team_crest": "https://crests.football-data.org/98.png",
+                    "goals": 7,
+                    "assists": 1,
+                    "penalties": 2,
+                    "nationality": "Portugal"
+                },
+                {
                     "player_name": "Anastasios Douvikas",
                     "team_name": "Como 1907",
                     "team_crest": "https://crests.football-data.org/7397.png",
@@ -280,15 +289,6 @@
                     "assists": 2,
                     "penalties": null,
                     "nationality": "Denmark"
-                },
-                {
-                    "player_name": "Rafael Leão",
-                    "team_name": "AC Milan",
-                    "team_crest": "https://crests.football-data.org/98.png",
-                    "goals": 6,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "Portugal"
                 }
             ]
         },
