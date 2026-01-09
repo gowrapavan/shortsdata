@@ -4605,7 +4605,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-08",
     "DateTime": "2026-01-08T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 98,
@@ -4620,8 +4620,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "98": 0,
-      "107": 0
+      "98": 1,
+      "107": 1
     },
     "Goals": []
   },
@@ -5537,10 +5537,10 @@
   },
   {
     "GameId": 537031,
-    "RoundId": 5,
+    "RoundId": 19,
     "RoundName": "Serie A",
-    "Date": "2026-01-25",
-    "DateTime": "2026-01-25T00:00:00Z",
+    "Date": "2026-01-23",
+    "DateTime": "2026-01-23T19:45:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
