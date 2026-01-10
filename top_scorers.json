@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-09T06:17:30.537939Z",
+    "last_updated": "2026-01-10T06:14:55.674070Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -352,6 +352,15 @@
                     "nationality": "Bosnia-Herzegovina"
                 },
                 {
+                    "player_name": "Can Uzun",
+                    "team_name": "Eintracht Frankfurt",
+                    "team_crest": "https://crests.football-data.org/19.png",
+                    "goals": 6,
+                    "assists": 3,
+                    "penalties": 1,
+                    "nationality": "Turkey"
+                },
+                {
                     "player_name": "Fisnik Asllani",
                     "team_name": "TSG 1899 Hoffenheim",
                     "team_crest": "https://crests.football-data.org/2.png",
@@ -377,15 +386,6 @@
                     "assists": 6,
                     "penalties": null,
                     "nationality": "Austria"
-                },
-                {
-                    "player_name": "Patrik Schick",
-                    "team_name": "Bayer 04 Leverkusen",
-                    "team_crest": "https://crests.football-data.org/3.png",
-                    "goals": 6,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "Czech Republic"
                 }
             ]
         },
