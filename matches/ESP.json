@@ -4632,8 +4632,8 @@
     "AwayTeamName": "CA Osasuna",
     "HomeTeamLogo": "https://crests.football-data.org/298.png",
     "AwayTeamLogo": "https://crests.football-data.org/79.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "298": 0,
@@ -4647,7 +4647,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-01-10",
     "DateTime": "2026-01-10T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 94,
@@ -4658,11 +4658,11 @@
     "AwayTeamName": "Deportivo Alavés",
     "HomeTeamLogo": "https://crests.football-data.org/94.png",
     "AwayTeamLogo": "https://crests.football-data.org/263.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 94,
     "Points": {
-      "94": 0,
+      "94": 3,
       "263": 0
     },
     "Goals": []

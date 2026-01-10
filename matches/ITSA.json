@@ -4902,8 +4902,8 @@
     "AwayTeamName": "US Sassuolo Calcio",
     "HomeTeamLogo": "https://crests.football-data.org/100.png",
     "AwayTeamLogo": "https://crests.football-data.org/471.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "100": 0,
@@ -4969,7 +4969,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-10",
     "DateTime": "2026-01-10T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 7397,
@@ -4980,12 +4980,12 @@
     "AwayTeamName": "Bologna FC 1909",
     "HomeTeamLogo": "https://crests.football-data.org/7397.png",
     "AwayTeamLogo": "https://crests.football-data.org/103.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "7397": 0,
-      "103": 0
+      "7397": 1,
+      "103": 1
     },
     "Goals": []
   },
@@ -5073,7 +5073,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-10",
     "DateTime": "2026-01-10T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 115,
@@ -5085,11 +5085,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/115.png",
     "AwayTeamLogo": "https://crests.football-data.org/487.png",
     "HomeTeamScore": 2,
-    "AwayTeamScore": 1,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "115": 0,
-      "487": 0
+      "115": 1,
+      "487": 1
     },
     "Goals": []
   },
