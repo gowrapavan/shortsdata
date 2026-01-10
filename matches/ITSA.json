@@ -4891,7 +4891,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-10",
     "DateTime": "2026-01-10T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 100,
@@ -4902,11 +4902,11 @@
     "AwayTeamName": "US Sassuolo Calcio",
     "HomeTeamLogo": "https://crests.football-data.org/100.png",
     "AwayTeamLogo": "https://crests.football-data.org/471.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 100,
     "Points": {
-      "100": 0,
+      "100": 3,
       "471": 0
     },
     "Goals": []
@@ -4928,8 +4928,8 @@
     "AwayTeamName": "Torino FC",
     "HomeTeamLogo": "https://crests.football-data.org/102.png",
     "AwayTeamLogo": "https://crests.football-data.org/586.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "102": 0,
