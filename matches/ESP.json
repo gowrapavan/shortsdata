@@ -4777,7 +4777,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-01-11",
     "DateTime": "2026-01-11T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 88,
@@ -4788,12 +4788,12 @@
     "AwayTeamName": "RCD Espanyol de Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/88.png",
     "AwayTeamLogo": "https://crests.football-data.org/80.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "88": 0,
-      "80": 0
+      "88": 1,
+      "80": 1
     },
     "Goals": []
   },
