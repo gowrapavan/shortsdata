@@ -3443,7 +3443,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-01-11",
     "DateTime": "2026-01-11T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5,
@@ -3456,9 +3456,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/11.png",
     "HomeTeamScore": 8,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 5,
     "Points": {
-      "5": 0,
+      "5": 3,
       "11": 0
     },
     "Goals": []
