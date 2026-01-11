@@ -113,14 +113,14 @@
             "tla": "ESP",
             "crest": "https://crests.football-data.org/80.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
           "won": 10,
-          "draw": 3,
+          "draw": 4,
           "lost": 5,
-          "points": 33,
-          "goalsFor": 22,
-          "goalsAgainst": 19,
+          "points": 34,
+          "goalsFor": 23,
+          "goalsAgainst": 20,
           "goalDifference": 3
         },
         {
@@ -202,6 +202,25 @@
         {
           "position": 10,
           "team": {
+            "id": 87,
+            "name": "Rayo Vallecano de Madrid",
+            "shortName": "Rayo Vallecano",
+            "tla": "RAY",
+            "crest": "https://crests.football-data.org/87.png"
+          },
+          "playedGames": 19,
+          "form": null,
+          "won": 5,
+          "draw": 7,
+          "lost": 7,
+          "points": 22,
+          "goalsFor": 16,
+          "goalsAgainst": 22,
+          "goalDifference": -6
+        },
+        {
+          "position": 11,
+          "team": {
             "id": 92,
             "name": "Real Sociedad de Fútbol",
             "shortName": "Real Sociedad",
@@ -219,7 +238,7 @@
           "goalDifference": -3
         },
         {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 82,
             "name": "Getafe CF",
@@ -238,7 +257,7 @@
           "goalDifference": -10
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 298,
             "name": "Girona FC",
@@ -257,7 +276,7 @@
           "goalDifference": -16
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 559,
             "name": "Sevilla FC",
@@ -276,7 +295,7 @@
           "goalDifference": -5
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 79,
             "name": "CA Osasuna",
@@ -293,25 +312,6 @@
           "goalsFor": 18,
           "goalsAgainst": 22,
           "goalDifference": -4
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 87,
-            "name": "Rayo Vallecano de Madrid",
-            "shortName": "Rayo Vallecano",
-            "tla": "RAY",
-            "crest": "https://crests.football-data.org/87.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 4,
-          "draw": 7,
-          "lost": 7,
-          "points": 19,
-          "goalsFor": 14,
-          "goalsAgainst": 21,
-          "goalDifference": -7
         },
         {
           "position": 16,
@@ -341,15 +341,15 @@
             "tla": "MAL",
             "crest": "https://crests.football-data.org/89.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
           "won": 4,
           "draw": 6,
-          "lost": 8,
+          "lost": 9,
           "points": 18,
-          "goalsFor": 20,
-          "goalsAgainst": 26,
-          "goalDifference": -6
+          "goalsFor": 21,
+          "goalsAgainst": 28,
+          "goalDifference": -7
         },
         {
           "position": 18,
@@ -379,14 +379,14 @@
             "tla": "LEV",
             "crest": "https://crests.football-data.org/88.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
           "won": 3,
-          "draw": 4,
+          "draw": 5,
           "lost": 10,
-          "points": 13,
-          "goalsFor": 20,
-          "goalsAgainst": 29,
+          "points": 14,
+          "goalsFor": 21,
+          "goalsAgainst": 30,
           "goalDifference": -9
         },
         {
