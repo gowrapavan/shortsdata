@@ -3938,8 +3938,8 @@
     "AwayTeamName": "Fortuna Sittard",
     "HomeTeamLogo": "https://crests.football-data.org/718.png",
     "AwayTeamLogo": "https://crests.football-data.org/1920.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "718": 0,
@@ -4005,7 +4005,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-01-11",
     "DateTime": "2026-01-11T11:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 673,
@@ -4016,12 +4016,12 @@
     "AwayTeamName": "Feyenoord Rotterdam",
     "HomeTeamLogo": "https://crests.football-data.org/673.png",
     "AwayTeamLogo": "https://crests.football-data.org/675.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "673": 0,
-      "675": 0
+      "673": 1,
+      "675": 1
     },
     "Goals": []
   },
@@ -4068,8 +4068,8 @@
     "AwayTeamName": "AFC Ajax",
     "HomeTeamLogo": "https://crests.football-data.org/1912.png",
     "AwayTeamLogo": "https://crests.football-data.org/678.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
       "1912": 0,

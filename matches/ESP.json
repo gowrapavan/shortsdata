@@ -4803,7 +4803,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-01-11",
     "DateTime": "2026-01-11T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 87,
@@ -4814,11 +4814,11 @@
     "AwayTeamName": "RCD Mallorca",
     "HomeTeamLogo": "https://crests.football-data.org/87.png",
     "AwayTeamLogo": "https://crests.football-data.org/89.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 87,
     "Points": {
-      "87": 0,
+      "87": 3,
       "89": 0
     },
     "Goals": []
