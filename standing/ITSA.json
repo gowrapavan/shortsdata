@@ -69,6 +69,25 @@
         {
           "position": 3,
           "team": {
+            "id": 109,
+            "name": "Juventus FC",
+            "shortName": "Juventus",
+            "tla": "JUV",
+            "crest": "https://crests.football-data.org/109.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 11,
+          "draw": 6,
+          "lost": 3,
+          "points": 39,
+          "goalsFor": 32,
+          "goalsAgainst": 16,
+          "goalDifference": 16
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 113,
             "name": "SSC Napoli",
             "shortName": "Napoli",
@@ -84,25 +103,6 @@
           "goalsFor": 30,
           "goalsAgainst": 17,
           "goalDifference": 13
-        },
-        {
-          "position": 4,
-          "team": {
-            "id": 109,
-            "name": "Juventus FC",
-            "shortName": "Juventus",
-            "tla": "JUV",
-            "crest": "https://crests.football-data.org/109.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 11,
-          "draw": 6,
-          "lost": 3,
-          "points": 39,
-          "goalsFor": 28,
-          "goalsAgainst": 16,
-          "goalDifference": 12
         },
         {
           "position": 5,
@@ -272,8 +272,8 @@
           "lost": 8,
           "points": 22,
           "goalsFor": 20,
-          "goalsAgainst": 24,
-          "goalDifference": -4
+          "goalsAgainst": 28,
+          "goalDifference": -8
         },
         {
           "position": 14,
