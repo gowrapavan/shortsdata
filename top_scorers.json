@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-11T06:15:44.797531Z",
+    "last_updated": "2026-01-12T06:20:01.676772Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -125,7 +125,7 @@
                     "player_name": "Vedat Muriqi",
                     "team_name": "RCD Mallorca",
                     "team_crest": "https://crests.football-data.org/89.png",
-                    "goals": 10,
+                    "goals": 11,
                     "assists": null,
                     "penalties": 3,
                     "nationality": "Kosovo"
@@ -219,6 +219,15 @@
                     "nationality": "USA"
                 },
                 {
+                    "player_name": "Hakan Çalhanoğlu",
+                    "team_name": "FC Internazionale Milano",
+                    "team_crest": "https://crests.football-data.org/108.png",
+                    "goals": 7,
+                    "assists": 2,
+                    "penalties": 3,
+                    "nationality": "Turkey"
+                },
+                {
                     "player_name": "Rafael Leão",
                     "team_name": "AC Milan",
                     "team_crest": "https://crests.football-data.org/98.png",
@@ -250,7 +259,7 @@
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
                     "goals": 6,
-                    "assists": 1,
+                    "assists": 2,
                     "penalties": null,
                     "nationality": "France"
                 },
@@ -280,15 +289,6 @@
                     "assists": 3,
                     "penalties": 3,
                     "nationality": "England"
-                },
-                {
-                    "player_name": "Hakan Çalhanoğlu",
-                    "team_name": "FC Internazionale Milano",
-                    "team_crest": "https://crests.football-data.org/108.png",
-                    "goals": 6,
-                    "assists": 2,
-                    "penalties": 2,
-                    "nationality": "Turkey"
                 }
             ]
         },
@@ -301,10 +301,37 @@
                     "player_name": "Harry Kane",
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 19,
-                    "assists": 2,
+                    "goals": 20,
+                    "assists": 3,
                     "penalties": 6,
                     "nationality": "England"
+                },
+                {
+                    "player_name": "Michael Olise",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 9,
+                    "assists": 9,
+                    "penalties": null,
+                    "nationality": "France"
+                },
+                {
+                    "player_name": "Luis Díaz",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 9,
+                    "assists": 6,
+                    "penalties": null,
+                    "nationality": "Colombia"
+                },
+                {
+                    "player_name": "Haris Tabaković",
+                    "team_name": "Borussia Mönchengladbach",
+                    "team_crest": "https://crests.football-data.org/18.png",
+                    "goals": 9,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Bosnia-Herzegovina"
                 },
                 {
                     "player_name": "Deniz Undav",
@@ -316,15 +343,6 @@
                     "nationality": "Germany"
                 },
                 {
-                    "player_name": "Luis Díaz",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 8,
-                    "assists": 4,
-                    "penalties": null,
-                    "nationality": "Colombia"
-                },
-                {
                     "player_name": "Jonathan Burkardt",
                     "team_name": "Eintracht Frankfurt",
                     "team_crest": "https://crests.football-data.org/19.png",
@@ -334,15 +352,6 @@
                     "nationality": "Germany"
                 },
                 {
-                    "player_name": "Michael Olise",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 7,
-                    "assists": 8,
-                    "penalties": null,
-                    "nationality": "France"
-                },
-                {
                     "player_name": "Said El Mala",
                     "team_name": "1. FC Köln",
                     "team_crest": "https://crests.football-data.org/1.png",
@@ -350,15 +359,6 @@
                     "assists": 2,
                     "penalties": null,
                     "nationality": "Germany"
-                },
-                {
-                    "player_name": "Haris Tabaković",
-                    "team_name": "Borussia Mönchengladbach",
-                    "team_crest": "https://crests.football-data.org/18.png",
-                    "goals": 7,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "Bosnia-Herzegovina"
                 },
                 {
                     "player_name": "Can Uzun",
@@ -496,7 +496,7 @@
                     "team_name": "Feyenoord Rotterdam",
                     "team_crest": "https://crests.football-data.org/675.png",
                     "goals": 18,
-                    "assists": null,
+                    "assists": 1,
                     "penalties": null,
                     "nationality": "Japan"
                 },
@@ -528,6 +528,15 @@
                     "nationality": "Ireland"
                 },
                 {
+                    "player_name": "Tobias Lauritsen",
+                    "team_name": "Sparta Rotterdam",
+                    "team_crest": "https://crests.football-data.org/6806.png",
+                    "goals": 9,
+                    "assists": 2,
+                    "penalties": 3,
+                    "nationality": "Norway"
+                },
+                {
                     "player_name": "Ismael Saibari",
                     "team_name": "PSV",
                     "team_crest": "https://crests.football-data.org/674.png",
@@ -555,13 +564,13 @@
                     "nationality": "Netherlands"
                 },
                 {
-                    "player_name": "Tobias Lauritsen",
-                    "team_name": "Sparta Rotterdam",
-                    "team_crest": "https://crests.football-data.org/6806.png",
+                    "player_name": "Mika Godts",
+                    "team_name": "AFC Ajax",
+                    "team_crest": "https://crests.football-data.org/678.png",
                     "goals": 8,
-                    "assists": 1,
-                    "penalties": 3,
-                    "nationality": "Norway"
+                    "assists": 6,
+                    "penalties": null,
+                    "nationality": "Belgium"
                 },
                 {
                     "player_name": "Ricardo Pepi",
@@ -571,15 +580,6 @@
                     "assists": null,
                     "penalties": 1,
                     "nationality": "USA"
-                },
-                {
-                    "player_name": "Kento Shiogai",
-                    "team_name": "NEC",
-                    "team_crest": "https://crests.football-data.org/1915.png",
-                    "goals": 7,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Japan"
                 }
             ]
         },
