@@ -151,12 +151,12 @@
             "tla": "CEL",
             "crest": "https://crests.football-data.org/558.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
           "won": 6,
-          "draw": 8,
+          "draw": 9,
           "lost": 4,
-          "points": 26,
+          "points": 27,
           "goalsFor": 24,
           "goalsAgainst": 20,
           "goalDifference": 4
@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 559,
+            "name": "Sevilla FC",
+            "shortName": "Sevilla FC",
+            "tla": "SEV",
+            "crest": "https://crests.football-data.org/559.png"
+          },
+          "playedGames": 19,
+          "form": null,
+          "won": 6,
+          "draw": 3,
+          "lost": 10,
+          "points": 21,
+          "goalsFor": 24,
+          "goalsAgainst": 29,
+          "goalDifference": -5
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 82,
             "name": "Getafe CF",
             "shortName": "Getafe",
@@ -257,7 +276,7 @@
           "goalDifference": -10
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 298,
             "name": "Girona FC",
@@ -274,25 +293,6 @@
           "goalsFor": 18,
           "goalsAgainst": 34,
           "goalDifference": -16
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 559,
-            "name": "Sevilla FC",
-            "shortName": "Sevilla FC",
-            "tla": "SEV",
-            "crest": "https://crests.football-data.org/559.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 6,
-          "draw": 2,
-          "lost": 10,
-          "points": 20,
-          "goalsFor": 24,
-          "goalsAgainst": 29,
-          "goalDifference": -5
         },
         {
           "position": 15,

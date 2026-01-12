@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 109,
+            "name": "Juventus FC",
+            "shortName": "Juventus",
+            "tla": "JUV",
+            "crest": "https://crests.football-data.org/109.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 11,
+          "draw": 6,
+          "lost": 3,
+          "points": 39,
+          "goalsFor": 28,
+          "goalsAgainst": 16,
+          "goalDifference": 12
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 100,
             "name": "AS Roma",
             "shortName": "Roma",
@@ -103,25 +122,6 @@
           "goalsFor": 24,
           "goalsAgainst": 12,
           "goalDifference": 12
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 109,
-            "name": "Juventus FC",
-            "shortName": "Juventus",
-            "tla": "JUV",
-            "crest": "https://crests.football-data.org/109.png"
-          },
-          "playedGames": 19,
-          "form": null,
-          "won": 10,
-          "draw": 6,
-          "lost": 3,
-          "points": 36,
-          "goalsFor": 27,
-          "goalsAgainst": 16,
-          "goalDifference": 11
         },
         {
           "position": 6,
@@ -265,15 +265,15 @@
             "tla": "CRE",
             "crest": "https://crests.football-data.org/457.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 5,
           "draw": 7,
-          "lost": 7,
+          "lost": 8,
           "points": 22,
           "goalsFor": 20,
-          "goalsAgainst": 23,
-          "goalDifference": -3
+          "goalsAgainst": 24,
+          "goalDifference": -4
         },
         {
           "position": 14,
@@ -297,24 +297,43 @@
         {
           "position": 15,
           "team": {
+            "id": 107,
+            "name": "Genoa CFC",
+            "shortName": "Genoa",
+            "tla": "GEN",
+            "crest": "https://crests.football-data.org/107.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 4,
+          "draw": 7,
+          "lost": 9,
+          "points": 19,
+          "goalsFor": 22,
+          "goalsAgainst": 29,
+          "goalDifference": -7
+        },
+        {
+          "position": 16,
+          "team": {
             "id": 104,
             "name": "Cagliari Calcio",
             "shortName": "Cagliari",
             "tla": "CAG",
             "crest": "https://crests.football-data.org/104.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 4,
           "draw": 7,
-          "lost": 8,
+          "lost": 9,
           "points": 19,
           "goalsFor": 21,
-          "goalsAgainst": 27,
-          "goalDifference": -6
+          "goalsAgainst": 30,
+          "goalDifference": -9
         },
         {
-          "position": 16,
+          "position": 17,
           "team": {
             "id": 5890,
             "name": "US Lecce",
@@ -331,25 +350,6 @@
           "goalsFor": 13,
           "goalsAgainst": 27,
           "goalDifference": -14
-        },
-        {
-          "position": 17,
-          "team": {
-            "id": 107,
-            "name": "Genoa CFC",
-            "shortName": "Genoa",
-            "tla": "GEN",
-            "crest": "https://crests.football-data.org/107.png"
-          },
-          "playedGames": 19,
-          "form": null,
-          "won": 3,
-          "draw": 7,
-          "lost": 9,
-          "points": 16,
-          "goalsFor": 19,
-          "goalsAgainst": 29,
-          "goalDifference": -10
         },
         {
           "position": 18,
