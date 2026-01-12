@@ -88,13 +88,6 @@
         "nationality": "USA"
       },
       {
-        "id": 250365,
-        "name": "Neo Telle",
-        "position": "Defence",
-        "dateOfBirth": "2005-04-24",
-        "nationality": "Germany"
-      },
-      {
         "id": 127596,
         "name": "Ísak Jóhannesson",
         "position": "Midfield",
@@ -137,45 +130,17 @@
         "nationality": "Germany"
       },
       {
+        "id": 280363,
+        "name": "Youssoupha Niang",
+        "position": "Offence",
+        "dateOfBirth": "2006-03-25",
+        "nationality": "Germany"
+      },
+      {
         "id": 290065,
         "name": "Fynn Schenten",
         "position": "Offence",
         "dateOfBirth": "2007-09-14",
-        "nationality": "Germany"
-      },
-      {
-        "id": 260917,
-        "name": "Fayssal Harchaoui",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2006-01-15",
-        "nationality": "Germany"
-      },
-      {
-        "id": 152743,
-        "name": "Rav van den Berg",
-        "position": "Centre-Back",
-        "dateOfBirth": "2004-07-07",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 152726,
-        "name": "Eric Martel",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2002-04-29",
-        "nationality": "Germany"
-      },
-      {
-        "id": 150087,
-        "name": "Denis Huseinbasic",
-        "position": "Central Midfield",
-        "dateOfBirth": "2001-07-03",
-        "nationality": "Bosnia-Herzegovina"
-      },
-      {
-        "id": 137031,
-        "name": "Jan Thielmann",
-        "position": "Right-Back",
-        "dateOfBirth": "2002-05-26",
         "nationality": "Germany"
       },
       {
@@ -253,6 +218,48 @@
         "name": "Dominique Heintz",
         "position": "Centre-Back",
         "dateOfBirth": "1993-08-15",
+        "nationality": "Germany"
+      },
+      {
+        "id": 272307,
+        "name": "Jahmai Simpson-Pusey",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-11-04",
+        "nationality": "England"
+      },
+      {
+        "id": 260917,
+        "name": "Fayssal Harchaoui",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2006-01-15",
+        "nationality": "Germany"
+      },
+      {
+        "id": 152743,
+        "name": "Rav van den Berg",
+        "position": "Centre-Back",
+        "dateOfBirth": "2004-07-07",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 152726,
+        "name": "Eric Martel",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2002-04-29",
+        "nationality": "Germany"
+      },
+      {
+        "id": 150087,
+        "name": "Denis Huseinbasic",
+        "position": "Central Midfield",
+        "dateOfBirth": "2001-07-03",
+        "nationality": "Bosnia-Herzegovina"
+      },
+      {
+        "id": 137031,
+        "name": "Jan Thielmann",
+        "position": "Right-Back",
+        "dateOfBirth": "2002-05-26",
         "nationality": "Germany"
       }
     ],
@@ -411,41 +418,6 @@
         "nationality": "Nigeria"
       },
       {
-        "id": 248657,
-        "name": "Max Moerstedt",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2006-01-15",
-        "nationality": "Germany"
-      },
-      {
-        "id": 186086,
-        "name": "Muhammed Damar",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2004-04-09",
-        "nationality": "Germany"
-      },
-      {
-        "id": 145562,
-        "name": "Fisnik Asllani",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2002-08-08",
-        "nationality": "Kosovo"
-      },
-      {
-        "id": 144433,
-        "name": "Tim Lemperle",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2002-02-05",
-        "nationality": "Germany"
-      },
-      {
-        "id": 121279,
-        "name": "Valentin Gendrey",
-        "position": "Right-Back",
-        "dateOfBirth": "2000-06-21",
-        "nationality": "France"
-      },
-      {
         "id": 76770,
         "name": "Wouter Burger",
         "position": "Defensive Midfield",
@@ -514,6 +486,48 @@
         "position": "Centre-Back",
         "dateOfBirth": "1995-04-19",
         "nationality": "Nigeria"
+      },
+      {
+        "id": 265182,
+        "name": "Cole Campbell",
+        "position": "Right Winger",
+        "dateOfBirth": "2006-02-20",
+        "nationality": "USA"
+      },
+      {
+        "id": 248657,
+        "name": "Max Moerstedt",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2006-01-15",
+        "nationality": "Germany"
+      },
+      {
+        "id": 186086,
+        "name": "Muhammed Damar",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2004-04-09",
+        "nationality": "Germany"
+      },
+      {
+        "id": 145562,
+        "name": "Fisnik Asllani",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2002-08-08",
+        "nationality": "Kosovo"
+      },
+      {
+        "id": 144433,
+        "name": "Tim Lemperle",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2002-02-05",
+        "nationality": "Germany"
+      },
+      {
+        "id": 121279,
+        "name": "Valentin Gendrey",
+        "position": "Right-Back",
+        "dateOfBirth": "2000-06-21",
+        "nationality": "France"
       }
     ],
     "staff": [],
@@ -604,7 +618,7 @@
         "id": 154228,
         "name": "Nicolás Ezequiel Fernández",
         "position": "Defence",
-        "dateOfBirth": "2000-01-11",
+        "dateOfBirth": "2002-07-25",
         "nationality": "Argentina"
       },
       {
@@ -924,6 +938,13 @@
         "nationality": "Morocco"
       },
       {
+        "id": 278316,
+        "name": "Mussa Kaba",
+        "position": "Midfield",
+        "dateOfBirth": "2008-11-17",
+        "nationality": "Germany"
+      },
+      {
         "id": 279090,
         "name": "Samuele Inácio",
         "position": "Offence",
@@ -1020,13 +1041,6 @@
         "position": "Attacking Midfield",
         "dateOfBirth": "1996-05-02",
         "nationality": "Germany"
-      },
-      {
-        "id": 265182,
-        "name": "Cole Campbell",
-        "position": "Right Winger",
-        "dateOfBirth": "2006-02-20",
-        "nationality": "USA"
       },
       {
         "id": 263672,
@@ -1226,6 +1240,13 @@
         "nationality": "Portugal"
       },
       {
+        "id": 290450,
+        "name": "Bara Sapoko Ndiaye",
+        "position": "Midfield",
+        "dateOfBirth": null,
+        "nationality": "Gambia"
+      },
+      {
         "id": 275164,
         "name": "Wisdom Mike",
         "position": "Offence",
@@ -1423,13 +1444,6 @@
         "nationality": "Portugal"
       },
       {
-        "id": 113105,
-        "name": "Daniel Peretz",
-        "position": "Goalkeeper",
-        "dateOfBirth": "2000-07-10",
-        "nationality": "Israel"
-      },
-      {
         "id": 209640,
         "name": "Hannes Hermann",
         "position": "Goalkeeper",
@@ -1479,11 +1493,25 @@
         "nationality": "Argentina"
       },
       {
+        "id": 187069,
+        "name": "Omar Megeed",
+        "position": "Midfield",
+        "dateOfBirth": "2005-08-19",
+        "nationality": "Germany"
+      },
+      {
         "id": 252883,
         "name": "Alexander Røssing-Lelesiit",
         "position": "Offence",
         "dateOfBirth": "2007-01-20",
         "nationality": "Norway"
+      },
+      {
+        "id": 135467,
+        "name": "Warmed Omari",
+        "position": "Centre-Back",
+        "dateOfBirth": "2000-04-23",
+        "nationality": "Comoros"
       },
       {
         "id": 132345,
@@ -1598,6 +1626,13 @@
         "nationality": "Germany"
       },
       {
+        "id": 185185,
+        "name": "Damion Downs",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2004-07-06",
+        "nationality": "USA"
+      },
+      {
         "id": 183356,
         "name": "Daniel Elfadli",
         "position": "Defensive Midfield",
@@ -1631,13 +1666,6 @@
         "position": "Centre-Forward",
         "dateOfBirth": "2001-09-13",
         "nationality": "Ghana"
-      },
-      {
-        "id": 135467,
-        "name": "Warmed Omari",
-        "position": "Centre-Back",
-        "dateOfBirth": "2000-04-23",
-        "nationality": "Comoros"
       }
     ],
     "staff": [],
@@ -1774,25 +1802,11 @@
         "nationality": "Serbia"
       },
       {
-        "id": 178640,
-        "name": "Silas Katompa Mvumpa",
-        "position": "Offence",
-        "dateOfBirth": "1998-10-06",
-        "nationality": "DR Congo"
-      },
-      {
         "id": 191186,
         "name": "Justin Diehl",
         "position": "Offence",
         "dateOfBirth": "2004-11-27",
         "nationality": "Germany"
-      },
-      {
-        "id": 145057,
-        "name": "Tiago Tomás",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2002-06-16",
-        "nationality": "Portugal"
       },
       {
         "id": 135485,
@@ -1947,6 +1961,13 @@
         "position": "Centre-Forward",
         "dateOfBirth": "2003-10-16",
         "nationality": "Netherlands"
+      },
+      {
+        "id": 145057,
+        "name": "Tiago Tomás",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2002-06-16",
+        "nationality": "Portugal"
       }
     ],
     "staff": [],
@@ -2659,11 +2680,25 @@
         "nationality": "Germany"
       },
       {
+        "id": 150608,
+        "name": "Fabio Moreno Fell",
+        "position": "Offence",
+        "dateOfBirth": "2000-06-04",
+        "nationality": "Germany"
+      },
+      {
         "id": 151458,
         "name": "Armindo Sieb",
         "position": "Offence",
         "dateOfBirth": "2003-02-17",
         "nationality": "Germany"
+      },
+      {
+        "id": 178640,
+        "name": "Silas Katompa Mvumpa",
+        "position": "Offence",
+        "dateOfBirth": "1998-10-06",
+        "nationality": "DR Congo"
       },
       {
         "id": 203211,
@@ -2975,13 +3010,6 @@
         "nationality": "Germany"
       },
       {
-        "id": 72477,
-        "name": "Maximilian Bauer",
-        "position": "Centre-Back",
-        "dateOfBirth": "2000-02-09",
-        "nationality": "Germany"
-      },
-      {
         "id": 65692,
         "name": "Robin Fellhauer",
         "position": "Defensive Midfield",
@@ -3029,6 +3057,13 @@
         "position": "Right-Back",
         "dateOfBirth": "1995-05-27",
         "nationality": "Germany"
+      },
+      {
+        "id": 6661,
+        "name": "Michael Gregoritsch",
+        "position": "Centre-Forward",
+        "dateOfBirth": "1994-04-18",
+        "nationality": "Austria"
       },
       {
         "id": 6645,
@@ -3748,6 +3783,13 @@
         "nationality": "Belgium"
       },
       {
+        "id": 130668,
+        "name": "Arnaud Kalimuendo",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2002-01-20",
+        "nationality": "France"
+      },
+      {
         "id": 123049,
         "name": "Jessic Ngankam",
         "position": "Centre-Forward",
@@ -3945,6 +3987,13 @@
         "nationality": "Germany"
       },
       {
+        "id": 145071,
+        "name": "Emil Gazdov",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2003-09-11",
+        "nationality": "Canada"
+      },
+      {
         "id": 217277,
         "name": "Simon Spari",
         "position": "Goalkeeper",
@@ -4006,13 +4055,6 @@
         "position": "Midfield",
         "dateOfBirth": "2007-09-12",
         "nationality": "Japan"
-      },
-      {
-        "id": 111737,
-        "name": "Erik Ahlstrand",
-        "position": "Central Midfield",
-        "dateOfBirth": "2001-10-14",
-        "nationality": "Sweden"
       },
       {
         "id": 102498,
@@ -4259,13 +4301,6 @@
         "position": "Offence",
         "dateOfBirth": "2007-03-06",
         "nationality": "Ukraine"
-      },
-      {
-        "id": 240197,
-        "name": "Oluwaseun Ogbemudia",
-        "position": "Centre-Back",
-        "dateOfBirth": "2006-07-18",
-        "nationality": "Germany"
       },
       {
         "id": 212285,
