@@ -4943,7 +4943,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-12",
     "DateTime": "2026-01-12T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 107,
@@ -4954,11 +4954,11 @@
     "AwayTeamName": "Cagliari Calcio",
     "HomeTeamLogo": "https://crests.football-data.org/107.png",
     "AwayTeamLogo": "https://crests.football-data.org/104.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 107,
     "Points": {
-      "107": 0,
+      "107": 3,
       "104": 0
     },
     "Goals": []
@@ -5058,8 +5058,8 @@
     "AwayTeamName": "US Cremonese",
     "HomeTeamLogo": "https://crests.football-data.org/109.png",
     "AwayTeamLogo": "https://crests.football-data.org/457.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "109": 0,
