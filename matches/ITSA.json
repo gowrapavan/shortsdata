@@ -5021,7 +5021,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-11",
     "DateTime": "2026-01-11T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 108,
@@ -5032,12 +5032,12 @@
     "AwayTeamName": "SSC Napoli",
     "HomeTeamLogo": "https://crests.football-data.org/108.png",
     "AwayTeamLogo": "https://crests.football-data.org/113.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "108": 0,
-      "113": 0
+      "108": 1,
+      "113": 1
     },
     "Goals": []
   },
@@ -5511,10 +5511,10 @@
   },
   {
     "GameId": 537030,
-    "RoundId": 5,
+    "RoundId": 20,
     "RoundName": "Serie A",
-    "Date": "2026-01-25",
-    "DateTime": "2026-01-25T00:00:00Z",
+    "Date": "2026-01-26",
+    "DateTime": "2026-01-26T19:45:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
