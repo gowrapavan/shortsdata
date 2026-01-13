@@ -4,7 +4,7 @@ import requests
 import time
 import sys
 
-URL = "https://tmbd-wz5v.onrender.com/discover/movie"
+URL = "https://tmbd-wz5v.onrender.com/person/1141894"
 
 TIMEOUT = 240        # 4 minutes (Render cold start safe)
 MAX_RETRIES = 3      # retry in case Render resets connection
