@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-12T06:20:01.676772Z",
+    "last_updated": "2026-01-13T06:17:05.395187Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -228,6 +228,15 @@
                     "nationality": "Turkey"
                 },
                 {
+                    "player_name": "Kenan Yıldız",
+                    "team_name": "Juventus FC",
+                    "team_crest": "https://crests.football-data.org/109.png",
+                    "goals": 7,
+                    "assists": 4,
+                    "penalties": 1,
+                    "nationality": "Turkey"
+                },
+                {
                     "player_name": "Rafael Leão",
                     "team_name": "AC Milan",
                     "team_crest": "https://crests.football-data.org/98.png",
@@ -280,15 +289,6 @@
                     "assists": 4,
                     "penalties": null,
                     "nationality": "Argentina"
-                },
-                {
-                    "player_name": "Keinan Davis",
-                    "team_name": "Udinese Calcio",
-                    "team_crest": "https://crests.football-data.org/115.png",
-                    "goals": 6,
-                    "assists": 3,
-                    "penalties": 3,
-                    "nationality": "England"
                 }
             ]
         },
