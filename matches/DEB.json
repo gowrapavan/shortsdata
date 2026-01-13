@@ -3688,8 +3688,8 @@
     "AwayTeamName": "SV Werder Bremen",
     "HomeTeamLogo": "https://crests.football-data.org/4.png",
     "AwayTeamLogo": "https://crests.football-data.org/12.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "4": 0,
@@ -3714,8 +3714,8 @@
     "AwayTeamName": "1. FC Heidenheim 1846",
     "HomeTeamLogo": "https://crests.football-data.org/15.png",
     "AwayTeamLogo": "https://crests.football-data.org/44.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "15": 0,
@@ -3755,7 +3755,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-01-13",
     "DateTime": "2026-01-13T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 10,
@@ -3766,11 +3766,11 @@
     "AwayTeamName": "Eintracht Frankfurt",
     "HomeTeamLogo": "https://crests.football-data.org/10.png",
     "AwayTeamLogo": "https://crests.football-data.org/19.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 10,
     "Points": {
-      "10": 0,
+      "10": 3,
       "19": 0
     },
     "Goals": []
