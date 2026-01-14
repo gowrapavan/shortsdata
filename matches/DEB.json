@@ -3677,7 +3677,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-01-13",
     "DateTime": "2026-01-13T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 4,
@@ -3690,9 +3690,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/12.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 4,
     "Points": {
-      "4": 0,
+      "4": 3,
       "12": 0
     },
     "Goals": []
@@ -3703,7 +3703,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-01-13",
     "DateTime": "2026-01-13T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 15,
@@ -3716,9 +3716,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/44.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 15,
     "Points": {
-      "15": 0,
+      "15": 3,
       "44": 0
     },
     "Goals": []
