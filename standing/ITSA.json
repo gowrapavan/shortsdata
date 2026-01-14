@@ -37,12 +37,12 @@
             "tla": "INT",
             "crest": "https://crests.football-data.org/108.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 14,
-          "draw": 1,
+          "draw": 2,
           "lost": 4,
-          "points": 43,
+          "points": 44,
           "goalsFor": 42,
           "goalsAgainst": 17,
           "goalDifference": 25
@@ -69,6 +69,25 @@
         {
           "position": 3,
           "team": {
+            "id": 113,
+            "name": "SSC Napoli",
+            "shortName": "Napoli",
+            "tla": "NAP",
+            "crest": "https://crests.football-data.org/113.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 12,
+          "draw": 4,
+          "lost": 4,
+          "points": 40,
+          "goalsFor": 30,
+          "goalsAgainst": 17,
+          "goalDifference": 13
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 109,
             "name": "Juventus FC",
             "shortName": "Juventus",
@@ -84,25 +103,6 @@
           "goalsFor": 32,
           "goalsAgainst": 16,
           "goalDifference": 16
-        },
-        {
-          "position": 4,
-          "team": {
-            "id": 113,
-            "name": "SSC Napoli",
-            "shortName": "Napoli",
-            "tla": "NAP",
-            "crest": "https://crests.football-data.org/113.png"
-          },
-          "playedGames": 19,
-          "form": null,
-          "won": 12,
-          "draw": 3,
-          "lost": 4,
-          "points": 39,
-          "goalsFor": 30,
-          "goalsAgainst": 17,
-          "goalDifference": 13
         },
         {
           "position": 5,
@@ -284,12 +284,12 @@
             "tla": "PAR",
             "crest": "https://crests.football-data.org/112.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 5,
-          "draw": 6,
+          "draw": 7,
           "lost": 8,
-          "points": 21,
+          "points": 22,
           "goalsFor": 14,
           "goalsAgainst": 22,
           "goalDifference": -8
@@ -341,12 +341,12 @@
             "tla": "USL",
             "crest": "https://crests.football-data.org/5890.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 4,
-          "draw": 5,
+          "draw": 6,
           "lost": 10,
-          "points": 17,
+          "points": 18,
           "goalsFor": 13,
           "goalsAgainst": 27,
           "goalDifference": -14

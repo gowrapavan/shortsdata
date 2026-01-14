@@ -37,12 +37,12 @@
             "tla": "FCB",
             "crest": "https://crests.football-data.org/5.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 14,
-          "draw": 2,
+          "draw": 3,
           "lost": 0,
-          "points": 44,
+          "points": 45,
           "goalsFor": 63,
           "goalsAgainst": 12,
           "goalDifference": 51
@@ -88,24 +88,43 @@
         {
           "position": 4,
           "team": {
+            "id": 2,
+            "name": "TSG 1899 Hoffenheim",
+            "shortName": "Hoffenheim",
+            "tla": "TSG",
+            "crest": "https://crests.football-data.org/2.png"
+          },
+          "playedGames": 16,
+          "form": null,
+          "won": 9,
+          "draw": 3,
+          "lost": 4,
+          "points": 30,
+          "goalsFor": 31,
+          "goalsAgainst": 20,
+          "goalDifference": 11
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 721,
             "name": "RB Leipzig",
             "shortName": "RB Leipzig",
             "tla": "RBL",
             "crest": "https://crests.football-data.org/721.png"
           },
-          "playedGames": 15,
+          "playedGames": 16,
           "form": null,
           "won": 9,
-          "draw": 2,
+          "draw": 3,
           "lost": 4,
-          "points": 29,
+          "points": 30,
           "goalsFor": 30,
           "goalsAgainst": 19,
           "goalDifference": 11
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 3,
             "name": "Bayer 04 Leverkusen",
@@ -122,25 +141,6 @@
           "goalsFor": 34,
           "goalsAgainst": 24,
           "goalDifference": 10
-        },
-        {
-          "position": 6,
-          "team": {
-            "id": 2,
-            "name": "TSG 1899 Hoffenheim",
-            "shortName": "Hoffenheim",
-            "tla": "TSG",
-            "crest": "https://crests.football-data.org/2.png"
-          },
-          "playedGames": 15,
-          "form": null,
-          "won": 8,
-          "draw": 3,
-          "lost": 4,
-          "points": 27,
-          "goalsFor": 29,
-          "goalsAgainst": 20,
-          "goalDifference": 9
         },
         {
           "position": 7,
@@ -170,12 +170,12 @@
             "tla": "SCF",
             "crest": "https://crests.football-data.org/17.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 6,
-          "draw": 5,
+          "draw": 6,
           "lost": 5,
-          "points": 23,
+          "points": 24,
           "goalsFor": 27,
           "goalsAgainst": 27,
           "goalDifference": 0
@@ -208,15 +208,15 @@
             "tla": "BMG",
             "crest": "https://crests.football-data.org/18.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 5,
           "draw": 4,
-          "lost": 7,
+          "lost": 8,
           "points": 19,
           "goalsFor": 22,
-          "goalsAgainst": 24,
-          "goalDifference": -2
+          "goalsAgainst": 26,
+          "goalDifference": -4
         },
         {
           "position": 11,
@@ -227,18 +227,37 @@
             "tla": "KOE",
             "crest": "https://crests.football-data.org/1.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 4,
-          "draw": 5,
+          "draw": 6,
           "lost": 7,
-          "points": 17,
+          "points": 18,
           "goalsFor": 24,
           "goalsAgainst": 26,
           "goalDifference": -2
         },
         {
           "position": 12,
+          "team": {
+            "id": 11,
+            "name": "VfL Wolfsburg",
+            "shortName": "Wolfsburg",
+            "tla": "WOB",
+            "crest": "https://crests.football-data.org/11.png"
+          },
+          "playedGames": 17,
+          "form": null,
+          "won": 5,
+          "draw": 3,
+          "lost": 9,
+          "points": 18,
+          "goalsFor": 26,
+          "goalsAgainst": 37,
+          "goalDifference": -11
+        },
+        {
+          "position": 13,
           "team": {
             "id": 12,
             "name": "SV Werder Bremen",
@@ -257,7 +276,7 @@
           "goalDifference": -13
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 7,
             "name": "Hamburger SV",
@@ -274,25 +293,6 @@
           "goalsFor": 17,
           "goalsAgainst": 27,
           "goalDifference": -10
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 11,
-            "name": "VfL Wolfsburg",
-            "shortName": "Wolfsburg",
-            "tla": "WOB",
-            "crest": "https://crests.football-data.org/11.png"
-          },
-          "playedGames": 16,
-          "form": null,
-          "won": 4,
-          "draw": 3,
-          "lost": 9,
-          "points": 15,
-          "goalsFor": 24,
-          "goalsAgainst": 36,
-          "goalDifference": -12
         },
         {
           "position": 15,
@@ -341,15 +341,15 @@
             "tla": "STP",
             "crest": "https://crests.football-data.org/20.png"
           },
-          "playedGames": 15,
+          "playedGames": 16,
           "form": null,
           "won": 3,
           "draw": 3,
-          "lost": 9,
+          "lost": 10,
           "points": 12,
-          "goalsFor": 13,
-          "goalsAgainst": 26,
-          "goalDifference": -13
+          "goalsFor": 14,
+          "goalsAgainst": 28,
+          "goalDifference": -14
         },
         {
           "position": 18,
