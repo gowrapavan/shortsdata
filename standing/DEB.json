@@ -39,13 +39,13 @@
           },
           "playedGames": 17,
           "form": null,
-          "won": 14,
-          "draw": 3,
+          "won": 15,
+          "draw": 2,
           "lost": 0,
-          "points": 45,
-          "goalsFor": 63,
-          "goalsAgainst": 12,
-          "goalDifference": 51
+          "points": 47,
+          "goalsFor": 66,
+          "goalsAgainst": 13,
+          "goalDifference": 53
         },
         {
           "position": 2,
@@ -69,6 +69,25 @@
         {
           "position": 3,
           "team": {
+            "id": 721,
+            "name": "RB Leipzig",
+            "shortName": "RB Leipzig",
+            "tla": "RBL",
+            "crest": "https://crests.football-data.org/721.png"
+          },
+          "playedGames": 16,
+          "form": null,
+          "won": 10,
+          "draw": 2,
+          "lost": 4,
+          "points": 32,
+          "goalsFor": 32,
+          "goalsAgainst": 19,
+          "goalDifference": 13
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 10,
             "name": "VfB Stuttgart",
             "shortName": "Stuttgart",
@@ -86,7 +105,7 @@
           "goalDifference": 7
         },
         {
-          "position": 4,
+          "position": 5,
           "team": {
             "id": 2,
             "name": "TSG 1899 Hoffenheim",
@@ -100,28 +119,9 @@
           "draw": 3,
           "lost": 4,
           "points": 30,
-          "goalsFor": 31,
-          "goalsAgainst": 20,
-          "goalDifference": 11
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 721,
-            "name": "RB Leipzig",
-            "shortName": "RB Leipzig",
-            "tla": "RBL",
-            "crest": "https://crests.football-data.org/721.png"
-          },
-          "playedGames": 16,
-          "form": null,
-          "won": 9,
-          "draw": 3,
-          "lost": 4,
-          "points": 30,
-          "goalsFor": 30,
-          "goalsAgainst": 19,
-          "goalDifference": 11
+          "goalsFor": 34,
+          "goalsAgainst": 21,
+          "goalDifference": 13
         },
         {
           "position": 6,
@@ -173,12 +173,12 @@
           "playedGames": 17,
           "form": null,
           "won": 6,
-          "draw": 6,
-          "lost": 5,
-          "points": 24,
+          "draw": 5,
+          "lost": 6,
+          "points": 23,
           "goalsFor": 27,
-          "goalsAgainst": 27,
-          "goalDifference": 0
+          "goalsAgainst": 29,
+          "goalDifference": -2
         },
         {
           "position": 9,
@@ -214,31 +214,12 @@
           "draw": 4,
           "lost": 8,
           "points": 19,
-          "goalsFor": 22,
-          "goalsAgainst": 26,
-          "goalDifference": -4
+          "goalsFor": 23,
+          "goalsAgainst": 29,
+          "goalDifference": -6
         },
         {
           "position": 11,
-          "team": {
-            "id": 1,
-            "name": "1. FC Köln",
-            "shortName": "1. FC Köln",
-            "tla": "KOE",
-            "crest": "https://crests.football-data.org/1.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 4,
-          "draw": 6,
-          "lost": 7,
-          "points": 18,
-          "goalsFor": 24,
-          "goalsAgainst": 26,
-          "goalDifference": -2
-        },
-        {
-          "position": 12,
           "team": {
             "id": 11,
             "name": "VfL Wolfsburg",
@@ -255,6 +236,25 @@
           "goalsFor": 26,
           "goalsAgainst": 37,
           "goalDifference": -11
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": 1,
+            "name": "1. FC Köln",
+            "shortName": "1. FC Köln",
+            "tla": "KOE",
+            "crest": "https://crests.football-data.org/1.png"
+          },
+          "playedGames": 17,
+          "form": null,
+          "won": 4,
+          "draw": 5,
+          "lost": 8,
+          "points": 17,
+          "goalsFor": 25,
+          "goalsAgainst": 29,
+          "goalDifference": -4
         },
         {
           "position": 13,
