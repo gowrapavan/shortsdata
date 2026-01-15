@@ -3955,7 +3955,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-14",
     "DateTime": "2026-01-14T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 108,
@@ -3966,11 +3966,11 @@
     "AwayTeamName": "US Lecce",
     "HomeTeamLogo": "https://crests.football-data.org/108.png",
     "AwayTeamLogo": "https://crests.football-data.org/5890.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 108,
     "Points": {
-      "108": 0,
+      "108": 3,
       "5890": 0
     },
     "Goals": []
