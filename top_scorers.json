@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-15T06:17:19.207432Z",
+    "last_updated": "2026-01-16T06:17:53.106901Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -219,6 +219,15 @@
                     "nationality": "USA"
                 },
                 {
+                    "player_name": "Riccardo Orsolini",
+                    "team_name": "Bologna FC 1909",
+                    "team_crest": "https://crests.football-data.org/103.png",
+                    "goals": 7,
+                    "assists": 1,
+                    "penalties": 3,
+                    "nationality": "Italy"
+                },
+                {
                     "player_name": "Hakan Çalhanoğlu",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
@@ -241,7 +250,7 @@
                     "team_name": "AC Milan",
                     "team_crest": "https://crests.football-data.org/98.png",
                     "goals": 7,
-                    "assists": 1,
+                    "assists": 2,
                     "penalties": 2,
                     "nationality": "Portugal"
                 },
@@ -271,15 +280,6 @@
                     "assists": 2,
                     "penalties": null,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Riccardo Orsolini",
-                    "team_name": "Bologna FC 1909",
-                    "team_crest": "https://crests.football-data.org/103.png",
-                    "goals": 6,
-                    "assists": 1,
-                    "penalties": 3,
-                    "nationality": "Italy"
                 },
                 {
                     "player_name": "Matias Soule",
