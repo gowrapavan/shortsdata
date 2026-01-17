@@ -7975,7 +7975,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-17",
     "DateTime": "2026-01-17T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 348,
@@ -7986,11 +7986,11 @@
     "AwayTeamName": "Sheffield United FC",
     "HomeTeamLogo": "https://crests.football-data.org/348.png",
     "AwayTeamLogo": "https://crests.football-data.org/356.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 348,
     "Points": {
-      "348": 0,
+      "348": 3,
       "356": 0
     },
     "Goals": []
@@ -8053,7 +8053,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-17",
     "DateTime": "2026-01-17T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1082,
@@ -8068,8 +8068,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "1082": 0,
-      "387": 0
+      "1082": 1,
+      "387": 1
     },
     "Goals": []
   },
@@ -8079,7 +8079,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-17",
     "DateTime": "2026-01-17T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1081,
@@ -8091,11 +8091,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/1081.png",
     "AwayTeamLogo": "https://crests.football-data.org/342.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 342,
     "Points": {
       "1081": 0,
-      "342": 0
+      "342": 3
     },
     "Goals": []
   },
@@ -8105,7 +8105,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-17",
     "DateTime": "2026-01-17T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 345,
@@ -8117,11 +8117,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/345.png",
     "AwayTeamLogo": "https://crests.football-data.org/325.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 325,
     "Points": {
       "345": 0,
-      "325": 0
+      "325": 3
     },
     "Goals": []
   },
@@ -8131,7 +8131,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-17",
     "DateTime": "2026-01-17T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 340,
@@ -8142,12 +8142,12 @@
     "AwayTeamName": "Hull City AFC",
     "HomeTeamLogo": "https://crests.football-data.org/340.png",
     "AwayTeamLogo": "https://crests.football-data.org/322.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 322,
     "Points": {
       "340": 0,
-      "322": 0
+      "322": 3
     },
     "Goals": []
   },
@@ -8157,7 +8157,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-17",
     "DateTime": "2026-01-17T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 70,
@@ -8172,8 +8172,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "70": 0,
-      "69": 0
+      "70": 1,
+      "69": 1
     },
     "Goals": []
   },
@@ -8194,8 +8194,8 @@
     "AwayTeamName": "Birmingham City FC",
     "HomeTeamLogo": "https://crests.football-data.org/72.png",
     "AwayTeamLogo": "https://crests.football-data.org/332.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "72": 0,
@@ -8261,7 +8261,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-17",
     "DateTime": "2026-01-17T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 404,
@@ -8272,12 +8272,12 @@
     "AwayTeamName": "Norwich City FC",
     "HomeTeamLogo": "https://crests.football-data.org/404.png",
     "AwayTeamLogo": "https://crests.football-data.org/68.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 68,
     "Points": {
       "404": 0,
-      "68": 0
+      "68": 3
     },
     "Goals": []
   },

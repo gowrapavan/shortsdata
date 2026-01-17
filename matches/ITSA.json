@@ -5318,8 +5318,8 @@
     "AwayTeamName": "US Sassuolo Calcio",
     "HomeTeamLogo": "https://crests.football-data.org/113.png",
     "AwayTeamLogo": "https://crests.football-data.org/471.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "113": 0,
@@ -5333,7 +5333,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-17",
     "DateTime": "2026-01-17T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 115,
@@ -5346,10 +5346,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/108.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 108,
     "Points": {
       "115": 0,
-      "108": 0
+      "108": 3
     },
     "Goals": []
   },

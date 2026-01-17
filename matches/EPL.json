@@ -5365,7 +5365,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-17",
     "DateTime": "2026-01-17T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 71,
@@ -5376,11 +5376,11 @@
     "AwayTeamName": "Crystal Palace FC",
     "HomeTeamLogo": "https://crests.football-data.org/71.png",
     "AwayTeamLogo": "https://crests.football-data.org/354.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 71,
     "Points": {
-      "71": 0,
+      "71": 3,
       "354": 0
     },
     "Goals": []
@@ -5443,7 +5443,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-17",
     "DateTime": "2026-01-17T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 61,
@@ -5454,11 +5454,11 @@
     "AwayTeamName": "Brentford FC",
     "HomeTeamLogo": "https://crests.football-data.org/61.png",
     "AwayTeamLogo": "https://crests.football-data.org/402.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 61,
     "Points": {
-      "61": 0,
+      "61": 3,
       "402": 0
     },
     "Goals": []
@@ -5469,7 +5469,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-17",
     "DateTime": "2026-01-17T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 64,
@@ -5480,12 +5480,12 @@
     "AwayTeamName": "Burnley FC",
     "HomeTeamLogo": "https://crests.football-data.org/64.png",
     "AwayTeamLogo": "https://crests.football-data.org/328.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "64": 0,
-      "328": 0
+      "64": 1,
+      "328": 1
     },
     "Goals": []
   },
@@ -5495,7 +5495,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-17",
     "DateTime": "2026-01-17T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 341,
@@ -5506,11 +5506,11 @@
     "AwayTeamName": "Fulham FC",
     "HomeTeamLogo": "https://crests.football-data.org/341.png",
     "AwayTeamLogo": "https://crests.football-data.org/63.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 341,
     "Points": {
-      "341": 0,
+      "341": 3,
       "63": 0
     },
     "Goals": []
@@ -5558,8 +5558,8 @@
     "AwayTeamName": "Arsenal FC",
     "HomeTeamLogo": "https://crests.football-data.org/351.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "351": 0,
@@ -5573,7 +5573,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-17",
     "DateTime": "2026-01-17T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 73,
@@ -5584,12 +5584,12 @@
     "AwayTeamName": "West Ham United FC",
     "HomeTeamLogo": "https://crests.football-data.org/73.png",
     "AwayTeamLogo": "https://crests.football-data.org/563.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 563,
     "Points": {
       "73": 0,
-      "563": 0
+      "563": 3
     },
     "Goals": []
   },
