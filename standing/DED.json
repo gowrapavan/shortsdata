@@ -39,13 +39,13 @@
           },
           "playedGames": 19,
           "form": null,
-          "won": 16,
-          "draw": 2,
+          "won": 17,
+          "draw": 1,
           "lost": 1,
-          "points": 50,
-          "goalsFor": 58,
+          "points": 52,
+          "goalsFor": 59,
           "goalsAgainst": 23,
-          "goalDifference": 35
+          "goalDifference": 36
         },
         {
           "position": 2,
@@ -100,8 +100,8 @@
           "draw": 6,
           "lost": 4,
           "points": 30,
-          "goalsFor": 43,
-          "goalsAgainst": 29,
+          "goalsFor": 46,
+          "goalsAgainst": 32,
           "goalDifference": 14
         },
         {
@@ -221,25 +221,6 @@
         {
           "position": 11,
           "team": {
-            "id": 1920,
-            "name": "Fortuna Sittard",
-            "shortName": "Sittard",
-            "tla": "SIT",
-            "crest": "https://crests.football-data.org/1920.png"
-          },
-          "playedGames": 19,
-          "form": null,
-          "won": 6,
-          "draw": 5,
-          "lost": 8,
-          "points": 23,
-          "goalsFor": 28,
-          "goalsAgainst": 32,
-          "goalDifference": -4
-        },
-        {
-          "position": 12,
-          "team": {
             "id": 684,
             "name": "PEC Zwolle",
             "shortName": "Zwolle",
@@ -255,6 +236,25 @@
           "goalsFor": 25,
           "goalsAgainst": 40,
           "goalDifference": -15
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": 1920,
+            "name": "Fortuna Sittard",
+            "shortName": "Sittard",
+            "tla": "SIT",
+            "crest": "https://crests.football-data.org/1920.png"
+          },
+          "playedGames": 19,
+          "form": null,
+          "won": 6,
+          "draw": 4,
+          "lost": 9,
+          "points": 22,
+          "goalsFor": 28,
+          "goalsAgainst": 33,
+          "goalDifference": -5
         },
         {
           "position": 13,
@@ -290,8 +290,8 @@
           "draw": 2,
           "lost": 10,
           "points": 20,
-          "goalsFor": 17,
-          "goalsAgainst": 32,
+          "goalsFor": 19,
+          "goalsAgainst": 34,
           "goalDifference": -15
         },
         {
@@ -309,8 +309,8 @@
           "draw": 7,
           "lost": 9,
           "points": 16,
-          "goalsFor": 22,
-          "goalsAgainst": 30,
+          "goalsFor": 24,
+          "goalsAgainst": 32,
           "goalDifference": -8
         },
         {
@@ -328,8 +328,8 @@
           "draw": 6,
           "lost": 10,
           "points": 15,
-          "goalsFor": 16,
-          "goalsAgainst": 26,
+          "goalsFor": 19,
+          "goalsAgainst": 29,
           "goalDifference": -10
         },
         {

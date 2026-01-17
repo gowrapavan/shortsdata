@@ -97,12 +97,12 @@
           "playedGames": 21,
           "form": null,
           "won": 11,
-          "draw": 7,
-          "lost": 3,
-          "points": 40,
+          "draw": 6,
+          "lost": 4,
+          "points": 39,
           "goalsFor": 32,
-          "goalsAgainst": 16,
-          "goalDifference": 16
+          "goalsAgainst": 17,
+          "goalDifference": 15
         },
         {
           "position": 5,
@@ -259,6 +259,25 @@
         {
           "position": 13,
           "team": {
+            "id": 104,
+            "name": "Cagliari Calcio",
+            "shortName": "Cagliari",
+            "tla": "CAG",
+            "crest": "https://crests.football-data.org/104.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 5,
+          "draw": 7,
+          "lost": 9,
+          "points": 22,
+          "goalsFor": 22,
+          "goalsAgainst": 30,
+          "goalDifference": -8
+        },
+        {
+          "position": 14,
+          "team": {
             "id": 457,
             "name": "US Cremonese",
             "shortName": "Cremonese",
@@ -276,7 +295,7 @@
           "goalDifference": -8
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 112,
             "name": "Parma Calcio 1913",
@@ -293,25 +312,6 @@
           "goalsFor": 14,
           "goalsAgainst": 22,
           "goalDifference": -8
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 104,
-            "name": "Cagliari Calcio",
-            "shortName": "Cagliari",
-            "tla": "CAG",
-            "crest": "https://crests.football-data.org/104.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 4,
-          "draw": 8,
-          "lost": 9,
-          "points": 20,
-          "goalsFor": 21,
-          "goalsAgainst": 30,
-          "goalDifference": -9
         },
         {
           "position": 16,
