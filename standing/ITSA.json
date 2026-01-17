@@ -37,15 +37,15 @@
             "tla": "INT",
             "crest": "https://crests.football-data.org/108.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
-          "won": 15,
+          "won": 16,
           "draw": 1,
           "lost": 4,
-          "points": 46,
-          "goalsFor": 43,
+          "points": 49,
+          "goalsFor": 44,
           "goalsAgainst": 17,
-          "goalDifference": 26
+          "goalDifference": 27
         },
         {
           "position": 2,
@@ -75,15 +75,15 @@
             "tla": "NAP",
             "crest": "https://crests.football-data.org/113.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
-          "won": 12,
+          "won": 13,
           "draw": 4,
           "lost": 4,
-          "points": 40,
-          "goalsFor": 30,
+          "points": 43,
+          "goalsFor": 31,
           "goalsAgainst": 17,
-          "goalDifference": 13
+          "goalDifference": 14
         },
         {
           "position": 4,
@@ -94,12 +94,12 @@
             "tla": "JUV",
             "crest": "https://crests.football-data.org/109.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 11,
-          "draw": 6,
+          "draw": 7,
           "lost": 3,
-          "points": 39,
+          "points": 40,
           "goalsFor": 32,
           "goalsAgainst": 16,
           "goalDifference": 16
@@ -208,15 +208,15 @@
             "tla": "UDI",
             "crest": "https://crests.football-data.org/115.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 7,
           "draw": 5,
-          "lost": 8,
+          "lost": 9,
           "points": 26,
           "goalsFor": 22,
-          "goalsAgainst": 32,
-          "goalDifference": -10
+          "goalsAgainst": 33,
+          "goalDifference": -11
         },
         {
           "position": 11,
@@ -227,15 +227,15 @@
             "tla": "SAS",
             "crest": "https://crests.football-data.org/471.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 6,
           "draw": 5,
-          "lost": 9,
+          "lost": 10,
           "points": 23,
           "goalsFor": 23,
-          "goalsAgainst": 27,
-          "goalDifference": -4
+          "goalsAgainst": 28,
+          "goalDifference": -5
         },
         {
           "position": 12,
@@ -297,6 +297,25 @@
         {
           "position": 15,
           "team": {
+            "id": 104,
+            "name": "Cagliari Calcio",
+            "shortName": "Cagliari",
+            "tla": "CAG",
+            "crest": "https://crests.football-data.org/104.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 4,
+          "draw": 8,
+          "lost": 9,
+          "points": 20,
+          "goalsFor": 21,
+          "goalsAgainst": 30,
+          "goalDifference": -9
+        },
+        {
+          "position": 16,
+          "team": {
             "id": 107,
             "name": "Genoa CFC",
             "shortName": "Genoa",
@@ -312,25 +331,6 @@
           "goalsFor": 22,
           "goalsAgainst": 29,
           "goalDifference": -7
-        },
-        {
-          "position": 16,
-          "team": {
-            "id": 104,
-            "name": "Cagliari Calcio",
-            "shortName": "Cagliari",
-            "tla": "CAG",
-            "crest": "https://crests.football-data.org/104.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 4,
-          "draw": 7,
-          "lost": 9,
-          "points": 19,
-          "goalsFor": 21,
-          "goalsAgainst": 30,
-          "goalDifference": -9
         },
         {
           "position": 17,
