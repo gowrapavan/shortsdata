@@ -8235,7 +8235,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-16",
     "DateTime": "2026-01-16T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 74,
@@ -8246,12 +8246,12 @@
     "AwayTeamName": "Middlesbrough FC",
     "HomeTeamLogo": "https://crests.football-data.org/74.png",
     "AwayTeamLogo": "https://crests.football-data.org/343.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 343,
     "Points": {
       "74": 0,
-      "343": 0
+      "343": 3
     },
     "Goals": []
   },
@@ -8907,7 +8907,7 @@
   },
   {
     "GameId": 541060,
-    "RoundId": 7,
+    "RoundId": 27,
     "RoundName": "Championship",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T15:00:00Z",
@@ -8959,7 +8959,7 @@
   },
   {
     "GameId": 541062,
-    "RoundId": 7,
+    "RoundId": 27,
     "RoundName": "Championship",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T15:00:00Z",
@@ -8985,10 +8985,10 @@
   },
   {
     "GameId": 541063,
-    "RoundId": 7,
+    "RoundId": 27,
     "RoundName": "Championship",
     "Date": "2026-01-31",
-    "DateTime": "2026-01-31T15:00:00Z",
+    "DateTime": "2026-01-31T12:30:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -9011,7 +9011,7 @@
   },
   {
     "GameId": 541064,
-    "RoundId": 7,
+    "RoundId": 27,
     "RoundName": "Championship",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T15:00:00Z",
@@ -9037,7 +9037,7 @@
   },
   {
     "GameId": 541065,
-    "RoundId": 7,
+    "RoundId": 27,
     "RoundName": "Championship",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T15:00:00Z",
@@ -9063,7 +9063,7 @@
   },
   {
     "GameId": 541066,
-    "RoundId": 7,
+    "RoundId": 27,
     "RoundName": "Championship",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T15:00:00Z",
@@ -9089,7 +9089,7 @@
   },
   {
     "GameId": 541067,
-    "RoundId": 7,
+    "RoundId": 27,
     "RoundName": "Championship",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T15:00:00Z",
@@ -9115,7 +9115,7 @@
   },
   {
     "GameId": 541068,
-    "RoundId": 7,
+    "RoundId": 27,
     "RoundName": "Championship",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T15:00:00Z",
@@ -9141,10 +9141,10 @@
   },
   {
     "GameId": 541069,
-    "RoundId": 7,
+    "RoundId": 27,
     "RoundName": "Championship",
     "Date": "2026-01-31",
-    "DateTime": "2026-01-31T15:00:00Z",
+    "DateTime": "2026-01-31T12:30:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -9167,10 +9167,10 @@
   },
   {
     "GameId": 541070,
-    "RoundId": 7,
+    "RoundId": 27,
     "RoundName": "Championship",
     "Date": "2026-01-31",
-    "DateTime": "2026-01-31T15:00:00Z",
+    "DateTime": "2026-01-31T12:30:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -9193,7 +9193,7 @@
   },
   {
     "GameId": 541071,
-    "RoundId": 7,
+    "RoundId": 27,
     "RoundName": "Championship",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T15:00:00Z",
