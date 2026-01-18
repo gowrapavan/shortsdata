@@ -4855,7 +4855,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-01-18",
     "DateTime": "2026-01-18T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 558,
@@ -4866,11 +4866,11 @@
     "AwayTeamName": "Rayo Vallecano de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/558.png",
     "AwayTeamLogo": "https://crests.football-data.org/87.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 558,
     "Points": {
-      "558": 0,
+      "558": 3,
       "87": 0
     },
     "Goals": []
@@ -5048,8 +5048,8 @@
     "AwayTeamName": "FC Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/92.png",
     "AwayTeamLogo": "https://crests.football-data.org/81.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "92": 0,
