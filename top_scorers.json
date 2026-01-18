@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-17T06:15:14.089279Z",
+    "last_updated": "2026-01-18T06:15:42.268226Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -88,13 +88,13 @@
                     "nationality": "Brazil"
                 },
                 {
-                    "player_name": "Nick Woltemade",
-                    "team_name": "Newcastle United FC",
-                    "team_crest": "https://crests.football-data.org/67.png",
+                    "player_name": "João Pedro",
+                    "team_name": "Chelsea FC",
+                    "team_crest": "https://crests.football-data.org/61.png",
                     "goals": 7,
-                    "assists": 2,
-                    "penalties": 1,
-                    "nationality": "Germany"
+                    "assists": 3,
+                    "penalties": null,
+                    "nationality": "Brazil"
                 }
             ]
         },
@@ -107,10 +107,19 @@
                     "player_name": "Kylian Mbappé",
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 18,
+                    "goals": 19,
                     "assists": 4,
-                    "penalties": 5,
+                    "penalties": 6,
                     "nationality": "France"
+                },
+                {
+                    "player_name": "Vedat Muriqi",
+                    "team_name": "RCD Mallorca",
+                    "team_crest": "https://crests.football-data.org/89.png",
+                    "goals": 14,
+                    "assists": null,
+                    "penalties": 4,
+                    "nationality": "Kosovo"
                 },
                 {
                     "player_name": "Ferrán Torres",
@@ -122,15 +131,6 @@
                     "nationality": "Spain"
                 },
                 {
-                    "player_name": "Vedat Muriqi",
-                    "team_name": "RCD Mallorca",
-                    "team_crest": "https://crests.football-data.org/89.png",
-                    "goals": 11,
-                    "assists": null,
-                    "penalties": 3,
-                    "nationality": "Kosovo"
-                },
-                {
                     "player_name": "Robert Lewandowski",
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
@@ -138,6 +138,15 @@
                     "assists": 1,
                     "penalties": 1,
                     "nationality": "Poland"
+                },
+                {
+                    "player_name": "Ante Budimir",
+                    "team_name": "CA Osasuna",
+                    "team_crest": "https://crests.football-data.org/79.png",
+                    "goals": 8,
+                    "assists": null,
+                    "penalties": 3,
+                    "nationality": "Croatia"
                 },
                 {
                     "player_name": "Borja Iglesias",
@@ -183,15 +192,6 @@
                     "assists": 7,
                     "penalties": 2,
                     "nationality": "Spain"
-                },
-                {
-                    "player_name": "Julián Álvarez",
-                    "team_name": "Club Atlético de Madrid",
-                    "team_crest": "https://crests.football-data.org/78.png",
-                    "goals": 7,
-                    "assists": 3,
-                    "penalties": 2,
-                    "nationality": "Argentina"
                 }
             ]
         },
@@ -204,7 +204,7 @@
                     "player_name": "Lautaro Martínez",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
-                    "goals": 10,
+                    "goals": 11,
                     "assists": 4,
                     "penalties": null,
                     "nationality": "Argentina"
@@ -301,10 +301,19 @@
                     "player_name": "Harry Kane",
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 20,
+                    "goals": 21,
                     "assists": 3,
                     "penalties": 6,
                     "nationality": "England"
+                },
+                {
+                    "player_name": "Michael Olise",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 10,
+                    "assists": 13,
+                    "penalties": null,
+                    "nationality": "France"
                 },
                 {
                     "player_name": "Deniz Undav",
@@ -314,15 +323,6 @@
                     "assists": 2,
                     "penalties": null,
                     "nationality": "Germany"
-                },
-                {
-                    "player_name": "Michael Olise",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 9,
-                    "assists": 10,
-                    "penalties": null,
-                    "nationality": "France"
                 },
                 {
                     "player_name": "Luis Díaz",
@@ -398,7 +398,7 @@
                     "player_name": "Mason Greenwood",
                     "team_name": "Olympique de Marseille",
                     "team_crest": "https://crests.football-data.org/516.png",
-                    "goals": 11,
+                    "goals": 12,
                     "assists": 4,
                     "penalties": 4,
                     "nationality": "England"
@@ -425,7 +425,7 @@
                     "player_name": "Wesley Saïd",
                     "team_name": "Racing Club de Lens",
                     "team_crest": "https://crests.football-data.org/546.png",
-                    "goals": 7,
+                    "goals": 8,
                     "assists": 2,
                     "penalties": 1,
                     "nationality": "France"
@@ -568,7 +568,7 @@
                     "team_name": "AFC Ajax",
                     "team_crest": "https://crests.football-data.org/678.png",
                     "goals": 8,
-                    "assists": 6,
+                    "assists": 7,
                     "penalties": null,
                     "nationality": "Belgium"
                 },
