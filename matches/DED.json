@@ -4172,8 +4172,8 @@
     "AwayTeamName": "FC Utrecht",
     "HomeTeamLogo": "https://crests.football-data.org/1919.png",
     "AwayTeamLogo": "https://crests.football-data.org/676.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "1919": 0,
@@ -4250,8 +4250,8 @@
     "AwayTeamName": "FC Twente '65",
     "HomeTeamLogo": "https://crests.football-data.org/671.png",
     "AwayTeamLogo": "https://crests.football-data.org/666.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "671": 0,
@@ -4317,7 +4317,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-01-18",
     "DateTime": "2026-01-18T11:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 673,
@@ -4329,11 +4329,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/673.png",
     "AwayTeamLogo": "https://crests.football-data.org/677.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 677,
     "Points": {
       "673": 0,
-      "677": 0
+      "677": 3
     },
     "Goals": []
   },
