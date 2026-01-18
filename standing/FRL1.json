@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 523,
+            "name": "Olympique Lyonnais",
+            "shortName": "Olympique Lyon",
+            "tla": "LYO",
+            "crest": "https://crests.football-data.org/523.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 10,
+          "draw": 3,
+          "lost": 5,
+          "points": 33,
+          "goalsFor": 27,
+          "goalsAgainst": 18,
+          "goalDifference": 9
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 521,
             "name": "Lille OSC",
             "shortName": "Lille",
@@ -102,25 +121,6 @@
           "points": 32,
           "goalsFor": 33,
           "goalsAgainst": 25,
-          "goalDifference": 8
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 523,
-            "name": "Olympique Lyonnais",
-            "shortName": "Olympique Lyon",
-            "tla": "LYO",
-            "crest": "https://crests.football-data.org/523.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 9,
-          "draw": 4,
-          "lost": 5,
-          "points": 31,
-          "goalsFor": 25,
-          "goalsAgainst": 17,
           "goalDifference": 8
         },
         {
@@ -183,25 +183,6 @@
         {
           "position": 9,
           "team": {
-            "id": 512,
-            "name": "Stade Brestois 29",
-            "shortName": "Brest",
-            "tla": "BRE",
-            "crest": "https://crests.football-data.org/512.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 6,
-          "draw": 5,
-          "lost": 7,
-          "points": 23,
-          "goalsFor": 23,
-          "goalsAgainst": 27,
-          "goalDifference": -4
-        },
-        {
-          "position": 10,
-          "team": {
             "id": 548,
             "name": "AS Monaco FC",
             "shortName": "Monaco",
@@ -216,6 +197,25 @@
           "points": 23,
           "goalsFor": 28,
           "goalsAgainst": 33,
+          "goalDifference": -5
+        },
+        {
+          "position": 10,
+          "team": {
+            "id": 512,
+            "name": "Stade Brestois 29",
+            "shortName": "Brest",
+            "tla": "BRE",
+            "crest": "https://crests.football-data.org/512.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 6,
+          "draw": 4,
+          "lost": 8,
+          "points": 22,
+          "goalsFor": 24,
+          "goalsAgainst": 29,
           "goalDifference": -5
         },
         {
