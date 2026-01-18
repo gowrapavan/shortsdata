@@ -56,12 +56,12 @@
             "tla": "MIL",
             "crest": "https://crests.football-data.org/98.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 12,
-          "draw": 7,
+          "draw": 8,
           "lost": 1,
-          "points": 43,
+          "points": 44,
           "goalsFor": 33,
           "goalsAgainst": 16,
           "goalDifference": 17
@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 100,
+            "name": "AS Roma",
+            "shortName": "Roma",
+            "tla": "ROM",
+            "crest": "https://crests.football-data.org/100.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 14,
+          "draw": 0,
+          "lost": 7,
+          "points": 42,
+          "goalsFor": 26,
+          "goalsAgainst": 12,
+          "goalDifference": 14
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 109,
             "name": "Juventus FC",
             "shortName": "Juventus",
@@ -103,25 +122,6 @@
           "goalsFor": 32,
           "goalsAgainst": 17,
           "goalDifference": 15
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 100,
-            "name": "AS Roma",
-            "shortName": "Roma",
-            "tla": "ROM",
-            "crest": "https://crests.football-data.org/100.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 13,
-          "draw": 0,
-          "lost": 7,
-          "points": 39,
-          "goalsFor": 24,
-          "goalsAgainst": 12,
-          "goalDifference": 12
         },
         {
           "position": 6,
@@ -170,15 +170,15 @@
             "tla": "BOL",
             "crest": "https://crests.football-data.org/103.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 8,
           "draw": 6,
-          "lost": 6,
+          "lost": 7,
           "points": 30,
-          "goalsFor": 29,
-          "goalsAgainst": 22,
-          "goalDifference": 7
+          "goalsFor": 30,
+          "goalsAgainst": 24,
+          "goalDifference": 6
         },
         {
           "position": 9,
@@ -240,24 +240,43 @@
         {
           "position": 12,
           "team": {
+            "id": 112,
+            "name": "Parma Calcio 1913",
+            "shortName": "Parma",
+            "tla": "PAR",
+            "crest": "https://crests.football-data.org/112.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 5,
+          "draw": 8,
+          "lost": 8,
+          "points": 23,
+          "goalsFor": 14,
+          "goalsAgainst": 22,
+          "goalDifference": -8
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 586,
             "name": "Torino FC",
             "shortName": "Torino",
             "tla": "TOR",
             "crest": "https://crests.football-data.org/586.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 6,
           "draw": 5,
-          "lost": 9,
+          "lost": 10,
           "points": 23,
           "goalsFor": 21,
-          "goalsAgainst": 32,
-          "goalDifference": -11
+          "goalsAgainst": 34,
+          "goalDifference": -13
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 104,
             "name": "Cagliari Calcio",
@@ -276,7 +295,7 @@
           "goalDifference": -8
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 457,
             "name": "US Cremonese",
@@ -295,25 +314,6 @@
           "goalDifference": -8
         },
         {
-          "position": 15,
-          "team": {
-            "id": 112,
-            "name": "Parma Calcio 1913",
-            "shortName": "Parma",
-            "tla": "PAR",
-            "crest": "https://crests.football-data.org/112.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 5,
-          "draw": 7,
-          "lost": 8,
-          "points": 22,
-          "goalsFor": 14,
-          "goalsAgainst": 22,
-          "goalDifference": -8
-        },
-        {
           "position": 16,
           "team": {
             "id": 107,
@@ -322,12 +322,12 @@
             "tla": "GEN",
             "crest": "https://crests.football-data.org/107.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 4,
-          "draw": 7,
+          "draw": 8,
           "lost": 9,
-          "points": 19,
+          "points": 20,
           "goalsFor": 22,
           "goalsAgainst": 29,
           "goalDifference": -7
@@ -341,12 +341,12 @@
             "tla": "USL",
             "crest": "https://crests.football-data.org/5890.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 4,
-          "draw": 5,
+          "draw": 6,
           "lost": 11,
-          "points": 17,
+          "points": 18,
           "goalsFor": 13,
           "goalsAgainst": 28,
           "goalDifference": -15
@@ -360,15 +360,15 @@
             "tla": "FIO",
             "crest": "https://crests.football-data.org/99.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
-          "won": 2,
+          "won": 3,
           "draw": 8,
           "lost": 10,
-          "points": 14,
-          "goalsFor": 21,
-          "goalsAgainst": 31,
-          "goalDifference": -10
+          "points": 17,
+          "goalsFor": 23,
+          "goalsAgainst": 32,
+          "goalDifference": -9
         },
         {
           "position": 19,

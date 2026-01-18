@@ -113,15 +113,15 @@
             "tla": "SCB",
             "crest": "https://crests.football-data.org/5613.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
-          "won": 7,
+          "won": 8,
           "draw": 6,
           "lost": 4,
-          "points": 27,
-          "goalsFor": 31,
+          "points": 30,
+          "goalsFor": 32,
           "goalsAgainst": 18,
-          "goalDifference": 13
+          "goalDifference": 14
         },
         {
           "position": 6,
@@ -145,6 +145,25 @@
         {
           "position": 7,
           "team": {
+            "id": 5531,
+            "name": "FC Famalicão",
+            "shortName": "Famalicão",
+            "tla": "FAM",
+            "crest": "https://crests.football-data.org/5531.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 7,
+          "draw": 5,
+          "lost": 6,
+          "points": 26,
+          "goalsFor": 21,
+          "goalsAgainst": 14,
+          "goalDifference": 7
+        },
+        {
+          "position": 8,
+          "team": {
             "id": 5543,
             "name": "Vitória SC",
             "shortName": "Vitória SC",
@@ -160,25 +179,6 @@
           "goalsFor": 18,
           "goalsAgainst": 22,
           "goalDifference": -4
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 5531,
-            "name": "FC Famalicão",
-            "shortName": "Famalicão",
-            "tla": "FAM",
-            "crest": "https://crests.football-data.org/5531.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 6,
-          "draw": 5,
-          "lost": 6,
-          "points": 23,
-          "goalsFor": 20,
-          "goalsAgainst": 14,
-          "goalDifference": 6
         },
         {
           "position": 9,
@@ -259,25 +259,6 @@
         {
           "position": 13,
           "team": {
-            "id": 5530,
-            "name": "CD Santa Clara",
-            "shortName": "Santa Clara",
-            "tla": "CD ",
-            "crest": "https://crests.football-data.org/5530.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 4,
-          "draw": 5,
-          "lost": 8,
-          "points": 17,
-          "goalsFor": 14,
-          "goalsAgainst": 19,
-          "goalDifference": -5
-        },
-        {
-          "position": 14,
-          "team": {
             "id": 5529,
             "name": "CD Nacional",
             "shortName": "CD Nacional",
@@ -292,6 +273,25 @@
           "points": 17,
           "goalsFor": 22,
           "goalsAgainst": 28,
+          "goalDifference": -6
+        },
+        {
+          "position": 14,
+          "team": {
+            "id": 5530,
+            "name": "CD Santa Clara",
+            "shortName": "Santa Clara",
+            "tla": "CD ",
+            "crest": "https://crests.football-data.org/5530.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 4,
+          "draw": 5,
+          "lost": 9,
+          "points": 17,
+          "goalsFor": 14,
+          "goalsAgainst": 20,
           "goalDifference": -6
         },
         {
@@ -341,15 +341,15 @@
             "tla": "TON",
             "crest": "https://crests.football-data.org/1049.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
           "won": 3,
           "draw": 3,
-          "lost": 11,
+          "lost": 12,
           "points": 12,
           "goalsFor": 12,
-          "goalsAgainst": 29,
-          "goalDifference": -17
+          "goalsAgainst": 30,
+          "goalDifference": -18
         },
         {
           "position": 18,
