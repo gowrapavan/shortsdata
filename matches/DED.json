@@ -4161,7 +4161,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-01-18",
     "DateTime": "2026-01-18T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1919,
@@ -4174,9 +4174,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/676.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 1919,
     "Points": {
-      "1919": 0,
+      "1919": 3,
       "676": 0
     },
     "Goals": []
@@ -4187,7 +4187,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-01-18",
     "DateTime": "2026-01-18T15:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 675,
@@ -4198,12 +4198,12 @@
     "AwayTeamName": "Sparta Rotterdam",
     "HomeTeamLogo": "https://crests.football-data.org/675.png",
     "AwayTeamLogo": "https://crests.football-data.org/6806.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 4,
+    "Result": 6806,
     "Points": {
       "675": 0,
-      "6806": 0
+      "6806": 3
     },
     "Goals": []
   },
@@ -4239,7 +4239,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-01-18",
     "DateTime": "2026-01-18T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 671,
@@ -4252,10 +4252,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/666.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 666,
     "Points": {
       "671": 0,
-      "666": 0
+      "666": 3
     },
     "Goals": []
   },
