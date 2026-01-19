@@ -176,8 +176,8 @@
           "draw": 9,
           "lost": 6,
           "points": 24,
-          "goalsFor": 25,
-          "goalsAgainst": 24,
+          "goalsFor": 27,
+          "goalsAgainst": 26,
           "goalDifference": 1
         },
         {
@@ -278,25 +278,6 @@
         {
           "position": 14,
           "team": {
-            "id": 89,
-            "name": "RCD Mallorca",
-            "shortName": "Mallorca",
-            "tla": "MAL",
-            "crest": "https://crests.football-data.org/89.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 5,
-          "draw": 6,
-          "lost": 9,
-          "points": 21,
-          "goalsFor": 24,
-          "goalsAgainst": 30,
-          "goalDifference": -6
-        },
-        {
-          "position": 14,
-          "team": {
             "id": 559,
             "name": "Sevilla FC",
             "shortName": "Sevilla FC",
@@ -308,6 +289,25 @@
           "won": 6,
           "draw": 3,
           "lost": 11,
+          "points": 21,
+          "goalsFor": 26,
+          "goalsAgainst": 32,
+          "goalDifference": -6
+        },
+        {
+          "position": 15,
+          "team": {
+            "id": 89,
+            "name": "RCD Mallorca",
+            "shortName": "Mallorca",
+            "tla": "MAL",
+            "crest": "https://crests.football-data.org/89.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 5,
+          "draw": 6,
+          "lost": 9,
           "points": 21,
           "goalsFor": 24,
           "goalsAgainst": 30,
