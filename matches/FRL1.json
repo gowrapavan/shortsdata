@@ -3971,7 +3971,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-18",
     "DateTime": "2026-01-18T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 523,
@@ -3982,11 +3982,11 @@
     "AwayTeamName": "Stade Brestois 29",
     "HomeTeamLogo": "https://crests.football-data.org/523.png",
     "AwayTeamLogo": "https://crests.football-data.org/512.png",
-    "HomeTeamScore": 3,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 523,
     "Points": {
-      "523": 0,
+      "523": 3,
       "512": 0
     },
     "Goals": []
