@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-18T06:15:42.268226Z",
+    "last_updated": "2026-01-19T06:21:34.866171Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -189,7 +189,7 @@
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
                     "goals": 7,
-                    "assists": 7,
+                    "assists": 8,
                     "penalties": 2,
                     "nationality": "Spain"
                 }
@@ -255,6 +255,15 @@
                     "nationality": "Portugal"
                 },
                 {
+                    "player_name": "Rolando Mandragora",
+                    "team_name": "ACF Fiorentina",
+                    "team_crest": "https://crests.football-data.org/99.png",
+                    "goals": 6,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Italy"
+                },
+                {
                     "player_name": "Anastasios Douvikas",
                     "team_name": "Como 1907",
                     "team_crest": "https://crests.football-data.org/7397.png",
@@ -280,15 +289,6 @@
                     "assists": 2,
                     "penalties": null,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Matias Soule",
-                    "team_name": "AS Roma",
-                    "team_crest": "https://crests.football-data.org/100.png",
-                    "goals": 6,
-                    "assists": 4,
-                    "penalties": null,
-                    "nationality": "Argentina"
                 }
             ]
         },
@@ -431,6 +431,24 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Pavel Šulc",
+                    "team_name": "Olympique Lyonnais",
+                    "team_crest": "https://crests.football-data.org/523.png",
+                    "goals": 8,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Czech Republic"
+                },
+                {
+                    "player_name": "Ilan Kebbal",
+                    "team_name": "Paris FC",
+                    "team_crest": "https://crests.football-data.org/1045.png",
+                    "goals": 7,
+                    "assists": 4,
+                    "penalties": 2,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Odsonne Edouard",
                     "team_name": "Racing Club de Lens",
                     "team_crest": "https://crests.football-data.org/546.png",
@@ -440,30 +458,12 @@
                     "nationality": "France"
                 },
                 {
-                    "player_name": "Pavel Šulc",
-                    "team_name": "Olympique Lyonnais",
-                    "team_crest": "https://crests.football-data.org/523.png",
-                    "goals": 7,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Czech Republic"
-                },
-                {
                     "player_name": "Lassine Sinayoko",
                     "team_name": "AJ Auxerre",
                     "team_crest": "https://crests.football-data.org/519.png",
                     "goals": 6,
                     "assists": 2,
                     "penalties": 3,
-                    "nationality": "France"
-                },
-                {
-                    "player_name": "Ilan Kebbal",
-                    "team_name": "Paris FC",
-                    "team_crest": "https://crests.football-data.org/1045.png",
-                    "goals": 6,
-                    "assists": 4,
-                    "penalties": 2,
                     "nationality": "France"
                 },
                 {
@@ -532,7 +532,7 @@
                     "team_name": "Sparta Rotterdam",
                     "team_crest": "https://crests.football-data.org/6806.png",
                     "goals": 9,
-                    "assists": 2,
+                    "assists": 3,
                     "penalties": 3,
                     "nationality": "Norway"
                 },
