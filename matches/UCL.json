@@ -1508,8 +1508,8 @@
     "AwayTeamName": "Manchester City FC",
     "HomeTeamLogo": "https://crests.football-data.org/5721.png",
     "AwayTeamLogo": "https://crests.football-data.org/65.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "5721": 0,
@@ -2269,7 +2269,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T15:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 10601,
@@ -2280,12 +2280,12 @@
     "AwayTeamName": "Club Brugge KV",
     "HomeTeamLogo": "https://crests.football-data.org/10601.png",
     "AwayTeamLogo": "https://crests.football-data.org/851.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 4,
+    "Result": 851,
     "Points": {
       "10601": 0,
-      "851": 0
+      "851": 3
     },
     "Goals": []
   },
