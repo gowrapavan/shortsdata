@@ -552,6 +552,105 @@ def fetch_siiir():
 
     return matches
 
+def fetch_livesoccerhd():
+    """
+    Scrape livesoccerhd.info
+    - Extract matches from div.AY_Match
+    - Open each href page
+    - Extract iframe src as final stream URL
+    """
+
+    load_team_data()
+
+    url = "https://www.livesoccerhd.info/"
+    headers = {"User-Agent": "Mozilla/5.0"}
+    html = requests.get(url, headers=headers, timeout=10).text
+    soup = BeautifulSoup(html, "html.parser")
+
+    matches = []
+
+    for match_div in soup.select("div.AY_Match"):
+
+        # -----------------------------
+        # Teams
+        # -----------------------------
+        home_tag = match_div.select_one(".TM1 .TM_Name")
+        away_tag = match_div.select_one(".TM2 .TM_Name")
+
+        home = home_tag.text.strip() if home_tag else ""
+        away = away_tag.text.strip() if away_tag else ""
+
+        # -----------------------------
+        # Logos (use data-src, not src)
+        # -----------------------------
+        home_logo_tag = match_div.select_one(".TM1 .TM_Logo img")
+        away_logo_tag = match_div.select_one(".TM2 .TM_Logo img")
+
+        home_logo = home_logo_tag.get("data-src") if home_logo_tag else None
+        away_logo = away_logo_tag.get("data-src") if away_logo_tag else None
+
+        if not home_logo:
+            home_logo = find_team_crest(home)
+        if not away_logo:
+            away_logo = find_team_crest(away)
+
+        # -----------------------------
+        # League
+        # -----------------------------
+        league = ""
+        info_items = match_div.select(".MT_Info ul li span")
+        if len(info_items) >= 3:
+            league = info_items[2].text.strip()
+
+        # -----------------------------
+        # Time (only HH:MM AM/PM, no date)
+        # We'll keep raw for now
+        # -----------------------------
+        time_tag = match_div.select_one(".MT_Time")
+        time_raw = time_tag.text.strip() if time_tag else ""
+        time_ist = time_raw  # site does not give timezone safely
+
+        # -----------------------------
+        # Match page href
+        # -----------------------------
+        a_tag = match_div.select_one("a[href]")
+        if not a_tag:
+            continue
+
+        match_url = a_tag["href"].strip()
+
+        # -----------------------------
+        # 🔥 Open match page → extract iframe src
+        # -----------------------------
+        final_stream_url = ""
+
+        try:
+            match_html = requests.get(match_url, headers=headers, timeout=10).text
+            match_soup = BeautifulSoup(match_html, "html.parser")
+
+            iframe = match_soup.select_one("iframe")
+            if iframe and iframe.has_attr("src"):
+                final_stream_url = iframe["src"].strip()
+
+        except Exception as e:
+            print("⚠️ livesoccerhd iframe fetch failed:", e)
+
+        # -----------------------------
+        # Append match
+        # -----------------------------
+        matches.append({
+            "time": time_ist,
+            "game": "football",
+            "league": league,
+            "home_team": home,
+            "away_team": away,
+            "label": short_label(home, away) if home and away else "livesoccerhd",
+            "home_logo": home_logo or random_logo(),
+            "away_logo": away_logo or random_logo(),
+            "url": final_stream_url
+        })
+
+    return matches
 
 # === Save JSONs ===
 JSON_FOLDER = "json"
@@ -563,7 +662,9 @@ if __name__ == "__main__":
         "hesgoal.json": fetch_hesgoal,
         "yallashooote.json": fetch_yallashooote,
         "livekora.json": fetch_livekora,
-                    "siiir.json": fetch_siiir      # 👈 ADD THIS
+        "siiir.json": fetch_siiir,      # 👈 ADD THIS
+        "soccerhd.json": fetch_livesoccerhd
+
 
     }
 
