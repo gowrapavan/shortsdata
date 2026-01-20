@@ -278,25 +278,6 @@
         {
           "position": 14,
           "team": {
-            "id": 559,
-            "name": "Sevilla FC",
-            "shortName": "Sevilla FC",
-            "tla": "SEV",
-            "crest": "https://crests.football-data.org/559.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 6,
-          "draw": 3,
-          "lost": 11,
-          "points": 21,
-          "goalsFor": 26,
-          "goalsAgainst": 32,
-          "goalDifference": -6
-        },
-        {
-          "position": 15,
-          "team": {
             "id": 89,
             "name": "RCD Mallorca",
             "shortName": "Mallorca",
@@ -314,7 +295,7 @@
           "goalDifference": -6
         },
         {
-          "position": 16,
+          "position": 15,
           "team": {
             "id": 82,
             "name": "Getafe CF",
@@ -331,6 +312,25 @@
           "goalsFor": 15,
           "goalsAgainst": 26,
           "goalDifference": -11
+        },
+        {
+          "position": 16,
+          "team": {
+            "id": 559,
+            "name": "Sevilla FC",
+            "shortName": "Sevilla FC",
+            "tla": "SEV",
+            "crest": "https://crests.football-data.org/559.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 6,
+          "draw": 3,
+          "lost": 11,
+          "points": 21,
+          "goalsFor": 26,
+          "goalsAgainst": 32,
+          "goalDifference": -6
         },
         {
           "position": 17,
