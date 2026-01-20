@@ -5417,7 +5417,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-19",
     "DateTime": "2026-01-19T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 397,
@@ -5428,12 +5428,12 @@
     "AwayTeamName": "AFC Bournemouth",
     "HomeTeamLogo": "https://crests.football-data.org/397.png",
     "AwayTeamLogo": "https://crests.football-data.org/bournemouth.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "397": 0,
-      "1044": 0
+      "397": 1,
+      "1044": 1
     },
     "Goals": []
   },

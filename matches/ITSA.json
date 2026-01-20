@@ -5229,7 +5229,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-19",
     "DateTime": "2026-01-19T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 110,
@@ -5242,10 +5242,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/7397.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 3,
-    "Result": null,
+    "Result": 7397,
     "Points": {
       "110": 0,
-      "7397": 0
+      "7397": 3
     },
     "Goals": []
   },
@@ -5693,10 +5693,10 @@
   },
   {
     "GameId": 537037,
-    "RoundId": 5,
+    "RoundId": 21,
     "RoundName": "Serie A",
-    "Date": "2026-02-01",
-    "DateTime": "2026-02-01T00:00:00Z",
+    "Date": "2026-02-03",
+    "DateTime": "2026-02-03T19:45:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
