@@ -227,7 +227,7 @@ def fetch_hesgoal():
         else:
             # INTERNAL normal Hesgoal
             slug = event_link.rstrip("/").split("/")[-1]
-            final_url = f"https://yallashoot.mobi/albaplayer/{slug}/"
+            final_url = f"https://yallashoot.cfd/albaplayer/{slug}/"
 
         # --------------------------
         # FINAL MATCH
