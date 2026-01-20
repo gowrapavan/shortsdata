@@ -39,13 +39,13 @@
           },
           "playedGames": 28,
           "form": null,
-          "won": 16,
-          "draw": 8,
+          "won": 17,
+          "draw": 7,
           "lost": 4,
-          "points": 56,
-          "goalsFor": 60,
+          "points": 58,
+          "goalsFor": 61,
           "goalsAgainst": 31,
-          "goalDifference": 29
+          "goalDifference": 30
         },
         {
           "position": 2,
@@ -62,9 +62,9 @@
           "draw": 8,
           "lost": 5,
           "points": 50,
-          "goalsFor": 46,
+          "goalsFor": 47,
           "goalsAgainst": 24,
-          "goalDifference": 22
+          "goalDifference": 23
         },
         {
           "position": 3,
@@ -100,9 +100,9 @@
           "draw": 5,
           "lost": 8,
           "points": 47,
-          "goalsFor": 43,
+          "goalsFor": 45,
           "goalsAgainst": 39,
-          "goalDifference": 4
+          "goalDifference": 6
         },
         {
           "position": 5,
@@ -116,12 +116,12 @@
           "playedGames": 28,
           "form": null,
           "won": 13,
-          "draw": 8,
-          "lost": 7,
-          "points": 47,
+          "draw": 7,
+          "lost": 8,
+          "points": 46,
           "goalsFor": 32,
-          "goalsAgainst": 34,
-          "goalDifference": -2
+          "goalsAgainst": 35,
+          "goalDifference": -3
         },
         {
           "position": 6,
@@ -139,8 +139,8 @@
           "lost": 7,
           "points": 43,
           "goalsFor": 36,
-          "goalsAgainst": 27,
-          "goalDifference": 9
+          "goalsAgainst": 29,
+          "goalDifference": 7
         },
         {
           "position": 7,
@@ -195,8 +195,8 @@
           "draw": 11,
           "lost": 7,
           "points": 41,
-          "goalsFor": 39,
-          "goalsAgainst": 34,
+          "goalsFor": 40,
+          "goalsAgainst": 35,
           "goalDifference": 5
         },
         {
@@ -214,8 +214,8 @@
           "draw": 8,
           "lost": 9,
           "points": 41,
-          "goalsFor": 37,
-          "goalsAgainst": 35,
+          "goalsFor": 38,
+          "goalsAgainst": 36,
           "goalDifference": 2
         },
         {
@@ -234,8 +234,8 @@
           "lost": 10,
           "points": 40,
           "goalsFor": 38,
-          "goalsAgainst": 30,
-          "goalDifference": 8
+          "goalsAgainst": 31,
+          "goalDifference": 7
         },
         {
           "position": 12,
@@ -259,6 +259,25 @@
         {
           "position": 13,
           "team": {
+            "id": 332,
+            "name": "Birmingham City FC",
+            "shortName": "Birmingham",
+            "tla": "BIR",
+            "crest": "https://crests.football-data.org/332.png"
+          },
+          "playedGames": 28,
+          "form": null,
+          "won": 10,
+          "draw": 8,
+          "lost": 10,
+          "points": 38,
+          "goalsFor": 38,
+          "goalsAgainst": 37,
+          "goalDifference": 1
+        },
+        {
+          "position": 14,
+          "team": {
             "id": 338,
             "name": "Leicester City FC",
             "shortName": "Leicester City",
@@ -271,28 +290,9 @@
           "draw": 8,
           "lost": 10,
           "points": 38,
-          "goalsFor": 38,
-          "goalsAgainst": 40,
+          "goalsFor": 39,
+          "goalsAgainst": 41,
           "goalDifference": -2
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 332,
-            "name": "Birmingham City FC",
-            "shortName": "Birmingham",
-            "tla": "BIR",
-            "crest": "https://crests.football-data.org/332.png"
-          },
-          "playedGames": 28,
-          "form": null,
-          "won": 9,
-          "draw": 9,
-          "lost": 10,
-          "points": 36,
-          "goalsFor": 36,
-          "goalsAgainst": 37,
-          "goalDifference": -1
         },
         {
           "position": 15,
@@ -305,13 +305,13 @@
           },
           "playedGames": 28,
           "form": null,
-          "won": 9,
-          "draw": 7,
+          "won": 10,
+          "draw": 6,
           "lost": 12,
-          "points": 34,
-          "goalsFor": 29,
+          "points": 36,
+          "goalsFor": 31,
           "goalsAgainst": 35,
-          "goalDifference": -6
+          "goalDifference": -4
         },
         {
           "position": 16,
@@ -366,8 +366,8 @@
           "draw": 8,
           "lost": 11,
           "points": 32,
-          "goalsFor": 26,
-          "goalsAgainst": 33,
+          "goalsFor": 27,
+          "goalsAgainst": 34,
           "goalDifference": -7
         },
         {
@@ -386,8 +386,8 @@
           "lost": 15,
           "points": 31,
           "goalsFor": 31,
-          "goalsAgainst": 39,
-          "goalDifference": -8
+          "goalsAgainst": 43,
+          "goalDifference": -12
         },
         {
           "position": 20,
@@ -404,9 +404,9 @@
           "draw": 6,
           "lost": 14,
           "points": 30,
-          "goalsFor": 31,
+          "goalsFor": 35,
           "goalsAgainst": 40,
-          "goalDifference": -9
+          "goalDifference": -5
         },
         {
           "position": 21,
@@ -420,12 +420,12 @@
           "playedGames": 27,
           "form": null,
           "won": 7,
-          "draw": 8,
-          "lost": 12,
-          "points": 29,
+          "draw": 7,
+          "lost": 13,
+          "points": 28,
           "goalsFor": 25,
-          "goalsAgainst": 34,
-          "goalDifference": -9
+          "goalsAgainst": 36,
+          "goalDifference": -11
         },
         {
           "position": 22,
@@ -477,12 +477,12 @@
           "playedGames": 27,
           "form": null,
           "won": 1,
-          "draw": 9,
-          "lost": 17,
-          "points": 12,
+          "draw": 8,
+          "lost": 18,
+          "points": 11,
           "goalsFor": 18,
-          "goalsAgainst": 52,
-          "goalDifference": -34
+          "goalsAgainst": 54,
+          "goalDifference": -36
         }
       ]
     }

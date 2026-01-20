@@ -39,16 +39,35 @@
           },
           "playedGames": 7,
           "form": null,
-          "won": 6,
-          "draw": 1,
+          "won": 7,
+          "draw": 0,
           "lost": 0,
-          "points": 19,
-          "goalsFor": 18,
+          "points": 21,
+          "goalsFor": 20,
           "goalsAgainst": 2,
-          "goalDifference": 16
+          "goalDifference": 18
         },
         {
           "position": 2,
+          "team": {
+            "id": 86,
+            "name": "Real Madrid CF",
+            "shortName": "Real Madrid",
+            "tla": "RMA",
+            "crest": "https://crests.football-data.org/86.png"
+          },
+          "playedGames": 7,
+          "form": null,
+          "won": 5,
+          "draw": 0,
+          "lost": 2,
+          "points": 15,
+          "goalsFor": 19,
+          "goalsAgainst": 8,
+          "goalDifference": 11
+        },
+        {
+          "position": 3,
           "team": {
             "id": 5,
             "name": "FC Bayern München",
@@ -67,45 +86,7 @@
           "goalDifference": 11
         },
         {
-          "position": 3,
-          "team": {
-            "id": 86,
-            "name": "Real Madrid CF",
-            "shortName": "Real Madrid",
-            "tla": "RMA",
-            "crest": "https://crests.football-data.org/86.png"
-          },
-          "playedGames": 7,
-          "form": null,
-          "won": 5,
-          "draw": 0,
-          "lost": 2,
-          "points": 15,
-          "goalsFor": 15,
-          "goalsAgainst": 7,
-          "goalDifference": 8
-        },
-        {
           "position": 4,
-          "team": {
-            "id": 524,
-            "name": "Paris Saint-Germain FC",
-            "shortName": "PSG",
-            "tla": "PSG",
-            "crest": "https://crests.football-data.org/524.png"
-          },
-          "playedGames": 7,
-          "form": null,
-          "won": 4,
-          "draw": 2,
-          "lost": 1,
-          "points": 14,
-          "goalsFor": 19,
-          "goalsAgainst": 8,
-          "goalDifference": 11
-        },
-        {
-          "position": 5,
           "team": {
             "id": 73,
             "name": "Tottenham Hotspur FC",
@@ -119,18 +100,18 @@
           "draw": 2,
           "lost": 1,
           "points": 14,
-          "goalsFor": 14,
+          "goalsFor": 15,
           "goalsAgainst": 7,
-          "goalDifference": 7
+          "goalDifference": 8
         },
         {
-          "position": 6,
+          "position": 5,
           "team": {
-            "id": 108,
-            "name": "FC Internazionale Milano",
-            "shortName": "Inter",
-            "tla": "INT",
-            "crest": "https://crests.football-data.org/108.png"
+            "id": 524,
+            "name": "Paris Saint-Germain FC",
+            "shortName": "PSG",
+            "tla": "PSG",
+            "crest": "https://crests.football-data.org/524.png"
           },
           "playedGames": 7,
           "form": null,
@@ -138,9 +119,28 @@
           "draw": 1,
           "lost": 2,
           "points": 13,
-          "goalsFor": 13,
-          "goalsAgainst": 5,
-          "goalDifference": 8
+          "goalsFor": 20,
+          "goalsAgainst": 10,
+          "goalDifference": 10
+        },
+        {
+          "position": 6,
+          "team": {
+            "id": 498,
+            "name": "Sporting Clube de Portugal",
+            "shortName": "Sporting CP",
+            "tla": "SPO",
+            "crest": "https://crests.football-data.org/498.png"
+          },
+          "playedGames": 7,
+          "form": null,
+          "won": 4,
+          "draw": 1,
+          "lost": 2,
+          "points": 13,
+          "goalsFor": 14,
+          "goalsAgainst": 9,
+          "goalDifference": 5
         },
         {
           "position": 7,
@@ -183,6 +183,25 @@
         {
           "position": 9,
           "team": {
+            "id": 108,
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT",
+            "crest": "https://crests.football-data.org/108.png"
+          },
+          "playedGames": 7,
+          "form": null,
+          "won": 4,
+          "draw": 0,
+          "lost": 3,
+          "points": 12,
+          "goalsFor": 13,
+          "goalsAgainst": 7,
+          "goalDifference": 6
+        },
+        {
+          "position": 10,
+          "team": {
             "id": 78,
             "name": "Club Atlético de Madrid",
             "shortName": "Atleti",
@@ -200,7 +219,7 @@
           "goalDifference": 3
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 64,
             "name": "Liverpool FC",
@@ -219,7 +238,7 @@
           "goalDifference": 3
         },
         {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 4,
             "name": "Borussia Dortmund",
@@ -234,26 +253,7 @@
           "lost": 2,
           "points": 11,
           "goalsFor": 19,
-          "goalsAgainst": 14,
-          "goalDifference": 5
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 498,
-            "name": "Sporting Clube de Portugal",
-            "shortName": "Sporting CP",
-            "tla": "SPO",
-            "crest": "https://crests.football-data.org/498.png"
-          },
-          "playedGames": 7,
-          "form": null,
-          "won": 3,
-          "draw": 2,
-          "lost": 2,
-          "points": 11,
-          "goalsFor": 12,
-          "goalsAgainst": 8,
+          "goalsAgainst": 15,
           "goalDifference": 4
         },
         {
@@ -385,9 +385,9 @@
           "draw": 3,
           "lost": 2,
           "points": 9,
-          "goalsFor": 7,
-          "goalsAgainst": 10,
-          "goalDifference": -3
+          "goalsFor": 8,
+          "goalsAgainst": 14,
+          "goalDifference": -6
         },
         {
           "position": 20,
@@ -405,8 +405,8 @@
           "lost": 2,
           "points": 9,
           "goalsFor": 10,
-          "goalsAgainst": 13,
-          "goalDifference": -3
+          "goalsAgainst": 14,
+          "goalDifference": -4
         },
         {
           "position": 21,
@@ -442,9 +442,9 @@
           "draw": 2,
           "lost": 3,
           "points": 8,
-          "goalsFor": 7,
+          "goalsFor": 8,
           "goalsAgainst": 13,
-          "goalDifference": -6
+          "goalDifference": -5
         },
         {
           "position": 23,
@@ -461,8 +461,8 @@
           "draw": 2,
           "lost": 3,
           "points": 8,
-          "goalsFor": 6,
-          "goalsAgainst": 11,
+          "goalsFor": 7,
+          "goalsAgainst": 12,
           "goalDifference": -5
         },
         {
@@ -480,8 +480,8 @@
           "draw": 2,
           "lost": 3,
           "points": 8,
-          "goalsFor": 10,
-          "goalsAgainst": 16,
+          "goalsFor": 11,
+          "goalsAgainst": 17,
           "goalDifference": -6
         },
         {
@@ -601,6 +601,25 @@
         {
           "position": 31,
           "team": {
+            "id": 678,
+            "name": "AFC Ajax",
+            "shortName": "Ajax",
+            "tla": "AJA",
+            "crest": "https://crests.football-data.org/678.png"
+          },
+          "playedGames": 7,
+          "form": null,
+          "won": 2,
+          "draw": 0,
+          "lost": 5,
+          "points": 6,
+          "goalsFor": 7,
+          "goalsAgainst": 19,
+          "goalDifference": -12
+        },
+        {
+          "position": 32,
+          "team": {
             "id": 77,
             "name": "Athletic Club",
             "shortName": "Athletic",
@@ -618,7 +637,7 @@
           "goalDifference": -5
         },
         {
-          "position": 32,
+          "position": 33,
           "team": {
             "id": 19,
             "name": "Eintracht Frankfurt",
@@ -635,25 +654,6 @@
           "goalsFor": 8,
           "goalsAgainst": 16,
           "goalDifference": -8
-        },
-        {
-          "position": 33,
-          "team": {
-            "id": 678,
-            "name": "AFC Ajax",
-            "shortName": "Ajax",
-            "tla": "AJA",
-            "crest": "https://crests.football-data.org/678.png"
-          },
-          "playedGames": 7,
-          "form": null,
-          "won": 1,
-          "draw": 1,
-          "lost": 5,
-          "points": 4,
-          "goalsFor": 5,
-          "goalsAgainst": 18,
-          "goalDifference": -13
         },
         {
           "position": 34,
@@ -686,12 +686,12 @@
           "playedGames": 7,
           "form": null,
           "won": 0,
-          "draw": 2,
-          "lost": 5,
-          "points": 2,
-          "goalsFor": 4,
-          "goalsAgainst": 13,
-          "goalDifference": -9
+          "draw": 1,
+          "lost": 6,
+          "points": 1,
+          "goalsFor": 5,
+          "goalsAgainst": 15,
+          "goalDifference": -10
         },
         {
           "position": 36,
