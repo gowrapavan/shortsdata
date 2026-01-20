@@ -451,6 +451,106 @@ def fetch_livekora():
     return matches
 
 
+def fetch_siiir():
+    """
+    Scrape w4.siiir.tv
+    - Extract matches
+    - Take hard href ?match=X
+    - Build final iframe src:
+      https://eyj0exaio.../playerv2.php?match=matchX&key=...
+    """
+
+    load_team_data()
+
+    url = "https://w4.siiir.tv/"
+    headers = {"User-Agent": "Mozilla/5.0"}
+    html = requests.get(url, headers=headers, timeout=10).text
+    soup = BeautifulSoup(html, "html.parser")
+
+    matches = []
+
+    for match_div in soup.select("div.AY_Match"):
+
+        # -----------------------------
+        # Teams
+        # -----------------------------
+        home_tag = match_div.select_one(".TM1 .TM_Name")
+        away_tag = match_div.select_one(".TM2 .TM_Name")
+
+        home = home_tag.text.strip() if home_tag else ""
+        away = away_tag.text.strip() if away_tag else ""
+
+        # -----------------------------
+        # Logos
+        # -----------------------------
+        home_logo_tag = match_div.select_one(".TM1 .TM_Logo img")
+        away_logo_tag = match_div.select_one(".TM2 .TM_Logo img")
+
+        home_logo = home_logo_tag["src"].strip() if home_logo_tag and home_logo_tag.has_attr("src") else random_logo()
+        away_logo = away_logo_tag["src"].strip() if away_logo_tag and away_logo_tag.has_attr("src") else random_logo()
+
+        # -----------------------------
+        # League
+        # -----------------------------
+        league_tag = match_div.select_one(".TourName")
+        league = league_tag.text.strip() if league_tag else ""
+
+        # -----------------------------
+        # Time → IST
+        # -----------------------------
+        time_ist = ""
+        time_tag = match_div.select_one(".MT_Time[data-start]")
+        if time_tag:
+            try:
+                dt = datetime.fromisoformat(time_tag["data-start"].strip())
+                dt_ist = dt.astimezone(IST)
+                time_ist = dt_ist.strftime("%Y-%m-%d %H:%M IST")
+            except Exception:
+                time_ist = ""
+
+        # -----------------------------
+        # Extract hard href
+        # -----------------------------
+        a_tag = match_div.select_one("a[href]")
+        if not a_tag:
+            continue
+
+        hard_href = a_tag["href"].strip()
+
+        # -----------------------------
+        # 🔥 Convert hard href → iframe src
+        # -----------------------------
+        final_url = ""
+
+        try:
+            parsed = urlparse(hard_href)
+            qs = parse_qs(parsed.query)
+            match_id = qs.get("match", [None])[0]
+
+            if match_id:
+                final_url = (
+                    "https://eyj0exaioijkv1qilcjhbgcioijiuzi1nij99sss.aleynoxitram.sbs/"
+                    f"playerv2.php?match=match{match_id}&key=c0ae1abba6eebd7e6cc5b88b1d2B71547"
+                )
+        except Exception as e:
+            print("⚠️ siiir parse failed:", e)
+
+        # -----------------------------
+        # Append match
+        # -----------------------------
+        matches.append({
+            "time": time_ist,
+            "game": "football",
+            "league": league,
+            "home_team": home,
+            "away_team": away,
+            "label": short_label(home, away) if home and away else "siiir",
+            "home_logo": home_logo,
+            "away_logo": away_logo,
+            "url": final_url
+        })
+
+    return matches
 
 
 # === Save JSONs ===
@@ -462,7 +562,9 @@ if __name__ == "__main__":
         "sportsonline.json": fetch_sportzonline,
         "hesgoal.json": fetch_hesgoal,
         "yallashooote.json": fetch_yallashooote,
-        "livekora.json": fetch_livekora
+        "livekora.json": fetch_livekora,
+                    "siiir.json": fetch_siiir      # 👈 ADD THIS
+
     }
 
     for filename, func in sources.items():
