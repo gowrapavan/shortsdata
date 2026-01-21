@@ -145,6 +145,25 @@
         {
           "position": 7,
           "team": {
+            "id": 682,
+            "name": "AZ",
+            "shortName": "AZ",
+            "tla": "AZ",
+            "crest": "https://crests.football-data.org/682.png"
+          },
+          "playedGames": 19,
+          "form": null,
+          "won": 8,
+          "draw": 5,
+          "lost": 6,
+          "points": 29,
+          "goalsFor": 34,
+          "goalsAgainst": 32,
+          "goalDifference": 2
+        },
+        {
+          "position": 8,
+          "team": {
             "id": 6806,
             "name": "Sparta Rotterdam",
             "shortName": "Sparta",
@@ -160,25 +179,6 @@
           "goalsFor": 24,
           "goalsAgainst": 34,
           "goalDifference": -10
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 682,
-            "name": "AZ",
-            "shortName": "AZ",
-            "tla": "AZ",
-            "crest": "https://crests.football-data.org/682.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 8,
-          "draw": 4,
-          "lost": 6,
-          "points": 28,
-          "goalsFor": 33,
-          "goalsAgainst": 31,
-          "goalDifference": 2
         },
         {
           "position": 9,
@@ -284,14 +284,14 @@
             "tla": "EXC",
             "crest": "https://crests.football-data.org/670.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
           "won": 6,
-          "draw": 2,
+          "draw": 3,
           "lost": 10,
-          "points": 20,
-          "goalsFor": 19,
-          "goalsAgainst": 34,
+          "points": 21,
+          "goalsFor": 20,
+          "goalsAgainst": 35,
           "goalDifference": -15
         },
         {
