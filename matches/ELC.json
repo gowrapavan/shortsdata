@@ -8287,7 +8287,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1076,
@@ -8298,11 +8298,11 @@
     "AwayTeamName": "Millwall FC",
     "HomeTeamLogo": "https://crests.football-data.org/1076.png",
     "AwayTeamLogo": "https://crests.football-data.org/384.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 1076,
     "Points": {
-      "1076": 0,
+      "1076": 3,
       "384": 0
     },
     "Goals": []
@@ -8313,7 +8313,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 349,
@@ -8326,9 +8326,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/387.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 349,
     "Points": {
-      "349": 0,
+      "349": 3,
       "387": 0
     },
     "Goals": []
@@ -8339,7 +8339,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1082,
@@ -8354,8 +8354,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "1082": 0,
-      "69": 0
+      "1082": 1,
+      "69": 1
     },
     "Goals": []
   },
@@ -8365,7 +8365,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1081,
@@ -8378,10 +8378,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/322.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 3,
-    "Result": null,
+    "Result": 322,
     "Points": {
       "1081": 0,
-      "322": 0
+      "322": 3
     },
     "Goals": []
   },
@@ -8391,7 +8391,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 345,
@@ -8403,11 +8403,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/345.png",
     "AwayTeamLogo": "https://crests.football-data.org/332.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 332,
     "Points": {
       "345": 0,
-      "332": 0
+      "332": 3
     },
     "Goals": []
   },
@@ -8417,7 +8417,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 72,
@@ -8430,9 +8430,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/59.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 72,
     "Points": {
-      "72": 0,
+      "72": 3,
       "59": 0
     },
     "Goals": []
@@ -8443,7 +8443,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 74,
@@ -8455,11 +8455,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/74.png",
     "AwayTeamLogo": "https://crests.football-data.org/68.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "AwayTeamScore": 5,
+    "Result": 68,
     "Points": {
       "74": 0,
-      "68": 0
+      "68": 3
     },
     "Goals": []
   },
@@ -8469,7 +8469,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 404,
@@ -8480,12 +8480,12 @@
     "AwayTeamName": "Leicester City FC",
     "HomeTeamLogo": "https://crests.football-data.org/404.png",
     "AwayTeamLogo": "https://crests.football-data.org/338.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "404": 0,
-      "338": 0
+      "404": 1,
+      "338": 1
     },
     "Goals": []
   },
@@ -8495,7 +8495,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 348,
@@ -8508,10 +8508,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/342.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 342,
     "Points": {
       "348": 0,
-      "342": 0
+      "342": 3
     },
     "Goals": []
   },

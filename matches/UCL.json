@@ -547,7 +547,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 86,
@@ -558,11 +558,11 @@
     "AwayTeamName": "AS Monaco FC",
     "HomeTeamLogo": "https://crests.football-data.org/86.png",
     "AwayTeamLogo": "https://crests.football-data.org/548.png",
-    "HomeTeamScore": 3,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 6,
+    "AwayTeamScore": 1,
+    "Result": 86,
     "Points": {
-      "86": 0,
+      "86": 3,
       "548": 0
     },
     "Goals": []
@@ -651,7 +651,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 108,
@@ -663,11 +663,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/108.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 57,
     "Points": {
       "108": 0,
-      "57": 0
+      "57": 3
     },
     "Goals": []
   },
@@ -907,7 +907,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 73,
@@ -920,9 +920,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/4.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 73,
     "Points": {
-      "73": 0,
+      "73": 3,
       "4": 0
     },
     "Goals": []
@@ -1395,7 +1395,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 498,
@@ -1406,11 +1406,11 @@
     "AwayTeamName": "Paris Saint-Germain FC",
     "HomeTeamLogo": "https://crests.football-data.org/498.png",
     "AwayTeamLogo": "https://crests.football-data.org/524.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 498,
     "Points": {
-      "498": 0,
+      "498": 3,
       "524": 0
     },
     "Goals": []
@@ -1679,7 +1679,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 654,
@@ -1692,9 +1692,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/3.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 654,
     "Points": {
-      "654": 0,
+      "654": 3,
       "3": 0
     },
     "Goals": []
@@ -2657,7 +2657,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 94,
@@ -2669,11 +2669,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/94.png",
     "AwayTeamLogo": "https://crests.football-data.org/678.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 678,
     "Points": {
       "94": 0,
-      "678": 0
+      "678": 3
     },
     "Goals": []
   },
@@ -3351,7 +3351,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-20",
     "DateTime": "2026-01-20T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1876,
@@ -3362,12 +3362,12 @@
     "AwayTeamName": "SSC Napoli",
     "HomeTeamLogo": "https://crests.football-data.org/1876.png",
     "AwayTeamLogo": "https://crests.football-data.org/113.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "1876": 0,
-      "113": 0
+      "1876": 1,
+      "113": 1
     },
     "Goals": []
   },
