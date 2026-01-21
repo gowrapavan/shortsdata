@@ -170,8 +170,8 @@
     "AwayTeamName": "Royale Union Saint-Gilloise",
     "HomeTeamLogo": "https://crests.football-data.org/5.png",
     "AwayTeamLogo": "https://crests.football-data.org/3929.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "5": 0,
@@ -352,8 +352,8 @@
     "AwayTeamName": "Paphos FC",
     "HomeTeamLogo": "https://crests.football-data.org/61.png",
     "AwayTeamLogo": "https://crests.football-data.org/11034.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "61": 0,
@@ -1072,8 +1072,8 @@
     "AwayTeamName": "Liverpool FC",
     "HomeTeamLogo": "https://crests.football-data.org/516.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "516": 0,
@@ -1254,8 +1254,8 @@
     "AwayTeamName": "FC Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/930.png",
     "AwayTeamLogo": "https://crests.football-data.org/81.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "930": 0,
@@ -2024,8 +2024,8 @@
     "AwayTeamName": "Athletic Club",
     "HomeTeamLogo": "https://crests.football-data.org/102.png",
     "AwayTeamLogo": "https://crests.football-data.org/77.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "102": 0,
@@ -2076,8 +2076,8 @@
     "AwayTeamName": "Sport Lisboa e Benfica",
     "HomeTeamLogo": "https://crests.football-data.org/109.png",
     "AwayTeamLogo": "https://crests.football-data.org/1903.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "109": 0,
@@ -2397,7 +2397,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-21",
     "DateTime": "2026-01-21T17:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 611,
@@ -2408,11 +2408,11 @@
     "AwayTeamName": "Eintracht Frankfurt",
     "HomeTeamLogo": "https://crests.football-data.org/611.png",
     "AwayTeamLogo": "https://crests.football-data.org/19.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 611,
     "Points": {
-      "611": 0,
+      "611": 3,
       "19": 0
     },
     "Goals": []
@@ -2631,7 +2631,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-21",
     "DateTime": "2026-01-21T17:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 610,
@@ -2646,8 +2646,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "610": 0,
-      "78": 0
+      "610": 1,
+      "78": 1
     },
     "Goals": []
   },
@@ -3310,8 +3310,8 @@
     "AwayTeamName": "PSV",
     "HomeTeamLogo": "https://crests.football-data.org/67.png",
     "AwayTeamLogo": "https://crests.football-data.org/674.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "67": 0,
