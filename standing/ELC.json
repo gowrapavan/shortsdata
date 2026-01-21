@@ -50,6 +50,25 @@
         {
           "position": 2,
           "team": {
+            "id": 343,
+            "name": "Middlesbrough FC",
+            "shortName": "Middlesbrough",
+            "tla": "MID",
+            "crest": "https://crests.football-data.org/343.png"
+          },
+          "playedGames": 28,
+          "form": null,
+          "won": 15,
+          "draw": 7,
+          "lost": 6,
+          "points": 52,
+          "goalsFor": 42,
+          "goalsAgainst": 29,
+          "goalDifference": 13
+        },
+        {
+          "position": 3,
+          "team": {
             "id": 349,
             "name": "Ipswich Town FC",
             "shortName": "Ipswich Town",
@@ -65,25 +84,6 @@
           "goalsFor": 47,
           "goalsAgainst": 24,
           "goalDifference": 23
-        },
-        {
-          "position": 3,
-          "team": {
-            "id": 343,
-            "name": "Middlesbrough FC",
-            "shortName": "Middlesbrough",
-            "tla": "MID",
-            "crest": "https://crests.football-data.org/343.png"
-          },
-          "playedGames": 28,
-          "form": null,
-          "won": 14,
-          "draw": 8,
-          "lost": 6,
-          "points": 50,
-          "goalsFor": 40,
-          "goalsAgainst": 28,
-          "goalDifference": 12
         },
         {
           "position": 4,
@@ -145,25 +145,6 @@
         {
           "position": 7,
           "team": {
-            "id": 70,
-            "name": "Stoke City FC",
-            "shortName": "Stoke",
-            "tla": "STK",
-            "crest": "https://crests.football-data.org/70.png"
-          },
-          "playedGames": 28,
-          "form": null,
-          "won": 12,
-          "draw": 6,
-          "lost": 10,
-          "points": 42,
-          "goalsFor": 32,
-          "goalsAgainst": 23,
-          "goalDifference": 9
-        },
-        {
-          "position": 8,
-          "team": {
             "id": 346,
             "name": "Watford FC",
             "shortName": "Watford",
@@ -176,9 +157,28 @@
           "draw": 9,
           "lost": 7,
           "points": 42,
-          "goalsFor": 37,
-          "goalsAgainst": 31,
+          "goalsFor": 38,
+          "goalsAgainst": 32,
           "goalDifference": 6
+        },
+        {
+          "position": 8,
+          "team": {
+            "id": 70,
+            "name": "Stoke City FC",
+            "shortName": "Stoke",
+            "tla": "STK",
+            "crest": "https://crests.football-data.org/70.png"
+          },
+          "playedGames": 28,
+          "form": null,
+          "won": 12,
+          "draw": 5,
+          "lost": 11,
+          "points": 41,
+          "goalsFor": 33,
+          "goalsAgainst": 25,
+          "goalDifference": 8
         },
         {
           "position": 9,
@@ -423,8 +423,8 @@
           "draw": 8,
           "lost": 11,
           "points": 29,
-          "goalsFor": 22,
-          "goalsAgainst": 35,
+          "goalsFor": 23,
+          "goalsAgainst": 36,
           "goalDifference": -13
         },
         {
