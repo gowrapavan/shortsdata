@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-21T06:19:28.209533Z",
+    "last_updated": "2026-01-22T06:18:28.967940Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -510,6 +510,15 @@
                     "nationality": "Netherlands"
                 },
                 {
+                    "player_name": "Troy Parrott",
+                    "team_name": "AZ",
+                    "team_crest": "https://crests.football-data.org/682.png",
+                    "goals": 10,
+                    "assists": 1,
+                    "penalties": 2,
+                    "nationality": "Ireland"
+                },
+                {
                     "player_name": "Jizz Hornkamp",
                     "team_name": "Heracles Almelo",
                     "team_crest": "https://crests.football-data.org/671.png",
@@ -517,15 +526,6 @@
                     "assists": 1,
                     "penalties": 1,
                     "nationality": "Netherlands"
-                },
-                {
-                    "player_name": "Troy Parrott",
-                    "team_name": "AZ",
-                    "team_crest": "https://crests.football-data.org/682.png",
-                    "goals": 9,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "Ireland"
                 },
                 {
                     "player_name": "Tobias Lauritsen",
@@ -598,6 +598,24 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Harry Kane",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 7,
+                    "assists": null,
+                    "penalties": 2,
+                    "nationality": "England"
+                },
+                {
+                    "player_name": "Anthony Gordon",
+                    "team_name": "Newcastle United FC",
+                    "team_crest": "https://crests.football-data.org/67.png",
+                    "goals": 6,
+                    "assists": 2,
+                    "penalties": 3,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Erling Haaland",
                     "team_name": "Manchester City FC",
                     "team_crest": "https://crests.football-data.org/65.png",
@@ -625,58 +643,40 @@
                     "nationality": "Brazil"
                 },
                 {
-                    "player_name": "Harry Kane",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 5,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "England"
-                },
-                {
-                    "player_name": "Anthony Gordon",
+                    "player_name": "Harvey Barnes",
                     "team_name": "Newcastle United FC",
                     "team_crest": "https://crests.football-data.org/67.png",
                     "goals": 5,
-                    "assists": 2,
-                    "penalties": 3,
+                    "assists": 1,
+                    "penalties": null,
                     "nationality": "England"
+                },
+                {
+                    "player_name": "Fermín López",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
+                    "goals": 5,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Spain"
+                },
+                {
+                    "player_name": "Camilo Durán",
+                    "team_name": "Qarabağ Ağdam FK",
+                    "team_crest": "https://crests.football-data.org/611.png",
+                    "goals": 4,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Colombia"
                 },
                 {
                     "player_name": "Marcus Rashford",
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
                     "goals": 4,
-                    "assists": 2,
+                    "assists": 3,
                     "penalties": null,
                     "nationality": "England"
-                },
-                {
-                    "player_name": "Julián Álvarez",
-                    "team_name": "Club Atlético de Madrid",
-                    "team_crest": "https://crests.football-data.org/78.png",
-                    "goals": 4,
-                    "assists": 1,
-                    "penalties": 1,
-                    "nationality": "Argentina"
-                },
-                {
-                    "player_name": "Igor Paixão",
-                    "team_name": "Olympique de Marseille",
-                    "team_crest": "https://crests.football-data.org/516.png",
-                    "goals": 4,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Brazil"
-                },
-                {
-                    "player_name": "Jens Hauge",
-                    "team_name": "FK Bodø/Glimt",
-                    "team_crest": "https://crests.football-data.org/5721.png",
-                    "goals": 4,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Norway"
                 }
             ]
         }
