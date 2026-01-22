@@ -159,7 +159,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-21",
     "DateTime": "2026-01-21T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5,
@@ -172,9 +172,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/3929.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 5,
     "Points": {
-      "5": 0,
+      "5": 3,
       "3929": 0
     },
     "Goals": []
@@ -341,7 +341,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-21",
     "DateTime": "2026-01-21T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 61,
@@ -352,11 +352,11 @@
     "AwayTeamName": "Paphos FC",
     "HomeTeamLogo": "https://crests.football-data.org/61.png",
     "AwayTeamLogo": "https://crests.football-data.org/11034.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 61,
     "Points": {
-      "61": 0,
+      "61": 3,
       "11034": 0
     },
     "Goals": []
@@ -1061,7 +1061,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-21",
     "DateTime": "2026-01-21T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 516,
@@ -1073,11 +1073,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/516.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 64,
     "Points": {
       "516": 0,
-      "64": 0
+      "64": 3
     },
     "Goals": []
   },
@@ -1243,7 +1243,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-21",
     "DateTime": "2026-01-21T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 930,
@@ -1255,11 +1255,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/930.png",
     "AwayTeamLogo": "https://crests.football-data.org/81.png",
     "HomeTeamScore": 2,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "AwayTeamScore": 4,
+    "Result": 81,
     "Points": {
       "930": 0,
-      "81": 0
+      "81": 3
     },
     "Goals": []
   },
@@ -2013,7 +2013,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-21",
     "DateTime": "2026-01-21T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 102,
@@ -2024,12 +2024,12 @@
     "AwayTeamName": "Athletic Club",
     "HomeTeamLogo": "https://crests.football-data.org/102.png",
     "AwayTeamLogo": "https://crests.football-data.org/77.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 77,
     "Points": {
       "102": 0,
-      "77": 0
+      "77": 3
     },
     "Goals": []
   },
@@ -2065,7 +2065,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-21",
     "DateTime": "2026-01-21T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 109,
@@ -2076,11 +2076,11 @@
     "AwayTeamName": "Sport Lisboa e Benfica",
     "HomeTeamLogo": "https://crests.football-data.org/109.png",
     "AwayTeamLogo": "https://crests.football-data.org/1903.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 109,
     "Points": {
-      "109": 0,
+      "109": 3,
       "1903": 0
     },
     "Goals": []
@@ -3299,7 +3299,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-21",
     "DateTime": "2026-01-21T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 67,
@@ -3310,11 +3310,11 @@
     "AwayTeamName": "PSV",
     "HomeTeamLogo": "https://crests.football-data.org/67.png",
     "AwayTeamLogo": "https://crests.football-data.org/674.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 67,
     "Points": {
-      "67": 0,
+      "67": 3,
       "674": 0
     },
     "Goals": []

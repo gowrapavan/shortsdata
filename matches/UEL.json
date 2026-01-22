@@ -8521,7 +8521,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-21",
     "DateTime": "2026-01-21T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 340,
@@ -8534,9 +8534,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/356.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 340,
     "Points": {
-      "340": 0,
+      "340": 3,
       "356": 0
     },
     "Goals": []
@@ -8547,7 +8547,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-21",
     "DateTime": "2026-01-21T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 70,
@@ -8559,11 +8559,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/70.png",
     "AwayTeamLogo": "https://crests.football-data.org/343.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 343,
     "Points": {
       "70": 0,
-      "343": 0
+      "343": 3
     },
     "Goals": []
   },
@@ -8573,7 +8573,7 @@
     "RoundName": "Championship",
     "Date": "2026-01-21",
     "DateTime": "2026-01-21T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 346,
@@ -8584,12 +8584,12 @@
     "AwayTeamName": "Portsmouth FC",
     "HomeTeamLogo": "https://crests.football-data.org/346.png",
     "AwayTeamLogo": "https://crests.football-data.org/325.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "346": 0,
-      "325": 0
+      "346": 1,
+      "325": 1
     },
     "Goals": []
   },
