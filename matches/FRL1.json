@@ -4153,7 +4153,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-23",
     "DateTime": "2026-01-23T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 519,
@@ -4164,12 +4164,12 @@
     "AwayTeamName": "Paris Saint-Germain FC",
     "HomeTeamLogo": "https://crests.football-data.org/519.png",
     "AwayTeamLogo": "https://crests.football-data.org/524.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 524,
     "Points": {
       "519": 0,
-      "524": 0
+      "524": 3
     },
     "Goals": []
   },
