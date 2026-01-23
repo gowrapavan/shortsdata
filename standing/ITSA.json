@@ -37,15 +37,15 @@
             "tla": "INT",
             "crest": "https://crests.football-data.org/108.png"
           },
-          "playedGames": 21,
+          "playedGames": 22,
           "form": null,
           "won": 16,
           "draw": 1,
-          "lost": 4,
+          "lost": 5,
           "points": 49,
           "goalsFor": 44,
-          "goalsAgainst": 17,
-          "goalDifference": 27
+          "goalsAgainst": 18,
+          "goalDifference": 26
         },
         {
           "position": 2,
@@ -354,6 +354,25 @@
         {
           "position": 18,
           "team": {
+            "id": 487,
+            "name": "AC Pisa 1909",
+            "shortName": "AC Pisa",
+            "tla": "PIS",
+            "crest": "https://crests.football-data.org/487.png"
+          },
+          "playedGames": 22,
+          "form": null,
+          "won": 2,
+          "draw": 11,
+          "lost": 9,
+          "points": 17,
+          "goalsFor": 17,
+          "goalsAgainst": 31,
+          "goalDifference": -14
+        },
+        {
+          "position": 19,
+          "team": {
             "id": 5890,
             "name": "US Lecce",
             "shortName": "Lecce",
@@ -369,25 +388,6 @@
           "goalsFor": 13,
           "goalsAgainst": 29,
           "goalDifference": -16
-        },
-        {
-          "position": 19,
-          "team": {
-            "id": 487,
-            "name": "AC Pisa 1909",
-            "shortName": "AC Pisa",
-            "tla": "PIS",
-            "crest": "https://crests.football-data.org/487.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 1,
-          "draw": 11,
-          "lost": 9,
-          "points": 14,
-          "goalsFor": 16,
-          "goalsAgainst": 31,
-          "goalDifference": -15
         },
         {
           "position": 20,

@@ -259,6 +259,25 @@
         {
           "position": 13,
           "team": {
+            "id": 7,
+            "name": "Hamburger SV",
+            "shortName": "HSV",
+            "tla": "HSV",
+            "crest": "https://crests.football-data.org/7.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 4,
+          "draw": 6,
+          "lost": 8,
+          "points": 18,
+          "goalsFor": 17,
+          "goalsAgainst": 27,
+          "goalDifference": -10
+        },
+        {
+          "position": 14,
+          "team": {
             "id": 12,
             "name": "SV Werder Bremen",
             "shortName": "Bremen",
@@ -274,25 +293,6 @@
           "goalsFor": 21,
           "goalsAgainst": 34,
           "goalDifference": -13
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 7,
-            "name": "Hamburger SV",
-            "shortName": "HSV",
-            "tla": "HSV",
-            "crest": "https://crests.football-data.org/7.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 4,
-          "draw": 5,
-          "lost": 8,
-          "points": 17,
-          "goalsFor": 17,
-          "goalsAgainst": 27,
-          "goalDifference": -10
         },
         {
           "position": 15,
@@ -316,6 +316,25 @@
         {
           "position": 16,
           "team": {
+            "id": 20,
+            "name": "FC St. Pauli 1910",
+            "shortName": "St. Pauli",
+            "tla": "STP",
+            "crest": "https://crests.football-data.org/20.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 3,
+          "draw": 4,
+          "lost": 11,
+          "points": 13,
+          "goalsFor": 16,
+          "goalsAgainst": 31,
+          "goalDifference": -15
+        },
+        {
+          "position": 17,
+          "team": {
             "id": 44,
             "name": "1. FC Heidenheim 1846",
             "shortName": "Heidenheim",
@@ -333,7 +352,7 @@
           "goalDifference": -22
         },
         {
-          "position": 17,
+          "position": 18,
           "team": {
             "id": 15,
             "name": "1. FSV Mainz 05",
@@ -350,25 +369,6 @@
           "goalsFor": 18,
           "goalsAgainst": 31,
           "goalDifference": -13
-        },
-        {
-          "position": 18,
-          "team": {
-            "id": 20,
-            "name": "FC St. Pauli 1910",
-            "shortName": "St. Pauli",
-            "tla": "STP",
-            "crest": "https://crests.football-data.org/20.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 3,
-          "draw": 3,
-          "lost": 11,
-          "points": 12,
-          "goalsFor": 16,
-          "goalsAgainst": 31,
-          "goalDifference": -15
         }
       ]
     }

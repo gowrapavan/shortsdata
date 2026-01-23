@@ -164,6 +164,25 @@
         {
           "position": 8,
           "team": {
+            "id": 342,
+            "name": "Derby County FC",
+            "shortName": "Derby County",
+            "tla": "DER",
+            "crest": "https://crests.football-data.org/342.png"
+          },
+          "playedGames": 29,
+          "form": null,
+          "won": 11,
+          "draw": 9,
+          "lost": 9,
+          "points": 42,
+          "goalsFor": 38,
+          "goalsAgainst": 36,
+          "goalDifference": 2
+        },
+        {
+          "position": 9,
+          "team": {
             "id": 70,
             "name": "Stoke City FC",
             "shortName": "Stoke",
@@ -181,7 +200,7 @@
           "goalDifference": 8
         },
         {
-          "position": 9,
+          "position": 10,
           "team": {
             "id": 404,
             "name": "Wrexham AFC",
@@ -198,25 +217,6 @@
           "goalsFor": 40,
           "goalsAgainst": 35,
           "goalDifference": 5
-        },
-        {
-          "position": 10,
-          "team": {
-            "id": 342,
-            "name": "Derby County FC",
-            "shortName": "Derby County",
-            "tla": "DER",
-            "crest": "https://crests.football-data.org/342.png"
-          },
-          "playedGames": 28,
-          "form": null,
-          "won": 11,
-          "draw": 8,
-          "lost": 9,
-          "points": 41,
-          "goalsFor": 38,
-          "goalsAgainst": 36,
-          "goalDifference": 2
         },
         {
           "position": 11,
@@ -379,12 +379,12 @@
             "tla": "WBA",
             "crest": "https://crests.football-data.org/74.png"
           },
-          "playedGames": 28,
+          "playedGames": 29,
           "form": null,
           "won": 9,
-          "draw": 4,
+          "draw": 5,
           "lost": 15,
-          "points": 31,
+          "points": 32,
           "goalsFor": 31,
           "goalsAgainst": 43,
           "goalDifference": -12
