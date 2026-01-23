@@ -297,6 +297,25 @@
         {
           "position": 15,
           "team": {
+            "id": 6618,
+            "name": "Casa Pia AC",
+            "shortName": "Casa Pia",
+            "tla": "CAS",
+            "crest": "https://crests.football-data.org/6618.png"
+          },
+          "playedGames": 19,
+          "form": null,
+          "won": 4,
+          "draw": 5,
+          "lost": 10,
+          "points": 17,
+          "goalsFor": 20,
+          "goalsAgainst": 36,
+          "goalDifference": -16
+        },
+        {
+          "position": 16,
+          "team": {
             "id": 712,
             "name": "FC Arouca",
             "shortName": "Arouca",
@@ -312,25 +331,6 @@
           "goalsFor": 19,
           "goalsAgainst": 42,
           "goalDifference": -23
-        },
-        {
-          "position": 16,
-          "team": {
-            "id": 6618,
-            "name": "Casa Pia AC",
-            "shortName": "Casa Pia",
-            "tla": "CAS",
-            "crest": "https://crests.football-data.org/6618.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 3,
-          "draw": 5,
-          "lost": 10,
-          "points": 14,
-          "goalsFor": 17,
-          "goalsAgainst": 35,
-          "goalDifference": -18
         },
         {
           "position": 17,
@@ -360,15 +360,15 @@
             "tla": "AVS",
             "crest": "https://crests.football-data.org/10340.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
           "won": 0,
           "draw": 4,
-          "lost": 14,
+          "lost": 15,
           "points": 4,
-          "goalsFor": 11,
-          "goalsAgainst": 44,
-          "goalDifference": -33
+          "goalsFor": 12,
+          "goalsAgainst": 47,
+          "goalDifference": -35
         }
       ]
     }
