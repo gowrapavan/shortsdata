@@ -4473,7 +4473,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-01-24",
     "DateTime": "2026-01-24T17:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1915,
@@ -4484,11 +4484,11 @@
     "AwayTeamName": "PEC Zwolle",
     "HomeTeamLogo": "https://crests.football-data.org/1915.png",
     "AwayTeamLogo": "https://crests.football-data.org/684.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 1915,
     "Points": {
-      "1915": 0,
+      "1915": 3,
       "684": 0
     },
     "Goals": []
@@ -4499,7 +4499,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-01-24",
     "DateTime": "2026-01-24T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 674,
@@ -4510,12 +4510,12 @@
     "AwayTeamName": "NAC Breda",
     "HomeTeamLogo": "https://crests.football-data.org/674.png",
     "AwayTeamLogo": "https://crests.football-data.org/681.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "674": 0,
-      "681": 0
+      "674": 1,
+      "681": 1
     },
     "Goals": []
   },
@@ -4562,8 +4562,8 @@
     "AwayTeamName": "SBV Excelsior",
     "HomeTeamLogo": "https://crests.football-data.org/666.png",
     "AwayTeamLogo": "https://crests.football-data.org/670.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "666": 0,
