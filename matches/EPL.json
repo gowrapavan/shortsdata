@@ -5740,8 +5740,8 @@
     "AwayTeamName": "Tottenham Hotspur FC",
     "HomeTeamLogo": "https://crests.football-data.org/328.png",
     "AwayTeamLogo": "https://crests.football-data.org/73.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "328": 0,
@@ -5792,8 +5792,8 @@
     "AwayTeamName": "Brighton & Hove Albion FC",
     "HomeTeamLogo": "https://crests.football-data.org/63.png",
     "AwayTeamLogo": "https://crests.football-data.org/397.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "63": 0,
@@ -5818,8 +5818,8 @@
     "AwayTeamName": "Wolverhampton Wanderers FC",
     "HomeTeamLogo": "https://crests.football-data.org/65.png",
     "AwayTeamLogo": "https://crests.football-data.org/76.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "65": 0,
@@ -5859,7 +5859,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-24",
     "DateTime": "2026-01-24T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 563,
@@ -5870,11 +5870,11 @@
     "AwayTeamName": "Sunderland AFC",
     "HomeTeamLogo": "https://crests.football-data.org/563.png",
     "AwayTeamLogo": "https://crests.football-data.org/71.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 563,
     "Points": {
-      "563": 0,
+      "563": 3,
       "71": 0
     },
     "Goals": []
