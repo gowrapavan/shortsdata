@@ -4156,8 +4156,8 @@
     "AwayTeamName": "Borussia Dortmund",
     "HomeTeamLogo": "https://crests.football-data.org/28.png",
     "AwayTeamLogo": "https://crests.football-data.org/4.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "28": 0,
@@ -4171,7 +4171,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-01-24",
     "DateTime": "2026-01-24T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 44,
@@ -4183,11 +4183,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/44.png",
     "AwayTeamLogo": "https://crests.football-data.org/721.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 721,
     "Points": {
       "44": 0,
-      "721": 0
+      "721": 3
     },
     "Goals": []
   },
@@ -4197,7 +4197,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-01-24",
     "DateTime": "2026-01-24T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 3,
@@ -4210,9 +4210,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/12.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 3,
     "Points": {
-      "3": 0,
+      "3": 3,
       "12": 0
     },
     "Goals": []
@@ -4249,7 +4249,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-01-24",
     "DateTime": "2026-01-24T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 15,
@@ -4260,11 +4260,11 @@
     "AwayTeamName": "VfL Wolfsburg",
     "HomeTeamLogo": "https://crests.football-data.org/15.png",
     "AwayTeamLogo": "https://crests.football-data.org/11.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 15,
     "Points": {
-      "15": 0,
+      "15": 3,
       "11": 0
     },
     "Goals": []
@@ -4275,7 +4275,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-01-24",
     "DateTime": "2026-01-24T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5,
@@ -4287,11 +4287,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/5.png",
     "AwayTeamLogo": "https://crests.football-data.org/16.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 16,
     "Points": {
       "5": 0,
-      "16": 0
+      "16": 3
     },
     "Goals": []
   },
@@ -4301,7 +4301,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-01-24",
     "DateTime": "2026-01-24T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 19,
@@ -4313,11 +4313,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/19.png",
     "AwayTeamLogo": "https://crests.football-data.org/2.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 2,
     "Points": {
       "19": 0,
-      "2": 0
+      "2": 3
     },
     "Goals": []
   },

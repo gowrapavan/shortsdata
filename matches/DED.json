@@ -4343,7 +4343,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-01-24",
     "DateTime": "2026-01-24T15:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 678,
@@ -4354,11 +4354,11 @@
     "AwayTeamName": "FC Volendam",
     "HomeTeamLogo": "https://crests.football-data.org/678.png",
     "AwayTeamLogo": "https://crests.football-data.org/1919.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 678,
     "Points": {
-      "678": 0,
+      "678": 3,
       "1919": 0
     },
     "Goals": []
@@ -4484,8 +4484,8 @@
     "AwayTeamName": "PEC Zwolle",
     "HomeTeamLogo": "https://crests.football-data.org/1915.png",
     "AwayTeamLogo": "https://crests.football-data.org/684.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "1915": 0,

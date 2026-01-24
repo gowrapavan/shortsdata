@@ -5178,8 +5178,8 @@
     "AwayTeamName": "Athletic Club",
     "HomeTeamLogo": "https://crests.football-data.org/559.png",
     "AwayTeamLogo": "https://crests.football-data.org/77.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "559": 0,
@@ -5245,7 +5245,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-01-24",
     "DateTime": "2026-01-24T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 95,
@@ -5256,11 +5256,11 @@
     "AwayTeamName": "RCD Espanyol de Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/95.png",
     "AwayTeamLogo": "https://crests.football-data.org/80.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 95,
     "Points": {
-      "95": 0,
+      "95": 3,
       "80": 0
     },
     "Goals": []

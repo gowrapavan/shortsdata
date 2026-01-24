@@ -4138,8 +4138,8 @@
     "AwayTeamName": "AS Monaco FC",
     "HomeTeamLogo": "https://crests.football-data.org/533.png",
     "AwayTeamLogo": "https://crests.football-data.org/548.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "533": 0,
@@ -4335,7 +4335,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-24",
     "DateTime": "2026-01-24T16:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 529,
@@ -4346,12 +4346,12 @@
     "AwayTeamName": "FC Lorient",
     "HomeTeamLogo": "https://crests.football-data.org/529.png",
     "AwayTeamLogo": "https://crests.football-data.org/525.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
+    "Result": 525,
     "Points": {
       "529": 0,
-      "525": 0
+      "525": 3
     },
     "Goals": []
   },

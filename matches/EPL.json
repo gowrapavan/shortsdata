@@ -5636,8 +5636,8 @@
     "AwayTeamName": "Liverpool FC",
     "HomeTeamLogo": "https://crests.football-data.org/bournemouth.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "1044": 0,
@@ -5729,7 +5729,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-24",
     "DateTime": "2026-01-24T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 328,
@@ -5740,12 +5740,12 @@
     "AwayTeamName": "Tottenham Hotspur FC",
     "HomeTeamLogo": "https://crests.football-data.org/328.png",
     "AwayTeamLogo": "https://crests.football-data.org/73.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "328": 0,
-      "73": 0
+      "328": 1,
+      "73": 1
     },
     "Goals": []
   },
@@ -5781,7 +5781,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-24",
     "DateTime": "2026-01-24T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 63,
@@ -5792,11 +5792,11 @@
     "AwayTeamName": "Brighton & Hove Albion FC",
     "HomeTeamLogo": "https://crests.football-data.org/63.png",
     "AwayTeamLogo": "https://crests.football-data.org/397.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 63,
     "Points": {
-      "63": 0,
+      "63": 3,
       "397": 0
     },
     "Goals": []
@@ -5807,7 +5807,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-24",
     "DateTime": "2026-01-24T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 65,
@@ -5818,11 +5818,11 @@
     "AwayTeamName": "Wolverhampton Wanderers FC",
     "HomeTeamLogo": "https://crests.football-data.org/65.png",
     "AwayTeamLogo": "https://crests.football-data.org/76.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 65,
     "Points": {
-      "65": 0,
+      "65": 3,
       "76": 0
     },
     "Goals": []
