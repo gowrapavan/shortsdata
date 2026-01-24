@@ -31,6 +31,25 @@
         {
           "position": 1,
           "team": {
+            "id": 86,
+            "name": "Real Madrid CF",
+            "shortName": "Real Madrid",
+            "tla": "RMA",
+            "crest": "https://crests.football-data.org/86.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 16,
+          "draw": 3,
+          "lost": 2,
+          "points": 51,
+          "goalsFor": 45,
+          "goalsAgainst": 17,
+          "goalDifference": 28
+        },
+        {
+          "position": 2,
+          "team": {
             "id": 81,
             "name": "FC Barcelona",
             "shortName": "Barça",
@@ -48,45 +67,7 @@
           "goalDifference": 32
         },
         {
-          "position": 2,
-          "team": {
-            "id": 86,
-            "name": "Real Madrid CF",
-            "shortName": "Real Madrid",
-            "tla": "RMA",
-            "crest": "https://crests.football-data.org/86.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 15,
-          "draw": 4,
-          "lost": 2,
-          "points": 49,
-          "goalsFor": 43,
-          "goalsAgainst": 17,
-          "goalDifference": 26
-        },
-        {
           "position": 3,
-          "team": {
-            "id": 94,
-            "name": "Villarreal CF",
-            "shortName": "Villarreal",
-            "tla": "VIL",
-            "crest": "https://crests.football-data.org/94.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 13,
-          "draw": 3,
-          "lost": 4,
-          "points": 42,
-          "goalsFor": 37,
-          "goalsAgainst": 19,
-          "goalDifference": 18
-        },
-        {
-          "position": 4,
           "team": {
             "id": 78,
             "name": "Club Atlético de Madrid",
@@ -103,6 +84,25 @@
           "goalsFor": 35,
           "goalsAgainst": 17,
           "goalDifference": 18
+        },
+        {
+          "position": 4,
+          "team": {
+            "id": 94,
+            "name": "Villarreal CF",
+            "shortName": "Villarreal",
+            "tla": "VIL",
+            "crest": "https://crests.football-data.org/94.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 13,
+          "draw": 2,
+          "lost": 5,
+          "points": 41,
+          "goalsFor": 37,
+          "goalsAgainst": 21,
+          "goalDifference": 16
         },
         {
           "position": 5,
