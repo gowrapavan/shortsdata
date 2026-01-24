@@ -13,17 +13,6 @@
   {
     "time": "04:00 PM",
     "game": "football",
-    "league": "الدوري الإسباني",
-    "home_team": "رايو فاليكانو",
-    "away_team": "أوساسونا",
-    "label": "راي-أوس",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_69729f58413a9.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_69729f5848972.png",
-    "url": "https://d.sia-me.com/albaplayer/bein-4/"
-  },
-  {
-    "time": "04:00 PM",
-    "game": "football",
     "league": "دوري أبطال أفريقيا",
     "home_team": "باور ديناموز",
     "away_team": "ريفرز يونايتد",
@@ -31,6 +20,17 @@
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a0ff67b34.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a101ab2b9.png",
     "url": "https://d.sia-me.com/albaplayer/bein-2/"
+  },
+  {
+    "time": "04:00 PM",
+    "game": "football",
+    "league": "الدوري الإسباني",
+    "home_team": "رايو فاليكانو",
+    "away_team": "أوساسونا",
+    "label": "راي-أوس",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_69729f58413a9.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_69729f5848972.png",
+    "url": "https://d.sia-me.com/albaplayer/bein-4/"
   },
   {
     "time": "04:25 PM",
@@ -41,7 +41,7 @@
     "label": "الخ-الش",
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a0a2148c6.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a0a40f203.png",
-    "url": ""
+    "url": "https://d.sia-me.com/albaplayer/ssc-1/"
   },
   {
     "time": "05:00 PM",
@@ -135,22 +135,22 @@
     "time": "06:00 PM",
     "game": "football",
     "league": "الدوري الإنجليزي",
-    "home_team": "فولهام",
-    "away_team": "برايتون",
-    "label": "فول-برا",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a05270cab.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a05471644.png",
+    "home_team": "مان سيتي",
+    "away_team": "وولفرهامبتون",
+    "label": "مان-وول",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a05ddf634.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a05fae874.png",
     "url": ""
   },
   {
     "time": "06:00 PM",
     "game": "football",
     "league": "الدوري الإنجليزي",
-    "home_team": "مان سيتي",
-    "away_team": "وولفرهامبتون",
-    "label": "مان-وول",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a05ddf634.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a05fae874.png",
+    "home_team": "فولهام",
+    "away_team": "برايتون",
+    "label": "فول-برا",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a05270cab.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a05471644.png",
     "url": ""
   },
   {
@@ -162,17 +162,6 @@
     "label": "فال-إسب",
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_69729f54249f9.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_69729f542cf0a.png",
-    "url": ""
-  },
-  {
-    "time": "07:00 PM",
-    "game": "football",
-    "league": "دوري أبطال أفريقيا",
-    "home_team": "الترجي",
-    "away_team": "سيمبا",
-    "label": "الت-سيم",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a1246f611.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a1263d86b.png",
     "url": ""
   },
   {
@@ -198,6 +187,17 @@
     "url": ""
   },
   {
+    "time": "07:00 PM",
+    "game": "football",
+    "league": "دوري أبطال أفريقيا",
+    "home_team": "الترجي",
+    "away_team": "سيمبا",
+    "label": "الت-سيم",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a1246f611.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a1263d86b.png",
+    "url": ""
+  },
+  {
     "time": "08:00 PM",
     "game": "football",
     "league": "الدوري الإيطالي",
@@ -206,17 +206,6 @@
     "label": "فيو-كال",
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a019ddc2d.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a01bd52e0.png",
-    "url": ""
-  },
-  {
-    "time": "08:30 PM",
-    "game": "football",
-    "league": "الدوري الإنجليزي",
-    "home_team": "بورنموث",
-    "away_team": "ليفربول",
-    "label": "بور-ليف",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a02ca605f.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a02f1056c.png",
     "url": ""
   },
   {
@@ -250,6 +239,17 @@
     "label": "إشب-أتل",
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_69729f504b664.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_69729f505318f.png",
+    "url": ""
+  },
+  {
+    "time": "08:30 PM",
+    "game": "football",
+    "league": "الدوري الإنجليزي",
+    "home_team": "بورنموث",
+    "away_team": "ليفربول",
+    "label": "بور-ليف",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a02ca605f.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6972a02f1056c.png",
     "url": ""
   },
   {
