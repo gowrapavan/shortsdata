@@ -37,18 +37,37 @@
             "tla": "PSV",
             "crest": "https://crests.football-data.org/674.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 17,
           "draw": 1,
-          "lost": 1,
+          "lost": 2,
           "points": 52,
-          "goalsFor": 59,
-          "goalsAgainst": 23,
-          "goalDifference": 36
+          "goalsFor": 60,
+          "goalsAgainst": 25,
+          "goalDifference": 35
         },
         {
           "position": 2,
+          "team": {
+            "id": 678,
+            "name": "AFC Ajax",
+            "shortName": "Ajax",
+            "tla": "AJA",
+            "crest": "https://crests.football-data.org/678.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 10,
+          "draw": 7,
+          "lost": 3,
+          "points": 37,
+          "goalsFor": 39,
+          "goalsAgainst": 26,
+          "goalDifference": 13
+        },
+        {
+          "position": 3,
           "team": {
             "id": 675,
             "name": "Feyenoord Rotterdam",
@@ -67,25 +86,6 @@
           "goalDifference": 20
         },
         {
-          "position": 3,
-          "team": {
-            "id": 678,
-            "name": "AFC Ajax",
-            "shortName": "Ajax",
-            "tla": "AJA",
-            "crest": "https://crests.football-data.org/678.png"
-          },
-          "playedGames": 19,
-          "form": null,
-          "won": 9,
-          "draw": 7,
-          "lost": 3,
-          "points": 34,
-          "goalsFor": 37,
-          "goalsAgainst": 26,
-          "goalDifference": 11
-        },
-        {
           "position": 4,
           "team": {
             "id": 1915,
@@ -94,15 +94,15 @@
             "tla": "NEC",
             "crest": "https://crests.football-data.org/1915.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
-          "won": 9,
+          "won": 10,
           "draw": 5,
           "lost": 4,
-          "points": 32,
-          "goalsFor": 47,
-          "goalsAgainst": 32,
-          "goalDifference": 15
+          "points": 35,
+          "goalsFor": 49,
+          "goalsAgainst": 33,
+          "goalDifference": 16
         },
         {
           "position": 5,
@@ -132,12 +132,12 @@
             "tla": "TWE",
             "crest": "https://crests.football-data.org/666.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 7,
-          "draw": 8,
+          "draw": 9,
           "lost": 4,
-          "points": 29,
+          "points": 30,
           "goalsFor": 29,
           "goalsAgainst": 22,
           "goalDifference": 7
@@ -227,15 +227,15 @@
             "tla": "ZWO",
             "crest": "https://crests.football-data.org/684.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 6,
           "draw": 5,
-          "lost": 8,
+          "lost": 9,
           "points": 23,
-          "goalsFor": 25,
-          "goalsAgainst": 40,
-          "goalDifference": -15
+          "goalsFor": 26,
+          "goalsAgainst": 42,
+          "goalDifference": -16
         },
         {
           "position": 12,
@@ -259,6 +259,25 @@
         {
           "position": 13,
           "team": {
+            "id": 670,
+            "name": "SBV Excelsior",
+            "shortName": "Excelsior",
+            "tla": "EXC",
+            "crest": "https://crests.football-data.org/670.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 6,
+          "draw": 4,
+          "lost": 10,
+          "points": 22,
+          "goalsFor": 20,
+          "goalsAgainst": 35,
+          "goalDifference": -15
+        },
+        {
+          "position": 14,
+          "team": {
             "id": 718,
             "name": "Go Ahead Eagles",
             "shortName": "Go Ahead",
@@ -276,26 +295,26 @@
           "goalDifference": -3
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
-            "id": 670,
-            "name": "SBV Excelsior",
-            "shortName": "Excelsior",
-            "tla": "EXC",
-            "crest": "https://crests.football-data.org/670.png"
+            "id": 681,
+            "name": "NAC Breda",
+            "shortName": "NAC",
+            "tla": "NAC",
+            "crest": "https://crests.football-data.org/681.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
-          "won": 6,
-          "draw": 3,
-          "lost": 10,
-          "points": 21,
-          "goalsFor": 20,
-          "goalsAgainst": 35,
-          "goalDifference": -15
+          "won": 4,
+          "draw": 5,
+          "lost": 11,
+          "points": 17,
+          "goalsFor": 21,
+          "goalsAgainst": 31,
+          "goalDifference": -10
         },
         {
-          "position": 15,
+          "position": 16,
           "team": {
             "id": 1919,
             "name": "FC Volendam",
@@ -303,18 +322,18 @@
             "tla": "VOL",
             "crest": "https://crests.football-data.org/1919.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 4,
           "draw": 5,
-          "lost": 10,
+          "lost": 11,
           "points": 17,
           "goalsFor": 21,
-          "goalsAgainst": 33,
-          "goalDifference": -12
+          "goalsAgainst": 35,
+          "goalDifference": -14
         },
         {
-          "position": 16,
+          "position": 17,
           "team": {
             "id": 1912,
             "name": "Telstar 1963",
@@ -331,25 +350,6 @@
           "goalsFor": 24,
           "goalsAgainst": 32,
           "goalDifference": -8
-        },
-        {
-          "position": 17,
-          "team": {
-            "id": 681,
-            "name": "NAC Breda",
-            "shortName": "NAC",
-            "tla": "NAC",
-            "crest": "https://crests.football-data.org/681.png"
-          },
-          "playedGames": 19,
-          "form": null,
-          "won": 3,
-          "draw": 5,
-          "lost": 11,
-          "points": 14,
-          "goalsFor": 19,
-          "goalsAgainst": 30,
-          "goalDifference": -11
         },
         {
           "position": 18,
