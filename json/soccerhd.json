@@ -1,25 +1,14 @@
 [
   {
-    "time": "04:00 PM",
+    "time": "05:00 PM",
     "game": "football",
-    "league": "الدوري الإسباني",
-    "home_team": "أتلتيكو مدريد",
-    "away_team": "ريال مايوركا",
-    "label": "أتل-ريا",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f22bbaa19.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f22bc393c.png",
-    "url": "https://d.sia-me.com/albaplayer/pemium-3/"
-  },
-  {
-    "time": "04:00 PM",
-    "game": "football",
-    "league": "دوري أبطال أفريقيا",
-    "home_team": "سانت إلوى لوپوبو",
-    "away_team": "مولودية الجزائر",
-    "label": "سان-مول",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f414d4f51.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f414dca12.png",
-    "url": "https://d.sia-me.com/albaplayer/bein-8/"
+    "league": "الدوري الإيطالي",
+    "home_team": "جنوى",
+    "away_team": "بولونيا",
+    "label": "جنو-بول",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f329ce274.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f329d6a81.png",
+    "url": "https://d.sia-me.com/albaplayer/pemium-2/"
   },
   {
     "time": "05:00 PM",
@@ -77,17 +66,6 @@
     "url": "https://d.sia-me.com/albaplayer/on-time-sport/"
   },
   {
-    "time": "05:00 PM",
-    "game": "football",
-    "league": "الدوري الإيطالي",
-    "home_team": "جنوى",
-    "away_team": "بولونيا",
-    "label": "جنو-بول",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f329ce274.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f329d6a81.png",
-    "url": "https://d.sia-me.com/albaplayer/pemium-2/"
-  },
-  {
     "time": "05:30 PM",
     "game": "football",
     "league": "الدوري الألماني",
@@ -134,23 +112,23 @@
   {
     "time": "08:00 PM",
     "game": "football",
-    "league": "البطولة الوطنية المغربية",
-    "home_team": "إتحاد تواركة",
-    "away_team": "الرجاء الرياضي",
-    "label": "إتح-الر",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f39970a1a.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f39978ca8.png",
-    "url": ""
-  },
-  {
-    "time": "08:00 PM",
-    "game": "football",
     "league": "الدوري الإيطالي",
     "home_team": "يوفنتوس",
     "away_team": "نابولي",
     "label": "يوف-ناب",
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3383e9bb.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f33846991.png",
+    "url": ""
+  },
+  {
+    "time": "08:00 PM",
+    "game": "football",
+    "league": "البطولة الوطنية المغربية",
+    "home_team": "إتحاد تواركة",
+    "away_team": "الرجاء الرياضي",
+    "label": "إتح-الر",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f39970a1a.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f39978ca8.png",
     "url": ""
   },
   {
@@ -179,17 +157,6 @@
     "time": "10:00 PM",
     "game": "football",
     "league": "كأس الكونفيدرالية",
-    "home_team": "الوداد الرياضي",
-    "away_team": "مانيما",
-    "label": "الو-مان",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3d98e5e1.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3d996662.png",
-    "url": ""
-  },
-  {
-    "time": "10:00 PM",
-    "game": "football",
-    "league": "كأس الكونفيدرالية",
     "home_team": "الزمالك",
     "away_team": "المصري",
     "label": "الز-الم",
@@ -206,6 +173,17 @@
     "label": "شبا-ستي",
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3f60388c.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3f60ac6e.png",
+    "url": ""
+  },
+  {
+    "time": "10:00 PM",
+    "game": "football",
+    "league": "كأس الكونفيدرالية",
+    "home_team": "الوداد الرياضي",
+    "away_team": "مانيما",
+    "label": "الو-مان",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3d98e5e1.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3d996662.png",
     "url": ""
   },
   {
@@ -251,5 +229,27 @@
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_69753d6e2e6c6.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_69753d6e374ec.png",
     "url": ""
+  },
+  {
+    "time": "04:00 PM",
+    "game": "football",
+    "league": "الدوري الإسباني",
+    "home_team": "أتلتيكو مدريد",
+    "away_team": "ريال مايوركا",
+    "label": "أتل-ريا",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f22bbaa19.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f22bc393c.png",
+    "url": "https://d.sia-me.com/albaplayer/pemium-3/"
+  },
+  {
+    "time": "04:00 PM",
+    "game": "football",
+    "league": "دوري أبطال أفريقيا",
+    "home_team": "سانت إلوى لوپوبو",
+    "away_team": "مولودية الجزائر",
+    "label": "سان-مول",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f414d4f51.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f414dca12.png",
+    "url": "https://d.sia-me.com/albaplayer/bein-8/"
   }
 ]
