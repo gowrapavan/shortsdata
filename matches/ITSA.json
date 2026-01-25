@@ -5448,8 +5448,8 @@
     "AwayTeamName": "Parma Calcio 1913",
     "HomeTeamLogo": "https://crests.football-data.org/102.png",
     "AwayTeamLogo": "https://crests.football-data.org/112.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "102": 0,
@@ -5474,8 +5474,8 @@
     "AwayTeamName": "Bologna FC 1909",
     "HomeTeamLogo": "https://crests.football-data.org/107.png",
     "AwayTeamLogo": "https://crests.football-data.org/103.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "107": 0,
@@ -5593,7 +5593,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T11:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 471,
@@ -5606,9 +5606,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/457.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 471,
     "Points": {
-      "471": 0,
+      "471": 3,
       "457": 0
     },
     "Goals": []

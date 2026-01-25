@@ -4380,8 +4380,8 @@
     "AwayTeamName": "Fortuna Sittard",
     "HomeTeamLogo": "https://crests.football-data.org/677.png",
     "AwayTeamLogo": "https://crests.football-data.org/1920.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "677": 0,
@@ -4525,7 +4525,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T11:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1912,
@@ -4537,11 +4537,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/1912.png",
     "AwayTeamLogo": "https://crests.football-data.org/682.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 682,
     "Points": {
       "1912": 0,
-      "682": 0
+      "682": 3
     },
     "Goals": []
   },
