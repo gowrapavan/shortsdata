@@ -2,17 +2,6 @@
   {
     "time": "04:00 PM",
     "game": "football",
-    "league": "دوري أبطال أفريقيا",
-    "home_team": "سانت إلوى لوپوبو",
-    "away_team": "مولودية الجزائر",
-    "label": "سان-مول",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f414d4f51.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f414dca12.png",
-    "url": "https://d.sia-me.com/albaplayer/bein-8/"
-  },
-  {
-    "time": "04:00 PM",
-    "game": "football",
     "league": "الدوري الإسباني",
     "home_team": "أتلتيكو مدريد",
     "away_team": "ريال مايوركا",
@@ -20,6 +9,17 @@
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f22bbaa19.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f22bc393c.png",
     "url": "https://d.sia-me.com/albaplayer/pemium-3/"
+  },
+  {
+    "time": "04:00 PM",
+    "game": "football",
+    "league": "دوري أبطال أفريقيا",
+    "home_team": "سانت إلوى لوپوبو",
+    "away_team": "مولودية الجزائر",
+    "label": "سان-مول",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f414d4f51.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f414dca12.png",
+    "url": "https://d.sia-me.com/albaplayer/bein-8/"
   },
   {
     "time": "05:00 PM",
@@ -96,7 +96,7 @@
     "label": "مون-شتو",
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f2f696d7f.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f2f69df69.png",
-    "url": ""
+    "url": "https://d.sia-me.com/albaplayer/pemium-1/"
   },
   {
     "time": "06:15 PM",
@@ -107,7 +107,7 @@
     "label": "برش-ريا",
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f240c9140.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f240d0264.png",
-    "url": ""
+    "url": "https://d.sia-me.com/albaplayer/bein-2/"
   },
   {
     "time": "07:15 PM",
@@ -134,23 +134,23 @@
   {
     "time": "08:00 PM",
     "game": "football",
-    "league": "الدوري الإيطالي",
-    "home_team": "يوفنتوس",
-    "away_team": "نابولي",
-    "label": "يوف-ناب",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3383e9bb.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f33846991.png",
-    "url": ""
-  },
-  {
-    "time": "08:00 PM",
-    "game": "football",
     "league": "البطولة الوطنية المغربية",
     "home_team": "إتحاد تواركة",
     "away_team": "الرجاء الرياضي",
     "label": "إتح-الر",
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f39970a1a.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f39978ca8.png",
+    "url": ""
+  },
+  {
+    "time": "08:00 PM",
+    "game": "football",
+    "league": "الدوري الإيطالي",
+    "home_team": "يوفنتوس",
+    "away_team": "نابولي",
+    "label": "يوف-ناب",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3383e9bb.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f33846991.png",
     "url": ""
   },
   {
@@ -179,17 +179,6 @@
     "time": "10:00 PM",
     "game": "football",
     "league": "كأس الكونفيدرالية",
-    "home_team": "شباب بلوزداد",
-    "away_team": "ستيلينبوش",
-    "label": "شبا-ستي",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3f60388c.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3f60ac6e.png",
-    "url": ""
-  },
-  {
-    "time": "10:00 PM",
-    "game": "football",
-    "league": "كأس الكونفيدرالية",
     "home_team": "الوداد الرياضي",
     "away_team": "مانيما",
     "label": "الو-مان",
@@ -206,6 +195,17 @@
     "label": "الز-الم",
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3e805653.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3e80d49d.png",
+    "url": ""
+  },
+  {
+    "time": "10:00 PM",
+    "game": "football",
+    "league": "كأس الكونفيدرالية",
+    "home_team": "شباب بلوزداد",
+    "away_team": "ستيلينبوش",
+    "label": "شبا-ستي",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3f60388c.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3f60ac6e.png",
     "url": ""
   },
   {
