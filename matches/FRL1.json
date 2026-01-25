@@ -4179,7 +4179,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 545,
@@ -4190,12 +4190,12 @@
     "AwayTeamName": "Olympique Lyonnais",
     "HomeTeamLogo": "https://crests.football-data.org/545.png",
     "AwayTeamLogo": "https://crests.football-data.org/523.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 5,
+    "Result": 523,
     "Points": {
       "545": 0,
-      "523": 0
+      "523": 3
     },
     "Goals": []
   },
@@ -4205,7 +4205,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 543,
@@ -4217,11 +4217,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/543.png",
     "AwayTeamLogo": "https://crests.football-data.org/522.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 3,
-    "Result": null,
+    "AwayTeamScore": 4,
+    "Result": 522,
     "Points": {
       "543": 0,
-      "522": 0
+      "522": 3
     },
     "Goals": []
   },
@@ -4231,7 +4231,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1045,
@@ -4242,12 +4242,12 @@
     "AwayTeamName": "Angers SCO",
     "HomeTeamLogo": "https://crests.football-data.org/1045.png",
     "AwayTeamLogo": "https://crests.football-data.org/532.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "1045": 0,
-      "532": 0
+      "1045": 1,
+      "532": 1
     },
     "Goals": []
   },
@@ -4309,7 +4309,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 512,
@@ -4320,12 +4320,12 @@
     "AwayTeamName": "Toulouse FC",
     "HomeTeamLogo": "https://crests.football-data.org/512.png",
     "AwayTeamLogo": "https://crests.football-data.org/511.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
+    "Result": 511,
     "Points": {
       "512": 0,
-      "511": 0
+      "511": 3
     },
     "Goals": []
   },

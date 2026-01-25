@@ -5651,7 +5651,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 354,
@@ -5662,12 +5662,12 @@
     "AwayTeamName": "Chelsea FC",
     "HomeTeamLogo": "https://crests.football-data.org/354.png",
     "AwayTeamLogo": "https://crests.football-data.org/61.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 3,
+    "Result": 61,
     "Points": {
       "354": 0,
-      "61": 0
+      "61": 3
     },
     "Goals": []
   },
@@ -5688,8 +5688,8 @@
     "AwayTeamName": "Manchester United FC",
     "HomeTeamLogo": "https://crests.football-data.org/57.png",
     "AwayTeamLogo": "https://crests.football-data.org/66.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
       "57": 0,
@@ -5703,7 +5703,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 402,
@@ -5715,11 +5715,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/402.png",
     "AwayTeamLogo": "https://crests.football-data.org/351.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 351,
     "Points": {
       "402": 0,
-      "351": 0
+      "351": 3
     },
     "Goals": []
   },
@@ -5833,7 +5833,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 67,
@@ -5845,11 +5845,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/67.png",
     "AwayTeamLogo": "https://crests.football-data.org/58.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 58,
     "Points": {
       "67": 0,
-      "58": 0
+      "58": 3
     },
     "Goals": []
   },

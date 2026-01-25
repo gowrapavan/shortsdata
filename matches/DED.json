@@ -4369,7 +4369,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 677,
@@ -4382,10 +4382,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/1920.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 1920,
     "Points": {
       "677": 0,
-      "1920": 0
+      "1920": 3
     },
     "Goals": []
   },
@@ -4395,7 +4395,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T15:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 676,
@@ -4406,12 +4406,12 @@
     "AwayTeamName": "Sparta Rotterdam",
     "HomeTeamLogo": "https://crests.football-data.org/676.png",
     "AwayTeamLogo": "https://crests.football-data.org/6806.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 6806,
     "Points": {
       "676": 0,
-      "6806": 0
+      "6806": 3
     },
     "Goals": []
   },
@@ -4421,7 +4421,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T15:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 675,
@@ -4432,11 +4432,11 @@
     "AwayTeamName": "Heracles Almelo",
     "HomeTeamLogo": "https://crests.football-data.org/675.png",
     "AwayTeamLogo": "https://crests.football-data.org/671.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 2,
+    "Result": 675,
     "Points": {
-      "675": 0,
+      "675": 3,
       "671": 0
     },
     "Goals": []

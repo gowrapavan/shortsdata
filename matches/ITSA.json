@@ -5437,7 +5437,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 102,
@@ -5448,11 +5448,11 @@
     "AwayTeamName": "Parma Calcio 1913",
     "HomeTeamLogo": "https://crests.football-data.org/102.png",
     "AwayTeamLogo": "https://crests.football-data.org/112.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 4,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 102,
     "Points": {
-      "102": 0,
+      "102": 3,
       "112": 0
     },
     "Goals": []
@@ -5463,7 +5463,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 107,
@@ -5474,11 +5474,11 @@
     "AwayTeamName": "Bologna FC 1909",
     "HomeTeamLogo": "https://crests.football-data.org/107.png",
     "AwayTeamLogo": "https://crests.football-data.org/103.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 107,
     "Points": {
-      "107": 0,
+      "107": 3,
       "103": 0
     },
     "Goals": []
@@ -5578,8 +5578,8 @@
     "AwayTeamName": "SSC Napoli",
     "HomeTeamLogo": "https://crests.football-data.org/109.png",
     "AwayTeamLogo": "https://crests.football-data.org/113.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "109": 0,

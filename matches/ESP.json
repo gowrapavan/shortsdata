@@ -5141,7 +5141,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 81,
@@ -5152,11 +5152,11 @@
     "AwayTeamName": "Real Oviedo",
     "HomeTeamLogo": "https://crests.football-data.org/81.png",
     "AwayTeamLogo": "https://crests.football-data.org/1048.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
+    "Result": 81,
     "Points": {
-      "81": 0,
+      "81": 3,
       "1048": 0
     },
     "Goals": []
@@ -5204,8 +5204,8 @@
     "AwayTeamName": "RC Celta de Vigo",
     "HomeTeamLogo": "https://crests.football-data.org/92.png",
     "AwayTeamLogo": "https://crests.football-data.org/558.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "92": 0,
