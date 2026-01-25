@@ -5422,8 +5422,8 @@
     "AwayTeamName": "AC Milan",
     "HomeTeamLogo": "https://crests.football-data.org/100.png",
     "AwayTeamLogo": "https://crests.football-data.org/98.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "100": 0,
@@ -5567,7 +5567,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 109,
@@ -5578,11 +5578,11 @@
     "AwayTeamName": "SSC Napoli",
     "HomeTeamLogo": "https://crests.football-data.org/109.png",
     "AwayTeamLogo": "https://crests.football-data.org/113.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 109,
     "Points": {
-      "109": 0,
+      "109": 3,
       "113": 0
     },
     "Goals": []

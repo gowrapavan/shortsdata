@@ -5100,8 +5100,8 @@
     "AwayTeamName": "Real Betis Balompié",
     "HomeTeamLogo": "https://crests.football-data.org/263.png",
     "AwayTeamLogo": "https://crests.football-data.org/90.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "263": 0,
@@ -5193,7 +5193,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 92,
@@ -5204,11 +5204,11 @@
     "AwayTeamName": "RC Celta de Vigo",
     "HomeTeamLogo": "https://crests.football-data.org/92.png",
     "AwayTeamLogo": "https://crests.football-data.org/558.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 92,
     "Points": {
-      "92": 0,
+      "92": 3,
       "558": 0
     },
     "Goals": []
