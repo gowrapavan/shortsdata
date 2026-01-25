@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 559,
+            "name": "Sevilla FC",
+            "shortName": "Sevilla FC",
+            "tla": "SEV",
+            "crest": "https://crests.football-data.org/559.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 7,
+          "draw": 3,
+          "lost": 11,
+          "points": 24,
+          "goalsFor": 28,
+          "goalsAgainst": 33,
+          "goalDifference": -5
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 77,
             "name": "Athletic Club",
             "shortName": "Athletic",
@@ -238,7 +257,7 @@
           "goalDifference": -10
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 298,
             "name": "Girona FC",
@@ -255,25 +274,6 @@
           "goalsFor": 20,
           "goalsAgainst": 34,
           "goalDifference": -14
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 559,
-            "name": "Sevilla FC",
-            "shortName": "Sevilla FC",
-            "tla": "SEV",
-            "crest": "https://crests.football-data.org/559.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 7,
-          "draw": 3,
-          "lost": 11,
-          "points": 24,
-          "goalsFor": 28,
-          "goalsAgainst": 33,
-          "goalDifference": -5
         },
         {
           "position": 14,
