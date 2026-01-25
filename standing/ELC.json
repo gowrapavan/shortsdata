@@ -303,14 +303,14 @@
             "tla": "SOU",
             "crest": "https://crests.football-data.org/340.png"
           },
-          "playedGames": 28,
+          "playedGames": 29,
           "form": null,
           "won": 9,
-          "draw": 9,
+          "draw": 10,
           "lost": 10,
-          "points": 36,
-          "goalsFor": 40,
-          "goalsAgainst": 40,
+          "points": 37,
+          "goalsFor": 41,
+          "goalsAgainst": 41,
           "goalDifference": 0
         },
         {
@@ -411,6 +411,25 @@
         {
           "position": 21,
           "team": {
+            "id": 325,
+            "name": "Portsmouth FC",
+            "shortName": "Portsmouth",
+            "tla": "POR",
+            "crest": "https://crests.football-data.org/325.png"
+          },
+          "playedGames": 27,
+          "form": null,
+          "won": 7,
+          "draw": 9,
+          "lost": 11,
+          "points": 30,
+          "goalsFor": 24,
+          "goalsAgainst": 37,
+          "goalDifference": -13
+        },
+        {
+          "position": 22,
+          "team": {
             "id": 59,
             "name": "Blackburn Rovers FC",
             "shortName": "Blackburn",
@@ -426,25 +445,6 @@
           "goalsFor": 26,
           "goalsAgainst": 37,
           "goalDifference": -11
-        },
-        {
-          "position": 22,
-          "team": {
-            "id": 325,
-            "name": "Portsmouth FC",
-            "shortName": "Portsmouth",
-            "tla": "POR",
-            "crest": "https://crests.football-data.org/325.png"
-          },
-          "playedGames": 26,
-          "form": null,
-          "won": 7,
-          "draw": 8,
-          "lost": 11,
-          "points": 29,
-          "goalsFor": 23,
-          "goalsAgainst": 36,
-          "goalDifference": -13
         },
         {
           "position": 23,

@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 10,
+            "name": "VfB Stuttgart",
+            "shortName": "Stuttgart",
+            "tla": "VFB",
+            "crest": "https://crests.football-data.org/10.png"
+          },
+          "playedGames": 19,
+          "form": null,
+          "won": 11,
+          "draw": 3,
+          "lost": 5,
+          "points": 36,
+          "goalsFor": 36,
+          "goalsAgainst": 26,
+          "goalDifference": 10
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 721,
             "name": "RB Leipzig",
             "shortName": "RB Leipzig",
@@ -103,25 +122,6 @@
           "goalsFor": 36,
           "goalsAgainst": 24,
           "goalDifference": 12
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 10,
-            "name": "VfB Stuttgart",
-            "shortName": "Stuttgart",
-            "tla": "VFB",
-            "crest": "https://crests.football-data.org/10.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 10,
-          "draw": 3,
-          "lost": 5,
-          "points": 33,
-          "goalsFor": 33,
-          "goalsAgainst": 26,
-          "goalDifference": 7
         },
         {
           "position": 6,
@@ -145,6 +145,25 @@
         {
           "position": 7,
           "team": {
+            "id": 17,
+            "name": "SC Freiburg",
+            "shortName": "Freiburg",
+            "tla": "SCF",
+            "crest": "https://crests.football-data.org/17.png"
+          },
+          "playedGames": 19,
+          "form": null,
+          "won": 7,
+          "draw": 6,
+          "lost": 6,
+          "points": 27,
+          "goalsFor": 31,
+          "goalsAgainst": 32,
+          "goalDifference": -1
+        },
+        {
+          "position": 8,
+          "team": {
             "id": 19,
             "name": "Eintracht Frankfurt",
             "shortName": "Frankfurt",
@@ -160,25 +179,6 @@
           "goalsFor": 39,
           "goalsAgainst": 42,
           "goalDifference": -3
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 17,
-            "name": "SC Freiburg",
-            "shortName": "Freiburg",
-            "tla": "SCF",
-            "crest": "https://crests.football-data.org/17.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 6,
-          "draw": 6,
-          "lost": 6,
-          "points": 24,
-          "goalsFor": 29,
-          "goalsAgainst": 31,
-          "goalDifference": -2
         },
         {
           "position": 9,
@@ -208,15 +208,15 @@
             "tla": "KOE",
             "crest": "https://crests.football-data.org/1.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
           "won": 5,
           "draw": 5,
-          "lost": 8,
+          "lost": 9,
           "points": 20,
-          "goalsFor": 27,
-          "goalsAgainst": 30,
-          "goalDifference": -3
+          "goalsFor": 28,
+          "goalsAgainst": 32,
+          "goalDifference": -4
         },
         {
           "position": 11,
@@ -227,15 +227,15 @@
             "tla": "BMG",
             "crest": "https://crests.football-data.org/18.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
           "won": 5,
           "draw": 5,
-          "lost": 8,
+          "lost": 9,
           "points": 20,
           "goalsFor": 23,
-          "goalsAgainst": 29,
-          "goalDifference": -6
+          "goalsAgainst": 32,
+          "goalDifference": -9
         },
         {
           "position": 12,
