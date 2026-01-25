@@ -3,6 +3,17 @@
     "time": "10:00 PM",
     "game": "football",
     "league": "كأس الكونفيدرالية",
+    "home_team": "الوداد الرياضي",
+    "away_team": "مانيما",
+    "label": "الو-مان",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3d98e5e1.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3d996662.png",
+    "url": "https://d.sia-me.com/albaplayer/bein-5/"
+  },
+  {
+    "time": "10:00 PM",
+    "game": "football",
+    "league": "كأس الكونفيدرالية",
     "home_team": "شباب بلوزداد",
     "away_team": "ستيلينبوش",
     "label": "شبا-ستي",
@@ -22,15 +33,15 @@
     "url": "https://d.sia-me.com/albaplayer/bein-2/"
   },
   {
-    "time": "10:00 PM",
+    "time": "10:45 PM",
     "game": "football",
-    "league": "كأس الكونفيدرالية",
-    "home_team": "الوداد الرياضي",
-    "away_team": "مانيما",
-    "label": "الو-مان",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3d98e5e1.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3d996662.png",
-    "url": "https://d.sia-me.com/albaplayer/bein-5/"
+    "league": "الدوري الفرنسي",
+    "home_team": "نادي ليل",
+    "away_team": "ستراسبورغ",
+    "label": "ناد-ستر",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f2caf123c.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f2cb04029.png",
+    "url": "https://d.sia-me.com/albaplayer/bein-4/"
   },
   {
     "time": "10:45 PM",
@@ -42,17 +53,6 @@
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f34804941.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f3480d278.png",
     "url": "https://d.sia-me.com/albaplayer/on-time-sport/"
-  },
-  {
-    "time": "10:45 PM",
-    "game": "football",
-    "league": "الدوري الفرنسي",
-    "home_team": "نادي ليل",
-    "away_team": "ستراسبورغ",
-    "label": "ناد-ستر",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f2caf123c.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f2cb04029.png",
-    "url": "https://d.sia-me.com/albaplayer/bein-4/"
   },
   {
     "time": "11:00 PM",
@@ -101,45 +101,12 @@
   {
     "time": "05:00 PM",
     "game": "football",
-    "league": "الدوري الإيطالي",
-    "home_team": "أتلانتا",
-    "away_team": "بارما",
-    "label": "أتل-بار",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f30da7d9b.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f30dafe51.png",
-    "url": ""
-  },
-  {
-    "time": "05:00 PM",
-    "game": "football",
-    "league": "الدوري الإيطالي",
-    "home_team": "جنوى",
-    "away_team": "بولونيا",
-    "label": "جنو-بول",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f329ce274.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f329d6a81.png",
-    "url": ""
-  },
-  {
-    "time": "05:00 PM",
-    "game": "football",
-    "league": "الدوري الفرنسي",
-    "home_team": "نانت",
-    "away_team": "نيس",
-    "label": "نان-نيس",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f2e8e30f2.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f2e8e9b34.png",
-    "url": ""
-  },
-  {
-    "time": "05:00 PM",
-    "game": "football",
     "league": "الدوري الإنجليزي",
-    "home_team": "نيوكاسل",
-    "away_team": "أستون فيلا",
-    "label": "نيو-أست",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f37eb6c9a.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f37ebd15f.png",
+    "home_team": "برينتفورد",
+    "away_team": "نوتينغهام",
+    "label": "بري-نوت",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f367a5ba3.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f367ad917.png",
     "url": ""
   },
   {
@@ -157,11 +124,44 @@
     "time": "05:00 PM",
     "game": "football",
     "league": "الدوري الإنجليزي",
-    "home_team": "برينتفورد",
-    "away_team": "نوتينغهام",
-    "label": "بري-نوت",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f367a5ba3.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f367ad917.png",
+    "home_team": "نيوكاسل",
+    "away_team": "أستون فيلا",
+    "label": "نيو-أست",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f37eb6c9a.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f37ebd15f.png",
+    "url": ""
+  },
+  {
+    "time": "05:00 PM",
+    "game": "football",
+    "league": "الدوري الإيطالي",
+    "home_team": "جنوى",
+    "away_team": "بولونيا",
+    "label": "جنو-بول",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f329ce274.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f329d6a81.png",
+    "url": ""
+  },
+  {
+    "time": "05:00 PM",
+    "game": "football",
+    "league": "الدوري الإيطالي",
+    "home_team": "أتلانتا",
+    "away_team": "بارما",
+    "label": "أتل-بار",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f30da7d9b.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f30dafe51.png",
+    "url": ""
+  },
+  {
+    "time": "05:00 PM",
+    "game": "football",
+    "league": "الدوري الفرنسي",
+    "home_team": "نانت",
+    "away_team": "نيس",
+    "label": "نان-نيس",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f2e8e30f2.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f2e8e9b34.png",
     "url": ""
   },
   {
@@ -233,17 +233,6 @@
   {
     "time": "08:30 PM",
     "game": "football",
-    "league": "الدوري الإسباني",
-    "home_team": "ريال سوسيداد",
-    "away_team": "سيلتا فيغو",
-    "label": "ريا-سيل",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f24c4d517.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f24c5456f.png",
-    "url": "https://d.sia-me.com/albaplayer/bein-6/"
-  },
-  {
-    "time": "08:30 PM",
-    "game": "football",
     "league": "دوري روشن السعودي",
     "home_team": "الرياض",
     "away_team": "الهلال",
@@ -251,5 +240,16 @@
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f38be2e94.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f38beb630.png",
     "url": "https://d.sia-me.com/albaplayer/ssc-1/"
+  },
+  {
+    "time": "08:30 PM",
+    "game": "football",
+    "league": "الدوري الإسباني",
+    "home_team": "ريال سوسيداد",
+    "away_team": "سيلتا فيغو",
+    "label": "ريا-سيل",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f24c4d517.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/01/alba_img_6973f24c5456f.png",
+    "url": "https://d.sia-me.com/albaplayer/bein-6/"
   }
 ]
