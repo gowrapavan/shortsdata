@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 5613,
+            "name": "Sporting Clube de Braga",
+            "shortName": "Braga",
+            "tla": "SCB",
+            "crest": "https://crests.football-data.org/5613.png"
+          },
+          "playedGames": 19,
+          "form": null,
+          "won": 9,
+          "draw": 6,
+          "lost": 4,
+          "points": 33,
+          "goalsFor": 36,
+          "goalsAgainst": 18,
+          "goalDifference": 18
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 5533,
             "name": "Gil Vicente FC",
             "shortName": "Gil Vicente",
@@ -103,25 +122,6 @@
           "goalsFor": 24,
           "goalsAgainst": 13,
           "goalDifference": 11
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 5613,
-            "name": "Sporting Clube de Braga",
-            "shortName": "Braga",
-            "tla": "SCB",
-            "crest": "https://crests.football-data.org/5613.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 8,
-          "draw": 6,
-          "lost": 4,
-          "points": 30,
-          "goalsFor": 32,
-          "goalsAgainst": 18,
-          "goalDifference": 14
         },
         {
           "position": 6,
@@ -208,15 +208,15 @@
             "tla": "ALV",
             "crest": "https://crests.football-data.org/7822.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
           "won": 7,
           "draw": 2,
-          "lost": 9,
+          "lost": 10,
           "points": 23,
           "goalsFor": 19,
-          "goalsAgainst": 28,
-          "goalDifference": -9
+          "goalsAgainst": 32,
+          "goalDifference": -13
         },
         {
           "position": 11,
