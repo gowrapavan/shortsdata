@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/30 * * * *"   # every 30 minutes (UTC)
 
 jobs:
   scrape:
@@ -43,7 +43,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          
+
           if [ -f json/ovogoal.json ]; then
             git add json/ovogoal.json
           else
@@ -57,5 +57,7 @@ jobs:
           fi
 
           git commit -m "Update ovogoal.json"
-          git pull --rebase origin main
-          git push origin main
+
+          git stash push --include-untracked || true
+          git pull --rebase --autostash origin main || true
+          git push --force-with-lease origin main
