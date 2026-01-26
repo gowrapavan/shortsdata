@@ -40,12 +40,12 @@
           "playedGames": 29,
           "form": null,
           "won": 17,
-          "draw": 8,
-          "lost": 4,
-          "points": 59,
-          "goalsFor": 61,
-          "goalsAgainst": 31,
-          "goalDifference": 30
+          "draw": 7,
+          "lost": 5,
+          "points": 58,
+          "goalsFor": 62,
+          "goalsAgainst": 33,
+          "goalDifference": 29
         },
         {
           "position": 2,
@@ -354,6 +354,25 @@
         {
           "position": 18,
           "team": {
+            "id": 68,
+            "name": "Norwich City FC",
+            "shortName": "Norwich",
+            "tla": "NOR",
+            "crest": "https://crests.football-data.org/68.png"
+          },
+          "playedGames": 29,
+          "form": null,
+          "won": 9,
+          "draw": 6,
+          "lost": 14,
+          "points": 33,
+          "goalsFor": 37,
+          "goalsAgainst": 41,
+          "goalDifference": -4
+        },
+        {
+          "position": 19,
+          "team": {
             "id": 348,
             "name": "Charlton Athletic FC",
             "shortName": "Charlton",
@@ -371,7 +390,7 @@
           "goalDifference": -11
         },
         {
-          "position": 19,
+          "position": 20,
           "team": {
             "id": 74,
             "name": "West Bromwich Albion FC",
@@ -388,25 +407,6 @@
           "goalsFor": 32,
           "goalsAgainst": 44,
           "goalDifference": -12
-        },
-        {
-          "position": 20,
-          "team": {
-            "id": 68,
-            "name": "Norwich City FC",
-            "shortName": "Norwich",
-            "tla": "NOR",
-            "crest": "https://crests.football-data.org/68.png"
-          },
-          "playedGames": 29,
-          "form": null,
-          "won": 8,
-          "draw": 7,
-          "lost": 14,
-          "points": 31,
-          "goalsFor": 35,
-          "goalsAgainst": 40,
-          "goalDifference": -5
         },
         {
           "position": 21,
