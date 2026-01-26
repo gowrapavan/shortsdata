@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # IMPORTANT like your working workflow
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,14 +33,24 @@ jobs:
           python ovostream.py
 
       - name: Debug: list JSONs
-        run: ls -l json/
+        run: |
+          echo "Listing json directory:"
+          ls -l json/ || true
+          echo "Current files:"
+          find . -maxdepth 2 -type f
 
       - name: Commit & Push ovogoal.json safely
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-          git add json/ovogoal.json
+          # Only add if file exists
+          if [ -f json/ovogoal.json ]; then
+            git add json/ovogoal.json
+          else
+            echo "❌ json/ovogoal.json not found"
+            exit 1
+          fi
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
@@ -49,9 +59,6 @@ jobs:
 
           git commit -m "Update ovogoal.json"
 
-          # Fix conflicts: stash, autostash, rebase pull
           git stash push --include-untracked || true
           git pull --rebase --autostash origin main || true
-
-          # Push safely
           git push --force-with-lease origin main
