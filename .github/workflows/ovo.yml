@@ -43,8 +43,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          
-          # Only add if file exists
+
           if [ -f json/ovogoal.json ]; then
             git add json/ovogoal.json
           else
