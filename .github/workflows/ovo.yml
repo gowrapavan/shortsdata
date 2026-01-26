@@ -1,9 +1,12 @@
 name: Ovogoal Stream Scraper
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes (adjust if needed)
+    - cron: "*/30 * * * *"   # every 30 minutes (UTC)
 
 jobs:
   scrape:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # IMPORTANT like your working workflow
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -27,16 +32,26 @@ jobs:
         run: |
           python ovostream.py
 
-      - name: Commit and push JSON
+      - name: Debug: list JSONs
+        run: ls -l json/
+
+      - name: Commit & Push ovogoal.json safely
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
           git add json/ovogoal.json
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "Update ovogoal.json"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update ovogoal.json"
+
+          # Fix conflicts: stash, autostash, rebase pull
+          git stash push --include-untracked || true
+          git pull --rebase --autostash origin main || true
+
+          # Push safely
+          git push --force-with-lease origin main
