@@ -202,6 +202,25 @@
         {
           "position": 10,
           "team": {
+            "id": 115,
+            "name": "Udinese Calcio",
+            "shortName": "Udinese",
+            "tla": "UDI",
+            "crest": "https://crests.football-data.org/115.png"
+          },
+          "playedGames": 22,
+          "form": null,
+          "won": 7,
+          "draw": 6,
+          "lost": 9,
+          "points": 27,
+          "goalsFor": 22,
+          "goalsAgainst": 33,
+          "goalDifference": -11
+        },
+        {
+          "position": 11,
+          "team": {
             "id": 471,
             "name": "US Sassuolo Calcio",
             "shortName": "Sassuolo",
@@ -217,25 +236,6 @@
           "goalsFor": 24,
           "goalsAgainst": 28,
           "goalDifference": -4
-        },
-        {
-          "position": 11,
-          "team": {
-            "id": 115,
-            "name": "Udinese Calcio",
-            "shortName": "Udinese",
-            "tla": "UDI",
-            "crest": "https://crests.football-data.org/115.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 7,
-          "draw": 5,
-          "lost": 9,
-          "points": 26,
-          "goalsFor": 22,
-          "goalsAgainst": 33,
-          "goalDifference": -11
         },
         {
           "position": 12,
@@ -379,12 +379,12 @@
             "tla": "HVE",
             "crest": "https://crests.football-data.org/450.png"
           },
-          "playedGames": 21,
+          "playedGames": 22,
           "form": null,
           "won": 2,
-          "draw": 8,
+          "draw": 9,
           "lost": 11,
-          "points": 14,
+          "points": 15,
           "goalsFor": 17,
           "goalsAgainst": 34,
           "goalDifference": -17
