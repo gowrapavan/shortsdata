@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-25T06:16:04.667289Z",
+    "last_updated": "2026-01-26T06:20:55.068230Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -52,6 +52,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "João Pedro",
+                    "team_name": "Chelsea FC",
+                    "team_crest": "https://crests.football-data.org/61.png",
+                    "goals": 8,
+                    "assists": 3,
+                    "penalties": null,
+                    "nationality": "Brazil"
+                },
+                {
                     "player_name": "Bruno Guimarães",
                     "team_name": "Newcastle United FC",
                     "team_crest": "https://crests.football-data.org/67.png",
@@ -59,6 +68,15 @@
                     "assists": 3,
                     "penalties": 1,
                     "nationality": "Brazil"
+                },
+                {
+                    "player_name": "Bryan Mbeumo",
+                    "team_name": "Manchester United FC",
+                    "team_crest": "https://crests.football-data.org/66.png",
+                    "goals": 8,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Cameroon"
                 },
                 {
                     "player_name": "Jean-Philippe Mateta",
@@ -77,24 +95,6 @@
                     "assists": 4,
                     "penalties": null,
                     "nationality": "Wales"
-                },
-                {
-                    "player_name": "Danny Welbeck",
-                    "team_name": "Brighton & Hove Albion FC",
-                    "team_crest": "https://crests.football-data.org/397.png",
-                    "goals": 8,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "England"
-                },
-                {
-                    "player_name": "Richarlison",
-                    "team_name": "Tottenham Hotspur FC",
-                    "team_crest": "https://crests.football-data.org/73.png",
-                    "goals": 7,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "Brazil"
                 }
             ]
         },
@@ -140,6 +140,15 @@
                     "nationality": "Croatia"
                 },
                 {
+                    "player_name": "Borja Iglesias",
+                    "team_name": "RC Celta de Vigo",
+                    "team_crest": "https://crests.football-data.org/558.png",
+                    "goals": 9,
+                    "assists": 1,
+                    "penalties": 2,
+                    "nationality": "Spain"
+                },
+                {
                     "player_name": "Robert Lewandowski",
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
@@ -149,12 +158,30 @@
                     "nationality": "Poland"
                 },
                 {
-                    "player_name": "Borja Iglesias",
-                    "team_name": "RC Celta de Vigo",
-                    "team_crest": "https://crests.football-data.org/558.png",
+                    "player_name": "Raphinha",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
                     "goals": 8,
-                    "assists": 1,
+                    "assists": 3,
+                    "penalties": 1,
+                    "nationality": "Brazil"
+                },
+                {
+                    "player_name": "Lamine Yamal",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
+                    "goals": 8,
+                    "assists": 8,
                     "penalties": 2,
+                    "nationality": "Spain"
+                },
+                {
+                    "player_name": "Mikel Oyarzabal",
+                    "team_name": "Real Sociedad de Fútbol",
+                    "team_crest": "https://crests.football-data.org/92.png",
+                    "goals": 8,
+                    "assists": 3,
+                    "penalties": 3,
                     "nationality": "Spain"
                 },
                 {
@@ -165,33 +192,6 @@
                     "assists": 3,
                     "penalties": 1,
                     "nationality": "Colombia"
-                },
-                {
-                    "player_name": "Alberto Moleiro",
-                    "team_name": "Villarreal CF",
-                    "team_crest": "https://crests.football-data.org/94.png",
-                    "goals": 8,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "Spain"
-                },
-                {
-                    "player_name": "Raphinha",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 7,
-                    "assists": 3,
-                    "penalties": 1,
-                    "nationality": "Brazil"
-                },
-                {
-                    "player_name": "Lamine Yamal",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 7,
-                    "assists": 8,
-                    "penalties": 2,
-                    "nationality": "Spain"
                 }
             ]
         },
@@ -237,6 +237,15 @@
                     "nationality": "USA"
                 },
                 {
+                    "player_name": "Kenan Yıldız",
+                    "team_name": "Juventus FC",
+                    "team_crest": "https://crests.football-data.org/109.png",
+                    "goals": 8,
+                    "assists": 4,
+                    "penalties": 1,
+                    "nationality": "Turkey"
+                },
+                {
                     "player_name": "Riccardo Orsolini",
                     "team_name": "Bologna FC 1909",
                     "team_crest": "https://crests.football-data.org/103.png",
@@ -252,15 +261,6 @@
                     "goals": 7,
                     "assists": 2,
                     "penalties": 3,
-                    "nationality": "Turkey"
-                },
-                {
-                    "player_name": "Kenan Yıldız",
-                    "team_name": "Juventus FC",
-                    "team_crest": "https://crests.football-data.org/109.png",
-                    "goals": 7,
-                    "assists": 4,
-                    "penalties": 1,
                     "nationality": "Turkey"
                 },
                 {
@@ -282,13 +282,13 @@
                     "nationality": "Italy"
                 },
                 {
-                    "player_name": "Marcus Thuram-Ulien",
-                    "team_name": "FC Internazionale Milano",
-                    "team_crest": "https://crests.football-data.org/108.png",
+                    "player_name": "Gianluca Scamacca",
+                    "team_name": "Atalanta BC",
+                    "team_crest": "https://crests.football-data.org/102.png",
                     "goals": 6,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "France"
+                    "assists": 1,
+                    "penalties": 2,
+                    "nationality": "Italy"
                 }
             ]
         },
@@ -307,6 +307,15 @@
                     "nationality": "England"
                 },
                 {
+                    "player_name": "Deniz Undav",
+                    "team_name": "VfB Stuttgart",
+                    "team_crest": "https://crests.football-data.org/10.png",
+                    "goals": 11,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Germany"
+                },
+                {
                     "player_name": "Michael Olise",
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
@@ -314,15 +323,6 @@
                     "assists": 14,
                     "penalties": null,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Deniz Undav",
-                    "team_name": "VfB Stuttgart",
-                    "team_crest": "https://crests.football-data.org/10.png",
-                    "goals": 10,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Germany"
                 },
                 {
                     "player_name": "Luis Díaz",
@@ -407,8 +407,8 @@
                     "player_name": "Joaquín Panichelli",
                     "team_name": "RC Strasbourg Alsace",
                     "team_crest": "https://crests.football-data.org/576.png",
-                    "goals": 10,
-                    "assists": null,
+                    "goals": 11,
+                    "assists": 1,
                     "penalties": 3,
                     "nationality": "Argentina"
                 },
@@ -458,6 +458,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Sofiane Diop",
+                    "team_name": "OGC Nice",
+                    "team_crest": "https://crests.football-data.org/522.png",
+                    "goals": 7,
+                    "assists": 2,
+                    "penalties": 2,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Odsonne Edouard",
                     "team_name": "Racing Club de Lens",
                     "team_crest": "https://crests.football-data.org/546.png",
@@ -473,15 +482,6 @@
                     "goals": 6,
                     "assists": 2,
                     "penalties": 3,
-                    "nationality": "France"
-                },
-                {
-                    "player_name": "Pablo Pagis",
-                    "team_name": "FC Lorient",
-                    "team_crest": "https://crests.football-data.org/525.png",
-                    "goals": 6,
-                    "assists": null,
-                    "penalties": 1,
                     "nationality": "France"
                 }
             ]
@@ -514,7 +514,7 @@
                     "team_name": "AZ",
                     "team_crest": "https://crests.football-data.org/682.png",
                     "goals": 10,
-                    "assists": 1,
+                    "assists": 2,
                     "penalties": 2,
                     "nationality": "Ireland"
                 },
