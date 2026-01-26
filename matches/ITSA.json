@@ -5411,7 +5411,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 100,
@@ -5422,12 +5422,12 @@
     "AwayTeamName": "AC Milan",
     "HomeTeamLogo": "https://crests.football-data.org/100.png",
     "AwayTeamLogo": "https://crests.football-data.org/98.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "100": 0,
-      "98": 0
+      "100": 1,
+      "98": 1
     },
     "Goals": []
   },
@@ -5953,10 +5953,10 @@
   },
   {
     "GameId": 537047,
-    "RoundId": 5,
+    "RoundId": 22,
     "RoundName": "Serie A",
-    "Date": "2026-02-08",
-    "DateTime": "2026-02-08T00:00:00Z",
+    "Date": "2026-02-09",
+    "DateTime": "2026-02-09T19:45:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -5979,10 +5979,10 @@
   },
   {
     "GameId": 537048,
-    "RoundId": 5,
+    "RoundId": 22,
     "RoundName": "Serie A",
-    "Date": "2026-02-08",
-    "DateTime": "2026-02-08T00:00:00Z",
+    "Date": "2026-02-09",
+    "DateTime": "2026-02-09T17:30:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",

@@ -4283,7 +4283,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-25",
     "DateTime": "2026-01-25T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 521,
@@ -4294,12 +4294,12 @@
     "AwayTeamName": "RC Strasbourg Alsace",
     "HomeTeamLogo": "https://crests.football-data.org/521.png",
     "AwayTeamLogo": "https://crests.football-data.org/576.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 3,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 4,
+    "Result": 576,
     "Points": {
       "521": 0,
-      "576": 0
+      "576": 3
     },
     "Goals": []
   },
