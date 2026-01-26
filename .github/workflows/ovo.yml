@@ -6,8 +6,9 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes (UTC)
+    - cron: "*/30 * * * *"
 
+    
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -15,8 +16,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -27,37 +26,17 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pytz
-
       - name: Run Ovogoal scraper
         run: |
           python ovostream.py
-
-      - name: Debug: list JSONs
+      - name: Commit and push JSON
         run: |
-          echo "Listing json directory:"
-          ls -l json/ || true
-          echo "Current files:"
-          find . -maxdepth 2 -type f
-
-      - name: Commit & Push ovogoal.json safely
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-
-          if [ -f json/ovogoal.json ]; then
-            git add json/ovogoal.json
-          else
-            echo "❌ json/ovogoal.json not found"
-            exit 1
-          fi
-
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add json/ovogoal.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
-            exit 0
-          fi
-
-          git commit -m "Update ovogoal.json"
-
-          git stash push --include-untracked || true
-          git pull --rebase --autostash origin main || true
-          git push --force-with-lease origin main
+          else
+            git commit -m "Update ovogoal.json"
+            git push
+          fi    
