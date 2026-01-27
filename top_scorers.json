@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-26T06:20:55.068230Z",
+    "last_updated": "2026-01-27T06:18:24.434826Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -255,6 +255,15 @@
                     "nationality": "Italy"
                 },
                 {
+                    "player_name": "Keinan Davis",
+                    "team_name": "Udinese Calcio",
+                    "team_crest": "https://crests.football-data.org/115.png",
+                    "goals": 7,
+                    "assists": 3,
+                    "penalties": 3,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Hakan Çalhanoğlu",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
@@ -264,6 +273,15 @@
                     "nationality": "Turkey"
                 },
                 {
+                    "player_name": "Gift Orban",
+                    "team_name": "Hellas Verona FC",
+                    "team_crest": "https://crests.football-data.org/450.png",
+                    "goals": 7,
+                    "assists": 1,
+                    "penalties": 2,
+                    "nationality": "Nigeria"
+                },
+                {
                     "player_name": "Rafael Leão",
                     "team_name": "AC Milan",
                     "team_crest": "https://crests.football-data.org/98.png",
@@ -271,24 +289,6 @@
                     "assists": 2,
                     "penalties": 2,
                     "nationality": "Portugal"
-                },
-                {
-                    "player_name": "Rolando Mandragora",
-                    "team_name": "ACF Fiorentina",
-                    "team_crest": "https://crests.football-data.org/99.png",
-                    "goals": 6,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "Italy"
-                },
-                {
-                    "player_name": "Gianluca Scamacca",
-                    "team_name": "Atalanta BC",
-                    "team_crest": "https://crests.football-data.org/102.png",
-                    "goals": 6,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "Italy"
                 }
             ]
         },
