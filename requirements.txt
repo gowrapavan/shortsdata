@@ -3,6 +3,6 @@ pytz
 beautifulsoup4
 isodate
 googletrans==4.0.0-rc1
-playwright>=1.40.0
-playwright-stealth
+playwright>=1.41.0
+tf-playwright-stealth  # <--- This fixes the "ImportError: stealth_async"
 beautifulsoup4
