@@ -2,7 +2,7 @@ name: Hoofoot Scraper
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Every 6 hours (UTC)
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,23 +13,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install dependencies
         run: |
+          pip install --upgrade pip
           pip install -r requirements.txt
-          playwright install --with-deps chromium
+          playwright install chromium
 
       - name: Run scraper
         run: python Highlights/hoofoot.py
 
-      - name: Commit and push if changed
+      - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
