@@ -10,6 +10,7 @@ BASE_URL = "https://hoofoot.com/"
 OUTPUT_FILE = "Highlights/hoofoot.json"
 
 async def fetch_hoofoot():
+    # 1. Load existing data
     existing_data = []
     existing_ids = set()
     if os.path.exists(OUTPUT_FILE):
@@ -17,8 +18,8 @@ async def fetch_hoofoot():
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
                 existing_data = json.load(f)
                 existing_ids = {item["id"] for item in existing_data if "id" in item}
-        except Exception:
-            pass
+        except Exception as e:
+            print(f"⚠️ Load error: {e}")
 
     new_results = []
     async with async_playwright() as p:
@@ -27,6 +28,7 @@ async def fetch_hoofoot():
         page = await context.new_page()
         await stealth_async(page)
 
+        print("🌐 Checking for new matches...")
         try:
             await page.goto(BASE_URL + "?home", wait_until="networkidle", timeout=90000)
             await page.wait_for_timeout(8000) 
@@ -37,6 +39,7 @@ async def fetch_hoofoot():
             matches_to_scrape = []
             for a in found_anchors:
                 href = a.get("href")
+                # Extract ID from ?match=Everton_v_Leeds_2026_01_26
                 match_id = parse_qs(urlparse(href).query).get("match", [None])[0]
                 
                 if not match_id or match_id in existing_ids:
@@ -50,8 +53,11 @@ async def fetch_hoofoot():
                         "match_url": urljoin(BASE_URL, href)
                     })
 
+            print(f"🔎 Found {len(matches_to_scrape)} NEW matches.")
+
             for m in matches_to_scrape:
                 try:
+                    print(f"🚀 Scraping: {m['id']}")
                     await page.goto(m["match_url"], wait_until="domcontentloaded", timeout=60000)
                     await page.wait_for_timeout(3000)
 
@@ -62,7 +68,8 @@ async def fetch_hoofoot():
                         a_tag = player.find("a", href=True)
                         if a_tag: embed_url = a_tag["href"]
 
-                    # Extract match date from the ID string
+                    # DATE LOGIC: Extract date from ID (last 3 segments)
+                    # Example: Juventus_v_Napoli_2026_01_25 -> 2026_01_25
                     parts = m["id"].split('_')
                     match_date = "_".join(parts[-3:])
 
@@ -73,17 +80,21 @@ async def fetch_hoofoot():
                         "embed_url": embed_url,
                         "match_date": match_date
                     })
-                except Exception:
-                    continue
+                except Exception as e:
+                    print(f"❌ Failed {m['id']}: {e}")
 
         finally:
             await browser.close()
 
-    # Place new matches at the top
+    # Place NEW matches at the top of the list
     return new_results + existing_data
 
 if __name__ == "__main__":
     os.makedirs("Highlights", exist_ok=True)
     updated_data = asyncio.run(fetch_hoofoot())
+    
+    # Save the file (Limit to last 150 matches to keep JSON small)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(updated_data[:100], f, indent=2, ensure_ascii=False)
+        json.dump(updated_data[:150], f, indent=2, ensure_ascii=False)
+    
+    print(f"✅ Finished. {len(updated_data)} total matches in JSON.")
