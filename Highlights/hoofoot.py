@@ -1,7 +1,6 @@
 import asyncio
 import json
 import os
-from datetime import datetime
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse, parse_qs
 from playwright.async_api import async_playwright
@@ -11,7 +10,6 @@ BASE_URL = "https://hoofoot.com/"
 OUTPUT_FILE = "Highlights/hoofoot.json"
 
 async def fetch_hoofoot():
-    # 1. Load existing data to skip duplicates
     existing_data = []
     existing_ids = set()
     if os.path.exists(OUTPUT_FILE):
@@ -19,42 +17,30 @@ async def fetch_hoofoot():
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
                 existing_data = json.load(f)
                 existing_ids = {item["id"] for item in existing_data if "id" in item}
-        except Exception as e:
-            print(f"⚠️ Could not load existing JSON: {e}")
+        except Exception:
+            pass
 
     new_results = []
-
     async with async_playwright() as p:
-        browser = await p.chromium.launch(
-            headless=True,
-            args=["--no-sandbox", "--disable-setuid-sandbox", "--disable-blink-features=AutomationControlled"]
-        )
-        context = await browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-            viewport={"width": 1280, "height": 800}
-        )
+        browser = await p.chromium.launch(headless=True, args=["--no-sandbox"])
+        context = await browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36")
         page = await context.new_page()
         await stealth_async(page)
 
-        print("🌐 Checking for new matches on Hoofoot...")
         try:
             await page.goto(BASE_URL + "?home", wait_until="networkidle", timeout=90000)
             await page.wait_for_timeout(8000) 
             
-            home_html = await page.content()
-            soup = BeautifulSoup(home_html, "html.parser")
-            
+            soup = BeautifulSoup(await page.content(), "html.parser")
             found_anchors = soup.select('a[href*="?match="]')
+            
             matches_to_scrape = []
-
             for a in found_anchors:
                 href = a.get("href")
-                # Extract ID from href: ?match=Everton_v_Leeds_2026_01_26
-                parsed_url = urlparse(href)
-                match_id = parse_qs(parsed_url.query).get("match", [None])[0]
+                match_id = parse_qs(urlparse(href).query).get("match", [None])[0]
                 
                 if not match_id or match_id in existing_ids:
-                    continue # SKIP logic
+                    continue 
 
                 title_tag = a.find("h2")
                 if title_tag:
@@ -64,10 +50,7 @@ async def fetch_hoofoot():
                         "match_url": urljoin(BASE_URL, href)
                     })
 
-            print(f"🔎 Found {len(matches_to_scrape)} NEW matches to scrape.")
-
-            for i, m in enumerate(matches_to_scrape, 1):
-                print(f"[{i}/{len(matches_to_scrape)}] Fetching embed for: {m['title']}")
+            for m in matches_to_scrape:
                 try:
                     await page.goto(m["match_url"], wait_until="domcontentloaded", timeout=60000)
                     await page.wait_for_timeout(3000)
@@ -79,31 +62,28 @@ async def fetch_hoofoot():
                         a_tag = player.find("a", href=True)
                         if a_tag: embed_url = a_tag["href"]
 
+                    # Extract match date from the ID string
+                    parts = m["id"].split('_')
+                    match_date = "_".join(parts[-3:])
+
                     new_results.append({
                         "id": m["id"],
                         "title": m["title"],
                         "match_url": m["match_url"],
                         "embed_url": embed_url,
-                        "date_scraped": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                        "match_date": match_date
                     })
-                except Exception as e:
-                    print(f"❌ Failed to fetch details for {m['id']}: {e}")
+                except Exception:
+                    continue
 
-        except Exception as e:
-            print(f"❌ Main page load failed: {e}")
+        finally:
+            await browser.close()
 
-        await browser.close()
-
-    # Combine old data with new data (Newest first)
-    final_data = new_results + existing_data
-    # Optional: Limit total matches kept (e.g., keep last 100)
-    return final_data[:100] 
+    # Place new matches at the top
+    return new_results + existing_data
 
 if __name__ == "__main__":
     os.makedirs("Highlights", exist_ok=True)
     updated_data = asyncio.run(fetch_hoofoot())
-    
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(updated_data, f, indent=2, ensure_ascii=False)
-
-    print(f"✅ Sync Complete. Total matches in database: {len(updated_data)}")
+        json.dump(updated_data[:100], f, indent=2, ensure_ascii=False)
