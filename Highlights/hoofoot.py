@@ -1,8 +1,9 @@
 import asyncio
 import json
 import os
+from datetime import datetime
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse, parse_qs
 from playwright.async_api import async_playwright
 from playwright_stealth import stealth_async 
 
@@ -10,88 +11,99 @@ BASE_URL = "https://hoofoot.com/"
 OUTPUT_FILE = "Highlights/hoofoot.json"
 
 async def fetch_hoofoot():
-    results = []
+    # 1. Load existing data to skip duplicates
+    existing_data = []
+    existing_ids = set()
+    if os.path.exists(OUTPUT_FILE):
+        try:
+            with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+                existing_data = json.load(f)
+                existing_ids = {item["id"] for item in existing_data if "id" in item}
+        except Exception as e:
+            print(f"⚠️ Could not load existing JSON: {e}")
+
+    new_results = []
 
     async with async_playwright() as p:
-        # Launch with automation-hiding flags
         browser = await p.chromium.launch(
             headless=True,
-            args=[
-                "--no-sandbox",
-                "--disable-setuid-sandbox",
-                "--disable-blink-features=AutomationControlled"
-            ]
+            args=["--no-sandbox", "--disable-setuid-sandbox", "--disable-blink-features=AutomationControlled"]
         )
-
         context = await browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
             viewport={"width": 1280, "height": 800}
         )
-
         page = await context.new_page()
-        
-        # Apply stealth to mask Playwright fingerprints
         await stealth_async(page)
 
-        print("🌐 Opening home page and waiting for Cloudflare...")
+        print("🌐 Checking for new matches on Hoofoot...")
         try:
-            # Go to the site and wait for the initial load
-            await page.goto(BASE_URL + "?home", wait_until="domcontentloaded", timeout=90000)
+            await page.goto(BASE_URL + "?home", wait_until="networkidle", timeout=90000)
+            await page.wait_for_timeout(8000) 
             
-            # CRITICAL: Wait 10 seconds for the Cloudflare "Checking browser" screen to pass
-            await page.wait_for_timeout(10000)
-
             home_html = await page.content()
             soup = BeautifulSoup(home_html, "html.parser")
+            
+            found_anchors = soup.select('a[href*="?match="]')
+            matches_to_scrape = []
 
-            matches = []
-            for a in soup.select('a[href*="?match="]'):
-                title_tag = a.find("h2")
-                if not title_tag: continue
+            for a in found_anchors:
+                href = a.get("href")
+                # Extract ID from href: ?match=Everton_v_Leeds_2026_01_26
+                parsed_url = urlparse(href)
+                match_id = parse_qs(parsed_url.query).get("match", [None])[0]
                 
-                matches.append({
-                    "title": title_tag.get_text(strip=True),
-                    "match_url": urljoin(BASE_URL, a.get("href"))
-                })
+                if not match_id or match_id in existing_ids:
+                    continue # SKIP logic
 
-            print(f"✅ Found {len(matches)} matches")
+                title_tag = a.find("h2")
+                if title_tag:
+                    matches_to_scrape.append({
+                        "id": match_id,
+                        "title": title_tag.get_text(strip=True),
+                        "match_url": urljoin(BASE_URL, href)
+                    })
 
-            for i, m in enumerate(matches[:15], 1): # Limit to 15 to avoid long runtimes
-                print(f"[{i}/{len(matches)}] Fetching: {m['title']}")
+            print(f"🔎 Found {len(matches_to_scrape)} NEW matches to scrape.")
+
+            for i, m in enumerate(matches_to_scrape, 1):
+                print(f"[{i}/{len(matches_to_scrape)}] Fetching embed for: {m['title']}")
                 try:
                     await page.goto(m["match_url"], wait_until="domcontentloaded", timeout=60000)
-                    await page.wait_for_timeout(3000) # Wait for JS content
+                    await page.wait_for_timeout(3000)
 
-                    match_html = await page.content()
-                    match_soup = BeautifulSoup(match_html, "html.parser")
-
+                    match_soup = BeautifulSoup(await page.content(), "html.parser")
                     embed_url = ""
                     player = match_soup.find("div", id="player")
                     if player:
                         a_tag = player.find("a", href=True)
-                        if a_tag:
-                            embed_url = a_tag["href"]
+                        if a_tag: embed_url = a_tag["href"]
 
-                    results.append({
+                    new_results.append({
+                        "id": m["id"],
                         "title": m["title"],
                         "match_url": m["match_url"],
-                        "embed_url": embed_url
+                        "embed_url": embed_url,
+                        "date_scraped": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                     })
                 except Exception as e:
-                    print(f"❌ Failed: {m['title']} - {e}")
+                    print(f"❌ Failed to fetch details for {m['id']}: {e}")
 
         except Exception as e:
             print(f"❌ Main page load failed: {e}")
 
         await browser.close()
 
-    return results
+    # Combine old data with new data (Newest first)
+    final_data = new_results + existing_data
+    # Optional: Limit total matches kept (e.g., keep last 100)
+    return final_data[:100] 
 
 if __name__ == "__main__":
     os.makedirs("Highlights", exist_ok=True)
-    data = asyncio.run(fetch_hoofoot())
+    updated_data = asyncio.run(fetch_hoofoot())
     
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+        json.dump(updated_data, f, indent=2, ensure_ascii=False)
 
-    print(f"✅ Saved {len(data)} matches to {OUTPUT_FILE}")
+    print(f"✅ Sync Complete. Total matches in database: {len(updated_data)}")
