@@ -14,11 +14,10 @@ async def fetch_hoofoot():
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(
-            headless="new",  # more stable in CI
+            headless=True,
             args=[
                 "--no-sandbox",
-                "--disable-dev-shm-usage",
-                "--disable-blink-features=AutomationControlled"
+                "--disable-dev-shm-usage"
             ]
         )
 
@@ -36,7 +35,7 @@ async def fetch_hoofoot():
 
         print("🌐 Opening home page…")
         await page.goto(BASE_URL + "?home", wait_until="domcontentloaded", timeout=60000)
-        await page.wait_for_timeout(5000)  # allow JS to render
+        await page.wait_for_timeout(5000)
 
         home_html = await page.content()
         soup = BeautifulSoup(home_html, "html.parser")
@@ -67,12 +66,10 @@ async def fetch_hoofoot():
 
                 embed_url = ""
 
-                # Try iframe first (more reliable)
                 iframe = await page.query_selector("iframe")
                 if iframe:
                     embed_url = await iframe.get_attribute("src")
 
-                # Fallback to HTML parsing
                 if not embed_url:
                     match_html = await page.content()
                     match_soup = BeautifulSoup(match_html, "html.parser")
