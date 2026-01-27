@@ -3,5 +3,6 @@ pytz
 beautifulsoup4
 isodate
 googletrans==4.0.0-rc1
-playwright==1.43.0
-beautifulsoup4==4.12.3
+playwright>=1.40.0
+playwright-stealth
+beautifulsoup4
