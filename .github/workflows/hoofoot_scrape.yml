@@ -1,40 +1,38 @@
-name: Hoofoot Highlight Scraper
+name: Hoofoot Scraper
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
+    - cron: "0 */6 * * *"   # Every 6 hours (UTC)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  scrape:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
-          pip install playwright beautifulsoup4
-          playwright install chromium
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
 
       - name: Run scraper
-        # We move into the highlights folder before running
-        run: |
-          cd Highlights
-          python hoofoot.py
+        run: python Highlights/hoofoot.py
 
-      - name: Commit and push changes
+      - name: Commit and push if changed
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add highlights/hoofoot_leagues.json
-          git commit -m "Update match data [skip ci]" || echo "No changes to commit"
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add Highlights/hoofoot.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update hoofoot.json"
           git push
