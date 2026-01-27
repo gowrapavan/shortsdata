@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 from playwright.async_api import async_playwright
 
 BASE_URL = "https://hoofoot.com/"
-OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "hoofoot.json")
+OUTPUT_FILE = "Highlights/hoofoot.json"
 
 
 async def fetch_hoofoot():
@@ -17,16 +17,14 @@ async def fetch_hoofoot():
             headless=True,
             args=[
                 "--no-sandbox",
-                "--disable-dev-shm-usage"
+                "--disable-setuid-sandbox"
             ]
         )
 
         context = await browser.new_context(
-            user_agent=(
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/120.0.0.0 Safari/537.36"
-            ),
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                       "AppleWebKit/537.36 (KHTML, like Gecko) "
+                       "Chrome/120.0.0.0 Safari/537.36",
             viewport={"width": 1280, "height": 800},
             locale="en-US"
         )
@@ -34,7 +32,9 @@ async def fetch_hoofoot():
         page = await context.new_page()
 
         print("🌐 Opening home page…")
-        await page.goto(BASE_URL + "?home", wait_until="domcontentloaded", timeout=60000)
+        await page.goto(BASE_URL + "?home", timeout=60000)
+
+        # Let JS render
         await page.wait_for_timeout(5000)
 
         home_html = await page.content()
@@ -61,29 +61,24 @@ async def fetch_hoofoot():
             print(f"[{i}/{len(matches)}] Fetching:", m["title"])
 
             try:
-                await page.goto(m["match_url"], wait_until="domcontentloaded", timeout=60000)
+                await page.goto(m["match_url"], timeout=60000)
                 await page.wait_for_timeout(4000)
+
+                match_html = await page.content()
+                match_soup = BeautifulSoup(match_html, "html.parser")
 
                 embed_url = ""
 
-                iframe = await page.query_selector("iframe")
-                if iframe:
-                    embed_url = await iframe.get_attribute("src")
-
-                if not embed_url:
-                    match_html = await page.content()
-                    match_soup = BeautifulSoup(match_html, "html.parser")
-
-                    player = match_soup.find("div", id="player")
-                    if player:
-                        a_tag = player.find("a", href=True)
-                        if a_tag:
-                            embed_url = a_tag["href"]
+                player = match_soup.find("div", id="player")
+                if player:
+                    a = player.find("a", href=True)
+                    if a:
+                        embed_url = a["href"]
 
                 results.append({
                     "title": m["title"],
                     "match_url": m["match_url"],
-                    "embed_url": embed_url or ""
+                    "embed_url": embed_url
                 })
 
                 await page.wait_for_timeout(2000)
@@ -97,9 +92,11 @@ async def fetch_hoofoot():
 
 
 if __name__ == "__main__":
+    os.makedirs("Highlights", exist_ok=True)
+
     data = asyncio.run(fetch_hoofoot())
 
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-    print(f"✅ Saved hoofoot.json with {len(data)} matches")
+    print(f"✅ Saved {OUTPUT_FILE} with {len(data)} matches")
