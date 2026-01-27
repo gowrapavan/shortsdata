@@ -14,8 +14,12 @@ async def fetch_hoofoot():
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(
-            headless=True,
-            args=["--no-sandbox", "--disable-dev-shm-usage"]
+            headless="new",  # more stable in CI
+            args=[
+                "--no-sandbox",
+                "--disable-dev-shm-usage",
+                "--disable-blink-features=AutomationControlled"
+            ]
         )
 
         context = await browser.new_context(
@@ -31,8 +35,8 @@ async def fetch_hoofoot():
         page = await context.new_page()
 
         print("🌐 Opening home page…")
-        await page.goto(BASE_URL + "?home", timeout=60000)
-        await page.wait_for_selector('a[href*="?match="]', timeout=20000)
+        await page.goto(BASE_URL + "?home", wait_until="domcontentloaded", timeout=60000)
+        await page.wait_for_timeout(5000)  # allow JS to render
 
         home_html = await page.content()
         soup = BeautifulSoup(home_html, "html.parser")
@@ -58,12 +62,12 @@ async def fetch_hoofoot():
             print(f"[{i}/{len(matches)}] Fetching:", m["title"])
 
             try:
-                await page.goto(m["match_url"], timeout=60000)
-                await page.wait_for_load_state("domcontentloaded")
+                await page.goto(m["match_url"], wait_until="domcontentloaded", timeout=60000)
+                await page.wait_for_timeout(4000)
 
                 embed_url = ""
 
-                # Try direct iframe first (more reliable)
+                # Try iframe first (more reliable)
                 iframe = await page.query_selector("iframe")
                 if iframe:
                     embed_url = await iframe.get_attribute("src")
@@ -84,6 +88,8 @@ async def fetch_hoofoot():
                     "match_url": m["match_url"],
                     "embed_url": embed_url or ""
                 })
+
+                await page.wait_for_timeout(2000)
 
             except Exception as e:
                 print("❌ Failed:", m["title"], e)
