@@ -3547,7 +3547,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-01-27",
     "DateTime": "2026-01-27T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 12,
@@ -3560,10 +3560,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/2.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 2,
     "Points": {
       "12": 0,
-      "2": 0
+      "2": 3
     },
     "Goals": []
   },
@@ -3625,7 +3625,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-01-27",
     "DateTime": "2026-01-27T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 20,
@@ -3636,12 +3636,12 @@
     "AwayTeamName": "RB Leipzig",
     "HomeTeamLogo": "https://crests.football-data.org/20.png",
     "AwayTeamLogo": "https://crests.football-data.org/721.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "20": 0,
-      "721": 0
+      "20": 1,
+      "721": 1
     },
     "Goals": []
   },
