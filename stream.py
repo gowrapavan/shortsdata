@@ -74,31 +74,20 @@ def load_team_data():
     return TEAM_DATA
 
 def find_team_crest(team_name):
-    """
-    Find crest URL for given team name.
-    Handles mis-decoded Unicode like 'QarabaÄ' -> 'Qarabağ'.
-    """
-    if not team_name:
-        return random_logo()
-
-    # Fix mis-decoded chars first
-    team_name = fix_unicode(team_name)
-    team_ascii = unidecode(team_name).lower().strip()
-
-    # Exact match (name or shortName)
+    """Find crest URL for a given team name."""
+    team_name_low = team_name.lower()
+    
+    # First, try to find a full match or short name match
     for team in TEAM_DATA:
-        name_ascii = unidecode(fix_unicode(team["name"])).lower()
-        short_ascii = unidecode(fix_unicode(team.get("shortName", ""))).lower()
-        if team_ascii in name_ascii or team_ascii in short_ascii:
+        if team_name_low in team["name"].lower() or team_name_low in team.get("shortName", "").lower():
             return team.get("crest")
-
-    # Match first word as fallback
-    first_word = team_ascii.split()[0]
+    
+    # If no match, try matching only the first word
     for team in TEAM_DATA:
-        name_ascii = unidecode(fix_unicode(team["name"])).lower()
-        if first_word in name_ascii:
+        if team_name_low.split()[0] in team["name"].lower():
             return team.get("crest")
-
+    
+    # Fallback to a random logo if nothing matches
     return random_logo()
 
 
