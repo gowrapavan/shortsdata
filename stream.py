@@ -85,7 +85,7 @@ def find_team_crest(team_name):
 # ---------- 1. SportsOnline ----------
 def fetch_sportzonline():
     load_team_data()
-    url = "https://sportsonline.pk/prog.txt"
+    url = "https://sportsonline.st/prog.txt"
     text = requests.get(url, timeout=10).text
 
     today = datetime.now(IST).strftime("%A").upper()
