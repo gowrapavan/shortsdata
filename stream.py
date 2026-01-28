@@ -7,6 +7,7 @@ import pytz
 import random
 import os
 from urllib.parse import urlparse, parse_qs
+from unidecode import unidecode  # make sure this is imported
 
 
 # === Random logo placeholders ===
@@ -53,6 +54,8 @@ TEAM_SOURCES = {
     "ITSA": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/ITSA.json",
     "DED": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DED.json",
     "DEB": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DEB.json",
+    "UCL": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/UCL.json",
+    "WC": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/WC.json",
 }
 
 TEAM_DATA = []
@@ -71,15 +74,33 @@ def load_team_data():
     return TEAM_DATA
 
 def find_team_crest(team_name):
-    """Find crest URL for given team name."""
-    team_name_low = team_name.lower()
+    """
+    Find crest URL for given team name.
+    Handles mis-decoded Unicode like 'QarabaÄ' -> 'Qarabağ'.
+    """
+    if not team_name:
+        return random_logo()
+
+    # Fix mis-decoded chars first
+    team_name = fix_unicode(team_name)
+    team_ascii = unidecode(team_name).lower().strip()
+
+    # Exact match (name or shortName)
     for team in TEAM_DATA:
-        if team_name_low in team["name"].lower() or team_name_low in team.get("shortName", "").lower():
+        name_ascii = unidecode(fix_unicode(team["name"])).lower()
+        short_ascii = unidecode(fix_unicode(team.get("shortName", ""))).lower()
+        if team_ascii in name_ascii or team_ascii in short_ascii:
             return team.get("crest")
+
+    # Match first word as fallback
+    first_word = team_ascii.split()[0]
     for team in TEAM_DATA:
-        if team_name_low.split()[0] in team["name"].lower():
+        name_ascii = unidecode(fix_unicode(team["name"])).lower()
+        if first_word in name_ascii:
             return team.get("crest")
+
     return random_logo()
+
 
 
 # ---------- 1. SportsOnline ----------
