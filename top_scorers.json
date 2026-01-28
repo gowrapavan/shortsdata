@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-27T06:18:24.434826Z",
+    "last_updated": "2026-01-28T06:19:22.742217Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -370,6 +370,15 @@
                     "nationality": "Germany"
                 },
                 {
+                    "player_name": "Yan Diomandé",
+                    "team_name": "RB Leipzig",
+                    "team_crest": "https://crests.football-data.org/721.png",
+                    "goals": 7,
+                    "assists": 4,
+                    "penalties": null,
+                    "nationality": "Ivory Coast"
+                },
+                {
                     "player_name": "Can Uzun",
                     "team_name": "Eintracht Frankfurt",
                     "team_crest": "https://crests.football-data.org/19.png",
@@ -377,15 +386,6 @@
                     "assists": 3,
                     "penalties": 1,
                     "nationality": "Turkey"
-                },
-                {
-                    "player_name": "Fisnik Asllani",
-                    "team_name": "TSG 1899 Hoffenheim",
-                    "team_crest": "https://crests.football-data.org/2.png",
-                    "goals": 6,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Kosovo"
                 }
             ]
         },
