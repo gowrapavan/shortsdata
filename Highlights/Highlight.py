@@ -7,8 +7,9 @@ import os
 
 # ---------------- CONFIG ---------------- #
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # Ensure correct folder
 HIGHLIGHT_URL = "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/Highlights/hoofoot.json"
-OUTPUT_FILE = "Highlight.json"
+OUTPUT_FILE = os.path.join(BASE_DIR, "Highlight.json")  # Absolute path
 
 MATCH_URLS = {
     "EPL": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/EPL.json",
@@ -61,7 +62,6 @@ def split_title(title):
 # ---------------- LOAD DATA ---------------- #
 
 highlights = fetch_json(HIGHLIGHT_URL)
-
 matches_by_league = {k: fetch_json(v) for k, v in MATCH_URLS.items()}
 teams_by_league = {k: fetch_json(v) for k, v in TEAM_URLS.items()}
 
@@ -143,7 +143,7 @@ for h in highlights:
     league, match = find_match(date, home, away)
 
     if match:
-        item["league"] = league
+        item["league"] = league or DEFAULT_LEAGUE
         item.update(match)
 
     item["home_logo"] = (
