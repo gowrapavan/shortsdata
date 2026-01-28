@@ -128,35 +128,54 @@ for h in highlights:
     home, away = split_title(h.get("title", ""))
     date = h.get("match_date", "").replace("_", "-")
 
-    item = {
-        "id": highlight_id,
-        "title": h.get("title"),
-        "date": date,
-        "game": "football",
-        "league": DEFAULT_LEAGUE,
-        "match_url": h.get("match_url"),
-        "embed_url": h.get("embed_url"),
-        "HomeTeamName": home,
-        "AwayTeamName": away,
-    }
-
     league, match = find_match(date, home, away)
 
-    if match:
-        item["league"] = league or DEFAULT_LEAGUE
-        item.update(match)
+    # ❌ Skip if no official match found (optional but recommended)
+    if not match:
+        continue
 
-    item["home_logo"] = (
-        match.get("HomeTeamLogo")
-        if match and match.get("HomeTeamLogo")
-        else find_logo(home)
-    )
+    item = {
+        # 🔑 IDs (CLEAR SEPARATION)
+        "highlight_id": highlight_id,           # from hoofoot
+        "game_id": match.get("GameId"),          # from match json
 
-    item["away_logo"] = (
-        match.get("AwayTeamLogo")
-        if match and match.get("AwayTeamLogo")
-        else find_logo(away)
-    )
+        # 🏆 Competition
+        "league": league or DEFAULT_LEAGUE,
+        "round": match.get("RoundName"),
+        "season": match.get("Season", None),
+
+        # 📅 Match timing
+        "date": match.get("Date"),
+        "datetime": match.get("DateTime"),
+        "status": match.get("Status"),
+
+        # 🏟 Teams
+        "home_team": {
+            "id": match.get("HomeTeamId"),
+            "key": match.get("HomeTeamKey"),
+            "name": match.get("HomeTeamName"),
+            "logo": match.get("HomeTeamLogo") or find_logo(home),
+            "score": match.get("HomeTeamScore"),
+        },
+        "away_team": {
+            "id": match.get("AwayTeamId"),
+            "key": match.get("AwayTeamKey"),
+            "name": match.get("AwayTeamName"),
+            "logo": match.get("AwayTeamLogo") or find_logo(away),
+            "score": match.get("AwayTeamScore"),
+        },
+
+        # ⚽ Match data
+        "result": match.get("Result"),
+        "points": match.get("Points"),
+        "goals": match.get("Goals", []),
+
+        # 🎬 Highlight data (hoofoot)
+        "title": h.get("title"),
+        "highlight_url": h.get("match_url"),
+        "embed_url": h.get("embed_url"),
+        "source": "hoofoot",
+    }
 
     new_items.append(item)
 
