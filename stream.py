@@ -7,7 +7,6 @@ import pytz
 import random
 import os
 from urllib.parse import urlparse, parse_qs
-from unidecode import unidecode  # make sure this is imported
 
 
 # === Random logo placeholders ===
@@ -74,22 +73,15 @@ def load_team_data():
     return TEAM_DATA
 
 def find_team_crest(team_name):
-    """Find crest URL for a given team name."""
+    """Find crest URL for given team name."""
     team_name_low = team_name.lower()
-    
-    # First, try to find a full match or short name match
     for team in TEAM_DATA:
         if team_name_low in team["name"].lower() or team_name_low in team.get("shortName", "").lower():
             return team.get("crest")
-    
-    # If no match, try matching only the first word
     for team in TEAM_DATA:
         if team_name_low.split()[0] in team["name"].lower():
             return team.get("crest")
-    
-    # Fallback to a random logo if nothing matches
     return random_logo()
-
 
 
 # ---------- 1. SportsOnline ----------
