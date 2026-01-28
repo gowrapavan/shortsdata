@@ -53,6 +53,8 @@ TEAM_SOURCES = {
     "ITSA": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/ITSA.json",
     "DED": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DED.json",
     "DEB": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DEB.json",
+    "UCL": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/UCL.json",
+    "WC": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/WC.json",
 }
 
 TEAM_DATA = []
