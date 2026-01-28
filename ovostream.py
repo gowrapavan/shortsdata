@@ -7,6 +7,8 @@ import pytz
 import random
 import os
 from urllib.parse import urlparse, parse_qs
+from unidecode import unidecode
+
 
 
 # === Random logo placeholders ===
@@ -68,18 +70,30 @@ def load_team_data():
 
 
 def find_team_crest(team_name):
-    """Find crest URL for given team name."""
-    team_name_low = team_name.lower()
+    """
+    Find crest URL for given team name.
+    Normalizes unicode and compares lowercase ASCII versions.
+    """
+    if not team_name:
+        return random_logo()
+
+    team_ascii = unidecode(team_name).lower().strip()
 
     for team in TEAM_DATA:
-        if team_name_low in team["name"].lower() or team_name_low in team.get("shortName", "").lower():
+        name_ascii = unidecode(team["name"]).lower()
+        short_ascii = unidecode(team.get("shortName", "")).lower()
+        if team_ascii in name_ascii or team_ascii in short_ascii:
             return team.get("crest")
 
+    # fallback: match first word
+    first_word = team_ascii.split()[0]
     for team in TEAM_DATA:
-        if team_name_low.split()[0] in team["name"].lower():
+        name_ascii = unidecode(team["name"]).lower()
+        if first_word in name_ascii:
             return team.get("crest")
 
     return random_logo()
+random_logo()
 
 
 # ---------- Ovogoal Scraper ----------
