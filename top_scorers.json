@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-28T06:19:22.742217Z",
+    "last_updated": "2026-01-29T06:31:33.603257Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -592,7 +592,7 @@
                     "player_name": "Kylian Mbappé",
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 11,
+                    "goals": 13,
                     "assists": null,
                     "penalties": 3,
                     "nationality": "France"
@@ -601,10 +601,28 @@
                     "player_name": "Harry Kane",
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 7,
+                    "goals": 8,
                     "assists": null,
                     "penalties": 2,
                     "nationality": "England"
+                },
+                {
+                    "player_name": "Erling Haaland",
+                    "team_name": "Manchester City FC",
+                    "team_crest": "https://crests.football-data.org/65.png",
+                    "goals": 7,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Norway"
+                },
+                {
+                    "player_name": "Martinelli",
+                    "team_name": "Arsenal FC",
+                    "team_crest": "https://crests.football-data.org/57.png",
+                    "goals": 6,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Brazil"
                 },
                 {
                     "player_name": "Anthony Gordon",
@@ -616,15 +634,6 @@
                     "nationality": "England"
                 },
                 {
-                    "player_name": "Erling Haaland",
-                    "team_name": "Manchester City FC",
-                    "team_crest": "https://crests.football-data.org/65.png",
-                    "goals": 6,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "Norway"
-                },
-                {
                     "player_name": "Victor Osimhen",
                     "team_name": "Galatasaray SK",
                     "team_crest": "https://crests.football-data.org/610.png",
@@ -634,13 +643,13 @@
                     "nationality": "Nigeria"
                 },
                 {
-                    "player_name": "Martinelli",
-                    "team_name": "Arsenal FC",
-                    "team_crest": "https://crests.football-data.org/57.png",
+                    "player_name": "Marcus Rashford",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
                     "goals": 5,
-                    "assists": 1,
+                    "assists": 3,
                     "penalties": null,
-                    "nationality": "Brazil"
+                    "nationality": "England"
                 },
                 {
                     "player_name": "Harvey Barnes",
@@ -652,31 +661,22 @@
                     "nationality": "England"
                 },
                 {
-                    "player_name": "Fermín López",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
+                    "player_name": "Gorka Guruzeta",
+                    "team_name": "Athletic Club",
+                    "team_crest": "https://crests.football-data.org/77.png",
                     "goals": 5,
-                    "assists": 2,
+                    "assists": null,
                     "penalties": null,
                     "nationality": "Spain"
                 },
                 {
-                    "player_name": "Camilo Durán",
-                    "team_name": "Qarabağ Ağdam FK",
-                    "team_crest": "https://crests.football-data.org/611.png",
-                    "goals": 4,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Colombia"
-                },
-                {
-                    "player_name": "Marcus Rashford",
+                    "player_name": "Fermín López",
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 4,
+                    "goals": 5,
                     "assists": 3,
                     "penalties": null,
-                    "nationality": "England"
+                    "nationality": "Spain"
                 }
             ]
         }
