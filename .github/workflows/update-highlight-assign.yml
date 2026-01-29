@@ -3,7 +3,7 @@ name: Update Highlight Assigned Data
 on:
   schedule:
     # Run 15 minutes after hoofoot job window
-    - cron: "15 */6 * * *"
+    - cron: "15 */3 * * *"
   workflow_dispatch:
 
 permissions:
