@@ -133,7 +133,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 674,
@@ -144,12 +144,12 @@
     "AwayTeamName": "FC Bayern München",
     "HomeTeamLogo": "https://crests.football-data.org/674.png",
     "AwayTeamLogo": "https://crests.football-data.org/5.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 5,
     "Points": {
       "674": 0,
-      "5": 0
+      "5": 3
     },
     "Goals": []
   },
@@ -315,7 +315,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 113,
@@ -327,11 +327,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/113.png",
     "AwayTeamLogo": "https://crests.football-data.org/61.png",
     "HomeTeamScore": 2,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 61,
     "Points": {
       "113": 0,
-      "61": 0
+      "61": 3
     },
     "Goals": []
   },
@@ -471,7 +471,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1903,
@@ -482,11 +482,11 @@
     "AwayTeamName": "Real Madrid CF",
     "HomeTeamLogo": "https://crests.football-data.org/1903.png",
     "AwayTeamLogo": "https://crests.football-data.org/86.png",
-    "HomeTeamScore": 3,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 2,
+    "Result": 1903,
     "Points": {
-      "1903": 0,
+      "1903": 3,
       "86": 0
     },
     "Goals": []
@@ -625,7 +625,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 4,
@@ -637,11 +637,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/4.png",
     "AwayTeamLogo": "https://crests.football-data.org/108.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 108,
     "Points": {
       "4": 0,
-      "108": 0
+      "108": 3
     },
     "Goals": []
   },
@@ -1087,7 +1087,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 64,
@@ -1098,11 +1098,11 @@
     "AwayTeamName": "Qarabağ Ağdam FK",
     "HomeTeamLogo": "https://crests.football-data.org/64.png",
     "AwayTeamLogo": "https://crests.football-data.org/611.png",
-    "HomeTeamScore": 5,
+    "HomeTeamScore": 6,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 64,
     "Points": {
-      "64": 0,
+      "64": 3,
       "611": 0
     },
     "Goals": []
@@ -1269,7 +1269,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 81,
@@ -1280,11 +1280,11 @@
     "AwayTeamName": "FC København",
     "HomeTeamLogo": "https://crests.football-data.org/81.png",
     "AwayTeamLogo": "https://crests.football-data.org/1876.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 2,
+    "Result": 81,
     "Points": {
-      "81": 0,
+      "81": 3,
       "1876": 0
     },
     "Goals": []
@@ -1523,7 +1523,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 65,
@@ -1536,9 +1536,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/610.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 65,
     "Points": {
-      "65": 0,
+      "65": 3,
       "610": 0
     },
     "Goals": []
@@ -1601,7 +1601,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 3,
@@ -1614,9 +1614,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/94.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 3,
     "Points": {
-      "3": 0,
+      "3": 3,
       "94": 0
     },
     "Goals": []
@@ -1859,7 +1859,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 57,
@@ -1871,10 +1871,10 @@
     "HomeTeamLogo": "https://crests.football-data.org/57.png",
     "AwayTeamLogo": "https://crests.football-data.org/10601.png",
     "HomeTeamScore": 3,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 57,
     "Points": {
-      "57": 0,
+      "57": 3,
       "10601": 0
     },
     "Goals": []
@@ -2039,7 +2039,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 3929,
@@ -2050,11 +2050,11 @@
     "AwayTeamName": "Atalanta BC",
     "HomeTeamLogo": "https://crests.football-data.org/3929.png",
     "AwayTeamLogo": "https://crests.football-data.org/102.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 3929,
     "Points": {
-      "3929": 0,
+      "3929": 3,
       "102": 0
     },
     "Goals": []
@@ -2193,7 +2193,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 851,
@@ -2204,11 +2204,11 @@
     "AwayTeamName": "Olympique de Marseille",
     "HomeTeamLogo": "https://crests.football-data.org/851.png",
     "AwayTeamLogo": "https://crests.football-data.org/516.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 851,
     "Points": {
-      "851": 0,
+      "851": 3,
       "516": 0
     },
     "Goals": []
@@ -2321,7 +2321,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 19,
@@ -2333,11 +2333,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/19.png",
     "AwayTeamLogo": "https://crests.football-data.org/73.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 73,
     "Points": {
       "19": 0,
-      "73": 0
+      "73": 3
     },
     "Goals": []
   },
@@ -2527,7 +2527,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 548,
@@ -2542,8 +2542,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "548": 0,
-      "109": 0
+      "548": 1,
+      "109": 1
     },
     "Goals": []
   },
@@ -2553,7 +2553,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 78,
@@ -2566,10 +2566,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/5721.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 5721,
     "Points": {
       "78": 0,
-      "5721": 0
+      "5721": 3
     },
     "Goals": []
   },
@@ -3093,7 +3093,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 77,
@@ -3105,11 +3105,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/77.png",
     "AwayTeamLogo": "https://crests.football-data.org/498.png",
     "HomeTeamScore": 2,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 498,
     "Points": {
       "77": 0,
-      "498": 0
+      "498": 3
     },
     "Goals": []
   },
@@ -3145,7 +3145,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 678,
@@ -3156,12 +3156,12 @@
     "AwayTeamName": "PAE Olympiakos SFP",
     "HomeTeamLogo": "https://crests.football-data.org/678.png",
     "AwayTeamLogo": "https://crests.football-data.org/654.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 654,
     "Points": {
       "678": 0,
-      "654": 0
+      "654": 3
     },
     "Goals": []
   },
@@ -3661,7 +3661,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 524,
@@ -3676,8 +3676,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "524": 0,
-      "67": 0
+      "524": 1,
+      "67": 1
     },
     "Goals": []
   },
@@ -3687,7 +3687,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-01-28",
     "DateTime": "2026-01-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 11034,
@@ -3698,11 +3698,11 @@
     "AwayTeamName": "SK Slavia Praha",
     "HomeTeamLogo": "https://crests.football-data.org/11034.png",
     "AwayTeamLogo": "https://crests.football-data.org/930.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 4,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 11034,
     "Points": {
-      "11034": 0,
+      "11034": 3,
       "930": 0
     },
     "Goals": []
