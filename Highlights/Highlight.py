@@ -123,7 +123,7 @@ def find_logo(team_name):
 # ---------------- BUILD OUTPUT ---------------- #
 
 new_items = []
-seen_in_run = set()  # avoid duplicates in same execution
+seen_in_run = set()
 
 for h in highlights:
     highlight_id = h.get("id")
@@ -133,18 +133,37 @@ for h in highlights:
     home, away = split_title(h.get("title", ""))
     date = h.get("match_date", "").replace("_", "-")
 
-    # ✅ KEY = highlight_id + date
     unique_key = (highlight_id, date)
 
-    # ✅ Skip if already exists (file OR same run)
     if unique_key in existing_keys or unique_key in seen_in_run:
         continue
 
     league, match = find_match(date, home, away)
 
-    # ❌ Skip if no official match found
+    # ✅ FALLBACK LOGIC (IMPORTANT PART)
     if not match:
-        continue
+        match = {
+            "GameId": None,
+            "RoundName": None,
+            "Season": None,
+            "Date": date,
+            "DateTime": None,
+            "Status": "Finished",  # highlights exist only after match
+            "HomeTeamId": None,
+            "AwayTeamId": None,
+            "HomeTeamKey": None,
+            "AwayTeamKey": None,
+            "HomeTeamName": home,
+            "AwayTeamName": away,
+            "HomeTeamLogo": None,
+            "AwayTeamLogo": None,
+            "HomeTeamScore": None,
+            "AwayTeamScore": None,
+            "Result": None,
+            "Points": None,
+            "Goals": [],
+        }
+        league = DEFAULT_LEAGUE
 
     item = {
         "highlight_id": highlight_id,
@@ -154,21 +173,21 @@ for h in highlights:
         "round": match.get("RoundName"),
         "season": match.get("Season"),
 
-        "date": match.get("Date"),
-        "datetime": match.get("DateTime"),
-        "status": match.get("Status"),
+        "date": match.get("Date") or date,
+        "datetime": match.get("DateTime") or f"{date}T00:00:00",
+        "status": match.get("Status") or "Finished",
 
         "home_team": {
             "id": match.get("HomeTeamId"),
             "key": match.get("HomeTeamKey"),
-            "name": match.get("HomeTeamName"),
+            "name": match.get("HomeTeamName") or home,
             "logo": match.get("HomeTeamLogo") or find_logo(home),
             "score": match.get("HomeTeamScore"),
         },
         "away_team": {
             "id": match.get("AwayTeamId"),
             "key": match.get("AwayTeamKey"),
-            "name": match.get("AwayTeamName"),
+            "name": match.get("AwayTeamName") or away,
             "logo": match.get("AwayTeamLogo") or find_logo(away),
             "score": match.get("AwayTeamScore"),
         },
@@ -180,11 +199,14 @@ for h in highlights:
         "title": h.get("title"),
         "highlight_url": h.get("match_url"),
         "embed_url": h.get("embed_url"),
+
+        # 🔥 useful debug info
+        "match_type": "official" if match.get("GameId") else "fallback",
         "source": "hoofoot",
     }
 
     new_items.append(item)
-    seen_in_run.add(unique_key)  # ✅ mark as added
+    seen_in_run.add(unique_key)
 
 # ---------------- SAVE ---------------- #
 
