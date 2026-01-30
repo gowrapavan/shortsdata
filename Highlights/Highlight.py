@@ -17,6 +17,11 @@ MATCH_URLS = {
     "FRL1": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/FRL1.json",
     "ITSA": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/ITSA.json",
     "DEB": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/DEB.json",
+    "UCL": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/UCL.json",
+    "WC": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/WC.json",
+    "MLS": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/MLS.json",
+    "DED": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/DED.json",
+
 }
 
 TEAM_URLS = {
@@ -27,6 +32,8 @@ TEAM_URLS = {
     "DEB": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DEB.json",
     "UCL": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/UCL.json",
     "WC": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/WC.json",
+    "MLS": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/MLS.json",
+    "DED": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/DED.json",
 }
 
 DEFAULT_LEAGUE = "Goal4u - Undefined"
