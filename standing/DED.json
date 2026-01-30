@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 666,
+            "name": "FC Twente '65",
+            "shortName": "Twente",
+            "tla": "TWE",
+            "crest": "https://crests.football-data.org/666.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 8,
+          "draw": 9,
+          "lost": 4,
+          "points": 33,
+          "goalsFor": 30,
+          "goalsAgainst": 22,
+          "goalDifference": 8
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 682,
             "name": "AZ",
             "shortName": "AZ",
@@ -124,7 +143,7 @@
           "goalDifference": 3
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 6806,
             "name": "Sparta Rotterdam",
@@ -143,7 +162,7 @@
           "goalDifference": -9
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 677,
             "name": "FC Groningen",
@@ -160,25 +179,6 @@
           "goalsFor": 28,
           "goalsAgainst": 24,
           "goalDifference": 4
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 666,
-            "name": "FC Twente '65",
-            "shortName": "Twente",
-            "tla": "TWE",
-            "crest": "https://crests.football-data.org/666.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 7,
-          "draw": 9,
-          "lost": 4,
-          "points": 30,
-          "goalsFor": 29,
-          "goalsAgainst": 22,
-          "goalDifference": 7
         },
         {
           "position": 9,
@@ -341,15 +341,15 @@
             "tla": "NAC",
             "crest": "https://crests.football-data.org/681.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 3,
           "draw": 6,
-          "lost": 11,
+          "lost": 12,
           "points": 15,
           "goalsFor": 21,
-          "goalsAgainst": 32,
-          "goalDifference": -11
+          "goalsAgainst": 33,
+          "goalDifference": -12
         },
         {
           "position": 18,
