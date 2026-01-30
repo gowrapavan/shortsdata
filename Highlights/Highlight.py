@@ -7,9 +7,9 @@ import os
 
 # ---------------- CONFIG ---------------- #
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # Ensure correct folder
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 HIGHLIGHT_URL = "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/Highlights/hoofoot.json"
-OUTPUT_FILE = os.path.join(BASE_DIR, "Highlight.json")  # Absolute path
+OUTPUT_FILE = os.path.join(BASE_DIR, "Highlight.json")
 
 MATCH_URLS = {
     "EPL": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/EPL.json",
@@ -68,16 +68,20 @@ teams_by_league = {k: fetch_json(v) for k, v in TEAM_URLS.items()}
 # ---------------- EXISTING OUTPUT ---------------- #
 
 existing_items = []
-existing_ids = set()
+existing_keys = set()  # (highlight_id, date)
 
 if os.path.exists(OUTPUT_FILE):
     try:
         with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
             existing_items = json.load(f)
-            existing_ids = {item.get("id") for item in existing_items if item.get("id")}
+            for item in existing_items:
+                hid = item.get("highlight_id")
+                date = item.get("date")
+                if hid and date:
+                    existing_keys.add((hid, date))
     except Exception:
         existing_items = []
-        existing_ids = set()
+        existing_keys = set()
 
 # ---------------- MATCH / LOGO FINDERS ---------------- #
 
@@ -119,37 +123,41 @@ def find_logo(team_name):
 # ---------------- BUILD OUTPUT ---------------- #
 
 new_items = []
+seen_in_run = set()  # avoid duplicates in same execution
 
 for h in highlights:
     highlight_id = h.get("id")
-    if not highlight_id or highlight_id in existing_ids:
-        continue  # ✅ SKIP EXISTING
+    if not highlight_id:
+        continue
 
     home, away = split_title(h.get("title", ""))
     date = h.get("match_date", "").replace("_", "-")
 
+    # ✅ KEY = highlight_id + date
+    unique_key = (highlight_id, date)
+
+    # ✅ Skip if already exists (file OR same run)
+    if unique_key in existing_keys or unique_key in seen_in_run:
+        continue
+
     league, match = find_match(date, home, away)
 
-    # ❌ Skip if no official match found (optional but recommended)
+    # ❌ Skip if no official match found
     if not match:
         continue
 
     item = {
-        # 🔑 IDs (CLEAR SEPARATION)
-        "highlight_id": highlight_id,           # from hoofoot
-        "game_id": match.get("GameId"),          # from match json
+        "highlight_id": highlight_id,
+        "game_id": match.get("GameId"),
 
-        # 🏆 Competition
         "league": league or DEFAULT_LEAGUE,
         "round": match.get("RoundName"),
-        "season": match.get("Season", None),
+        "season": match.get("Season"),
 
-        # 📅 Match timing
         "date": match.get("Date"),
         "datetime": match.get("DateTime"),
         "status": match.get("Status"),
 
-        # 🏟 Teams
         "home_team": {
             "id": match.get("HomeTeamId"),
             "key": match.get("HomeTeamKey"),
@@ -165,12 +173,10 @@ for h in highlights:
             "score": match.get("AwayTeamScore"),
         },
 
-        # ⚽ Match data
         "result": match.get("Result"),
         "points": match.get("Points"),
         "goals": match.get("Goals", []),
 
-        # 🎬 Highlight data (hoofoot)
         "title": h.get("title"),
         "highlight_url": h.get("match_url"),
         "embed_url": h.get("embed_url"),
@@ -178,6 +184,7 @@ for h in highlights:
     }
 
     new_items.append(item)
+    seen_in_run.add(unique_key)  # ✅ mark as added
 
 # ---------------- SAVE ---------------- #
 
@@ -186,4 +193,4 @@ final_output = existing_items + new_items
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(final_output, f, ensure_ascii=False, indent=2)
 
-print(f"✅ Added {len(new_items)} new highlights (skipped {len(existing_ids)})")
+print(f"✅ Added {len(new_items)} new highlights | Skipped {len(existing_keys)} duplicates")
