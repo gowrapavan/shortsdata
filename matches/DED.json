@@ -4681,7 +4681,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-01-30",
     "DateTime": "2026-01-30T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 681,
@@ -4692,12 +4692,12 @@
     "AwayTeamName": "FC Twente '65",
     "HomeTeamLogo": "https://crests.football-data.org/681.png",
     "AwayTeamLogo": "https://crests.football-data.org/666.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "681": 0,
-      "666": 0
+      "681": 1,
+      "666": 1
     },
     "Goals": []
   },
