@@ -31,6 +31,25 @@
         {
           "position": 1,
           "team": {
+            "id": 546,
+            "name": "Racing Club de Lens",
+            "shortName": "RC Lens",
+            "tla": "RCL",
+            "crest": "https://crests.football-data.org/546.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 15,
+          "draw": 1,
+          "lost": 4,
+          "points": 46,
+          "goalsFor": 34,
+          "goalsAgainst": 16,
+          "goalDifference": 18
+        },
+        {
+          "position": 2,
+          "team": {
             "id": 524,
             "name": "Paris Saint-Germain FC",
             "shortName": "PSG",
@@ -46,25 +65,6 @@
           "goalsFor": 41,
           "goalsAgainst": 15,
           "goalDifference": 26
-        },
-        {
-          "position": 2,
-          "team": {
-            "id": 546,
-            "name": "Racing Club de Lens",
-            "shortName": "RC Lens",
-            "tla": "RCL",
-            "crest": "https://crests.football-data.org/546.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 14,
-          "draw": 2,
-          "lost": 4,
-          "points": 44,
-          "goalsFor": 33,
-          "goalsAgainst": 16,
-          "goalDifference": 17
         },
         {
           "position": 3,
@@ -259,25 +259,6 @@
         {
           "position": 13,
           "team": {
-            "id": 533,
-            "name": "Le Havre AC",
-            "shortName": "Le Havre",
-            "tla": "HAC",
-            "crest": "https://crests.football-data.org/533.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 4,
-          "draw": 9,
-          "lost": 7,
-          "points": 21,
-          "goalsFor": 16,
-          "goalsAgainst": 24,
-          "goalDifference": -8
-        },
-        {
-          "position": 14,
-          "team": {
             "id": 522,
             "name": "OGC Nice",
             "shortName": "Nice",
@@ -295,7 +276,7 @@
           "goalDifference": -11
         },
         {
-          "position": 15,
+          "position": 14,
           "team": {
             "id": 1045,
             "name": "Paris FC",
@@ -312,6 +293,25 @@
           "goalsFor": 24,
           "goalsAgainst": 32,
           "goalDifference": -8
+        },
+        {
+          "position": 15,
+          "team": {
+            "id": 533,
+            "name": "Le Havre AC",
+            "shortName": "Le Havre",
+            "tla": "HAC",
+            "crest": "https://crests.football-data.org/533.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 4,
+          "draw": 8,
+          "lost": 8,
+          "points": 20,
+          "goalsFor": 16,
+          "goalsAgainst": 25,
+          "goalDifference": -9
         },
         {
           "position": 16,

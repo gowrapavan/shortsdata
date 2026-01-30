@@ -107,25 +107,6 @@
         {
           "position": 5,
           "team": {
-            "id": 666,
-            "name": "FC Twente '65",
-            "shortName": "Twente",
-            "tla": "TWE",
-            "crest": "https://crests.football-data.org/666.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 8,
-          "draw": 9,
-          "lost": 4,
-          "points": 33,
-          "goalsFor": 30,
-          "goalsAgainst": 22,
-          "goalDifference": 8
-        },
-        {
-          "position": 6,
-          "team": {
             "id": 682,
             "name": "AZ",
             "shortName": "AZ",
@@ -143,7 +124,7 @@
           "goalDifference": 3
         },
         {
-          "position": 7,
+          "position": 6,
           "team": {
             "id": 6806,
             "name": "Sparta Rotterdam",
@@ -160,6 +141,25 @@
           "goalsFor": 25,
           "goalsAgainst": 34,
           "goalDifference": -9
+        },
+        {
+          "position": 7,
+          "team": {
+            "id": 666,
+            "name": "FC Twente '65",
+            "shortName": "Twente",
+            "tla": "TWE",
+            "crest": "https://crests.football-data.org/666.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 7,
+          "draw": 10,
+          "lost": 4,
+          "points": 31,
+          "goalsFor": 31,
+          "goalsAgainst": 24,
+          "goalDifference": 7
         },
         {
           "position": 8,
@@ -344,12 +344,12 @@
           "playedGames": 21,
           "form": null,
           "won": 3,
-          "draw": 6,
-          "lost": 12,
-          "points": 15,
-          "goalsFor": 21,
-          "goalsAgainst": 33,
-          "goalDifference": -12
+          "draw": 7,
+          "lost": 11,
+          "points": 16,
+          "goalsFor": 23,
+          "goalsAgainst": 34,
+          "goalDifference": -11
         },
         {
           "position": 18,
