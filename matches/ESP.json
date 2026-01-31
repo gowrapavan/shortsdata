@@ -5427,7 +5427,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 79,
@@ -5438,12 +5438,12 @@
     "AwayTeamName": "Villarreal CF",
     "HomeTeamLogo": "https://crests.football-data.org/79.png",
     "AwayTeamLogo": "https://crests.football-data.org/94.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "79": 0,
-      "94": 0
+      "79": 1,
+      "94": 1
     },
     "Goals": []
   },
@@ -5490,8 +5490,8 @@
     "AwayTeamName": "Club Atlético de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/88.png",
     "AwayTeamLogo": "https://crests.football-data.org/78.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "88": 0,

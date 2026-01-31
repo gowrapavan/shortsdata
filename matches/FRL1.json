@@ -4398,8 +4398,8 @@
     "AwayTeamName": "FC Nantes",
     "HomeTeamLogo": "https://crests.football-data.org/525.png",
     "AwayTeamLogo": "https://crests.football-data.org/543.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "525": 0,
@@ -4413,7 +4413,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T16:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1045,
@@ -4424,12 +4424,12 @@
     "AwayTeamName": "Olympique de Marseille",
     "HomeTeamLogo": "https://crests.football-data.org/1045.png",
     "AwayTeamLogo": "https://crests.football-data.org/516.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "1045": 0,
-      "516": 0
+      "1045": 1,
+      "516": 1
     },
     "Goals": []
   },

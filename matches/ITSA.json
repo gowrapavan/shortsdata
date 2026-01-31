@@ -5801,7 +5801,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 487,
@@ -5813,11 +5813,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/487.png",
     "AwayTeamLogo": "https://crests.football-data.org/471.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 471,
     "Points": {
       "487": 0,
-      "471": 0
+      "471": 3
     },
     "Goals": []
   },
@@ -5838,8 +5838,8 @@
     "AwayTeamName": "ACF Fiorentina",
     "HomeTeamLogo": "https://crests.football-data.org/113.png",
     "AwayTeamLogo": "https://crests.football-data.org/99.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "113": 0,

@@ -5937,7 +5937,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 397,
@@ -5948,12 +5948,12 @@
     "AwayTeamName": "Everton FC",
     "HomeTeamLogo": "https://crests.football-data.org/397.png",
     "AwayTeamLogo": "https://crests.football-data.org/62.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "397": 0,
-      "62": 0
+      "397": 1,
+      "62": 1
     },
     "Goals": []
   },
@@ -5974,8 +5974,8 @@
     "AwayTeamName": "West Ham United FC",
     "HomeTeamLogo": "https://crests.football-data.org/61.png",
     "AwayTeamLogo": "https://crests.football-data.org/563.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "61": 0,
@@ -6015,7 +6015,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 341,
@@ -6027,11 +6027,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/341.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 4,
+    "Result": 57,
     "Points": {
       "341": 0,
-      "57": 0
+      "57": 3
     },
     "Goals": []
   },
@@ -6119,7 +6119,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 76,
@@ -6131,11 +6131,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/76.png",
     "AwayTeamLogo": "https://crests.football-data.org/bournemouth.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 1044,
     "Points": {
       "76": 0,
-      "1044": 0
+      "1044": 3
     },
     "Goals": []
   },
