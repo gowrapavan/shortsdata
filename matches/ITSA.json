@@ -5749,7 +5749,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-30",
     "DateTime": "2026-01-30T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 110,
@@ -5760,11 +5760,11 @@
     "AwayTeamName": "Genoa CFC",
     "HomeTeamLogo": "https://crests.football-data.org/110.png",
     "AwayTeamLogo": "https://crests.football-data.org/107.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 110,
     "Points": {
-      "110": 0,
+      "110": 3,
       "107": 0
     },
     "Goals": []
