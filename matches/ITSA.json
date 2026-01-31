@@ -5656,8 +5656,8 @@
     "AwayTeamName": "Hellas Verona FC",
     "HomeTeamLogo": "https://crests.football-data.org/104.png",
     "AwayTeamLogo": "https://crests.football-data.org/450.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "104": 0,
@@ -5827,7 +5827,7 @@
     "RoundName": "Serie A",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 113,
@@ -5840,9 +5840,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/99.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 113,
     "Points": {
-      "113": 0,
+      "113": 3,
       "99": 0
     },
     "Goals": []

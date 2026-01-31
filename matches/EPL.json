@@ -5963,7 +5963,7 @@
     "RoundName": "Premier League",
     "Date": "2026-01-31",
     "DateTime": "2026-01-31T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 61,
@@ -5974,11 +5974,11 @@
     "AwayTeamName": "West Ham United FC",
     "HomeTeamLogo": "https://crests.football-data.org/61.png",
     "AwayTeamLogo": "https://crests.football-data.org/563.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 61,
     "Points": {
-      "61": 0,
+      "61": 3,
       "563": 0
     },
     "Goals": []
@@ -6000,8 +6000,8 @@
     "AwayTeamName": "Newcastle United FC",
     "HomeTeamLogo": "https://crests.football-data.org/64.png",
     "AwayTeamLogo": "https://crests.football-data.org/67.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "64": 0,
