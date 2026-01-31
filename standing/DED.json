@@ -115,35 +115,16 @@
           },
           "playedGames": 21,
           "form": null,
-          "won": 10,
-          "draw": 3,
+          "won": 11,
+          "draw": 2,
           "lost": 8,
-          "points": 33,
-          "goalsFor": 25,
+          "points": 35,
+          "goalsFor": 27,
           "goalsAgainst": 34,
-          "goalDifference": -9
+          "goalDifference": -7
         },
         {
           "position": 6,
-          "team": {
-            "id": 677,
-            "name": "FC Groningen",
-            "shortName": "Groningen",
-            "tla": "GRO",
-            "crest": "https://crests.football-data.org/677.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 9,
-          "draw": 5,
-          "lost": 7,
-          "points": 32,
-          "goalsFor": 28,
-          "goalsAgainst": 24,
-          "goalDifference": 4
-        },
-        {
-          "position": 7,
           "team": {
             "id": 682,
             "name": "AZ",
@@ -162,7 +143,7 @@
           "goalDifference": 1
         },
         {
-          "position": 8,
+          "position": 7,
           "team": {
             "id": 666,
             "name": "FC Twente '65",
@@ -179,6 +160,25 @@
           "goalsFor": 31,
           "goalsAgainst": 24,
           "goalDifference": 7
+        },
+        {
+          "position": 8,
+          "team": {
+            "id": 677,
+            "name": "FC Groningen",
+            "shortName": "Groningen",
+            "tla": "GRO",
+            "crest": "https://crests.football-data.org/677.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 9,
+          "draw": 4,
+          "lost": 8,
+          "points": 31,
+          "goalsFor": 28,
+          "goalsAgainst": 26,
+          "goalDifference": 2
         },
         {
           "position": 9,

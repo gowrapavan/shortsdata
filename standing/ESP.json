@@ -39,13 +39,13 @@
           },
           "playedGames": 22,
           "form": null,
-          "won": 17,
-          "draw": 2,
+          "won": 18,
+          "draw": 1,
           "lost": 3,
-          "points": 53,
-          "goalsFor": 57,
-          "goalsAgainst": 22,
-          "goalDifference": 35
+          "points": 55,
+          "goalsFor": 60,
+          "goalsAgainst": 23,
+          "goalDifference": 37
         },
         {
           "position": 2,
@@ -202,25 +202,6 @@
         {
           "position": 10,
           "team": {
-            "id": 285,
-            "name": "Elche CF",
-            "shortName": "Elche",
-            "tla": "ELC",
-            "crest": "https://crests.football-data.org/285.png"
-          },
-          "playedGames": 22,
-          "form": null,
-          "won": 5,
-          "draw": 10,
-          "lost": 7,
-          "points": 25,
-          "goalsFor": 29,
-          "goalsAgainst": 29,
-          "goalDifference": 0
-        },
-        {
-          "position": 11,
-          "team": {
             "id": 263,
             "name": "Deportivo Alavés",
             "shortName": "Alavés",
@@ -238,7 +219,7 @@
           "goalDifference": -7
         },
         {
-          "position": 12,
+          "position": 11,
           "team": {
             "id": 298,
             "name": "Girona FC",
@@ -255,6 +236,25 @@
           "goalsFor": 21,
           "goalsAgainst": 36,
           "goalDifference": -15
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": 285,
+            "name": "Elche CF",
+            "shortName": "Elche",
+            "tla": "ELC",
+            "crest": "https://crests.football-data.org/285.png"
+          },
+          "playedGames": 22,
+          "form": null,
+          "won": 5,
+          "draw": 9,
+          "lost": 8,
+          "points": 24,
+          "goalsFor": 30,
+          "goalsAgainst": 32,
+          "goalDifference": -2
         },
         {
           "position": 13,
