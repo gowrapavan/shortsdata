@@ -259,25 +259,6 @@
         {
           "position": 13,
           "team": {
-            "id": 718,
-            "name": "Go Ahead Eagles",
-            "shortName": "Go Ahead",
-            "tla": "GOA",
-            "crest": "https://crests.football-data.org/718.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 5,
-          "draw": 9,
-          "lost": 6,
-          "points": 24,
-          "goalsFor": 31,
-          "goalsAgainst": 33,
-          "goalDifference": -2
-        },
-        {
-          "position": 14,
-          "team": {
             "id": 670,
             "name": "SBV Excelsior",
             "shortName": "Excelsior",
@@ -295,6 +276,25 @@
           "goalDifference": -15
         },
         {
+          "position": 14,
+          "team": {
+            "id": 718,
+            "name": "Go Ahead Eagles",
+            "shortName": "Go Ahead",
+            "tla": "GOA",
+            "crest": "https://crests.football-data.org/718.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 4,
+          "draw": 10,
+          "lost": 6,
+          "points": 22,
+          "goalsFor": 31,
+          "goalsAgainst": 34,
+          "goalDifference": -3
+        },
+        {
           "position": 15,
           "team": {
             "id": 1919,
@@ -306,12 +306,12 @@
           "playedGames": 21,
           "form": null,
           "won": 4,
-          "draw": 5,
-          "lost": 12,
-          "points": 17,
-          "goalsFor": 21,
+          "draw": 6,
+          "lost": 11,
+          "points": 18,
+          "goalsFor": 22,
           "goalsAgainst": 36,
-          "goalDifference": -15
+          "goalDifference": -14
         },
         {
           "position": 16,

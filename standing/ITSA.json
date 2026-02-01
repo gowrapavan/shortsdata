@@ -96,13 +96,13 @@
           },
           "playedGames": 23,
           "form": null,
-          "won": 12,
-          "draw": 7,
+          "won": 13,
+          "draw": 6,
           "lost": 4,
-          "points": 43,
-          "goalsFor": 35,
-          "goalsAgainst": 17,
-          "goalDifference": 18
+          "points": 45,
+          "goalsFor": 39,
+          "goalsAgainst": 18,
+          "goalDifference": 21
         },
         {
           "position": 5,
@@ -278,25 +278,6 @@
         {
           "position": 14,
           "team": {
-            "id": 112,
-            "name": "Parma Calcio 1913",
-            "shortName": "Parma",
-            "tla": "PAR",
-            "crest": "https://crests.football-data.org/112.png"
-          },
-          "playedGames": 23,
-          "form": null,
-          "won": 5,
-          "draw": 9,
-          "lost": 9,
-          "points": 24,
-          "goalsFor": 14,
-          "goalsAgainst": 26,
-          "goalDifference": -12
-        },
-        {
-          "position": 15,
-          "team": {
             "id": 107,
             "name": "Genoa CFC",
             "shortName": "Genoa",
@@ -314,7 +295,7 @@
           "goalDifference": -7
         },
         {
-          "position": 16,
+          "position": 15,
           "team": {
             "id": 457,
             "name": "US Cremonese",
@@ -331,6 +312,25 @@
           "goalsFor": 20,
           "goalsAgainst": 31,
           "goalDifference": -11
+        },
+        {
+          "position": 16,
+          "team": {
+            "id": 112,
+            "name": "Parma Calcio 1913",
+            "shortName": "Parma",
+            "tla": "PAR",
+            "crest": "https://crests.football-data.org/112.png"
+          },
+          "playedGames": 23,
+          "form": null,
+          "won": 5,
+          "draw": 8,
+          "lost": 10,
+          "points": 23,
+          "goalsFor": 15,
+          "goalsAgainst": 30,
+          "goalDifference": -15
         },
         {
           "position": 17,
