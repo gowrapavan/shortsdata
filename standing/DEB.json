@@ -56,15 +56,15 @@
             "tla": "BVB",
             "crest": "https://crests.football-data.org/4.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
-          "won": 12,
+          "won": 13,
           "draw": 6,
           "lost": 1,
-          "points": 42,
-          "goalsFor": 38,
-          "goalsAgainst": 17,
-          "goalDifference": 21
+          "points": 45,
+          "goalsFor": 41,
+          "goalsAgainst": 19,
+          "goalDifference": 22
         },
         {
           "position": 3,
@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 10,
+            "name": "VfB Stuttgart",
+            "shortName": "Stuttgart",
+            "tla": "VFB",
+            "crest": "https://crests.football-data.org/10.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 12,
+          "draw": 3,
+          "lost": 5,
+          "points": 39,
+          "goalsFor": 37,
+          "goalsAgainst": 26,
+          "goalDifference": 11
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 721,
             "name": "RB Leipzig",
             "shortName": "RB Leipzig",
@@ -103,25 +122,6 @@
           "goalsFor": 38,
           "goalsAgainst": 27,
           "goalDifference": 11
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 10,
-            "name": "VfB Stuttgart",
-            "shortName": "Stuttgart",
-            "tla": "VFB",
-            "crest": "https://crests.football-data.org/10.png"
-          },
-          "playedGames": 19,
-          "form": null,
-          "won": 11,
-          "draw": 3,
-          "lost": 5,
-          "points": 36,
-          "goalsFor": 36,
-          "goalsAgainst": 26,
-          "goalDifference": 10
         },
         {
           "position": 6,
@@ -151,15 +151,15 @@
             "tla": "SCF",
             "crest": "https://crests.football-data.org/17.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 7,
           "draw": 6,
-          "lost": 6,
+          "lost": 7,
           "points": 27,
           "goalsFor": 31,
-          "goalsAgainst": 32,
-          "goalDifference": -1
+          "goalsAgainst": 33,
+          "goalDifference": -2
         },
         {
           "position": 8,
@@ -360,15 +360,15 @@
             "tla": "HEI",
             "crest": "https://crests.football-data.org/44.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 3,
           "draw": 4,
-          "lost": 12,
+          "lost": 13,
           "points": 13,
-          "goalsFor": 17,
-          "goalsAgainst": 42,
-          "goalDifference": -25
+          "goalsFor": 19,
+          "goalsAgainst": 45,
+          "goalDifference": -26
         }
       ]
     }

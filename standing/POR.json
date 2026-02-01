@@ -56,15 +56,15 @@
             "tla": "SPO",
             "crest": "https://crests.football-data.org/498.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
-          "won": 15,
+          "won": 16,
           "draw": 3,
           "lost": 1,
-          "points": 48,
-          "goalsFor": 52,
-          "goalsAgainst": 10,
-          "goalDifference": 42
+          "points": 51,
+          "goalsFor": 54,
+          "goalsAgainst": 11,
+          "goalDifference": 43
         },
         {
           "position": 3,
@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 5533,
+            "name": "Gil Vicente FC",
+            "shortName": "Gil Vicente",
+            "tla": "GIL",
+            "crest": "https://crests.football-data.org/5533.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 9,
+          "draw": 7,
+          "lost": 4,
+          "points": 34,
+          "goalsFor": 29,
+          "goalsAgainst": 16,
+          "goalDifference": 13
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 5613,
             "name": "Sporting Clube de Braga",
             "shortName": "Braga",
@@ -103,25 +122,6 @@
           "goalsFor": 37,
           "goalsAgainst": 18,
           "goalDifference": 19
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 5533,
-            "name": "Gil Vicente FC",
-            "shortName": "Gil Vicente",
-            "tla": "GIL",
-            "crest": "https://crests.football-data.org/5533.png"
-          },
-          "playedGames": 19,
-          "form": null,
-          "won": 8,
-          "draw": 7,
-          "lost": 4,
-          "points": 31,
-          "goalsFor": 24,
-          "goalsAgainst": 16,
-          "goalDifference": 8
         },
         {
           "position": 6,
@@ -145,25 +145,6 @@
         {
           "position": 7,
           "team": {
-            "id": 5531,
-            "name": "FC Famalicão",
-            "shortName": "Famalicão",
-            "tla": "FAM",
-            "crest": "https://crests.football-data.org/5531.png"
-          },
-          "playedGames": 19,
-          "form": null,
-          "won": 8,
-          "draw": 5,
-          "lost": 6,
-          "points": 29,
-          "goalsFor": 24,
-          "goalsAgainst": 14,
-          "goalDifference": 10
-        },
-        {
-          "position": 8,
-          "team": {
             "id": 582,
             "name": "GD Estoril Praia",
             "shortName": "Estoril Praia",
@@ -179,6 +160,25 @@
           "goalsFor": 41,
           "goalsAgainst": 33,
           "goalDifference": 8
+        },
+        {
+          "position": 8,
+          "team": {
+            "id": 5531,
+            "name": "FC Famalicão",
+            "shortName": "Famalicão",
+            "tla": "FAM",
+            "crest": "https://crests.football-data.org/5531.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 8,
+          "draw": 5,
+          "lost": 7,
+          "points": 29,
+          "goalsFor": 24,
+          "goalsAgainst": 19,
+          "goalDifference": 5
         },
         {
           "position": 9,
@@ -227,15 +227,15 @@
             "tla": "CDN",
             "crest": "https://crests.football-data.org/5529.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 5,
           "draw": 5,
-          "lost": 9,
+          "lost": 10,
           "points": 20,
-          "goalsFor": 26,
-          "goalsAgainst": 28,
-          "goalDifference": -2
+          "goalsFor": 27,
+          "goalsAgainst": 30,
+          "goalDifference": -3
         },
         {
           "position": 12,
