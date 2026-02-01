@@ -5360,8 +5360,8 @@
     "AwayTeamName": "Real Sociedad de Fútbol",
     "HomeTeamLogo": "https://crests.football-data.org/77.png",
     "AwayTeamLogo": "https://crests.football-data.org/92.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "77": 0,
@@ -5531,7 +5531,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-02-01",
     "DateTime": "2026-02-01T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 82,
@@ -5546,8 +5546,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "82": 0,
-      "558": 0
+      "82": 1,
+      "558": 1
     },
     "Goals": []
   },

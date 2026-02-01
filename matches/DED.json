@@ -4629,7 +4629,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-02-01",
     "DateTime": "2026-02-01T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1919,
@@ -4640,12 +4640,12 @@
     "AwayTeamName": "Go Ahead Eagles",
     "HomeTeamLogo": "https://crests.football-data.org/1919.png",
     "AwayTeamLogo": "https://crests.football-data.org/718.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "1919": 0,
-      "718": 0
+      "1919": 1,
+      "718": 1
     },
     "Goals": []
   },
