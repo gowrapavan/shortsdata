@@ -4439,7 +4439,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-01",
     "DateTime": "2026-02-01T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 511,
@@ -4450,12 +4450,12 @@
     "AwayTeamName": "AJ Auxerre",
     "HomeTeamLogo": "https://crests.football-data.org/511.png",
     "AwayTeamLogo": "https://crests.football-data.org/519.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "511": 0,
-      "519": 0
+      "511": 1,
+      "519": 1
     },
     "Goals": []
   },
@@ -4465,7 +4465,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-01",
     "DateTime": "2026-02-01T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 522,
@@ -4476,12 +4476,12 @@
     "AwayTeamName": "Stade Brestois 29",
     "HomeTeamLogo": "https://crests.football-data.org/522.png",
     "AwayTeamLogo": "https://crests.football-data.org/512.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "522": 0,
-      "512": 0
+      "522": 1,
+      "512": 1
     },
     "Goals": []
   },
@@ -4491,7 +4491,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-01",
     "DateTime": "2026-02-01T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 523,
@@ -4504,9 +4504,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/521.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 523,
     "Points": {
-      "523": 0,
+      "523": 3,
       "521": 0
     },
     "Goals": []
@@ -4569,7 +4569,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-01",
     "DateTime": "2026-02-01T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 532,
@@ -4580,11 +4580,11 @@
     "AwayTeamName": "FC Metz",
     "HomeTeamLogo": "https://crests.football-data.org/532.png",
     "AwayTeamLogo": "https://crests.football-data.org/545.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 532,
     "Points": {
-      "532": 0,
+      "532": 3,
       "545": 0
     },
     "Goals": []

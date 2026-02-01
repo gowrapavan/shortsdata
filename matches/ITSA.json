@@ -5671,7 +5671,7 @@
     "RoundName": "Serie A",
     "Date": "2026-02-01",
     "DateTime": "2026-02-01T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 7397,
@@ -5686,8 +5686,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "7397": 0,
-      "102": 0
+      "7397": 1,
+      "102": 1
     },
     "Goals": []
   },
@@ -5890,8 +5890,8 @@
     "AwayTeamName": "FC Internazionale Milano",
     "HomeTeamLogo": "https://crests.football-data.org/457.png",
     "AwayTeamLogo": "https://crests.football-data.org/108.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "457": 0,
