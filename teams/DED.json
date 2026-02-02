@@ -23,6 +23,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -51,6 +58,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "1990-07-20",
         "nationality": "Germany"
+      },
+      {
+        "id": 67882,
+        "name": "Issam El Maach",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2000-02-01",
+        "nationality": "Morocco"
       },
       {
         "id": 179467,
@@ -165,13 +179,6 @@
         "nationality": "USA"
       },
       {
-        "id": 137026,
-        "name": "Naci Ünüvar",
-        "position": "Left Winger",
-        "dateOfBirth": "2003-06-13",
-        "nationality": "Turkey"
-      },
-      {
         "id": 128457,
         "name": "Mathias Kjølø",
         "position": "Defensive Midfield",
@@ -269,6 +276,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -515,6 +529,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -530,6 +551,13 @@
       }
     },
     "squad": [
+      {
+        "id": 7578,
+        "name": "Remko Pasveer",
+        "position": "Goalkeeper",
+        "dateOfBirth": "1983-11-08",
+        "nationality": "Netherlands"
+      },
       {
         "id": 56070,
         "name": "Robin Mantel",
@@ -594,11 +622,11 @@
         "nationality": "Netherlands"
       },
       {
-        "id": 150521,
-        "name": "Sava Cestic",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-02-19",
-        "nationality": "Serbia"
+        "id": 137026,
+        "name": "Naci Ünüvar",
+        "position": "Left Winger",
+        "dateOfBirth": "2003-06-13",
+        "nationality": "Turkey"
       },
       {
         "id": 130178,
@@ -741,11 +769,11 @@
         "nationality": "Netherlands"
       },
       {
-        "id": 158876,
-        "name": "Lorenzo Milani",
-        "position": "Left-Back",
-        "dateOfBirth": "2001-05-22",
-        "nationality": "Italy"
+        "id": 150521,
+        "name": "Sava Cestic",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-02-19",
+        "nationality": "Serbia"
       }
     ],
     "staff": [],
@@ -775,6 +803,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -924,27 +959,6 @@
         "nationality": "Netherlands"
       },
       {
-        "id": 263863,
-        "name": "Isaiah Ahmed",
-        "position": "Central Midfield",
-        "dateOfBirth": "2005-12-28",
-        "nationality": "Curaçao"
-      },
-      {
-        "id": 214414,
-        "name": "Oliver Braude",
-        "position": "Right-Back",
-        "dateOfBirth": "2004-02-21",
-        "nationality": "Norway"
-      },
-      {
-        "id": 210841,
-        "name": "Jacob Trenskow",
-        "position": "Right Winger",
-        "dateOfBirth": "2000-11-26",
-        "nationality": "Denmark"
-      },
-      {
         "id": 171627,
         "name": "Levi Smans",
         "position": "Attacking Midfield",
@@ -999,6 +1013,34 @@
         "position": "Centre-Forward",
         "dateOfBirth": "1999-05-09",
         "nationality": "Suriname"
+      },
+      {
+        "id": 292039,
+        "name": "Ingmar Mulder",
+        "position": null,
+        "dateOfBirth": "2005-01-23",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 263863,
+        "name": "Isaiah Ahmed",
+        "position": "Central Midfield",
+        "dateOfBirth": "2005-12-28",
+        "nationality": "Curaçao"
+      },
+      {
+        "id": 214414,
+        "name": "Oliver Braude",
+        "position": "Right-Back",
+        "dateOfBirth": "2004-02-21",
+        "nationality": "Norway"
+      },
+      {
+        "id": 210841,
+        "name": "Jacob Trenskow",
+        "position": "Right Winger",
+        "dateOfBirth": "2000-11-26",
+        "nationality": "Denmark"
       }
     ],
     "staff": [],
@@ -1028,6 +1070,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       },
       {
         "id": 2001,
@@ -1084,13 +1133,6 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2006-04-08",
         "nationality": "Netherlands"
-      },
-      {
-        "id": 165162,
-        "name": "Adamo Nagalo",
-        "position": "Defence",
-        "dateOfBirth": "2002-09-22",
-        "nationality": "Burkina Faso"
       },
       {
         "id": 278178,
@@ -1309,6 +1351,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       },
       {
         "id": 2146,
@@ -1634,6 +1683,13 @@
         "emblem": "https://crests.football-data.org/ED.png"
       },
       {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
+      },
+      {
         "id": 2146,
         "name": "UEFA Europa League",
         "code": "EL",
@@ -1739,6 +1795,13 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 133191,
+        "name": "Davy van den Berg",
+        "position": "Central Midfield",
+        "dateOfBirth": "2000-02-04",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 128339,
         "name": "Alonzo Engwanda",
         "position": "Defensive Midfield",
@@ -1837,11 +1900,25 @@
         "nationality": "Ivory Coast"
       },
       {
+        "id": 265560,
+        "name": "Artem Stepanov",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2007-08-10",
+        "nationality": "Ukraine"
+      },
+      {
         "id": 215554,
         "name": "Gjivai Zechiël",
         "position": "Defensive Midfield",
         "dateOfBirth": "2004-06-01",
         "nationality": "Netherlands"
+      },
+      {
+        "id": 191058,
+        "name": "Angel Alarcon",
+        "position": "Left Winger",
+        "dateOfBirth": "2004-05-15",
+        "nationality": "Spain"
       },
       {
         "id": 182186,
@@ -1877,13 +1954,6 @@
         "position": "Central Midfield",
         "dateOfBirth": "2001-04-05",
         "nationality": "Germany"
-      },
-      {
-        "id": 133191,
-        "name": "Davy van den Berg",
-        "position": "Central Midfield",
-        "dateOfBirth": "2000-02-04",
-        "nationality": "Netherlands"
       }
     ],
     "staff": [],
@@ -1913,6 +1983,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -2013,13 +2090,6 @@
         "nationality": "Poland"
       },
       {
-        "id": 214171,
-        "name": "Kristian Lien",
-        "position": "Offence",
-        "dateOfBirth": "2001-09-30",
-        "nationality": "Norway"
-      },
-      {
         "id": 244847,
         "name": "Nils Eggens",
         "position": "Offence",
@@ -2046,13 +2116,6 @@
         "position": "Offence",
         "dateOfBirth": "2008-08-28",
         "nationality": "Netherlands"
-      },
-      {
-        "id": 204719,
-        "name": "Travis Hernes",
-        "position": "Central Midfield",
-        "dateOfBirth": "2005-11-04",
-        "nationality": "Norway"
       },
       {
         "id": 190468,
@@ -2158,6 +2221,13 @@
         "position": "Centre-Back",
         "dateOfBirth": "2006-01-17",
         "nationality": "Netherlands"
+      },
+      {
+        "id": 204719,
+        "name": "Travis Hernes",
+        "position": "Central Midfield",
+        "dateOfBirth": "2005-11-04",
+        "nationality": "Norway"
       }
     ],
     "staff": [],
@@ -2189,6 +2259,13 @@
         "emblem": "https://crests.football-data.org/ED.png"
       },
       {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
+      },
+      {
         "id": 2001,
         "name": "UEFA Champions League",
         "code": "CL",
@@ -2209,13 +2286,6 @@
       }
     },
     "squad": [
-      {
-        "id": 7578,
-        "name": "Remko Pasveer",
-        "position": "Goalkeeper",
-        "dateOfBirth": "1983-11-08",
-        "nationality": "Netherlands"
-      },
       {
         "id": 152579,
         "name": "Vítězslav Jaroš",
@@ -2336,6 +2406,13 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 189574,
+        "name": "Mika Godts",
+        "position": "Left Winger",
+        "dateOfBirth": "2005-06-07",
+        "nationality": "Belgium"
+      },
+      {
         "id": 188830,
         "name": "Lucas Rosa",
         "position": "Right-Back",
@@ -2425,13 +2502,6 @@
         "position": "Right Winger",
         "dateOfBirth": "1991-12-19",
         "nationality": "Netherlands"
-      },
-      {
-        "id": 189574,
-        "name": "Mika Godts",
-        "position": "Left Winger",
-        "dateOfBirth": "2005-06-07",
-        "nationality": "Belgium"
       }
     ],
     "staff": [],
@@ -2461,6 +2531,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -2582,6 +2659,48 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 245796,
+        "name": "Cherrion Valerius",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-09-22",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 233584,
+        "name": "Juho Talvitie",
+        "position": "Right Winger",
+        "dateOfBirth": "2005-03-25",
+        "nationality": "Finland"
+      },
+      {
+        "id": 193091,
+        "name": "Raul Paula",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "1976-06-26",
+        "nationality": "Germany"
+      },
+      {
+        "id": 191040,
+        "name": "Moussa Soumano",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2005-07-09",
+        "nationality": "France"
+      },
+      {
+        "id": 154112,
+        "name": "Mohamed Nassoh",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2003-01-26",
+        "nationality": "Morocco"
+      },
+      {
+        "id": 150572,
+        "name": "Casper Staring",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2001-02-01",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 125169,
         "name": "Charles-Andréas Brym",
         "position": "Centre-Forward",
@@ -2601,13 +2720,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "1997-05-22",
         "nationality": "Luxembourg"
-      },
-      {
-        "id": 80336,
-        "name": "Sydney van Hooijdonk",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2000-02-06",
-        "nationality": "Netherlands"
       },
       {
         "id": 67887,
@@ -2650,48 +2762,6 @@
         "position": "Central Midfield",
         "dateOfBirth": "1990-09-18",
         "nationality": "Germany"
-      },
-      {
-        "id": 245796,
-        "name": "Cherrion Valerius",
-        "position": "Centre-Back",
-        "dateOfBirth": "2005-09-22",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 233584,
-        "name": "Juho Talvitie",
-        "position": "Right Winger",
-        "dateOfBirth": "2005-03-25",
-        "nationality": "Finland"
-      },
-      {
-        "id": 193091,
-        "name": "Raul Paula",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "1976-06-26",
-        "nationality": "Germany"
-      },
-      {
-        "id": 191040,
-        "name": "Moussa Soumano",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2005-07-09",
-        "nationality": "France"
-      },
-      {
-        "id": 154112,
-        "name": "Mohamed Nassoh",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2003-01-26",
-        "nationality": "Morocco"
-      },
-      {
-        "id": 150572,
-        "name": "Casper Staring",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2001-02-01",
-        "nationality": "Netherlands"
       }
     ],
     "staff": [],
@@ -2721,6 +2791,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       },
       {
         "id": 2154,
@@ -2800,6 +2877,13 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 291986,
+        "name": "Rion Ichihara",
+        "position": "Defence",
+        "dateOfBirth": "2005-07-07",
+        "nationality": "Japan"
+      },
+      {
         "id": 153974,
         "name": "Isak Jensen",
         "position": "Midfield",
@@ -2847,13 +2931,6 @@
         "position": "Offence",
         "dateOfBirth": "2003-10-01",
         "nationality": "Brazil"
-      },
-      {
-        "id": 244046,
-        "name": "Sem van Duijn",
-        "position": "Offence",
-        "dateOfBirth": "2004-03-18",
-        "nationality": "Netherlands"
       },
       {
         "id": 250087,
@@ -3002,6 +3079,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -3278,6 +3362,13 @@
         "emblem": "https://crests.football-data.org/ED.png"
       },
       {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
+      },
+      {
         "id": 2146,
         "name": "UEFA Europa League",
         "code": "EL",
@@ -3369,13 +3460,6 @@
         "nationality": "Netherlands"
       },
       {
-        "id": 178570,
-        "name": "Milan Smit",
-        "position": "Offence",
-        "dateOfBirth": "2003-02-13",
-        "nationality": "Netherlands"
-      },
-      {
         "id": 180531,
         "name": "Oskar Sivertsen",
         "position": "Offence",
@@ -3395,6 +3479,48 @@
         "position": "Offence",
         "dateOfBirth": null,
         "nationality": "Ghana"
+      },
+      {
+        "id": 187185,
+        "name": "Robbin Weijenberg",
+        "position": "Central Midfield",
+        "dateOfBirth": "2001-05-21",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 187178,
+        "name": "Pim Saathof",
+        "position": "Right-Back",
+        "dateOfBirth": "2003-12-28",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 186571,
+        "name": "Aske Adelgaard",
+        "position": "Left-Back",
+        "dateOfBirth": "2003-11-10",
+        "nationality": "Denmark"
+      },
+      {
+        "id": 157121,
+        "name": "Julius Dirksen",
+        "position": "Centre-Back",
+        "dateOfBirth": "2003-02-02",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 152412,
+        "name": "Calvin Twigt",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2003-01-30",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 151613,
+        "name": "Mathis Suray",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2001-07-26",
+        "nationality": "Belgium"
       },
       {
         "id": 149091,
@@ -3472,48 +3598,6 @@
         "position": "Defensive Midfield",
         "dateOfBirth": "2000-03-03",
         "nationality": "Netherlands"
-      },
-      {
-        "id": 187185,
-        "name": "Robbin Weijenberg",
-        "position": "Central Midfield",
-        "dateOfBirth": "2001-05-21",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 187178,
-        "name": "Pim Saathof",
-        "position": "Right-Back",
-        "dateOfBirth": "2003-12-28",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 186571,
-        "name": "Aske Adelgaard",
-        "position": "Left-Back",
-        "dateOfBirth": "2003-11-10",
-        "nationality": "Denmark"
-      },
-      {
-        "id": 157121,
-        "name": "Julius Dirksen",
-        "position": "Centre-Back",
-        "dateOfBirth": "2003-02-02",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 152412,
-        "name": "Calvin Twigt",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2003-01-30",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 151613,
-        "name": "Mathis Suray",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2001-07-26",
-        "nationality": "Belgium"
       }
     ],
     "staff": [],
@@ -3543,6 +3627,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -3695,7 +3786,7 @@
         "id": 279131,
         "name": "Rayyan Koubini",
         "position": "Midfield",
-        "dateOfBirth": null,
+        "dateOfBirth": "2005-06-06",
         "nationality": "Netherlands"
       },
       {
@@ -3720,17 +3811,17 @@
         "nationality": "Netherlands"
       },
       {
-        "id": 227948,
-        "name": "Sebastiaan Hagedoorn",
-        "position": "Offence",
-        "dateOfBirth": "2004-11-30",
-        "nationality": "Netherlands"
-      },
-      {
         "id": 243902,
         "name": "Milan Zonneveld",
         "position": "Offence",
         "dateOfBirth": "2003-10-08",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 244046,
+        "name": "Sem van Duijn",
+        "position": "Offence",
+        "dateOfBirth": "2004-03-18",
         "nationality": "Netherlands"
       },
       {
@@ -3782,6 +3873,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -3924,55 +4022,6 @@
         "nationality": "Netherlands"
       },
       {
-        "id": 150656,
-        "name": "Ahmetcan Kaplan",
-        "position": "Centre-Back",
-        "dateOfBirth": "2003-01-16",
-        "nationality": "Turkey"
-      },
-      {
-        "id": 131178,
-        "name": "Dirk Proper",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2002-02-24",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 108460,
-        "name": "Lars Olden Larsen",
-        "position": "Right Winger",
-        "dateOfBirth": "1998-09-17",
-        "nationality": "Norway"
-      },
-      {
-        "id": 48659,
-        "name": "Koki Ogawa",
-        "position": "Centre-Forward",
-        "dateOfBirth": "1997-08-08",
-        "nationality": "Japan"
-      },
-      {
-        "id": 7726,
-        "name": "Philippe Sandler",
-        "position": "Centre-Back",
-        "dateOfBirth": "1997-02-10",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 7685,
-        "name": "Thomas Ouwejan",
-        "position": "Left-Back",
-        "dateOfBirth": "1996-09-30",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 2119,
-        "name": "Bram Nuytinck",
-        "position": "Centre-Back",
-        "dateOfBirth": "1990-05-04",
-        "nationality": "Netherlands"
-      },
-      {
         "id": 260721,
         "name": "Luc Nieuwenhuijs",
         "position": "Left Winger",
@@ -4013,6 +4062,48 @@
         "position": "Right-Back",
         "dateOfBirth": "2003-05-21",
         "nationality": "France"
+      },
+      {
+        "id": 150656,
+        "name": "Ahmetcan Kaplan",
+        "position": "Centre-Back",
+        "dateOfBirth": "2003-01-16",
+        "nationality": "Turkey"
+      },
+      {
+        "id": 131178,
+        "name": "Dirk Proper",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2002-02-24",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 48659,
+        "name": "Koki Ogawa",
+        "position": "Centre-Forward",
+        "dateOfBirth": "1997-08-08",
+        "nationality": "Japan"
+      },
+      {
+        "id": 7726,
+        "name": "Philippe Sandler",
+        "position": "Centre-Back",
+        "dateOfBirth": "1997-02-10",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 7685,
+        "name": "Thomas Ouwejan",
+        "position": "Left-Back",
+        "dateOfBirth": "1996-09-30",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 2119,
+        "name": "Bram Nuytinck",
+        "position": "Centre-Back",
+        "dateOfBirth": "1990-05-04",
+        "nationality": "Netherlands"
       }
     ],
     "staff": [],
@@ -4042,6 +4133,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -4166,7 +4264,7 @@
         "id": 215429,
         "name": "Nordin Bukala",
         "position": "Midfield",
-        "dateOfBirth": null,
+        "dateOfBirth": "2005-09-18",
         "nationality": "Netherlands"
       },
       {
@@ -4194,7 +4292,7 @@
         "id": 282705,
         "name": "Robin van Cruijsen",
         "position": "Midfield",
-        "dateOfBirth": null,
+        "dateOfBirth": "2006-02-20",
         "nationality": "Netherlands"
       },
       {
@@ -4203,6 +4301,13 @@
         "position": "Offence",
         "dateOfBirth": "1991-02-26",
         "nationality": "Netherlands"
+      },
+      {
+        "id": 7510,
+        "name": "Bilal Ould-Chikh",
+        "position": "Offence",
+        "dateOfBirth": "1997-07-28",
+        "nationality": "Morocco"
       },
       {
         "id": 7773,
@@ -4295,6 +4400,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -4430,41 +4542,6 @@
         "nationality": "France"
       },
       {
-        "id": 262333,
-        "name": "Luka Tunjic",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2005-11-19",
-        "nationality": "Bosnia-Herzegovina"
-      },
-      {
-        "id": 244801,
-        "name": "Justin Hubner",
-        "position": "Centre-Back",
-        "dateOfBirth": "2003-09-14",
-        "nationality": "Indonesia"
-      },
-      {
-        "id": 150541,
-        "name": "Jasper Dahlhaus",
-        "position": "Left Midfield",
-        "dateOfBirth": "2001-11-27",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 149037,
-        "name": "Syb Van Ottele",
-        "position": "Centre-Back",
-        "dateOfBirth": "2002-02-02",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 127235,
-        "name": "Neraysho Kasanwirjo",
-        "position": "Right-Back",
-        "dateOfBirth": "2002-02-18",
-        "nationality": "Netherlands"
-      },
-      {
         "id": 122378,
         "name": "Shawn Adewoye",
         "position": "Centre-Back",
@@ -4519,6 +4596,48 @@
         "position": "Central Midfield",
         "dateOfBirth": "1996-09-26",
         "nationality": "DR Congo"
+      },
+      {
+        "id": 292026,
+        "name": "Lars Van Parys",
+        "position": null,
+        "dateOfBirth": "2006-10-07",
+        "nationality": "Belgium"
+      },
+      {
+        "id": 262333,
+        "name": "Luka Tunjic",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2005-11-19",
+        "nationality": "Bosnia-Herzegovina"
+      },
+      {
+        "id": 244801,
+        "name": "Justin Hubner",
+        "position": "Centre-Back",
+        "dateOfBirth": "2003-09-14",
+        "nationality": "Indonesia"
+      },
+      {
+        "id": 150541,
+        "name": "Jasper Dahlhaus",
+        "position": "Left Midfield",
+        "dateOfBirth": "2001-11-27",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 149037,
+        "name": "Syb Van Ottele",
+        "position": "Centre-Back",
+        "dateOfBirth": "2002-02-02",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 127235,
+        "name": "Neraysho Kasanwirjo",
+        "position": "Right-Back",
+        "dateOfBirth": "2002-02-18",
+        "nationality": "Netherlands"
       }
     ],
     "staff": [],
@@ -4548,6 +4667,13 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
+      },
+      {
+        "id": 2109,
+        "name": "KNVB Beker",
+        "code": "KNV",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
