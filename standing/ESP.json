@@ -278,40 +278,40 @@
         {
           "position": 14,
           "team": {
+            "id": 89,
+            "name": "RCD Mallorca",
+            "shortName": "Mallorca",
+            "tla": "MAL",
+            "crest": "https://crests.football-data.org/89.png"
+          },
+          "playedGames": 22,
+          "form": null,
+          "won": 6,
+          "draw": 6,
+          "lost": 10,
+          "points": 24,
+          "goalsFor": 28,
+          "goalsAgainst": 34,
+          "goalDifference": -6
+        },
+        {
+          "position": 15,
+          "team": {
             "id": 559,
             "name": "Sevilla FC",
             "shortName": "Sevilla FC",
             "tla": "SEV",
             "crest": "https://crests.football-data.org/559.png"
           },
-          "playedGames": 21,
+          "playedGames": 22,
           "form": null,
           "won": 7,
           "draw": 3,
-          "lost": 11,
+          "lost": 12,
           "points": 24,
-          "goalsFor": 28,
-          "goalsAgainst": 33,
-          "goalDifference": -5
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 82,
-            "name": "Getafe CF",
-            "shortName": "Getafe",
-            "tla": "GET",
-            "crest": "https://crests.football-data.org/82.png"
-          },
-          "playedGames": 22,
-          "form": null,
-          "won": 6,
-          "draw": 5,
-          "lost": 11,
-          "points": 23,
-          "goalsFor": 16,
-          "goalsAgainst": 27,
-          "goalDifference": -11
+          "goalsFor": 29,
+          "goalsAgainst": 37,
+          "goalDifference": -8
         },
         {
           "position": 16,
@@ -335,6 +335,25 @@
         {
           "position": 17,
           "team": {
+            "id": 82,
+            "name": "Getafe CF",
+            "shortName": "Getafe",
+            "tla": "GET",
+            "crest": "https://crests.football-data.org/82.png"
+          },
+          "playedGames": 22,
+          "form": null,
+          "won": 6,
+          "draw": 5,
+          "lost": 11,
+          "points": 23,
+          "goalsFor": 16,
+          "goalsAgainst": 27,
+          "goalDifference": -11
+        },
+        {
+          "position": 18,
+          "team": {
             "id": 87,
             "name": "Rayo Vallecano de Madrid",
             "shortName": "Rayo Vallecano",
@@ -350,25 +369,6 @@
           "goalsFor": 18,
           "goalsAgainst": 30,
           "goalDifference": -12
-        },
-        {
-          "position": 18,
-          "team": {
-            "id": 89,
-            "name": "RCD Mallorca",
-            "shortName": "Mallorca",
-            "tla": "MAL",
-            "crest": "https://crests.football-data.org/89.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 5,
-          "draw": 6,
-          "lost": 10,
-          "points": 21,
-          "goalsFor": 24,
-          "goalsAgainst": 33,
-          "goalDifference": -9
         },
         {
           "position": 19,
