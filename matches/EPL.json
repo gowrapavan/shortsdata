@@ -5885,7 +5885,7 @@
     "RoundName": "Premier League",
     "Date": "2026-02-02",
     "DateTime": "2026-02-02T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 71,
@@ -5896,11 +5896,11 @@
     "AwayTeamName": "Burnley FC",
     "HomeTeamLogo": "https://crests.football-data.org/71.png",
     "AwayTeamLogo": "https://crests.football-data.org/328.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
+    "Result": 71,
     "Points": {
-      "71": 0,
+      "71": 3,
       "328": 0
     },
     "Goals": []
