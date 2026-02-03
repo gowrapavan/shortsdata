@@ -5477,9 +5477,9 @@
     "GameId": 540928,
     "RoundId": 30,
     "RoundName": "Championship",
-    "Date": "2025-12-06",
-    "DateTime": "2025-12-06T15:00:00Z",
-    "Status": "Scheduled",
+    "Date": "2026-02-03",
+    "DateTime": "2026-02-03T19:45:00Z",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 59,
@@ -5490,12 +5490,12 @@
     "AwayTeamName": "Sheffield Wednesday FC",
     "HomeTeamLogo": "https://crests.football-data.org/59.png",
     "AwayTeamLogo": "https://crests.football-data.org/345.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 0,
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "59": 0,
-      "345": 0
+      "59": 1,
+      "345": 1
     },
     "Goals": []
   },
@@ -7778,8 +7778,8 @@
     "AwayTeamName": "Watford FC",
     "HomeTeamLogo": "https://crests.football-data.org/322.png",
     "AwayTeamLogo": "https://crests.football-data.org/346.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null,
     "Result": null,
     "Points": {
       "322": 0,
@@ -7960,8 +7960,8 @@
     "AwayTeamName": "Oxford United FC",
     "HomeTeamLogo": "https://crests.football-data.org/356.png",
     "AwayTeamLogo": "https://crests.football-data.org/1082.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": null,
+    "AwayTeamScore": null,
     "Result": null,
     "Points": {
       "356": 0,
