@@ -17,14 +17,14 @@
     "home_team": "Albacete",
     "away_team": "Barcelona",
     "label": "alb-bar",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
     "away_logo": "https://crests.football-data.org/80.png",
     "url": "https://gametimes.top/home/blog2/"
   },
   {
     "time": "20:45",
     "game": "football",
-    "league": "ligue1",
+    "league": "seriea",
     "home_team": "Bologna",
     "away_team": "Milan",
     "label": "bol-mil",
@@ -40,7 +40,29 @@
     "away_team": "",
     "label": "ovogoal",
     "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
     "url": "https://matchify.zip/nflhome/blog1/"
+  },
+  {
+    "time": "21:00",
+    "game": "football",
+    "league": "premier",
+    "home_team": "Man City",
+    "away_team": "Newcastle",
+    "label": "man-new",
+    "home_logo": "https://crests.football-data.org/65.png",
+    "away_logo": "https://crests.football-data.org/67.png",
+    "url": "https://gametimes.top/home/blog1/"
+  },
+  {
+    "time": "20:45",
+    "game": "football",
+    "league": "seriea",
+    "home_team": "Inter",
+    "away_team": "Torino",
+    "label": "int-tor",
+    "home_logo": "https://crests.football-data.org/108.png",
+    "away_logo": "https://crests.football-data.org/586.png",
+    "url": "https://gametimes.top/home/blog2/"
   }
 ]
