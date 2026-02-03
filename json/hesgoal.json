@@ -1,196 +1,290 @@
 [
   {
-    "time": "2026-02-04 01:00 IST",
+    "time": "2026-02-04 14:30 IST",
+    "game": "football",
+    "league": "UEFA Youth League - Round of 32",
+    "home_team": "Atletico Madrid U19",
+    "away_team": "Dynamo Kyiv U19",
+    "label": "atl-dyn",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/27526",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/27482",
+    "url": "https://yallashoot.cfd/albaplayer/dynamo-kyiv-u19-vs-atletico-madrid-u19/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-04 18:30 IST",
+    "game": "football",
+    "league": "UEFA Youth League - Round of 32",
+    "home_team": "Ajax U19",
+    "away_team": "Legia Warszawa U19",
+    "label": "aja-leg",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/29172",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/44906",
+    "url": "https://yallashoot.cfd/albaplayer/legia-warszawa-u19-vs-ajax-u19/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-04 19:00 IST",
+    "game": "football",
+    "league": "UEFA Youth League - Round of 32",
+    "home_team": "Dinamo Minsk U19",
+    "away_team": "PSG U19",
+    "label": "din-psg",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/67921",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/27524",
+    "url": "https://yallashoot.cfd/albaplayer/psg-u19-vs-dinamo-minsk-u19/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-04 20:30 IST",
+    "game": "football",
+    "league": "Premier League",
+    "home_team": "Al Masry",
+    "away_team": "Zed FC",
+    "label": "alm-zed",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8303.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/29732.png",
+    "url": "https://yallashoot.cfd/albaplayer/zed-fc-vs-al-masry/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-04 20:30 IST",
+    "game": "football",
+    "league": "Premier League",
+    "home_team": "Pyramids",
+    "away_team": "Smouha",
+    "label": "pyr-smo",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/22143.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8309.png",
+    "url": "https://yallashoot.cfd/albaplayer/smouha-vs-pyramids/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-04 20:30 IST",
+    "game": "football",
+    "league": "UEFA Youth League - Round of 32",
+    "home_team": "Bayer Leverkusen U19",
+    "away_team": "Villarreal U19",
+    "label": "bay-vil",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/27484",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/68902",
+    "url": "https://yallashoot.cfd/albaplayer/villarreal-u19-vs-bayer-leverkusen-u19/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-04 20:30 IST",
+    "game": "football",
+    "league": "UEFA Youth League - Round of 32",
+    "home_team": "Slavia Praha U19",
+    "away_team": "Benfica U19",
+    "label": "sla-ben",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/57086",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/27515",
+    "url": "https://yallashoot.cfd/albaplayer/benfica-u19-vs-slavia-praha-u19/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-04 20:30 IST",
+    "game": "football",
+    "league": "UEFA Youth League - Round of 32",
+    "home_team": "Barcelona U19",
+    "away_team": "Maccabi Haifa U19",
+    "label": "bar-mac",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/27492",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8181",
+    "url": "https://yallashoot.cfd/albaplayer/maccabi-haifa-u19-vs-barcelona-u19/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-04 20:30 IST",
+    "game": "football",
+    "league": "UEFA Youth League - Round of 32",
+    "home_team": "Manchester City U19",
+    "away_team": "HJK U19",
+    "label": "man-hjk",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/27511",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/54194",
+    "url": "https://yallashoot.cfd/albaplayer/hjk-u19-vs-manchester-city-u19/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-04 21:00 IST",
+    "game": "football",
+    "league": "UEFA Youth League - Round of 32",
+    "home_team": "Sporting CP U19",
+    "away_team": "Puskas Akademia U19",
+    "label": "spo-pus",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/44910",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/77316",
+    "url": "https://yallashoot.cfd/albaplayer/puskas-akademia-u19-vs-sporting-cp-u19/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-04 22:30 IST",
+    "game": "football",
+    "league": "UEFA Youth League - Round of 32",
+    "home_team": "Tottenham U19",
+    "away_team": "Real Betis U19",
+    "label": "tot-rea",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/44909.png",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/84774",
+    "url": "https://yallashoot.cfd/albaplayer/real-betis-u19-vs-tottenham-u19/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-04 22:30 IST",
+    "game": "football",
+    "league": "UEFA Youth League - Round of 32",
+    "home_team": "Inter Milan U19",
+    "away_team": "Köln U19",
+    "label": "int-kln",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/50053",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/67925",
+    "url": "https://yallashoot.cfd/albaplayer/köln-u19-vs-inter-milan-u19/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-04 23:30 IST",
+    "game": "football",
+    "league": "Premier League",
+    "home_team": "Zamalek SC",
+    "away_team": "Kahrbaa Alasmalia",
+    "label": "zam-kah",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8201.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/19506.png",
+    "url": "https://yallashoot.cfd/albaplayer/kahrbaa-alasmalia-vs-zamalek-sc/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-05 01:00 IST",
     "game": "football",
     "league": "Coupe de France - Round of 16",
-    "home_team": "Le Mans",
-    "away_team": "Reims",
-    "label": "lem-rei",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/468.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/499.png",
-    "url": "",
+    "home_team": "Laval",
+    "away_team": "Lyon",
+    "label": "lav-lyo",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/5434.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/465.png",
+    "url": "https://yallashoot.cfd/albaplayer/lyon-vs-laval/",
     "servers": []
   },
   {
-    "time": "2026-02-04 01:15 IST",
+    "time": "2026-02-05 01:00 IST",
     "game": "football",
-    "league": "Serie A",
-    "home_team": "AC Milan",
-    "away_team": "Bologna",
-    "label": "acm-bol",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/227.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/245.png",
-    "url": "",
+    "league": "Coupe de France - Round of 16",
+    "home_team": "Montpellier",
+    "away_team": "OGC Nice",
+    "label": "mon-ogc",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/491.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/470.png",
+    "url": "https://yallashoot.cfd/albaplayer/ogc-nice-vs-montpellier/",
     "servers": []
   },
   {
-    "time": "2026-02-04 01:15 IST",
+    "time": "2026-02-05 01:00 IST",
     "game": "football",
-    "league": "Championship",
-    "home_team": "Oxford United",
-    "away_team": "Sheffield Utd",
-    "label": "oxf-she",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/87.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/20.png",
-    "url": "",
+    "league": "Coupe de France - Round of 16",
+    "home_team": "Paris FC",
+    "away_team": "Lorient",
+    "label": "par-lor",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/6075",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/472.png",
+    "url": "https://yallashoot.cfd/albaplayer/lorient-vs-paris-fc/",
     "servers": []
   },
   {
-    "time": "2026-02-04 01:15 IST",
+    "time": "2026-02-05 01:00 IST",
     "game": "football",
-    "league": "Championship",
-    "home_team": "Ipswich",
-    "away_team": "Portsmouth",
-    "label": "ips-por",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/9.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/111.png",
-    "url": "",
+    "league": "Coupe de France - Round of 16",
+    "home_team": "Amiens",
+    "away_team": "Toulouse",
+    "label": "ami-tou",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/497.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/482.png",
+    "url": "https://yallashoot.cfd/albaplayer/toulouse-vs-amiens/",
     "servers": []
   },
   {
-    "time": "2026-02-04 01:15 IST",
-    "game": "football",
-    "league": "Championship",
-    "home_team": "Watford FC",
-    "away_team": "Hull City",
-    "label": "wat-hul",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/4.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/11.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-02-04 01:15 IST",
-    "game": "football",
-    "league": "Championship",
-    "home_team": "Sheffield Wed",
-    "away_team": "Blackburn Rovers",
-    "label": "she-bla",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/25.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/112.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-02-04 01:15 IST",
+    "time": "2026-02-05 01:15 IST",
     "game": "football",
     "league": "DFB-Pokal - Quarter Finals",
-    "home_team": "St. Pauli",
-    "away_team": "Bayer Leverkusen",
-    "label": "stp-bay",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/359.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/333.png",
-    "url": "",
+    "home_team": "Stuttgart",
+    "away_team": "Holstein Kiel",
+    "label": "stu-hol",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/338.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/430.png",
+    "url": "https://yallashoot.cfd/albaplayer/holstein-kiel-vs-stuttgart/",
     "servers": []
   },
   {
-    "time": "2026-02-04 01:30 IST",
+    "time": "2026-02-05 01:30 IST",
     "game": "football",
     "league": "EFL Cup - Semi Finals",
-    "home_team": "Chelsea",
-    "away_team": "Arsenal",
-    "label": "che-ars",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/106.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/104.png",
-    "url": "https://gametimes.top/home/blog1/",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://gametimes.top/home/blog1/"
-      },
-      {
-        "name": "BeinFr",
-        "url": "https://bolaloca.my/player/4/3"
-      },
-      {
-        "name": "SkyMain",
-        "url": "https://bolaloca.my/player/4/127"
-      },
-      {
-        "name": "SkyDe",
-        "url": "https://bolaloca.my/player/4/120"
-      },
-      {
-        "name": "SporTv",
-        "url": "https://bolaloca.my/player/4/144"
-      },
-      {
-        "name": "EspnEs",
-        "url": "https://bolaloca.my/player/4/87"
-      },
-      {
-        "name": "EspnMix",
-        "url": "https://bolaloca.my/player/4/98"
-      },
-      {
-        "name": "بث1",
-        "url": "https://lovecdn.ru/daddy.php?stream=beINAR1"
-      },
-      {
-        "name": "2بث",
-        "url": "https://tv3.koora-stream.top/chtv/ch1.php"
-      },
-      {
-        "name": "سرفرات عديدة",
-        "url": "https://yallashoot.cfd/albaplayer/bein1/"
-      }
-    ]
+    "home_team": "Newcastle United",
+    "away_team": "Manchester City",
+    "label": "new-man",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/116.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/110.png",
+    "url": "https://yallashoot.cfd/albaplayer/manchester-city-vs-newcastle-united/",
+    "servers": []
   },
   {
-    "time": "2026-02-04 01:30 IST",
+    "time": "2026-02-05 01:30 IST",
     "game": "football",
-    "league": "Copa del Rey - Quarter Finals",
-    "home_team": "FC Barcelona",
-    "away_team": "Albacete",
-    "label": "fcb-alb",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/132.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/170.png",
-    "url": "https://gametimes.top/home/blog2/",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://gametimes.top/home/blog2/"
-      },
-      {
-        "name": "PrimaSp",
-        "url": "https://streams.center/embed/ch7.php"
-      },
-      {
-        "name": "C+Live",
-        "url": "https://bolaloca.my/player/4/46"
-      },
-      {
-        "name": "DaznEs",
-        "url": "https://bolaloca.my/player/4/60"
-      },
-      {
-        "name": "WinSp",
-        "url": "https://bolaloca.my/player/4/82"
-      },
-      {
-        "name": "DaznDe",
-        "url": "https://bolaloca.my/player/4/124"
-      },
-      {
-        "name": "متعدد1",
-        "url": "https://play.arab-stream.live/p/mbc-masr-2.html"
-      },
-      {
-        "name": "متعدد2",
-        "url": "https://tv.qanwatlive.com/2025/03/2.html"
-      }
-    ]
+    "league": "Coppa Italia - Quarter Finals",
+    "home_team": "Torino",
+    "away_team": "Inter Milan",
+    "label": "tor-int",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/235.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/224.png",
+    "url": "https://yallashoot.cfd/albaplayer/inter-milan-vs-torino/",
+    "servers": []
   },
   {
-    "time": "2026-02-04 01:40 IST",
+    "time": "2026-02-05 01:30 IST",
     "game": "football",
     "league": "Coupe de France - Round of 16",
-    "home_team": "Rennes",
-    "away_team": "Olympique de Marseille",
-    "label": "ren-oly",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/477.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/469.png",
-    "url": "",
+    "home_team": "Lens",
+    "away_team": "Troyes",
+    "label": "len-tro",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/481.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/488.png",
+    "url": "https://yallashoot.cfd/albaplayer/troyes-vs-lens/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-05 01:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - Quarter Finals",
+    "home_team": "Real Sociedad",
+    "away_team": "Alaves",
+    "label": "rea-ala",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/154.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/168.png",
+    "url": "https://yallashoot.cfd/albaplayer/alaves-vs-real-sociedad/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-05 01:30 IST",
+    "game": "football",
+    "league": "Copa del Rey - Quarter Finals",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Valencia",
+    "label": "ath-val",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/144.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/139.png",
+    "url": "https://yallashoot.cfd/albaplayer/valencia-vs-athletic-bilbao/",
+    "servers": []
+  },
+  {
+    "time": "2026-02-05 01:45 IST",
+    "game": "football",
+    "league": "Taça de Portugal - Semi Finals",
+    "home_team": "Torreense",
+    "away_team": "AD Fafe",
+    "label": "tor-adf",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/921",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/7780",
+    "url": "https://yallashoot.cfd/albaplayer/ad-fafe-vs-torreense/",
     "servers": []
   }
 ]
