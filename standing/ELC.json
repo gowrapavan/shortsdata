@@ -75,12 +75,12 @@
             "tla": "HUL",
             "crest": "https://crests.football-data.org/322.png"
           },
-          "playedGames": 29,
+          "playedGames": 30,
           "form": null,
           "won": 16,
-          "draw": 5,
+          "draw": 6,
           "lost": 8,
-          "points": 53,
+          "points": 54,
           "goalsFor": 48,
           "goalsAgainst": 40,
           "goalDifference": 8
@@ -164,6 +164,25 @@
         {
           "position": 8,
           "team": {
+            "id": 346,
+            "name": "Watford FC",
+            "shortName": "Watford",
+            "tla": "WAT",
+            "crest": "https://crests.football-data.org/346.png"
+          },
+          "playedGames": 30,
+          "form": null,
+          "won": 11,
+          "draw": 11,
+          "lost": 8,
+          "points": 44,
+          "goalsFor": 39,
+          "goalsAgainst": 35,
+          "goalDifference": 4
+        },
+        {
+          "position": 9,
+          "team": {
             "id": 1081,
             "name": "Preston North End FC",
             "shortName": "Preston NE",
@@ -181,7 +200,7 @@
           "goalDifference": 3
         },
         {
-          "position": 9,
+          "position": 10,
           "team": {
             "id": 387,
             "name": "Bristol City FC",
@@ -197,25 +216,6 @@
           "points": 43,
           "goalsFor": 40,
           "goalsAgainst": 36,
-          "goalDifference": 4
-        },
-        {
-          "position": 10,
-          "team": {
-            "id": 346,
-            "name": "Watford FC",
-            "shortName": "Watford",
-            "tla": "WAT",
-            "crest": "https://crests.football-data.org/346.png"
-          },
-          "playedGames": 29,
-          "form": null,
-          "won": 11,
-          "draw": 10,
-          "lost": 8,
-          "points": 43,
-          "goalsFor": 39,
-          "goalsAgainst": 35,
           "goalDifference": 4
         },
         {
@@ -341,14 +341,14 @@
             "tla": "SHE",
             "crest": "https://crests.football-data.org/356.png"
           },
-          "playedGames": 29,
+          "playedGames": 30,
           "form": null,
           "won": 11,
-          "draw": 3,
+          "draw": 4,
           "lost": 15,
-          "points": 36,
-          "goalsFor": 40,
-          "goalsAgainst": 42,
+          "points": 37,
+          "goalsFor": 41,
+          "goalsAgainst": 43,
           "goalDifference": -2
         },
         {
@@ -411,6 +411,25 @@
         {
           "position": 21,
           "team": {
+            "id": 59,
+            "name": "Blackburn Rovers FC",
+            "shortName": "Blackburn",
+            "tla": "BLA",
+            "crest": "https://crests.football-data.org/59.png"
+          },
+          "playedGames": 30,
+          "form": null,
+          "won": 8,
+          "draw": 8,
+          "lost": 14,
+          "points": 32,
+          "goalsFor": 27,
+          "goalsAgainst": 38,
+          "goalDifference": -11
+        },
+        {
+          "position": 22,
+          "team": {
             "id": 74,
             "name": "West Bromwich Albion FC",
             "shortName": "West Brom",
@@ -428,25 +447,6 @@
           "goalDifference": -15
         },
         {
-          "position": 22,
-          "team": {
-            "id": 59,
-            "name": "Blackburn Rovers FC",
-            "shortName": "Blackburn",
-            "tla": "BLA",
-            "crest": "https://crests.football-data.org/59.png"
-          },
-          "playedGames": 29,
-          "form": null,
-          "won": 7,
-          "draw": 8,
-          "lost": 14,
-          "points": 29,
-          "goalsFor": 26,
-          "goalsAgainst": 38,
-          "goalDifference": -12
-        },
-        {
           "position": 23,
           "team": {
             "id": 1082,
@@ -455,14 +455,14 @@
             "tla": "OXF",
             "crest": "https://crests.football-data.org/1082.png"
           },
-          "playedGames": 29,
+          "playedGames": 30,
           "form": null,
           "won": 6,
-          "draw": 9,
+          "draw": 10,
           "lost": 14,
-          "points": 27,
-          "goalsFor": 27,
-          "goalsAgainst": 38,
+          "points": 28,
+          "goalsFor": 28,
+          "goalsAgainst": 39,
           "goalDifference": -11
         },
         {
@@ -474,15 +474,15 @@
             "tla": "SHE",
             "crest": "https://crests.football-data.org/345.png"
           },
-          "playedGames": 29,
+          "playedGames": 30,
           "form": null,
           "won": 1,
           "draw": 8,
-          "lost": 20,
+          "lost": 21,
           "points": 11,
           "goalsFor": 18,
-          "goalsAgainst": 57,
-          "goalDifference": -39
+          "goalsAgainst": 58,
+          "goalDifference": -40
         }
       ]
     }
