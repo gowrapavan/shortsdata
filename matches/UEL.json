@@ -7767,7 +7767,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-03",
     "DateTime": "2026-02-03T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 322,
@@ -7782,8 +7782,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "322": 0,
-      "346": 0
+      "322": 1,
+      "346": 1
     },
     "Goals": []
   },
@@ -7949,7 +7949,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-03",
     "DateTime": "2026-02-03T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 356,
@@ -7960,11 +7960,11 @@
     "AwayTeamName": "Oxford United FC",
     "HomeTeamLogo": "https://crests.football-data.org/356.png",
     "AwayTeamLogo": "https://crests.football-data.org/1082.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 356,
     "Points": {
-      "356": 0,
+      "356": 3,
       "1082": 0
     },
     "Goals": []
