@@ -21,7 +21,6 @@ MATCH_URLS = {
     "WC": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/WC.json",
     "MLS": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/MLS.json",
     "DED": "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/matches/DED.json",
-
 }
 
 TEAM_URLS = {
@@ -38,7 +37,9 @@ TEAM_URLS = {
 
 DEFAULT_LEAGUE = "Goal4u - Undefined"
 DEFAULT_LOGO = "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png"
-FUZZY_THRESHOLD = 0.6
+
+MATCH_THRESHOLD = 0.6
+LOGO_THRESHOLD = 0.85  # 🔥 higher threshold for logos (prevents wrong logos)
 
 # ---------------- HELPERS ---------------- #
 
@@ -53,7 +54,7 @@ def normalize(text):
         return ""
     text = text.lower()
     text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode()
-    text = re.sub(r"\b(fc|cf|ac|ssc|sv|tsg|club)\b", "", text)
+    text = re.sub(r"\b(fc|cf|ac|ssc|sv|tsg|club|football|club de)\b", "", text)
     text = re.sub(r"[^a-z0-9]+", " ", text)
     return text.strip()
 
@@ -72,10 +73,47 @@ highlights = fetch_json(HIGHLIGHT_URL)
 matches_by_league = {k: fetch_json(v) for k, v in MATCH_URLS.items()}
 teams_by_league = {k: fetch_json(v) for k, v in TEAM_URLS.items()}
 
+# ---------------- GLOBAL TEAM INDEX ---------------- #
+
+TEAM_INDEX = {}
+
+def add_team_to_index(team):
+    names = [
+        team.get("name"),
+        team.get("shortName"),
+    ]
+    logo = team.get("crest") or DEFAULT_LOGO
+
+    for n in names:
+        if n:
+            TEAM_INDEX[normalize(n)] = logo
+
+for teams in teams_by_league.values():
+    for team in teams:
+        add_team_to_index(team)
+
+# ---------------- TEAM ALIASES (IMPORTANT) ---------------- #
+
+TEAM_ALIASES = {
+    "marseille": "olympique marseille",
+    "rennes": "stade rennes",
+    "inter": "inter milan",
+    "man utd": "manchester united",
+    "man city": "manchester city",
+    "psg": "paris saint germain",
+    "ac milan": "milan",
+    "bayern": "bayern munich",
+    "barca": "barcelona",
+}
+
+def resolve_alias(name):
+    n = normalize(name)
+    return TEAM_ALIASES.get(n, n)
+
 # ---------------- EXISTING OUTPUT ---------------- #
 
 existing_items = []
-existing_keys = set()  # (highlight_id, date)
+existing_keys = set()
 
 if os.path.exists(OUTPUT_FILE):
     try:
@@ -87,10 +125,9 @@ if os.path.exists(OUTPUT_FILE):
                 if hid and date:
                     existing_keys.add((hid, date))
     except Exception:
-        existing_items = []
-        existing_keys = set()
+        pass
 
-# ---------------- MATCH / LOGO FINDERS ---------------- #
+# ---------------- MATCH FINDER ---------------- #
 
 def find_match(date, home, away):
     best_match = None
@@ -102,29 +139,47 @@ def find_match(date, home, away):
             if m.get("Date") != date:
                 continue
 
-            score = (
-                similarity(home, m.get("HomeTeamName")) +
-                similarity(home, m.get("HomeTeamKey")) +
-                similarity(away, m.get("AwayTeamName")) +
-                similarity(away, m.get("AwayTeamKey"))
-            ) / 4
+            score_home = similarity(home, m.get("HomeTeamName")) + similarity(home, m.get("HomeTeamKey"))
+            score_away = similarity(away, m.get("AwayTeamName")) + similarity(away, m.get("AwayTeamKey"))
+            score = (score_home + score_away) / 4
 
             if score > best_score:
                 best_match = m
                 best_league = league
                 best_score = score
 
-    if best_score >= FUZZY_THRESHOLD:
+    if best_score >= MATCH_THRESHOLD:
         return best_league, best_match
 
     return None, None
 
+# ---------------- SMART LOGO FINDER ---------------- #
+
 def find_logo(team_name):
-    for teams in teams_by_league.values():
-        for team in teams:
-            if similarity(team_name, team.get("name")) >= FUZZY_THRESHOLD or \
-               similarity(team_name, team.get("shortName")) >= FUZZY_THRESHOLD:
-                return team.get("crest") or DEFAULT_LOGO
+    if not team_name:
+        return DEFAULT_LOGO
+
+    name = resolve_alias(team_name)
+    norm = normalize(name)
+
+    # 1️⃣ Exact match
+    if norm in TEAM_INDEX:
+        return TEAM_INDEX[norm]
+
+    # 2️⃣ Strong fuzzy match
+    best_logo = None
+    best_score = 0
+
+    for team_norm, logo in TEAM_INDEX.items():
+        s = similarity(norm, team_norm)
+        if s > best_score:
+            best_score = s
+            best_logo = logo
+
+    if best_score >= LOGO_THRESHOLD:
+        return best_logo
+
+    # 3️⃣ Final fallback
     return DEFAULT_LOGO
 
 # ---------------- BUILD OUTPUT ---------------- #
@@ -147,7 +202,6 @@ for h in highlights:
 
     league, match = find_match(date, home, away)
 
-    # ✅ FALLBACK LOGIC (IMPORTANT PART)
     if not match:
         match = {
             "GameId": None,
@@ -155,59 +209,37 @@ for h in highlights:
             "Season": None,
             "Date": date,
             "DateTime": None,
-            "Status": "Finished",  # highlights exist only after match
-            "HomeTeamId": None,
-            "AwayTeamId": None,
-            "HomeTeamKey": None,
-            "AwayTeamKey": None,
+            "Status": "Finished",
             "HomeTeamName": home,
             "AwayTeamName": away,
-            "HomeTeamLogo": None,
-            "AwayTeamLogo": None,
-            "HomeTeamScore": None,
-            "AwayTeamScore": None,
-            "Result": None,
-            "Points": None,
-            "Goals": [],
         }
         league = DEFAULT_LEAGUE
 
     item = {
         "highlight_id": highlight_id,
         "game_id": match.get("GameId"),
-
         "league": league or DEFAULT_LEAGUE,
         "round": match.get("RoundName"),
         "season": match.get("Season"),
-
         "date": match.get("Date") or date,
         "datetime": match.get("DateTime") or f"{date}T00:00:00",
         "status": match.get("Status") or "Finished",
 
         "home_team": {
-            "id": match.get("HomeTeamId"),
-            "key": match.get("HomeTeamKey"),
             "name": match.get("HomeTeamName") or home,
             "logo": match.get("HomeTeamLogo") or find_logo(home),
             "score": match.get("HomeTeamScore"),
         },
         "away_team": {
-            "id": match.get("AwayTeamId"),
-            "key": match.get("AwayTeamKey"),
             "name": match.get("AwayTeamName") or away,
             "logo": match.get("AwayTeamLogo") or find_logo(away),
             "score": match.get("AwayTeamScore"),
         },
 
-        "result": match.get("Result"),
-        "points": match.get("Points"),
-        "goals": match.get("Goals", []),
-
         "title": h.get("title"),
         "highlight_url": h.get("match_url"),
         "embed_url": h.get("embed_url"),
 
-        # 🔥 useful debug info
         "match_type": "official" if match.get("GameId") else "fallback",
         "source": "hoofoot",
     }
@@ -222,4 +254,4 @@ final_output = existing_items + new_items
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(final_output, f, ensure_ascii=False, indent=2)
 
-print(f"✅ Added {len(new_items)} new highlights | Skipped {len(existing_keys)} duplicates")
+print(f"✅ Added {len(new_items)} new highlights | Skipped duplicates: {len(seen_in_run)}")
