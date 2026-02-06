@@ -126,6 +126,25 @@
         {
           "position": 6,
           "team": {
+            "id": 558,
+            "name": "RC Celta de Vigo",
+            "shortName": "Celta",
+            "tla": "CEL",
+            "crest": "https://crests.football-data.org/558.png"
+          },
+          "playedGames": 23,
+          "form": null,
+          "won": 8,
+          "draw": 10,
+          "lost": 5,
+          "points": 34,
+          "goalsFor": 29,
+          "goalsAgainst": 23,
+          "goalDifference": 6
+        },
+        {
+          "position": 7,
+          "team": {
             "id": 80,
             "name": "RCD Espanyol de Barcelona",
             "shortName": "Espanyol",
@@ -141,25 +160,6 @@
           "goalsFor": 26,
           "goalsAgainst": 27,
           "goalDifference": -1
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": 558,
-            "name": "RC Celta de Vigo",
-            "shortName": "Celta",
-            "tla": "CEL",
-            "crest": "https://crests.football-data.org/558.png"
-          },
-          "playedGames": 22,
-          "form": null,
-          "won": 8,
-          "draw": 9,
-          "lost": 5,
-          "points": 33,
-          "goalsFor": 29,
-          "goalsAgainst": 23,
-          "goalDifference": 6
         },
         {
           "position": 8,
@@ -189,12 +189,12 @@
             "tla": "OSA",
             "crest": "https://crests.football-data.org/79.png"
           },
-          "playedGames": 22,
+          "playedGames": 23,
           "form": null,
           "won": 7,
-          "draw": 5,
+          "draw": 6,
           "lost": 10,
-          "points": 26,
+          "points": 27,
           "goalsFor": 26,
           "goalsAgainst": 27,
           "goalDifference": -1
