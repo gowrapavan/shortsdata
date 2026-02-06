@@ -126,25 +126,6 @@
         {
           "position": 6,
           "team": {
-            "id": 558,
-            "name": "RC Celta de Vigo",
-            "shortName": "Celta",
-            "tla": "CEL",
-            "crest": "https://crests.football-data.org/558.png"
-          },
-          "playedGames": 23,
-          "form": null,
-          "won": 8,
-          "draw": 10,
-          "lost": 5,
-          "points": 34,
-          "goalsFor": 29,
-          "goalsAgainst": 23,
-          "goalDifference": 6
-        },
-        {
-          "position": 7,
-          "team": {
             "id": 80,
             "name": "RCD Espanyol de Barcelona",
             "shortName": "Espanyol",
@@ -162,7 +143,45 @@
           "goalDifference": -1
         },
         {
+          "position": 7,
+          "team": {
+            "id": 558,
+            "name": "RC Celta de Vigo",
+            "shortName": "Celta",
+            "tla": "CEL",
+            "crest": "https://crests.football-data.org/558.png"
+          },
+          "playedGames": 23,
+          "form": null,
+          "won": 8,
+          "draw": 9,
+          "lost": 6,
+          "points": 33,
+          "goalsFor": 30,
+          "goalsAgainst": 25,
+          "goalDifference": 5
+        },
+        {
           "position": 8,
+          "team": {
+            "id": 79,
+            "name": "CA Osasuna",
+            "shortName": "Osasuna",
+            "tla": "OSA",
+            "crest": "https://crests.football-data.org/79.png"
+          },
+          "playedGames": 23,
+          "form": null,
+          "won": 8,
+          "draw": 5,
+          "lost": 10,
+          "points": 29,
+          "goalsFor": 28,
+          "goalsAgainst": 28,
+          "goalDifference": 0
+        },
+        {
+          "position": 9,
           "team": {
             "id": 92,
             "name": "Real Sociedad de Fútbol",
@@ -179,25 +198,6 @@
           "goalsFor": 30,
           "goalsAgainst": 30,
           "goalDifference": 0
-        },
-        {
-          "position": 9,
-          "team": {
-            "id": 79,
-            "name": "CA Osasuna",
-            "shortName": "Osasuna",
-            "tla": "OSA",
-            "crest": "https://crests.football-data.org/79.png"
-          },
-          "playedGames": 23,
-          "form": null,
-          "won": 7,
-          "draw": 6,
-          "lost": 10,
-          "points": 27,
-          "goalsFor": 26,
-          "goalsAgainst": 27,
-          "goalDifference": -1
         },
         {
           "position": 10,
