@@ -189,14 +189,14 @@
             "tla": "GUI",
             "crest": "https://crests.football-data.org/5543.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 8,
-          "draw": 4,
+          "draw": 5,
           "lost": 8,
-          "points": 28,
-          "goalsFor": 21,
-          "goalsAgainst": 27,
+          "points": 29,
+          "goalsFor": 23,
+          "goalsAgainst": 29,
           "goalDifference": -6
         },
         {
@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 712,
+            "name": "FC Arouca",
+            "shortName": "Arouca",
+            "tla": "FCA",
+            "crest": "https://crests.football-data.org/712.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 5,
+          "draw": 6,
+          "lost": 10,
+          "points": 21,
+          "goalsFor": 25,
+          "goalsAgainst": 46,
+          "goalDifference": -21
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 5529,
             "name": "CD Nacional",
             "shortName": "CD Nacional",
@@ -257,7 +276,7 @@
           "goalDifference": -3
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 496,
             "name": "Rio Ave FC",
@@ -274,25 +293,6 @@
           "goalsFor": 22,
           "goalsAgainst": 38,
           "goalDifference": -16
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 712,
-            "name": "FC Arouca",
-            "shortName": "Arouca",
-            "tla": "FCA",
-            "crest": "https://crests.football-data.org/712.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 5,
-          "draw": 5,
-          "lost": 10,
-          "points": 20,
-          "goalsFor": 23,
-          "goalsAgainst": 44,
-          "goalDifference": -21
         },
         {
           "position": 15,
