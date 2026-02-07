@@ -31,6 +31,25 @@
         {
           "position": 1,
           "team": {
+            "id": 546,
+            "name": "Racing Club de Lens",
+            "shortName": "RC Lens",
+            "tla": "RCL",
+            "crest": "https://crests.football-data.org/546.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 16,
+          "draw": 1,
+          "lost": 4,
+          "points": 49,
+          "goalsFor": 37,
+          "goalsAgainst": 17,
+          "goalDifference": 20
+        },
+        {
+          "position": 2,
+          "team": {
             "id": 524,
             "name": "Paris Saint-Germain FC",
             "shortName": "PSG",
@@ -46,25 +65,6 @@
           "goalsFor": 43,
           "goalsAgainst": 16,
           "goalDifference": 27
-        },
-        {
-          "position": 2,
-          "team": {
-            "id": 546,
-            "name": "Racing Club de Lens",
-            "shortName": "RC Lens",
-            "tla": "RCL",
-            "crest": "https://crests.football-data.org/546.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 15,
-          "draw": 1,
-          "lost": 4,
-          "points": 46,
-          "goalsFor": 34,
-          "goalsAgainst": 16,
-          "goalDifference": 18
         },
         {
           "position": 3,
@@ -132,15 +132,15 @@
             "tla": "REN",
             "crest": "https://crests.football-data.org/529.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 8,
           "draw": 7,
-          "lost": 5,
+          "lost": 6,
           "points": 31,
-          "goalsFor": 30,
-          "goalsAgainst": 31,
-          "goalDifference": -1
+          "goalsFor": 31,
+          "goalsAgainst": 34,
+          "goalDifference": -3
         },
         {
           "position": 7,
@@ -189,15 +189,15 @@
             "tla": "FCL",
             "crest": "https://crests.football-data.org/525.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 7,
           "draw": 7,
-          "lost": 6,
+          "lost": 7,
           "points": 28,
           "goalsFor": 27,
-          "goalsAgainst": 31,
-          "goalDifference": -4
+          "goalsAgainst": 33,
+          "goalDifference": -6
         },
         {
           "position": 10,
@@ -246,15 +246,15 @@
             "tla": "BRE",
             "crest": "https://crests.football-data.org/512.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
-          "won": 6,
+          "won": 7,
           "draw": 5,
           "lost": 9,
-          "points": 23,
-          "goalsFor": 26,
+          "points": 26,
+          "goalsFor": 28,
           "goalsAgainst": 33,
-          "goalDifference": -7
+          "goalDifference": -5
         },
         {
           "position": 13,
