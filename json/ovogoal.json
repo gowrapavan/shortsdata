@@ -8,7 +8,7 @@
     "label": "man-tot",
     "home_logo": "https://crests.football-data.org/66.png",
     "away_logo": "https://crests.football-data.org/73.png",
-    "url": "https://gametimes.plus/home/blog1/"
+    "url": ""
   },
   {
     "time": "16:00",
@@ -28,7 +28,7 @@
     "home_team": "Wolves",
     "away_team": "Chelsea",
     "label": "wol-che",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
     "away_logo": "https://crests.football-data.org/61.png",
     "url": "https://gametimes.plus/home/blog2/"
   },
@@ -94,8 +94,8 @@
     "home_team": "",
     "away_team": "",
     "label": "ovogoal",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
     "url": "https://gametimes.plus/mma/blog-pfl/"
   },
   {
@@ -105,8 +105,85 @@
     "home_team": "",
     "away_team": "",
     "label": "ovogoal",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
     "url": "https://gametimes.plus/mma/blog/"
+  },
+  {
+    "time": "15:00",
+    "game": "football",
+    "league": "premier",
+    "home_team": "Brighton",
+    "away_team": "Cry Palace",
+    "label": "bri-cry",
+    "home_logo": "https://crests.football-data.org/397.png",
+    "away_logo": "https://crests.football-data.org/354.png",
+    "url": "https://gametimes.plus/home/blog1/"
+  },
+  {
+    "time": "17:30",
+    "game": "football",
+    "league": "premier",
+    "home_team": "Liverpool",
+    "away_team": "Man City",
+    "label": "liv-man",
+    "home_logo": "https://crests.football-data.org/64.png",
+    "away_logo": "https://crests.football-data.org/65.png",
+    "url": "https://gametimes.plus/home/blog1/"
+  },
+  {
+    "time": "21:00",
+    "game": "football",
+    "league": "laliga",
+    "home_team": "Valencia",
+    "away_team": "Real Madrid",
+    "label": "val-rea",
+    "home_logo": "https://crests.football-data.org/95.png",
+    "away_logo": "https://crests.football-data.org/86.png",
+    "url": "https://gametimes.plus/home/blog1/"
+  },
+  {
+    "time": "18:00",
+    "game": "football",
+    "league": "seriea",
+    "home_team": "Sassuolo",
+    "away_team": "Inter",
+    "label": "sas-int",
+    "home_logo": "https://crests.football-data.org/471.png",
+    "away_logo": "https://crests.football-data.org/108.png",
+    "url": "https://gametimes.plus/home/blog2/"
+  },
+  {
+    "time": "20:45",
+    "game": "football",
+    "league": "seriea",
+    "home_team": "Juventus",
+    "away_team": "Lazio",
+    "label": "juv-laz",
+    "home_logo": "https://crests.football-data.org/109.png",
+    "away_logo": "https://crests.football-data.org/110.png",
+    "url": "https://gametimes.plus/home/blog2/"
+  },
+  {
+    "time": "20:45",
+    "game": "football",
+    "league": "ligue1",
+    "home_team": "PSG",
+    "away_team": "Olympique Marseille",
+    "label": "psg-oly",
+    "home_logo": "https://crests.football-data.org/524.png",
+    "away_logo": "https://crests.football-data.org/516.png",
+    "url": "https://gametimes.plus/home/blog3/"
+  },
+  {
+    "time": "00:30",
+    "game": "football",
+    "league": "nfl",
+    "home_team": "",
+    "away_team": "",
+    "label": "ovogoal",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "url": ""
   }
 ]
