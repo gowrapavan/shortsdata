@@ -1,667 +1,5 @@
 [
   {
-    "time": "2026-02-07 20:00 IST",
-    "game": "football",
-    "league": "Bundesliga",
-    "home_team": "Hamburger SV",
-    "away_team": "FC Heidenheim",
-    "label": "ham-fch",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/334.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/434.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-02-07 20:00 IST",
-    "game": "football",
-    "league": "Bundesliga",
-    "home_team": "Stuttgart",
-    "away_team": "St. Pauli",
-    "label": "stu-stp",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/338.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/359.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-02-07 20:00 IST",
-    "game": "football",
-    "league": "Bundesliga",
-    "home_team": "Borussia Dortmund",
-    "away_team": "Wolfsburg",
-    "label": "bor-wol",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/341.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/339.png",
-    "url": "https://streams.center/embed/ch8.php",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://streams.center/embed/ch8.php"
-      },
-      {
-        "name": "BeinFr1",
-        "url": "https://popcdn.day/go.php?stream=beINMAX6FR"
-      },
-      {
-        "name": "BeinFr2",
-        "url": "https://bolaloca.my/player/3/6"
-      },
-      {
-        "name": "SkyDe",
-        "url": "https://bolaloca.my/player/3/111"
-      },
-      {
-        "name": "SkyDe2",
-        "url": "https://www1.sportsonline.cv/channels/hd/hd3.php"
-      },
-      {
-        "name": "Espn",
-        "url": "https://bolaloca.my/player/3/91"
-      },
-      {
-        "name": "SporTv1",
-        "url": "https://popcdn.day/go.php?stream=SPORTV1BR"
-      },
-      {
-        "name": "SporTv2",
-        "url": "https://www2.sportzonline.click/channels/bra/br1.php"
-      },
-      {
-        "name": "DaznPT",
-        "url": "https://popcdn.day/go.php?stream=ELEVEN4"
-      },
-      {
-        "name": "ElevenSp",
-        "url": "https://popcdn.day/go.php?stream=ElevenSports2PL"
-      },
-      {
-        "name": "SkySp",
-        "url": "https://popcdn.day/go.php?stream=SkySportMaxIT"
-      },
-      {
-        "name": "NovaSp",
-        "url": "https://popcdn.day/on.php?stream=NOVASPORTS3"
-      },
-      {
-        "name": "DigiSp",
-        "url": "https://popcdn.day/go.php?stream=DIGISPORT4"
-      },
-      {
-        "name": "EspnArg",
-        "url": "https://popcdn.day/go.php?stream=ESPN3ARG"
-      },
-      {
-        "name": "PrimaSp",
-        "url": "https://popcdn.day/go.php?stream=PrimaSport3"
-      },
-      {
-        "name": "SportIL",
-        "url": "https://popcdn.day/go.php?stream=SPORT3IL"
-      },
-      {
-        "name": "بث",
-        "url": "https://koraiframtoday.blogspot.com/?src="
-      },
-      {
-        "name": "بث",
-        "url": "https://koraiframtoday.blogspot.com/?src="
-      }
-    ]
-  },
-  {
-    "time": "2026-02-07 20:00 IST",
-    "game": "football",
-    "league": "Bundesliga",
-    "home_team": "FC Augsburg",
-    "away_team": "Mainz 05",
-    "label": "fca-mai",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/358.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/352.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-02-07 20:00 IST",
-    "game": "football",
-    "league": "Bundesliga",
-    "home_team": "Werder Bremen",
-    "away_team": "Freiburg",
-    "label": "wer-fre",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/332.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/354.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-02-07 20:30 IST",
-    "game": "football",
-    "league": "Premier League",
-    "home_team": "Chelsea",
-    "away_team": "Wolves",
-    "label": "che-wol",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/106.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/15.png",
-    "url": "https://gametimes.plus/home/blog2/",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://gametimes.plus/home/blog2/"
-      },
-      {
-        "name": "BackUp",
-        "url": "https://streams.center/embed/ch5.php"
-      },
-      {
-        "name": "C+Live",
-        "url": "https://bolaloca.my/player/4/13"
-      },
-      {
-        "name": "ExtraSp",
-        "url": "https://bolaloca.my/player/4/168"
-      },
-      {
-        "name": "ElpUk",
-        "url": "https://bolaloca.my/player/4/129"
-      },
-      {
-        "name": "BeinTr",
-        "url": "https://popcdn.day/go.php?stream=BEINSPORT4TR"
-      },
-      {
-        "name": "NovaSp",
-        "url": "https://popcdn.day/on.php?stream=NOVASPORTS4"
-      },
-      {
-        "name": "SportIL",
-        "url": "https://popcdn.day/go.php?stream=SPORT1IL"
-      },
-      {
-        "name": "English",
-        "url": "https://www2.sportzonline.click/channels/hd/hd5.php"
-      },
-      {
-        "name": "DaznPT1",
-        "url": "https://popcdn.day/go.php?stream=ELEVEN3"
-      },
-      {
-        "name": "DaznPT2",
-        "url": "https://www2.sportzonline.click/channels/pt/eleven3.php"
-      },
-      {
-        "name": "EspnBr1",
-        "url": "https://popcdn.day/go.php?stream=ESPN4BR"
-      },
-      {
-        "name": "EspnBr2",
-        "url": "https://www2.sportzonline.click/channels/bra/br6.php"
-      },
-      {
-        "name": "بث",
-        "url": "https://lovecdn.ru/daddy.php?stream=beINAR3"
-      },
-      {
-        "name": "بث",
-        "url": "https://tv7.koora-stream.top/chtv/ch3.php"
-      }
-    ]
-  },
-  {
-    "time": "2026-02-07 20:30 IST",
-    "game": "football",
-    "league": "Premier League",
-    "home_team": "Everton",
-    "away_team": "Fulham",
-    "label": "eve-ful",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/107.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/120.png",
-    "url": "https://gametimes.plus/home/blog4/",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://gametimes.plus/home/blog4/"
-      },
-      {
-        "name": "BackUp",
-        "url": "https://streams.center/embed/ch4.php"
-      },
-      {
-        "name": "C+Live",
-        "url": "https://bolaloca.my/player/3/34"
-      },
-      {
-        "name": "EPLuk",
-        "url": "https://bolaloca.my/player/3/133"
-      },
-      {
-        "name": "DaznEs1",
-        "url": "https://bolaloca.my/player/3/59"
-      },
-      {
-        "name": "DaznEs2",
-        "url": "https://popcdn.day/go.php?stream=DAZN4ES"
-      },
-      {
-        "name": "NovaSp",
-        "url": "https://popcdn.day/on.php?stream=NOVASPORTS5"
-      },
-      {
-        "name": "EspnBr1",
-        "url": "https://popcdn.day/go.php?stream=ESPN2BR"
-      },
-      {
-        "name": "EspnBr2",
-        "url": "https://www2.sportzonline.click/channels/bra/br5.php"
-      },
-      {
-        "name": "English",
-        "url": "https://www2.sportzonline.click/channels/hd/hd9.php"
-      },
-      {
-        "name": "بث1",
-        "url": "https://lovecdn.ru/daddy.php?stream=beINAR5"
-      },
-      {
-        "name": "2بث",
-        "url": "https://tv7.koora-stream.top/chtv/ch5.php"
-      },
-      {
-        "name": "متعدد",
-        "url": "https://yallashoot.cfd/albaplayer/bein5/"
-      }
-    ]
-  },
-  {
-    "time": "2026-02-07 20:30 IST",
-    "game": "football",
-    "league": "Premier League",
-    "home_team": "Aston Villa",
-    "away_team": "Bournemouth",
-    "label": "ast-bou",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/109.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/50.png",
-    "url": "https://gametimes.top/home/blog3/",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://gametimes.top/home/blog3/"
-      },
-      {
-        "name": "BackUp",
-        "url": "https://streams.center/embed/ch2.php"
-      },
-      {
-        "name": "C+Live",
-        "url": "https://bolaloca.my/player/3/33"
-      },
-      {
-        "name": "Espn",
-        "url": "https://bolaloca.my/player/3/88"
-      },
-      {
-        "name": "EPLuk",
-        "url": "https://bolaloca.my/player/3/131"
-      },
-      {
-        "name": "DaznEs",
-        "url": "https://bolaloca.my/player/3/57"
-      },
-      {
-        "name": "English",
-        "url": "https://www2.sportzonline.click/channels/hd/hd10.php"
-      },
-      {
-        "name": "SkyDe",
-        "url": "https://popcdn.day/go.php?stream=SkySportMixDE"
-      },
-      {
-        "name": "DaznEs",
-        "url": "https://popcdn.day/go.php?stream=DAZN2ES"
-      },
-      {
-        "name": "NovaSp",
-        "url": "https://popcdn.day/on.php?stream=NOVASPORTSST"
-      },
-      {
-        "name": "EspnArg",
-        "url": "https://popcdn.day/go.php?stream=ESPN2ARG"
-      },
-      {
-        "name": "بث1",
-        "url": "https://lovecdn.ru/daddy.php?stream=beINAR4"
-      },
-      {
-        "name": "2بث",
-        "url": "https://tv7.koora-stream.top/chtv/ch4.php"
-      },
-      {
-        "name": "متعدد",
-        "url": "https://yallashoot.cfd/albaplayer/bein4/"
-      }
-    ]
-  },
-  {
-    "time": "2026-02-07 20:30 IST",
-    "game": "football",
-    "league": "Premier League",
-    "home_team": "West Ham United",
-    "away_team": "Burnley",
-    "label": "wes-bur",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/113.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/12.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-02-07 20:30 IST",
-    "game": "football",
-    "league": "Premier League",
-    "home_team": "Sunderland",
-    "away_team": "Arsenal",
-    "label": "sun-ars",
-    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/117",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/104.png",
-    "url": "https://gametimes.plus/home/blog1/",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://gametimes.plus/home/blog1/"
-      },
-      {
-        "name": "BackUp",
-        "url": "https://streams.center/embed/ch1.php"
-      },
-      {
-        "name": "C+Live",
-        "url": "https://bolaloca.my/player/3/14"
-      },
-      {
-        "name": "EPLuk",
-        "url": "https://bolaloca.my/player/3/130"
-      },
-      {
-        "name": "DaznEs",
-        "url": "https://bolaloca.my/player/3/56"
-      },
-      {
-        "name": "SkyIT",
-        "url": "https://bolaloca.my/player/3/138"
-      },
-      {
-        "name": "Universo",
-        "url": "https://bolaloca.my/player/3/72"
-      },
-      {
-        "name": "DaznEs",
-        "url": "https://popcdn.day/go.php?stream=DAZN1ES"
-      },
-      {
-        "name": "BeinTr",
-        "url": "https://popcdn.day/go.php?stream=beINSPORTS3TR"
-      },
-      {
-        "name": "DaznPT1",
-        "url": "https://popcdn.day/go.php?stream=ELEVEN1"
-      },
-      {
-        "name": "DaznPT2",
-        "url": "https://www2.sportzonline.click/channels/pt/eleven1.php"
-      },
-      {
-        "name": "PolsatSp",
-        "url": "https://popcdn.day/go.php?stream=POLSATSPORTNEWS"
-      },
-      {
-        "name": "Cyta",
-        "url": "https://popcdn.day/on.php?stream=Cyta1"
-      },
-      {
-        "name": "SkySpo",
-        "url": "https://popcdn.day/go.php?stream=SkySportCalcioIT"
-      },
-      {
-        "name": "NovaSp",
-        "url": "https://popcdn.day/on.php?stream=NOVASPORTSPL"
-      },
-      {
-        "name": "DigiSp",
-        "url": "https://popcdn.day/go.php?stream=DIGISPORT4"
-      },
-      {
-        "name": "EspnBr1",
-        "url": "https://popcdn.day/go.php?stream=ESPN1BR"
-      },
-      {
-        "name": "EspnBr2",
-        "url": "https://www2.sportzonline.click/channels/bra/br2.php"
-      },
-      {
-        "name": "DiemaSp",
-        "url": "https://popcdn.day/go.php?stream=DiemaSport2"
-      },
-      {
-        "name": "SportIL",
-        "url": "https://popcdn.day/go.php?stream=SPORT2IL"
-      },
-      {
-        "name": "English",
-        "url": "https://www2.sportzonline.click/channels/hd/hd1.php"
-      },
-      {
-        "name": "Italy",
-        "url": "https://www2.sportzonline.click/channels/hd/hd7.php"
-      },
-      {
-        "name": "بث",
-        "url": "https://lovecdn.ru/daddy.php?stream=beINAR"
-      },
-      {
-        "name": "بث",
-        "url": "https://tv7.koora-stream.top/chtv/ch1.php"
-      }
-    ]
-  },
-  {
-    "time": "2026-02-07 20:30 IST",
-    "game": "football",
-    "league": "Jupiler Pro League",
-    "home_team": "Dender",
-    "away_team": "Zulte Waregem",
-    "label": "den-zul",
-    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1181",
-    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1175",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-02-07 20:31 IST",
-    "game": "football",
-    "league": "Championship",
-    "home_team": "Millwall",
-    "away_team": "Wrexham",
-    "label": "mil-wre",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/45.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/75.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-02-07 20:31 IST",
-    "game": "football",
-    "league": "Championship",
-    "home_team": "Stoke City",
-    "away_team": "West Brom",
-    "label": "sto-wes",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/7.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/5.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-02-07 20:31 IST",
-    "game": "football",
-    "league": "Championship",
-    "home_team": "Portsmouth",
-    "away_team": "Preston",
-    "label": "por-pre",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/111.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/23.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-02-07 20:31 IST",
-    "game": "football",
-    "league": "Championship",
-    "home_team": "Bristol City",
-    "away_team": "Hull City",
-    "label": "bri-hul",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/6.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/11.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-02-07 20:31 IST",
-    "game": "football",
-    "league": "Championship",
-    "home_team": "Leicester City",
-    "away_team": "Birmingham",
-    "label": "lei-bir",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/22.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-02-07 20:31 IST",
-    "game": "football",
-    "league": "Championship",
-    "home_team": "Oxford United",
-    "away_team": "Coventry",
-    "label": "oxf-cov",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/87.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/24.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-02-07 20:45 IST",
-    "game": "football",
-    "league": "LaLiga",
-    "home_team": "Mallorca",
-    "away_team": "FC Barcelona",
-    "label": "mal-fcb",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/142.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/132.png",
-    "url": "https://gametimes.plus/home/blog6/",
-    "servers": [
-      {
-        "name": "Home",
-        "url": "https://gametimes.plus/home/blog6/"
-      },
-      {
-        "name": "BackUp",
-        "url": "https://streams.center/embed/ch6.php"
-      },
-      {
-        "name": "BeinFr",
-        "url": "https://bolaloca.my/player/3/2"
-      },
-      {
-        "name": "Laliga",
-        "url": "https://bolaloca.my/player/3/49"
-      },
-      {
-        "name": "DaznDe",
-        "url": "https://bolaloca.my/player/3/124"
-      },
-      {
-        "name": "Deportes1",
-        "url": "https://bolaloca.my/player/3/71"
-      },
-      {
-        "name": "Deportes2",
-        "url": "https://popcdn.day/go.php?stream=MDEPORTES"
-      },
-      {
-        "name": "Espn",
-        "url": "https://bolaloca.my/player/3/87"
-      },
-      {
-        "name": "LaLigaUK",
-        "url": "https://popcdn.day/go.php?stream=ViaplayLaLigaUK"
-      },
-      {
-        "name": "TSN",
-        "url": "https://popcdn.day/go.php?stream=TSN5"
-      },
-      {
-        "name": "DaznDe",
-        "url": "https://popcdn.day/go.php?stream=DAZN2DE"
-      },
-      {
-        "name": "DaznPT1",
-        "url": "https://popcdn.day/go.php?stream=ELEVEN2"
-      },
-      {
-        "name": "DaznPT2",
-        "url": "https://www2.sportzonline.click/channels/pt/eleven2.php"
-      },
-      {
-        "name": "ElevenSp",
-        "url": "https://popcdn.day/go.php?stream=ElevenSports1PL"
-      },
-      {
-        "name": "BeinTR",
-        "url": "https://popcdn.day/go.php?stream=BEINSPORT2FR"
-      },
-      {
-        "name": "ZiggoSp",
-        "url": "https://popcdn.day/go.php?stream=ZiggoSport2"
-      },
-      {
-        "name": "DigiSp",
-        "url": "https://popcdn.day/go.php?stream=DIGISPORT1"
-      },
-      {
-        "name": "NovaSp",
-        "url": "https://popcdn.day/on.php?stream=NOVASPORTS1"
-      },
-      {
-        "name": "PrimaSp",
-        "url": "https://popcdn.day/go.php?stream=PrimaSport1"
-      },
-      {
-        "name": "MaxSp",
-        "url": "https://popcdn.day/go.php?stream=MaxSport4BG"
-      },
-      {
-        "name": "English",
-        "url": "https://www2.sportzonline.click/channels/hd/hd2.php"
-      },
-      {
-        "name": "Spanish",
-        "url": "https://www2.sportzonline.click/channels/hd/hd6.php"
-      },
-      {
-        "name": "EspnBr",
-        "url": "https://www2.sportzonline.click/channels/bra/br4.php"
-      },
-      {
-        "name": "1بث",
-        "url": "https://lovecdn.ru/daddy.php?stream=beINAR2"
-      },
-      {
-        "name": "بث2",
-        "url": "https://tv7.koora-stream.top/chtv/ch2.php"
-      },
-      {
-        "name": "متعدد",
-        "url": "https://yallashoot.cfd/albaplayer/bein2"
-      }
-    ]
-  },
-  {
     "time": "2026-02-07 21:00 IST",
     "game": "football",
     "league": "Eredivisie",
@@ -742,83 +80,55 @@
     "label": "nap-gen",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/234.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/231.png",
-    "url": "https://streams.center/embed/ch6.php",
+    "url": "https://streams.center/embed/ch9.php",
     "servers": [
       {
         "name": "Home",
-        "url": "https://streams.center/embed/ch6.php"
+        "url": "https://streams.center/embed/ch9.php"
+      },
+      {
+        "name": "DaznIT",
+        "url": "https://bolaloca.my/player/3/137"
       },
       {
         "name": "C+Live",
-        "url": "https://bolaloca.my/player/3/51"
+        "url": "https://bolaloca.my/player/3/45"
       },
       {
-        "name": "C+Live",
-        "url": "https://bolaloca.my/player/3/71"
+        "name": "FoxUs",
+        "url": "https://bolaloca.my/player/3/70"
       },
       {
-        "name": "DaznDe",
+        "name": "EspnEs",
         "url": "https://bolaloca.my/player/3/88"
       },
       {
-        "name": "English",
-        "url": "https://www1.sportsonline.cv/channels/hd/hd6.php"
+        "name": "EspnMx",
+        "url": "https://bolaloca.my/player/3/98"
       },
       {
-        "name": "DaznPT",
-        "url": "https://www1.sportsonline.cv/channels/pt/eleven2.php"
+        "name": "SporGR",
+        "url": "https://bolaloca.my/player/3/149"
       },
       {
-        "name": "EspnBr",
-        "url": "https://www2.sportzonline.click/channels/bra/br6.php"
+        "name": "Italy",
+        "url": "https://ww2.sportzonline.click/channels/hd/hd7.php"
       },
       {
-        "name": "DaznES",
-        "url": "https://popcdn.day/go.php?stream=DAZNLaLiga"
-      },
-      {
-        "name": "ViaplayUk",
-        "url": "https://popcdn.day/go.php?stream=ViaplayLaLigaUK"
-      },
-      {
-        "name": "DaznPT",
-        "url": "https://popcdn.day/go.php?stream=ELEVEN2"
-      },
-      {
-        "name": "DigiSp",
-        "url": "https://popcdn.day/go.php?stream=DIGISPORT2"
-      },
-      {
-        "name": "ZiggoSp",
-        "url": "https://popcdn.day/go.php?stream=ZiggoSport2"
-      },
-      {
-        "name": "PrimaSp",
-        "url": "https://popcdn.day/go.php?stream=PrimaSport2"
+        "name": "SportTv",
+        "url": "https://www1.sportsonline.cv/channels/pt/sporttv4.php"
       },
       {
         "name": "EspnBr",
-        "url": "https://popcdn.day/go.php?stream=ESPN4BR"
-      },
-      {
-        "name": "NovaSp",
-        "url": "https://popcdn.day/on.php?stream=NOVASPORTS1"
-      },
-      {
-        "name": "MaxSp",
-        "url": "https://popcdn.day/go.php?stream=MaxSport4BG"
-      },
-      {
-        "name": "EspnArg",
-        "url": "https://popcdn.day/go.php?stream=ESPN2ARG"
+        "url": "https://www2.sportzonline.click/channels/bra/br2.php"
       },
       {
         "name": "بث",
-        "url": "https://lovecdn.ru/daddy.php?stream=beINAR8"
+        "url": "https://tv7.koora-stream.top/chtv/ch7.php"
       },
       {
         "name": "بث",
-        "url": "https://lovecdn.ru/daddy.php?stream=beINAR8"
+        "url": "https://tv7.koora-stream.top/chtv/ch7.php"
       }
     ]
   },
@@ -855,11 +165,7 @@
       },
       {
         "name": "TNTuk2",
-        "url": "https://bolaloca.my/player/3/126"
-      },
-      {
-        "name": "TNTuk3",
-        "url": "https://popcdn.day/go.php?stream=TNT1UK"
+        "url": "https://bolaloca.my/player/3/127"
       },
       {
         "name": "SkyDe",
@@ -867,19 +173,15 @@
       },
       {
         "name": "Canal+",
-        "url": "https://bolaloca.my/player/3/11"
-      },
-      {
-        "name": "Skyde",
-        "url": "https://bolaloca.my/player/3/120"
+        "url": "https://bolaloca.my/player/3/12"
       },
       {
         "name": "SkyCL",
         "url": "https://bolaloca.my/player/3/138"
       },
       {
-        "name": "NBC",
-        "url": "https://bolaloca.my/player/3/72"
+        "name": "DaznEs",
+        "url": "https://bolaloca.my/player/3/56"
       },
       {
         "name": "Espn",
@@ -911,7 +213,7 @@
       },
       {
         "name": "DiemaSp",
-        "url": "https://popcdn.day/go.php?stream=DiemaSport2"
+        "url": "https://popcdn.day/go.php?stream=DiemaSport3"
       },
       {
         "name": "SportIL",
@@ -919,19 +221,11 @@
       },
       {
         "name": "English",
-        "url": "https://www2.sportzonline.click/channels/hd/hd1.php"
-      },
-      {
-        "name": "Italy",
-        "url": "https://www2.sportzonline.click/channels/hd/hd7.php"
+        "url": "https://www2.sportzonline.click/channels/hd/hd5.php"
       },
       {
         "name": "DaznPT",
         "url": "https://www2.sportzonline.click/channels/pt/eleven1.php"
-      },
-      {
-        "name": "EspnBr",
-        "url": "https://www2.sportzonline.click/channels/bra/br4.php"
       },
       {
         "name": "1بث",
@@ -956,7 +250,7 @@
     "label": "bay-bor",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/333.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/349.png",
-    "url": "https://yallashoot.cfd/albaplayer/borussia-mönchengladbach-vs-bayer-leverkusen/",
+    "url": "",
     "servers": []
   },
   {
@@ -968,8 +262,65 @@
     "label": "gir-sev",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/175.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/135.png",
-    "url": "https://yallashoot.cfd/albaplayer/sevilla-vs-girona/",
-    "servers": []
+    "url": "https://streams.center/embed/ch6.php",
+    "servers": [
+      {
+        "name": "رئيسي",
+        "url": "https://streams.center/embed/ch6.php"
+      },
+      {
+        "name": "BeinFr",
+        "url": "https://popcdn.day/go.php?stream=beINMAX6FR"
+      },
+      {
+        "name": "BeinFr",
+        "url": "https://bolaloca.my/player/3/6"
+      },
+      {
+        "name": "DaznEs",
+        "url": "https://bolaloca.my/player/3/51"
+      },
+      {
+        "name": "Deportes",
+        "url": "https://bolaloca.my/player/3/71"
+      },
+      {
+        "name": "Directv",
+        "url": "https://bolaloca.my/player/3/94"
+      },
+      {
+        "name": "DaznDe",
+        "url": "https://bolaloca.my/player/3/124"
+      },
+      {
+        "name": "English",
+        "url": "https://ww2.sportzonline.click/channels/hd/hd2.php"
+      },
+      {
+        "name": "Spanish",
+        "url": "https://ww2.sportzonline.click/channels/hd/hd6.php"
+      },
+      {
+        "name": "DaznPT",
+        "url": "https://ww2.sportzonline.click/channels/pt/eleven2.php"
+      },
+      {
+        "name": "EspnBr",
+        "url": "https://ww2.sportzonline.click/channels/bra/br6.php"
+      },
+      {
+        "name": "1بث",
+        "url": "https://lovecdn.ru/daddy.php?stream=beINAR3"
+      },
+      {
+        "name": "2بث",
+        "url": "https://tv7.koora-stream.top/chtv/ch3.php"
+      },
+      {
+        "name": "متعدد",
+        "url": "https://yallashoot.cfd/albaplayer/bein3/"
+      }
+    ]
   },
   {
     "time": "2026-02-07 23:00 IST",
@@ -980,7 +331,7 @@
     "label": "alf-qad",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8942.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8947.png",
-    "url": "https://yallashoot.cfd/albaplayer/qadisiya-vs-al-fateh/",
+    "url": "",
     "servers": []
   },
   {
@@ -992,7 +343,7 @@
     "label": "fcv-pec",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/707.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/710.png",
-    "url": "https://yallashoot.cfd/albaplayer/pec-zwolle-vs-fc-volendam/",
+    "url": "",
     "servers": []
   },
   {
@@ -1004,7 +355,7 @@
     "label": "lor-bre",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/472.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/534.png",
-    "url": "https://yallashoot.cfd/albaplayer/brest-vs-lorient/",
+    "url": "",
     "servers": []
   },
   {
@@ -1016,7 +367,7 @@
     "label": "ton-est",
     "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/6470",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/909.png",
-    "url": "https://yallashoot.cfd/albaplayer/estoril-vs-tondela/",
+    "url": "",
     "servers": []
   },
   {
@@ -1028,7 +379,7 @@
     "label": "hee-twe",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/694.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/696.png",
-    "url": "https://yallashoot.cfd/albaplayer/twente-vs-heerenveen/",
+    "url": "",
     "servers": []
   },
   {
@@ -1040,7 +391,7 @@
     "label": "mon-sai",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/491.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/474.png",
-    "url": "https://yallashoot.cfd/albaplayer/saint-étienne-vs-montpellier/",
+    "url": "",
     "servers": []
   },
   {
@@ -1052,7 +403,7 @@
     "label": "ala-jsk",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8200.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8223.png",
-    "url": "https://yallashoot.cfd/albaplayer/js-kabylie-vs-al-ahly-sc/",
+    "url": "",
     "servers": []
   },
   {
@@ -1064,7 +415,7 @@
     "label": "you-asf",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/18957.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/5455.png",
-    "url": "https://yallashoot.cfd/albaplayer/as-far-rabat-vs-young-africans/",
+    "url": "",
     "servers": []
   },
   {
@@ -1076,7 +427,7 @@
     "label": "fck-svd",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/364.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/454.png",
-    "url": "https://yallashoot.cfd/albaplayer/sv-darmstadt-98-vs-fc-kaiserslautern/",
+    "url": "",
     "servers": []
   },
   {
