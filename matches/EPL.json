@@ -6353,7 +6353,7 @@
     "RoundName": "Premier League",
     "Date": "2026-02-07",
     "DateTime": "2026-02-07T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 67,
@@ -6364,12 +6364,12 @@
     "AwayTeamName": "Brentford FC",
     "HomeTeamLogo": "https://crests.football-data.org/67.png",
     "AwayTeamLogo": "https://crests.football-data.org/402.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 402,
     "Points": {
       "67": 0,
-      "402": 0
+      "402": 3
     },
     "Goals": []
   },

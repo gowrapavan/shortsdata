@@ -5916,8 +5916,8 @@
     "AwayTeamName": "Torino FC",
     "HomeTeamLogo": "https://crests.football-data.org/99.png",
     "AwayTeamLogo": "https://crests.football-data.org/586.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "99": 0,
@@ -6009,7 +6009,7 @@
     "RoundName": "Serie A",
     "Date": "2026-02-07",
     "DateTime": "2026-02-07T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 107,
@@ -6021,11 +6021,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/107.png",
     "AwayTeamLogo": "https://crests.football-data.org/113.png",
     "HomeTeamScore": 2,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 113,
     "Points": {
       "107": 0,
-      "113": 0
+      "113": 3
     },
     "Goals": []
   },
