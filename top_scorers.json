@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-06T06:38:02.914533Z",
+    "last_updated": "2026-02-07T06:27:17.171449Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -43,6 +43,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Dominic Calvert-Lewin",
+                    "team_name": "Leeds United FC",
+                    "team_crest": "https://crests.football-data.org/341.png",
+                    "goals": 10,
+                    "assists": 1,
+                    "penalties": 2,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "João Pedro",
                     "team_name": "Chelsea FC",
                     "team_crest": "https://crests.football-data.org/61.png",
@@ -50,15 +59,6 @@
                     "assists": 4,
                     "penalties": null,
                     "nationality": "Brazil"
-                },
-                {
-                    "player_name": "Dominic Calvert-Lewin",
-                    "team_name": "Leeds United FC",
-                    "team_crest": "https://crests.football-data.org/341.png",
-                    "goals": 9,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "England"
                 },
                 {
                     "player_name": "Enzo Fernández",
@@ -134,10 +134,19 @@
                     "player_name": "Ante Budimir",
                     "team_name": "CA Osasuna",
                     "team_crest": "https://crests.football-data.org/79.png",
-                    "goals": 10,
+                    "goals": 11,
                     "assists": null,
                     "penalties": 3,
                     "nationality": "Croatia"
+                },
+                {
+                    "player_name": "Borja Iglesias",
+                    "team_name": "RC Celta de Vigo",
+                    "team_crest": "https://crests.football-data.org/558.png",
+                    "goals": 10,
+                    "assists": 1,
+                    "penalties": 3,
+                    "nationality": "Spain"
                 },
                 {
                     "player_name": "Lamine Yamal",
@@ -145,15 +154,6 @@
                     "team_crest": "https://crests.football-data.org/81.png",
                     "goals": 9,
                     "assists": 8,
-                    "penalties": 2,
-                    "nationality": "Spain"
-                },
-                {
-                    "player_name": "Borja Iglesias",
-                    "team_name": "RC Celta de Vigo",
-                    "team_crest": "https://crests.football-data.org/558.png",
-                    "goals": 9,
-                    "assists": 1,
                     "penalties": 2,
                     "nationality": "Spain"
                 },
