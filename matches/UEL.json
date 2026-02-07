@@ -9249,7 +9249,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-06",
     "DateTime": "2026-02-06T20:01:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 348,
@@ -9264,8 +9264,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "348": 0,
-      "69": 0
+      "348": 1,
+      "69": 1
     },
     "Goals": []
   },
@@ -9869,10 +9869,10 @@
   },
   {
     "GameId": 541097,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-21",
-    "DateTime": "2026-02-21T15:00:00Z",
+    "DateTime": "2026-02-21T12:30:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -9895,7 +9895,7 @@
   },
   {
     "GameId": 541098,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T15:00:00Z",
@@ -9921,7 +9921,7 @@
   },
   {
     "GameId": 541099,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T15:00:00Z",
@@ -9947,7 +9947,7 @@
   },
   {
     "GameId": 541100,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T15:00:00Z",
@@ -9999,7 +9999,7 @@
   },
   {
     "GameId": 541102,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T15:00:00Z",
@@ -10025,10 +10025,10 @@
   },
   {
     "GameId": 541103,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-21",
-    "DateTime": "2026-02-21T15:00:00Z",
+    "DateTime": "2026-02-21T12:30:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -10051,10 +10051,10 @@
   },
   {
     "GameId": 541104,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-21",
-    "DateTime": "2026-02-21T15:00:00Z",
+    "DateTime": "2026-02-21T12:30:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -10077,7 +10077,7 @@
   },
   {
     "GameId": 541105,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T15:00:00Z",
@@ -10103,10 +10103,10 @@
   },
   {
     "GameId": 541106,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-21",
-    "DateTime": "2026-02-21T15:00:00Z",
+    "DateTime": "2026-02-21T12:30:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -10129,7 +10129,7 @@
   },
   {
     "GameId": 541107,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T15:00:00Z",

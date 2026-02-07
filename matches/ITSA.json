@@ -6061,7 +6061,7 @@
     "RoundName": "Serie A",
     "Date": "2026-02-06",
     "DateTime": "2026-02-06T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 450,
@@ -6076,8 +6076,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "450": 0,
-      "487": 0
+      "450": 1,
+      "487": 1
     },
     "Goals": []
   },
@@ -6525,10 +6525,10 @@
   },
   {
     "GameId": 537069,
-    "RoundId": 5,
+    "RoundId": 24,
     "RoundName": "Serie A",
-    "Date": "2026-02-22",
-    "DateTime": "2026-02-22T00:00:00Z",
+    "Date": "2026-02-21",
+    "DateTime": "2026-02-21T19:45:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -6603,10 +6603,10 @@
   },
   {
     "GameId": 537072,
-    "RoundId": 5,
+    "RoundId": 24,
     "RoundName": "Serie A",
-    "Date": "2026-02-22",
-    "DateTime": "2026-02-22T00:00:00Z",
+    "Date": "2026-02-21",
+    "DateTime": "2026-02-21T14:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -6655,10 +6655,10 @@
   },
   {
     "GameId": 537074,
-    "RoundId": 5,
+    "RoundId": 24,
     "RoundName": "Serie A",
-    "Date": "2026-02-22",
-    "DateTime": "2026-02-22T00:00:00Z",
+    "Date": "2026-02-21",
+    "DateTime": "2026-02-21T17:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",

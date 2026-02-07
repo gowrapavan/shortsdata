@@ -4647,7 +4647,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-06",
     "DateTime": "2026-02-06T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 545,
@@ -4662,8 +4662,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "545": 0,
-      "521": 0
+      "545": 1,
+      "521": 1
     },
     "Goals": []
   },
@@ -5111,10 +5111,10 @@
   },
   {
     "GameId": 542606,
-    "RoundId": 6,
+    "RoundId": 21,
     "RoundName": "Ligue 1",
-    "Date": "2026-02-22",
-    "DateTime": "2026-02-22T00:00:00Z",
+    "Date": "2026-02-21",
+    "DateTime": "2026-02-21T18:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -5163,10 +5163,10 @@
   },
   {
     "GameId": 542608,
-    "RoundId": 6,
+    "RoundId": 21,
     "RoundName": "Ligue 1",
-    "Date": "2026-02-22",
-    "DateTime": "2026-02-22T00:00:00Z",
+    "Date": "2026-02-21",
+    "DateTime": "2026-02-21T20:05:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -5215,10 +5215,10 @@
   },
   {
     "GameId": 542610,
-    "RoundId": 6,
+    "RoundId": 21,
     "RoundName": "Ligue 1",
-    "Date": "2026-02-22",
-    "DateTime": "2026-02-22T00:00:00Z",
+    "Date": "2026-02-21",
+    "DateTime": "2026-02-21T16:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
