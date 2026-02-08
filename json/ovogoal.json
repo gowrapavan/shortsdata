@@ -1,27 +1,5 @@
 [
   {
-    "time": "15:00",
-    "game": "football",
-    "league": "premier",
-    "home_team": "Brighton",
-    "away_team": "Cry Palace",
-    "label": "bri-cry",
-    "home_logo": "https://crests.football-data.org/397.png",
-    "away_logo": "https://crests.football-data.org/354.png",
-    "url": "https://gametimes.plus/home/blog1/"
-  },
-  {
-    "time": "17:30",
-    "game": "football",
-    "league": "premier",
-    "home_team": "Liverpool",
-    "away_team": "Man City",
-    "label": "liv-man",
-    "home_logo": "https://crests.football-data.org/64.png",
-    "away_logo": "https://crests.football-data.org/65.png",
-    "url": "https://gametimes.plus/home/blog1/"
-  },
-  {
     "time": "21:00",
     "game": "football",
     "league": "laliga",
@@ -31,17 +9,6 @@
     "home_logo": "https://crests.football-data.org/95.png",
     "away_logo": "https://crests.football-data.org/86.png",
     "url": "https://gametimes.plus/home/blog1/"
-  },
-  {
-    "time": "18:00",
-    "game": "football",
-    "league": "seriea",
-    "home_team": "Sassuolo",
-    "away_team": "Inter",
-    "label": "sas-int",
-    "home_logo": "https://crests.football-data.org/471.png",
-    "away_logo": "https://crests.football-data.org/108.png",
-    "url": "https://gametimes.plus/home/blog2/"
   },
   {
     "time": "20:45",
@@ -72,8 +39,8 @@
     "home_team": "",
     "away_team": "",
     "label": "ovogoal",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
     "url": "https://gametimes.plus/nfl/blog1/"
   }
 ]
