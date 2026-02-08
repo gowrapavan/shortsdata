@@ -329,25 +329,13 @@
   {
     "time": "2026-02-08 20:30 IST",
     "game": "football",
-    "league": "Superliga",
-    "home_team": "FC Copenhagen",
-    "away_team": "FC Midtjylland",
-    "label": "fcc-fcm",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1824.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1823.png",
-    "url": "https://yallashoot.cfd/albaplayer/fc-midtjylland-vs-fc-copenhagen/",
-    "servers": []
-  },
-  {
-    "time": "2026-02-08 20:30 IST",
-    "game": "football",
     "league": "Jupiler Pro League",
     "home_team": "La Louvière Centre",
     "away_team": "Union St. Gilloise",
     "label": "lal-uni",
     "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/21273",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1204.png",
-    "url": "https://yallashoot.cfd/albaplayer/union-st.-gilloise-vs-la-louvière-centre/",
+    "url": "",
     "servers": []
   },
   {
@@ -359,8 +347,53 @@
     "label": "lev-ath",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/150.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/144.png",
-    "url": "https://yallashoot.cfd/albaplayer/athletic-bilbao-vs-levante/",
-    "servers": []
+    "url": "https://streams.center/embed/ch6.php",
+    "servers": [
+      {
+        "name": "Home",
+        "url": "https://streams.center/embed/ch6.php"
+      },
+      {
+        "name": "BeinFr",
+        "url": "https://bolaloca.my/player/4/5"
+      },
+      {
+        "name": "M.Laliga",
+        "url": "https://bolaloca.my/player/4/49"
+      },
+      {
+        "name": "Deportes",
+        "url": "https://bolaloca.my/player/4/71"
+      },
+      {
+        "name": "Espn",
+        "url": "https://bolaloca.my/player/4/88"
+      },
+      {
+        "name": "English",
+        "url": "https://ww2.sportzonline.click/channels/hd/hd2.php"
+      },
+      {
+        "name": "Spain",
+        "url": "https://ww2.sportzonline.click/channels/hd/hd6.php"
+      },
+      {
+        "name": "DaznPT",
+        "url": "https://ww2.sportzonline.click/channels/pt/eleven2.php"
+      },
+      {
+        "name": "EspnBr",
+        "url": "https://ww2.sportzonline.click/channels/bra/br5.php"
+      },
+      {
+        "name": "بث",
+        "url": "https://lovecdn.ru/daddy.php?stream=beINAR5"
+      },
+      {
+        "name": "بث",
+        "url": "https://tv8.koora-stream.top/chtv/ch5.php"
+      }
+    ]
   },
   {
     "time": "2026-02-08 21:00 IST",
@@ -371,7 +404,7 @@
     "label": "cas-nac",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/6372.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/894.png",
-    "url": "https://yallashoot.cfd/albaplayer/nacional-madeira-vs-casa-pia-ac/",
+    "url": "",
     "servers": []
   },
   {
@@ -383,7 +416,7 @@
     "label": "psv-gro",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/725.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/692.png",
-    "url": "https://yallashoot.cfd/albaplayer/groningen-vs-psv-eindhoven/",
+    "url": "",
     "servers": []
   },
   {
@@ -395,7 +428,7 @@
     "label": "pyr-riv",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/22143.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/6994.png",
-    "url": "https://yallashoot.cfd/albaplayer/rivers-united-vs-pyramids/",
+    "url": "",
     "servers": []
   },
   {
@@ -407,7 +440,7 @@
     "label": "esp-sta",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8235.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/12172.png",
-    "url": "https://yallashoot.cfd/albaplayer/stade-malien-vs-esperance-st/",
+    "url": "",
     "servers": []
   },
   {
@@ -419,7 +452,7 @@
     "label": "crb-sin",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8225.png",
     "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/82536",
-    "url": "https://yallashoot.cfd/albaplayer/singida-black-stars-sc-vs-cr-belouizdad/",
+    "url": "",
     "servers": []
   },
   {
@@ -431,7 +464,7 @@
     "label": "usm-san",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8220.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/46018.png",
-    "url": "https://yallashoot.cfd/albaplayer/san-pédro-vs-usm-alger/",
+    "url": "",
     "servers": []
   },
   {
@@ -443,7 +476,7 @@
     "label": "tou-ang",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/482.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/493.png",
-    "url": "https://yallashoot.cfd/albaplayer/angers-vs-toulouse/",
+    "url": "",
     "servers": []
   },
   {
@@ -455,7 +488,7 @@
     "label": "str-leh",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/479.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/485.png",
-    "url": "https://yallashoot.cfd/albaplayer/le-havre-vs-strasbourg/",
+    "url": "",
     "servers": []
   },
   {
@@ -467,7 +500,7 @@
     "label": "par-aux",
     "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/6075",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/476.png",
-    "url": "https://yallashoot.cfd/albaplayer/auxerre-vs-paris-fc/",
+    "url": "",
     "servers": []
   },
   {
@@ -479,8 +512,105 @@
     "label": "man-liv",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/110.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/108.png",
-    "url": "https://yallashoot.cfd/albaplayer/liverpool-vs-manchester-city/",
-    "servers": []
+    "url": "https://gametimes.plus/home/blog1/",
+    "servers": [
+      {
+        "name": "Home",
+        "url": "https://gametimes.plus/home/blog1/"
+      },
+      {
+        "name": "TNTuk1",
+        "url": "https://streams.center/embed/ch1.php"
+      },
+      {
+        "name": "TNTuk2",
+        "url": "https://bolaloca.my/player/3/127"
+      },
+      {
+        "name": "SkyDe",
+        "url": "https://bolaloca.my/player/3/120"
+      },
+      {
+        "name": "Canal+",
+        "url": "https://bolaloca.my/player/3/12"
+      },
+      {
+        "name": "SkyCL",
+        "url": "https://bolaloca.my/player/3/138"
+      },
+      {
+        "name": "DaznEs",
+        "url": "https://bolaloca.my/player/3/56"
+      },
+      {
+        "name": "Espn",
+        "url": "https://bolaloca.my/player/3/87"
+      },
+      {
+        "name": "Telemundo",
+        "url": "https://bolaloca.my/player/3/73"
+      },
+      {
+        "name": "BeinTr",
+        "url": "https://popcdn.day/go.php?stream=beINSPORTS3TR"
+      },
+      {
+        "name": "DaznEs",
+        "url": "https://popcdn.day/go.php?stream=DAZN1ES"
+      },
+      {
+        "name": "SkySp",
+        "url": "https://popcdn.day/go.php?stream=SkySportPremierLeagueDE"
+      },
+      {
+        "name": "DaznPT",
+        "url": "https://popcdn.day/go.php?stream=ELEVEN1"
+      },
+      {
+        "name": "SkySp",
+        "url": "https://popcdn.day/go.php?stream=SkySportCalcioIT"
+      },
+      {
+        "name": "NovaSp",
+        "url": "https://popcdn.day/on.php?stream=NOVASPORTSPL"
+      },
+      {
+        "name": "DiemaSp",
+        "url": "https://popcdn.day/go.php?stream=DiemaSport2"
+      },
+      {
+        "name": "SportIL",
+        "url": "https://popcdn.day/go.php?stream=SPORT1IL"
+      },
+      {
+        "name": "English",
+        "url": "https://www2.sportzonline.click/channels/hd/hd1.php"
+      },
+      {
+        "name": "Italy",
+        "url": "https://www2.sportzonline.click/channels/hd/hd8.php"
+      },
+      {
+        "name": "DaznPT",
+        "url": "https://www2.sportzonline.click/channels/pt/eleven1.php"
+      },
+      {
+        "name": "EspnBr",
+        "url": "https://ww2.sportzonline.click/channels/bra/br2.php"
+      },
+      {
+        "name": "1بث",
+        "url": "https://lovecdn.ru/daddy.php?stream=beINAR4"
+      },
+      {
+        "name": "2بث",
+        "url": "https://tv8.koora-stream.top/chtv/ch9.php"
+      },
+      {
+        "name": "متعدد",
+        "url": "https://yallashoot.cfd/albaplayer/bein4/"
+      }
+    ]
   },
   {
     "time": "2026-02-08 22:00 IST",
@@ -491,8 +621,81 @@
     "label": "hof-bay",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/351.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/331.png",
-    "url": "https://yallashoot.cfd/albaplayer/bayern-munich-vs-hoffenheim/",
-    "servers": []
+    "url": "https://streams.center/embed/ch8.php",
+    "servers": [
+      {
+        "name": "Home",
+        "url": "https://streams.center/embed/ch8.php"
+      },
+      {
+        "name": "BeinFr1",
+        "url": "https://popcdn.day/go.php?stream=beINMAX6FR"
+      },
+      {
+        "name": "BeinFr2",
+        "url": "https://bolaloca.my/player/3/6"
+      },
+      {
+        "name": "SkyDe",
+        "url": "https://bolaloca.my/player/3/111"
+      },
+      {
+        "name": "SkyDe2",
+        "url": "https://www1.sportsonline.cv/channels/hd/hd3.php"
+      },
+      {
+        "name": "Espn",
+        "url": "https://bolaloca.my/player/3/91"
+      },
+      {
+        "name": "SporTv1",
+        "url": "https://popcdn.day/go.php?stream=SPORTV1BR"
+      },
+      {
+        "name": "SporTv2",
+        "url": "https://www2.sportzonline.click/channels/bra/br1.php"
+      },
+      {
+        "name": "DaznPT",
+        "url": "https://popcdn.day/go.php?stream=ELEVEN4"
+      },
+      {
+        "name": "ElevenSp",
+        "url": "https://popcdn.day/go.php?stream=ElevenSports2PL"
+      },
+      {
+        "name": "SkySp",
+        "url": "https://popcdn.day/go.php?stream=SkySportMaxIT"
+      },
+      {
+        "name": "NovaSp",
+        "url": "https://popcdn.day/on.php?stream=NOVASPORTS3"
+      },
+      {
+        "name": "DigiSp",
+        "url": "https://popcdn.day/go.php?stream=DIGISPORT4"
+      },
+      {
+        "name": "EspnArg",
+        "url": "https://popcdn.day/go.php?stream=ESPN3ARG"
+      },
+      {
+        "name": "PrimaSp",
+        "url": "https://popcdn.day/go.php?stream=PrimaSport3"
+      },
+      {
+        "name": "SportIL",
+        "url": "https://popcdn.day/go.php?stream=SPORT3IL"
+      },
+      {
+        "name": "بث",
+        "url": "https://koraiframtoday.blogspot.com/?src="
+      },
+      {
+        "name": "بث",
+        "url": "https://koraiframtoday.blogspot.com/?src="
+      }
+    ]
   },
   {
     "time": "2026-02-08 22:30 IST",
@@ -503,8 +706,37 @@
     "label": "int-sas",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/224.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/266.png",
-    "url": "https://yallashoot.cfd/albaplayer/sassuolo-vs-inter-milan/",
-    "servers": []
+    "url": "https://gametimes.plus/home/blog2/",
+    "servers": [
+      {
+        "name": "Home",
+        "url": "https://gametimes.plus/home/blog2/"
+      },
+      {
+        "name": "C+Foot1",
+        "url": "https://bolaloca.my/player/3/138"
+      },
+      {
+        "name": "SportGr",
+        "url": "https://bolaloca.my/player/3/45"
+      },
+      {
+        "name": "ExtraSp",
+        "url": "https://bolaloca.my/player/3/70"
+      },
+      {
+        "name": "Espn",
+        "url": "https://bolaloca.my/player/3/89"
+      },
+      {
+        "name": "Espn",
+        "url": "https://bolaloca.my/player/3/97"
+      },
+      {
+        "name": "Espn",
+        "url": "https://bolaloca.my/player/3/149"
+      }
+    ]
   },
   {
     "time": "2026-02-08 22:30 IST",
