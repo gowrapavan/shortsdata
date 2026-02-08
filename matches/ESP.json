@@ -5609,7 +5609,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-02-08",
     "DateTime": "2026-02-08T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 263,
@@ -5620,12 +5620,12 @@
     "AwayTeamName": "Getafe CF",
     "HomeTeamLogo": "https://crests.football-data.org/263.png",
     "AwayTeamLogo": "https://crests.football-data.org/82.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
+    "Result": 82,
     "Points": {
       "263": 0,
-      "82": 0
+      "82": 3
     },
     "Goals": []
   },
@@ -5646,8 +5646,8 @@
     "AwayTeamName": "Levante UD",
     "HomeTeamLogo": "https://crests.football-data.org/77.png",
     "AwayTeamLogo": "https://crests.football-data.org/88.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "77": 0,
@@ -5802,8 +5802,8 @@
     "AwayTeamName": "Girona FC",
     "HomeTeamLogo": "https://crests.football-data.org/559.png",
     "AwayTeamLogo": "https://crests.football-data.org/298.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "559": 0,
