@@ -6171,7 +6171,7 @@
     "RoundName": "Premier League",
     "Date": "2026-02-08",
     "DateTime": "2026-02-08T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 397,
@@ -6183,11 +6183,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/397.png",
     "AwayTeamLogo": "https://crests.football-data.org/354.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 354,
     "Points": {
       "397": 0,
-      "354": 0
+      "354": 3
     },
     "Goals": []
   },
@@ -6286,8 +6286,8 @@
     "AwayTeamName": "Manchester City FC",
     "HomeTeamLogo": "https://crests.football-data.org/64.png",
     "AwayTeamLogo": "https://crests.football-data.org/65.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "64": 0,

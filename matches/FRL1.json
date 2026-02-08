@@ -4595,7 +4595,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-08",
     "DateTime": "2026-02-08T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 533,
@@ -4606,11 +4606,11 @@
     "AwayTeamName": "RC Strasbourg Alsace",
     "HomeTeamLogo": "https://crests.football-data.org/533.png",
     "AwayTeamLogo": "https://crests.football-data.org/576.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 533,
     "Points": {
-      "533": 0,
+      "533": 3,
       "576": 0
     },
     "Goals": []
@@ -4621,7 +4621,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-08",
     "DateTime": "2026-02-08T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 519,
@@ -4632,12 +4632,12 @@
     "AwayTeamName": "Paris FC",
     "HomeTeamLogo": "https://crests.football-data.org/519.png",
     "AwayTeamLogo": "https://crests.football-data.org/1045.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "519": 0,
-      "1045": 0
+      "519": 1,
+      "1045": 1
     },
     "Goals": []
   },
@@ -4699,7 +4699,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-08",
     "DateTime": "2026-02-08T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 522,
@@ -4714,8 +4714,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "522": 0,
-      "548": 0
+      "522": 1,
+      "548": 1
     },
     "Goals": []
   },
@@ -4777,7 +4777,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-08",
     "DateTime": "2026-02-08T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 532,
@@ -4788,11 +4788,11 @@
     "AwayTeamName": "Toulouse FC",
     "HomeTeamLogo": "https://crests.football-data.org/532.png",
     "AwayTeamLogo": "https://crests.football-data.org/511.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 532,
     "Points": {
-      "532": 0,
+      "532": 3,
       "511": 0
     },
     "Goals": []

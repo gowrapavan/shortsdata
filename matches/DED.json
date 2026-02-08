@@ -4811,7 +4811,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-02-08",
     "DateTime": "2026-02-08T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 682,
@@ -4822,12 +4822,12 @@
     "AwayTeamName": "AFC Ajax",
     "HomeTeamLogo": "https://crests.football-data.org/682.png",
     "AwayTeamLogo": "https://crests.football-data.org/678.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "682": 0,
-      "678": 0
+      "682": 1,
+      "678": 1
     },
     "Goals": []
   },
@@ -4837,7 +4837,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-02-08",
     "DateTime": "2026-02-08T15:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 677,
@@ -4848,12 +4848,12 @@
     "AwayTeamName": "PSV",
     "HomeTeamLogo": "https://crests.football-data.org/677.png",
     "AwayTeamLogo": "https://crests.football-data.org/674.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 674,
     "Points": {
       "677": 0,
-      "674": 0
+      "674": 3
     },
     "Goals": []
   },
@@ -4915,7 +4915,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-02-08",
     "DateTime": "2026-02-08T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 718,
@@ -4927,11 +4927,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/718.png",
     "AwayTeamLogo": "https://crests.football-data.org/1912.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "718": 0,
-      "1912": 0
+      "718": 1,
+      "1912": 1
     },
     "Goals": []
   },

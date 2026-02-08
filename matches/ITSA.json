@@ -6124,8 +6124,8 @@
     "AwayTeamName": "FC Internazionale Milano",
     "HomeTeamLogo": "https://crests.football-data.org/471.png",
     "AwayTeamLogo": "https://crests.football-data.org/108.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 4,
     "Result": null,
     "Points": {
       "471": 0,
@@ -6139,7 +6139,7 @@
     "RoundName": "Serie A",
     "Date": "2026-02-08",
     "DateTime": "2026-02-08T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5890,
@@ -6150,11 +6150,11 @@
     "AwayTeamName": "Udinese Calcio",
     "HomeTeamLogo": "https://crests.football-data.org/5890.png",
     "AwayTeamLogo": "https://crests.football-data.org/115.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 5890,
     "Points": {
-      "5890": 0,
+      "5890": 3,
       "115": 0
     },
     "Goals": []
