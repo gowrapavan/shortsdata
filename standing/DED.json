@@ -37,18 +37,37 @@
             "tla": "PSV",
             "crest": "https://crests.football-data.org/674.png"
           },
-          "playedGames": 21,
+          "playedGames": 22,
           "form": null,
-          "won": 18,
+          "won": 19,
           "draw": 2,
           "lost": 1,
-          "points": 56,
-          "goalsFor": 64,
-          "goalsAgainst": 25,
-          "goalDifference": 39
+          "points": 59,
+          "goalsFor": 66,
+          "goalsAgainst": 26,
+          "goalDifference": 40
         },
         {
           "position": 2,
+          "team": {
+            "id": 675,
+            "name": "Feyenoord Rotterdam",
+            "shortName": "Feyenoord",
+            "tla": "FEY",
+            "crest": "https://crests.football-data.org/675.png"
+          },
+          "playedGames": 22,
+          "form": null,
+          "won": 13,
+          "draw": 3,
+          "lost": 6,
+          "points": 42,
+          "goalsFor": 52,
+          "goalsAgainst": 32,
+          "goalDifference": 20
+        },
+        {
+          "position": 3,
           "team": {
             "id": 1915,
             "name": "NEC",
@@ -67,25 +86,6 @@
           "goalDifference": 21
         },
         {
-          "position": 3,
-          "team": {
-            "id": 675,
-            "name": "Feyenoord Rotterdam",
-            "shortName": "Feyenoord",
-            "tla": "FEY",
-            "crest": "https://crests.football-data.org/675.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 12,
-          "draw": 3,
-          "lost": 6,
-          "points": 39,
-          "goalsFor": 51,
-          "goalsAgainst": 32,
-          "goalDifference": 19
-        },
-        {
           "position": 4,
           "team": {
             "id": 678,
@@ -94,14 +94,14 @@
             "tla": "AJA",
             "crest": "https://crests.football-data.org/678.png"
           },
-          "playedGames": 21,
+          "playedGames": 22,
           "form": null,
           "won": 10,
-          "draw": 8,
+          "draw": 9,
           "lost": 3,
-          "points": 38,
-          "goalsFor": 41,
-          "goalsAgainst": 28,
+          "points": 39,
+          "goalsFor": 42,
+          "goalsAgainst": 29,
           "goalDifference": 13
         },
         {
@@ -151,14 +151,14 @@
             "tla": "AZ",
             "crest": "https://crests.football-data.org/682.png"
           },
-          "playedGames": 21,
+          "playedGames": 22,
           "form": null,
           "won": 9,
-          "draw": 5,
+          "draw": 6,
           "lost": 7,
-          "points": 32,
-          "goalsFor": 36,
-          "goalsAgainst": 35,
+          "points": 33,
+          "goalsFor": 37,
+          "goalsAgainst": 36,
           "goalDifference": 1
         },
         {
@@ -170,15 +170,15 @@
             "tla": "GRO",
             "crest": "https://crests.football-data.org/677.png"
           },
-          "playedGames": 21,
+          "playedGames": 22,
           "form": null,
           "won": 9,
           "draw": 4,
-          "lost": 8,
+          "lost": 9,
           "points": 31,
-          "goalsFor": 28,
-          "goalsAgainst": 26,
-          "goalDifference": 2
+          "goalsFor": 29,
+          "goalsAgainst": 28,
+          "goalDifference": 1
         },
         {
           "position": 9,
@@ -265,15 +265,15 @@
             "tla": "UTR",
             "crest": "https://crests.football-data.org/676.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 6,
           "draw": 6,
-          "lost": 8,
+          "lost": 9,
           "points": 24,
           "goalsFor": 30,
-          "goalsAgainst": 27,
-          "goalDifference": 3
+          "goalsAgainst": 28,
+          "goalDifference": 2
         },
         {
           "position": 14,
@@ -284,14 +284,14 @@
             "tla": "GOA",
             "crest": "https://crests.football-data.org/718.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 4,
-          "draw": 10,
+          "draw": 11,
           "lost": 6,
-          "points": 22,
-          "goalsFor": 31,
-          "goalsAgainst": 34,
+          "points": 23,
+          "goalsFor": 32,
+          "goalsAgainst": 35,
           "goalDifference": -3
         },
         {
@@ -316,6 +316,25 @@
         {
           "position": 16,
           "team": {
+            "id": 1912,
+            "name": "Telstar 1963",
+            "shortName": "Telstar",
+            "tla": "TEL",
+            "crest": "https://crests.football-data.org/1912.png"
+          },
+          "playedGames": 22,
+          "form": null,
+          "won": 3,
+          "draw": 8,
+          "lost": 11,
+          "points": 17,
+          "goalsFor": 26,
+          "goalsAgainst": 38,
+          "goalDifference": -12
+        },
+        {
+          "position": 17,
+          "team": {
             "id": 671,
             "name": "Heracles Almelo",
             "shortName": "Heracles",
@@ -331,25 +350,6 @@
           "goalsFor": 31,
           "goalsAgainst": 57,
           "goalDifference": -26
-        },
-        {
-          "position": 17,
-          "team": {
-            "id": 1912,
-            "name": "Telstar 1963",
-            "shortName": "Telstar",
-            "tla": "TEL",
-            "crest": "https://crests.football-data.org/1912.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 3,
-          "draw": 7,
-          "lost": 11,
-          "points": 16,
-          "goalsFor": 25,
-          "goalsAgainst": 37,
-          "goalDifference": -12
         },
         {
           "position": 18,
