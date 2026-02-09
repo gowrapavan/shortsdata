@@ -4725,7 +4725,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-08",
     "DateTime": "2026-02-08T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 524,
@@ -4736,11 +4736,11 @@
     "AwayTeamName": "Olympique de Marseille",
     "HomeTeamLogo": "https://crests.football-data.org/524.png",
     "AwayTeamLogo": "https://crests.football-data.org/516.png",
-    "HomeTeamScore": 4,
+    "HomeTeamScore": 5,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 524,
     "Points": {
-      "524": 0,
+      "524": 3,
       "516": 0
     },
     "Goals": []

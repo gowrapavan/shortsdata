@@ -5817,7 +5817,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-02-08",
     "DateTime": "2026-02-08T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 95,
@@ -5829,11 +5829,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/95.png",
     "AwayTeamLogo": "https://crests.football-data.org/86.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 86,
     "Points": {
       "95": 0,
-      "86": 0
+      "86": 3
     },
     "Goals": []
   },
@@ -6125,10 +6125,10 @@
   },
   {
     "GameId": 544451,
-    "RoundId": 7,
+    "RoundId": 23,
     "RoundName": "Primera Division",
-    "Date": "2026-02-22",
-    "DateTime": "2026-02-22T00:00:00Z",
+    "Date": "2026-02-23",
+    "DateTime": "2026-02-23T20:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
