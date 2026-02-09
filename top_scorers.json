@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-08T06:35:26.822194Z",
+    "last_updated": "2026-02-09T06:52:07.411604Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -10,9 +10,9 @@
                     "player_name": "Erling Haaland",
                     "team_name": "Manchester City FC",
                     "team_crest": "https://crests.football-data.org/65.png",
-                    "goals": 20,
-                    "assists": 5,
-                    "penalties": 2,
+                    "goals": 21,
+                    "assists": 6,
+                    "penalties": 3,
                     "nationality": "Norway"
                 },
                 {
@@ -107,7 +107,7 @@
                     "player_name": "Kylian Mbappé",
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 22,
+                    "goals": 23,
                     "assists": 4,
                     "penalties": 8,
                     "nationality": "France"
@@ -204,7 +204,7 @@
                     "player_name": "Lautaro Martínez",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
-                    "goals": 13,
+                    "goals": 14,
                     "assists": 4,
                     "penalties": null,
                     "nationality": "Argentina"
@@ -255,6 +255,15 @@
                     "nationality": "Denmark"
                 },
                 {
+                    "player_name": "Marcus Thuram-Ulien",
+                    "team_name": "FC Internazionale Milano",
+                    "team_crest": "https://crests.football-data.org/108.png",
+                    "goals": 7,
+                    "assists": 3,
+                    "penalties": null,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Riccardo Orsolini",
                     "team_name": "Bologna FC 1909",
                     "team_crest": "https://crests.football-data.org/103.png",
@@ -280,15 +289,6 @@
                     "assists": 2,
                     "penalties": 3,
                     "nationality": "Turkey"
-                },
-                {
-                    "player_name": "Gift Orban",
-                    "team_name": "Hellas Verona FC",
-                    "team_crest": "https://crests.football-data.org/450.png",
-                    "goals": 7,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "Nigeria"
                 }
             ]
         },
@@ -301,10 +301,19 @@
                     "player_name": "Harry Kane",
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 22,
-                    "assists": 3,
-                    "penalties": 6,
+                    "goals": 24,
+                    "assists": 4,
+                    "penalties": 8,
                     "nationality": "England"
+                },
+                {
+                    "player_name": "Luis Díaz",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 13,
+                    "assists": 7,
+                    "penalties": null,
+                    "nationality": "Colombia"
                 },
                 {
                     "player_name": "Deniz Undav",
@@ -320,18 +329,9 @@
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
                     "goals": 10,
-                    "assists": 15,
+                    "assists": 16,
                     "penalties": null,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Luis Díaz",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 10,
-                    "assists": 7,
-                    "penalties": null,
-                    "nationality": "Colombia"
                 },
                 {
                     "player_name": "Haris Tabaković",
@@ -364,10 +364,19 @@
                     "player_name": "Andrej Kramarić",
                     "team_name": "TSG 1899 Hoffenheim",
                     "team_crest": "https://crests.football-data.org/2.png",
-                    "goals": 8,
+                    "goals": 9,
                     "assists": 4,
                     "penalties": 3,
                     "nationality": "Croatia"
+                },
+                {
+                    "player_name": "Christoph Baumgartner",
+                    "team_name": "RB Leipzig",
+                    "team_crest": "https://crests.football-data.org/721.png",
+                    "goals": 8,
+                    "assists": 6,
+                    "penalties": null,
+                    "nationality": "Austria"
                 },
                 {
                     "player_name": "Jonathan Burkardt",
@@ -377,15 +386,6 @@
                     "assists": null,
                     "penalties": 1,
                     "nationality": "Germany"
-                },
-                {
-                    "player_name": "Mohammed Amoura",
-                    "team_name": "VfL Wolfsburg",
-                    "team_crest": "https://crests.football-data.org/11.png",
-                    "goals": 7,
-                    "assists": 2,
-                    "penalties": 1,
-                    "nationality": "Algeria"
                 }
             ]
         },
@@ -467,6 +467,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Ousmane Dembélé",
+                    "team_name": "Paris Saint-Germain FC",
+                    "team_crest": "https://crests.football-data.org/524.png",
+                    "goals": 7,
+                    "assists": 4,
+                    "penalties": 2,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Romain Del Castillo",
                     "team_name": "Stade Brestois 29",
                     "team_crest": "https://crests.football-data.org/512.png",
@@ -474,15 +483,6 @@
                     "assists": 2,
                     "penalties": 6,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Ansu Fati",
-                    "team_name": "AS Monaco FC",
-                    "team_crest": "https://crests.football-data.org/548.png",
-                    "goals": 7,
-                    "assists": null,
-                    "penalties": 3,
-                    "nationality": "Spain"
                 }
             ]
         },
@@ -519,6 +519,15 @@
                     "nationality": "Ireland"
                 },
                 {
+                    "player_name": "Ismael Saibari",
+                    "team_name": "PSV",
+                    "team_crest": "https://crests.football-data.org/674.png",
+                    "goals": 11,
+                    "assists": 2,
+                    "penalties": 1,
+                    "nationality": "Morocco"
+                },
+                {
                     "player_name": "Koen Kostons",
                     "team_name": "PEC Zwolle",
                     "team_crest": "https://crests.football-data.org/684.png",
@@ -553,15 +562,6 @@
                     "assists": 7,
                     "penalties": null,
                     "nationality": "Belgium"
-                },
-                {
-                    "player_name": "Ismael Saibari",
-                    "team_name": "PSV",
-                    "team_crest": "https://crests.football-data.org/674.png",
-                    "goals": 10,
-                    "assists": 2,
-                    "penalties": 1,
-                    "nationality": "Morocco"
                 },
                 {
                     "player_name": "Joey Veerman",
