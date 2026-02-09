@@ -126,6 +126,25 @@
         {
           "position": 6,
           "team": {
+            "id": 5531,
+            "name": "FC Famalicão",
+            "shortName": "Famalicão",
+            "tla": "FAM",
+            "crest": "https://crests.football-data.org/5531.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 9,
+          "draw": 5,
+          "lost": 7,
+          "points": 32,
+          "goalsFor": 27,
+          "goalsAgainst": 20,
+          "goalDifference": 7
+        },
+        {
+          "position": 7,
+          "team": {
             "id": 582,
             "name": "GD Estoril Praia",
             "shortName": "Estoril Praia",
@@ -143,7 +162,7 @@
           "goalDifference": 8
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 583,
             "name": "Moreirense FC",
@@ -160,25 +179,6 @@
           "goalsFor": 27,
           "goalsAgainst": 29,
           "goalDifference": -2
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 5531,
-            "name": "FC Famalicão",
-            "shortName": "Famalicão",
-            "tla": "FAM",
-            "crest": "https://crests.football-data.org/5531.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 8,
-          "draw": 5,
-          "lost": 7,
-          "points": 29,
-          "goalsFor": 24,
-          "goalsAgainst": 19,
-          "goalDifference": 5
         },
         {
           "position": 9,
@@ -360,15 +360,15 @@
             "tla": "AVS",
             "crest": "https://crests.football-data.org/10340.png"
           },
-          "playedGames": 20,
+          "playedGames": 21,
           "form": null,
           "won": 0,
           "draw": 5,
-          "lost": 15,
+          "lost": 16,
           "points": 5,
-          "goalsFor": 14,
-          "goalsAgainst": 51,
-          "goalDifference": -37
+          "goalsFor": 15,
+          "goalsAgainst": 54,
+          "goalDifference": -39
         }
       ]
     }

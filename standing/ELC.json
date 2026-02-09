@@ -19,7 +19,7 @@
     "id": 2416,
     "startDate": "2025-08-08",
     "endDate": "2026-12-29",
-    "currentMatchday": 31,
+    "currentMatchday": 32,
     "winner": null
   },
   "standings": [
@@ -30,6 +30,25 @@
       "table": [
         {
           "position": 1,
+          "team": {
+            "id": 343,
+            "name": "Middlesbrough FC",
+            "shortName": "Middlesbrough",
+            "tla": "MID",
+            "crest": "https://crests.football-data.org/343.png"
+          },
+          "playedGames": 31,
+          "form": null,
+          "won": 18,
+          "draw": 7,
+          "lost": 6,
+          "points": 61,
+          "goalsFor": 48,
+          "goalsAgainst": 29,
+          "goalDifference": 19
+        },
+        {
+          "position": 2,
           "team": {
             "id": 1076,
             "name": "Coventry City FC",
@@ -46,25 +65,6 @@
           "goalsFor": 63,
           "goalsAgainst": 35,
           "goalDifference": 28
-        },
-        {
-          "position": 2,
-          "team": {
-            "id": 343,
-            "name": "Middlesbrough FC",
-            "shortName": "Middlesbrough",
-            "tla": "MID",
-            "crest": "https://crests.football-data.org/343.png"
-          },
-          "playedGames": 30,
-          "form": null,
-          "won": 17,
-          "draw": 7,
-          "lost": 6,
-          "points": 58,
-          "goalsFor": 47,
-          "goalsAgainst": 29,
-          "goalDifference": 18
         },
         {
           "position": 3,
@@ -322,15 +322,15 @@
             "tla": "SHE",
             "crest": "https://crests.football-data.org/356.png"
           },
-          "playedGames": 30,
+          "playedGames": 31,
           "form": null,
           "won": 12,
           "draw": 3,
-          "lost": 15,
+          "lost": 16,
           "points": 39,
           "goalsFor": 43,
-          "goalsAgainst": 43,
-          "goalDifference": 0
+          "goalsAgainst": 44,
+          "goalDifference": -1
         },
         {
           "position": 17,
