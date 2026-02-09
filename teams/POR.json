@@ -53,11 +53,11 @@
         "nationality": "Poland"
       },
       {
-        "id": 137015,
-        "name": "Alfonso Pastor",
+        "id": 135116,
+        "name": "Ennio van der Gouw",
         "position": "Goalkeeper",
-        "dateOfBirth": "2000-10-04",
-        "nationality": "Spain"
+        "dateOfBirth": "2001-01-01",
+        "nationality": "Netherlands"
       },
       {
         "id": 4266,
@@ -81,25 +81,11 @@
         "nationality": "Greece"
       },
       {
-        "id": 98870,
-        "name": "Jonathan Panzo",
-        "position": "Defence",
-        "dateOfBirth": "2000-10-25",
-        "nationality": "England"
-      },
-      {
         "id": 193588,
         "name": "Joao Tome",
         "position": "Defence",
         "dateOfBirth": "2003-02-12",
         "nationality": "Portugal"
-      },
-      {
-        "id": 209474,
-        "name": "Nikos Athanasiou",
-        "position": "Defence",
-        "dateOfBirth": "2001-03-16",
-        "nationality": "Greece"
       },
       {
         "id": 209594,
@@ -114,6 +100,13 @@
         "position": "Defence",
         "dateOfBirth": "2002-02-28",
         "nationality": "Argentina"
+      },
+      {
+        "id": 276192,
+        "name": "Gustavo",
+        "position": "Defence",
+        "dateOfBirth": "2004-07-25",
+        "nationality": "Brazil"
       },
       {
         "id": 188099,
@@ -134,6 +127,13 @@
         "name": "Diogo Oliveira",
         "position": "Midfield",
         "dateOfBirth": "2002-07-16",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 250777,
+        "name": "Ryan",
+        "position": "Midfield",
+        "dateOfBirth": "2002-12-07",
         "nationality": "Brazil"
       },
       {
@@ -172,13 +172,6 @@
         "nationality": "Croatia"
       },
       {
-        "id": 141542,
-        "name": "Clayton",
-        "position": "Offence",
-        "dateOfBirth": "1999-01-11",
-        "nationality": "Brazil"
-      },
-      {
         "id": 211519,
         "name": "Tobias Medina",
         "position": "Offence",
@@ -186,11 +179,25 @@
         "nationality": "Argentina"
       },
       {
+        "id": 243745,
+        "name": "Tamble Monteiro",
+        "position": "Offence",
+        "dateOfBirth": "2000-11-15",
+        "nationality": "Guinea-Bissau"
+      },
+      {
         "id": 244984,
         "name": "Karem Zoabi",
         "position": "Offence",
         "dateOfBirth": "2006-05-03",
         "nationality": "Israel"
+      },
+      {
+        "id": 247235,
+        "name": "Jalen Blesa",
+        "position": "Offence",
+        "dateOfBirth": "2001-02-05",
+        "nationality": "Spain"
       },
       {
         "id": 185179,
@@ -204,6 +211,13 @@
         "name": "João Graça",
         "position": "Central Midfield",
         "dateOfBirth": "1995-06-18",
+        "nationality": "Portugal"
+      },
+      {
+        "id": 178767,
+        "name": "Leonardo Buta",
+        "position": "Left-Back",
+        "dateOfBirth": "2002-06-05",
         "nationality": "Portugal"
       },
       {
@@ -233,13 +247,6 @@
         "position": "Right Winger",
         "dateOfBirth": "1998-07-02",
         "nationality": "Greece"
-      },
-      {
-        "id": 227007,
-        "name": "Eric da Silva Moreira",
-        "position": "Right Midfield",
-        "dateOfBirth": "2006-05-03",
-        "nationality": "Germany"
       },
       {
         "id": 214166,
@@ -402,13 +409,6 @@
         "position": "Midfield",
         "dateOfBirth": "1999-06-29",
         "nationality": "Georgia"
-      },
-      {
-        "id": 220542,
-        "name": "Alisson Santos",
-        "position": "Midfield",
-        "dateOfBirth": "2002-09-27",
-        "nationality": "Brazil"
       },
       {
         "id": 270551,
@@ -741,13 +741,6 @@
         "nationality": "Portugal"
       },
       {
-        "id": 147286,
-        "name": "Jakub Kiwior",
-        "position": "Centre-Back",
-        "dateOfBirth": "2000-02-15",
-        "nationality": "Poland"
-      },
-      {
         "id": 127034,
         "name": "Borja Sainz",
         "position": "Left Winger",
@@ -818,6 +811,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 2126,
+        "name": "Seko Fofana",
+        "position": "Central Midfield",
+        "dateOfBirth": "1995-05-07",
+        "nationality": "Ivory Coast"
+      },
+      {
         "id": 2018,
         "name": "Yann Karamoh",
         "position": "Left Winger",
@@ -858,6 +858,13 @@
         "position": "Central Midfield",
         "dateOfBirth": "2002-05-27",
         "nationality": "Spain"
+      },
+      {
+        "id": 147286,
+        "name": "Jakub Kiwior",
+        "position": "Centre-Back",
+        "dateOfBirth": "2000-02-15",
+        "nationality": "Poland"
       }
     ],
     "staff": [],
@@ -978,13 +985,6 @@
         "position": "Defence",
         "dateOfBirth": "2004-09-02",
         "nationality": "Israel"
-      },
-      {
-        "id": 276658,
-        "name": "Tiago Parente",
-        "position": "Defence",
-        "dateOfBirth": "2004-01-14",
-        "nationality": "Portugal"
       },
       {
         "id": 281951,
@@ -1163,6 +1163,13 @@
         "nationality": "Portugal"
       },
       {
+        "id": 249408,
+        "name": "Kevyn Monteiro",
+        "position": "Defence",
+        "dateOfBirth": "2005-09-13",
+        "nationality": "Brazil"
+      },
+      {
         "id": 262652,
         "name": "Kiko",
         "position": "Defence",
@@ -1182,13 +1189,6 @@
         "position": "Defence",
         "dateOfBirth": "2002-05-04",
         "nationality": "Spain"
-      },
-      {
-        "id": 74795,
-        "name": "Bernardo Martins",
-        "position": "Midfield",
-        "dateOfBirth": "1997-12-04",
-        "nationality": "Portugal"
       },
       {
         "id": 178712,
@@ -1238,13 +1238,6 @@
         "position": "Midfield",
         "dateOfBirth": "2007-12-17",
         "nationality": "Portugal"
-      },
-      {
-        "id": 45464,
-        "name": "Gabrielzinho",
-        "position": "Offence",
-        "dateOfBirth": "1996-09-29",
-        "nationality": "Brazil"
       },
       {
         "id": 105208,
@@ -1409,18 +1402,18 @@
         "nationality": "Portugal"
       },
       {
-        "id": 184995,
-        "name": "Arnau Solà",
-        "position": "Defence",
-        "dateOfBirth": "2003-04-04",
-        "nationality": "Spain"
-      },
-      {
         "id": 216483,
         "name": "Omar Fayed",
         "position": "Defence",
         "dateOfBirth": "2003-07-04",
         "nationality": "Egypt"
+      },
+      {
+        "id": 275631,
+        "name": "José Silva",
+        "position": "Defence",
+        "dateOfBirth": "2005-08-20",
+        "nationality": "Portugal"
       },
       {
         "id": 81391,
@@ -1442,13 +1435,6 @@
         "position": "Offence",
         "dateOfBirth": "2002-05-14",
         "nationality": "Uruguay"
-      },
-      {
-        "id": 212549,
-        "name": "Romualdas Jansonas",
-        "position": "Offence",
-        "dateOfBirth": "2005-06-23",
-        "nationality": "Lithuania"
       },
       {
         "id": 270595,
@@ -1505,6 +1491,13 @@
         "position": "Centre-Back",
         "dateOfBirth": "2001-02-13",
         "nationality": "Uruguay"
+      },
+      {
+        "id": 152585,
+        "name": "Fally Mayulu",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2002-07-15",
+        "nationality": "France"
       },
       {
         "id": 143641,
@@ -1676,11 +1669,25 @@
         "nationality": "Colombia"
       },
       {
+        "id": 187212,
+        "name": "Joao Silva",
+        "position": "Defence",
+        "dateOfBirth": "1999-01-14",
+        "nationality": "Portugal"
+      },
+      {
         "id": 281956,
         "name": "Tomás Brito",
         "position": "Defence",
         "dateOfBirth": "2007-09-13",
         "nationality": "Portugal"
+      },
+      {
+        "id": 82672,
+        "name": "Benjamin Mbunga-Kimpioka",
+        "position": "Midfield",
+        "dateOfBirth": "2000-02-21",
+        "nationality": "Sweden"
       },
       {
         "id": 133788,
@@ -1711,13 +1718,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 246101,
-        "name": "Diego Tavares",
-        "position": "Midfield",
-        "dateOfBirth": "2005-03-12",
-        "nationality": "Portugal"
-      },
-      {
         "id": 262938,
         "name": "Juan Rodríguez",
         "position": "Midfield",
@@ -1746,13 +1746,6 @@
         "nationality": "Ivory Coast"
       },
       {
-        "id": 206797,
-        "name": "Afonso Rodrigues",
-        "position": "Offence",
-        "dateOfBirth": "2002-08-19",
-        "nationality": "Portugal"
-      },
-      {
         "id": 242516,
         "name": "Pedro Maranhão",
         "position": "Offence",
@@ -1760,11 +1753,25 @@
         "nationality": "Brazil"
       },
       {
-        "id": 281160,
-        "name": "Yefrei Rodríguez",
-        "position": "Offence",
-        "dateOfBirth": "2005-05-11",
-        "nationality": "Colombia"
+        "id": 255930,
+        "name": "Makan Aïko",
+        "position": "Left Winger",
+        "dateOfBirth": "2001-01-07",
+        "nationality": "France"
+      },
+      {
+        "id": 251133,
+        "name": "Xabi Huarte",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2001-02-25",
+        "nationality": "Spain"
+      },
+      {
+        "id": 188926,
+        "name": "Joe Hodge",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2004-06-05",
+        "nationality": "England"
       },
       {
         "id": 148272,
@@ -1793,27 +1800,6 @@
         "position": "Centre-Forward",
         "dateOfBirth": "1996-04-26",
         "nationality": "USA"
-      },
-      {
-        "id": 255930,
-        "name": "Makan Aïko",
-        "position": "Left Winger",
-        "dateOfBirth": "2001-01-07",
-        "nationality": "France"
-      },
-      {
-        "id": 251133,
-        "name": "Xabi Huarte",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2001-02-25",
-        "nationality": "Spain"
-      },
-      {
-        "id": 188926,
-        "name": "Joe Hodge",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2004-06-05",
-        "nationality": "England"
       }
     ],
     "staff": [],
@@ -2301,13 +2287,6 @@
         "nationality": "Portugal"
       },
       {
-        "id": 246141,
-        "name": "Mootaz Nourani",
-        "position": "Midfield",
-        "dateOfBirth": null,
-        "nationality": "Tunisia"
-      },
-      {
         "id": 270035,
         "name": "Chiheb Labidi",
         "position": "Midfield",
@@ -2415,14 +2394,14 @@
       }
     ],
     "coach": {
-      "id": 136598,
+      "id": 45215,
       "firstName": "",
-      "lastName": "Vasco Matos",
-      "name": "Vasco Matos",
-      "dateOfBirth": "1980-10-10",
+      "lastName": "Petit",
+      "name": "Petit",
+      "dateOfBirth": "1976-09-25",
       "nationality": "Portugal",
       "contract": {
-        "start": "2023-07",
+        "start": "2026-02",
         "until": "2027-06"
       }
     },
@@ -2477,17 +2456,17 @@
         "nationality": "Portugal"
       },
       {
-        "id": 45265,
-        "name": "Luís Rocha",
-        "position": "Defence",
-        "dateOfBirth": "1986-08-13",
-        "nationality": "Portugal"
-      },
-      {
         "id": 165583,
         "name": "Paulo Victor",
         "position": "Defence",
         "dateOfBirth": "2001-04-13",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 169655,
+        "name": "Guilherme Romão",
+        "position": "Defence",
+        "dateOfBirth": "1997-10-07",
         "nationality": "Brazil"
       },
       {
@@ -2496,6 +2475,13 @@
         "position": "Defence",
         "dateOfBirth": "1998-10-10",
         "nationality": "Portugal"
+      },
+      {
+        "id": 179535,
+        "name": "Marcos Victor",
+        "position": "Defence",
+        "dateOfBirth": "2001-12-26",
+        "nationality": "Brazil"
       },
       {
         "id": 181619,
@@ -2509,6 +2495,13 @@
         "name": "Sidney Lima",
         "position": "Defence",
         "dateOfBirth": "1997-01-17",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 264159,
+        "name": "Evertow",
+        "position": "Defence",
+        "dateOfBirth": "2007-02-01",
         "nationality": "Brazil"
       },
       {
@@ -2561,10 +2554,31 @@
         "nationality": "Portugal"
       },
       {
+        "id": 115128,
+        "name": "Darlan Mendes",
+        "position": "Midfield",
+        "dateOfBirth": "1998-04-16",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 179772,
+        "name": "Andrey",
+        "position": "Midfield",
+        "dateOfBirth": "2002-02-06",
+        "nationality": "Brazil"
+      },
+      {
         "id": 185110,
         "name": "Klismahn",
         "position": "Midfield",
         "dateOfBirth": "1999-11-23",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 193668,
+        "name": "Vitinho",
+        "position": "Midfield",
+        "dateOfBirth": "2003-03-25",
         "nationality": "Brazil"
       },
       {
@@ -2589,17 +2603,17 @@
         "nationality": "Portugal"
       },
       {
+        "id": 292212,
+        "name": "Henzo Marinho",
+        "position": "Midfield",
+        "dateOfBirth": "2007-08-30",
+        "nationality": "Brazil"
+      },
+      {
         "id": 118015,
         "name": "Vinícius",
         "position": "Offence",
         "dateOfBirth": "1999-05-07",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 122353,
-        "name": "Adriano",
-        "position": "Offence",
-        "dateOfBirth": "1999-11-04",
         "nationality": "Brazil"
       },
       {
@@ -2635,6 +2649,13 @@
         "name": "Brenner",
         "position": "Offence",
         "dateOfBirth": "2002-01-02",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 227024,
+        "name": "Luis Fernando",
+        "position": "Offence",
+        "dateOfBirth": "2005-04-12",
         "nationality": "Brazil"
       },
       {
@@ -2779,6 +2800,13 @@
         "nationality": "Angola"
       },
       {
+        "id": 217397,
+        "name": "Vojin Serafimović",
+        "position": "Defence",
+        "dateOfBirth": "2005-10-14",
+        "nationality": "Serbia"
+      },
+      {
         "id": 221571,
         "name": "Ibrahima Ba",
         "position": "Defence",
@@ -2826,13 +2854,6 @@
         "position": "Midfield",
         "dateOfBirth": "2004-12-10",
         "nationality": "France"
-      },
-      {
-        "id": 265516,
-        "name": "Yassir Zabiri",
-        "position": "Midfield",
-        "dateOfBirth": "2005-02-23",
-        "nationality": "Morocco"
       },
       {
         "id": 272442,
@@ -3046,6 +3067,13 @@
         "nationality": "Uruguay"
       },
       {
+        "id": 262713,
+        "name": "Gil Martins",
+        "position": "Midfield",
+        "dateOfBirth": "2006-05-12",
+        "nationality": "Portugal"
+      },
+      {
         "id": 263792,
         "name": "Gui Beleza",
         "position": "Midfield",
@@ -3107,6 +3135,13 @@
         "position": "Offence",
         "dateOfBirth": "2005-01-30",
         "nationality": "Portugal"
+      },
+      {
+        "id": 180125,
+        "name": "Santi García",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2001-08-29",
+        "nationality": "Spain"
       },
       {
         "id": 177301,
@@ -3177,13 +3212,6 @@
         "position": "Right-Back",
         "dateOfBirth": "2001-10-30",
         "nationality": "Portugal"
-      },
-      {
-        "id": 180125,
-        "name": "Santi García",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2001-08-29",
-        "nationality": "Spain"
       }
     ],
     "staff": [],
@@ -3313,18 +3341,18 @@
         "nationality": "Portugal"
       },
       {
-        "id": 262358,
-        "name": "Rodrigo Duarte",
-        "position": "Midfield",
-        "dateOfBirth": "2006-02-07",
-        "nationality": "Portugal"
-      },
-      {
         "id": 280042,
         "name": "Matija Mitrović",
         "position": "Midfield",
         "dateOfBirth": "2004-12-12",
         "nationality": "Serbia"
+      },
+      {
+        "id": 292315,
+        "name": "Zeega",
+        "position": "Midfield",
+        "dateOfBirth": "2008-11-05",
+        "nationality": "Portugal"
       },
       {
         "id": 149724,
@@ -3784,6 +3812,13 @@
         "nationality": "Portugal"
       },
       {
+        "id": 185131,
+        "name": "Rodrigo Moura",
+        "position": "Goalkeeper",
+        "dateOfBirth": "1996-01-25",
+        "nationality": "Brazil"
+      },
+      {
         "id": 246140,
         "name": "Ivan Mandić",
         "position": "Goalkeeper",
@@ -3819,6 +3854,13 @@
         "nationality": "Portugal"
       },
       {
+        "id": 263516,
+        "name": "Pedro Rosas",
+        "position": "Defence",
+        "dateOfBirth": "2000-11-28",
+        "nationality": "Portugal"
+      },
+      {
         "id": 274982,
         "name": "Kaly",
         "position": "Defence",
@@ -3831,13 +3873,6 @@
         "position": "Midfield",
         "dateOfBirth": "1998-01-09",
         "nationality": "France"
-      },
-      {
-        "id": 84102,
-        "name": "Miguel Sousa",
-        "position": "Midfield",
-        "dateOfBirth": "1998-09-19",
-        "nationality": "Portugal"
       },
       {
         "id": 136091,
@@ -3875,11 +3910,39 @@
         "nationality": "Uruguay"
       },
       {
-        "id": 277805,
-        "name": "Renato Nhaga",
-        "position": "Offence",
-        "dateOfBirth": "2007-03-27",
-        "nationality": "Guinea-Bissau"
+        "id": 204134,
+        "name": "Kiki Silva",
+        "position": "Right Winger",
+        "dateOfBirth": "1998-02-14",
+        "nationality": "Portugal"
+      },
+      {
+        "id": 190876,
+        "name": "Joao Marques",
+        "position": "Left Winger",
+        "dateOfBirth": "2002-02-13",
+        "nationality": "Portugal"
+      },
+      {
+        "id": 175919,
+        "name": "Dailon Rocha Livramento",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2001-05-04",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 171553,
+        "name": "Iyad Mohamed",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2001-10-29",
+        "nationality": "France"
+      },
+      {
+        "id": 150925,
+        "name": "Tiago Fonseca Morais",
+        "position": "Left Winger",
+        "dateOfBirth": "2003-09-03",
+        "nationality": "Portugal"
       },
       {
         "id": 126877,
@@ -3936,48 +3999,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "1983-12-22",
         "nationality": "Portugal"
-      },
-      {
-        "id": 204134,
-        "name": "Kiki Silva",
-        "position": "Right Winger",
-        "dateOfBirth": "1998-02-14",
-        "nationality": "Portugal"
-      },
-      {
-        "id": 190876,
-        "name": "Joao Marques",
-        "position": "Left Winger",
-        "dateOfBirth": "2002-02-13",
-        "nationality": "Portugal"
-      },
-      {
-        "id": 175919,
-        "name": "Dailon Rocha Livramento",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2001-05-04",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 171553,
-        "name": "Iyad Mohamed",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2001-10-29",
-        "nationality": "France"
-      },
-      {
-        "id": 150925,
-        "name": "Tiago Fonseca Morais",
-        "position": "Left Winger",
-        "dateOfBirth": "2003-09-03",
-        "nationality": "Portugal"
-      },
-      {
-        "id": 137048,
-        "name": "Yassin Oukili",
-        "position": "Central Midfield",
-        "dateOfBirth": "2001-01-03",
-        "nationality": "Netherlands"
       }
     ],
     "staff": [],
@@ -4058,6 +4079,13 @@
         "nationality": "Portugal"
       },
       {
+        "id": 249393,
+        "name": "Diogo Spencer",
+        "position": "Defence",
+        "dateOfBirth": "2004-04-17",
+        "nationality": "Portugal"
+      },
+      {
         "id": 253528,
         "name": "Julian Martinez",
         "position": "Defence",
@@ -4070,6 +4098,13 @@
         "position": "Defence",
         "dateOfBirth": "2004-08-28",
         "nationality": "Nigeria"
+      },
+      {
+        "id": 18602,
+        "name": "Rhaldney",
+        "position": "Midfield",
+        "dateOfBirth": "1998-11-20",
+        "nationality": "Brazil"
       },
       {
         "id": 30052,
@@ -4168,13 +4203,6 @@
         "position": "Offence",
         "dateOfBirth": "2002-08-30",
         "nationality": "France"
-      },
-      {
-        "id": 203350,
-        "name": "Alexsandro Amorim",
-        "position": "Offence",
-        "dateOfBirth": "2005-05-18",
-        "nationality": "Brazil"
       },
       {
         "id": 203421,
@@ -4311,6 +4339,13 @@
         "nationality": "Portugal"
       },
       {
+        "id": 202975,
+        "name": "Dudu",
+        "position": "Goalkeeper",
+        "dateOfBirth": "1999-02-10",
+        "nationality": "Germany"
+      },
+      {
         "id": 231213,
         "name": "David Grilo",
         "position": "Goalkeeper",
@@ -4332,6 +4367,13 @@
         "nationality": "Sweden"
       },
       {
+        "id": 125171,
+        "name": "Bruno Langa",
+        "position": "Defence",
+        "dateOfBirth": "1997-10-31",
+        "nationality": "Mozambique"
+      },
+      {
         "id": 136782,
         "name": "Luan Patrick",
         "position": "Defence",
@@ -4346,11 +4388,25 @@
         "nationality": "Brazil"
       },
       {
+        "id": 150419,
+        "name": "Yahya Kalley",
+        "position": "Defence",
+        "dateOfBirth": "2001-03-20",
+        "nationality": "Gambia"
+      },
+      {
         "id": 152119,
         "name": "Issiar Dramé",
         "position": "Defence",
         "dateOfBirth": "1999-02-16",
         "nationality": "France"
+      },
+      {
+        "id": 187322,
+        "name": "Stefan Lekovic",
+        "position": "Defence",
+        "dateOfBirth": "2004-01-09",
+        "nationality": "Serbia"
       },
       {
         "id": 192651,
@@ -4365,13 +4421,6 @@
         "position": "Defence",
         "dateOfBirth": "2002-05-02",
         "nationality": "France"
-      },
-      {
-        "id": 262667,
-        "name": "Semeu",
-        "position": "Defence",
-        "dateOfBirth": "2004-05-12",
-        "nationality": "Ghana"
       },
       {
         "id": 263711,
@@ -4507,6 +4556,13 @@
         "nationality": "Puerto Rico"
       },
       {
+        "id": 216107,
+        "name": "Mathew Gbomadu",
+        "position": "Offence",
+        "dateOfBirth": "2004-10-16",
+        "nationality": "Nigeria"
+      },
+      {
         "id": 256245,
         "name": "Alisson Jesus",
         "position": "Offence",
@@ -4521,11 +4577,25 @@
         "nationality": "Portugal"
       },
       {
+        "id": 292048,
+        "name": "Henrique Poniewas",
+        "position": "Offence",
+        "dateOfBirth": "2006-09-25",
+        "nationality": "Brazil"
+      },
+      {
         "id": 202693,
         "name": "Max Scholze",
         "position": "Right-Back",
         "dateOfBirth": "2005-04-30",
         "nationality": "Germany"
+      },
+      {
+        "id": 181927,
+        "name": "Bilal Brahimi",
+        "position": "Left Winger",
+        "dateOfBirth": "2000-03-14",
+        "nationality": "France"
       },
       {
         "id": 80336,
@@ -4634,6 +4704,13 @@
         "nationality": "Portugal"
       },
       {
+        "id": 61232,
+        "name": "Mateus Pivô",
+        "position": "Defence",
+        "dateOfBirth": "1997-12-16",
+        "nationality": "Brazil"
+      },
+      {
         "id": 178441,
         "name": "Cristian Castro",
         "position": "Defence",
@@ -4660,13 +4737,6 @@
         "position": "Defence",
         "dateOfBirth": "2001-07-19",
         "nationality": "Brazil"
-      },
-      {
-        "id": 249393,
-        "name": "Diogo Spencer",
-        "position": "Defence",
-        "dateOfBirth": "2004-04-17",
-        "nationality": "Portugal"
       },
       {
         "id": 273739,
@@ -4732,11 +4802,25 @@
         "nationality": "Brazil"
       },
       {
+        "id": 3912,
+        "name": "Andre Green",
+        "position": "Offence",
+        "dateOfBirth": "1998-07-26",
+        "nationality": "England"
+      },
+      {
         "id": 45243,
         "name": "Tómané",
         "position": "Offence",
         "dateOfBirth": "1992-10-23",
         "nationality": "Portugal"
+      },
+      {
+        "id": 81797,
+        "name": "Antoine Baroan",
+        "position": "Offence",
+        "dateOfBirth": "2000-06-24",
+        "nationality": "France"
       },
       {
         "id": 179222,
@@ -4786,13 +4870,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "1995-01-13",
         "nationality": "Cape Verde Islands"
-      },
-      {
-        "id": 15895,
-        "name": "Rafael  Barbosa",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "1996-03-29",
-        "nationality": "Portugal"
       }
     ],
     "staff": [],
