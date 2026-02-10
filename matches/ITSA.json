@@ -5957,7 +5957,7 @@
     "RoundName": "Serie A",
     "Date": "2026-02-09",
     "DateTime": "2026-02-09T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 100,
@@ -5970,9 +5970,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/104.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 100,
     "Points": {
-      "100": 0,
+      "100": 3,
       "104": 0
     },
     "Goals": []

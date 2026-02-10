@@ -9405,7 +9405,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-09",
     "DateTime": "2026-02-09T20:01:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 356,
@@ -9416,12 +9416,12 @@
     "AwayTeamName": "Middlesbrough FC",
     "HomeTeamLogo": "https://crests.football-data.org/356.png",
     "AwayTeamLogo": "https://crests.football-data.org/343.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 343,
     "Points": {
       "356": 0,
-      "343": 0
+      "343": 3
     },
     "Goals": []
   },
@@ -10155,7 +10155,7 @@
   },
   {
     "GameId": 541108,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T19:45:00Z",
@@ -10181,7 +10181,7 @@
   },
   {
     "GameId": 541109,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T19:45:00Z",
@@ -10207,10 +10207,10 @@
   },
   {
     "GameId": 541110,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-24",
-    "DateTime": "2026-02-24T19:45:00Z",
+    "DateTime": "2026-02-24T20:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -10259,7 +10259,7 @@
   },
   {
     "GameId": 541112,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T19:45:00Z",
@@ -10285,7 +10285,7 @@
   },
   {
     "GameId": 541113,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T19:45:00Z",
@@ -10311,7 +10311,7 @@
   },
   {
     "GameId": 541114,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T19:45:00Z",
@@ -10337,7 +10337,7 @@
   },
   {
     "GameId": 541115,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T19:45:00Z",
@@ -10363,10 +10363,10 @@
   },
   {
     "GameId": 541116,
-    "RoundId": 7,
+    "RoundId": 31,
     "RoundName": "Championship",
-    "Date": "2026-02-25",
-    "DateTime": "2026-02-25T19:45:00Z",
+    "Date": "2026-02-24",
+    "DateTime": "2026-02-24T19:45:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
