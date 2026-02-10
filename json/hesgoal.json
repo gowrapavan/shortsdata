@@ -1,77 +1,5 @@
 [
   {
-    "time": "2026-02-10 15:30 IST",
-    "game": "football",
-    "league": "AFC Champions League Elite",
-    "home_team": "Johor Darul Ta’zim",
-    "away_team": "Hiroshima Sanfrecce",
-    "label": "joh-hir",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/10080.png",
-    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2159",
-    "url": "https://yallashoot.cfd/albaplayer/hiroshima-sanfrecce-vs-johor-darul-ta’zim/",
-    "servers": []
-  },
-  {
-    "time": "2026-02-10 15:30 IST",
-    "game": "football",
-    "league": "AFC Champions League Elite",
-    "home_team": "FC Seoul",
-    "away_team": "Vissel Kobe",
-    "label": "fcs-vis",
-    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/9820",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2151.png",
-    "url": "https://yallashoot.cfd/albaplayer/vissel-kobe-vs-fc-seoul/",
-    "servers": []
-  },
-  {
-    "time": "2026-02-10 17:45 IST",
-    "game": "football",
-    "league": "AFC Champions League Elite",
-    "home_team": "Buriram United",
-    "away_team": "Chengdu Rongcheng",
-    "label": "bur-che",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/7747.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/29675.png",
-    "url": "https://yallashoot.cfd/albaplayer/chengdu-rongcheng-vs-buriram-united/",
-    "servers": []
-  },
-  {
-    "time": "2026-02-10 17:45 IST",
-    "game": "football",
-    "league": "AFC Champions League Elite",
-    "home_team": "Machida Zelvia",
-    "away_team": "Shanghai Shenhua",
-    "label": "mac-sha",
-    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/9133",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/2179.png",
-    "url": "https://yallashoot.cfd/albaplayer/shanghai-shenhua-vs-machida-zelvia/",
-    "servers": []
-  },
-  {
-    "time": "2026-02-10 19:15 IST",
-    "game": "football",
-    "league": "AFC Champions League Two - Round of 16",
-    "home_team": "Al Hussein",
-    "away_team": "Esteghlal FC Tehran",
-    "label": "alh-est",
-    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8285",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/9358.png",
-    "url": "https://yallashoot.cfd/albaplayer/esteghlal-fc-tehran-vs-al-hussein/",
-    "servers": []
-  },
-  {
-    "time": "2026-02-10 21:30 IST",
-    "game": "football",
-    "league": "AFC Champions League Elite",
-    "home_team": "Al Sadd",
-    "away_team": "Tractor FC",
-    "label": "als-tra",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/6992.png",
-    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/9353",
-    "url": "https://yallashoot.cfd/albaplayer/tractor-fc-vs-al-sadd/",
-    "servers": []
-  },
-  {
     "time": "2026-02-10 21:30 IST",
     "game": "football",
     "league": "AFC Champions League Two - Round of 16",
@@ -80,7 +8,7 @@
     "label": "alw-alz",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8346.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8248.png",
-    "url": "https://yallashoot.cfd/albaplayer/al-zawraa-baghdad-vs-al-wasl/",
+    "url": "",
     "servers": []
   },
   {
@@ -92,7 +20,7 @@
     "label": "alg-itt",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/6993.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8593.png",
-    "url": "https://yallashoot.cfd/albaplayer/ittihad-jeddah-vs-al-gharafa/",
+    "url": "",
     "servers": []
   },
   {
@@ -104,8 +32,49 @@
     "label": "new-tot",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/116.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/114.png",
-    "url": "https://yallashoot.cfd/albaplayer/tottenham-vs-newcastle-united/",
-    "servers": []
+    "url": "https://gametimes.plus/home/blog2/",
+    "servers": [
+      {
+        "name": "Home",
+        "url": "https://gametimes.plus/home/blog2/"
+      },
+      {
+        "name": "TNTuk1",
+        "url": "https://streams.center/embed/ch3.php"
+      },
+      {
+        "name": "EPLuk",
+        "url": "https://bolaloca.my/player/3/131"
+      },
+      {
+        "name": "SkyDe",
+        "url": "https://bolaloca.my/player/3/120"
+      },
+      {
+        "name": "Canal+",
+        "url": "https://bolaloca.my/player/3/13"
+      },
+      {
+        "name": "Espn",
+        "url": "https://bolaloca.my/player/3/88"
+      },
+      {
+        "name": "BeinTr1",
+        "url": "https://popcdn.day/go.php?stream=beINSPORTS2TR"
+      },
+      {
+        "name": "BeinTr2",
+        "url": "https://bolaloca.my/player/3/152"
+      },
+      {
+        "name": "1بث",
+        "url": "https://lovecdn.ru/daddy.php?stream=beINAR4"
+      },
+      {
+        "name": "2بث",
+        "url": "https://tv10.koora-stream.top/chtv/ch4.php"
+      }
+    ]
   },
   {
     "time": "2026-02-11 01:00 IST",
@@ -116,8 +85,45 @@
     "label": "bou-eve",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/50.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/107.png",
-    "url": "https://yallashoot.cfd/albaplayer/everton-vs-bournemouth/",
-    "servers": []
+    "url": "https://gametimes.plus/home/blog3/",
+    "servers": [
+      {
+        "name": "Home",
+        "url": "https://gametimes.plus/home/blog3/"
+      },
+      {
+        "name": "BackUp",
+        "url": "https://streams.center/embed/ch5.php"
+      },
+      {
+        "name": "C+Live",
+        "url": "https://bolaloca.my/player/3/35"
+      },
+      {
+        "name": "EPLuk",
+        "url": "https://bolaloca.my/player/3/130"
+      },
+      {
+        "name": "DaznEs",
+        "url": "https://bolaloca.my/player/3/59"
+      },
+      {
+        "name": "EspnEs",
+        "url": "https://bolaloca.my/player/3/89"
+      },
+      {
+        "name": "English",
+        "url": "https://ww2.sportzonline.click/channels/hd/hd10.php"
+      },
+      {
+        "name": "1بث",
+        "url": "https://lovecdn.ru/daddy.php?stream=beINAR5"
+      },
+      {
+        "name": "2بث",
+        "url": "https://tv10.koora-stream.top/chtv/ch5.php"
+      }
+    ]
   },
   {
     "time": "2026-02-11 01:00 IST",
@@ -128,8 +134,61 @@
     "label": "lee-che",
     "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/36",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/106.png",
-    "url": "https://yallashoot.cfd/albaplayer/chelsea-vs-leeds-united/",
-    "servers": []
+    "url": "https://gametimes.plus/home/blog1/",
+    "servers": [
+      {
+        "name": "Home",
+        "url": "https://gametimes.plus/home/blog1/"
+      },
+      {
+        "name": "BackUp",
+        "url": "https://streams.center/embed/ch4.php"
+      },
+      {
+        "name": "C+Live",
+        "url": "https://bolaloca.my/player/3/34"
+      },
+      {
+        "name": "DaznEs",
+        "url": "https://bolaloca.my/player/3/57"
+      },
+      {
+        "name": "UNIVERSO",
+        "url": "https://bolaloca.my/player/3/72"
+      },
+      {
+        "name": "Espn",
+        "url": "https://bolaloca.my/player/3/87"
+      },
+      {
+        "name": "Epluk",
+        "url": "https://bolaloca.my/player/3/129"
+      },
+      {
+        "name": "English",
+        "url": "https://ww2.sportzonline.click/channels/hd/hd2.php"
+      },
+      {
+        "name": "DaznPT",
+        "url": "https://ww2.sportzonline.click/channels/pt/eleven2.php"
+      },
+      {
+        "name": "EspnBr",
+        "url": "https://ww2.sportzonline.click/channels/bra/br2.php"
+      },
+      {
+        "name": "رئيسي",
+        "url": "https://kora-mobikora.blogspot.com/2026/02/b2.html"
+      },
+      {
+        "name": "بث1",
+        "url": "https://lovecdn.ru/daddy.php?stream=beINAR3"
+      },
+      {
+        "name": "2بث",
+        "url": "https://tv10.koora-stream.top/chtv/ch3.php"
+      }
+    ]
   },
   {
     "time": "2026-02-11 01:15 IST",
@@ -140,7 +199,7 @@
     "label": "nor-oxf",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/16.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/87.png",
-    "url": "https://yallashoot.cfd/albaplayer/oxford-united-vs-norwich/",
+    "url": "",
     "servers": []
   },
   {
@@ -152,7 +211,7 @@
     "label": "sou-lei",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/21.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/22.png",
-    "url": "https://yallashoot.cfd/albaplayer/leicester-city-vs-southampton/",
+    "url": "",
     "servers": []
   },
   {
@@ -164,7 +223,7 @@
     "label": "fre-her",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/354.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/342.png",
-    "url": "https://yallashoot.cfd/albaplayer/hertha-berlin-vs-freiburg/",
+    "url": "",
     "servers": []
   },
   {
@@ -176,7 +235,7 @@
     "label": "wes-bir",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/5.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1.png",
-    "url": "https://yallashoot.cfd/albaplayer/birmingham-vs-west-brom/",
+    "url": "",
     "servers": []
   },
   {
@@ -188,8 +247,37 @@
     "label": "com-nap",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/6117.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/234.png",
-    "url": "https://yallashoot.cfd/albaplayer/napoli-vs-como/",
-    "servers": []
+    "url": "https://streams.center/embed/ch9.php",
+    "servers": [
+      {
+        "name": "Home",
+        "url": "https://streams.center/embed/ch9.php"
+      },
+      {
+        "name": "FeedIT",
+        "url": "https://bolaloca.my/player/3/139"
+      },
+      {
+        "name": "WinSp",
+        "url": "https://bolaloca.my/player/3/82"
+      },
+      {
+        "name": "DirectTv",
+        "url": "https://bolaloca.my/player/3/94"
+      },
+      {
+        "name": "SporTv",
+        "url": "https://bolaloca.my/player/3/145"
+      },
+      {
+        "name": "بث",
+        "url": "https://tv10.koora-stream.top/chtv/ch7.php"
+      },
+      {
+        "name": "بث",
+        "url": "https://tv10.koora-stream.top/chtv/ch7.php"
+      }
+    ]
   },
   {
     "time": "2026-02-11 01:45 IST",
@@ -200,7 +288,64 @@
     "label": "man-wes",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/105.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/113.png",
-    "url": "https://yallashoot.cfd/albaplayer/west-ham-united-vs-manchester-united/",
-    "servers": []
+    "url": "https://gametimes.plus/home/blog4/",
+    "servers": [
+      {
+        "name": "Home",
+        "url": "https://gametimes.plus/home/blog4/"
+      },
+      {
+        "name": "BeinFr1",
+        "url": "https://streams.center/embed/ch1.php"
+      },
+      {
+        "name": "C+Foot",
+        "url": "https://bolaloca.my/player/3/12"
+      },
+      {
+        "name": "TnTuk",
+        "url": "https://bolaloca.my/player/3/126"
+      },
+      {
+        "name": "SkyDe",
+        "url": "https://bolaloca.my/player/3/113"
+      },
+      {
+        "name": "ES M+",
+        "url": "https://bolaloca.my/player/3/61"
+      },
+      {
+        "name": "DaznEs",
+        "url": "https://bolaloca.my/player/3/56"
+      },
+      {
+        "name": "GrSpor",
+        "url": "https://bolaloca.my/player/3/150"
+      },
+      {
+        "name": "English",
+        "url": "https://ww2.sportzonline.click/channels/hd/hd1.php"
+      },
+      {
+        "name": "Arabic",
+        "url": "https://ww2.sportzonline.click/channels/hd/hd4.php"
+      },
+      {
+        "name": "DaznPT",
+        "url": "https://ww2.sportzonline.click/channels/pt/eleven1.php"
+      },
+      {
+        "name": "EspnBr",
+        "url": "https://www2.sportzonline.click/channels/bra/br3.php"
+      },
+      {
+        "name": "بث",
+        "url": "https://lovecdn.ru/daddy.php?stream=beINAR"
+      },
+      {
+        "name": "بث",
+        "url": "https://tv10.koora-stream.top/chtv/ch1.php"
+      }
+    ]
   }
 ]
