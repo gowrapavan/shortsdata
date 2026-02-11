@@ -1,16 +1,5 @@
 [
   {
-    "time": "09:00 PM",
-    "game": "football",
-    "league": "دوري Nile",
-    "home_team": "الزمالك",
-    "away_team": "سموحة",
-    "label": "الز-سمو",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_698a5e7d0fae2.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_698a5e7d17274.png",
-    "url": "https://a.sia-as.com/albaplayer/on-time-sport/"
-  },
-  {
     "time": "10:30 PM",
     "game": "football",
     "league": "الدوري الإنجليزي",
@@ -20,6 +9,17 @@
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_698a5e730242e.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_698a5e7309796.png",
     "url": "https://a.sia-as.com/albaplayer/bein-4/"
+  },
+  {
+    "time": "10:30 PM",
+    "game": "football",
+    "league": "الدوري الإنجليزي",
+    "home_team": "أستون فيلا",
+    "away_team": "برايتون",
+    "label": "أست-برا",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_698a5e72b679b.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_698a5e72bd4e3.png",
+    "url": "https://a.sia-as.com/albaplayer/bein-5/"
   },
   {
     "time": "10:30 PM",
@@ -42,17 +42,6 @@
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_698a5e7494b72.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_698a5e749b2fc.png",
     "url": "https://a.sia-as.com/albaplayer/bein-6/"
-  },
-  {
-    "time": "10:30 PM",
-    "game": "football",
-    "league": "الدوري الإنجليزي",
-    "home_team": "أستون فيلا",
-    "away_team": "برايتون",
-    "label": "أست-برا",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_698a5e72b679b.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_698a5e72bd4e3.png",
-    "url": "https://a.sia-as.com/albaplayer/bein-5/"
   },
   {
     "time": "10:45 PM",
@@ -130,5 +119,16 @@
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_698a5e7e8f6ad.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_698a5e7e963fc.png",
     "url": "https://a.sia-as.com/albaplayer/bein-7/"
+  },
+  {
+    "time": "09:00 PM",
+    "game": "football",
+    "league": "دوري Nile",
+    "home_team": "الزمالك",
+    "away_team": "سموحة",
+    "label": "الز-سمو",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_698a5e7d0fae2.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_698a5e7d17274.png",
+    "url": "https://a.sia-as.com/albaplayer/on-time-sport/"
   }
 ]
