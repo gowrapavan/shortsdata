@@ -9535,7 +9535,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-10",
     "DateTime": "2026-02-10T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 332,
@@ -9550,8 +9550,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "332": 0,
-      "74": 0
+      "332": 1,
+      "74": 1
     },
     "Goals": []
   },
@@ -9691,7 +9691,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-10",
     "DateTime": "2026-02-10T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 338,
@@ -9703,11 +9703,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/338.png",
     "AwayTeamLogo": "https://crests.football-data.org/340.png",
     "HomeTeamScore": 3,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 4,
+    "Result": 340,
     "Points": {
       "338": 0,
-      "340": 0
+      "340": 3
     },
     "Goals": []
   },
@@ -9717,7 +9717,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-10",
     "DateTime": "2026-02-10T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1082,
@@ -9730,10 +9730,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/68.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 3,
-    "Result": null,
+    "Result": 68,
     "Points": {
       "1082": 0,
-      "68": 0
+      "68": 3
     },
     "Goals": []
   },
@@ -10233,10 +10233,10 @@
   },
   {
     "GameId": 541111,
-    "RoundId": 7,
+    "RoundId": 32,
     "RoundName": "Championship",
-    "Date": "2026-02-24",
-    "DateTime": "2026-02-24T19:45:00Z",
+    "Date": "2026-02-25",
+    "DateTime": "2026-02-25T20:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -10389,7 +10389,7 @@
   },
   {
     "GameId": 541117,
-    "RoundId": 7,
+    "RoundId": 32,
     "RoundName": "Championship",
     "Date": "2026-02-25",
     "DateTime": "2026-02-25T19:45:00Z",
@@ -10415,7 +10415,7 @@
   },
   {
     "GameId": 541118,
-    "RoundId": 7,
+    "RoundId": 32,
     "RoundName": "Championship",
     "Date": "2026-02-25",
     "DateTime": "2026-02-25T19:45:00Z",
@@ -10441,7 +10441,7 @@
   },
   {
     "GameId": 541119,
-    "RoundId": 7,
+    "RoundId": 32,
     "RoundName": "Championship",
     "Date": "2026-02-25",
     "DateTime": "2026-02-25T19:45:00Z",
