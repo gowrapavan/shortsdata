@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-10T06:51:59.112084Z",
+    "last_updated": "2026-02-11T06:47:49.573181Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -43,6 +43,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "João Pedro",
+                    "team_name": "Chelsea FC",
+                    "team_crest": "https://crests.football-data.org/61.png",
+                    "goals": 10,
+                    "assists": 4,
+                    "penalties": null,
+                    "nationality": "Brazil"
+                },
+                {
                     "player_name": "Dominic Calvert-Lewin",
                     "team_name": "Leeds United FC",
                     "team_crest": "https://crests.football-data.org/341.png",
@@ -50,15 +59,6 @@
                     "assists": 1,
                     "penalties": 2,
                     "nationality": "England"
-                },
-                {
-                    "player_name": "João Pedro",
-                    "team_name": "Chelsea FC",
-                    "team_crest": "https://crests.football-data.org/61.png",
-                    "goals": 9,
-                    "assists": 4,
-                    "penalties": null,
-                    "nationality": "Brazil"
                 },
                 {
                     "player_name": "Bruno Guimarães",
@@ -74,7 +74,7 @@
                     "team_name": "Manchester United FC",
                     "team_crest": "https://crests.football-data.org/66.png",
                     "goals": 9,
-                    "assists": 1,
+                    "assists": 2,
                     "penalties": null,
                     "nationality": "Cameroon"
                 },
