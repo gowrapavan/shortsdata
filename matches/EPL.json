@@ -6405,7 +6405,7 @@
     "RoundName": "Premier League",
     "Date": "2026-02-11",
     "DateTime": "2026-02-11T20:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 71,
@@ -6417,11 +6417,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/71.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 64,
     "Points": {
       "71": 0,
-      "64": 0
+      "64": 3
     },
     "Goals": []
   },
@@ -6431,7 +6431,7 @@
     "RoundName": "Premier League",
     "Date": "2026-02-11",
     "DateTime": "2026-02-11T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 58,
@@ -6444,9 +6444,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/397.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 58,
     "Points": {
-      "58": 0,
+      "58": 3,
       "397": 0
     },
     "Goals": []
@@ -6457,7 +6457,7 @@
     "RoundName": "Premier League",
     "Date": "2026-02-11",
     "DateTime": "2026-02-11T19:40:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 354,
@@ -6470,10 +6470,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/328.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 3,
-    "Result": null,
+    "Result": 328,
     "Points": {
       "354": 0,
-      "328": 0
+      "328": 3
     },
     "Goals": []
   },
