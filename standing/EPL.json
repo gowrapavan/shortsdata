@@ -77,13 +77,13 @@
           },
           "playedGames": 26,
           "form": null,
-          "won": 14,
-          "draw": 6,
+          "won": 15,
+          "draw": 5,
           "lost": 6,
-          "points": 48,
-          "goalsFor": 36,
+          "points": 50,
+          "goalsFor": 37,
           "goalsAgainst": 27,
-          "goalDifference": 9
+          "goalDifference": 10
         },
         {
           "position": 4,
@@ -134,13 +134,13 @@
           },
           "playedGames": 26,
           "form": null,
-          "won": 11,
-          "draw": 7,
+          "won": 12,
+          "draw": 6,
           "lost": 8,
-          "points": 40,
-          "goalsFor": 40,
+          "points": 42,
+          "goalsFor": 41,
           "goalsAgainst": 35,
-          "goalDifference": 5
+          "goalDifference": 6
         },
         {
           "position": 7,
@@ -202,25 +202,6 @@
         {
           "position": 10,
           "team": {
-            "id": 71,
-            "name": "Sunderland AFC",
-            "shortName": "Sunderland",
-            "tla": "SUN",
-            "crest": "https://crests.football-data.org/71.png"
-          },
-          "playedGames": 26,
-          "form": null,
-          "won": 9,
-          "draw": 10,
-          "lost": 7,
-          "points": 37,
-          "goalsFor": 27,
-          "goalsAgainst": 29,
-          "goalDifference": -2
-        },
-        {
-          "position": 11,
-          "team": {
             "id": 67,
             "name": "Newcastle United FC",
             "shortName": "Newcastle",
@@ -236,6 +217,25 @@
           "goalsFor": 37,
           "goalsAgainst": 37,
           "goalDifference": 0
+        },
+        {
+          "position": 11,
+          "team": {
+            "id": 71,
+            "name": "Sunderland AFC",
+            "shortName": "Sunderland",
+            "tla": "SUN",
+            "crest": "https://crests.football-data.org/71.png"
+          },
+          "playedGames": 26,
+          "form": null,
+          "won": 9,
+          "draw": 9,
+          "lost": 8,
+          "points": 36,
+          "goalsFor": 27,
+          "goalsAgainst": 30,
+          "goalDifference": -3
         },
         {
           "position": 12,
@@ -259,25 +259,6 @@
         {
           "position": 13,
           "team": {
-            "id": 397,
-            "name": "Brighton & Hove Albion FC",
-            "shortName": "Brighton Hove",
-            "tla": "BHA",
-            "crest": "https://crests.football-data.org/397.png"
-          },
-          "playedGames": 26,
-          "form": null,
-          "won": 7,
-          "draw": 11,
-          "lost": 8,
-          "points": 32,
-          "goalsFor": 34,
-          "goalsAgainst": 33,
-          "goalDifference": 1
-        },
-        {
-          "position": 14,
-          "team": {
             "id": 354,
             "name": "Crystal Palace FC",
             "shortName": "Crystal Palace",
@@ -293,6 +274,25 @@
           "goalsFor": 28,
           "goalsAgainst": 32,
           "goalDifference": -4
+        },
+        {
+          "position": 14,
+          "team": {
+            "id": 397,
+            "name": "Brighton & Hove Albion FC",
+            "shortName": "Brighton Hove",
+            "tla": "BHA",
+            "crest": "https://crests.football-data.org/397.png"
+          },
+          "playedGames": 26,
+          "form": null,
+          "won": 7,
+          "draw": 10,
+          "lost": 9,
+          "points": 31,
+          "goalsFor": 34,
+          "goalsAgainst": 34,
+          "goalDifference": 0
         },
         {
           "position": 15,

@@ -240,25 +240,6 @@
         {
           "position": 12,
           "team": {
-            "id": 70,
-            "name": "Stoke City FC",
-            "shortName": "Stoke",
-            "tla": "STK",
-            "crest": "https://crests.football-data.org/70.png"
-          },
-          "playedGames": 32,
-          "form": null,
-          "won": 12,
-          "draw": 8,
-          "lost": 12,
-          "points": 44,
-          "goalsFor": 34,
-          "goalsAgainst": 28,
-          "goalDifference": 6
-        },
-        {
-          "position": 13,
-          "team": {
             "id": 346,
             "name": "Watford FC",
             "shortName": "Watford",
@@ -276,7 +257,7 @@
           "goalDifference": 3
         },
         {
-          "position": 14,
+          "position": 13,
           "team": {
             "id": 69,
             "name": "Queens Park Rangers FC",
@@ -293,6 +274,25 @@
           "goalsFor": 42,
           "goalsAgainst": 43,
           "goalDifference": -1
+        },
+        {
+          "position": 14,
+          "team": {
+            "id": 70,
+            "name": "Stoke City FC",
+            "shortName": "Stoke",
+            "tla": "STK",
+            "crest": "https://crests.football-data.org/70.png"
+          },
+          "playedGames": 32,
+          "form": null,
+          "won": 12,
+          "draw": 7,
+          "lost": 13,
+          "points": 43,
+          "goalsFor": 34,
+          "goalsAgainst": 29,
+          "goalDifference": 5
         },
         {
           "position": 15,
@@ -362,13 +362,13 @@
           },
           "playedGames": 31,
           "form": null,
-          "won": 9,
-          "draw": 10,
+          "won": 10,
+          "draw": 9,
           "lost": 12,
-          "points": 37,
-          "goalsFor": 29,
+          "points": 39,
+          "goalsFor": 30,
           "goalsAgainst": 38,
-          "goalDifference": -9
+          "goalDifference": -8
         },
         {
           "position": 19,
