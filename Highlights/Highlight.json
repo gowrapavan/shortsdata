@@ -3773,5 +3773,55 @@
     "embed_url": "",
     "match_type": "fallback",
     "source": "hoofoot"
+  },
+  {
+    "highlight_id": "Atletico_Madrid_v_Barcelona_2026_02_12",
+    "game_id": null,
+    "league": "Goal4u - Undefined",
+    "round": null,
+    "season": null,
+    "date": "2026-02-12",
+    "datetime": "2026-02-12T00:00:00",
+    "status": "Finished",
+    "home_team": {
+      "name": "Atletico Madrid",
+      "logo": "https://crests.football-data.org/78.png",
+      "score": null
+    },
+    "away_team": {
+      "name": "Barcelona",
+      "logo": "https://crests.football-data.org/81.png",
+      "score": null
+    },
+    "title": "Atletico Madrid v Barcelona",
+    "highlight_url": "https://hoofoot.com/?match=Atletico_Madrid_v_Barcelona_2026_02_12",
+    "embed_url": "https://hoofootay4.spotlightmoment.com/embed/nWFKM4gCsJF05",
+    "match_type": "fallback",
+    "source": "hoofoot"
+  },
+  {
+    "highlight_id": "Brentford_v_Arsenal_2026_02_12",
+    "game_id": 538038,
+    "league": "EPL",
+    "round": "Premier League",
+    "season": null,
+    "date": "2026-02-12",
+    "datetime": "2026-02-12T20:00:00Z",
+    "status": "Final",
+    "home_team": {
+      "name": "Brentford FC",
+      "logo": "https://crests.football-data.org/402.png",
+      "score": 1
+    },
+    "away_team": {
+      "name": "Arsenal FC",
+      "logo": "https://crests.football-data.org/57.png",
+      "score": 1
+    },
+    "title": "Brentford v Arsenal",
+    "highlight_url": "https://hoofoot.com/?match=Brentford_v_Arsenal_2026_02_12",
+    "embed_url": "https://hoofootay4.spotlightmoment.com/embed/LrcLn0ljzkuQH",
+    "match_type": "official",
+    "source": "hoofoot"
   }
 ]
