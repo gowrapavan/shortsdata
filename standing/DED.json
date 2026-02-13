@@ -37,15 +37,15 @@
             "tla": "PSV",
             "crest": "https://crests.football-data.org/674.png"
           },
-          "playedGames": 22,
+          "playedGames": 23,
           "form": null,
           "won": 19,
           "draw": 2,
-          "lost": 1,
+          "lost": 2,
           "points": 59,
           "goalsFor": 66,
-          "goalsAgainst": 26,
-          "goalDifference": 40
+          "goalsAgainst": 27,
+          "goalDifference": 39
         },
         {
           "position": 2,
@@ -278,6 +278,25 @@
         {
           "position": 14,
           "team": {
+            "id": 1919,
+            "name": "FC Volendam",
+            "shortName": "Volendam",
+            "tla": "VOL",
+            "crest": "https://crests.football-data.org/1919.png"
+          },
+          "playedGames": 23,
+          "form": null,
+          "won": 6,
+          "draw": 6,
+          "lost": 11,
+          "points": 24,
+          "goalsFor": 25,
+          "goalsAgainst": 37,
+          "goalDifference": -12
+        },
+        {
+          "position": 15,
+          "team": {
             "id": 718,
             "name": "Go Ahead Eagles",
             "shortName": "Go Ahead",
@@ -293,25 +312,6 @@
           "goalsFor": 33,
           "goalsAgainst": 38,
           "goalDifference": -5
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 1919,
-            "name": "FC Volendam",
-            "shortName": "Volendam",
-            "tla": "VOL",
-            "crest": "https://crests.football-data.org/1919.png"
-          },
-          "playedGames": 22,
-          "form": null,
-          "won": 5,
-          "draw": 6,
-          "lost": 11,
-          "points": 21,
-          "goalsFor": 24,
-          "goalsAgainst": 37,
-          "goalDifference": -13
         },
         {
           "position": 16,
