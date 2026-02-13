@@ -6,20 +6,9 @@
     "home_team": "Hull City",
     "away_team": "Chelsea",
     "label": "hul-che",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
     "away_logo": "https://crests.football-data.org/61.png",
     "url": "https://gametimes.plus/home/blog1/"
-  },
-  {
-    "time": "19:00",
-    "game": "football",
-    "league": "premier",
-    "home_team": "Rennes",
-    "away_team": "PSG",
-    "label": "ren-psg",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
-    "away_logo": "https://crests.football-data.org/524.png",
-    "url": "https://gametimes.plus/home/blog2/"
   },
   {
     "time": "20:45",
@@ -31,5 +20,49 @@
     "home_logo": "https://crests.football-data.org/487.png",
     "away_logo": "https://crests.football-data.org/98.png",
     "url": "https://gametimes.plus/home/blog3/"
+  },
+  {
+    "time": "16:00",
+    "game": "football",
+    "league": "premier",
+    "home_team": "Manchester City",
+    "away_team": "Salford City",
+    "label": "man-sal",
+    "home_logo": "https://crests.football-data.org/65.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "url": ""
+  },
+  {
+    "time": "18:45",
+    "game": "football",
+    "league": "premier",
+    "home_team": "Aston Villa",
+    "away_team": "Newcastle United",
+    "label": "ast-new",
+    "home_logo": "https://crests.football-data.org/58.png",
+    "away_logo": "https://crests.football-data.org/67.png",
+    "url": ""
+  },
+  {
+    "time": "21:00",
+    "game": "football",
+    "league": "premier",
+    "home_team": "Liverpool",
+    "away_team": "Brighton",
+    "label": "liv-bri",
+    "home_logo": "https://crests.football-data.org/64.png",
+    "away_logo": "https://crests.football-data.org/397.png",
+    "url": ""
+  },
+  {
+    "time": "21:00",
+    "game": "football",
+    "league": "laliga",
+    "home_team": "Real Madrid",
+    "away_team": "Real Sociedad",
+    "label": "rea-rea",
+    "home_logo": "https://crests.football-data.org/86.png",
+    "away_logo": "https://crests.football-data.org/92.png",
+    "url": ""
   }
 ]
