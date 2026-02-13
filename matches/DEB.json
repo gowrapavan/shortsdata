@@ -4899,7 +4899,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-02-13",
     "DateTime": "2026-02-13T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 4,
@@ -4910,11 +4910,11 @@
     "AwayTeamName": "1. FSV Mainz 05",
     "HomeTeamLogo": "https://crests.football-data.org/4.png",
     "AwayTeamLogo": "https://crests.football-data.org/15.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 0,
+    "Result": 4,
     "Points": {
-      "4": 0,
+      "4": 3,
       "15": 0
     },
     "Goals": []

@@ -5123,7 +5123,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-02-13",
     "DateTime": "2026-02-13T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1919,
@@ -5134,11 +5134,11 @@
     "AwayTeamName": "PSV",
     "HomeTeamLogo": "https://crests.football-data.org/1919.png",
     "AwayTeamLogo": "https://crests.football-data.org/674.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 1919,
     "Points": {
-      "1919": 0,
+      "1919": 3,
       "674": 0
     },
     "Goals": []

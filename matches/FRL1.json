@@ -4866,8 +4866,8 @@
     "AwayTeamName": "FC Nantes",
     "HomeTeamLogo": "https://crests.football-data.org/548.png",
     "AwayTeamLogo": "https://crests.football-data.org/543.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "548": 0,
@@ -5037,7 +5037,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-13",
     "DateTime": "2026-02-13T18:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 529,
@@ -5048,11 +5048,11 @@
     "AwayTeamName": "Paris Saint-Germain FC",
     "HomeTeamLogo": "https://crests.football-data.org/529.png",
     "AwayTeamLogo": "https://crests.football-data.org/524.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 529,
     "Points": {
-      "529": 0,
+      "529": 3,
       "524": 0
     },
     "Goals": []
