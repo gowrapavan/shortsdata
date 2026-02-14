@@ -5082,8 +5082,8 @@
     "AwayTeamName": "AZ",
     "HomeTeamLogo": "https://crests.football-data.org/670.png",
     "AwayTeamLogo": "https://crests.football-data.org/682.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "670": 0,
@@ -5175,7 +5175,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-02-14",
     "DateTime": "2026-02-14T15:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 671,
@@ -5186,12 +5186,12 @@
     "AwayTeamName": "NAC Breda",
     "HomeTeamLogo": "https://crests.football-data.org/671.png",
     "AwayTeamLogo": "https://crests.football-data.org/681.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 681,
     "Points": {
       "671": 0,
-      "681": 0
+      "681": 3
     },
     "Goals": []
   },
