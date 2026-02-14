@@ -37,12 +37,12 @@
             "tla": "INT",
             "crest": "https://crests.football-data.org/108.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
           "won": 19,
-          "draw": 1,
+          "draw": 2,
           "lost": 4,
-          "points": 58,
+          "points": 59,
           "goalsFor": 57,
           "goalsAgainst": 19,
           "goalDifference": 38
@@ -94,12 +94,12 @@
             "tla": "JUV",
             "crest": "https://crests.football-data.org/109.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
           "won": 13,
-          "draw": 7,
+          "draw": 8,
           "lost": 4,
-          "points": 46,
+          "points": 47,
           "goalsFor": 41,
           "goalsAgainst": 20,
           "goalDifference": 21
@@ -126,40 +126,40 @@
         {
           "position": 6,
           "team": {
-            "id": 7397,
-            "name": "Como 1907",
-            "shortName": "Como 1907",
-            "tla": "COM",
-            "crest": "https://crests.football-data.org/7397.png"
-          },
-          "playedGames": 23,
-          "form": null,
-          "won": 11,
-          "draw": 8,
-          "lost": 4,
-          "points": 41,
-          "goalsFor": 37,
-          "goalsAgainst": 16,
-          "goalDifference": 21
-        },
-        {
-          "position": 7,
-          "team": {
             "id": 102,
             "name": "Atalanta BC",
             "shortName": "Atalanta",
             "tla": "ATA",
             "crest": "https://crests.football-data.org/102.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
-          "won": 10,
+          "won": 11,
           "draw": 9,
           "lost": 5,
-          "points": 39,
-          "goalsFor": 32,
+          "points": 42,
+          "goalsFor": 34,
           "goalsAgainst": 21,
-          "goalDifference": 11
+          "goalDifference": 13
+        },
+        {
+          "position": 7,
+          "team": {
+            "id": 7397,
+            "name": "Como 1907",
+            "shortName": "Como 1907",
+            "tla": "COM",
+            "crest": "https://crests.football-data.org/7397.png"
+          },
+          "playedGames": 24,
+          "form": null,
+          "won": 11,
+          "draw": 8,
+          "lost": 5,
+          "points": 41,
+          "goalsFor": 38,
+          "goalsAgainst": 18,
+          "goalDifference": 20
         },
         {
           "position": 8,
@@ -170,15 +170,15 @@
             "tla": "LAZ",
             "crest": "https://crests.football-data.org/110.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
           "won": 8,
           "draw": 9,
-          "lost": 7,
+          "lost": 8,
           "points": 33,
           "goalsFor": 26,
-          "goalsAgainst": 23,
-          "goalDifference": 3
+          "goalsAgainst": 25,
+          "goalDifference": 1
         },
         {
           "position": 9,
@@ -335,6 +335,25 @@
         {
           "position": 17,
           "team": {
+            "id": 99,
+            "name": "ACF Fiorentina",
+            "shortName": "Fiorentina",
+            "tla": "FIO",
+            "crest": "https://crests.football-data.org/99.png"
+          },
+          "playedGames": 25,
+          "form": null,
+          "won": 4,
+          "draw": 9,
+          "lost": 12,
+          "points": 21,
+          "goalsFor": 29,
+          "goalsAgainst": 39,
+          "goalDifference": -10
+        },
+        {
+          "position": 18,
+          "team": {
             "id": 5890,
             "name": "US Lecce",
             "shortName": "Lecce",
@@ -350,25 +369,6 @@
           "goalsFor": 15,
           "goalsAgainst": 31,
           "goalDifference": -16
-        },
-        {
-          "position": 18,
-          "team": {
-            "id": 99,
-            "name": "ACF Fiorentina",
-            "shortName": "Fiorentina",
-            "tla": "FIO",
-            "crest": "https://crests.football-data.org/99.png"
-          },
-          "playedGames": 24,
-          "form": null,
-          "won": 3,
-          "draw": 9,
-          "lost": 12,
-          "points": 18,
-          "goalsFor": 27,
-          "goalsAgainst": 38,
-          "goalDifference": -11
         },
         {
           "position": 19,
