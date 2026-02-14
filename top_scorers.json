@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-13T06:43:58.629368Z",
+    "last_updated": "2026-02-14T06:29:47.059953Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -316,6 +316,15 @@
                     "nationality": "Colombia"
                 },
                 {
+                    "player_name": "Sehrou Guirassy",
+                    "team_name": "Borussia Dortmund",
+                    "team_crest": "https://crests.football-data.org/4.png",
+                    "goals": 11,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Guinea"
+                },
+                {
                     "player_name": "Deniz Undav",
                     "team_name": "VfB Stuttgart",
                     "team_crest": "https://crests.football-data.org/10.png",
@@ -341,15 +350,6 @@
                     "assists": 1,
                     "penalties": null,
                     "nationality": "Bosnia-Herzegovina"
-                },
-                {
-                    "player_name": "Sehrou Guirassy",
-                    "team_name": "Borussia Dortmund",
-                    "team_crest": "https://crests.football-data.org/4.png",
-                    "goals": 9,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "Guinea"
                 },
                 {
                     "player_name": "Nadiem Amiri",
@@ -416,7 +416,7 @@
                     "player_name": "Esteban Lepaul",
                     "team_name": "Stade Rennais FC 1901",
                     "team_crest": "https://crests.football-data.org/529.png",
-                    "goals": 10,
+                    "goals": 11,
                     "assists": 3,
                     "penalties": null,
                     "nationality": "France"
@@ -449,6 +449,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Ousmane Dembélé",
+                    "team_name": "Paris Saint-Germain FC",
+                    "team_crest": "https://crests.football-data.org/524.png",
+                    "goals": 8,
+                    "assists": 4,
+                    "penalties": 2,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Odsonne Edouard",
                     "team_name": "Racing Club de Lens",
                     "team_crest": "https://crests.football-data.org/546.png",
@@ -464,15 +473,6 @@
                     "goals": 7,
                     "assists": 1,
                     "penalties": null,
-                    "nationality": "France"
-                },
-                {
-                    "player_name": "Ousmane Dembélé",
-                    "team_name": "Paris Saint-Germain FC",
-                    "team_crest": "https://crests.football-data.org/524.png",
-                    "goals": 7,
-                    "assists": 4,
-                    "penalties": 2,
                     "nationality": "France"
                 },
                 {
@@ -505,7 +505,7 @@
                     "team_name": "PSV",
                     "team_crest": "https://crests.football-data.org/674.png",
                     "goals": 12,
-                    "assists": 2,
+                    "assists": 3,
                     "penalties": null,
                     "nationality": "Netherlands"
                 },
