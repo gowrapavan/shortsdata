@@ -5149,7 +5149,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-02-15",
     "DateTime": "2026-02-15T11:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 675,
@@ -5160,11 +5160,11 @@
     "AwayTeamName": "Go Ahead Eagles",
     "HomeTeamLogo": "https://crests.football-data.org/675.png",
     "AwayTeamLogo": "https://crests.football-data.org/718.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 675,
     "Points": {
-      "675": 0,
+      "675": 3,
       "718": 0
     },
     "Goals": []
@@ -5212,8 +5212,8 @@
     "AwayTeamName": "PEC Zwolle",
     "HomeTeamLogo": "https://crests.football-data.org/673.png",
     "AwayTeamLogo": "https://crests.football-data.org/684.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "673": 0,
@@ -5264,8 +5264,8 @@
     "AwayTeamName": "FC Twente '65",
     "HomeTeamLogo": "https://crests.football-data.org/1912.png",
     "AwayTeamLogo": "https://crests.football-data.org/666.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "1912": 0,
