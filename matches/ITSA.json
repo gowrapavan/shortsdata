@@ -6228,8 +6228,8 @@
     "AwayTeamName": "Bologna FC 1909",
     "HomeTeamLogo": "https://crests.football-data.org/586.png",
     "AwayTeamLogo": "https://crests.football-data.org/103.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "586": 0,
@@ -6295,7 +6295,7 @@
     "RoundName": "Serie A",
     "Date": "2026-02-15",
     "DateTime": "2026-02-15T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 112,
@@ -6306,11 +6306,11 @@
     "AwayTeamName": "Hellas Verona FC",
     "HomeTeamLogo": "https://crests.football-data.org/112.png",
     "AwayTeamLogo": "https://crests.football-data.org/450.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 112,
     "Points": {
-      "112": 0,
+      "112": 3,
       "450": 0
     },
     "Goals": []
@@ -6399,7 +6399,7 @@
     "RoundName": "Serie A",
     "Date": "2026-02-15",
     "DateTime": "2026-02-15T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 457,
@@ -6414,8 +6414,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "457": 0,
-      "107": 0
+      "457": 1,
+      "107": 1
     },
     "Goals": []
   },

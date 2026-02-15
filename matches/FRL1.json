@@ -4829,7 +4829,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-15",
     "DateTime": "2026-02-15T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 533,
@@ -4840,12 +4840,12 @@
     "AwayTeamName": "Toulouse FC",
     "HomeTeamLogo": "https://crests.football-data.org/533.png",
     "AwayTeamLogo": "https://crests.football-data.org/511.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "533": 0,
-      "511": 0
+      "533": 1,
+      "511": 1
     },
     "Goals": []
   },
@@ -4881,7 +4881,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-15",
     "DateTime": "2026-02-15T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 525,
@@ -4892,11 +4892,11 @@
     "AwayTeamName": "Angers SCO",
     "HomeTeamLogo": "https://crests.football-data.org/525.png",
     "AwayTeamLogo": "https://crests.football-data.org/532.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 525,
     "Points": {
-      "525": 0,
+      "525": 3,
       "532": 0
     },
     "Goals": []
@@ -4907,7 +4907,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-15",
     "DateTime": "2026-02-15T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 545,
@@ -4918,12 +4918,12 @@
     "AwayTeamName": "AJ Auxerre",
     "HomeTeamLogo": "https://crests.football-data.org/545.png",
     "AwayTeamLogo": "https://crests.football-data.org/519.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 3,
+    "Result": 519,
     "Points": {
       "545": 0,
-      "519": 0
+      "519": 3
     },
     "Goals": []
   },

@@ -5932,8 +5932,8 @@
     "AwayTeamName": "Valencia CF",
     "HomeTeamLogo": "https://crests.football-data.org/88.png",
     "AwayTeamLogo": "https://crests.football-data.org/95.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "88": 0,
@@ -6025,7 +6025,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-02-15",
     "DateTime": "2026-02-15T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 87,
@@ -6036,11 +6036,11 @@
     "AwayTeamName": "Club Atlético de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/87.png",
     "AwayTeamLogo": "https://crests.football-data.org/78.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 87,
     "Points": {
-      "87": 0,
+      "87": 3,
       "78": 0
     },
     "Goals": []

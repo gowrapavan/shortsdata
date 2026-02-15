@@ -4962,8 +4962,8 @@
     "AwayTeamName": "VfL Wolfsburg",
     "HomeTeamLogo": "https://crests.football-data.org/721.png",
     "AwayTeamLogo": "https://crests.football-data.org/11.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "721": 0,
@@ -5029,7 +5029,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-02-15",
     "DateTime": "2026-02-15T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 16,
@@ -5040,11 +5040,11 @@
     "AwayTeamName": "1. FC Heidenheim 1846",
     "HomeTeamLogo": "https://crests.football-data.org/16.png",
     "AwayTeamLogo": "https://crests.football-data.org/44.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 16,
     "Points": {
-      "16": 0,
+      "16": 3,
       "44": 0
     },
     "Goals": []
