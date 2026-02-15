@@ -5921,7 +5921,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-02-15",
     "DateTime": "2026-02-15T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 88,
@@ -5933,11 +5933,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/88.png",
     "AwayTeamLogo": "https://crests.football-data.org/95.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 95,
     "Points": {
       "88": 0,
-      "95": 0
+      "95": 3
     },
     "Goals": []
   },
@@ -6088,8 +6088,8 @@
     "AwayTeamName": "Real Betis Balompié",
     "HomeTeamLogo": "https://crests.football-data.org/89.png",
     "AwayTeamLogo": "https://crests.football-data.org/90.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "89": 0,
