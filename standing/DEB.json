@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 721,
+            "name": "RB Leipzig",
+            "shortName": "RB Leipzig",
+            "tla": "RBL",
+            "crest": "https://crests.football-data.org/721.png"
+          },
+          "playedGames": 22,
+          "form": null,
+          "won": 12,
+          "draw": 4,
+          "lost": 6,
+          "points": 40,
+          "goalsFor": 42,
+          "goalsAgainst": 30,
+          "goalDifference": 12
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 3,
             "name": "Bayer 04 Leverkusen",
             "shortName": "Leverkusen",
@@ -122,25 +141,6 @@
           "goalsFor": 43,
           "goalsAgainst": 27,
           "goalDifference": 16
-        },
-        {
-          "position": 6,
-          "team": {
-            "id": 721,
-            "name": "RB Leipzig",
-            "shortName": "RB Leipzig",
-            "tla": "RBL",
-            "crest": "https://crests.football-data.org/721.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 12,
-          "draw": 3,
-          "lost": 6,
-          "points": 39,
-          "goalsFor": 40,
-          "goalsAgainst": 28,
-          "goalDifference": 12
         },
         {
           "position": 7,
@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 16,
+            "name": "FC Augsburg",
+            "shortName": "Augsburg",
+            "tla": "FCA",
+            "crest": "https://crests.football-data.org/16.png"
+          },
+          "playedGames": 22,
+          "form": null,
+          "won": 7,
+          "draw": 4,
+          "lost": 11,
+          "points": 25,
+          "goalsFor": 25,
+          "goalsAgainst": 39,
+          "goalDifference": -14
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 1,
             "name": "1. FC Köln",
             "shortName": "1. FC Köln",
@@ -238,7 +257,7 @@
           "goalDifference": -6
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 18,
             "name": "Borussia Mönchengladbach",
@@ -255,25 +274,6 @@
           "goalsFor": 25,
           "goalsAgainst": 37,
           "goalDifference": -12
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 16,
-            "name": "FC Augsburg",
-            "shortName": "Augsburg",
-            "tla": "FCA",
-            "crest": "https://crests.football-data.org/16.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 6,
-          "draw": 4,
-          "lost": 11,
-          "points": 22,
-          "goalsFor": 24,
-          "goalsAgainst": 39,
-          "goalDifference": -15
         },
         {
           "position": 14,
@@ -303,14 +303,14 @@
             "tla": "WOB",
             "crest": "https://crests.football-data.org/11.png"
           },
-          "playedGames": 21,
+          "playedGames": 22,
           "form": null,
           "won": 5,
-          "draw": 4,
+          "draw": 5,
           "lost": 12,
-          "points": 19,
-          "goalsFor": 29,
-          "goalsAgainst": 44,
+          "points": 20,
+          "goalsFor": 31,
+          "goalsAgainst": 46,
           "goalDifference": -15
         },
         {
@@ -360,15 +360,15 @@
             "tla": "HEI",
             "crest": "https://crests.football-data.org/44.png"
           },
-          "playedGames": 21,
+          "playedGames": 22,
           "form": null,
           "won": 3,
           "draw": 4,
-          "lost": 14,
+          "lost": 15,
           "points": 13,
           "goalsFor": 19,
-          "goalsAgainst": 47,
-          "goalDifference": -28
+          "goalsAgainst": 48,
+          "goalDifference": -29
         }
       ]
     }
