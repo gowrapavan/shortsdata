@@ -446,13 +446,6 @@
         "nationality": "England"
       },
       {
-        "id": 2707,
-        "name": "Christian Kouamé",
-        "position": "Centre-Forward",
-        "dateOfBirth": "1997-12-06",
-        "nationality": "Ivory Coast"
-      },
-      {
         "id": 2230,
         "name": "Rolando Mandragora",
         "position": "Defensive Midfield",
@@ -1526,6 +1519,13 @@
         "position": "Offence",
         "dateOfBirth": "2006-05-20",
         "nationality": "France"
+      },
+      {
+        "id": 292394,
+        "name": "Paul Mendy",
+        "position": "Offence",
+        "dateOfBirth": "2007-01-13",
+        "nationality": "Senegal"
       },
       {
         "id": 114052,
@@ -3581,15 +3581,15 @@
       }
     ],
     "coach": {
-      "id": 290884,
-      "firstName": "Valerio",
-      "lastName": null,
-      "name": "Valerio Filippi",
-      "dateOfBirth": null,
+      "id": 2728,
+      "firstName": "Paolo",
+      "lastName": "Sammarco",
+      "name": "Paolo Sammarco",
+      "dateOfBirth": "1983-03-17",
       "nationality": "Italy",
       "contract": {
-        "start": null,
-        "until": null
+        "start": "2026-02",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -3992,6 +3992,13 @@
         "position": "Midfield",
         "dateOfBirth": "2006-03-28",
         "nationality": "Lithuania"
+      },
+      {
+        "id": 278424,
+        "name": "Davide Pavesi",
+        "position": "Midfield",
+        "dateOfBirth": null,
+        "nationality": "Italy"
       },
       {
         "id": 249351,
@@ -4479,6 +4486,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 292472,
+        "name": "Matteo Luppichini",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2008-03-28",
+        "nationality": "Italy"
+      },
+      {
         "id": 2148,
         "name": "Antonio Caracciolo",
         "position": "Defence",
@@ -4760,13 +4774,6 @@
         "nationality": "Italy"
       },
       {
-        "id": 211608,
-        "name": "João Pedro",
-        "position": "Defence",
-        "dateOfBirth": "2003-12-31",
-        "nationality": "Brazil"
-      },
-      {
         "id": 265154,
         "name": "Rafa Obrador",
         "position": "Defence",
@@ -4814,13 +4821,6 @@
         "position": "Offence",
         "dateOfBirth": "2007-07-20",
         "nationality": "Hungary"
-      },
-      {
-        "id": 123689,
-        "name": "Saúl Coco",
-        "position": "Centre-Back",
-        "dateOfBirth": "1999-02-09",
-        "nationality": "Equatorial Guinea"
       },
       {
         "id": 81085,
@@ -4989,6 +4989,13 @@
         "position": "Attacking Midfield",
         "dateOfBirth": "2001-11-23",
         "nationality": "England"
+      },
+      {
+        "id": 123689,
+        "name": "Saúl Coco",
+        "position": "Centre-Back",
+        "dateOfBirth": "1999-02-09",
+        "nationality": "Equatorial Guinea"
       }
     ],
     "staff": [],

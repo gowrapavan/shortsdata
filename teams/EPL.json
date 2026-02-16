@@ -390,6 +390,13 @@
         "nationality": "England"
       },
       {
+        "id": 292504,
+        "name": "Mohamed Koné",
+        "position": "Midfield",
+        "dateOfBirth": "2007-07-03",
+        "nationality": "Ivory Coast"
+      },
+      {
         "id": 260718,
         "name": "Alysson",
         "position": "Offence",
@@ -499,13 +506,6 @@
         "name": "Jadon Sancho",
         "position": "Left Winger",
         "dateOfBirth": "2000-03-25",
-        "nationality": "England"
-      },
-      {
-        "id": 204428,
-        "name": "Travis Patterson",
-        "position": "Left-Back",
-        "dateOfBirth": "2005-10-06",
         "nationality": "England"
       },
       {
@@ -682,6 +682,13 @@
         "name": "Ryan Kavuma-McQueen",
         "position": "Offence",
         "dateOfBirth": "2009-01-01",
+        "nationality": "England"
+      },
+      {
+        "id": 292473,
+        "name": "Jesse Derry",
+        "position": "Offence",
+        "dateOfBirth": "2007-06-30",
         "nationality": "England"
       },
       {
@@ -1746,6 +1753,13 @@
         "nationality": "England"
       },
       {
+        "id": 292499,
+        "name": "Floyd Samba",
+        "position": "Defence",
+        "dateOfBirth": "2009-01-15",
+        "nationality": "France"
+      },
+      {
         "id": 180453,
         "name": "Sverre Nypan",
         "position": "Midfield",
@@ -1785,6 +1799,13 @@
         "name": "Reigan Heskey",
         "position": "Offence",
         "dateOfBirth": "2008-01-19",
+        "nationality": "England"
+      },
+      {
+        "id": 118489,
+        "name": "Marc Guéhi",
+        "position": "Centre-Back",
+        "dateOfBirth": "2000-07-13",
         "nationality": "England"
       },
       {
@@ -1933,13 +1954,6 @@
         "position": "Left-Back",
         "dateOfBirth": "2002-01-23",
         "nationality": "Croatia"
-      },
-      {
-        "id": 118489,
-        "name": "Marc Guéhi",
-        "position": "Centre-Back",
-        "dateOfBirth": "2000-07-13",
-        "nationality": "England"
       }
     ],
     "staff": [],
@@ -2773,15 +2787,15 @@
       }
     ],
     "coach": {
-      "id": 98287,
-      "firstName": "Thomas",
-      "lastName": "Frank",
-      "name": "Thomas Frank",
-      "dateOfBirth": "1973-10-09",
-      "nationality": "Denmark",
+      "id": 11105,
+      "firstName": "Igor",
+      "lastName": "Tudor",
+      "name": "Igor Tudor",
+      "dateOfBirth": "1978-04-16",
+      "nationality": "Croatia",
       "contract": {
-        "start": "2025-07",
-        "until": "2028-06"
+        "start": "2026-02",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -3121,13 +3135,6 @@
         "position": "Defence",
         "dateOfBirth": "2007-01-07",
         "nationality": "England"
-      },
-      {
-        "id": 22306,
-        "name": "Jhon Arias",
-        "position": "Midfield",
-        "dateOfBirth": "1997-09-21",
-        "nationality": "Colombia"
       },
       {
         "id": 213637,
@@ -3848,15 +3855,15 @@
       }
     ],
     "coach": {
-      "id": 11584,
-      "firstName": "Sean",
-      "lastName": "Dyche",
-      "name": "Sean Dyche",
-      "dateOfBirth": "1971-06-28",
-      "nationality": "England",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-10",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -4493,62 +4500,6 @@
         "nationality": "England"
       },
       {
-        "id": 209504,
-        "name": "Stefanos Tzimas",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2006-01-06",
-        "nationality": "Greece"
-      },
-      {
-        "id": 190851,
-        "name": "Jack Hinshelwood",
-        "position": "Central Midfield",
-        "dateOfBirth": "2005-04-11",
-        "nationality": "England"
-      },
-      {
-        "id": 187482,
-        "name": "Yankubah Minteh",
-        "position": "Right Winger",
-        "dateOfBirth": "2004-07-22",
-        "nationality": "Gambia"
-      },
-      {
-        "id": 178951,
-        "name": "Diego Gómez",
-        "position": "Central Midfield",
-        "dateOfBirth": "2003-03-27",
-        "nationality": "Paraguay"
-      },
-      {
-        "id": 178604,
-        "name": "Carlos Baleba",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2004-01-03",
-        "nationality": "Cameroon"
-      },
-      {
-        "id": 161365,
-        "name": "Solly March",
-        "position": "Right Winger",
-        "dateOfBirth": "1994-07-20",
-        "nationality": "England"
-      },
-      {
-        "id": 145613,
-        "name": "Yasin Ayari",
-        "position": "Central Midfield",
-        "dateOfBirth": "2003-10-06",
-        "nationality": "Sweden"
-      },
-      {
-        "id": 132707,
-        "name": "Kaoru Mitoma",
-        "position": "Left Winger",
-        "dateOfBirth": "1997-05-20",
-        "nationality": "Japan"
-      },
-      {
         "id": 98566,
         "name": "Jan Paul van Hecke",
         "position": "Centre-Back",
@@ -4619,6 +4570,13 @@
         "nationality": "England"
       },
       {
+        "id": 3974,
+        "name": "Matt O'Riley",
+        "position": "Central Midfield",
+        "dateOfBirth": "2000-11-21",
+        "nationality": "Denmark"
+      },
+      {
         "id": 3328,
         "name": "Danny Welbeck",
         "position": "Centre-Forward",
@@ -4631,6 +4589,62 @@
         "position": "Centre-Back",
         "dateOfBirth": "1997-11-18",
         "nationality": "France"
+      },
+      {
+        "id": 209504,
+        "name": "Stefanos Tzimas",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2006-01-06",
+        "nationality": "Greece"
+      },
+      {
+        "id": 190851,
+        "name": "Jack Hinshelwood",
+        "position": "Central Midfield",
+        "dateOfBirth": "2005-04-11",
+        "nationality": "England"
+      },
+      {
+        "id": 187482,
+        "name": "Yankubah Minteh",
+        "position": "Right Winger",
+        "dateOfBirth": "2004-07-22",
+        "nationality": "Gambia"
+      },
+      {
+        "id": 178951,
+        "name": "Diego Gómez",
+        "position": "Central Midfield",
+        "dateOfBirth": "2003-03-27",
+        "nationality": "Paraguay"
+      },
+      {
+        "id": 178604,
+        "name": "Carlos Baleba",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2004-01-03",
+        "nationality": "Cameroon"
+      },
+      {
+        "id": 161365,
+        "name": "Solly March",
+        "position": "Right Winger",
+        "dateOfBirth": "1994-07-20",
+        "nationality": "England"
+      },
+      {
+        "id": 145613,
+        "name": "Yasin Ayari",
+        "position": "Central Midfield",
+        "dateOfBirth": "2003-10-06",
+        "nationality": "Sweden"
+      },
+      {
+        "id": 132707,
+        "name": "Kaoru Mitoma",
+        "position": "Left Winger",
+        "dateOfBirth": "1997-05-20",
+        "nationality": "Japan"
       }
     ],
     "staff": [],
@@ -4976,6 +4990,20 @@
         "position": "Offence",
         "dateOfBirth": "2003-11-18",
         "nationality": "Venezuela"
+      },
+      {
+        "id": 292496,
+        "name": "Joshua Ajala",
+        "position": "Offence",
+        "dateOfBirth": "2006-11-13",
+        "nationality": "England"
+      },
+      {
+        "id": 209130,
+        "name": "Lewis Orford",
+        "position": "Central Midfield",
+        "dateOfBirth": "2006-02-18",
+        "nationality": "England"
       },
       {
         "id": 188900,

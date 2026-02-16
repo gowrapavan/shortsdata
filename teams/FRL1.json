@@ -511,15 +511,15 @@
       }
     ],
     "coach": {
-      "id": 11109,
-      "firstName": "Roberto",
-      "lastName": "De Zerbi",
-      "name": "Roberto De Zerbi",
-      "dateOfBirth": "1979-06-06",
-      "nationality": "Italy",
+      "id": 197077,
+      "firstName": "Jacques",
+      "lastName": "Abardonado",
+      "name": "Jacques Abardonado",
+      "dateOfBirth": "1978-05-27",
+      "nationality": "France",
       "contract": {
-        "start": "2024-07",
-        "until": "2027-06"
+        "start": "2026-02",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -529,13 +529,6 @@
         "position": "Goalkeeper",
         "dateOfBirth": "1992-05-20",
         "nationality": "Argentina"
-      },
-      {
-        "id": 33614,
-        "name": "Rubén Blanco",
-        "position": "Goalkeeper",
-        "dateOfBirth": "1995-07-25",
-        "nationality": "Spain"
       },
       {
         "id": 67880,
@@ -608,6 +601,55 @@
         "nationality": "France"
       },
       {
+        "id": 188476,
+        "name": "Ethan Nwaneri",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2007-03-21",
+        "nationality": "England"
+      },
+      {
+        "id": 184146,
+        "name": "Arthur Vermeeren",
+        "position": "Central Midfield",
+        "dateOfBirth": "2005-02-07",
+        "nationality": "Belgium"
+      },
+      {
+        "id": 179721,
+        "name": "CJ Egan-Riley",
+        "position": "Centre-Back",
+        "dateOfBirth": "2003-01-02",
+        "nationality": "England"
+      },
+      {
+        "id": 170409,
+        "name": "Bilal Nadir",
+        "position": "Central Midfield",
+        "dateOfBirth": "2003-11-28",
+        "nationality": "France"
+      },
+      {
+        "id": 119703,
+        "name": "Igor Paixão",
+        "position": "Left Winger",
+        "dateOfBirth": "2000-06-28",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 101075,
+        "name": "Mason Greenwood",
+        "position": "Right Winger",
+        "dateOfBirth": "2001-10-01",
+        "nationality": "England"
+      },
+      {
+        "id": 97536,
+        "name": "Quinten Timber",
+        "position": "Central Midfield",
+        "dateOfBirth": "2001-06-17",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 82020,
         "name": "Leonardo Balerdi",
         "position": "Centre-Back",
@@ -678,13 +720,6 @@
         "nationality": "Gabon"
       },
       {
-        "id": 3974,
-        "name": "Matt O'Riley",
-        "position": "Central Midfield",
-        "dateOfBirth": "2000-11-21",
-        "nationality": "Denmark"
-      },
-      {
         "id": 3364,
         "name": "Benjamin Pavard",
         "position": "Centre-Back",
@@ -697,62 +732,6 @@
         "position": "Attacking Midfield",
         "dateOfBirth": "2000-02-16",
         "nationality": "Ivory Coast"
-      },
-      {
-        "id": 250795,
-        "name": "Keyliane Abdallah",
-        "position": "Right Winger",
-        "dateOfBirth": "2006-04-05",
-        "nationality": "France"
-      },
-      {
-        "id": 188476,
-        "name": "Ethan Nwaneri",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2007-03-21",
-        "nationality": "England"
-      },
-      {
-        "id": 184146,
-        "name": "Arthur Vermeeren",
-        "position": "Central Midfield",
-        "dateOfBirth": "2005-02-07",
-        "nationality": "Belgium"
-      },
-      {
-        "id": 179721,
-        "name": "CJ Egan-Riley",
-        "position": "Centre-Back",
-        "dateOfBirth": "2003-01-02",
-        "nationality": "England"
-      },
-      {
-        "id": 170409,
-        "name": "Bilal Nadir",
-        "position": "Central Midfield",
-        "dateOfBirth": "2003-11-28",
-        "nationality": "France"
-      },
-      {
-        "id": 119703,
-        "name": "Igor Paixão",
-        "position": "Left Winger",
-        "dateOfBirth": "2000-06-28",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 101075,
-        "name": "Mason Greenwood",
-        "position": "Right Winger",
-        "dateOfBirth": "2001-10-01",
-        "nationality": "England"
-      },
-      {
-        "id": 97536,
-        "name": "Quinten Timber",
-        "position": "Central Midfield",
-        "dateOfBirth": "2001-06-17",
-        "nationality": "Netherlands"
       }
     ],
     "staff": [],
@@ -2520,14 +2499,14 @@
       }
     ],
     "coach": {
-      "id": 173649,
-      "firstName": "Habib",
-      "lastName": "Bèye",
-      "name": "Habib Beye",
-      "dateOfBirth": "1977-10-19",
-      "nationality": "Senegal",
+      "id": 108741,
+      "firstName": "Sébastien",
+      "lastName": "Tambouret",
+      "name": "Sébastien Tambouret",
+      "dateOfBirth": "1976-07-04",
+      "nationality": "France",
       "contract": {
-        "start": "2025-01",
+        "start": "2026-02",
         "until": "2026-06"
       }
     },
@@ -2566,6 +2545,13 @@
         "position": "Defence",
         "dateOfBirth": "2008-07-27",
         "nationality": "France"
+      },
+      {
+        "id": 292471,
+        "name": "Junior Aké",
+        "position": "Defence",
+        "dateOfBirth": "2007-03-15",
+        "nationality": "Ivory Coast"
       },
       {
         "id": 10201,
@@ -2614,41 +2600,6 @@
         "name": "Nordan Mukiele",
         "position": "Offence",
         "dateOfBirth": "2006-02-12",
-        "nationality": "France"
-      },
-      {
-        "id": 272594,
-        "name": "Abdelhamid Ait Boudlal",
-        "position": "Centre-Back",
-        "dateOfBirth": "2006-04-16",
-        "nationality": "Morocco"
-      },
-      {
-        "id": 246322,
-        "name": "Djaoui Cissé",
-        "position": "Central Midfield",
-        "dateOfBirth": "2004-01-31",
-        "nationality": "France"
-      },
-      {
-        "id": 227004,
-        "name": "Mahamadou Nagida",
-        "position": "Left-Back",
-        "dateOfBirth": "2005-06-28",
-        "nationality": "Cameroon"
-      },
-      {
-        "id": 206127,
-        "name": "Jeremy Jacquet",
-        "position": "Centre-Back",
-        "dateOfBirth": "2005-07-13",
-        "nationality": "France"
-      },
-      {
-        "id": 160410,
-        "name": "Quentin Merlin",
-        "position": "Left-Back",
-        "dateOfBirth": "2002-05-16",
         "nationality": "France"
       },
       {
@@ -2740,6 +2691,41 @@
         "name": "Arnaud Nordin",
         "position": "Right Winger",
         "dateOfBirth": "1998-06-17",
+        "nationality": "France"
+      },
+      {
+        "id": 272594,
+        "name": "Abdelhamid Ait Boudlal",
+        "position": "Centre-Back",
+        "dateOfBirth": "2006-04-16",
+        "nationality": "Morocco"
+      },
+      {
+        "id": 246322,
+        "name": "Djaoui Cissé",
+        "position": "Central Midfield",
+        "dateOfBirth": "2004-01-31",
+        "nationality": "France"
+      },
+      {
+        "id": 227004,
+        "name": "Mahamadou Nagida",
+        "position": "Left-Back",
+        "dateOfBirth": "2005-06-28",
+        "nationality": "Cameroon"
+      },
+      {
+        "id": 206127,
+        "name": "Jeremy Jacquet",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-07-13",
+        "nationality": "France"
+      },
+      {
+        "id": 160410,
+        "name": "Quentin Merlin",
+        "position": "Left-Back",
+        "dateOfBirth": "2002-05-16",
         "nationality": "France"
       }
     ],
@@ -2849,6 +2835,13 @@
         "nationality": "France"
       },
       {
+        "id": 292355,
+        "name": "Yahia Jlidi",
+        "position": "Midfield",
+        "dateOfBirth": "2009-01-06",
+        "nationality": "France"
+      },
+      {
         "id": 271981,
         "name": "Amine Moussaoui",
         "position": "Offence",
@@ -2875,13 +2868,6 @@
         "position": "Offence",
         "dateOfBirth": "2006-11-05",
         "nationality": "Cameroon"
-      },
-      {
-        "id": 292355,
-        "name": "Yahia Jlidi",
-        "position": null,
-        "dateOfBirth": "2009-01-06",
-        "nationality": "France"
       },
       {
         "id": 213045,
@@ -3910,6 +3896,48 @@
         "nationality": "Thailand"
       },
       {
+        "id": 246160,
+        "name": "Anthony Bermont",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2005-02-10",
+        "nationality": "France"
+      },
+      {
+        "id": 244936,
+        "name": "Alpha Diallo",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2006-02-25",
+        "nationality": "France"
+      },
+      {
+        "id": 216398,
+        "name": "Nidal Čelik",
+        "position": "Centre-Back",
+        "dateOfBirth": "2006-07-17",
+        "nationality": "Bosnia-Herzegovina"
+      },
+      {
+        "id": 204260,
+        "name": "Fodé Sylla",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2006-04-16",
+        "nationality": "France"
+      },
+      {
+        "id": 188468,
+        "name": "Pierre Ganiou",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-03-14",
+        "nationality": "France"
+      },
+      {
+        "id": 151264,
+        "name": "Abdallah Sima",
+        "position": "Right Winger",
+        "dateOfBirth": "2001-06-17",
+        "nationality": "Senegal"
+      },
+      {
         "id": 129098,
         "name": "Saud Abdulhamid",
         "position": "Right-Back",
@@ -3978,55 +4006,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "1992-11-24",
         "nationality": "France"
-      },
-      {
-        "id": 246160,
-        "name": "Anthony Bermont",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2005-02-10",
-        "nationality": "France"
-      },
-      {
-        "id": 244936,
-        "name": "Alpha Diallo",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2006-02-25",
-        "nationality": "France"
-      },
-      {
-        "id": 216398,
-        "name": "Nidal Čelik",
-        "position": "Centre-Back",
-        "dateOfBirth": "2006-07-17",
-        "nationality": "Bosnia-Herzegovina"
-      },
-      {
-        "id": 204260,
-        "name": "Fodé Sylla",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2006-04-16",
-        "nationality": "France"
-      },
-      {
-        "id": 188468,
-        "name": "Pierre Ganiou",
-        "position": "Centre-Back",
-        "dateOfBirth": "2005-03-14",
-        "nationality": "France"
-      },
-      {
-        "id": 169041,
-        "name": "Jhoanner Chavez",
-        "position": "Left-Back",
-        "dateOfBirth": "2002-04-25",
-        "nationality": "Ecuador"
-      },
-      {
-        "id": 151264,
-        "name": "Abdallah Sima",
-        "position": "Right Winger",
-        "dateOfBirth": "2001-06-17",
-        "nationality": "Senegal"
       }
     ],
     "staff": [],
@@ -4416,6 +4395,13 @@
         "nationality": "France"
       },
       {
+        "id": 292356,
+        "name": "Yoann Becker",
+        "position": "Defence",
+        "dateOfBirth": "2009-01-12",
+        "nationality": "France"
+      },
+      {
         "id": 210644,
         "name": "Maximillian Oyedele",
         "position": "Midfield",
@@ -4533,13 +4519,6 @@
         "position": "Left-Back",
         "dateOfBirth": "1996-12-21",
         "nationality": "England"
-      },
-      {
-        "id": 292356,
-        "name": "Yoann Becker",
-        "position": null,
-        "dateOfBirth": "2009-01-12",
-        "nationality": "France"
       },
       {
         "id": 270889,
@@ -4676,18 +4655,18 @@
         "nationality": "France"
       },
       {
+        "id": 40000,
+        "name": "Timothée Kolodziejczak",
+        "position": "Centre-Back",
+        "dateOfBirth": "1991-10-01",
+        "nationality": "France"
+      },
+      {
         "id": 34754,
         "name": "Marshall Munetsi",
         "position": "Central Midfield",
         "dateOfBirth": "1996-06-22",
         "nationality": "Zimbabwe"
-      },
-      {
-        "id": 11313,
-        "name": "Nouha Dicko",
-        "position": "Centre-Forward",
-        "dateOfBirth": "1992-05-14",
-        "nationality": "Mali"
       },
       {
         "id": 8900,
@@ -4863,13 +4842,6 @@
         "position": "Left-Back",
         "dateOfBirth": "2000-04-24",
         "nationality": "Finland"
-      },
-      {
-        "id": 40000,
-        "name": "Timothée Kolodziejczak",
-        "position": "Centre-Back",
-        "dateOfBirth": "1991-10-01",
-        "nationality": "France"
       }
     ],
     "staff": [],

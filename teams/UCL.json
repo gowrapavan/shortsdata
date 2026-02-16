@@ -1493,6 +1493,13 @@
         "nationality": "England"
       },
       {
+        "id": 292473,
+        "name": "Jesse Derry",
+        "position": "Offence",
+        "dateOfBirth": "2007-06-30",
+        "nationality": "England"
+      },
+      {
         "id": 166366,
         "name": "Andrey Santos",
         "position": "Central Midfield",
@@ -2076,6 +2083,13 @@
         "nationality": "England"
       },
       {
+        "id": 292499,
+        "name": "Floyd Samba",
+        "position": "Defence",
+        "dateOfBirth": "2009-01-15",
+        "nationality": "France"
+      },
+      {
         "id": 180453,
         "name": "Sverre Nypan",
         "position": "Midfield",
@@ -2115,6 +2129,13 @@
         "name": "Reigan Heskey",
         "position": "Offence",
         "dateOfBirth": "2008-01-19",
+        "nationality": "England"
+      },
+      {
+        "id": 118489,
+        "name": "Marc Guéhi",
+        "position": "Centre-Back",
+        "dateOfBirth": "2000-07-13",
         "nationality": "England"
       },
       {
@@ -2263,13 +2284,6 @@
         "position": "Left-Back",
         "dateOfBirth": "2002-01-23",
         "nationality": "Croatia"
-      },
-      {
-        "id": 118489,
-        "name": "Marc Guéhi",
-        "position": "Centre-Back",
-        "dateOfBirth": "2000-07-13",
-        "nationality": "England"
       }
     ],
     "staff": [],
@@ -2583,15 +2597,15 @@
       }
     ],
     "coach": {
-      "id": 98287,
-      "firstName": "Thomas",
-      "lastName": "Frank",
-      "name": "Thomas Frank",
-      "dateOfBirth": "1973-10-09",
-      "nationality": "Denmark",
+      "id": 11105,
+      "firstName": "Igor",
+      "lastName": "Tudor",
+      "name": "Igor Tudor",
+      "dateOfBirth": "1978-04-16",
+      "nationality": "Croatia",
       "contract": {
-        "start": "2025-07",
-        "until": "2028-06"
+        "start": "2026-02",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -2930,6 +2944,13 @@
         "name": "Unai Eguíluz",
         "position": "Defence",
         "dateOfBirth": "2002-03-19",
+        "nationality": "Spain"
+      },
+      {
+        "id": 276865,
+        "name": "Aimar Duñabeitia",
+        "position": "Defence",
+        "dateOfBirth": "2003-02-26",
         "nationality": "Spain"
       },
       {
@@ -5770,13 +5791,6 @@
         "nationality": "Portugal"
       },
       {
-        "id": 45210,
-        "name": "Matheus Reis",
-        "position": "Left-Back",
-        "dateOfBirth": "1995-02-18",
-        "nationality": "Brazil"
-      },
-      {
         "id": 37332,
         "name": "Trincão",
         "position": "Left Winger",
@@ -5842,15 +5856,15 @@
       }
     ],
     "coach": {
-      "id": 11109,
-      "firstName": "Roberto",
-      "lastName": "De Zerbi",
-      "name": "Roberto De Zerbi",
-      "dateOfBirth": "1979-06-06",
-      "nationality": "Italy",
+      "id": 197077,
+      "firstName": "Jacques",
+      "lastName": "Abardonado",
+      "name": "Jacques Abardonado",
+      "dateOfBirth": "1978-05-27",
+      "nationality": "France",
       "contract": {
-        "start": "2024-07",
-        "until": "2027-06"
+        "start": "2026-02",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -5860,13 +5874,6 @@
         "position": "Goalkeeper",
         "dateOfBirth": "1992-05-20",
         "nationality": "Argentina"
-      },
-      {
-        "id": 33614,
-        "name": "Rubén Blanco",
-        "position": "Goalkeeper",
-        "dateOfBirth": "1995-07-25",
-        "nationality": "Spain"
       },
       {
         "id": 67880,
@@ -5939,6 +5946,55 @@
         "nationality": "France"
       },
       {
+        "id": 188476,
+        "name": "Ethan Nwaneri",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2007-03-21",
+        "nationality": "England"
+      },
+      {
+        "id": 184146,
+        "name": "Arthur Vermeeren",
+        "position": "Central Midfield",
+        "dateOfBirth": "2005-02-07",
+        "nationality": "Belgium"
+      },
+      {
+        "id": 179721,
+        "name": "CJ Egan-Riley",
+        "position": "Centre-Back",
+        "dateOfBirth": "2003-01-02",
+        "nationality": "England"
+      },
+      {
+        "id": 170409,
+        "name": "Bilal Nadir",
+        "position": "Central Midfield",
+        "dateOfBirth": "2003-11-28",
+        "nationality": "France"
+      },
+      {
+        "id": 119703,
+        "name": "Igor Paixão",
+        "position": "Left Winger",
+        "dateOfBirth": "2000-06-28",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 101075,
+        "name": "Mason Greenwood",
+        "position": "Right Winger",
+        "dateOfBirth": "2001-10-01",
+        "nationality": "England"
+      },
+      {
+        "id": 97536,
+        "name": "Quinten Timber",
+        "position": "Central Midfield",
+        "dateOfBirth": "2001-06-17",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 82020,
         "name": "Leonardo Balerdi",
         "position": "Centre-Back",
@@ -6009,13 +6065,6 @@
         "nationality": "Gabon"
       },
       {
-        "id": 3974,
-        "name": "Matt O'Riley",
-        "position": "Central Midfield",
-        "dateOfBirth": "2000-11-21",
-        "nationality": "Denmark"
-      },
-      {
         "id": 3364,
         "name": "Benjamin Pavard",
         "position": "Centre-Back",
@@ -6028,62 +6077,6 @@
         "position": "Attacking Midfield",
         "dateOfBirth": "2000-02-16",
         "nationality": "Ivory Coast"
-      },
-      {
-        "id": 250795,
-        "name": "Keyliane Abdallah",
-        "position": "Right Winger",
-        "dateOfBirth": "2006-04-05",
-        "nationality": "France"
-      },
-      {
-        "id": 188476,
-        "name": "Ethan Nwaneri",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2007-03-21",
-        "nationality": "England"
-      },
-      {
-        "id": 184146,
-        "name": "Arthur Vermeeren",
-        "position": "Central Midfield",
-        "dateOfBirth": "2005-02-07",
-        "nationality": "Belgium"
-      },
-      {
-        "id": 179721,
-        "name": "CJ Egan-Riley",
-        "position": "Centre-Back",
-        "dateOfBirth": "2003-01-02",
-        "nationality": "England"
-      },
-      {
-        "id": 170409,
-        "name": "Bilal Nadir",
-        "position": "Central Midfield",
-        "dateOfBirth": "2003-11-28",
-        "nationality": "France"
-      },
-      {
-        "id": 119703,
-        "name": "Igor Paixão",
-        "position": "Left Winger",
-        "dateOfBirth": "2000-06-28",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 101075,
-        "name": "Mason Greenwood",
-        "position": "Right Winger",
-        "dateOfBirth": "2001-10-01",
-        "nationality": "England"
-      },
-      {
-        "id": 97536,
-        "name": "Quinten Timber",
-        "position": "Central Midfield",
-        "dateOfBirth": "2001-06-17",
-        "nationality": "Netherlands"
       }
     ],
     "staff": [],
@@ -7173,13 +7166,6 @@
         "position": "Offence",
         "dateOfBirth": "2001-08-01",
         "nationality": "Ghana"
-      },
-      {
-        "id": 213421,
-        "name": "Nəriman Axundzadə",
-        "position": "Offence",
-        "dateOfBirth": "2004-04-23",
-        "nationality": "Azerbaijan"
       },
       {
         "id": 270725,
@@ -8882,6 +8868,13 @@
         "nationality": "Iceland"
       },
       {
+        "id": 292353,
+        "name": "Geovanni Vianney",
+        "position": "Offence",
+        "dateOfBirth": "2007-09-25",
+        "nationality": "Cameroon"
+      },
+      {
         "id": 169152,
         "name": "Amir Richardson",
         "position": "Central Midfield",
@@ -9030,6 +9023,13 @@
         "nationality": "Portugal"
       },
       {
+        "id": 273524,
+        "name": "Kevin Pinto",
+        "position": "Defence",
+        "dateOfBirth": "2006-09-23",
+        "nationality": "Portugal"
+      },
+      {
         "id": 282871,
         "name": "Daniel Banjaqui",
         "position": "Defence",
@@ -9111,13 +9111,6 @@
         "name": "João Rêgo",
         "position": "Offence",
         "dateOfBirth": "2005-06-20",
-        "nationality": "Portugal"
-      },
-      {
-        "id": 262726,
-        "name": "Ivan Lima",
-        "position": "Offence",
-        "dateOfBirth": "2005-01-13",
         "nationality": "Portugal"
       },
       {
@@ -9922,11 +9915,11 @@
         "nationality": "Israel"
       },
       {
-        "id": 177686,
-        "name": "Valeriy Gromyko",
+        "id": 181698,
+        "name": "Oiva Jukkola",
         "position": "Midfield",
-        "dateOfBirth": "1997-01-23",
-        "nationality": "Belarus"
+        "dateOfBirth": "2002-05-21",
+        "nationality": "Finland"
       },
       {
         "id": 253997,

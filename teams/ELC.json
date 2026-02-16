@@ -33,15 +33,15 @@
       }
     ],
     "coach": {
-      "id": 55441,
-      "firstName": "Valérien",
-      "lastName": "Ismaël",
-      "name": "Valérien Ismaël",
-      "dateOfBirth": "1975-09-28",
-      "nationality": "France",
+      "id": 144368,
+      "firstName": "Damien",
+      "lastName": "Johnson",
+      "name": "Damien Johnson",
+      "dateOfBirth": "1978-11-18",
+      "nationality": "Northern Ireland",
       "contract": {
-        "start": "2025-02",
-        "until": "2028-06"
+        "start": "2026-02",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -1085,6 +1085,13 @@
         "nationality": "England"
       },
       {
+        "id": 292446,
+        "name": "Pijus Otegbayo",
+        "position": "Defence",
+        "dateOfBirth": "2007-08-22",
+        "nationality": "Ireland"
+      },
+      {
         "id": 121,
         "name": "Steven N'Zonzi",
         "position": "Midfield",
@@ -1598,6 +1605,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 264341,
+        "name": "Idrissa Dauda Amihere",
+        "position": "Defence",
+        "dateOfBirth": "2008-01-08",
+        "nationality": "Italy"
+      },
+      {
         "id": 283115,
         "name": "Alex Williams",
         "position": "Defence",
@@ -1682,20 +1696,6 @@
         "nationality": "Denmark"
       },
       {
-        "id": 206825,
-        "name": "Alfie Gilchrist",
-        "position": "Centre-Back",
-        "dateOfBirth": "2003-11-28",
-        "nationality": "England"
-      },
-      {
-        "id": 180842,
-        "name": "Mikey Johnston",
-        "position": "Left Winger",
-        "dateOfBirth": "1999-04-19",
-        "nationality": "Ireland"
-      },
-      {
         "id": 140423,
         "name": "Daryl Dike",
         "position": "Centre-Forward",
@@ -1764,6 +1764,20 @@
         "position": "Centre-Forward",
         "dateOfBirth": "1998-12-27",
         "nationality": "Nigeria"
+      },
+      {
+        "id": 206825,
+        "name": "Alfie Gilchrist",
+        "position": "Centre-Back",
+        "dateOfBirth": "2003-11-28",
+        "nationality": "England"
+      },
+      {
+        "id": 180842,
+        "name": "Mikey Johnston",
+        "position": "Left Winger",
+        "dateOfBirth": "1999-04-19",
+        "nationality": "Ireland"
       }
     ],
     "staff": [],
@@ -1828,13 +1842,6 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2000-03-25",
         "nationality": "Croatia"
-      },
-      {
-        "id": 116229,
-        "name": "James Furlong",
-        "position": "Defence",
-        "dateOfBirth": "2002-06-07",
-        "nationality": "Ireland"
       },
       {
         "id": 189610,
@@ -2216,6 +2223,13 @@
         "nationality": "Australia"
       },
       {
+        "id": 260993,
+        "name": "Reuben Swann",
+        "position": "Midfield",
+        "dateOfBirth": null,
+        "nationality": "England"
+      },
+      {
         "id": 283117,
         "name": "Fraser Thomas",
         "position": "Midfield",
@@ -2558,13 +2572,6 @@
         "position": "Offence",
         "dateOfBirth": "2004-03-23",
         "nationality": "Denmark"
-      },
-      {
-        "id": 285439,
-        "name": "Daniel Isichei",
-        "position": "Offence",
-        "dateOfBirth": "2006-01-01",
-        "nationality": "Ireland"
       },
       {
         "id": 290607,
@@ -2968,6 +2975,13 @@
     },
     "squad": [
       {
+        "id": 4865,
+        "name": "Jamie Jones",
+        "position": "Goalkeeper",
+        "dateOfBirth": "1989-02-18",
+        "nationality": "England"
+      },
+      {
         "id": 4972,
         "name": "George Long",
         "position": "Goalkeeper",
@@ -3010,11 +3024,25 @@
         "nationality": "England"
       },
       {
+        "id": 292498,
+        "name": "Tommy Dobson-Ventura",
+        "position": "Defence",
+        "dateOfBirth": "2006-09-03",
+        "nationality": "England"
+      },
+      {
         "id": 177571,
         "name": "Kuryu Matsuki",
         "position": "Midfield",
         "dateOfBirth": "2003-04-30",
         "nationality": "Japan"
+      },
+      {
+        "id": 265565,
+        "name": "Joe O'Brien-Whitmarsh",
+        "position": "Midfield",
+        "dateOfBirth": "2005-05-11",
+        "nationality": "Ireland"
       },
       {
         "id": 289168,
@@ -3043,6 +3071,13 @@
         "position": "Offence",
         "dateOfBirth": "2007-01-09",
         "nationality": "England"
+      },
+      {
+        "id": 292497,
+        "name": "Sufianu Dibaga",
+        "position": "Offence",
+        "dateOfBirth": null,
+        "nationality": "Spain"
       },
       {
         "id": 172554,
@@ -3986,13 +4021,6 @@
         "nationality": "Jamaica"
       },
       {
-        "id": 99799,
-        "name": "Yan Valery",
-        "position": "Right-Back",
-        "dateOfBirth": "1999-02-22",
-        "nationality": "Tunisia"
-      },
-      {
         "id": 11442,
         "name": "Liam Palmer",
         "position": "Right-Back",
@@ -4107,15 +4135,15 @@
       }
     ],
     "coach": {
-      "id": 11627,
-      "firstName": "",
-      "lastName": "Gracia",
-      "name": "Javi Gracia",
-      "dateOfBirth": "1970-05-01",
-      "nationality": "Spain",
+      "id": 213531,
+      "firstName": "Edward",
+      "lastName": "Still",
+      "name": "Edward Still",
+      "dateOfBirth": "1990-12-30",
+      "nationality": "Belgium",
       "contract": {
-        "start": "2025-10",
-        "until": "2026-06"
+        "start": "2026-02",
+        "until": "2028-06"
       }
     },
     "squad": [
@@ -4239,6 +4267,13 @@
         "nationality": "Afghanistan"
       },
       {
+        "id": 176984,
+        "name": "Pierre Ekwah",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2002-01-15",
+        "nationality": "France"
+      },
+      {
         "id": 160414,
         "name": "Kévin Keben Biakolo",
         "position": "Centre-Back",
@@ -4356,13 +4391,6 @@
         "position": "Left-Back",
         "dateOfBirth": "2004-12-22",
         "nationality": "USA"
-      },
-      {
-        "id": 176984,
-        "name": "Pierre Ekwah",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2002-01-15",
-        "nationality": "France"
       }
     ],
     "staff": [],
@@ -4738,10 +4766,10 @@
         "nationality": "England"
       },
       {
-        "id": 292211,
-        "name": "Frankie Runham",
-        "position": "Midfield",
-        "dateOfBirth": "2007-01-09",
+        "id": 277966,
+        "name": "Somto Boniface",
+        "position": "Defence",
+        "dateOfBirth": "2006-03-11",
         "nationality": "England"
       },
       {
@@ -4757,13 +4785,6 @@
         "position": "Offence",
         "dateOfBirth": "2006-06-21",
         "nationality": "Norway"
-      },
-      {
-        "id": 270159,
-        "name": "Leon Ayinde",
-        "position": "Offence",
-        "dateOfBirth": "2004-09-05",
-        "nationality": "Ireland"
       },
       {
         "id": 176777,
@@ -5574,13 +5595,6 @@
         "nationality": "Slovenia"
       },
       {
-        "id": 244758,
-        "name": "Jed Meerholz",
-        "position": "Midfield",
-        "dateOfBirth": "2006-04-08",
-        "nationality": "England"
-      },
-      {
         "id": 291267,
         "name": "Daniel Ezendu",
         "position": "Midfield",
@@ -5607,6 +5621,48 @@
         "position": "Offence",
         "dateOfBirth": "2007-11-16",
         "nationality": "England"
+      },
+      {
+        "id": 248957,
+        "name": "George Earthy",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2004-09-05",
+        "nationality": "England"
+      },
+      {
+        "id": 180386,
+        "name": "Sinclair Armstrong",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2003-06-22",
+        "nationality": "Ireland"
+      },
+      {
+        "id": 156796,
+        "name": "Sam Bell",
+        "position": "Left Winger",
+        "dateOfBirth": "2002-05-23",
+        "nationality": "England"
+      },
+      {
+        "id": 137118,
+        "name": "Luke McNally",
+        "position": "Centre-Back",
+        "dateOfBirth": "1999-09-20",
+        "nationality": "Ireland"
+      },
+      {
+        "id": 125973,
+        "name": "George Tanner",
+        "position": "Right-Back",
+        "dateOfBirth": "1999-11-16",
+        "nationality": "England"
+      },
+      {
+        "id": 118587,
+        "name": "Jason Knight",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2001-02-13",
+        "nationality": "Ireland"
       },
       {
         "id": 101714,
@@ -5698,48 +5754,6 @@
         "position": "Central Midfield",
         "dateOfBirth": "1991-09-10",
         "nationality": "Egypt"
-      },
-      {
-        "id": 248957,
-        "name": "George Earthy",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2004-09-05",
-        "nationality": "England"
-      },
-      {
-        "id": 180386,
-        "name": "Sinclair Armstrong",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2003-06-22",
-        "nationality": "Ireland"
-      },
-      {
-        "id": 156796,
-        "name": "Sam Bell",
-        "position": "Left Winger",
-        "dateOfBirth": "2002-05-23",
-        "nationality": "England"
-      },
-      {
-        "id": 137118,
-        "name": "Luke McNally",
-        "position": "Centre-Back",
-        "dateOfBirth": "1999-09-20",
-        "nationality": "Ireland"
-      },
-      {
-        "id": 125973,
-        "name": "George Tanner",
-        "position": "Right-Back",
-        "dateOfBirth": "1999-11-16",
-        "nationality": "England"
-      },
-      {
-        "id": 118587,
-        "name": "Jason Knight",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2001-02-13",
-        "nationality": "Ireland"
       }
     ],
     "staff": [],
@@ -6085,13 +6099,6 @@
         "position": "Defence",
         "dateOfBirth": "2001-12-27",
         "nationality": "Spain"
-      },
-      {
-        "id": 263313,
-        "name": "Callum Perry",
-        "position": "Defence",
-        "dateOfBirth": "2005-10-05",
-        "nationality": "England"
       },
       {
         "id": 176988,
@@ -6731,13 +6738,6 @@
         "position": "Centre-Forward",
         "dateOfBirth": "2000-06-20",
         "nationality": "Indonesia"
-      },
-      {
-        "id": 8023,
-        "name": "Matt Phillips",
-        "position": "Right Winger",
-        "dateOfBirth": "1991-03-13",
-        "nationality": "Scotland"
       },
       {
         "id": 7254,
