@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-15T06:36:20.998708Z",
+    "last_updated": "2026-02-16T06:50:00.940189Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -116,7 +116,7 @@
                     "player_name": "Vedat Muriqi",
                     "team_name": "RCD Mallorca",
                     "team_crest": "https://crests.football-data.org/89.png",
-                    "goals": 15,
+                    "goals": 16,
                     "assists": 1,
                     "penalties": 5,
                     "nationality": "Kosovo"
@@ -370,6 +370,15 @@
                     "nationality": "Croatia"
                 },
                 {
+                    "player_name": "Mohammed Amoura",
+                    "team_name": "VfL Wolfsburg",
+                    "team_crest": "https://crests.football-data.org/11.png",
+                    "goals": 8,
+                    "assists": 2,
+                    "penalties": 1,
+                    "nationality": "Algeria"
+                },
+                {
                     "player_name": "Christoph Baumgartner",
                     "team_name": "RB Leipzig",
                     "team_crest": "https://crests.football-data.org/721.png",
@@ -377,15 +386,6 @@
                     "assists": 6,
                     "penalties": null,
                     "nationality": "Austria"
-                },
-                {
-                    "player_name": "Jonathan Burkardt",
-                    "team_name": "Eintracht Frankfurt",
-                    "team_crest": "https://crests.football-data.org/19.png",
-                    "goals": 8,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "Germany"
                 }
             ]
         },
@@ -435,7 +435,7 @@
                     "team_name": "Olympique Lyonnais",
                     "team_crest": "https://crests.football-data.org/523.png",
                     "goals": 9,
-                    "assists": 2,
+                    "assists": 3,
                     "penalties": null,
                     "nationality": "Czech Republic"
                 },
@@ -467,21 +467,21 @@
                     "nationality": "France"
                 },
                 {
-                    "player_name": "Bradley Barcola",
-                    "team_name": "Paris Saint-Germain FC",
-                    "team_crest": "https://crests.football-data.org/524.png",
+                    "player_name": "Lassine Sinayoko",
+                    "team_name": "AJ Auxerre",
+                    "team_crest": "https://crests.football-data.org/519.png",
                     "goals": 7,
-                    "assists": 1,
-                    "penalties": null,
+                    "assists": 3,
+                    "penalties": 3,
                     "nationality": "France"
                 },
                 {
-                    "player_name": "Romain Del Castillo",
-                    "team_name": "Stade Brestois 29",
-                    "team_crest": "https://crests.football-data.org/512.png",
+                    "player_name": "Pablo Pagis",
+                    "team_name": "FC Lorient",
+                    "team_crest": "https://crests.football-data.org/525.png",
                     "goals": 7,
-                    "assists": 2,
-                    "penalties": 6,
+                    "assists": null,
+                    "penalties": 1,
                     "nationality": "France"
                 }
             ]
@@ -541,7 +541,7 @@
                     "team_name": "PEC Zwolle",
                     "team_crest": "https://crests.football-data.org/684.png",
                     "goals": 10,
-                    "assists": 5,
+                    "assists": 6,
                     "penalties": null,
                     "nationality": "Netherlands"
                 },
