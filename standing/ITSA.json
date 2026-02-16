@@ -240,25 +240,6 @@
         {
           "position": 12,
           "team": {
-            "id": 104,
-            "name": "Cagliari Calcio",
-            "shortName": "Cagliari",
-            "tla": "CAG",
-            "crest": "https://crests.football-data.org/104.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 7,
-          "draw": 8,
-          "lost": 10,
-          "points": 29,
-          "goalsFor": 28,
-          "goalsAgainst": 33,
-          "goalDifference": -5
-        },
-        {
-          "position": 13,
-          "team": {
             "id": 112,
             "name": "Parma Calcio 1913",
             "shortName": "Parma",
@@ -274,6 +255,25 @@
           "goalsFor": 18,
           "goalsAgainst": 31,
           "goalDifference": -13
+        },
+        {
+          "position": 13,
+          "team": {
+            "id": 104,
+            "name": "Cagliari Calcio",
+            "shortName": "Cagliari",
+            "tla": "CAG",
+            "crest": "https://crests.football-data.org/104.png"
+          },
+          "playedGames": 25,
+          "form": null,
+          "won": 7,
+          "draw": 7,
+          "lost": 11,
+          "points": 28,
+          "goalsFor": 28,
+          "goalsAgainst": 35,
+          "goalDifference": -7
         },
         {
           "position": 14,
@@ -343,13 +343,13 @@
           },
           "playedGames": 25,
           "form": null,
-          "won": 5,
-          "draw": 7,
+          "won": 6,
+          "draw": 6,
           "lost": 13,
-          "points": 22,
-          "goalsFor": 15,
+          "points": 24,
+          "goalsFor": 17,
           "goalsAgainst": 31,
-          "goalDifference": -16
+          "goalDifference": -14
         },
         {
           "position": 18,

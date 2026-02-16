@@ -31,6 +31,25 @@
         {
           "position": 1,
           "team": {
+            "id": 1076,
+            "name": "Coventry City FC",
+            "shortName": "Coventry City",
+            "tla": "COV",
+            "crest": "https://crests.football-data.org/1076.png"
+          },
+          "playedGames": 32,
+          "form": null,
+          "won": 18,
+          "draw": 8,
+          "lost": 6,
+          "points": 62,
+          "goalsFor": 66,
+          "goalsAgainst": 36,
+          "goalDifference": 30
+        },
+        {
+          "position": 2,
+          "team": {
             "id": 343,
             "name": "Middlesbrough FC",
             "shortName": "Middlesbrough",
@@ -40,31 +59,12 @@
           "playedGames": 32,
           "form": null,
           "won": 18,
-          "draw": 8,
-          "lost": 6,
-          "points": 62,
-          "goalsFor": 49,
-          "goalsAgainst": 30,
-          "goalDifference": 19
-        },
-        {
-          "position": 2,
-          "team": {
-            "id": 1076,
-            "name": "Coventry City FC",
-            "shortName": "Coventry City",
-            "tla": "COV",
-            "crest": "https://crests.football-data.org/1076.png"
-          },
-          "playedGames": 32,
-          "form": null,
-          "won": 17,
-          "draw": 9,
-          "lost": 6,
-          "points": 60,
-          "goalsFor": 63,
-          "goalsAgainst": 35,
-          "goalDifference": 28
+          "draw": 7,
+          "lost": 7,
+          "points": 61,
+          "goalsFor": 50,
+          "goalsAgainst": 33,
+          "goalDifference": 17
         },
         {
           "position": 3,
