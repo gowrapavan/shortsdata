@@ -69,6 +69,25 @@
         {
           "position": 3,
           "team": {
+            "id": 1915,
+            "name": "NEC",
+            "shortName": "NEC",
+            "tla": "NEC",
+            "crest": "https://crests.football-data.org/1915.png"
+          },
+          "playedGames": 23,
+          "form": null,
+          "won": 12,
+          "draw": 6,
+          "lost": 5,
+          "points": 42,
+          "goalsFor": 58,
+          "goalsAgainst": 39,
+          "goalDifference": 19
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 678,
             "name": "AFC Ajax",
             "shortName": "Ajax",
@@ -86,26 +105,26 @@
           "goalDifference": 16
         },
         {
-          "position": 4,
+          "position": 5,
           "team": {
-            "id": 1915,
-            "name": "NEC",
-            "shortName": "NEC",
-            "tla": "NEC",
-            "crest": "https://crests.football-data.org/1915.png"
+            "id": 6806,
+            "name": "Sparta Rotterdam",
+            "shortName": "Sparta",
+            "tla": "SPA",
+            "crest": "https://crests.football-data.org/6806.png"
           },
-          "playedGames": 22,
+          "playedGames": 23,
           "form": null,
-          "won": 12,
-          "draw": 5,
-          "lost": 5,
-          "points": 41,
-          "goalsFor": 57,
-          "goalsAgainst": 38,
-          "goalDifference": 19
+          "won": 11,
+          "draw": 4,
+          "lost": 8,
+          "points": 37,
+          "goalsFor": 30,
+          "goalsAgainst": 37,
+          "goalDifference": -7
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 682,
             "name": "AZ",
@@ -122,25 +141,6 @@
           "goalsFor": 39,
           "goalsAgainst": 37,
           "goalDifference": 2
-        },
-        {
-          "position": 6,
-          "team": {
-            "id": 6806,
-            "name": "Sparta Rotterdam",
-            "shortName": "Sparta",
-            "tla": "SPA",
-            "crest": "https://crests.football-data.org/6806.png"
-          },
-          "playedGames": 22,
-          "form": null,
-          "won": 11,
-          "draw": 3,
-          "lost": 8,
-          "points": 36,
-          "goalsFor": 29,
-          "goalsAgainst": 36,
-          "goalDifference": -7
         },
         {
           "position": 7,
