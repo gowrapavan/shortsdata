@@ -3765,7 +3765,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-02-18",
     "DateTime": "2026-02-18T17:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 611,
@@ -3776,12 +3776,12 @@
     "AwayTeamName": "Newcastle United FC",
     "HomeTeamLogo": "https://crests.football-data.org/611.png",
     "AwayTeamLogo": "https://crests.football-data.org/67.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 5,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 6,
+    "Result": 67,
     "Points": {
       "611": 0,
-      "67": 0
+      "67": 3
     },
     "Goals": []
   },
@@ -3828,8 +3828,8 @@
     "AwayTeamName": "Club Atlético de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/851.png",
     "AwayTeamLogo": "https://crests.football-data.org/78.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "851": 0,
@@ -3880,8 +3880,8 @@
     "AwayTeamName": "Bayer 04 Leverkusen",
     "HomeTeamLogo": "https://crests.football-data.org/654.png",
     "AwayTeamLogo": "https://crests.football-data.org/3.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "654": 0,
@@ -3906,8 +3906,8 @@
     "AwayTeamName": "FC Internazionale Milano",
     "HomeTeamLogo": "https://crests.football-data.org/5721.png",
     "AwayTeamLogo": "https://crests.football-data.org/108.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "5721": 0,
