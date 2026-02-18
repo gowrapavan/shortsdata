@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-17T06:42:22.070765Z",
+    "last_updated": "2026-02-18T06:46:14.042381Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -564,6 +564,15 @@
                     "nationality": "Norway"
                 },
                 {
+                    "player_name": "Koki Ogawa",
+                    "team_name": "NEC",
+                    "team_crest": "https://crests.football-data.org/1915.png",
+                    "goals": 8,
+                    "assists": 2,
+                    "penalties": 1,
+                    "nationality": "Japan"
+                },
+                {
                     "player_name": "Joey Veerman",
                     "team_name": "PSV",
                     "team_crest": "https://crests.football-data.org/674.png",
@@ -571,15 +580,6 @@
                     "assists": 11,
                     "penalties": null,
                     "nationality": "Netherlands"
-                },
-                {
-                    "player_name": "Jacob Trenskow",
-                    "team_name": "SC Heerenveen",
-                    "team_crest": "https://crests.football-data.org/673.png",
-                    "goals": 8,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Denmark"
                 }
             ]
         },
@@ -593,7 +593,7 @@
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
                     "goals": 13,
-                    "assists": null,
+                    "assists": 1,
                     "penalties": 3,
                     "nationality": "France"
                 },
@@ -638,7 +638,7 @@
                     "team_name": "Galatasaray SK",
                     "team_crest": "https://crests.football-data.org/610.png",
                     "goals": 6,
-                    "assists": null,
+                    "assists": 1,
                     "penalties": 3,
                     "nationality": "Nigeria"
                 },
