@@ -7389,10 +7389,10 @@
   },
   {
     "GameId": 538073,
-    "RoundId": 6,
+    "RoundId": 31,
     "RoundName": "Premier League",
-    "Date": "2026-03-04",
-    "DateTime": "2026-03-04T00:00:00Z",
+    "Date": "2026-03-05",
+    "DateTime": "2026-03-05T20:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -7939,7 +7939,7 @@
     "RoundName": "Premier League",
     "Date": "2026-02-18",
     "DateTime": "2026-02-18T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 76,
@@ -7950,12 +7950,12 @@
     "AwayTeamName": "Arsenal FC",
     "HomeTeamLogo": "https://crests.football-data.org/76.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "76": 0,
-      "57": 0
+      "76": 1,
+      "57": 1
     },
     "Goals": []
   },

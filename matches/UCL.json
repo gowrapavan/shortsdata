@@ -3817,7 +3817,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-02-18",
     "DateTime": "2026-02-18T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 851,
@@ -3828,12 +3828,12 @@
     "AwayTeamName": "Club Atlético de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/851.png",
     "AwayTeamLogo": "https://crests.football-data.org/78.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 2,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
-      "851": 0,
-      "78": 0
+      "851": 1,
+      "78": 1
     },
     "Goals": []
   },
@@ -3869,7 +3869,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-02-18",
     "DateTime": "2026-02-18T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 654,
@@ -3881,11 +3881,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/654.png",
     "AwayTeamLogo": "https://crests.football-data.org/3.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 3,
     "Points": {
       "654": 0,
-      "3": 0
+      "3": 3
     },
     "Goals": []
   },
@@ -3895,7 +3895,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-02-18",
     "DateTime": "2026-02-18T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5721,
@@ -3908,9 +3908,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/108.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 5721,
     "Points": {
-      "5721": 0,
+      "5721": 3,
       "108": 0
     },
     "Goals": []
