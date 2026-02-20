@@ -19,7 +19,7 @@
     "id": 2474,
     "startDate": "2026-01-28",
     "endDate": "2026-12-02",
-    "currentMatchday": 3,
+    "currentMatchday": 4,
     "winner": null
   },
   "standings": [
@@ -107,24 +107,43 @@
         {
           "position": 5,
           "team": {
+            "id": 1779,
+            "name": "SC Corinthians Paulista",
+            "shortName": "Corinthians",
+            "tla": "COR",
+            "crest": "https://crests.football-data.org/1779.png"
+          },
+          "playedGames": 3,
+          "form": null,
+          "won": 2,
+          "draw": 0,
+          "lost": 1,
+          "points": 6,
+          "goalsFor": 4,
+          "goalsAgainst": 2,
+          "goalDifference": 2
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 1768,
             "name": "CA Paranaense",
             "shortName": "Paranaense",
             "tla": "CAP",
             "crest": "https://crests.football-data.org/1768.png"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "form": null,
           "won": 2,
           "draw": 0,
-          "lost": 0,
+          "lost": 1,
           "points": 6,
           "goalsFor": 3,
-          "goalsAgainst": 1,
-          "goalDifference": 2
+          "goalsAgainst": 2,
+          "goalDifference": 1
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 4286,
             "name": "RB Bragantino",
@@ -143,7 +162,7 @@
           "goalDifference": 0
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 1772,
             "name": "Chapecoense AF",
@@ -162,7 +181,7 @@
           "goalDifference": 2
         },
         {
-          "position": 8,
+          "position": 9,
           "team": {
             "id": 4364,
             "name": "Mirassol FC",
@@ -181,7 +200,7 @@
           "goalDifference": 1
         },
         {
-          "position": 9,
+          "position": 10,
           "team": {
             "id": 4241,
             "name": "Coritiba FBC",
@@ -200,7 +219,7 @@
           "goalDifference": 0
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 1783,
             "name": "CR Flamengo",
@@ -219,7 +238,7 @@
           "goalDifference": 0
         },
         {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 1770,
             "name": "Botafogo FR",
@@ -235,25 +254,6 @@
           "points": 3,
           "goalsFor": 7,
           "goalsAgainst": 6,
-          "goalDifference": 1
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 1779,
-            "name": "SC Corinthians Paulista",
-            "shortName": "Corinthians",
-            "tla": "COR",
-            "crest": "https://crests.football-data.org/1779.png"
-          },
-          "playedGames": 2,
-          "form": null,
-          "won": 1,
-          "draw": 0,
-          "lost": 1,
-          "points": 3,
-          "goalsFor": 3,
-          "goalsAgainst": 2,
           "goalDifference": 1
         },
         {
