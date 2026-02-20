@@ -126,25 +126,6 @@
         {
           "position": 6,
           "team": {
-            "id": 1081,
-            "name": "Preston North End FC",
-            "shortName": "Preston NE",
-            "tla": "PNE",
-            "crest": "https://crests.football-data.org/1081.png"
-          },
-          "playedGames": 33,
-          "form": null,
-          "won": 12,
-          "draw": 13,
-          "lost": 8,
-          "points": 49,
-          "goalsFor": 40,
-          "goalsAgainst": 36,
-          "goalDifference": 4
-        },
-        {
-          "position": 7,
-          "team": {
             "id": 342,
             "name": "Derby County FC",
             "shortName": "Derby County",
@@ -162,7 +143,7 @@
           "goalDifference": 8
         },
         {
-          "position": 8,
+          "position": 7,
           "team": {
             "id": 404,
             "name": "Wrexham AFC",
@@ -179,6 +160,25 @@
           "goalsFor": 46,
           "goalsAgainst": 41,
           "goalDifference": 5
+        },
+        {
+          "position": 8,
+          "team": {
+            "id": 1081,
+            "name": "Preston North End FC",
+            "shortName": "Preston NE",
+            "tla": "PNE",
+            "crest": "https://crests.football-data.org/1081.png"
+          },
+          "playedGames": 33,
+          "form": null,
+          "won": 12,
+          "draw": 12,
+          "lost": 9,
+          "points": 48,
+          "goalsFor": 40,
+          "goalsAgainst": 37,
+          "goalDifference": 3
         },
         {
           "position": 9,
@@ -373,6 +373,25 @@
         {
           "position": 19,
           "team": {
+            "id": 59,
+            "name": "Blackburn Rovers FC",
+            "shortName": "Blackburn",
+            "tla": "BLA",
+            "crest": "https://crests.football-data.org/59.png"
+          },
+          "playedGames": 33,
+          "form": null,
+          "won": 10,
+          "draw": 8,
+          "lost": 15,
+          "points": 38,
+          "goalsFor": 31,
+          "goalsAgainst": 41,
+          "goalDifference": -10
+        },
+        {
+          "position": 20,
+          "team": {
             "id": 325,
             "name": "Portsmouth FC",
             "shortName": "Portsmouth",
@@ -388,25 +407,6 @@
           "goalsFor": 30,
           "goalsAgainst": 40,
           "goalDifference": -10
-        },
-        {
-          "position": 20,
-          "team": {
-            "id": 59,
-            "name": "Blackburn Rovers FC",
-            "shortName": "Blackburn",
-            "tla": "BLA",
-            "crest": "https://crests.football-data.org/59.png"
-          },
-          "playedGames": 33,
-          "form": null,
-          "won": 9,
-          "draw": 9,
-          "lost": 15,
-          "points": 36,
-          "goalsFor": 30,
-          "goalsAgainst": 41,
-          "goalDifference": -11
         },
         {
           "position": 21,

@@ -172,13 +172,13 @@
           },
           "playedGames": 25,
           "form": null,
-          "won": 9,
-          "draw": 5,
+          "won": 10,
+          "draw": 4,
           "lost": 11,
-          "points": 32,
-          "goalsFor": 27,
-          "goalsAgainst": 34,
-          "goalDifference": -7
+          "points": 34,
+          "goalsFor": 29,
+          "goalsAgainst": 35,
+          "goalDifference": -6
         },
         {
           "position": 9,
@@ -259,25 +259,6 @@
         {
           "position": 13,
           "team": {
-            "id": 285,
-            "name": "Elche CF",
-            "shortName": "Elche",
-            "tla": "ELC",
-            "crest": "https://crests.football-data.org/285.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 5,
-          "draw": 11,
-          "lost": 9,
-          "points": 26,
-          "goalsFor": 31,
-          "goalsAgainst": 35,
-          "goalDifference": -4
-        },
-        {
-          "position": 14,
-          "team": {
             "id": 559,
             "name": "Sevilla FC",
             "shortName": "Sevilla FC",
@@ -295,7 +276,7 @@
           "goalDifference": -8
         },
         {
-          "position": 15,
+          "position": 14,
           "team": {
             "id": 263,
             "name": "Deportivo Alavés",
@@ -314,7 +295,7 @@
           "goalDifference": -9
         },
         {
-          "position": 16,
+          "position": 15,
           "team": {
             "id": 95,
             "name": "Valencia CF",
@@ -331,6 +312,25 @@
           "goalsFor": 25,
           "goalsAgainst": 37,
           "goalDifference": -12
+        },
+        {
+          "position": 16,
+          "team": {
+            "id": 285,
+            "name": "Elche CF",
+            "shortName": "Elche",
+            "tla": "ELC",
+            "crest": "https://crests.football-data.org/285.png"
+          },
+          "playedGames": 25,
+          "form": null,
+          "won": 5,
+          "draw": 10,
+          "lost": 10,
+          "points": 25,
+          "goalsFor": 32,
+          "goalsAgainst": 37,
+          "goalDifference": -5
         },
         {
           "position": 17,
