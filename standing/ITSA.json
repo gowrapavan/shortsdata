@@ -208,12 +208,12 @@
             "tla": "SAS",
             "crest": "https://crests.football-data.org/471.png"
           },
-          "playedGames": 25,
+          "playedGames": 26,
           "form": null,
           "won": 9,
-          "draw": 5,
+          "draw": 6,
           "lost": 11,
-          "points": 32,
+          "points": 33,
           "goalsFor": 29,
           "goalsAgainst": 35,
           "goalDifference": -6
@@ -373,6 +373,25 @@
         {
           "position": 19,
           "team": {
+            "id": 450,
+            "name": "Hellas Verona FC",
+            "shortName": "Verona",
+            "tla": "HVE",
+            "crest": "https://crests.football-data.org/450.png"
+          },
+          "playedGames": 26,
+          "form": null,
+          "won": 2,
+          "draw": 10,
+          "lost": 14,
+          "points": 16,
+          "goalsFor": 19,
+          "goalsAgainst": 43,
+          "goalDifference": -24
+        },
+        {
+          "position": 20,
+          "team": {
             "id": 487,
             "name": "AC Pisa 1909",
             "shortName": "AC Pisa",
@@ -388,25 +407,6 @@
           "goalsFor": 20,
           "goalsAgainst": 42,
           "goalDifference": -22
-        },
-        {
-          "position": 20,
-          "team": {
-            "id": 450,
-            "name": "Hellas Verona FC",
-            "shortName": "Verona",
-            "tla": "HVE",
-            "crest": "https://crests.football-data.org/450.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 2,
-          "draw": 9,
-          "lost": 14,
-          "points": 15,
-          "goalsFor": 19,
-          "goalsAgainst": 43,
-          "goalDifference": -24
         }
       ]
     }

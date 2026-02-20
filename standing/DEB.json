@@ -189,12 +189,12 @@
             "tla": "HSV",
             "crest": "https://crests.football-data.org/7.png"
           },
-          "playedGames": 21,
+          "playedGames": 22,
           "form": null,
           "won": 6,
-          "draw": 7,
+          "draw": 8,
           "lost": 8,
-          "points": 25,
+          "points": 26,
           "goalsFor": 24,
           "goalsAgainst": 31,
           "goalDifference": -7
@@ -259,6 +259,25 @@
         {
           "position": 13,
           "team": {
+            "id": 15,
+            "name": "1. FSV Mainz 05",
+            "shortName": "Mainz",
+            "tla": "M05",
+            "crest": "https://crests.football-data.org/15.png"
+          },
+          "playedGames": 23,
+          "form": null,
+          "won": 5,
+          "draw": 7,
+          "lost": 11,
+          "points": 22,
+          "goalsFor": 25,
+          "goalsAgainst": 37,
+          "goalDifference": -12
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 18,
             "name": "Borussia Mönchengladbach",
             "shortName": "M'gladbach",
@@ -271,25 +290,6 @@
           "draw": 7,
           "lost": 10,
           "points": 22,
-          "goalsFor": 25,
-          "goalsAgainst": 37,
-          "goalDifference": -12
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 15,
-            "name": "1. FSV Mainz 05",
-            "shortName": "Mainz",
-            "tla": "M05",
-            "crest": "https://crests.football-data.org/15.png"
-          },
-          "playedGames": 22,
-          "form": null,
-          "won": 5,
-          "draw": 6,
-          "lost": 11,
-          "points": 21,
           "goalsFor": 25,
           "goalsAgainst": 37,
           "goalDifference": -12
