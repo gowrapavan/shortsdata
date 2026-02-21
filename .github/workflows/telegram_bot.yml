@@ -16,7 +16,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Required for pulling latest changes
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,11 +33,16 @@ jobs:
           cd Telegram
           python bot.py
 
-      - name: Pull latest changes to prevent push errors
+      - name: Pull latest changes safely (Stash method)
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # Temporarily hide the generated images and text file
+          git stash
+          # Safely pull any new updates from your repository
           git pull origin main --rebase
+          # Bring the generated files back
+          git stash pop || true
 
       - name: Save memory to prevent duplicates
         uses: stefanzweifel/git-auto-commit-action@v5
