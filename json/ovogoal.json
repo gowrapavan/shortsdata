@@ -1,16 +1,5 @@
 [
   {
-    "time": "18:30",
-    "game": "football",
-    "league": "premier",
-    "home_team": "West Ham",
-    "away_team": "Bournemouth",
-    "label": "wes-bou",
-    "home_logo": "https://crests.football-data.org/563.png",
-    "away_logo": "https://crests.football-data.org/bournemouth.png",
-    "url": "https://gametimes.plus/home/blog1/"
-  },
-  {
     "time": "21:00",
     "game": "football",
     "league": "premier",
@@ -20,28 +9,6 @@
     "home_logo": "https://crests.football-data.org/65.png",
     "away_logo": "https://crests.football-data.org/67.png",
     "url": "https://gametimes.plus/home/blog1/"
-  },
-  {
-    "time": "18:30",
-    "game": "football",
-    "league": "laliga",
-    "home_team": "Osasuna",
-    "away_team": "Real Madrid",
-    "label": "osa-rea",
-    "home_logo": "https://crests.football-data.org/79.png",
-    "away_logo": "https://crests.football-data.org/86.png",
-    "url": "https://gametimes.plus/home/blog2/"
-  },
-  {
-    "time": "18:00",
-    "game": "football",
-    "league": "seriea",
-    "home_team": "Lecce",
-    "away_team": "Internazionale",
-    "label": "lec-int",
-    "home_logo": "https://crests.football-data.org/5890.png",
-    "away_logo": "https://crests.football-data.org/108.png",
-    "url": "https://gametimes.plus/home/blog4/"
   },
   {
     "time": "21:05",
@@ -61,8 +28,8 @@
     "home_team": "",
     "away_team": "",
     "label": "ovogoal",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
     "url": "https://gametimes.plus/mma/blog/"
   },
   {
@@ -72,8 +39,85 @@
     "home_team": "",
     "away_team": "",
     "label": "ovogoal",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
     "url": "https://gametimes.plus/box/stream1/"
+  },
+  {
+    "time": "15:00",
+    "game": "football",
+    "league": "premier",
+    "home_team": "Crystal Palace",
+    "away_team": "Wolves",
+    "label": "cry-wol",
+    "home_logo": "https://crests.football-data.org/354.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "url": ""
+  },
+  {
+    "time": "15:00",
+    "game": "football",
+    "league": "premier",
+    "home_team": "Nottingham",
+    "away_team": "Liverpool",
+    "label": "not-liv",
+    "home_logo": "https://crests.football-data.org/351.png",
+    "away_logo": "https://crests.football-data.org/64.png",
+    "url": ""
+  },
+  {
+    "time": "15:00",
+    "game": "football",
+    "league": "premier",
+    "home_team": "Sunderland",
+    "away_team": "Fulham",
+    "label": "sun-ful",
+    "home_logo": "https://crests.football-data.org/71.png",
+    "away_logo": "https://crests.football-data.org/63.png",
+    "url": ""
+  },
+  {
+    "time": "17:30",
+    "game": "football",
+    "league": "premier",
+    "home_team": "Tottenham",
+    "away_team": "Arsenal",
+    "label": "tot-ars",
+    "home_logo": "https://crests.football-data.org/73.png",
+    "away_logo": "https://crests.football-data.org/57.png",
+    "url": ""
+  },
+  {
+    "time": "16:15",
+    "game": "football",
+    "league": "laliga",
+    "home_team": "Barcelona",
+    "away_team": "Levante",
+    "label": "bar-lev",
+    "home_logo": "https://crests.football-data.org/80.png",
+    "away_logo": "https://crests.football-data.org/88.png",
+    "url": ""
+  },
+  {
+    "time": "15:00",
+    "game": "football",
+    "league": "seriea",
+    "home_team": "Atalanta",
+    "away_team": "Napoli",
+    "label": "ata-nap",
+    "home_logo": "https://crests.football-data.org/102.png",
+    "away_logo": "https://crests.football-data.org/113.png",
+    "url": ""
+  },
+  {
+    "time": "18:00",
+    "game": "football",
+    "league": "seriea",
+    "home_team": "Milan",
+    "away_team": "Parma",
+    "label": "mil-par",
+    "home_logo": "https://crests.football-data.org/98.png",
+    "away_logo": "https://crests.football-data.org/112.png",
+    "url": ""
   }
 ]
