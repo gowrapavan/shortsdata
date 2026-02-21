@@ -18,21 +18,24 @@ TRACKER_FILE = "posted_matches.txt"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(CACHE_DIR, exist_ok=True)
 
-# Multiple Leagues list
+# --- NEW: FONT FIX FOR GITHUB ACTIONS ---
+# Arimo is metrically identical to Arial, ensuring the design looks EXACTLY like Windows
+FONT_BOLD_URL = "https://github.com/googlefonts/arimo/raw/main/fonts/ttf/Arimo-Bold.ttf"
+FONT_REG_URL = "https://github.com/googlefonts/arimo/raw/main/fonts/ttf/Arimo-Regular.ttf"
+FONT_BOLD_PATH = os.path.join(CACHE_DIR, "Arimo-Bold.ttf")
+FONT_REG_PATH = os.path.join(CACHE_DIR, "Arimo-Regular.ttf")
+
+if not os.path.exists(FONT_BOLD_PATH):
+    with open(FONT_BOLD_PATH, "wb") as f: f.write(requests.get(FONT_BOLD_URL).content)
+if not os.path.exists(FONT_REG_PATH):
+    with open(FONT_REG_PATH, "wb") as f: f.write(requests.get(FONT_REG_URL).content)
+
+# Leagues to process
 LEAGUES = {
-    "PL": "EPL.json",      # Premier League
-    "PD": "ESP.json",      # Primera Division (La Liga)
-    "BL1": "DEB.json",     # Bundesliga
-    "DED": "DED.json",     # Eredivisie
-    "SA": "ITSA.json",     # Serie A
-    "FL1": "FRL1.json",    # Ligue 1
-    "BSA": "BSA.json",     # Campeonato Brasileiro Série A
-    "ELC": "ELC.json",     # Championship
-    "PPL": "POR.json",     # Primeira Liga
-    "CL": "UCL.json",      # UEFA Champions League
-    "EC": "EC.json",       # European Championship
-    "WC": "WC.json",       # FIFA World Cup
-    "MLS": "MLS.json"      # Major League Soccer
+    "EPL": "EPL.json",      "ESP": "ESP.json",     "DEB": "DEB.json",
+    "DED": "DED.json",      "ITSA": "ITSA.json",   "FRL1": "FRL1.json",
+    "BSA": "BSA.json",      "ELC": "ELC.json",     "POR": "POR.json",
+    "UCL": "UCL.json",      "WC": "WC.json",       "MLS": "MLS.json"
 }
 
 # --- TELEGRAM CONFIG ---
@@ -40,7 +43,7 @@ TELEGRAM_TOKEN = "8264321603:AAFA0cLUm97KVQlT5lITS05U-FLNSpmhCYg"
 TELEGRAM_CHAT_ID = "@goal4utv"
 
 # ===============================
-# UTILITIES & TRACKING
+# UTILITIES
 # ===============================
 def load_posted_matches():
     if os.path.exists(TRACKER_FILE):
@@ -72,7 +75,6 @@ def get_team_color(image_path):
     except:
         return (30, 30, 30)
 
-# --- TELEGRAM AUTO-POSTER ---
 def post_to_telegram(image_path, caption):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendPhoto"
     with open(image_path, "rb") as photo:
@@ -85,36 +87,28 @@ def post_to_telegram(image_path, caption):
     return response.status_code == 200
 
 # ===============================
-# THE PREMIUM DESIGN ENGINE (UNTOUCHED)
+# THE PREMIUM DESIGN ENGINE
 # ===============================
 def create_unique_match_card(home, away, league, brand_path, time):
     W, H = 1280, 720
     
-    # 1. Colors
     c_home = get_team_color(home['logo'])
     c_away = get_team_color(away['logo'])
     
-    # Base canvas (Away color fills the background)
     canvas = Image.new("RGBA", (W, H), (*c_away, 255))
     
-    # 2. Dynamic Diagonal Slash (Home color) with Drop Shadow
-    # Coordinates for the diagonal cut
     poly_points = [(0, 0), (W//2 + 120, 0), (W//2 - 120, H), (0, H)]
     
-    # Create shadow layer
     shadow_layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     s_draw = ImageDraw.Draw(shadow_layer)
-    # Offset shadow slightly to the right
     shadow_points = [(x+25, y) for x,y in poly_points]
     s_draw.polygon(shadow_points, fill=(0, 0, 0, 180))
-    shadow_layer = shadow_layer.filter(ImageFilter.GaussianBlur(25)) # Blur the shadow
+    shadow_layer = shadow_layer.filter(ImageFilter.GaussianBlur(25)) 
     
-    # Paste shadow, then draw the crisp home color polygon on top
     canvas = Image.alpha_composite(canvas, shadow_layer)
     draw = ImageDraw.Draw(canvas)
     draw.polygon(poly_points, fill=(*c_home, 255))
 
-    # 3. Add Vignette (Darken corners for focus)
     vignette = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     v_draw = ImageDraw.Draw(vignette)
     for i in range(200):
@@ -122,62 +116,61 @@ def create_unique_match_card(home, away, league, brand_path, time):
         v_draw.rectangle([i, i, W-i, H-i], outline=(0, 0, 0, alpha))
     canvas = Image.alpha_composite(canvas, vignette)
 
-    # 4. Process and Add Images
-    def prep_img(path, size):
+    # --- FIX: SMART RESIZING FOR TINY API LOGOS ---
+    def prep_img(path, target_size):
         img = Image.open(path).convert("RGBA")
-        img.thumbnail((size, size), Image.Resampling.LANCZOS)
+        aspect = img.width / img.height
+        if img.width > img.height:
+            new_w = target_size
+            new_h = int(target_size / aspect)
+        else:
+            new_h = target_size
+            new_w = int(target_size * aspect)
+        # resize forces small images to scale up properly
+        img = img.resize((new_w, new_h), Image.Resampling.LANCZOS)
         return img
 
     h_img = prep_img(home['logo'], 350)
     a_img = prep_img(away['logo'], 350)
     l_img = prep_img(league['logo'], 100)
-    b_img = prep_img(brand_path, 180) # Slightly wider for brand text
+    b_img = prep_img(brand_path, 180) 
 
-    # Logo Positions (Centered in their respective halves)
     canvas.paste(h_img, (W//4 - h_img.width//2, H//2 - h_img.height//2 - 20), h_img)
     canvas.paste(a_img, (3*W//4 - a_img.width//2, H//2 - a_img.height//2 - 20), a_img)
     
-    # --- FIX: League Logo Left, Brand Logo Right ---
-    draw = ImageDraw.Draw(canvas) # Initialize draw for top layers
+    draw = ImageDraw.Draw(canvas) 
     
-    # League Logo (Top Left)
     league_x, league_y = 50, 30
     logo_center_x = league_x + (l_img.width // 2)
     logo_center_y = league_y + (l_img.height // 2)
     bg_radius = 55
-    # Keep the white background fix
     draw.ellipse([logo_center_x - bg_radius, logo_center_y - bg_radius, 
                   logo_center_x + bg_radius, logo_center_y + bg_radius], fill="white")
     canvas.paste(l_img, (league_x, league_y), l_img)
 
-    # Brand Logo (Top Right)
     brand_x = W - b_img.width - 50
-    brand_y = logo_center_y - (b_img.height // 2) # Vertically aligns with the League Logo
+    brand_y = logo_center_y - (b_img.height // 2) 
     canvas.paste(b_img, (brand_x, brand_y), b_img)
 
-    # 5. Central "VS" Badge
     badge_r = 45
     badge_box = [W//2 - badge_r, H//2 - badge_r - 20, W//2 + badge_r, H//2 + badge_r - 20]
     draw.ellipse(badge_box, fill="white", outline=(20, 20, 20), width=4)
 
-    # 6. Typography
+    # --- FIX: USING DOWNLOADED FONT TO PREVENT LINUX DEFAULT FONT ---
     try:
-        f_teams = ImageFont.truetype("arialbd.ttf", 55)
-        f_vs = ImageFont.truetype("arialbd.ttf", 45)
-        f_time = ImageFont.truetype("arialbd.ttf", 40)
-        f_date = ImageFont.truetype("arial.ttf", 25)
+        f_teams = ImageFont.truetype(FONT_BOLD_PATH, 55)
+        f_vs = ImageFont.truetype(FONT_BOLD_PATH, 45)
+        f_time = ImageFont.truetype(FONT_BOLD_PATH, 40)
+        f_date = ImageFont.truetype(FONT_REG_PATH, 25)
     except:
         f_teams = f_vs = f_time = f_date = ImageFont.load_default()
 
-    # Draw VS text inside the badge
     draw.text((W//2, H//2 - 20), "VS", font=f_vs, fill="black", anchor="mm")
     
-    # Draw Match Time in a sleek pill beneath the VS badge
     time_box = [W//2 - 80, H//2 + 50, W//2 + 80, H//2 + 100]
     draw.rounded_rectangle(time_box, radius=25, fill=(0, 0, 0, 200), outline=(255,215,0,255), width=2)
     draw.text((W//2, H//2 + 75), time, font=f_time, fill=(255, 215, 0), anchor="mm")
 
-    # Draw Team Names
     def draw_shadow_text(pos, text, font):
         draw.text((pos[0]+3, pos[1]+3), text, font=font, fill=(0,0,0,180), anchor="mm")
         draw.text(pos, text, font=font, fill="white", anchor="mm")
@@ -185,7 +178,6 @@ def create_unique_match_card(home, away, league, brand_path, time):
     draw_shadow_text((W//4, H//2 + 220), home['name'].upper(), f_teams)
     draw_shadow_text((3*W//4, H//2 + 220), away['name'].upper(), f_teams)
 
-    # 7. Save the masterpiece
     out_name = f"{home['name']}_vs_{away['name']}.png".replace(" ", "_")
     out_path = os.path.join(OUTPUT_DIR, out_name)
     canvas.convert("RGB").save(out_path, quality=95)
@@ -201,10 +193,10 @@ print("Fetching Match Data...")
 brand_path = download_file(BRAND_LOGO_URL, "brand_logo.png")
 posted_matches = load_posted_matches()
 
-# Set to today's date automatically
+# Set target date to current UTC date 
 target_date = datetime.utcnow().strftime("%Y-%m-%d")
 
-# Note: Overriding to your test date for testing. Comment this out when ready for live!
+# Note: Overriding for testing. Comment out for pure daily automation!
 target_date = "2026-02-21" 
 
 for league_code, json_filename in LEAGUES.items():
@@ -222,12 +214,10 @@ for league_code, json_filename in LEAGUES.items():
     for m in matches:
         if m.get("Date") == target_date:
             time_str = m["DateTime"].split("T")[1][:5]
-            game_id = m.get("GameId", "")
+            game_id = str(m.get("GameId", "Unknown"))
             
-            # --- DUPLICATE CHECKER ---
-            # Uses Home, Away, Date, and Time to track uniqueness (NOT GameId)
+            # Duplicate Checker
             unique_match_id = f"{m['HomeTeamKey']}_{m['AwayTeamKey']}_{m.get('Date')}_{time_str}"
-            
             if unique_match_id in posted_matches:
                 print(f"⏩ ALREADY POSTED: {unique_match_id}. Skipping.")
                 continue
@@ -235,11 +225,9 @@ for league_code, json_filename in LEAGUES.items():
             home_t = team_dict.get(m['HomeTeamId'])
             if not home_t: continue
 
-            # Downloads
             h_path = download_file(m["HomeTeamLogo"], f"logo_{m['HomeTeamId']}.png")
             a_path = download_file(m["AwayTeamLogo"], f"logo_{m['AwayTeamId']}.png")
             
-            # Get League Logo
             league_node = home_t['runningCompetitions'][0] 
             for comp in home_t['runningCompetitions']:
                 if comp.get('name') == m.get('RoundName'):
@@ -257,7 +245,7 @@ for league_code, json_filename in LEAGUES.items():
                 time_str
             )
             
-            # 2. Format your channel's caption with the Live Link and Date
+            # 2. Format your channel's caption
             live_link = f"https://goal4utv.netlify.app/match/{game_id}"
             
             caption = f"""🚨 <b>MATCHDAY</b> 🚨
@@ -271,7 +259,7 @@ for league_code, json_filename in LEAGUES.items():
 
 📺 @goal4utv"""
 
-            # 3. Auto-post and save to memory!
+            # 3. Auto-post!
             print(f"🚀 Posting {m['HomeTeamKey']} vs {m['AwayTeamKey']} to Telegram...")
             if post_to_telegram(img_path, caption):
                 save_posted_match(unique_match_id)
