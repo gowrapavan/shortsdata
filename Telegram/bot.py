@@ -31,7 +31,10 @@ if not os.path.exists(FONT_PATH):
 
 # Leagues to process
 LEAGUES = {
-      "ESP": "ESP.json"
+    "EPL": "EPL.json",      "ESP": "ESP.json",     "DEB": "DEB.json",
+    "DED": "DED.json",      "ITSA": "ITSA.json",   "FRL1": "FRL1.json",
+    "BSA": "BSA.json",      "ELC": "ELC.json",     "POR": "POR.json",
+    "UCL": "UCL.json",      "WC": "WC.json",       "MLS": "MLS.json"
 }
 
 # --- TELEGRAM CONFIG ---
