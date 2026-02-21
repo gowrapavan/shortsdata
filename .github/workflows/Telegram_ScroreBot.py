@@ -2,8 +2,10 @@ name: Telegram Post-Match Scorecards
 
 on:
   schedule:
-    # Runs automatically at 10:30 PM UTC every day
-    - cron: '30 22 * * *'
+    # Triggers exactly at 3:00 PM IST (09:30 UTC)
+    - cron: '30 9 * * *'
+    # Triggers every 30 minutes from 3:30 PM IST to 6:00 AM IST (10:00 to 00:30 UTC)
+    - cron: '0,30 0,10-23 * * *'
   workflow_dispatch: 
 
 jobs:
