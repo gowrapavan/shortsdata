@@ -31,10 +31,7 @@ if not os.path.exists(FONT_PATH):
 
 # Leagues to process
 LEAGUES = {
-    "EPL": "EPL.json",      "ESP": "ESP.json",     "DEB": "DEB.json",
-    "DED": "DED.json",      "ITSA": "ITSA.json",   "FRL1": "FRL1.json",
-    "BSA": "BSA.json",      "ELC": "ELC.json",     "POR": "POR.json",
-    "UCL": "UCL.json",      "WC": "WC.json",       "MLS": "MLS.json"
+      "ESP": "ESP.json
 }
 
 # --- TELEGRAM CONFIG ---
@@ -86,7 +83,7 @@ def post_to_telegram(image_path, caption):
     return response.status_code == 200
 
 # ===============================
-# THE PREMIUM DESIGN ENGINE (100% YOUR ORIGINAL LAYOUT)
+# THE PREMIUM DESIGN ENGINE
 # ===============================
 def create_unique_match_card(home, away, league, brand_path, time):
     W, H = 1280, 720
@@ -115,23 +112,37 @@ def create_unique_match_card(home, away, league, brand_path, time):
         v_draw.rectangle([i, i, W-i, H-i], outline=(0, 0, 0, alpha))
     canvas = Image.alpha_composite(canvas, vignette)
 
-    # --- RESTORED: Exactly your original thumbnail code ---
-    def prep_img(path, size):
+    # --- FIX: SMART SIZING ENGINE ---
+    def prep_img(path, target_size):
         img = Image.open(path).convert("RGBA")
-        img.thumbnail((size, size), Image.Resampling.LANCZOS)
+        
+        # 1. Slice off invisible padding around the API logos
+        bbox = img.getbbox()
+        if bbox:
+            img = img.crop(bbox)
+            
+        # 2. Perfect scaling (scales UP tiny images, scales DOWN huge ones)
+        w, h = img.size
+        if w > 0 and h > 0:
+            ratio = target_size / max(w, h)
+            new_size = (int(w * ratio), int(h * ratio))
+            img = img.resize(new_size, Image.Resampling.LANCZOS)
+            
         return img
 
-    h_img = prep_img(home['logo'], 350)
-    a_img = prep_img(away['logo'], 350)
-    l_img = prep_img(league['logo'], 100)
-    b_img = prep_img(brand_path, 180) 
+    # Tightly controlled logo sizes so they never overlap the edges or text
+    h_img = prep_img(home['logo'], 240)
+    a_img = prep_img(away['logo'], 240)
+    l_img = prep_img(league['logo'], 75)
+    b_img = prep_img(brand_path, 150) 
 
-    # --- RESTORED: Exactly your original dynamic centering ---
+    # Dynamic center paste for Teams
     canvas.paste(h_img, (W//4 - h_img.width//2, H//2 - h_img.height//2 - 20), h_img)
     canvas.paste(a_img, (3*W//4 - a_img.width//2, H//2 - a_img.height//2 - 20), a_img)
     
     draw = ImageDraw.Draw(canvas) 
     
+    # Static Anchor for League Logo Circle
     league_x, league_y = 50, 30
     logo_center_x = league_x + (l_img.width // 2)
     logo_center_y = league_y + (l_img.height // 2)
@@ -197,6 +208,7 @@ for league_code, json_filename in LEAGUES.items():
         matches_req = requests.get(MATCHES_BASE_URL + json_filename)
         teams_req = requests.get(TEAMS_BASE_URL + json_filename)
         
+        # Stops the bot from crashing if a JSON is missing
         if matches_req.status_code != 200 or teams_req.status_code != 200:
             print(f"⚠️ JSON file missing for {league_code}. Skipping.")
             continue
@@ -204,6 +216,7 @@ for league_code, json_filename in LEAGUES.items():
         matches = matches_req.json()
         teams = teams_req.json()
         
+        # Stops the bot from crashing if JSON is empty/broken
         if not isinstance(teams, list):
             print(f"⚠️ Data format error for {league_code}. Skipping.")
             continue
