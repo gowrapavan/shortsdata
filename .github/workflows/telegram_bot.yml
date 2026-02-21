@@ -3,12 +3,14 @@ name: Telegram Auto-Poster Bot
 on:
   schedule:
     # Runs automatically every day at 11:30 AM UTC (which is exactly 5:00 PM IST)
-    - cron: '30 11 * * *'
+    - cron: '30 5 * * *'
   workflow_dispatch: # Adds a button in the Actions tab to run it manually
 
 jobs:
   post-matches:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 🚨 Required to save the tracking file!
 
     steps:
       - name: Checkout Repository
@@ -28,3 +30,9 @@ jobs:
         run: |
           cd Telegram
           python bot.py
+
+      - name: Save memory to prevent duplicates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update posted matches [skip ci]"
+          file_pattern: "Telegram/posted_matches.txt"
