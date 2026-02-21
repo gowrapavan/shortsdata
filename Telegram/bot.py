@@ -2,6 +2,7 @@ import os
 import requests
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 from colorthief import ColorThief
+from datetime import datetime
 
 # ===============================
 # CONFIGURATION
@@ -10,6 +11,9 @@ MATCHES_BASE_URL = "https://raw.githubusercontent.com/gowrapavan/shortsdata/main
 TEAMS_BASE_URL = "https://raw.githubusercontent.com/gowrapavan/shortsdata/main/teams/"
 BRAND_LOGO_URL = "https://goal4u.netlify.app/assets/img/site-logo/bg-white.png"
 OUTPUT_DIR, CACHE_DIR = "output_images", "cache"
+
+# Tracker file to prevent duplicate posts
+TRACKER_FILE = "posted_matches.txt"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(CACHE_DIR, exist_ok=True)
@@ -35,8 +39,18 @@ TELEGRAM_TOKEN = "8264321603:AAFA0cLUm97KVQlT5lITS05U-FLNSpmhCYg"
 TELEGRAM_CHAT_ID = "@goal4utv"
 
 # ===============================
-# UTILITIES
+# UTILITIES & TRACKING
 # ===============================
+def load_posted_matches():
+    if os.path.exists(TRACKER_FILE):
+        with open(TRACKER_FILE, "r") as f:
+            return set(f.read().splitlines())
+    return set()
+
+def save_posted_match(unique_id):
+    with open(TRACKER_FILE, "a") as f:
+        f.write(f"{unique_id}\n")
+
 def download_file(url, filename):
     filepath = os.path.join(CACHE_DIR, filename)
     if not os.path.exists(filepath):
@@ -67,6 +81,7 @@ def post_to_telegram(image_path, caption):
             files={"photo": photo}
         )
     print("📲 Telegram Post Status:", response.status_code, response.text)
+    return response.status_code == 200
 
 # ===============================
 # THE PREMIUM DESIGN ENGINE
@@ -162,13 +177,15 @@ def create_unique_match_card(home, away, league, brand_path, time):
 # ===============================
 print("Fetching Match Data...")
 
-# Download brand logo once
 brand_path = download_file(BRAND_LOGO_URL, "brand_logo.png")
+posted_matches = load_posted_matches()
 
-# Target date for matches
+# Auto-detect today's date so it runs perfectly every day!
+target_date = datetime.utcnow().strftime("%Y-%m-%d")
+
+# Note: Remove or comment out this line once you're ready for true daily automation.
 target_date = "2026-02-21" 
 
-# Loop through every league in the dictionary
 for league_code, json_filename in LEAGUES.items():
     print(f"\n⚽ Checking league: {league_code} ({json_filename})")
     
@@ -183,24 +200,30 @@ for league_code, json_filename in LEAGUES.items():
 
     for m in matches:
         if m.get("Date") == target_date:
+            time_str = m["DateTime"].split("T")[1][:5]
+            game_id = m.get("GameId", "Unknown")
+            
+            # --- PERFECT DUPLICATE CHECKER ---
+            # Ex: "Man City_Newcastle_2026-02-21_20:00"
+            unique_match_id = f"{m['HomeTeamKey']}_{m['AwayTeamKey']}_{m.get('Date')}_{time_str}"
+            
+            if unique_match_id in posted_matches:
+                print(f"⏩ ALREADY POSTED: {unique_match_id}. Skipping.")
+                continue
+
             home_t = team_dict.get(m['HomeTeamId'])
             if not home_t: continue
 
-            # Downloads
             h_path = download_file(m["HomeTeamLogo"], f"logo_{m['HomeTeamId']}.png")
             a_path = download_file(m["AwayTeamLogo"], f"logo_{m['AwayTeamId']}.png")
             
-            # Find the correct league logo from the team's running competitions
-            league_node = home_t['runningCompetitions'][0] # Default fallback
+            league_node = home_t['runningCompetitions'][0] 
             for comp in home_t['runningCompetitions']:
                 if comp.get('name') == m.get('RoundName'):
                     league_node = comp
                     break
             
             l_path = download_file(league_node['emblem'], f"league_{league_node['id']}.png")
-
-            time_str = m["DateTime"].split("T")[1][:5]
-            game_id = m.get("GameId", "Unknown")
 
             # 1. Create the graphic
             img_path = create_unique_match_card(
@@ -211,7 +234,7 @@ for league_code, json_filename in LEAGUES.items():
                 time_str
             )
             
-            # 2. Format your channel's caption with the Live Stream Link
+            # 2. Format your channel's caption
             live_link = f"https://goal4utv.netlify.app/match/{game_id}"
             
             caption = f"""🚨 <b>MATCHDAY</b> 🚨
@@ -219,6 +242,7 @@ for league_code, json_filename in LEAGUES.items():
 ⚽️ {m['HomeTeamKey']} vs {m['AwayTeamKey']}
 🏆 {league_node['name']}
 🕒 Kick-off: {time_str} UTC
+📅 Date: {m.get('Date')}
 
 🔗 <b>Watch Live:</b> <a href='{live_link}'>Click Here</a>
 
@@ -226,4 +250,6 @@ for league_code, json_filename in LEAGUES.items():
 
             # 3. Auto-post!
             print(f"🚀 Posting {m['HomeTeamKey']} vs {m['AwayTeamKey']} to Telegram...")
-            post_to_telegram(img_path, caption)
+            if post_to_telegram(img_path, caption):
+                save_posted_match(unique_match_id)
+                posted_matches.add(unique_match_id)
