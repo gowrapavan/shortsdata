@@ -31,7 +31,7 @@ if not os.path.exists(FONT_PATH):
 
 # Leagues to process
 LEAGUES = {
-      "ESP": "ESP.json
+      "ESP": "ESP.json"
 }
 
 # --- TELEGRAM CONFIG ---
