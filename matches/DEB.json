@@ -5081,7 +5081,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 28,
@@ -5094,9 +5094,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/3.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 28,
     "Points": {
-      "28": 0,
+      "28": 3,
       "3": 0
     },
     "Goals": []
@@ -5107,7 +5107,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5,
@@ -5118,11 +5118,11 @@
     "AwayTeamName": "Eintracht Frankfurt",
     "HomeTeamLogo": "https://crests.football-data.org/5.png",
     "AwayTeamLogo": "https://crests.football-data.org/19.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 5,
     "Points": {
-      "5": 0,
+      "5": 3,
       "19": 0
     },
     "Goals": []
@@ -5144,8 +5144,8 @@
     "AwayTeamName": "Borussia Dortmund",
     "HomeTeamLogo": "https://crests.football-data.org/721.png",
     "AwayTeamLogo": "https://crests.football-data.org/4.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "721": 0,
@@ -5237,7 +5237,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 11,
@@ -5248,12 +5248,12 @@
     "AwayTeamName": "FC Augsburg",
     "HomeTeamLogo": "https://crests.football-data.org/11.png",
     "AwayTeamLogo": "https://crests.football-data.org/16.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 16,
     "Points": {
       "11": 0,
-      "16": 0
+      "16": 3
     },
     "Goals": []
   },
@@ -5263,7 +5263,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1,
@@ -5274,12 +5274,12 @@
     "AwayTeamName": "TSG 1899 Hoffenheim",
     "HomeTeamLogo": "https://crests.football-data.org/1.png",
     "AwayTeamLogo": "https://crests.football-data.org/2.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "1": 0,
-      "2": 0
+      "1": 1,
+      "2": 1
     },
     "Goals": []
   },

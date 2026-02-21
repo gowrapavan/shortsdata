@@ -9899,7 +9899,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 343,
@@ -9914,8 +9914,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "343": 0,
-      "1082": 0
+      "343": 1,
+      "1082": 1
     },
     "Goals": []
   },
@@ -9925,7 +9925,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 384,
@@ -9936,12 +9936,12 @@
     "AwayTeamName": "Portsmouth FC",
     "HomeTeamLogo": "https://crests.football-data.org/384.png",
     "AwayTeamLogo": "https://crests.football-data.org/325.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 3,
+    "Result": 325,
     "Points": {
       "384": 0,
-      "325": 0
+      "325": 3
     },
     "Goals": []
   },
@@ -9951,7 +9951,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 68,
@@ -9962,12 +9962,12 @@
     "AwayTeamName": "Birmingham City FC",
     "HomeTeamLogo": "https://crests.football-data.org/68.png",
     "AwayTeamLogo": "https://crests.football-data.org/332.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 332,
     "Points": {
       "68": 0,
-      "332": 0
+      "332": 3
     },
     "Goals": []
   },
@@ -10003,7 +10003,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 340,
@@ -10014,12 +10014,12 @@
     "AwayTeamName": "Charlton Athletic FC",
     "HomeTeamLogo": "https://crests.football-data.org/340.png",
     "AwayTeamLogo": "https://crests.football-data.org/348.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "340": 0,
-      "348": 0
+      "340": 1,
+      "348": 1
     },
     "Goals": []
   },
@@ -10081,7 +10081,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 346,
@@ -10092,11 +10092,11 @@
     "AwayTeamName": "Derby County FC",
     "HomeTeamLogo": "https://crests.football-data.org/346.png",
     "AwayTeamLogo": "https://crests.football-data.org/342.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 346,
     "Points": {
-      "346": 0,
+      "346": 3,
       "342": 0
     },
     "Goals": []
@@ -10133,7 +10133,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 404,
@@ -10144,11 +10144,11 @@
     "AwayTeamName": "Ipswich Town FC",
     "HomeTeamLogo": "https://crests.football-data.org/404.png",
     "AwayTeamLogo": "https://crests.football-data.org/349.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 5,
+    "AwayTeamScore": 3,
+    "Result": 404,
     "Points": {
-      "404": 0,
+      "404": 3,
       "349": 0
     },
     "Goals": []
