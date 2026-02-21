@@ -7,3 +7,6 @@ playwright>=1.41.0
 tf-playwright-stealth  # <--- This fixes the "ImportError: stealth_async"
 beautifulsoup4
 unidecode==1.3.6
+requests
+Pillow
+colorthief
