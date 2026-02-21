@@ -18,17 +18,17 @@ TRACKER_FILE = "posted_matches.txt"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(CACHE_DIR, exist_ok=True)
 
-# --- NEW: FONT FIX FOR GITHUB ACTIONS ---
-# Arimo is metrically identical to Arial, ensuring the design looks EXACTLY like Windows
-FONT_BOLD_URL = "https://github.com/googlefonts/arimo/raw/main/fonts/ttf/Arimo-Bold.ttf"
-FONT_REG_URL = "https://github.com/googlefonts/arimo/raw/main/fonts/ttf/Arimo-Regular.ttf"
-FONT_BOLD_PATH = os.path.join(CACHE_DIR, "Arimo-Bold.ttf")
-FONT_REG_PATH = os.path.join(CACHE_DIR, "Arimo-Regular.ttf")
+# --- FONT FIX FOR GITHUB ACTIONS ---
+# Linux (GitHub) doesn't have Arial. This downloads an identical bold font so text doesn't shrink.
+FONT_URL = "https://github.com/googlefonts/arimo/raw/main/fonts/ttf/Arimo-Bold.ttf"
+FONT_PATH = os.path.join(CACHE_DIR, "Arimo-Bold.ttf")
 
-if not os.path.exists(FONT_BOLD_PATH):
-    with open(FONT_BOLD_PATH, "wb") as f: f.write(requests.get(FONT_BOLD_URL).content)
-if not os.path.exists(FONT_REG_PATH):
-    with open(FONT_REG_PATH, "wb") as f: f.write(requests.get(FONT_REG_URL).content)
+if not os.path.exists(FONT_PATH):
+    try:
+        with open(FONT_PATH, "wb") as f:
+            f.write(requests.get(FONT_URL).content)
+    except Exception as e:
+        print(f"⚠️ Font download failed: {e}")
 
 # Leagues to process
 LEAGUES = {
@@ -116,18 +116,10 @@ def create_unique_match_card(home, away, league, brand_path, time):
         v_draw.rectangle([i, i, W-i, H-i], outline=(0, 0, 0, alpha))
     canvas = Image.alpha_composite(canvas, vignette)
 
-    # --- FIX: SMART RESIZING FOR TINY API LOGOS ---
-    def prep_img(path, target_size):
+    # --- RESTORED: Using thumbnail() exactly like your original code ---
+    def prep_img(path, size):
         img = Image.open(path).convert("RGBA")
-        aspect = img.width / img.height
-        if img.width > img.height:
-            new_w = target_size
-            new_h = int(target_size / aspect)
-        else:
-            new_h = target_size
-            new_w = int(target_size * aspect)
-        # resize forces small images to scale up properly
-        img = img.resize((new_w, new_h), Image.Resampling.LANCZOS)
+        img.thumbnail((size, size), Image.Resampling.LANCZOS)
         return img
 
     h_img = prep_img(home['logo'], 350)
@@ -156,14 +148,14 @@ def create_unique_match_card(home, away, league, brand_path, time):
     badge_box = [W//2 - badge_r, H//2 - badge_r - 20, W//2 + badge_r, H//2 + badge_r - 20]
     draw.ellipse(badge_box, fill="white", outline=(20, 20, 20), width=4)
 
-    # --- FIX: USING DOWNLOADED FONT TO PREVENT LINUX DEFAULT FONT ---
+    # --- FIX: Uses the downloaded font so GitHub doesn't break ---
     try:
-        f_teams = ImageFont.truetype(FONT_BOLD_PATH, 55)
-        f_vs = ImageFont.truetype(FONT_BOLD_PATH, 45)
-        f_time = ImageFont.truetype(FONT_BOLD_PATH, 40)
-        f_date = ImageFont.truetype(FONT_REG_PATH, 25)
+        font_file = FONT_PATH if os.path.exists(FONT_PATH) else "arialbd.ttf"
+        f_teams = ImageFont.truetype(font_file, 55)
+        f_vs = ImageFont.truetype(font_file, 45)
+        f_time = ImageFont.truetype(font_file, 40)
     except:
-        f_teams = f_vs = f_time = f_date = ImageFont.load_default()
+        f_teams = f_vs = f_time = ImageFont.load_default()
 
     draw.text((W//2, H//2 - 20), "VS", font=f_vs, fill="black", anchor="mm")
     
