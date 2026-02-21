@@ -19,7 +19,6 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(CACHE_DIR, exist_ok=True)
 
 # --- FONT FIX FOR GITHUB ACTIONS ---
-# Linux (GitHub) doesn't have Arial. This downloads an identical bold font so text doesn't shrink.
 FONT_URL = "https://github.com/googlefonts/arimo/raw/main/fonts/ttf/Arimo-Bold.ttf"
 FONT_PATH = os.path.join(CACHE_DIR, "Arimo-Bold.ttf")
 
@@ -116,39 +115,58 @@ def create_unique_match_card(home, away, league, brand_path, time):
         v_draw.rectangle([i, i, W-i, H-i], outline=(0, 0, 0, alpha))
     canvas = Image.alpha_composite(canvas, vignette)
 
-    # --- RESTORED: Using thumbnail() exactly like your original code ---
-    def prep_img(path, size):
+    # --- FIX: PERFECT IMAGE RESIZING (NO STRETCHING, NO TINY LOGOS) ---
+    def prep_img(path, target_size):
         img = Image.open(path).convert("RGBA")
-        img.thumbnail((size, size), Image.Resampling.LANCZOS)
-        return img
+        
+        # Calculate exactly how to scale it while keeping proportions
+        aspect = img.width / img.height
+        if img.width > img.height:
+            new_w = target_size
+            new_h = int(target_size / aspect)
+        else:
+            new_h = target_size
+            new_w = int(target_size * aspect)
+            
+        # Scale the image
+        img = img.resize((new_w, new_h), Image.Resampling.LANCZOS)
+        
+        # Create an invisible perfect square box
+        uniform_box = Image.new("RGBA", (target_size, target_size), (0, 0, 0, 0))
+        # Paste the resized logo dead center inside the invisible box
+        offset_x = (target_size - new_w) // 2
+        offset_y = (target_size - new_h) // 2
+        uniform_box.paste(img, (offset_x, offset_y), img)
+        
+        return uniform_box
 
     h_img = prep_img(home['logo'], 350)
     a_img = prep_img(away['logo'], 350)
     l_img = prep_img(league['logo'], 100)
     b_img = prep_img(brand_path, 180) 
 
-    canvas.paste(h_img, (W//4 - h_img.width//2, H//2 - h_img.height//2 - 20), h_img)
-    canvas.paste(a_img, (3*W//4 - a_img.width//2, H//2 - a_img.height//2 - 20), a_img)
+    # Paste using the uniform boxes so coordinates are perfect
+    canvas.paste(h_img, (W//4 - 175, H//2 - 175 - 20), h_img)
+    canvas.paste(a_img, (3*W//4 - 175, H//2 - 175 - 20), a_img)
     
     draw = ImageDraw.Draw(canvas) 
     
     league_x, league_y = 50, 30
-    logo_center_x = league_x + (l_img.width // 2)
-    logo_center_y = league_y + (l_img.height // 2)
+    logo_center_x = league_x + 50
+    logo_center_y = league_y + 50
     bg_radius = 55
     draw.ellipse([logo_center_x - bg_radius, logo_center_y - bg_radius, 
                   logo_center_x + bg_radius, logo_center_y + bg_radius], fill="white")
     canvas.paste(l_img, (league_x, league_y), l_img)
 
-    brand_x = W - b_img.width - 50
-    brand_y = logo_center_y - (b_img.height // 2) 
+    brand_x = W - 180 - 50
+    brand_y = logo_center_y - 90 
     canvas.paste(b_img, (brand_x, brand_y), b_img)
 
     badge_r = 45
     badge_box = [W//2 - badge_r, H//2 - badge_r - 20, W//2 + badge_r, H//2 + badge_r - 20]
     draw.ellipse(badge_box, fill="white", outline=(20, 20, 20), width=4)
 
-    # --- FIX: Uses the downloaded font so GitHub doesn't break ---
     try:
         font_file = FONT_PATH if os.path.exists(FONT_PATH) else "arialbd.ttf"
         f_teams = ImageFont.truetype(font_file, 55)
@@ -185,7 +203,7 @@ print("Fetching Match Data...")
 brand_path = download_file(BRAND_LOGO_URL, "brand_logo.png")
 posted_matches = load_posted_matches()
 
-# Set target date to current UTC date 
+# Auto-detect today's date
 target_date = datetime.utcnow().strftime("%Y-%m-%d")
 
 # Note: Overriding for testing. Comment out for pure daily automation!
@@ -195,13 +213,28 @@ for league_code, json_filename in LEAGUES.items():
     print(f"\n⚽ Checking league: {league_code} ({json_filename})")
     
     try:
-        matches = requests.get(MATCHES_BASE_URL + json_filename).json()
-        teams = requests.get(TEAMS_BASE_URL + json_filename).json()
+        # Fetch Data
+        matches_req = requests.get(MATCHES_BASE_URL + json_filename)
+        teams_req = requests.get(TEAMS_BASE_URL + json_filename)
+        
+        # --- FIX: ERROR PREVENTION ---
+        if matches_req.status_code != 200 or teams_req.status_code != 200:
+            print(f"⚠️ JSON file missing for {league_code}. Skipping.")
+            continue
+            
+        matches = matches_req.json()
+        teams = teams_req.json()
+        
+        if not isinstance(teams, list):
+            print(f"⚠️ Data format error for {league_code}. Skipping.")
+            continue
+
     except Exception as e:
-        print(f"⚠️ Skipping {league_code} - Data not found or error: {e}")
+        print(f"⚠️ Fetch Error on {league_code}: {e}")
         continue
         
-    team_dict = {t['id']: t for t in teams}
+    # Safely build team dictionary ignoring items without IDs
+    team_dict = {t.get('id'): t for t in teams if 'id' in t}
 
     for m in matches:
         if m.get("Date") == target_date:
@@ -220,19 +253,23 @@ for league_code, json_filename in LEAGUES.items():
             h_path = download_file(m["HomeTeamLogo"], f"logo_{m['HomeTeamId']}.png")
             a_path = download_file(m["AwayTeamLogo"], f"logo_{m['AwayTeamId']}.png")
             
-            league_node = home_t['runningCompetitions'][0] 
-            for comp in home_t['runningCompetitions']:
-                if comp.get('name') == m.get('RoundName'):
-                    league_node = comp
-                    break
+            # Safe Fallback for League Competition Array
+            league_node = {"name": m.get('RoundName', league_code), "id": "default"}
+            if 'runningCompetitions' in home_t and len(home_t['runningCompetitions']) > 0:
+                league_node = home_t['runningCompetitions'][0] 
+                for comp in home_t['runningCompetitions']:
+                    if comp.get('name') == m.get('RoundName'):
+                        league_node = comp
+                        break
             
-            l_path = download_file(league_node['emblem'], f"league_{league_node['id']}.png")
+            l_emblem = league_node.get('emblem', "https://upload.wikimedia.org/wikipedia/commons/4/44/Soccer_ball.svg")
+            l_path = download_file(l_emblem, f"league_{league_node.get('id', 'default')}.png")
 
             # 1. Create the graphic
             img_path = create_unique_match_card(
                 {"name": m['HomeTeamKey'], "logo": h_path},
                 {"name": m['AwayTeamKey'], "logo": a_path},
-                {"name": league_node['name'], "logo": l_path},
+                {"name": league_node.get('name', league_code), "logo": l_path},
                 brand_path,
                 time_str
             )
@@ -243,7 +280,7 @@ for league_code, json_filename in LEAGUES.items():
             caption = f"""🚨 <b>MATCHDAY</b> 🚨
 
 ⚽️ {m['HomeTeamKey']} vs {m['AwayTeamKey']}
-🏆 {league_node['name']}
+🏆 {league_node.get('name', league_code)}
 📅 Date: {m.get('Date')}
 🕒 Kick-off: {time_str} UTC
 
