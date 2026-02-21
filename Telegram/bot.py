@@ -31,10 +31,7 @@ if not os.path.exists(FONT_PATH):
 
 # Leagues to process
 LEAGUES = {
-    "EPL": "EPL.json",      "ESP": "ESP.json",     "DEB": "DEB.json",
-    "DED": "DED.json",      "ITSA": "ITSA.json",   "FRL1": "FRL1.json",
-    "BSA": "BSA.json",      "ELC": "ELC.json",     "POR": "POR.json",
-    "UCL": "UCL.json",      "WC": "WC.json",       "MLS": "MLS.json"
+      "ESP": "ESP.json"
 }
 
 # --- TELEGRAM CONFIG ---
@@ -86,7 +83,7 @@ def post_to_telegram(image_path, caption):
     return response.status_code == 200
 
 # ===============================
-# THE PREMIUM DESIGN ENGINE
+# THE PREMIUM DESIGN ENGINE (100% YOUR ORIGINAL LAYOUT)
 # ===============================
 def create_unique_match_card(home, away, league, brand_path, time):
     W, H = 1280, 720
@@ -115,52 +112,33 @@ def create_unique_match_card(home, away, league, brand_path, time):
         v_draw.rectangle([i, i, W-i, H-i], outline=(0, 0, 0, alpha))
     canvas = Image.alpha_composite(canvas, vignette)
 
-    # --- FIX: PERFECT IMAGE RESIZING (NO STRETCHING, NO TINY LOGOS) ---
-    def prep_img(path, target_size):
+    # --- RESTORED: Exactly your original thumbnail code ---
+    def prep_img(path, size):
         img = Image.open(path).convert("RGBA")
-        
-        # Calculate exactly how to scale it while keeping proportions
-        aspect = img.width / img.height
-        if img.width > img.height:
-            new_w = target_size
-            new_h = int(target_size / aspect)
-        else:
-            new_h = target_size
-            new_w = int(target_size * aspect)
-            
-        # Scale the image
-        img = img.resize((new_w, new_h), Image.Resampling.LANCZOS)
-        
-        # Create an invisible perfect square box
-        uniform_box = Image.new("RGBA", (target_size, target_size), (0, 0, 0, 0))
-        # Paste the resized logo dead center inside the invisible box
-        offset_x = (target_size - new_w) // 2
-        offset_y = (target_size - new_h) // 2
-        uniform_box.paste(img, (offset_x, offset_y), img)
-        
-        return uniform_box
+        img.thumbnail((size, size), Image.Resampling.LANCZOS)
+        return img
 
     h_img = prep_img(home['logo'], 350)
     a_img = prep_img(away['logo'], 350)
     l_img = prep_img(league['logo'], 100)
     b_img = prep_img(brand_path, 180) 
 
-    # Paste using the uniform boxes so coordinates are perfect
-    canvas.paste(h_img, (W//4 - 175, H//2 - 175 - 20), h_img)
-    canvas.paste(a_img, (3*W//4 - 175, H//2 - 175 - 20), a_img)
+    # --- RESTORED: Exactly your original dynamic centering ---
+    canvas.paste(h_img, (W//4 - h_img.width//2, H//2 - h_img.height//2 - 20), h_img)
+    canvas.paste(a_img, (3*W//4 - a_img.width//2, H//2 - a_img.height//2 - 20), a_img)
     
     draw = ImageDraw.Draw(canvas) 
     
     league_x, league_y = 50, 30
-    logo_center_x = league_x + 50
-    logo_center_y = league_y + 50
+    logo_center_x = league_x + (l_img.width // 2)
+    logo_center_y = league_y + (l_img.height // 2)
     bg_radius = 55
     draw.ellipse([logo_center_x - bg_radius, logo_center_y - bg_radius, 
                   logo_center_x + bg_radius, logo_center_y + bg_radius], fill="white")
     canvas.paste(l_img, (league_x, league_y), l_img)
 
-    brand_x = W - 180 - 50
-    brand_y = logo_center_y - 90 
+    brand_x = W - b_img.width - 50
+    brand_y = logo_center_y - (b_img.height // 2) 
     canvas.paste(b_img, (brand_x, brand_y), b_img)
 
     badge_r = 45
@@ -213,11 +191,9 @@ for league_code, json_filename in LEAGUES.items():
     print(f"\n⚽ Checking league: {league_code} ({json_filename})")
     
     try:
-        # Fetch Data
         matches_req = requests.get(MATCHES_BASE_URL + json_filename)
         teams_req = requests.get(TEAMS_BASE_URL + json_filename)
         
-        # --- FIX: ERROR PREVENTION ---
         if matches_req.status_code != 200 or teams_req.status_code != 200:
             print(f"⚠️ JSON file missing for {league_code}. Skipping.")
             continue
@@ -233,7 +209,6 @@ for league_code, json_filename in LEAGUES.items():
         print(f"⚠️ Fetch Error on {league_code}: {e}")
         continue
         
-    # Safely build team dictionary ignoring items without IDs
     team_dict = {t.get('id'): t for t in teams if 'id' in t}
 
     for m in matches:
@@ -241,7 +216,6 @@ for league_code, json_filename in LEAGUES.items():
             time_str = m["DateTime"].split("T")[1][:5]
             game_id = str(m.get("GameId", "Unknown"))
             
-            # Duplicate Checker
             unique_match_id = f"{m['HomeTeamKey']}_{m['AwayTeamKey']}_{m.get('Date')}_{time_str}"
             if unique_match_id in posted_matches:
                 print(f"⏩ ALREADY POSTED: {unique_match_id}. Skipping.")
@@ -253,7 +227,6 @@ for league_code, json_filename in LEAGUES.items():
             h_path = download_file(m["HomeTeamLogo"], f"logo_{m['HomeTeamId']}.png")
             a_path = download_file(m["AwayTeamLogo"], f"logo_{m['AwayTeamId']}.png")
             
-            # Safe Fallback for League Competition Array
             league_node = {"name": m.get('RoundName', league_code), "id": "default"}
             if 'runningCompetitions' in home_t and len(home_t['runningCompetitions']) > 0:
                 league_node = home_t['runningCompetitions'][0] 
