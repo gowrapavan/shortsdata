@@ -86,7 +86,7 @@ def post_to_telegram(image_path, caption):
     return response.status_code == 200
 
 # ===============================
-# THE PREMIUM DESIGN ENGINE
+# THE PREMIUM DESIGN ENGINE (100% YOUR ORIGINAL LAYOUT)
 # ===============================
 def create_unique_match_card(home, away, league, brand_path, time):
     W, H = 1280, 720
@@ -115,22 +115,10 @@ def create_unique_match_card(home, away, league, brand_path, time):
         v_draw.rectangle([i, i, W-i, H-i], outline=(0, 0, 0, alpha))
     canvas = Image.alpha_composite(canvas, vignette)
 
-    # --- FIX: SMART AUTO-CROP & SCALING SYSTEM ---
-    def prep_img(path, target_size):
+    # --- RESTORED: Exactly your original thumbnail code ---
+    def prep_img(path, size):
         img = Image.open(path).convert("RGBA")
-        
-        # 1. Slice off invisible padding around the logo
-        bbox = img.getbbox()
-        if bbox:
-            img = img.crop(bbox)
-            
-        # 2. Perfect scaling (scales UP tiny images, scales DOWN huge ones)
-        w, h = img.size
-        if w > 0 and h > 0:
-            ratio = target_size / max(w, h)
-            new_size = (int(w * ratio), int(h * ratio))
-            img = img.resize(new_size, Image.Resampling.LANCZOS)
-            
+        img.thumbnail((size, size), Image.Resampling.LANCZOS)
         return img
 
     h_img = prep_img(home['logo'], 350)
@@ -138,25 +126,22 @@ def create_unique_match_card(home, away, league, brand_path, time):
     l_img = prep_img(league['logo'], 100)
     b_img = prep_img(brand_path, 180) 
 
-    # Dynamic center paste (keeps your exact layout intact)
+    # --- RESTORED: Exactly your original dynamic centering ---
     canvas.paste(h_img, (W//4 - h_img.width//2, H//2 - h_img.height//2 - 20), h_img)
     canvas.paste(a_img, (3*W//4 - a_img.width//2, H//2 - a_img.height//2 - 20), a_img)
     
     draw = ImageDraw.Draw(canvas) 
     
-    # --- FIX: STATIC ANCHOR FOR LEAGUE LOGO ---
-    circle_center_x, circle_center_y = 110, 85
+    league_x, league_y = 50, 30
+    logo_center_x = league_x + (l_img.width // 2)
+    logo_center_y = league_y + (l_img.height // 2)
     bg_radius = 55
-    
-    # Draw circle firmly in place
-    draw.ellipse([circle_center_x - bg_radius, circle_center_y - bg_radius, 
-                  circle_center_x + bg_radius, circle_center_y + bg_radius], fill="white")
-    
-    # Paste League Logo precisely in the center of the circle
-    canvas.paste(l_img, (circle_center_x - l_img.width//2, circle_center_y - l_img.height//2), l_img)
+    draw.ellipse([logo_center_x - bg_radius, logo_center_y - bg_radius, 
+                  logo_center_x + bg_radius, logo_center_y + bg_radius], fill="white")
+    canvas.paste(l_img, (league_x, league_y), l_img)
 
     brand_x = W - b_img.width - 50
-    brand_y = circle_center_y - (b_img.height // 2) 
+    brand_y = logo_center_y - (b_img.height // 2) 
     canvas.paste(b_img, (brand_x, brand_y), b_img)
 
     badge_r = 45
@@ -212,7 +197,6 @@ for league_code, json_filename in LEAGUES.items():
         matches_req = requests.get(MATCHES_BASE_URL + json_filename)
         teams_req = requests.get(TEAMS_BASE_URL + json_filename)
         
-        # Stops the bot from crashing if a JSON is missing
         if matches_req.status_code != 200 or teams_req.status_code != 200:
             print(f"⚠️ JSON file missing for {league_code}. Skipping.")
             continue
@@ -220,7 +204,6 @@ for league_code, json_filename in LEAGUES.items():
         matches = matches_req.json()
         teams = teams_req.json()
         
-        # Stops the bot from crashing if JSON is empty/broken
         if not isinstance(teams, list):
             print(f"⚠️ Data format error for {league_code}. Skipping.")
             continue
