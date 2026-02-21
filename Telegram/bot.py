@@ -51,6 +51,7 @@ def load_posted_matches():
     return set()
 
 def save_posted_match(unique_id):
+    # 'a' mode appends to the file, it never overwrites!
     with open(TRACKER_FILE, "a") as f:
         f.write(f"{unique_id}\n")
 
@@ -65,14 +66,27 @@ def download_file(url, filename):
             print(f"Error downloading {url}: {e}")
     return filepath
 
+# --- FIX: BRIGHTNESS DETECTOR FOR BLACK LOGOS ---
 def get_team_color(image_path):
     try:
         ct = ColorThief(image_path)
         palette = ct.get_palette(color_count=5)
         color = palette[0]
-        return (int(color[0]*0.8), int(color[1]*0.8), int(color[2]*0.8))
+        
+        r, g, b = color
+        # Calculate perceived brightness (0 is black, 255 is white)
+        brightness = (r * 0.299 + g * 0.587 + b * 0.114)
+        
+        # If the logo color is extremely dark/black (like Juventus)
+        if brightness < 40:
+            # Return a slate gray so black logos pop. 
+            # The vignette will turn the edges black, creating a perfect gradient.
+            return (85, 85, 85)
+        else:
+            # Normal logos get darkened slightly as usual
+            return (int(r * 0.8), int(g * 0.8), int(b * 0.8))
     except:
-        return (30, 30, 30)
+        return (50, 50, 50)
 
 def post_to_telegram(image_path, caption):
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendPhoto"
@@ -115,16 +129,13 @@ def create_unique_match_card(home, away, league, brand_path, time):
         v_draw.rectangle([i, i, W-i, H-i], outline=(0, 0, 0, alpha))
     canvas = Image.alpha_composite(canvas, vignette)
 
-    # --- FIX: SMART SIZING ENGINE ---
     def prep_img(path, target_size):
         img = Image.open(path).convert("RGBA")
         
-        # 1. Slice off invisible padding around the API logos
         bbox = img.getbbox()
         if bbox:
             img = img.crop(bbox)
             
-        # 2. Perfect scaling (scales UP tiny images, scales DOWN huge ones)
         w, h = img.size
         if w > 0 and h > 0:
             ratio = target_size / max(w, h)
@@ -133,19 +144,16 @@ def create_unique_match_card(home, away, league, brand_path, time):
             
         return img
 
-    # Tightly controlled logo sizes so they never overlap the edges or text
     h_img = prep_img(home['logo'], 240)
     a_img = prep_img(away['logo'], 240)
     l_img = prep_img(league['logo'], 75)
     b_img = prep_img(brand_path, 150) 
 
-    # Dynamic center paste for Teams
     canvas.paste(h_img, (W//4 - h_img.width//2, H//2 - h_img.height//2 - 20), h_img)
     canvas.paste(a_img, (3*W//4 - a_img.width//2, H//2 - a_img.height//2 - 20), a_img)
     
     draw = ImageDraw.Draw(canvas) 
     
-    # Static Anchor for League Logo Circle
     league_x, league_y = 50, 30
     logo_center_x = league_x + (l_img.width // 2)
     logo_center_y = league_y + (l_img.height // 2)
@@ -211,7 +219,6 @@ for league_code, json_filename in LEAGUES.items():
         matches_req = requests.get(MATCHES_BASE_URL + json_filename)
         teams_req = requests.get(TEAMS_BASE_URL + json_filename)
         
-        # Stops the bot from crashing if a JSON is missing
         if matches_req.status_code != 200 or teams_req.status_code != 200:
             print(f"⚠️ JSON file missing for {league_code}. Skipping.")
             continue
@@ -219,7 +226,6 @@ for league_code, json_filename in LEAGUES.items():
         matches = matches_req.json()
         teams = teams_req.json()
         
-        # Stops the bot from crashing if JSON is empty/broken
         if not isinstance(teams, list):
             print(f"⚠️ Data format error for {league_code}. Skipping.")
             continue
