@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20T06:39:35.260561Z",
+    "last_updated": "2026-02-21T06:26:52.976974Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -273,6 +273,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Domenico Berardi",
+                    "team_name": "US Sassuolo Calcio",
+                    "team_crest": "https://crests.football-data.org/471.png",
+                    "goals": 7,
+                    "assists": 3,
+                    "penalties": 2,
+                    "nationality": "Italy"
+                },
+                {
                     "player_name": "Riccardo Orsolini",
                     "team_name": "Bologna FC 1909",
                     "team_crest": "https://crests.football-data.org/103.png",
@@ -280,15 +289,6 @@
                     "assists": 1,
                     "penalties": 3,
                     "nationality": "Italy"
-                },
-                {
-                    "player_name": "Keinan Davis",
-                    "team_name": "Udinese Calcio",
-                    "team_crest": "https://crests.football-data.org/115.png",
-                    "goals": 7,
-                    "assists": 3,
-                    "penalties": 3,
-                    "nationality": "England"
                 }
             ]
         },
@@ -343,6 +343,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Nadiem Amiri",
+                    "team_name": "1. FSV Mainz 05",
+                    "team_crest": "https://crests.football-data.org/15.png",
+                    "goals": 10,
+                    "assists": 2,
+                    "penalties": 7,
+                    "nationality": "Germany"
+                },
+                {
                     "player_name": "Haris Tabaković",
                     "team_name": "Borussia Mönchengladbach",
                     "team_crest": "https://crests.football-data.org/18.png",
@@ -350,15 +359,6 @@
                     "assists": 1,
                     "penalties": null,
                     "nationality": "Bosnia-Herzegovina"
-                },
-                {
-                    "player_name": "Nadiem Amiri",
-                    "team_name": "1. FSV Mainz 05",
-                    "team_crest": "https://crests.football-data.org/15.png",
-                    "goals": 9,
-                    "assists": 2,
-                    "penalties": 7,
-                    "nationality": "Germany"
                 },
                 {
                     "player_name": "Andrej Kramarić",
@@ -564,6 +564,15 @@
                     "nationality": "Norway"
                 },
                 {
+                    "player_name": "Kaj Sierhuis",
+                    "team_name": "Fortuna Sittard",
+                    "team_crest": "https://crests.football-data.org/1920.png",
+                    "goals": 9,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
                     "player_name": "Koki Ogawa",
                     "team_name": "NEC",
                     "team_crest": "https://crests.football-data.org/1915.png",
@@ -571,15 +580,6 @@
                     "assists": 2,
                     "penalties": 1,
                     "nationality": "Japan"
-                },
-                {
-                    "player_name": "Joey Veerman",
-                    "team_name": "PSV",
-                    "team_crest": "https://crests.football-data.org/674.png",
-                    "goals": 8,
-                    "assists": 11,
-                    "penalties": null,
-                    "nationality": "Netherlands"
                 }
             ]
         },
