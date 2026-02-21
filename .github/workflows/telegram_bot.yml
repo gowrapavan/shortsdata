@@ -1,0 +1,30 @@
+name: Telegram Auto-Poster Bot
+
+on:
+  schedule:
+    # Runs automatically every day at 11:30 AM UTC (which is exactly 5:00 PM IST)
+    - cron: '30 11 * * *'
+  workflow_dispatch: # Adds a button in the Actions tab to run it manually
+
+jobs:
+  post-matches:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install Pillow requests colorthief
+
+      - name: Run Telegram Bot
+        run: |
+          cd Telegram
+          python bot.py
