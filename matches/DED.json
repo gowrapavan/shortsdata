@@ -5290,8 +5290,8 @@
     "AwayTeamName": "NEC",
     "HomeTeamLogo": "https://crests.football-data.org/678.png",
     "AwayTeamLogo": "https://crests.football-data.org/1915.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "678": 0,
@@ -5446,8 +5446,8 @@
     "AwayTeamName": "FC Volendam",
     "HomeTeamLogo": "https://crests.football-data.org/681.png",
     "AwayTeamLogo": "https://crests.football-data.org/1919.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "681": 0,
@@ -5461,7 +5461,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-02-21",
     "DateTime": "2026-02-21T17:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 674,
@@ -5472,11 +5472,11 @@
     "AwayTeamName": "SC Heerenveen",
     "HomeTeamLogo": "https://crests.football-data.org/674.png",
     "AwayTeamLogo": "https://crests.football-data.org/673.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 674,
     "Points": {
-      "674": 0,
+      "674": 3,
       "673": 0
     },
     "Goals": []
