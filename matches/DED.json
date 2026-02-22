@@ -5342,8 +5342,8 @@
     "AwayTeamName": "PEC Zwolle",
     "HomeTeamLogo": "https://crests.football-data.org/676.png",
     "AwayTeamLogo": "https://crests.football-data.org/684.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "676": 0,
@@ -5420,8 +5420,8 @@
     "AwayTeamName": "Heracles Almelo",
     "HomeTeamLogo": "https://crests.football-data.org/718.png",
     "AwayTeamLogo": "https://crests.football-data.org/671.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "718": 0,
@@ -5487,7 +5487,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-02-22",
     "DateTime": "2026-02-22T11:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 666,
@@ -5500,9 +5500,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/677.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 666,
     "Points": {
-      "666": 0,
+      "666": 3,
       "677": 0
     },
     "Goals": []
