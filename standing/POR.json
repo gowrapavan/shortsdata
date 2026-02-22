@@ -113,18 +113,37 @@
             "tla": "GIL",
             "crest": "https://crests.football-data.org/5533.png"
           },
-          "playedGames": 22,
+          "playedGames": 23,
           "form": null,
           "won": 11,
           "draw": 7,
-          "lost": 4,
+          "lost": 5,
           "points": 40,
-          "goalsFor": 33,
-          "goalsAgainst": 18,
-          "goalDifference": 15
+          "goalsFor": 34,
+          "goalsAgainst": 21,
+          "goalDifference": 13
         },
         {
           "position": 6,
+          "team": {
+            "id": 582,
+            "name": "GD Estoril Praia",
+            "shortName": "Estoril Praia",
+            "tla": "EST",
+            "crest": "https://crests.football-data.org/582.png"
+          },
+          "playedGames": 23,
+          "form": null,
+          "won": 9,
+          "draw": 6,
+          "lost": 8,
+          "points": 33,
+          "goalsFor": 46,
+          "goalsAgainst": 39,
+          "goalDifference": 7
+        },
+        {
+          "position": 7,
           "team": {
             "id": 583,
             "name": "Moreirense FC",
@@ -143,7 +162,7 @@
           "goalDifference": -4
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 5531,
             "name": "FC Famalicão",
@@ -162,7 +181,7 @@
           "goalDifference": 6
         },
         {
-          "position": 8,
+          "position": 9,
           "team": {
             "id": 5543,
             "name": "Vitória SC",
@@ -179,25 +198,6 @@
           "goalsFor": 27,
           "goalsAgainst": 34,
           "goalDifference": -7
-        },
-        {
-          "position": 9,
-          "team": {
-            "id": 582,
-            "name": "GD Estoril Praia",
-            "shortName": "Estoril Praia",
-            "tla": "EST",
-            "crest": "https://crests.football-data.org/582.png"
-          },
-          "playedGames": 22,
-          "form": null,
-          "won": 8,
-          "draw": 6,
-          "lost": 8,
-          "points": 30,
-          "goalsFor": 43,
-          "goalsAgainst": 38,
-          "goalDifference": 5
         },
         {
           "position": 10,
