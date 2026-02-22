@@ -77,13 +77,13 @@
           },
           "playedGames": 25,
           "form": null,
-          "won": 15,
-          "draw": 4,
+          "won": 16,
+          "draw": 3,
           "lost": 6,
-          "points": 49,
-          "goalsFor": 45,
-          "goalsAgainst": 26,
-          "goalDifference": 19
+          "points": 51,
+          "goalsFor": 47,
+          "goalsAgainst": 27,
+          "goalDifference": 20
         },
         {
           "position": 4,
@@ -278,25 +278,6 @@
         {
           "position": 14,
           "team": {
-            "id": 95,
-            "name": "Valencia CF",
-            "shortName": "Valencia",
-            "tla": "VAL",
-            "crest": "https://crests.football-data.org/95.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 6,
-          "draw": 9,
-          "lost": 10,
-          "points": 27,
-          "goalsFor": 25,
-          "goalsAgainst": 37,
-          "goalDifference": -12
-        },
-        {
-          "position": 15,
-          "team": {
             "id": 87,
             "name": "Rayo Vallecano de Madrid",
             "shortName": "Rayo Vallecano",
@@ -314,7 +295,7 @@
           "goalDifference": -9
         },
         {
-          "position": 16,
+          "position": 15,
           "team": {
             "id": 263,
             "name": "Deportivo Alavés",
@@ -331,6 +312,25 @@
           "goalsFor": 21,
           "goalsAgainst": 30,
           "goalDifference": -9
+        },
+        {
+          "position": 16,
+          "team": {
+            "id": 95,
+            "name": "Valencia CF",
+            "shortName": "Valencia",
+            "tla": "VAL",
+            "crest": "https://crests.football-data.org/95.png"
+          },
+          "playedGames": 25,
+          "form": null,
+          "won": 6,
+          "draw": 8,
+          "lost": 11,
+          "points": 26,
+          "goalsFor": 26,
+          "goalsAgainst": 39,
+          "goalDifference": -13
         },
         {
           "position": 17,
