@@ -13,17 +13,6 @@
   {
     "time": "10:45 PM",
     "game": "football",
-    "league": "الدوري الفرنسي",
-    "home_team": "ستراسبورغ",
-    "away_team": "ليون",
-    "label": "ستر-ليو",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e18a4c1f3.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e18a52abc.png",
-    "url": "https://a3.sia-koora.live/albaplayer/bein-2/"
-  },
-  {
-    "time": "10:45 PM",
-    "game": "football",
     "league": "الدوري الإيطالي",
     "home_team": "روما",
     "away_team": "كريمونيسي",
@@ -31,6 +20,17 @@
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e1900e2df.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e19015a8b.png",
     "url": "https://a1.sia-koora.live/albaplayer/pemium-1/"
+  },
+  {
+    "time": "10:45 PM",
+    "game": "football",
+    "league": "الدوري الفرنسي",
+    "home_team": "ستراسبورغ",
+    "away_team": "ليون",
+    "label": "ستر-ليو",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e18a4c1f3.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e18a52abc.png",
+    "url": "https://a3.sia-koora.live/albaplayer/bein-2/"
   },
   {
     "time": "11:00 PM",
@@ -90,13 +90,24 @@
   {
     "time": "05:00 PM",
     "game": "football",
+    "league": "الدوري الإيطالي",
+    "home_team": "أتلانتا",
+    "away_team": "نابولي",
+    "label": "أتل-ناب",
+    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e18e34422.png",
+    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e18e3b478.png",
+    "url": "https://a1.sia-koora.live/albaplayer/pemium-1/"
+  },
+  {
+    "time": "05:00 PM",
+    "game": "football",
     "league": "الدوري الإنجليزي",
     "home_team": "كريستال بالاس",
     "away_team": "وولفرهامبتون",
     "label": "كري-وول",
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e192f1bd8.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e19304ca7.png",
-    "url": "https://a1.sia-koora.live/albaplayer/bein-4/"
+    "url": ""
   },
   {
     "time": "05:00 PM",
@@ -107,7 +118,7 @@
     "label": "نوت-ليف",
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e1937f793.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e193877d0.png",
-    "url": "https://a3.sia-koora.live/albaplayer/bein-1/"
+    "url": ""
   },
   {
     "time": "05:00 PM",
@@ -118,7 +129,7 @@
     "label": "سند-فول",
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e1940babf.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e19412d5d.png",
-    "url": "https://a1.sia-koora.live/albaplayer/bein-6/"
+    "url": ""
   },
   {
     "time": "05:00 PM",
@@ -130,17 +141,6 @@
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e18820e27.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e18827d09.png",
     "url": "https://a1.sia-koora.live/albaplayer/bein-5/"
-  },
-  {
-    "time": "05:00 PM",
-    "game": "football",
-    "league": "الدوري الإيطالي",
-    "home_team": "أتلانتا",
-    "away_team": "نابولي",
-    "label": "أتل-ناب",
-    "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e18e34422.png",
-    "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e18e3b478.png",
-    "url": "https://a1.sia-koora.live/albaplayer/pemium-1/"
   },
   {
     "time": "05:30 AM",
@@ -206,7 +206,7 @@
     "label": "توت-أرس",
     "home_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e194b6667.png",
     "away_logo": "https://www.live-score.tv/wp-content/uploads/2026/02/alba_img_6998e194bcc1d.png",
-    "url": "https://a3.sia-koora.live/albaplayer/bein-1/"
+    "url": ""
   },
   {
     "time": "08:00 PM",
