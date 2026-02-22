@@ -5357,7 +5357,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-02-22",
     "DateTime": "2026-02-22T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 675,
@@ -5368,11 +5368,11 @@
     "AwayTeamName": "Telstar 1963",
     "HomeTeamLogo": "https://crests.football-data.org/675.png",
     "AwayTeamLogo": "https://crests.football-data.org/1912.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 675,
     "Points": {
-      "675": 0,
+      "675": 3,
       "1912": 0
     },
     "Goals": []
