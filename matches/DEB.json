@@ -5170,8 +5170,8 @@
     "AwayTeamName": "SV Werder Bremen",
     "HomeTeamLogo": "https://crests.football-data.org/20.png",
     "AwayTeamLogo": "https://crests.football-data.org/12.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "20": 0,
@@ -5211,7 +5211,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-02-22",
     "DateTime": "2026-02-22T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 17,
@@ -5222,11 +5222,11 @@
     "AwayTeamName": "Borussia Mönchengladbach",
     "HomeTeamLogo": "https://crests.football-data.org/17.png",
     "AwayTeamLogo": "https://crests.football-data.org/18.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 17,
     "Points": {
-      "17": 0,
+      "17": 3,
       "18": 0
     },
     "Goals": []

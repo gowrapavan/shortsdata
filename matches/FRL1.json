@@ -5063,7 +5063,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-22",
     "DateTime": "2026-02-22T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 519,
@@ -5076,10 +5076,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/529.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 3,
-    "Result": null,
+    "Result": 529,
     "Points": {
       "519": 0,
-      "529": 0
+      "529": 3
     },
     "Goals": []
   },
@@ -5089,7 +5089,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-22",
     "DateTime": "2026-02-22T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 543,
@@ -5100,11 +5100,11 @@
     "AwayTeamName": "Le Havre AC",
     "HomeTeamLogo": "https://crests.football-data.org/543.png",
     "AwayTeamLogo": "https://crests.football-data.org/533.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 543,
     "Points": {
-      "543": 0,
+      "543": 3,
       "533": 0
     },
     "Goals": []
@@ -5141,7 +5141,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-22",
     "DateTime": "2026-02-22T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 522,
@@ -5152,12 +5152,12 @@
     "AwayTeamName": "FC Lorient",
     "HomeTeamLogo": "https://crests.football-data.org/522.png",
     "AwayTeamLogo": "https://crests.football-data.org/525.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
-      "522": 0,
-      "525": 0
+      "522": 1,
+      "525": 1
     },
     "Goals": []
   },
@@ -5245,7 +5245,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-22",
     "DateTime": "2026-02-22T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 532,
@@ -5256,12 +5256,12 @@
     "AwayTeamName": "Lille OSC",
     "HomeTeamLogo": "https://crests.football-data.org/532.png",
     "AwayTeamLogo": "https://crests.football-data.org/521.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 521,
     "Points": {
       "532": 0,
-      "521": 0
+      "521": 3
     },
     "Goals": []
   },
