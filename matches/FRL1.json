@@ -5193,7 +5193,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-02-22",
     "DateTime": "2026-02-22T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 576,
@@ -5204,11 +5204,11 @@
     "AwayTeamName": "Olympique Lyonnais",
     "HomeTeamLogo": "https://crests.football-data.org/576.png",
     "AwayTeamLogo": "https://crests.football-data.org/523.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 576,
     "Points": {
-      "576": 0,
+      "576": 3,
       "523": 0
     },
     "Goals": []
