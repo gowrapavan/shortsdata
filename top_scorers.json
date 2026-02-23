@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-22T06:32:40.961225Z",
+    "last_updated": "2026-02-23T06:51:01.989105Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -52,6 +52,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Viktor Gyökeres",
+                    "team_name": "Arsenal FC",
+                    "team_crest": "https://crests.football-data.org/57.png",
+                    "goals": 10,
+                    "assists": null,
+                    "penalties": 2,
+                    "nationality": "Sweden"
+                },
+                {
                     "player_name": "Dominic Calvert-Lewin",
                     "team_name": "Leeds United FC",
                     "team_crest": "https://crests.football-data.org/341.png",
@@ -86,15 +95,6 @@
                     "assists": null,
                     "penalties": 1,
                     "nationality": "England"
-                },
-                {
-                    "player_name": "Enzo Fernández",
-                    "team_name": "Chelsea FC",
-                    "team_crest": "https://crests.football-data.org/61.png",
-                    "goals": 8,
-                    "assists": 2,
-                    "penalties": 2,
-                    "nationality": "Argentina"
                 }
             ]
         },
@@ -153,7 +153,7 @@
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
                     "goals": 10,
-                    "assists": 8,
+                    "assists": 9,
                     "penalties": 2,
                     "nationality": "Spain"
                 },
@@ -319,7 +319,7 @@
                     "player_name": "Deniz Undav",
                     "team_name": "VfB Stuttgart",
                     "team_crest": "https://crests.football-data.org/10.png",
-                    "goals": 12,
+                    "goals": 13,
                     "assists": 3,
                     "penalties": null,
                     "nationality": "Germany"
@@ -332,6 +332,15 @@
                     "assists": null,
                     "penalties": 1,
                     "nationality": "Guinea"
+                },
+                {
+                    "player_name": "Haris Tabaković",
+                    "team_name": "Borussia Mönchengladbach",
+                    "team_crest": "https://crests.football-data.org/18.png",
+                    "goals": 11,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Bosnia-Herzegovina"
                 },
                 {
                     "player_name": "Michael Olise",
@@ -370,15 +379,6 @@
                     "nationality": "Croatia"
                 },
                 {
-                    "player_name": "Haris Tabaković",
-                    "team_name": "Borussia Mönchengladbach",
-                    "team_crest": "https://crests.football-data.org/18.png",
-                    "goals": 10,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "Bosnia-Herzegovina"
-                },
-                {
                     "player_name": "Jonathan Burkardt",
                     "team_name": "Eintracht Frankfurt",
                     "team_crest": "https://crests.football-data.org/19.png",
@@ -407,16 +407,16 @@
                     "player_name": "Joaquín Panichelli",
                     "team_name": "RC Strasbourg Alsace",
                     "team_crest": "https://crests.football-data.org/576.png",
-                    "goals": 12,
+                    "goals": 13,
                     "assists": 1,
-                    "penalties": 4,
+                    "penalties": 5,
                     "nationality": "Argentina"
                 },
                 {
                     "player_name": "Esteban Lepaul",
                     "team_name": "Stade Rennais FC 1901",
                     "team_crest": "https://crests.football-data.org/529.png",
-                    "goals": 11,
+                    "goals": 12,
                     "assists": 3,
                     "penalties": null,
                     "nationality": "France"
@@ -458,6 +458,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Pablo Pagis",
+                    "team_name": "FC Lorient",
+                    "team_crest": "https://crests.football-data.org/525.png",
+                    "goals": 8,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Bradley Barcola",
                     "team_name": "Paris Saint-Germain FC",
                     "team_crest": "https://crests.football-data.org/524.png",
@@ -474,15 +483,6 @@
                     "assists": 4,
                     "penalties": 2,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Ansu Fati",
-                    "team_name": "AS Monaco FC",
-                    "team_crest": "https://crests.football-data.org/548.png",
-                    "goals": 8,
-                    "assists": null,
-                    "penalties": 3,
-                    "nationality": "Spain"
                 }
             ]
         },
@@ -501,6 +501,15 @@
                     "nationality": "Japan"
                 },
                 {
+                    "player_name": "Troy Parrott",
+                    "team_name": "AZ",
+                    "team_crest": "https://crests.football-data.org/682.png",
+                    "goals": 13,
+                    "assists": 2,
+                    "penalties": 2,
+                    "nationality": "Ireland"
+                },
+                {
                     "player_name": "Mika Godts",
                     "team_name": "AFC Ajax",
                     "team_crest": "https://crests.football-data.org/678.png",
@@ -517,15 +526,6 @@
                     "assists": 3,
                     "penalties": null,
                     "nationality": "Netherlands"
-                },
-                {
-                    "player_name": "Troy Parrott",
-                    "team_name": "AZ",
-                    "team_crest": "https://crests.football-data.org/682.png",
-                    "goals": 12,
-                    "assists": 2,
-                    "penalties": 2,
-                    "nationality": "Ireland"
                 },
                 {
                     "player_name": "Ismael Saibari",
@@ -573,13 +573,13 @@
                     "nationality": "USA"
                 },
                 {
-                    "player_name": "Kaj Sierhuis",
-                    "team_name": "Fortuna Sittard",
-                    "team_crest": "https://crests.football-data.org/1920.png",
+                    "player_name": "Mathis Suray",
+                    "team_name": "Go Ahead Eagles",
+                    "team_crest": "https://crests.football-data.org/718.png",
                     "goals": 9,
-                    "assists": null,
+                    "assists": 1,
                     "penalties": null,
-                    "nationality": "Netherlands"
+                    "nationality": "Belgium"
                 }
             ]
         },
