@@ -397,6 +397,13 @@
         "nationality": "Morocco"
       },
       {
+        "id": 250515,
+        "name": "Danylo Krevsun",
+        "position": "Midfield",
+        "dateOfBirth": null,
+        "nationality": "Ukraine"
+      },
+      {
         "id": 278316,
         "name": "Mussa Kaba",
         "position": "Midfield",
@@ -416,48 +423,6 @@
         "position": "Offence",
         "dateOfBirth": "2009-05-21",
         "nationality": "USA"
-      },
-      {
-        "id": 263672,
-        "name": "Almugera Kabar",
-        "position": "Left-Back",
-        "dateOfBirth": "2006-06-06",
-        "nationality": "Germany"
-      },
-      {
-        "id": 171692,
-        "name": "Jobe Bellingham",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2005-09-23",
-        "nationality": "England"
-      },
-      {
-        "id": 167570,
-        "name": "Carney Chukwuemeka",
-        "position": "Central Midfield",
-        "dateOfBirth": "2003-10-20",
-        "nationality": "England"
-      },
-      {
-        "id": 144283,
-        "name": "Yan Couto",
-        "position": "Right-Back",
-        "dateOfBirth": "2002-06-03",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 133903,
-        "name": "Maximilian Beier",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2002-10-17",
-        "nationality": "Germany"
-      },
-      {
-        "id": 125151,
-        "name": "Fábio Silva",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2002-07-19",
-        "nationality": "Portugal"
       },
       {
         "id": 101074,
@@ -542,6 +507,48 @@
         "position": "Attacking Midfield",
         "dateOfBirth": "1996-05-02",
         "nationality": "Germany"
+      },
+      {
+        "id": 263672,
+        "name": "Almugera Kabar",
+        "position": "Left-Back",
+        "dateOfBirth": "2006-06-06",
+        "nationality": "Germany"
+      },
+      {
+        "id": 171692,
+        "name": "Jobe Bellingham",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2005-09-23",
+        "nationality": "England"
+      },
+      {
+        "id": 167570,
+        "name": "Carney Chukwuemeka",
+        "position": "Central Midfield",
+        "dateOfBirth": "2003-10-20",
+        "nationality": "England"
+      },
+      {
+        "id": 144283,
+        "name": "Yan Couto",
+        "position": "Right-Back",
+        "dateOfBirth": "2002-06-03",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 133903,
+        "name": "Maximilian Beier",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2002-10-17",
+        "nationality": "Germany"
+      },
+      {
+        "id": 125151,
+        "name": "Fábio Silva",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2002-07-19",
+        "nationality": "Portugal"
       }
     ],
     "staff": [],
@@ -4492,6 +4499,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 217758,
+        "name": "Dominic Vavassori",
+        "position": "Offence",
+        "dateOfBirth": "2005-12-09",
+        "nationality": "Italy"
+      },
+      {
         "id": 261018,
         "name": "Henry Camara",
         "position": "Offence",
@@ -5856,15 +5870,15 @@
       }
     ],
     "coach": {
-      "id": 197077,
-      "firstName": "Jacques",
-      "lastName": "Abardonado",
-      "name": "Jacques Abardonado",
-      "dateOfBirth": "1978-05-27",
-      "nationality": "France",
+      "id": 173649,
+      "firstName": "Habib",
+      "lastName": "Bèye",
+      "name": "Habib Beye",
+      "dateOfBirth": "1977-10-19",
+      "nationality": "Senegal",
       "contract": {
         "start": "2026-02",
-        "until": "2026-06"
+        "until": "2027-06"
       }
     },
     "squad": [
@@ -5944,41 +5958,6 @@
         "position": "Offence",
         "dateOfBirth": "2006-01-23",
         "nationality": "France"
-      },
-      {
-        "id": 188476,
-        "name": "Ethan Nwaneri",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2007-03-21",
-        "nationality": "England"
-      },
-      {
-        "id": 184146,
-        "name": "Arthur Vermeeren",
-        "position": "Central Midfield",
-        "dateOfBirth": "2005-02-07",
-        "nationality": "Belgium"
-      },
-      {
-        "id": 179721,
-        "name": "CJ Egan-Riley",
-        "position": "Centre-Back",
-        "dateOfBirth": "2003-01-02",
-        "nationality": "England"
-      },
-      {
-        "id": 170409,
-        "name": "Bilal Nadir",
-        "position": "Central Midfield",
-        "dateOfBirth": "2003-11-28",
-        "nationality": "France"
-      },
-      {
-        "id": 119703,
-        "name": "Igor Paixão",
-        "position": "Left Winger",
-        "dateOfBirth": "2000-06-28",
-        "nationality": "Brazil"
       },
       {
         "id": 101075,
@@ -6077,6 +6056,41 @@
         "position": "Attacking Midfield",
         "dateOfBirth": "2000-02-16",
         "nationality": "Ivory Coast"
+      },
+      {
+        "id": 188476,
+        "name": "Ethan Nwaneri",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2007-03-21",
+        "nationality": "England"
+      },
+      {
+        "id": 184146,
+        "name": "Arthur Vermeeren",
+        "position": "Central Midfield",
+        "dateOfBirth": "2005-02-07",
+        "nationality": "Belgium"
+      },
+      {
+        "id": 179721,
+        "name": "CJ Egan-Riley",
+        "position": "Centre-Back",
+        "dateOfBirth": "2003-01-02",
+        "nationality": "England"
+      },
+      {
+        "id": 170409,
+        "name": "Bilal Nadir",
+        "position": "Central Midfield",
+        "dateOfBirth": "2003-11-28",
+        "nationality": "France"
+      },
+      {
+        "id": 119703,
+        "name": "Igor Paixão",
+        "position": "Left Winger",
+        "dateOfBirth": "2000-06-28",
+        "nationality": "Brazil"
       }
     ],
     "staff": [],
@@ -9367,6 +9381,13 @@
         "nationality": "Belgium"
       },
       {
+        "id": 147894,
+        "name": "Yari Stevens",
+        "position": "Defence",
+        "dateOfBirth": "2003-12-18",
+        "nationality": "Belgium"
+      },
+      {
         "id": 250970,
         "name": "Mamadou Barry",
         "position": "Defence",
@@ -9803,13 +9824,6 @@
         "nationality": "Kazakhstan"
       },
       {
-        "id": 279295,
-        "name": "Ildar Mendygaliev",
-        "position": "Goalkeeper",
-        "dateOfBirth": "2006-03-20",
-        "nationality": "Kazakhstan"
-      },
-      {
         "id": 280076,
         "name": "Sherkhan Kalmurza",
         "position": "Goalkeeper",
@@ -9877,13 +9891,6 @@
         "name": "Damir Kasabulat",
         "position": "Defence",
         "dateOfBirth": "2002-08-29",
-        "nationality": "Kazakhstan"
-      },
-      {
-        "id": 254265,
-        "name": "Sultan Askarov",
-        "position": "Defence",
-        "dateOfBirth": "2004-01-21",
         "nationality": "Kazakhstan"
       },
       {
@@ -10003,13 +10010,6 @@
         "name": "Ramazan Bagdat",
         "position": "Offence",
         "dateOfBirth": "2006-10-09",
-        "nationality": "Kazakhstan"
-      },
-      {
-        "id": 290189,
-        "name": "Gleb Valgushev",
-        "position": "Offence",
-        "dateOfBirth": "2005-12-12",
         "nationality": "Kazakhstan"
       },
       {

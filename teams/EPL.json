@@ -3855,15 +3855,15 @@
       }
     ],
     "coach": {
-      "id": null,
-      "firstName": null,
-      "lastName": null,
-      "name": null,
-      "dateOfBirth": null,
-      "nationality": null,
+      "id": 21714,
+      "firstName": "",
+      "lastName": "Vítor Pereira",
+      "name": "Vítor Pereira",
+      "dateOfBirth": "1968-07-26",
+      "nationality": "Portugal",
       "contract": {
-        "start": null,
-        "until": null
+        "start": "2026-02",
+        "until": "2027-06"
       }
     },
     "squad": [
@@ -4725,11 +4725,25 @@
         "nationality": "England"
       },
       {
+        "id": 289808,
+        "name": "Josh Stephenson",
+        "position": "Midfield",
+        "dateOfBirth": "2007-09-04",
+        "nationality": "England"
+      },
+      {
         "id": 292027,
         "name": "Luka Bentt",
         "position": "Midfield",
         "dateOfBirth": "2007-10-01",
         "nationality": "Belgium"
+      },
+      {
+        "id": 292548,
+        "name": "Ollie Shield",
+        "position": "Midfield",
+        "dateOfBirth": "2006-09-25",
+        "nationality": "England"
       },
       {
         "id": 175994,
@@ -4744,41 +4758,6 @@
         "position": "Offence",
         "dateOfBirth": "2007-02-06",
         "nationality": "Belgium"
-      },
-      {
-        "id": 204421,
-        "name": "Yegor Yarmolyuk",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2004-03-01",
-        "nationality": "Ukraine"
-      },
-      {
-        "id": 204348,
-        "name": "Michael Kayode",
-        "position": "Right-Back",
-        "dateOfBirth": "2004-07-10",
-        "nationality": "Italy"
-      },
-      {
-        "id": 177305,
-        "name": "Dango Ouattara",
-        "position": "Left Winger",
-        "dateOfBirth": "2002-02-11",
-        "nationality": "Burkina Faso"
-      },
-      {
-        "id": 171965,
-        "name": "Antoni Milambo",
-        "position": "Central Midfield",
-        "dateOfBirth": "2005-04-03",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 151119,
-        "name": "Fabio Carvalho",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2002-08-30",
-        "nationality": "Portugal"
       },
       {
         "id": 123286,
@@ -4877,6 +4856,41 @@
         "position": "Central Midfield",
         "dateOfBirth": "1990-06-17",
         "nationality": "England"
+      },
+      {
+        "id": 204421,
+        "name": "Yegor Yarmolyuk",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2004-03-01",
+        "nationality": "Ukraine"
+      },
+      {
+        "id": 204348,
+        "name": "Michael Kayode",
+        "position": "Right-Back",
+        "dateOfBirth": "2004-07-10",
+        "nationality": "Italy"
+      },
+      {
+        "id": 177305,
+        "name": "Dango Ouattara",
+        "position": "Left Winger",
+        "dateOfBirth": "2002-02-11",
+        "nationality": "Burkina Faso"
+      },
+      {
+        "id": 171965,
+        "name": "Antoni Milambo",
+        "position": "Central Midfield",
+        "dateOfBirth": "2005-04-03",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 151119,
+        "name": "Fabio Carvalho",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2002-08-30",
+        "nationality": "Portugal"
       }
     ],
     "staff": [],
@@ -5229,13 +5243,6 @@
         "position": "Right-Back",
         "dateOfBirth": "2005-05-08",
         "nationality": "Spain"
-      },
-      {
-        "id": 209103,
-        "name": "Dominic Sadi",
-        "position": "Left Winger",
-        "dateOfBirth": "2003-09-02",
-        "nationality": "England"
       },
       {
         "id": 204241,

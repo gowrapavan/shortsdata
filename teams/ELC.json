@@ -33,11 +33,11 @@
       }
     ],
     "coach": {
-      "id": 144368,
-      "firstName": "Damien",
-      "lastName": "Johnson",
-      "name": "Damien Johnson",
-      "dateOfBirth": "1978-11-18",
+      "id": 57183,
+      "firstName": "Michael",
+      "lastName": "O'Neill",
+      "name": "Michael O'Neill",
+      "dateOfBirth": "1969-07-05",
       "nationality": "Northern Ireland",
       "contract": {
         "start": "2026-02",
@@ -1148,6 +1148,20 @@
         "nationality": "England"
       },
       {
+        "id": 292732,
+        "name": "Jerome Osei Kyremeh",
+        "position": "Offence",
+        "dateOfBirth": null,
+        "nationality": "England"
+      },
+      {
+        "id": 176838,
+        "name": "Ashley Phillips",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-06-26",
+        "nationality": "England"
+      },
+      {
         "id": 170630,
         "name": "Lamine Cissé",
         "position": "Right Winger",
@@ -1257,13 +1271,6 @@
         "name": "Jesurun Rak-Sakyi",
         "position": "Right Winger",
         "dateOfBirth": "2002-10-05",
-        "nationality": "England"
-      },
-      {
-        "id": 176838,
-        "name": "Ashley Phillips",
-        "position": "Centre-Back",
-        "dateOfBirth": "2005-06-26",
         "nationality": "England"
       }
     ],
@@ -2567,6 +2574,13 @@
         "nationality": "South Korea"
       },
       {
+        "id": 270923,
+        "name": "Zaid Betteka",
+        "position": "Midfield",
+        "dateOfBirth": null,
+        "nationality": "England"
+      },
+      {
         "id": 176016,
         "name": "August Priske",
         "position": "Offence",
@@ -2695,14 +2709,14 @@
       }
     ],
     "coach": {
-      "id": 7981,
-      "firstName": "Andy",
-      "lastName": "King",
-      "name": "Andy King",
-      "dateOfBirth": "1988-10-29",
-      "nationality": "Wales",
+      "id": 11286,
+      "firstName": "Gary",
+      "lastName": "Rowett",
+      "name": "Gary Rowett",
+      "dateOfBirth": "1974-03-06",
+      "nationality": "England",
       "contract": {
-        "start": "2026-01",
+        "start": "2026-02",
         "until": "2026-06"
       }
     },
@@ -3544,13 +3558,6 @@
     },
     "squad": [
       {
-        "id": 4008,
-        "name": "Seny Dieng",
-        "position": "Goalkeeper",
-        "dateOfBirth": "1994-11-23",
-        "nationality": "Senegal"
-      },
-      {
         "id": 34683,
         "name": "Jon McLaughlin",
         "position": "Goalkeeper",
@@ -3633,6 +3640,13 @@
         "position": "Offence",
         "dateOfBirth": "2005-11-02",
         "nationality": "England"
+      },
+      {
+        "id": 140417,
+        "name": "Aidan Morris",
+        "position": "Central Midfield",
+        "dateOfBirth": "2001-11-16",
+        "nationality": "USA"
       },
       {
         "id": 137025,
@@ -3773,13 +3787,6 @@
         "position": "Centre-Forward",
         "dateOfBirth": "2002-08-06",
         "nationality": "Scotland"
-      },
-      {
-        "id": 140417,
-        "name": "Aidan Morris",
-        "position": "Central Midfield",
-        "dateOfBirth": "2001-11-16",
-        "nationality": "USA"
       }
     ],
     "staff": [],
@@ -3831,6 +3838,13 @@
       }
     },
     "squad": [
+      {
+        "id": 4008,
+        "name": "Seny Dieng",
+        "position": "Goalkeeper",
+        "dateOfBirth": "1994-11-23",
+        "nationality": "Senegal"
+      },
       {
         "id": 177439,
         "name": "Murphy Mahoney",
@@ -6354,6 +6368,13 @@
         "nationality": "England"
       },
       {
+        "id": 276407,
+        "name": "Theo Carroll",
+        "position": "Midfield",
+        "dateOfBirth": "2007-06-21",
+        "nationality": "England"
+      },
+      {
         "id": 288890,
         "name": "Ed Nolan",
         "position": "Midfield",
@@ -6387,62 +6408,6 @@
         "position": "Offence",
         "dateOfBirth": "2007-01-30",
         "nationality": "Northern Ireland"
-      },
-      {
-        "id": 246110,
-        "name": "Milos Lukovic",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2005-11-18",
-        "nationality": "Serbia"
-      },
-      {
-        "id": 213259,
-        "name": "Kitt Nelson",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2005-01-12",
-        "nationality": "England"
-      },
-      {
-        "id": 175856,
-        "name": "Andrew Moran",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2003-10-15",
-        "nationality": "Ireland"
-      },
-      {
-        "id": 175855,
-        "name": "Odel Offiah",
-        "position": "Right-Back",
-        "dateOfBirth": "2002-10-26",
-        "nationality": "England"
-      },
-      {
-        "id": 172958,
-        "name": "Lewis Dobbin",
-        "position": "Left Winger",
-        "dateOfBirth": "2003-01-03",
-        "nationality": "England"
-      },
-      {
-        "id": 169191,
-        "name": "Daniel Jebbison",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2003-07-11",
-        "nationality": "England"
-      },
-      {
-        "id": 157439,
-        "name": "Alfie Devine",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2004-08-01",
-        "nationality": "England"
-      },
-      {
-        "id": 137963,
-        "name": "Lewis Gibson",
-        "position": "Centre-Back",
-        "dateOfBirth": "2000-07-19",
-        "nationality": "England"
       },
       {
         "id": 67743,
@@ -6520,6 +6485,62 @@
         "position": "Left-Back",
         "dateOfBirth": "1998-01-25",
         "nationality": "Northern Ireland"
+      },
+      {
+        "id": 246110,
+        "name": "Milos Lukovic",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2005-11-18",
+        "nationality": "Serbia"
+      },
+      {
+        "id": 213259,
+        "name": "Kitt Nelson",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2005-01-12",
+        "nationality": "England"
+      },
+      {
+        "id": 175856,
+        "name": "Andrew Moran",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2003-10-15",
+        "nationality": "Ireland"
+      },
+      {
+        "id": 175855,
+        "name": "Odel Offiah",
+        "position": "Right-Back",
+        "dateOfBirth": "2002-10-26",
+        "nationality": "England"
+      },
+      {
+        "id": 172958,
+        "name": "Lewis Dobbin",
+        "position": "Left Winger",
+        "dateOfBirth": "2003-01-03",
+        "nationality": "England"
+      },
+      {
+        "id": 169191,
+        "name": "Daniel Jebbison",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2003-07-11",
+        "nationality": "England"
+      },
+      {
+        "id": 157439,
+        "name": "Alfie Devine",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2004-08-01",
+        "nationality": "England"
+      },
+      {
+        "id": 137963,
+        "name": "Lewis Gibson",
+        "position": "Centre-Back",
+        "dateOfBirth": "2000-07-19",
+        "nationality": "England"
       }
     ],
     "staff": [],
