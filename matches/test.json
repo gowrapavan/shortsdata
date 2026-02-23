@@ -1,26 +1,26 @@
 [
-     {
-    "GameId": 544211,
-    "RoundId": 6,
+  {
+    "GameId": 544451,
+    "RoundId": 25,
     "RoundName": "Primera Division",
     "Date": "2026-02-23",
-    "DateTime": "2026-02-23T11:30:00Z",
-    "Status": "Final",
+    "DateTime": "2026-02-23T20:00:00Z",
+    "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 263,
-    "AwayTeamId": 88,
+    "AwayTeamId": 298,
     "HomeTeamKey": "Alavés",
-    "AwayTeamKey": "Levante",
+    "AwayTeamKey": "Girona",
     "HomeTeamName": "Deportivo Alavés",
-    "AwayTeamName": "Levante UD",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 1,
-    "Result": 263,
+    "AwayTeamName": "Girona FC",
+    "HomeTeamLogo": "https://crests.football-data.org/263.png",
+    "AwayTeamLogo": "https://crests.football-data.org/298.png",
+    "HomeTeamScore": null,
+    "AwayTeamScore": null,
+    "Result": null,
     "Points": {
-      "263": 3,
-      "88": 0
-    },
-    "Goals": []
-  }
+      "263": 0,
+      "298": 0
+    }
 ]
