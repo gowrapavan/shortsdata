@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 298,
+            "name": "Girona FC",
+            "shortName": "Girona",
+            "tla": "GIR",
+            "crest": "https://crests.football-data.org/298.png"
+          },
+          "playedGames": 25,
+          "form": null,
+          "won": 7,
+          "draw": 9,
+          "lost": 9,
+          "points": 30,
+          "goalsFor": 26,
+          "goalsAgainst": 40,
+          "goalDifference": -14
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 559,
             "name": "Sevilla FC",
             "shortName": "Sevilla FC",
@@ -236,25 +255,6 @@
           "goalsFor": 32,
           "goalsAgainst": 39,
           "goalDifference": -7
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 263,
-            "name": "Deportivo Alavés",
-            "shortName": "Alavés",
-            "tla": "ALA",
-            "crest": "https://crests.football-data.org/263.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 8,
-          "draw": 5,
-          "lost": 12,
-          "points": 29,
-          "goalsFor": 22,
-          "goalsAgainst": 30,
-          "goalDifference": -8
         },
         {
           "position": 13,
@@ -278,21 +278,21 @@
         {
           "position": 14,
           "team": {
-            "id": 298,
-            "name": "Girona FC",
-            "shortName": "Girona",
-            "tla": "GIR",
-            "crest": "https://crests.football-data.org/298.png"
+            "id": 263,
+            "name": "Deportivo Alavés",
+            "shortName": "Alavés",
+            "tla": "ALA",
+            "crest": "https://crests.football-data.org/263.png"
           },
           "playedGames": 25,
           "form": null,
           "won": 7,
-          "draw": 8,
-          "lost": 10,
-          "points": 29,
-          "goalsFor": 24,
-          "goalsAgainst": 39,
-          "goalDifference": -15
+          "draw": 6,
+          "lost": 12,
+          "points": 27,
+          "goalsFor": 23,
+          "goalsAgainst": 32,
+          "goalDifference": -9
         },
         {
           "position": 15,

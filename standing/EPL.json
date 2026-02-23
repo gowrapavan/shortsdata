@@ -96,13 +96,13 @@
           },
           "playedGames": 27,
           "form": null,
-          "won": 12,
-          "draw": 10,
+          "won": 13,
+          "draw": 9,
           "lost": 5,
-          "points": 46,
-          "goalsFor": 47,
+          "points": 48,
+          "goalsFor": 48,
           "goalsAgainst": 37,
-          "goalDifference": 10
+          "goalDifference": 11
         },
         {
           "position": 5,
@@ -164,25 +164,6 @@
         {
           "position": 8,
           "team": {
-            "id": 62,
-            "name": "Everton FC",
-            "shortName": "Everton",
-            "tla": "EVE",
-            "crest": "https://crests.football-data.org/62.png"
-          },
-          "playedGames": 27,
-          "form": null,
-          "won": 10,
-          "draw": 8,
-          "lost": 9,
-          "points": 38,
-          "goalsFor": 29,
-          "goalsAgainst": 30,
-          "goalDifference": -1
-        },
-        {
-          "position": 9,
-          "team": {
             "id": 1044,
             "name": "AFC Bournemouth",
             "shortName": "Bournemouth",
@@ -197,6 +178,25 @@
           "points": 38,
           "goalsFor": 43,
           "goalsAgainst": 45,
+          "goalDifference": -2
+        },
+        {
+          "position": 9,
+          "team": {
+            "id": 62,
+            "name": "Everton FC",
+            "shortName": "Everton",
+            "tla": "EVE",
+            "crest": "https://crests.football-data.org/62.png"
+          },
+          "playedGames": 27,
+          "form": null,
+          "won": 10,
+          "draw": 7,
+          "lost": 10,
+          "points": 37,
+          "goalsFor": 29,
+          "goalsAgainst": 31,
           "goalDifference": -2
         },
         {

@@ -126,6 +126,25 @@
         {
           "position": 6,
           "team": {
+            "id": 5531,
+            "name": "FC Famalicão",
+            "shortName": "Famalicão",
+            "tla": "FAM",
+            "crest": "https://crests.football-data.org/5531.png"
+          },
+          "playedGames": 23,
+          "form": null,
+          "won": 10,
+          "draw": 5,
+          "lost": 8,
+          "points": 35,
+          "goalsFor": 29,
+          "goalsAgainst": 21,
+          "goalDifference": 8
+        },
+        {
+          "position": 7,
+          "team": {
             "id": 582,
             "name": "GD Estoril Praia",
             "shortName": "Estoril Praia",
@@ -141,25 +160,6 @@
           "goalsFor": 46,
           "goalsAgainst": 39,
           "goalDifference": 7
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": 5531,
-            "name": "FC Famalicão",
-            "shortName": "Famalicão",
-            "tla": "FAM",
-            "crest": "https://crests.football-data.org/5531.png"
-          },
-          "playedGames": 23,
-          "form": null,
-          "won": 9,
-          "draw": 6,
-          "lost": 8,
-          "points": 33,
-          "goalsFor": 27,
-          "goalsAgainst": 21,
-          "goalDifference": 6
         },
         {
           "position": 8,
@@ -268,12 +268,12 @@
           "playedGames": 23,
           "form": null,
           "won": 5,
-          "draw": 8,
-          "lost": 10,
-          "points": 23,
+          "draw": 7,
+          "lost": 11,
+          "points": 22,
           "goalsFor": 25,
-          "goalsAgainst": 41,
-          "goalDifference": -16
+          "goalsAgainst": 43,
+          "goalDifference": -18
         },
         {
           "position": 14,
