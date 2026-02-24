@@ -59,12 +59,12 @@
           "playedGames": 34,
           "form": null,
           "won": 18,
-          "draw": 8,
-          "lost": 8,
-          "points": 62,
-          "goalsFor": 50,
+          "draw": 9,
+          "lost": 7,
+          "points": 63,
+          "goalsFor": 51,
           "goalsAgainst": 34,
-          "goalDifference": 16
+          "goalDifference": 17
         },
         {
           "position": 3,
@@ -81,12 +81,31 @@
           "draw": 9,
           "lost": 7,
           "points": 57,
-          "goalsFor": 55,
+          "goalsFor": 56,
           "goalsAgainst": 34,
-          "goalDifference": 21
+          "goalDifference": 22
         },
         {
           "position": 4,
+          "team": {
+            "id": 322,
+            "name": "Hull City AFC",
+            "shortName": "Hull City",
+            "tla": "HUL",
+            "crest": "https://crests.football-data.org/322.png"
+          },
+          "playedGames": 33,
+          "form": null,
+          "won": 17,
+          "draw": 6,
+          "lost": 10,
+          "points": 57,
+          "goalsFor": 55,
+          "goalsAgainst": 48,
+          "goalDifference": 7
+        },
+        {
+          "position": 5,
           "team": {
             "id": 384,
             "name": "Millwall FC",
@@ -105,25 +124,6 @@
           "goalDifference": 2
         },
         {
-          "position": 5,
-          "team": {
-            "id": 322,
-            "name": "Hull City AFC",
-            "shortName": "Hull City",
-            "tla": "HUL",
-            "crest": "https://crests.football-data.org/322.png"
-          },
-          "playedGames": 33,
-          "form": null,
-          "won": 16,
-          "draw": 7,
-          "lost": 10,
-          "points": 55,
-          "goalsFor": 53,
-          "goalsAgainst": 48,
-          "goalDifference": 5
-        },
-        {
           "position": 6,
           "team": {
             "id": 404,
@@ -139,30 +139,11 @@
           "lost": 8,
           "points": 54,
           "goalsFor": 53,
-          "goalsAgainst": 44,
-          "goalDifference": 9
+          "goalsAgainst": 45,
+          "goalDifference": 8
         },
         {
           "position": 7,
-          "team": {
-            "id": 1081,
-            "name": "Preston North End FC",
-            "shortName": "Preston NE",
-            "tla": "PNE",
-            "crest": "https://crests.football-data.org/1081.png"
-          },
-          "playedGames": 34,
-          "form": null,
-          "won": 13,
-          "draw": 12,
-          "lost": 9,
-          "points": 51,
-          "goalsFor": 41,
-          "goalsAgainst": 37,
-          "goalDifference": 4
-        },
-        {
-          "position": 8,
           "team": {
             "id": 340,
             "name": "Southampton FC",
@@ -176,12 +157,12 @@
           "draw": 11,
           "lost": 10,
           "points": 50,
-          "goalsFor": 50,
+          "goalsFor": 54,
           "goalsAgainst": 45,
-          "goalDifference": 5
+          "goalDifference": 9
         },
         {
-          "position": 9,
+          "position": 8,
           "team": {
             "id": 387,
             "name": "Bristol City FC",
@@ -200,26 +181,7 @@
           "goalDifference": 5
         },
         {
-          "position": 10,
-          "team": {
-            "id": 342,
-            "name": "Derby County FC",
-            "shortName": "Derby County",
-            "tla": "DER",
-            "crest": "https://crests.football-data.org/342.png"
-          },
-          "playedGames": 34,
-          "form": null,
-          "won": 13,
-          "draw": 10,
-          "lost": 11,
-          "points": 49,
-          "goalsFor": 49,
-          "goalsAgainst": 43,
-          "goalDifference": 6
-        },
-        {
-          "position": 11,
+          "position": 9,
           "team": {
             "id": 332,
             "name": "Birmingham City FC",
@@ -238,6 +200,44 @@
           "goalDifference": 5
         },
         {
+          "position": 10,
+          "team": {
+            "id": 1081,
+            "name": "Preston North End FC",
+            "shortName": "Preston NE",
+            "tla": "PNE",
+            "crest": "https://crests.football-data.org/1081.png"
+          },
+          "playedGames": 34,
+          "form": null,
+          "won": 12,
+          "draw": 13,
+          "lost": 9,
+          "points": 49,
+          "goalsFor": 41,
+          "goalsAgainst": 38,
+          "goalDifference": 3
+        },
+        {
+          "position": 11,
+          "team": {
+            "id": 342,
+            "name": "Derby County FC",
+            "shortName": "Derby County",
+            "tla": "DER",
+            "crest": "https://crests.football-data.org/342.png"
+          },
+          "playedGames": 34,
+          "form": null,
+          "won": 13,
+          "draw": 9,
+          "lost": 12,
+          "points": 48,
+          "goalsFor": 49,
+          "goalsAgainst": 45,
+          "goalDifference": 4
+        },
+        {
           "position": 12,
           "team": {
             "id": 346,
@@ -253,8 +253,8 @@
           "lost": 10,
           "points": 48,
           "goalsFor": 43,
-          "goalsAgainst": 39,
-          "goalDifference": 4
+          "goalsAgainst": 40,
+          "goalDifference": 3
         },
         {
           "position": 13,
@@ -272,11 +272,30 @@
           "lost": 13,
           "points": 47,
           "goalsFor": 46,
-          "goalsAgainst": 48,
-          "goalDifference": -2
+          "goalsAgainst": 52,
+          "goalDifference": -6
         },
         {
           "position": 14,
+          "team": {
+            "id": 72,
+            "name": "Swansea City AFC",
+            "shortName": "Swansea",
+            "tla": "SWA",
+            "crest": "https://crests.football-data.org/72.png"
+          },
+          "playedGames": 34,
+          "form": null,
+          "won": 13,
+          "draw": 7,
+          "lost": 14,
+          "points": 46,
+          "goalsFor": 40,
+          "goalsAgainst": 40,
+          "goalDifference": 0
+        },
+        {
+          "position": 15,
           "team": {
             "id": 356,
             "name": "Sheffield United FC",
@@ -293,25 +312,6 @@
           "goalsFor": 47,
           "goalsAgainst": 46,
           "goalDifference": 1
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 72,
-            "name": "Swansea City AFC",
-            "shortName": "Swansea",
-            "tla": "SWA",
-            "crest": "https://crests.football-data.org/72.png"
-          },
-          "playedGames": 34,
-          "form": null,
-          "won": 13,
-          "draw": 6,
-          "lost": 15,
-          "points": 45,
-          "goalsFor": 39,
-          "goalsAgainst": 40,
-          "goalDifference": -1
         },
         {
           "position": 16,
@@ -347,8 +347,8 @@
           "draw": 11,
           "lost": 13,
           "points": 41,
-          "goalsFor": 32,
-          "goalsAgainst": 42,
+          "goalsFor": 33,
+          "goalsAgainst": 43,
           "goalDifference": -10
         },
         {
@@ -385,9 +385,9 @@
           "draw": 9,
           "lost": 14,
           "points": 39,
-          "goalsFor": 33,
+          "goalsFor": 34,
           "goalsAgainst": 43,
-          "goalDifference": -10
+          "goalDifference": -9
         },
         {
           "position": 20,
@@ -411,25 +411,6 @@
         {
           "position": 21,
           "team": {
-            "id": 338,
-            "name": "Leicester City FC",
-            "shortName": "Leicester City",
-            "tla": "LEI",
-            "crest": "https://crests.football-data.org/338.png"
-          },
-          "playedGames": 34,
-          "form": null,
-          "won": 11,
-          "draw": 9,
-          "lost": 14,
-          "points": 36,
-          "goalsFor": 47,
-          "goalsAgainst": 53,
-          "goalDifference": -6
-        },
-        {
-          "position": 22,
-          "team": {
             "id": 74,
             "name": "West Bromwich Albion FC",
             "shortName": "West Brom",
@@ -442,9 +423,28 @@
           "draw": 8,
           "lost": 17,
           "points": 35,
-          "goalsFor": 32,
-          "goalsAgainst": 49,
+          "goalsFor": 33,
+          "goalsAgainst": 50,
           "goalDifference": -17
+        },
+        {
+          "position": 22,
+          "team": {
+            "id": 338,
+            "name": "Leicester City FC",
+            "shortName": "Leicester City",
+            "tla": "LEI",
+            "crest": "https://crests.football-data.org/338.png"
+          },
+          "playedGames": 34,
+          "form": null,
+          "won": 10,
+          "draw": 10,
+          "lost": 14,
+          "points": 34,
+          "goalsFor": 47,
+          "goalsAgainst": 54,
+          "goalDifference": -7
         },
         {
           "position": 23,
