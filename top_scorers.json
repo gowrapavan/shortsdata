@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-23T06:51:01.989105Z",
+    "last_updated": "2026-02-24T06:43:57.684854Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -83,7 +83,7 @@
                     "team_name": "Manchester United FC",
                     "team_crest": "https://crests.football-data.org/66.png",
                     "goals": 9,
-                    "assists": 2,
+                    "assists": 3,
                     "penalties": null,
                     "nationality": "Cameroon"
                 },
@@ -255,6 +255,15 @@
                     "nationality": "Denmark"
                 },
                 {
+                    "player_name": "Moise Kean",
+                    "team_name": "ACF Fiorentina",
+                    "team_crest": "https://crests.football-data.org/99.png",
+                    "goals": 8,
+                    "assists": 1,
+                    "penalties": 2,
+                    "nationality": "Italy"
+                },
+                {
                     "player_name": "Rafael Leão",
                     "team_name": "AC Milan",
                     "team_crest": "https://crests.football-data.org/98.png",
@@ -279,15 +288,6 @@
                     "goals": 7,
                     "assists": 3,
                     "penalties": 2,
-                    "nationality": "Italy"
-                },
-                {
-                    "player_name": "Riccardo Orsolini",
-                    "team_name": "Bologna FC 1909",
-                    "team_crest": "https://crests.football-data.org/103.png",
-                    "goals": 7,
-                    "assists": 1,
-                    "penalties": 3,
                     "nationality": "Italy"
                 }
             ]
