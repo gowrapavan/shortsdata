@@ -3932,8 +3932,8 @@
     "AwayTeamName": "Sport Lisboa e Benfica",
     "HomeTeamLogo": "https://crests.football-data.org/86.png",
     "AwayTeamLogo": "https://crests.football-data.org/1903.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "86": 0,
@@ -3958,8 +3958,8 @@
     "AwayTeamName": "AS Monaco FC",
     "HomeTeamLogo": "https://crests.football-data.org/524.png",
     "AwayTeamLogo": "https://crests.football-data.org/548.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "524": 0,
@@ -4010,8 +4010,8 @@
     "AwayTeamName": "Galatasaray SK",
     "HomeTeamLogo": "https://crests.football-data.org/109.png",
     "AwayTeamLogo": "https://crests.football-data.org/610.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "109": 0,
@@ -4051,7 +4051,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-02-25",
     "DateTime": "2026-02-25T17:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 102,
@@ -4062,11 +4062,11 @@
     "AwayTeamName": "Borussia Dortmund",
     "HomeTeamLogo": "https://crests.football-data.org/102.png",
     "AwayTeamLogo": "https://crests.football-data.org/4.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 1,
+    "Result": 102,
     "Points": {
-      "102": 0,
+      "102": 3,
       "4": 0
     },
     "Goals": []
