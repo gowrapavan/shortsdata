@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-24T06:43:57.684854Z",
+    "last_updated": "2026-02-25T06:47:33.161059Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -643,6 +643,24 @@
                     "nationality": "Nigeria"
                 },
                 {
+                    "player_name": "Jens Hauge",
+                    "team_name": "FK Bodø/Glimt",
+                    "team_crest": "https://crests.football-data.org/5721.png",
+                    "goals": 6,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Norway"
+                },
+                {
+                    "player_name": "Camilo Durán",
+                    "team_name": "Qarabağ Ağdam FK",
+                    "team_crest": "https://crests.football-data.org/611.png",
+                    "goals": 5,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Colombia"
+                },
+                {
                     "player_name": "Marcus Rashford",
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
@@ -659,24 +677,6 @@
                     "assists": 1,
                     "penalties": 2,
                     "nationality": "Argentina"
-                },
-                {
-                    "player_name": "Jens Hauge",
-                    "team_name": "FK Bodø/Glimt",
-                    "team_crest": "https://crests.football-data.org/5721.png",
-                    "goals": 5,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Norway"
-                },
-                {
-                    "player_name": "Harvey Barnes",
-                    "team_name": "Newcastle United FC",
-                    "team_crest": "https://crests.football-data.org/67.png",
-                    "goals": 5,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "England"
                 }
             ]
         }
