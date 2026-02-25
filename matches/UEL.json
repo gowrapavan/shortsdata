@@ -10159,7 +10159,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 322,
@@ -10170,11 +10170,11 @@
     "AwayTeamName": "Derby County FC",
     "HomeTeamLogo": "https://crests.football-data.org/322.png",
     "AwayTeamLogo": "https://crests.football-data.org/342.png",
-    "HomeTeamScore": 3,
+    "HomeTeamScore": 4,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 322,
     "Points": {
-      "322": 0,
+      "322": 3,
       "342": 0
     },
     "Goals": []
@@ -10185,7 +10185,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 343,
@@ -10200,8 +10200,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "343": 0,
-      "338": 0
+      "343": 1,
+      "338": 1
     },
     "Goals": []
   },
@@ -10211,7 +10211,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 340,
@@ -10222,11 +10222,11 @@
     "AwayTeamName": "Queens Park Rangers FC",
     "HomeTeamLogo": "https://crests.football-data.org/340.png",
     "AwayTeamLogo": "https://crests.football-data.org/69.png",
-    "HomeTeamScore": 4,
+    "HomeTeamScore": 5,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 340,
     "Points": {
-      "340": 0,
+      "340": 3,
       "69": 0
     },
     "Goals": []
@@ -10263,7 +10263,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 72,
@@ -10274,12 +10274,12 @@
     "AwayTeamName": "Preston North End FC",
     "HomeTeamLogo": "https://crests.football-data.org/72.png",
     "AwayTeamLogo": "https://crests.football-data.org/1081.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "72": 0,
-      "1081": 0
+      "72": 1,
+      "1081": 1
     },
     "Goals": []
   },
@@ -10289,7 +10289,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 346,
@@ -10302,10 +10302,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/349.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 349,
     "Points": {
       "346": 0,
-      "349": 0
+      "349": 3
     },
     "Goals": []
   },
@@ -10315,7 +10315,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 74,
@@ -10330,8 +10330,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "74": 0,
-      "348": 0
+      "74": 1,
+      "348": 1
     },
     "Goals": []
   },
@@ -10341,7 +10341,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 404,
@@ -10354,9 +10354,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/325.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 404,
     "Points": {
-      "404": 0,
+      "404": 3,
       "325": 0
     },
     "Goals": []
@@ -10367,7 +10367,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 59,
@@ -10380,10 +10380,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/387.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 387,
     "Points": {
       "59": 0,
-      "387": 0
+      "387": 3
     },
     "Goals": []
   },
@@ -11091,10 +11091,10 @@
   },
   {
     "GameId": 541144,
-    "RoundId": 7,
+    "RoundId": 34,
     "RoundName": "Championship",
-    "Date": "2026-03-10",
-    "DateTime": "2026-03-10T19:45:00Z",
+    "Date": "2026-03-11",
+    "DateTime": "2026-03-11T19:45:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -11169,10 +11169,10 @@
   },
   {
     "GameId": 541147,
-    "RoundId": 7,
+    "RoundId": 34,
     "RoundName": "Championship",
-    "Date": "2026-03-10",
-    "DateTime": "2026-03-10T19:45:00Z",
+    "Date": "2026-03-11",
+    "DateTime": "2026-03-11T19:45:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -11299,10 +11299,10 @@
   },
   {
     "GameId": 541152,
-    "RoundId": 7,
+    "RoundId": 34,
     "RoundName": "Championship",
     "Date": "2026-03-11",
-    "DateTime": "2026-03-11T19:45:00Z",
+    "DateTime": "2026-03-11T20:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -11325,7 +11325,7 @@
   },
   {
     "GameId": 541153,
-    "RoundId": 7,
+    "RoundId": 34,
     "RoundName": "Championship",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T19:45:00Z",
@@ -11351,7 +11351,7 @@
   },
   {
     "GameId": 541154,
-    "RoundId": 7,
+    "RoundId": 34,
     "RoundName": "Championship",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T19:45:00Z",
@@ -11377,7 +11377,7 @@
   },
   {
     "GameId": 541155,
-    "RoundId": 7,
+    "RoundId": 34,
     "RoundName": "Championship",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T19:45:00Z",

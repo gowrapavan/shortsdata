@@ -3973,7 +3973,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 67,
@@ -3986,9 +3986,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/611.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 67,
     "Points": {
-      "67": 0,
+      "67": 3,
       "611": 0
     },
     "Goals": []
@@ -4077,7 +4077,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 3,
@@ -4092,8 +4092,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "3": 0,
-      "654": 0
+      "3": 1,
+      "654": 1
     },
     "Goals": []
   },
@@ -4103,7 +4103,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-02-24",
     "DateTime": "2026-02-24T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 108,
@@ -4114,21 +4114,21 @@
     "AwayTeamName": "FK Bodø/Glimt",
     "HomeTeamLogo": "https://crests.football-data.org/108.png",
     "AwayTeamLogo": "https://crests.football-data.org/5721.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 5721,
     "Points": {
       "108": 0,
-      "5721": 0
+      "5721": 3
     },
     "Goals": []
   },
   {
     "GameId": 552068,
-    "RoundId": 2,
+    "RoundId": 8,
     "RoundName": "UEFA Champions League",
-    "Date": "2026-03-10",
-    "DateTime": "2026-03-10T00:00:00Z",
+    "Date": "2026-03-11",
+    "DateTime": "2026-03-11T00:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -4150,10 +4150,10 @@
   },
   {
     "GameId": 552069,
-    "RoundId": 2,
+    "RoundId": 8,
     "RoundName": "UEFA Champions League",
-    "Date": "2026-03-10",
-    "DateTime": "2026-03-10T00:00:00Z",
+    "Date": "2026-03-11",
+    "DateTime": "2026-03-11T00:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -4175,10 +4175,10 @@
   },
   {
     "GameId": 552070,
-    "RoundId": 2,
+    "RoundId": 8,
     "RoundName": "UEFA Champions League",
-    "Date": "2026-03-10",
-    "DateTime": "2026-03-10T00:00:00Z",
+    "Date": "2026-03-11",
+    "DateTime": "2026-03-11T00:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -4200,10 +4200,10 @@
   },
   {
     "GameId": 552071,
-    "RoundId": 2,
+    "RoundId": 8,
     "RoundName": "UEFA Champions League",
-    "Date": "2026-03-10",
-    "DateTime": "2026-03-10T00:00:00Z",
+    "Date": "2026-03-11",
+    "DateTime": "2026-03-11T00:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -4225,7 +4225,7 @@
   },
   {
     "GameId": 552072,
-    "RoundId": 2,
+    "RoundId": 8,
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T00:00:00Z",
@@ -4250,7 +4250,7 @@
   },
   {
     "GameId": 552073,
-    "RoundId": 2,
+    "RoundId": 8,
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T00:00:00Z",
@@ -4275,7 +4275,7 @@
   },
   {
     "GameId": 552074,
-    "RoundId": 2,
+    "RoundId": 8,
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T00:00:00Z",
@@ -4300,7 +4300,7 @@
   },
   {
     "GameId": 552075,
-    "RoundId": 2,
+    "RoundId": 8,
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T00:00:00Z",
