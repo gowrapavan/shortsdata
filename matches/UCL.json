@@ -3921,7 +3921,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-02-25",
     "DateTime": "2026-02-25T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 86,
@@ -3932,11 +3932,11 @@
     "AwayTeamName": "Sport Lisboa e Benfica",
     "HomeTeamLogo": "https://crests.football-data.org/86.png",
     "AwayTeamLogo": "https://crests.football-data.org/1903.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 86,
     "Points": {
-      "86": 0,
+      "86": 3,
       "1903": 0
     },
     "Goals": []
@@ -3947,7 +3947,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-02-25",
     "DateTime": "2026-02-25T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 524,
@@ -3959,11 +3959,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/524.png",
     "AwayTeamLogo": "https://crests.football-data.org/548.png",
     "HomeTeamScore": 2,
-    "AwayTeamScore": 1,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "524": 0,
-      "548": 0
+      "524": 1,
+      "548": 1
     },
     "Goals": []
   },
@@ -3999,7 +3999,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-02-25",
     "DateTime": "2026-02-25T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 109,
@@ -4010,11 +4010,11 @@
     "AwayTeamName": "Galatasaray SK",
     "HomeTeamLogo": "https://crests.football-data.org/109.png",
     "AwayTeamLogo": "https://crests.football-data.org/610.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 109,
     "Points": {
-      "109": 0,
+      "109": 3,
       "610": 0
     },
     "Goals": []

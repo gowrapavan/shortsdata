@@ -10237,7 +10237,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-25",
     "DateTime": "2026-02-25T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 70,
@@ -10250,9 +10250,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/1082.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 70,
     "Points": {
-      "70": 0,
+      "70": 3,
       "1082": 0
     },
     "Goals": []
@@ -10393,7 +10393,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-25",
     "DateTime": "2026-02-25T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 384,
@@ -10406,9 +10406,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/332.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 384,
     "Points": {
-      "384": 0,
+      "384": 3,
       "332": 0
     },
     "Goals": []
@@ -10419,7 +10419,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-25",
     "DateTime": "2026-02-25T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 68,
@@ -10432,9 +10432,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/345.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 68,
     "Points": {
-      "68": 0,
+      "68": 3,
       "345": 0
     },
     "Goals": []
@@ -10445,7 +10445,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-25",
     "DateTime": "2026-02-25T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 356,
@@ -10458,10 +10458,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/1076.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 1076,
     "Points": {
       "356": 0,
-      "1076": 0
+      "1076": 3
     },
     "Goals": []
   },
