@@ -1,49 +1,5 @@
 [
   {
-    "time": "11:00 PM",
-    "game": "football",
-    "league": "الدوري الأوروبي",
-    "home_team": "سيلتا فيغو",
-    "away_team": "باوك",
-    "label": "سيل-باو",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fc2eec9f.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fc3036e1.png",
-    "url": "https://a1.sia-koora.live/albaplayer/bein-4/"
-  },
-  {
-    "time": "11:00 PM",
-    "game": "football",
-    "league": "الدوري الأوروبي",
-    "home_team": "نوتينغهام",
-    "away_team": "فنربخشة",
-    "label": "نوت-فنر",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fc3c6777.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fc3d04a6.png",
-    "url": "https://a3.sia-koora.live/albaplayer/bein-1/"
-  },
-  {
-    "time": "11:00 PM",
-    "game": "football",
-    "league": "دوري المؤتمر الأوروبي",
-    "home_team": "كريستال بالاس",
-    "away_team": "زرينيسكي",
-    "label": "كري-زري",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2f95d7cc8.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2f95dfe89.png",
-    "url": "https://a4.sia-koora.live/albaplayer/bein-2/"
-  },
-  {
-    "time": "11:00 PM",
-    "game": "football",
-    "league": "الدوري الأوروبي",
-    "home_team": "بولونيا",
-    "away_team": "بران",
-    "label": "بول-برا",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fbfddb8f.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fbfe4e27.png",
-    "url": "https://a1.sia-koora.live/albaplayer/bein-5/"
-  },
-  {
     "time": "01:00 AM",
     "game": "football",
     "league": "البطولة الوطنية المغربية",
@@ -63,7 +19,7 @@
     "label": "سرف-ناد",
     "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fc43fcab.png",
     "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fc449546.png",
-    "url": "https://a4.sia-koora.live/albaplayer/bein-2/"
+    "url": ""
   },
   {
     "time": "08:45 PM",
@@ -74,7 +30,7 @@
     "label": "شتو-سيل",
     "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fbd6e243.png",
     "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fbd75f0d.png",
-    "url": "https://a1.sia-koora.live/albaplayer/bein-4/"
+    "url": ""
   },
   {
     "time": "10:00 PM",
@@ -85,6 +41,50 @@
     "label": "الر-الأ",
     "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2f8f92751.png",
     "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2f8f992da.png",
-    "url": "https://a3.sia-koora.live/albaplayer/ssc-1/"
+    "url": ""
+  },
+  {
+    "time": "11:00 PM",
+    "game": "football",
+    "league": "الدوري الأوروبي",
+    "home_team": "نوتينغهام",
+    "away_team": "فنربخشة",
+    "label": "نوت-فنر",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fc3c6777.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fc3d04a6.png",
+    "url": ""
+  },
+  {
+    "time": "11:00 PM",
+    "game": "football",
+    "league": "دوري المؤتمر الأوروبي",
+    "home_team": "كريستال بالاس",
+    "away_team": "زرينيسكي",
+    "label": "كري-زري",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2f95d7cc8.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2f95dfe89.png",
+    "url": ""
+  },
+  {
+    "time": "11:00 PM",
+    "game": "football",
+    "league": "الدوري الأوروبي",
+    "home_team": "بولونيا",
+    "away_team": "بران",
+    "label": "بول-برا",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fbfddb8f.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fbfe4e27.png",
+    "url": ""
+  },
+  {
+    "time": "11:00 PM",
+    "game": "football",
+    "league": "الدوري الأوروبي",
+    "home_team": "سيلتا فيغو",
+    "away_team": "باوك",
+    "label": "سيل-باو",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fc2eec9f.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699e2fc3036e1.png",
+    "url": ""
   }
 ]
