@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 112,
+            "name": "Parma Calcio 1913",
+            "shortName": "Parma",
+            "tla": "PAR",
+            "crest": "https://crests.football-data.org/112.png"
+          },
+          "playedGames": 27,
+          "form": null,
+          "won": 8,
+          "draw": 9,
+          "lost": 10,
+          "points": 33,
+          "goalsFor": 19,
+          "goalsAgainst": 31,
+          "goalDifference": -12
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 115,
             "name": "Udinese Calcio",
             "shortName": "Udinese",
@@ -238,25 +257,6 @@
           "goalDifference": -11
         },
         {
-          "position": 12,
-          "team": {
-            "id": 112,
-            "name": "Parma Calcio 1913",
-            "shortName": "Parma",
-            "tla": "PAR",
-            "crest": "https://crests.football-data.org/112.png"
-          },
-          "playedGames": 26,
-          "form": null,
-          "won": 8,
-          "draw": 8,
-          "lost": 10,
-          "points": 32,
-          "goalsFor": 19,
-          "goalsAgainst": 31,
-          "goalDifference": -12
-        },
-        {
           "position": 13,
           "team": {
             "id": 104,
@@ -265,12 +265,12 @@
             "tla": "CAG",
             "crest": "https://crests.football-data.org/104.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 7,
-          "draw": 8,
+          "draw": 9,
           "lost": 11,
-          "points": 29,
+          "points": 30,
           "goalsFor": 28,
           "goalsAgainst": 35,
           "goalDifference": -7
