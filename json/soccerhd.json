@@ -1,49 +1,5 @@
 [
   {
-    "time": "10:45 PM",
-    "game": "football",
-    "league": "الدوري الفرنسي",
-    "home_team": "ستراسبورغ",
-    "away_team": "لانس",
-    "label": "ستر-لان",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f747a6bd46.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f747a73adc.png",
-    "url": "https://a1.sia-koora.live/albaplayer/bein-4/"
-  },
-  {
-    "time": "10:45 PM",
-    "game": "football",
-    "league": "الدوري الإيطالي",
-    "home_team": "بارما",
-    "away_team": "كالياري",
-    "label": "بار-كال",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c70c3970a.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c70c4224e.png",
-    "url": "https://a1.sia-koora.live/albaplayer/pemium-1/"
-  },
-  {
-    "time": "11:00 PM",
-    "game": "football",
-    "league": "الدوري الإسباني",
-    "home_team": "ليفانتي",
-    "away_team": "ألافيس",
-    "label": "ليف-ألا",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f747a0fbe2.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f747a16b4a.png",
-    "url": "https://a2.sia-koora.live/albaplayer/bein-3/"
-  },
-  {
-    "time": "11:00 PM",
-    "game": "football",
-    "league": "الدوري الإنجليزي",
-    "home_team": "وولفرهامبتون",
-    "away_team": "أستون فيلا",
-    "label": "وول-أست",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f7486b627e.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f7486bfff3.png",
-    "url": "https://a3.sia-koora.live/albaplayer/bein-1/"
-  },
-  {
     "time": "10:00 PM",
     "game": "football",
     "league": "دوري روشن السعودي",
@@ -52,7 +8,7 @@
     "label": "الا-الخ",
     "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f7487610de.png",
     "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f748769945.png",
-    "url": "https://a2.sia-koora.live/albaplayer/ssc-2/"
+    "url": ""
   },
   {
     "time": "10:00 PM",
@@ -63,7 +19,7 @@
     "label": "الش-اله",
     "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f7487b4031.png",
     "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f7487b99c2.png",
-    "url": "https://a3.sia-koora.live/albaplayer/ssc-1/"
+    "url": ""
   },
   {
     "time": "10:30 PM",
@@ -74,6 +30,50 @@
     "label": "أوج-كول",
     "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c70aaae12.png",
     "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c70ab3648.png",
-    "url": "https://a1.sia-koora.live/albaplayer/pemium-2/"
+    "url": ""
+  },
+  {
+    "time": "10:45 PM",
+    "game": "football",
+    "league": "الدوري الفرنسي",
+    "home_team": "ستراسبورغ",
+    "away_team": "لانس",
+    "label": "ستر-لان",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f747a6bd46.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f747a73adc.png",
+    "url": ""
+  },
+  {
+    "time": "10:45 PM",
+    "game": "football",
+    "league": "الدوري الإيطالي",
+    "home_team": "بارما",
+    "away_team": "كالياري",
+    "label": "بار-كال",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c70c3970a.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c70c4224e.png",
+    "url": ""
+  },
+  {
+    "time": "11:00 PM",
+    "game": "football",
+    "league": "الدوري الإنجليزي",
+    "home_team": "وولفرهامبتون",
+    "away_team": "أستون فيلا",
+    "label": "وول-أست",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f7486b627e.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f7486bfff3.png",
+    "url": ""
+  },
+  {
+    "time": "11:00 PM",
+    "game": "football",
+    "league": "الدوري الإسباني",
+    "home_team": "ليفانتي",
+    "away_team": "ألافيس",
+    "label": "ليف-ألا",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f747a0fbe2.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_699f747a16b4a.png",
+    "url": ""
   }
 ]
