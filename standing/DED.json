@@ -78,12 +78,12 @@
           "playedGames": 25,
           "form": null,
           "won": 12,
-          "draw": 8,
-          "lost": 5,
-          "points": 44,
-          "goalsFor": 59,
-          "goalsAgainst": 40,
-          "goalDifference": 19
+          "draw": 7,
+          "lost": 6,
+          "points": 43,
+          "goalsFor": 61,
+          "goalsAgainst": 43,
+          "goalDifference": 18
         },
         {
           "position": 4,
@@ -183,6 +183,25 @@
         {
           "position": 9,
           "team": {
+            "id": 1920,
+            "name": "Fortuna Sittard",
+            "shortName": "Sittard",
+            "tla": "SIT",
+            "crest": "https://crests.football-data.org/1920.png"
+          },
+          "playedGames": 25,
+          "form": null,
+          "won": 9,
+          "draw": 5,
+          "lost": 11,
+          "points": 32,
+          "goalsFor": 39,
+          "goalsAgainst": 45,
+          "goalDifference": -6
+        },
+        {
+          "position": 10,
+          "team": {
             "id": 676,
             "name": "FC Utrecht",
             "shortName": "Utrecht",
@@ -200,7 +219,7 @@
           "goalDifference": 5
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 677,
             "name": "FC Groningen",
@@ -217,25 +236,6 @@
           "goalsFor": 31,
           "goalsAgainst": 32,
           "goalDifference": -1
-        },
-        {
-          "position": 11,
-          "team": {
-            "id": 1920,
-            "name": "Fortuna Sittard",
-            "shortName": "Sittard",
-            "tla": "SIT",
-            "crest": "https://crests.football-data.org/1920.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 8,
-          "draw": 6,
-          "lost": 11,
-          "points": 30,
-          "goalsFor": 36,
-          "goalsAgainst": 43,
-          "goalDifference": -7
         },
         {
           "position": 12,
