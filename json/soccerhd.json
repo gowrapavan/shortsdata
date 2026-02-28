@@ -1,27 +1,5 @@
 [
   {
-    "time": "06:15 PM",
-    "game": "football",
-    "league": "الدوري الإسباني",
-    "home_team": "برشلونة",
-    "away_team": "فياريال",
-    "label": "برش-فيا",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c7273a032.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c72740a21.png",
-    "url": "https://a4.sia-koora.live/albaplayer/bein-2/"
-  },
-  {
-    "time": "07:00 PM",
-    "game": "football",
-    "league": "الدوري الفرنسي",
-    "home_team": "رين",
-    "away_team": "تولوز",
-    "label": "رين-تول",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c72c652bb.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c72c6d255.png",
-    "url": "https://a1.sia-koora.live/albaplayer/bein-5/"
-  },
-  {
     "time": "08:00 PM",
     "game": "football",
     "league": "الدوري الإيطالي",
@@ -31,6 +9,17 @@
     "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c73317f58.png",
     "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c7331faf1.png",
     "url": "https://a1.sia-koora.live/albaplayer/pemium-1/"
+  },
+  {
+    "time": "08:30 PM",
+    "game": "football",
+    "league": "الدوري الإنجليزي",
+    "home_team": "ليدز يونايتد",
+    "away_team": "مان سيتي",
+    "label": "ليد-مان",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c73816f11.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c7381e1e5.png",
+    "url": "https://a3.sia-koora.live/albaplayer/bein-1/"
   },
   {
     "time": "08:30 PM",
@@ -53,17 +42,6 @@
     "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c72755f94.png",
     "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c7275d6eb.png",
     "url": "https://a2.sia-koora.live/albaplayer/bein-3/"
-  },
-  {
-    "time": "08:30 PM",
-    "game": "football",
-    "league": "الدوري الإنجليزي",
-    "home_team": "ليدز يونايتد",
-    "away_team": "مان سيتي",
-    "label": "ليد-مان",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c73816f11.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c7381e1e5.png",
-    "url": "https://a3.sia-koora.live/albaplayer/bein-1/"
   },
   {
     "time": "09:00 PM",
@@ -190,17 +168,6 @@
     "time": "06:00 PM",
     "game": "football",
     "league": "الدوري الإنجليزي",
-    "home_team": "بيرنلي",
-    "away_team": "برينتفورد",
-    "label": "بير-بري",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c73790349.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c73799f42.png",
-    "url": "https://a1.sia-koora.live/albaplayer/bein-4/"
-  },
-  {
-    "time": "06:00 PM",
-    "game": "football",
-    "league": "الدوري الإنجليزي",
     "home_team": "نيوكاسل",
     "away_team": "إيفرتون",
     "label": "نيو-إيف",
@@ -218,5 +185,38 @@
     "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c7386e57e.png",
     "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c738760bb.png",
     "url": "https://a3.sia-koora.live/albaplayer/bein-1/"
+  },
+  {
+    "time": "06:00 PM",
+    "game": "football",
+    "league": "الدوري الإنجليزي",
+    "home_team": "بيرنلي",
+    "away_team": "برينتفورد",
+    "label": "بير-بري",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c73790349.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c73799f42.png",
+    "url": "https://a1.sia-koora.live/albaplayer/bein-4/"
+  },
+  {
+    "time": "06:15 PM",
+    "game": "football",
+    "league": "الدوري الإسباني",
+    "home_team": "برشلونة",
+    "away_team": "فياريال",
+    "label": "برش-فيا",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c7273a032.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c72740a21.png",
+    "url": "https://a4.sia-koora.live/albaplayer/bein-2/"
+  },
+  {
+    "time": "07:00 PM",
+    "game": "football",
+    "league": "الدوري الفرنسي",
+    "home_team": "رين",
+    "away_team": "تولوز",
+    "label": "رين-تول",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c72c652bb.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c72c6d255.png",
+    "url": "https://a1.sia-koora.live/albaplayer/bein-5/"
   }
 ]
