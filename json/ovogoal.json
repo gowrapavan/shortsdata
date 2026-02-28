@@ -51,7 +51,7 @@
     "away_team": "",
     "label": "ovogoal",
     "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
     "url": "https://areagame.net/mma/blog/"
   },
   {
@@ -61,8 +61,74 @@
     "home_team": "",
     "away_team": "",
     "label": "ovogoal",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
     "url": "https://areagame.net/box/stream1/"
+  },
+  {
+    "time": "15:00",
+    "game": "football",
+    "league": "premier",
+    "home_team": "Man United",
+    "away_team": "Cry Palace",
+    "label": "man-cry",
+    "home_logo": "https://crests.football-data.org/66.png",
+    "away_logo": "https://crests.football-data.org/354.png",
+    "url": "https://areagame.net/home/blog1/"
+  },
+  {
+    "time": "15:00",
+    "game": "football",
+    "league": "premier",
+    "home_team": "Fulham",
+    "away_team": "Tottenham",
+    "label": "ful-tot",
+    "home_logo": "https://crests.football-data.org/63.png",
+    "away_logo": "https://crests.football-data.org/73.png",
+    "url": "https://areagame.net/home/blog2/"
+  },
+  {
+    "time": "15:00",
+    "game": "football",
+    "league": "premier",
+    "home_team": "Brighton",
+    "away_team": "Nottingham",
+    "label": "bri-not",
+    "home_logo": "https://crests.football-data.org/397.png",
+    "away_logo": "https://crests.football-data.org/351.png",
+    "url": "https://areagame.net/home/blog3/"
+  },
+  {
+    "time": "17:30",
+    "game": "football",
+    "league": "premier",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "label": "ars-che",
+    "home_logo": "https://crests.football-data.org/57.png",
+    "away_logo": "https://crests.football-data.org/61.png",
+    "url": "https://areagame.net/home/blog1/"
+  },
+  {
+    "time": "12:30",
+    "game": "football",
+    "league": "seriea",
+    "home_team": "Cremonese",
+    "away_team": "Milan",
+    "label": "cre-mil",
+    "home_logo": "https://crests.football-data.org/457.png",
+    "away_logo": "https://crests.football-data.org/98.png",
+    "url": "https://areagame.net/home/blog4/"
+  },
+  {
+    "time": "20:45",
+    "game": "football",
+    "league": "seriea",
+    "home_team": "Roma",
+    "away_team": "Juventus",
+    "label": "rom-juv",
+    "home_logo": "https://crests.football-data.org/100.png",
+    "away_logo": "https://crests.football-data.org/109.png",
+    "url": "https://areagame.net/home/blog4/"
   }
 ]
