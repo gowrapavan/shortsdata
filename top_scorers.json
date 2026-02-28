@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-27T06:36:59.416197Z",
+    "last_updated": "2026-02-28T06:21:51.327603Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -395,6 +395,15 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Joaquín Panichelli",
+                    "team_name": "RC Strasbourg Alsace",
+                    "team_crest": "https://crests.football-data.org/576.png",
+                    "goals": 14,
+                    "assists": 1,
+                    "penalties": 5,
+                    "nationality": "Argentina"
+                },
+                {
                     "player_name": "Mason Greenwood",
                     "team_name": "Olympique de Marseille",
                     "team_crest": "https://crests.football-data.org/516.png",
@@ -402,15 +411,6 @@
                     "assists": 5,
                     "penalties": 5,
                     "nationality": "England"
-                },
-                {
-                    "player_name": "Joaquín Panichelli",
-                    "team_name": "RC Strasbourg Alsace",
-                    "team_crest": "https://crests.football-data.org/576.png",
-                    "goals": 13,
-                    "assists": 1,
-                    "penalties": 5,
-                    "nationality": "Argentina"
                 },
                 {
                     "player_name": "Esteban Lepaul",
