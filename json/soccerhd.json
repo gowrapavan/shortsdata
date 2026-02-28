@@ -1,27 +1,5 @@
 [
   {
-    "time": "03:30 PM",
-    "game": "football",
-    "league": "الدوري الإنجليزي",
-    "home_team": "بورنموث",
-    "away_team": "سندرلاند",
-    "label": "بور-سند",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c737375e2.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c7373dc30.png",
-    "url": "https://a3.sia-koora.live/albaplayer/bein-1/"
-  },
-  {
-    "time": "04:00 PM",
-    "game": "football",
-    "league": "الدوري الإسباني",
-    "home_team": "رايو فاليكانو",
-    "away_team": "أتلتيك بلباو",
-    "label": "راي-أتل",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c727e27b9.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c727ea614.png",
-    "url": "https://a1.sia-koora.live/albaplayer/bein-5/"
-  },
-  {
     "time": "05:00 PM",
     "game": "football",
     "league": "الدوري الإيطالي",
@@ -47,6 +25,17 @@
     "time": "06:00 PM",
     "game": "football",
     "league": "الدوري الإنجليزي",
+    "home_team": "بيرنلي",
+    "away_team": "برينتفورد",
+    "label": "بير-بري",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c73790349.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c73799f42.png",
+    "url": "https://a1.sia-koora.live/albaplayer/bein-4/"
+  },
+  {
+    "time": "06:00 PM",
+    "game": "football",
+    "league": "الدوري الإنجليزي",
     "home_team": "ليفربول",
     "away_team": "وست هام",
     "label": "ليف-وست",
@@ -64,17 +53,6 @@
     "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c738d068e.png",
     "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c738d718d.png",
     "url": "https://a2.sia-koora.live/albaplayer/bein-3/"
-  },
-  {
-    "time": "06:00 PM",
-    "game": "football",
-    "league": "الدوري الإنجليزي",
-    "home_team": "بيرنلي",
-    "away_team": "برينتفورد",
-    "label": "بير-بري",
-    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c73790349.png",
-    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c73799f42.png",
-    "url": "https://a1.sia-koora.live/albaplayer/bein-4/"
   },
   {
     "time": "06:15 PM",
@@ -218,5 +196,27 @@
     "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c72abf4a6.png",
     "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c72ac5fea.png",
     "url": ""
+  },
+  {
+    "time": "03:30 PM",
+    "game": "football",
+    "league": "الدوري الإنجليزي",
+    "home_team": "بورنموث",
+    "away_team": "سندرلاند",
+    "label": "بور-سند",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c737375e2.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c7373dc30.png",
+    "url": "https://a3.sia-koora.live/albaplayer/bein-1/"
+  },
+  {
+    "time": "04:00 PM",
+    "game": "football",
+    "league": "الدوري الإسباني",
+    "home_team": "رايو فاليكانو",
+    "away_team": "أتلتيك بلباو",
+    "label": "راي-أتل",
+    "home_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c727e27b9.png",
+    "away_logo": "https://www.livescorer.net/wp-content/uploads/2026/02/alba_img_69a0c727ea614.png",
+    "url": "https://a1.sia-koora.live/albaplayer/bein-5/"
   }
 ]
