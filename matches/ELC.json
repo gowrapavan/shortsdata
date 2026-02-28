@@ -10497,7 +10497,7 @@
     "RoundName": "Championship",
     "Date": "2026-02-27",
     "DateTime": "2026-02-27T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 387,
@@ -10508,12 +10508,12 @@
     "AwayTeamName": "Watford FC",
     "HomeTeamLogo": "https://crests.football-data.org/387.png",
     "AwayTeamLogo": "https://crests.football-data.org/346.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 346,
     "Points": {
       "387": 0,
-      "346": 0
+      "346": 3
     },
     "Goals": []
   },
