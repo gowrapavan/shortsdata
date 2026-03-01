@@ -6977,7 +6977,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-01",
     "DateTime": "2026-03-01T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 57,
@@ -6990,9 +6990,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/61.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 57,
     "Points": {
-      "57": 0,
+      "57": 3,
       "61": 0
     },
     "Goals": []
