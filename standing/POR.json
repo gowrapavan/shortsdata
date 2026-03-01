@@ -145,6 +145,25 @@
         {
           "position": 7,
           "team": {
+            "id": 583,
+            "name": "Moreirense FC",
+            "shortName": "Moreirense",
+            "tla": "MOR",
+            "crest": "https://crests.football-data.org/583.png"
+          },
+          "playedGames": 24,
+          "form": null,
+          "won": 10,
+          "draw": 4,
+          "lost": 10,
+          "points": 34,
+          "goalsFor": 30,
+          "goalsAgainst": 34,
+          "goalDifference": -4
+        },
+        {
+          "position": 8,
+          "team": {
             "id": 582,
             "name": "GD Estoril Praia",
             "shortName": "Estoril Praia",
@@ -160,25 +179,6 @@
           "goalsFor": 46,
           "goalsAgainst": 42,
           "goalDifference": 4
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 583,
-            "name": "Moreirense FC",
-            "shortName": "Moreirense",
-            "tla": "MOR",
-            "crest": "https://crests.football-data.org/583.png"
-          },
-          "playedGames": 23,
-          "form": null,
-          "won": 10,
-          "draw": 3,
-          "lost": 10,
-          "points": 33,
-          "goalsFor": 29,
-          "goalsAgainst": 33,
-          "goalDifference": -4
         },
         {
           "position": 9,
@@ -265,14 +265,14 @@
             "tla": "CAS",
             "crest": "https://crests.football-data.org/6618.png"
           },
-          "playedGames": 23,
+          "playedGames": 24,
           "form": null,
           "won": 5,
-          "draw": 7,
+          "draw": 8,
           "lost": 11,
-          "points": 22,
-          "goalsFor": 25,
-          "goalsAgainst": 43,
+          "points": 23,
+          "goalsFor": 26,
+          "goalsAgainst": 44,
           "goalDifference": -18
         },
         {
@@ -322,14 +322,14 @@
             "tla": "CD ",
             "crest": "https://crests.football-data.org/5530.png"
           },
-          "playedGames": 23,
+          "playedGames": 24,
           "form": null,
           "won": 4,
-          "draw": 6,
+          "draw": 7,
           "lost": 13,
-          "points": 18,
-          "goalsFor": 18,
-          "goalsAgainst": 29,
+          "points": 19,
+          "goalsFor": 20,
+          "goalsAgainst": 31,
           "goalDifference": -11
         },
         {
@@ -341,14 +341,14 @@
             "tla": "TON",
             "crest": "https://crests.football-data.org/1049.png"
           },
-          "playedGames": 23,
+          "playedGames": 24,
           "form": null,
           "won": 4,
-          "draw": 6,
+          "draw": 7,
           "lost": 13,
-          "points": 18,
-          "goalsFor": 17,
-          "goalsAgainst": 36,
+          "points": 19,
+          "goalsFor": 19,
+          "goalsAgainst": 38,
           "goalDifference": -19
         },
         {
