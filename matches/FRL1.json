@@ -5349,7 +5349,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-03-01",
     "DateTime": "2026-03-01T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 525,
@@ -5360,12 +5360,12 @@
     "AwayTeamName": "AJ Auxerre",
     "HomeTeamLogo": "https://crests.football-data.org/525.png",
     "AwayTeamLogo": "https://crests.football-data.org/519.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "525": 0,
-      "519": 0
+      "525": 1,
+      "519": 1
     },
     "Goals": []
   },
@@ -5375,7 +5375,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-03-01",
     "DateTime": "2026-03-01T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 545,
@@ -5386,12 +5386,12 @@
     "AwayTeamName": "Stade Brestois 29",
     "HomeTeamLogo": "https://crests.football-data.org/545.png",
     "AwayTeamLogo": "https://crests.football-data.org/512.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 512,
     "Points": {
       "545": 0,
-      "512": 0
+      "512": 3
     },
     "Goals": []
   },
@@ -5401,7 +5401,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-03-01",
     "DateTime": "2026-03-01T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1045,
@@ -5414,9 +5414,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/522.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 1045,
     "Points": {
-      "1045": 0,
+      "1045": 3,
       "522": 0
     },
     "Goals": []
@@ -5453,7 +5453,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-03-01",
     "DateTime": "2026-03-01T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 521,
@@ -5464,11 +5464,11 @@
     "AwayTeamName": "FC Nantes",
     "HomeTeamLogo": "https://crests.football-data.org/521.png",
     "AwayTeamLogo": "https://crests.football-data.org/543.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 521,
     "Points": {
-      "521": 0,
+      "521": 3,
       "543": 0
     },
     "Goals": []

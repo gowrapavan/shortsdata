@@ -6951,7 +6951,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-01",
     "DateTime": "2026-03-01T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 397,
@@ -6964,9 +6964,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/351.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 397,
     "Points": {
-      "397": 0,
+      "397": 3,
       "351": 0
     },
     "Goals": []
@@ -6988,8 +6988,8 @@
     "AwayTeamName": "Chelsea FC",
     "HomeTeamLogo": "https://crests.football-data.org/57.png",
     "AwayTeamLogo": "https://crests.football-data.org/61.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "57": 0,
@@ -7029,7 +7029,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-01",
     "DateTime": "2026-03-01T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 63,
@@ -7041,10 +7041,10 @@
     "HomeTeamLogo": "https://crests.football-data.org/63.png",
     "AwayTeamLogo": "https://crests.football-data.org/73.png",
     "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 63,
     "Points": {
-      "63": 0,
+      "63": 3,
       "73": 0
     },
     "Goals": []
@@ -7107,7 +7107,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-01",
     "DateTime": "2026-03-01T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 66,
@@ -7118,11 +7118,11 @@
     "AwayTeamName": "Crystal Palace FC",
     "HomeTeamLogo": "https://crests.football-data.org/66.png",
     "AwayTeamLogo": "https://crests.football-data.org/354.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 66,
     "Points": {
-      "66": 0,
+      "66": 3,
       "354": 0
     },
     "Goals": []

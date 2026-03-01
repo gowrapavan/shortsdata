@@ -6748,8 +6748,8 @@
     "AwayTeamName": "SS Lazio",
     "HomeTeamLogo": "https://crests.football-data.org/586.png",
     "AwayTeamLogo": "https://crests.football-data.org/110.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "586": 0,
@@ -6867,7 +6867,7 @@
     "RoundName": "Serie A",
     "Date": "2026-03-01",
     "DateTime": "2026-03-01T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 471,
@@ -6878,11 +6878,11 @@
     "AwayTeamName": "Atalanta BC",
     "HomeTeamLogo": "https://crests.football-data.org/471.png",
     "AwayTeamLogo": "https://crests.football-data.org/102.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 471,
     "Points": {
-      "471": 0,
+      "471": 3,
       "102": 0
     },
     "Goals": []
