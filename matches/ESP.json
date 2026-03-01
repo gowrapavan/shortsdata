@@ -6389,7 +6389,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-02-28",
     "DateTime": "2026-02-28T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 81,
@@ -6400,11 +6400,11 @@
     "AwayTeamName": "Villarreal CF",
     "HomeTeamLogo": "https://crests.football-data.org/81.png",
     "AwayTeamLogo": "https://crests.football-data.org/94.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 1,
+    "Result": 81,
     "Points": {
-      "81": 0,
+      "81": 3,
       "94": 0
     },
     "Goals": []
@@ -6467,7 +6467,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-02-28",
     "DateTime": "2026-02-28T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 89,
@@ -6478,12 +6478,12 @@
     "AwayTeamName": "Real Sociedad de Fútbol",
     "HomeTeamLogo": "https://crests.football-data.org/89.png",
     "AwayTeamLogo": "https://crests.football-data.org/92.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 92,
     "Points": {
       "89": 0,
-      "92": 0
+      "92": 3
     },
     "Goals": []
   },
@@ -6519,7 +6519,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-02-28",
     "DateTime": "2026-02-28T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 87,
@@ -6530,12 +6530,12 @@
     "AwayTeamName": "Athletic Club",
     "HomeTeamLogo": "https://crests.football-data.org/87.png",
     "AwayTeamLogo": "https://crests.football-data.org/77.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "87": 0,
-      "77": 0
+      "87": 1,
+      "77": 1
     },
     "Goals": []
   },
@@ -6545,7 +6545,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-02-28",
     "DateTime": "2026-02-28T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1048,
@@ -6556,12 +6556,12 @@
     "AwayTeamName": "Club Atlético de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/1048.png",
     "AwayTeamLogo": "https://crests.football-data.org/78.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 78,
     "Points": {
       "1048": 0,
-      "78": 0
+      "78": 3
     },
     "Goals": []
   },

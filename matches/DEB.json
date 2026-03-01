@@ -5315,7 +5315,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-02-28",
     "DateTime": "2026-02-28T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 4,
@@ -5326,12 +5326,12 @@
     "AwayTeamName": "FC Bayern München",
     "HomeTeamLogo": "https://crests.football-data.org/4.png",
     "AwayTeamLogo": "https://crests.football-data.org/5.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 5,
     "Points": {
       "4": 0,
-      "5": 0
+      "5": 3
     },
     "Goals": []
   },
@@ -5367,7 +5367,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-02-28",
     "DateTime": "2026-02-28T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 3,
@@ -5378,12 +5378,12 @@
     "AwayTeamName": "1. FSV Mainz 05",
     "HomeTeamLogo": "https://crests.football-data.org/3.png",
     "AwayTeamLogo": "https://crests.football-data.org/15.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "3": 0,
-      "15": 0
+      "3": 1,
+      "15": 1
     },
     "Goals": []
   },
@@ -5445,7 +5445,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-02-28",
     "DateTime": "2026-02-28T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 18,
@@ -5456,11 +5456,11 @@
     "AwayTeamName": "1. FC Union Berlin",
     "HomeTeamLogo": "https://crests.football-data.org/18.png",
     "AwayTeamLogo": "https://crests.football-data.org/28.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 18,
     "Points": {
-      "18": 0,
+      "18": 3,
       "28": 0
     },
     "Goals": []
@@ -5471,7 +5471,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-02-28",
     "DateTime": "2026-02-28T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 2,
@@ -5482,12 +5482,12 @@
     "AwayTeamName": "FC St. Pauli 1910",
     "HomeTeamLogo": "https://crests.football-data.org/2.png",
     "AwayTeamLogo": "https://crests.football-data.org/20.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 20,
     "Points": {
       "2": 0,
-      "20": 0
+      "20": 3
     },
     "Goals": []
   },
@@ -5497,7 +5497,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-02-28",
     "DateTime": "2026-02-28T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 12,
@@ -5508,11 +5508,11 @@
     "AwayTeamName": "1. FC Heidenheim 1846",
     "HomeTeamLogo": "https://crests.football-data.org/12.png",
     "AwayTeamLogo": "https://crests.football-data.org/44.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 12,
     "Points": {
-      "12": 0,
+      "12": 3,
       "44": 0
     },
     "Goals": []
