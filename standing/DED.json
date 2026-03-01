@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 718,
+            "name": "Go Ahead Eagles",
+            "shortName": "Go Ahead",
+            "tla": "GOA",
+            "crest": "https://crests.football-data.org/718.png"
+          },
+          "playedGames": 25,
+          "form": null,
+          "won": 6,
+          "draw": 11,
+          "lost": 8,
+          "points": 29,
+          "goalsFor": 38,
+          "goalsAgainst": 39,
+          "goalDifference": -1
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 684,
             "name": "PEC Zwolle",
             "shortName": "Zwolle",
@@ -255,25 +274,6 @@
           "goalsFor": 34,
           "goalsAgainst": 50,
           "goalDifference": -16
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 718,
-            "name": "Go Ahead Eagles",
-            "shortName": "Go Ahead",
-            "tla": "GOA",
-            "crest": "https://crests.football-data.org/718.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 5,
-          "draw": 12,
-          "lost": 8,
-          "points": 27,
-          "goalsFor": 37,
-          "goalsAgainst": 39,
-          "goalDifference": -2
         },
         {
           "position": 14,
@@ -306,12 +306,12 @@
           "playedGames": 25,
           "form": null,
           "won": 7,
-          "draw": 6,
-          "lost": 12,
-          "points": 27,
+          "draw": 5,
+          "lost": 13,
+          "points": 26,
           "goalsFor": 26,
-          "goalsAgainst": 41,
-          "goalDifference": -15
+          "goalsAgainst": 42,
+          "goalDifference": -16
         },
         {
           "position": 16,

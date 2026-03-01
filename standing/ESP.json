@@ -134,13 +134,13 @@
           },
           "playedGames": 26,
           "form": null,
-          "won": 9,
-          "draw": 11,
+          "won": 10,
+          "draw": 10,
           "lost": 6,
-          "points": 38,
-          "goalsFor": 34,
-          "goalsAgainst": 27,
-          "goalDifference": 7
+          "points": 40,
+          "goalsFor": 36,
+          "goalsAgainst": 28,
+          "goalDifference": 8
         },
         {
           "position": 7,
@@ -221,25 +221,6 @@
         {
           "position": 11,
           "team": {
-            "id": 298,
-            "name": "Girona FC",
-            "shortName": "Girona",
-            "tla": "GIR",
-            "crest": "https://crests.football-data.org/298.png"
-          },
-          "playedGames": 26,
-          "form": null,
-          "won": 7,
-          "draw": 10,
-          "lost": 9,
-          "points": 31,
-          "goalsFor": 26,
-          "goalsAgainst": 40,
-          "goalDifference": -14
-        },
-        {
-          "position": 12,
-          "team": {
             "id": 559,
             "name": "Sevilla FC",
             "shortName": "Sevilla FC",
@@ -255,6 +236,25 @@
           "goalsFor": 34,
           "goalsAgainst": 41,
           "goalDifference": -7
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": 298,
+            "name": "Girona FC",
+            "shortName": "Girona",
+            "tla": "GIR",
+            "crest": "https://crests.football-data.org/298.png"
+          },
+          "playedGames": 26,
+          "form": null,
+          "won": 7,
+          "draw": 9,
+          "lost": 10,
+          "points": 30,
+          "goalsFor": 27,
+          "goalsAgainst": 42,
+          "goalDifference": -15
         },
         {
           "position": 13,
