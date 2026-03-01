@@ -5576,8 +5576,8 @@
     "AwayTeamName": "FC Groningen",
     "HomeTeamLogo": "https://crests.football-data.org/1919.png",
     "AwayTeamLogo": "https://crests.football-data.org/677.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "1919": 0,
@@ -5643,7 +5643,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-03-01",
     "DateTime": "2026-03-01T11:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 684,
@@ -5654,12 +5654,12 @@
     "AwayTeamName": "AFC Ajax",
     "HomeTeamLogo": "https://crests.football-data.org/684.png",
     "AwayTeamLogo": "https://crests.football-data.org/678.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "684": 0,
-      "678": 0
+      "684": 1,
+      "678": 1
     },
     "Goals": []
   },
@@ -5732,8 +5732,8 @@
     "AwayTeamName": "Feyenoord Rotterdam",
     "HomeTeamLogo": "https://crests.football-data.org/666.png",
     "AwayTeamLogo": "https://crests.football-data.org/675.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "666": 0,
