@@ -1769,7 +1769,7 @@
     ],
     "coach": {
       "id": 155925,
-      "firstName": "",
+      "firstName": "Álvaro",
       "lastName": "Arbeloa",
       "name": "Arbeloa",
       "dateOfBirth": "1983-01-17",
@@ -1900,6 +1900,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 291727,
+        "name": "Manuel Angel",
+        "position": "Midfield",
+        "dateOfBirth": "2004-03-15",
+        "nationality": "Spain"
+      },
+      {
         "id": 263282,
         "name": "Álvaro Leiva",
         "position": "Offence",
@@ -1918,6 +1925,13 @@
         "name": "Pol Fortuny",
         "position": "Offence",
         "dateOfBirth": "2005-03-11",
+        "nationality": "Spain"
+      },
+      {
+        "id": 191727,
+        "name": "Dean Huijsen",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-04-14",
         "nationality": "Spain"
       },
       {
@@ -2044,13 +2058,6 @@
         "name": "Gonzalo García",
         "position": "Right Winger",
         "dateOfBirth": "2004-03-24",
-        "nationality": "Spain"
-      },
-      {
-        "id": 191727,
-        "name": "Dean Huijsen",
-        "position": "Centre-Back",
-        "dateOfBirth": "2005-04-14",
         "nationality": "Spain"
       }
     ],
@@ -2660,15 +2667,15 @@
       }
     ],
     "coach": {
-      "id": 32442,
-      "firstName": "",
-      "lastName": "Jagoba Arrasate",
-      "name": "Jagoba Arrasate",
-      "dateOfBirth": "1978-04-22",
-      "nationality": "Spain",
+      "id": 193157,
+      "firstName": "Martín",
+      "lastName": "Demichelis",
+      "name": "Martín Demichelis",
+      "dateOfBirth": "1980-12-20",
+      "nationality": "Argentina",
       "contract": {
-        "start": "2024-07",
-        "until": "2027-06"
+        "start": "2026-02",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -3855,8 +3862,8 @@
     ],
     "coach": {
       "id": 149937,
-      "firstName": "",
-      "lastName": "Carlos Corberán",
+      "firstName": "Carlos",
+      "lastName": "Corberán",
       "name": "Carlos Corberán",
       "dateOfBirth": "1983-04-07",
       "nationality": "Spain",
@@ -3900,6 +3907,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2005-02-15",
         "nationality": "Spain"
+      },
+      {
+        "id": 46563,
+        "name": "Renzo Saravia",
+        "position": "Defence",
+        "dateOfBirth": "1993-06-16",
+        "nationality": "Argentina"
       },
       {
         "id": 202483,
@@ -5159,6 +5173,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 175892,
+        "name": "Hugo Gonzalez",
+        "position": "Right Winger",
+        "dateOfBirth": "2003-02-07",
+        "nationality": "Spain"
+      },
+      {
         "id": 175869,
         "name": "Hugo Alvarez",
         "position": "Left Winger",
@@ -5289,13 +5310,6 @@
         "name": "Pablo Duran",
         "position": "Centre-Forward",
         "dateOfBirth": "2001-05-25",
-        "nationality": "Spain"
-      },
-      {
-        "id": 175892,
-        "name": "Hugo Gonzalez",
-        "position": "Right Winger",
-        "dateOfBirth": "2003-02-07",
         "nationality": "Spain"
       }
     ],
@@ -5632,7 +5646,7 @@
     ],
     "coach": {
       "id": 181409,
-      "firstName": "Jorge",
+      "firstName": "Guillermo",
       "lastName": "Almada",
       "name": "Jorge Almada",
       "dateOfBirth": "1969-06-18",
@@ -5712,6 +5726,13 @@
         "position": "Defence",
         "dateOfBirth": "2002-01-01",
         "nationality": "Niger"
+      },
+      {
+        "id": 244676,
+        "name": "Diego Espinosa",
+        "position": "Defence",
+        "dateOfBirth": "2004-07-02",
+        "nationality": "Spain"
       },
       {
         "id": 277618,

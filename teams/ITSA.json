@@ -1486,6 +1486,13 @@
         "nationality": "Bulgaria"
       },
       {
+        "id": 293161,
+        "name": "Roberto Malfitano",
+        "position": "Midfield",
+        "dateOfBirth": "2007-06-18",
+        "nationality": "Italy"
+      },
+      {
         "id": 114054,
         "name": "Sebastiano Esposito",
         "position": "Offence",
@@ -1751,6 +1758,13 @@
         "position": "Defence",
         "dateOfBirth": "2007-02-22",
         "nationality": "Slovenia"
+      },
+      {
+        "id": 292956,
+        "name": "Mamedi Doucouré",
+        "position": "Defence",
+        "dateOfBirth": "2007-01-19",
+        "nationality": "France"
       },
       {
         "id": 179561,
@@ -2336,11 +2350,25 @@
         "nationality": "Italy"
       },
       {
+        "id": 270540,
+        "name": "Javier Gil",
+        "position": "Defence",
+        "dateOfBirth": "2006-05-03",
+        "nationality": "Spain"
+      },
+      {
         "id": 221357,
         "name": "Lorenzo Anghelè",
         "position": "Offence",
         "dateOfBirth": "2005-02-26",
         "nationality": "Italy"
+      },
+      {
+        "id": 111777,
+        "name": "Emil Holm",
+        "position": "Right-Back",
+        "dateOfBirth": "2000-05-13",
+        "nationality": "Sweden"
       },
       {
         "id": 99251,
@@ -2488,13 +2516,6 @@
         "position": "Left-Back",
         "dateOfBirth": "2001-01-08",
         "nationality": "Colombia"
-      },
-      {
-        "id": 111777,
-        "name": "Emil Holm",
-        "position": "Right-Back",
-        "dateOfBirth": "2000-05-13",
-        "nationality": "Sweden"
       }
     ],
     "staff": [],
@@ -2877,6 +2898,13 @@
         "nationality": "Slovenia"
       },
       {
+        "id": 292945,
+        "name": "Marlon Mena",
+        "position": "Defence",
+        "dateOfBirth": "2006-10-05",
+        "nationality": "Dominican Republic"
+      },
+      {
         "id": 180499,
         "name": "Oliver Sørensen",
         "position": "Midfield",
@@ -3036,13 +3064,6 @@
         "position": "Right-Back",
         "dateOfBirth": "1999-11-10",
         "nationality": "Italy"
-      },
-      {
-        "id": 292945,
-        "name": "Marlon Mena",
-        "position": null,
-        "dateOfBirth": "2006-10-05",
-        "nationality": "Dominican Republic"
       },
       {
         "id": 263878,
@@ -4761,15 +4782,15 @@
       }
     ],
     "coach": {
-      "id": 11020,
-      "firstName": "Marco",
-      "lastName": "Baroni",
-      "name": "Marco Baroni",
-      "dateOfBirth": "1963-09-11",
+      "id": 40151,
+      "firstName": "Roberto",
+      "lastName": "D'Aversa",
+      "name": "Roberto D'Aversa",
+      "dateOfBirth": "1975-08-12",
       "nationality": "Italy",
       "contract": {
-        "start": "2025-06",
-        "until": "2027-06"
+        "start": "2026-02",
+        "until": "2026-06"
       }
     },
     "squad": [
