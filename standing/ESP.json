@@ -59,12 +59,12 @@
           "playedGames": 26,
           "form": null,
           "won": 19,
-          "draw": 4,
-          "lost": 3,
-          "points": 61,
+          "draw": 3,
+          "lost": 4,
+          "points": 60,
           "goalsFor": 54,
-          "goalsAgainst": 21,
-          "goalDifference": 33
+          "goalsAgainst": 22,
+          "goalDifference": 32
         },
         {
           "position": 3,
@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 82,
+            "name": "Getafe CF",
+            "shortName": "Getafe",
+            "tla": "GET",
+            "crest": "https://crests.football-data.org/82.png"
+          },
+          "playedGames": 26,
+          "form": null,
+          "won": 9,
+          "draw": 5,
+          "lost": 12,
+          "points": 32,
+          "goalsFor": 21,
+          "goalsAgainst": 29,
+          "goalDifference": -8
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 559,
             "name": "Sevilla FC",
             "shortName": "Sevilla FC",
@@ -238,7 +257,7 @@
           "goalDifference": -7
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 298,
             "name": "Girona FC",
@@ -255,25 +274,6 @@
           "goalsFor": 27,
           "goalsAgainst": 42,
           "goalDifference": -15
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 82,
-            "name": "Getafe CF",
-            "shortName": "Getafe",
-            "tla": "GET",
-            "crest": "https://crests.football-data.org/82.png"
-          },
-          "playedGames": 26,
-          "form": null,
-          "won": 8,
-          "draw": 6,
-          "lost": 12,
-          "points": 30,
-          "goalsFor": 20,
-          "goalsAgainst": 29,
-          "goalDifference": -9
         },
         {
           "position": 14,
