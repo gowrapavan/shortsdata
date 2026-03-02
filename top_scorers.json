@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-01T06:31:26.273359Z",
+    "last_updated": "2026-03-02T06:40:37.608360Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -70,6 +70,15 @@
                     "nationality": "England"
                 },
                 {
+                    "player_name": "Danny Welbeck",
+                    "team_name": "Brighton & Hove Albion FC",
+                    "team_crest": "https://crests.football-data.org/397.png",
+                    "goals": 10,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Bruno Guimarães",
                     "team_name": "Newcastle United FC",
                     "team_crest": "https://crests.football-data.org/67.png",
@@ -86,15 +95,6 @@
                     "assists": 3,
                     "penalties": null,
                     "nationality": "Cameroon"
-                },
-                {
-                    "player_name": "Danny Welbeck",
-                    "team_name": "Brighton & Hove Albion FC",
-                    "team_crest": "https://crests.football-data.org/397.png",
-                    "goals": 9,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "England"
                 }
             ]
         },
@@ -237,6 +237,15 @@
                     "nationality": "Denmark"
                 },
                 {
+                    "player_name": "Rafael Leão",
+                    "team_name": "AC Milan",
+                    "team_crest": "https://crests.football-data.org/98.png",
+                    "goals": 9,
+                    "assists": 2,
+                    "penalties": 2,
+                    "nationality": "Portugal"
+                },
+                {
                     "player_name": "Christian Pulisic",
                     "team_name": "AC Milan",
                     "team_crest": "https://crests.football-data.org/98.png",
@@ -273,15 +282,6 @@
                     "nationality": "Italy"
                 },
                 {
-                    "player_name": "Rafael Leão",
-                    "team_name": "AC Milan",
-                    "team_crest": "https://crests.football-data.org/98.png",
-                    "goals": 8,
-                    "assists": 2,
-                    "penalties": 2,
-                    "nationality": "Portugal"
-                },
-                {
                     "player_name": "Marcus Thuram-Ulien",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
@@ -307,6 +307,15 @@
                     "nationality": "England"
                 },
                 {
+                    "player_name": "Deniz Undav",
+                    "team_name": "VfB Stuttgart",
+                    "team_crest": "https://crests.football-data.org/10.png",
+                    "goals": 14,
+                    "assists": 3,
+                    "penalties": null,
+                    "nationality": "Germany"
+                },
+                {
                     "player_name": "Luis Díaz",
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
@@ -314,15 +323,6 @@
                     "assists": 8,
                     "penalties": null,
                     "nationality": "Colombia"
-                },
-                {
-                    "player_name": "Deniz Undav",
-                    "team_name": "VfB Stuttgart",
-                    "team_crest": "https://crests.football-data.org/10.png",
-                    "goals": 13,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "Germany"
                 },
                 {
                     "player_name": "Sehrou Guirassy",
@@ -458,6 +458,15 @@
                     "nationality": "Czech Republic"
                 },
                 {
+                    "player_name": "Pierre-Emerick Aubameyang",
+                    "team_name": "Olympique de Marseille",
+                    "team_crest": "https://crests.football-data.org/516.png",
+                    "goals": 8,
+                    "assists": 5,
+                    "penalties": null,
+                    "nationality": "Gabon"
+                },
+                {
                     "player_name": "Ilan Kebbal",
                     "team_name": "Paris FC",
                     "team_crest": "https://crests.football-data.org/1045.png",
@@ -471,17 +480,8 @@
                     "team_name": "FC Lorient",
                     "team_crest": "https://crests.football-data.org/525.png",
                     "goals": 8,
-                    "assists": null,
+                    "assists": 1,
                     "penalties": 1,
-                    "nationality": "France"
-                },
-                {
-                    "player_name": "Ousmane Dembélé",
-                    "team_name": "Paris Saint-Germain FC",
-                    "team_crest": "https://crests.football-data.org/524.png",
-                    "goals": 8,
-                    "assists": 4,
-                    "penalties": 2,
                     "nationality": "France"
                 }
             ]
