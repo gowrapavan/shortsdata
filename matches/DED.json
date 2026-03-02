@@ -5513,7 +5513,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-03-01",
     "DateTime": "2026-03-01T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 670,
@@ -5524,12 +5524,12 @@
     "AwayTeamName": "Go Ahead Eagles",
     "HomeTeamLogo": "https://crests.football-data.org/670.png",
     "AwayTeamLogo": "https://crests.football-data.org/718.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 718,
     "Points": {
       "670": 0,
-      "718": 0
+      "718": 3
     },
     "Goals": []
   },
@@ -5539,7 +5539,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-03-01",
     "DateTime": "2026-03-01T15:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 676,
@@ -5552,9 +5552,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/682.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 676,
     "Points": {
-      "676": 0,
+      "676": 3,
       "682": 0
     },
     "Goals": []
