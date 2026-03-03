@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-02T06:40:37.608360Z",
+    "last_updated": "2026-03-03T06:34:54.867062Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -255,6 +255,15 @@
                     "nationality": "USA"
                 },
                 {
+                    "player_name": "Keinan Davis",
+                    "team_name": "Udinese Calcio",
+                    "team_crest": "https://crests.football-data.org/115.png",
+                    "goals": 8,
+                    "assists": 3,
+                    "penalties": 4,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Hakan Çalhanoğlu",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
@@ -280,15 +289,6 @@
                     "assists": 1,
                     "penalties": 2,
                     "nationality": "Italy"
-                },
-                {
-                    "player_name": "Marcus Thuram-Ulien",
-                    "team_name": "FC Internazionale Milano",
-                    "team_crest": "https://crests.football-data.org/108.png",
-                    "goals": 7,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "France"
                 }
             ]
         },
