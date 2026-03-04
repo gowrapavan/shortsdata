@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 87,
+            "name": "Rayo Vallecano de Madrid",
+            "shortName": "Rayo Vallecano",
+            "tla": "RAY",
+            "crest": "https://crests.football-data.org/87.png"
+          },
+          "playedGames": 26,
+          "form": null,
+          "won": 7,
+          "draw": 9,
+          "lost": 10,
+          "points": 30,
+          "goalsFor": 26,
+          "goalsAgainst": 32,
+          "goalDifference": -6
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 559,
             "name": "Sevilla FC",
             "shortName": "Sevilla FC",
@@ -257,7 +276,7 @@
           "goalDifference": -7
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 298,
             "name": "Girona FC",
@@ -276,7 +295,7 @@
           "goalDifference": -15
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 95,
             "name": "Valencia CF",
@@ -293,25 +312,6 @@
           "goalsFor": 27,
           "goalsAgainst": 39,
           "goalDifference": -12
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 87,
-            "name": "Rayo Vallecano de Madrid",
-            "shortName": "Rayo Vallecano",
-            "tla": "RAY",
-            "crest": "https://crests.football-data.org/87.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 6,
-          "draw": 9,
-          "lost": 10,
-          "points": 27,
-          "goalsFor": 23,
-          "goalsAgainst": 32,
-          "goalDifference": -9
         },
         {
           "position": 16,
@@ -398,15 +398,15 @@
             "tla": "OVI",
             "crest": "https://crests.football-data.org/1048.png"
           },
-          "playedGames": 25,
+          "playedGames": 26,
           "form": null,
           "won": 3,
           "draw": 8,
-          "lost": 14,
+          "lost": 15,
           "points": 17,
           "goalsFor": 16,
-          "goalsAgainst": 40,
-          "goalDifference": -24
+          "goalsAgainst": 43,
+          "goalDifference": -27
         }
       ]
     }
