@@ -78,12 +78,12 @@
           "playedGames": 29,
           "form": null,
           "won": 14,
-          "draw": 10,
-          "lost": 5,
-          "points": 52,
+          "draw": 9,
+          "lost": 6,
+          "points": 51,
           "goalsFor": 51,
-          "goalsAgainst": 39,
-          "goalDifference": 12
+          "goalsAgainst": 40,
+          "goalDifference": 11
         },
         {
           "position": 4,
@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 67,
+            "name": "Newcastle United FC",
+            "shortName": "Newcastle",
+            "tla": "NEW",
+            "crest": "https://crests.football-data.org/67.png"
+          },
+          "playedGames": 29,
+          "form": null,
+          "won": 11,
+          "draw": 6,
+          "lost": 12,
+          "points": 39,
+          "goalsFor": 42,
+          "goalsAgainst": 43,
+          "goalDifference": -1
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 397,
             "name": "Brighton & Hove Albion FC",
             "shortName": "Brighton Hove",
@@ -255,25 +274,6 @@
           "goalsFor": 38,
           "goalsAgainst": 36,
           "goalDifference": 2
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 67,
-            "name": "Newcastle United FC",
-            "shortName": "Newcastle",
-            "tla": "NEW",
-            "crest": "https://crests.football-data.org/67.png"
-          },
-          "playedGames": 29,
-          "form": null,
-          "won": 10,
-          "draw": 7,
-          "lost": 12,
-          "points": 37,
-          "goalsFor": 41,
-          "goalsAgainst": 43,
-          "goalDifference": -2
         },
         {
           "position": 14,
