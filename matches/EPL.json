@@ -7211,7 +7211,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-04",
     "DateTime": "2026-03-04T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 58,
@@ -7224,10 +7224,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/61.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 4,
-    "Result": null,
+    "Result": 61,
     "Points": {
       "58": 0,
-      "61": 0
+      "61": 3
     },
     "Goals": []
   },
@@ -7237,7 +7237,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-04",
     "DateTime": "2026-03-04T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 397,
@@ -7250,10 +7250,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 57,
     "Points": {
       "397": 0,
-      "57": 0
+      "57": 3
     },
     "Goals": []
   },
@@ -7289,7 +7289,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-04",
     "DateTime": "2026-03-04T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 63,
@@ -7302,10 +7302,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/563.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 563,
     "Points": {
       "63": 0,
-      "563": 0
+      "563": 3
     },
     "Goals": []
   },
@@ -7341,7 +7341,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-04",
     "DateTime": "2026-03-04T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 65,
@@ -7356,8 +7356,8 @@
     "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "65": 0,
-      "351": 0
+      "65": 1,
+      "351": 1
     },
     "Goals": []
   },
@@ -7367,7 +7367,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-04",
     "DateTime": "2026-03-04T20:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 67,
@@ -7378,11 +7378,11 @@
     "AwayTeamName": "Manchester United FC",
     "HomeTeamLogo": "https://crests.football-data.org/67.png",
     "AwayTeamLogo": "https://crests.football-data.org/66.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 67,
     "Points": {
-      "67": 0,
+      "67": 3,
       "66": 0
     },
     "Goals": []
