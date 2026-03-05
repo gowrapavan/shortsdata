@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-04T06:32:12.429167Z",
+    "last_updated": "2026-03-05T06:34:56.369901Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -28,10 +28,19 @@
                     "player_name": "Antoine Semenyo",
                     "team_name": "Manchester City FC",
                     "team_crest": "https://crests.football-data.org/65.png",
-                    "goals": 14,
+                    "goals": 15,
                     "assists": 4,
                     "penalties": 1,
                     "nationality": "Ghana"
+                },
+                {
+                    "player_name": "João Pedro",
+                    "team_name": "Chelsea FC",
+                    "team_crest": "https://crests.football-data.org/61.png",
+                    "goals": 14,
+                    "assists": 5,
+                    "penalties": null,
+                    "nationality": "Brazil"
                 },
                 {
                     "player_name": "Hugo Ekitike",
@@ -41,15 +50,6 @@
                     "assists": 4,
                     "penalties": null,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "João Pedro",
-                    "team_name": "Chelsea FC",
-                    "team_crest": "https://crests.football-data.org/61.png",
-                    "goals": 11,
-                    "assists": 4,
-                    "penalties": null,
-                    "nationality": "Brazil"
                 },
                 {
                     "player_name": "Viktor Gyökeres",
@@ -167,6 +167,15 @@
                     "nationality": "Poland"
                 },
                 {
+                    "player_name": "Jorge de Frutos",
+                    "team_name": "Rayo Vallecano de Madrid",
+                    "team_crest": "https://crests.football-data.org/87.png",
+                    "goals": 10,
+                    "assists": 1,
+                    "penalties": 1,
+                    "nationality": "Spain"
+                },
+                {
                     "player_name": "Mikel Oyarzabal",
                     "team_name": "Real Sociedad de Fútbol",
                     "team_crest": "https://crests.football-data.org/92.png",
@@ -183,15 +192,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Norway"
-                },
-                {
-                    "player_name": "Vinicius Junior",
-                    "team_name": "Real Madrid CF",
-                    "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 9,
-                    "assists": 5,
-                    "penalties": 3,
-                    "nationality": "Brazil"
                 }
             ]
         },
