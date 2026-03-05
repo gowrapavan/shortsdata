@@ -259,6 +259,25 @@
         {
           "position": 13,
           "team": {
+            "id": 354,
+            "name": "Crystal Palace FC",
+            "shortName": "Crystal Palace",
+            "tla": "CRY",
+            "crest": "https://crests.football-data.org/354.png"
+          },
+          "playedGames": 29,
+          "form": null,
+          "won": 10,
+          "draw": 8,
+          "lost": 11,
+          "points": 38,
+          "goalsFor": 33,
+          "goalsAgainst": 35,
+          "goalDifference": -2
+        },
+        {
+          "position": 14,
+          "team": {
             "id": 397,
             "name": "Brighton & Hove Albion FC",
             "shortName": "Brighton Hove",
@@ -274,25 +293,6 @@
           "goalsFor": 38,
           "goalsAgainst": 36,
           "goalDifference": 2
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 354,
-            "name": "Crystal Palace FC",
-            "shortName": "Crystal Palace",
-            "tla": "CRY",
-            "crest": "https://crests.football-data.org/354.png"
-          },
-          "playedGames": 29,
-          "form": null,
-          "won": 9,
-          "draw": 9,
-          "lost": 11,
-          "points": 36,
-          "goalsFor": 30,
-          "goalsAgainst": 34,
-          "goalDifference": -4
         },
         {
           "position": 15,
@@ -325,12 +325,12 @@
           "playedGames": 29,
           "form": null,
           "won": 7,
-          "draw": 9,
-          "lost": 13,
-          "points": 30,
-          "goalsFor": 38,
-          "goalsAgainst": 43,
-          "goalDifference": -5
+          "draw": 8,
+          "lost": 14,
+          "points": 29,
+          "goalsFor": 39,
+          "goalsAgainst": 46,
+          "goalDifference": -7
         },
         {
           "position": 17,
