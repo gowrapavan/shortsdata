@@ -8473,5 +8473,55 @@
     "embed_url": "https://hoofootay4.spotlightmoment.com/embed/4o1gEy7HrFTJ3",
     "match_type": "official",
     "source": "hoofoot"
+  },
+  {
+    "highlight_id": "Tottenham_v_Crystal_Palace_2026_03_05",
+    "game_id": 538073,
+    "league": "EPL",
+    "round": "Premier League",
+    "season": null,
+    "date": "2026-03-05",
+    "datetime": "2026-03-05T20:00:00Z",
+    "status": "Final",
+    "home_team": {
+      "name": "Tottenham Hotspur FC",
+      "logo": "https://crests.football-data.org/73.png",
+      "score": 1
+    },
+    "away_team": {
+      "name": "Crystal Palace FC",
+      "logo": "https://crests.football-data.org/354.png",
+      "score": 3
+    },
+    "title": "Tottenham v Crystal Palace",
+    "highlight_url": "https://hoofoot.com/?match=Tottenham_v_Crystal_Palace_2026_03_05",
+    "embed_url": "https://hoofootay4.spotlightmoment.com/embed/u0gfxbo5ds3M7",
+    "match_type": "official",
+    "source": "hoofoot"
+  },
+  {
+    "highlight_id": "Lyon_v_Lens_2026_03_05",
+    "game_id": null,
+    "league": "Goal4u - Undefined",
+    "round": null,
+    "season": null,
+    "date": "2026-03-05",
+    "datetime": "2026-03-05T00:00:00",
+    "status": "Finished",
+    "home_team": {
+      "name": "Lyon",
+      "logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+      "score": null
+    },
+    "away_team": {
+      "name": "Lens",
+      "logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+      "score": null
+    },
+    "title": "Lyon v Lens",
+    "highlight_url": "https://hoofoot.com/?match=Lyon_v_Lens_2026_03_05",
+    "embed_url": "https://hoofootay4.spotlightmoment.com/embed/ujyspuLUSxKW7",
+    "match_type": "fallback",
+    "source": "hoofoot"
   }
 ]
