@@ -5851,7 +5851,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-03-06",
     "DateTime": "2026-03-06T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 671,
@@ -5862,12 +5862,12 @@
     "AwayTeamName": "FC Utrecht",
     "HomeTeamLogo": "https://crests.football-data.org/671.png",
     "AwayTeamLogo": "https://crests.football-data.org/676.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "671": 0,
-      "676": 0
+      "671": 1,
+      "676": 1
     },
     "Goals": []
   },
