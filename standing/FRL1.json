@@ -170,12 +170,12 @@
             "tla": "RC ",
             "crest": "https://crests.football-data.org/576.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
           "won": 10,
-          "draw": 5,
+          "draw": 6,
           "lost": 9,
-          "points": 35,
+          "points": 36,
           "goalsFor": 40,
           "goalsAgainst": 31,
           "goalDifference": 9
@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 532,
+            "name": "Angers SCO",
+            "shortName": "Angers SCO",
+            "tla": "ANG",
+            "crest": "https://crests.football-data.org/532.png"
+          },
+          "playedGames": 25,
+          "form": null,
+          "won": 9,
+          "draw": 5,
+          "lost": 11,
+          "points": 32,
+          "goalsFor": 23,
+          "goalsAgainst": 30,
+          "goalDifference": -7
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 511,
             "name": "Toulouse FC",
             "shortName": "Toulouse",
@@ -236,25 +255,6 @@
           "goalsFor": 33,
           "goalsAgainst": 28,
           "goalDifference": 5
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 532,
-            "name": "Angers SCO",
-            "shortName": "Angers SCO",
-            "tla": "ANG",
-            "crest": "https://crests.football-data.org/532.png"
-          },
-          "playedGames": 24,
-          "form": null,
-          "won": 8,
-          "draw": 5,
-          "lost": 11,
-          "points": 29,
-          "goalsFor": 22,
-          "goalsAgainst": 30,
-          "goalDifference": -8
         },
         {
           "position": 13,
@@ -322,12 +322,12 @@
             "tla": "AJA",
             "crest": "https://crests.football-data.org/519.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
           "won": 4,
-          "draw": 6,
+          "draw": 7,
           "lost": 14,
-          "points": 18,
+          "points": 19,
           "goalsFor": 19,
           "goalsAgainst": 35,
           "goalDifference": -16
@@ -341,15 +341,15 @@
             "tla": "NAN",
             "crest": "https://crests.football-data.org/543.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
           "won": 4,
           "draw": 5,
-          "lost": 15,
+          "lost": 16,
           "points": 17,
           "goalsFor": 22,
-          "goalsAgainst": 41,
-          "goalDifference": -19
+          "goalsAgainst": 42,
+          "goalDifference": -20
         },
         {
           "position": 18,
