@@ -10783,7 +10783,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-07",
     "DateTime": "2026-03-07T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 59,
@@ -10794,12 +10794,12 @@
     "AwayTeamName": "Portsmouth FC",
     "HomeTeamLogo": "https://crests.football-data.org/59.png",
     "AwayTeamLogo": "https://crests.football-data.org/325.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "59": 0,
-      "325": 0
+      "59": 1,
+      "325": 1
     },
     "Goals": []
   },
@@ -10820,8 +10820,8 @@
     "AwayTeamName": "Coventry City FC",
     "HomeTeamLogo": "https://crests.football-data.org/387.png",
     "AwayTeamLogo": "https://crests.football-data.org/1076.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "387": 0,
@@ -10846,8 +10846,8 @@
     "AwayTeamName": "Birmingham City FC",
     "HomeTeamLogo": "https://crests.football-data.org/348.png",
     "AwayTeamLogo": "https://crests.football-data.org/332.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "348": 0,
@@ -10872,8 +10872,8 @@
     "AwayTeamName": "Sheffield Wednesday FC",
     "HomeTeamLogo": "https://crests.football-data.org/342.png",
     "AwayTeamLogo": "https://crests.football-data.org/345.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "342": 0,
@@ -10887,7 +10887,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-07",
     "DateTime": "2026-03-07T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 322,
@@ -10898,12 +10898,12 @@
     "AwayTeamName": "Millwall FC",
     "HomeTeamLogo": "https://crests.football-data.org/322.png",
     "AwayTeamLogo": "https://crests.football-data.org/384.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 3,
+    "Result": 384,
     "Points": {
       "322": 0,
-      "384": 0
+      "384": 3
     },
     "Goals": []
   },
@@ -10924,8 +10924,8 @@
     "AwayTeamName": "Leicester City FC",
     "HomeTeamLogo": "https://crests.football-data.org/349.png",
     "AwayTeamLogo": "https://crests.football-data.org/338.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "349": 0,
@@ -11002,8 +11002,8 @@
     "AwayTeamName": "West Bromwich Albion FC",
     "HomeTeamLogo": "https://crests.football-data.org/356.png",
     "AwayTeamLogo": "https://crests.football-data.org/74.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "356": 0,
@@ -11054,8 +11054,8 @@
     "AwayTeamName": "Stoke City FC",
     "HomeTeamLogo": "https://crests.football-data.org/72.png",
     "AwayTeamLogo": "https://crests.football-data.org/70.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "72": 0,
