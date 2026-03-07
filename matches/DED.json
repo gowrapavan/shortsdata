@@ -5758,8 +5758,8 @@
     "AwayTeamName": "SC Heerenveen",
     "HomeTeamLogo": "https://crests.football-data.org/670.png",
     "AwayTeamLogo": "https://crests.football-data.org/673.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "670": 0,
@@ -5929,7 +5929,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-03-07",
     "DateTime": "2026-03-07T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 674,
@@ -5940,11 +5940,11 @@
     "AwayTeamName": "AZ",
     "HomeTeamLogo": "https://crests.football-data.org/674.png",
     "AwayTeamLogo": "https://crests.football-data.org/682.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 674,
     "Points": {
-      "674": 0,
+      "674": 3,
       "682": 0
     },
     "Goals": []
