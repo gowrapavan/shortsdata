@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-06T06:32:48.357302Z",
+    "last_updated": "2026-03-07T06:23:12.589133Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -152,7 +152,7 @@
                     "player_name": "Borja Iglesias",
                     "team_name": "RC Celta de Vigo",
                     "team_crest": "https://crests.football-data.org/558.png",
-                    "goals": 11,
+                    "goals": 12,
                     "assists": 1,
                     "penalties": 3,
                     "nationality": "Spain"
@@ -307,6 +307,15 @@
                     "nationality": "England"
                 },
                 {
+                    "player_name": "Luis Díaz",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 14,
+                    "assists": 9,
+                    "penalties": null,
+                    "nationality": "Colombia"
+                },
+                {
                     "player_name": "Deniz Undav",
                     "team_name": "VfB Stuttgart",
                     "team_crest": "https://crests.football-data.org/10.png",
@@ -314,15 +323,6 @@
                     "assists": 3,
                     "penalties": null,
                     "nationality": "Germany"
-                },
-                {
-                    "player_name": "Luis Díaz",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 13,
-                    "assists": 8,
-                    "penalties": null,
-                    "nationality": "Colombia"
                 },
                 {
                     "player_name": "Sehrou Guirassy",
@@ -434,7 +434,7 @@
                     "player_name": "Bradley Barcola",
                     "team_name": "Paris Saint-Germain FC",
                     "team_crest": "https://crests.football-data.org/524.png",
-                    "goals": 9,
+                    "goals": 10,
                     "assists": 1,
                     "penalties": null,
                     "nationality": "France"
