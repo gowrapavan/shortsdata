@@ -39,13 +39,13 @@
           },
           "playedGames": 27,
           "form": null,
-          "won": 21,
-          "draw": 2,
+          "won": 22,
+          "draw": 1,
           "lost": 4,
-          "points": 65,
-          "goalsFor": 71,
+          "points": 67,
+          "goalsFor": 72,
           "goalsAgainst": 26,
-          "goalDifference": 45
+          "goalDifference": 46
         },
         {
           "position": 2,
@@ -164,25 +164,6 @@
         {
           "position": 8,
           "team": {
-            "id": 77,
-            "name": "Athletic Club",
-            "shortName": "Athletic",
-            "tla": "ATH",
-            "crest": "https://crests.football-data.org/77.png"
-          },
-          "playedGames": 27,
-          "form": null,
-          "won": 10,
-          "draw": 6,
-          "lost": 11,
-          "points": 36,
-          "goalsFor": 30,
-          "goalsAgainst": 36,
-          "goalDifference": -6
-        },
-        {
-          "position": 9,
-          "team": {
             "id": 92,
             "name": "Real Sociedad de Fútbol",
             "shortName": "Real Sociedad",
@@ -198,6 +179,25 @@
           "goalsFor": 40,
           "goalsAgainst": 41,
           "goalDifference": -1
+        },
+        {
+          "position": 9,
+          "team": {
+            "id": 77,
+            "name": "Athletic Club",
+            "shortName": "Athletic",
+            "tla": "ATH",
+            "crest": "https://crests.football-data.org/77.png"
+          },
+          "playedGames": 27,
+          "form": null,
+          "won": 10,
+          "draw": 5,
+          "lost": 12,
+          "points": 35,
+          "goalsFor": 30,
+          "goalsAgainst": 37,
+          "goalDifference": -7
         },
         {
           "position": 10,
