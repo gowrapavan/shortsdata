@@ -10939,7 +10939,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-06",
     "DateTime": "2026-03-06T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1081,
@@ -10951,11 +10951,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/1081.png",
     "AwayTeamLogo": "https://crests.football-data.org/1082.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 1082,
     "Points": {
       "1081": 0,
-      "1082": 0
+      "1082": 3
     },
     "Goals": []
   },
@@ -11715,10 +11715,10 @@
   },
   {
     "GameId": 541168,
-    "RoundId": 7,
+    "RoundId": 36,
     "RoundName": "Championship",
     "Date": "2026-03-21",
-    "DateTime": "2026-03-21T15:00:00Z",
+    "DateTime": "2026-03-21T12:30:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -11741,7 +11741,7 @@
   },
   {
     "GameId": 541169,
-    "RoundId": 7,
+    "RoundId": 36,
     "RoundName": "Championship",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T15:00:00Z",
@@ -11767,7 +11767,7 @@
   },
   {
     "GameId": 541170,
-    "RoundId": 7,
+    "RoundId": 36,
     "RoundName": "Championship",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T15:00:00Z",
@@ -11793,10 +11793,10 @@
   },
   {
     "GameId": 541171,
-    "RoundId": 7,
+    "RoundId": 36,
     "RoundName": "Championship",
     "Date": "2026-03-21",
-    "DateTime": "2026-03-21T15:00:00Z",
+    "DateTime": "2026-03-21T12:30:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -11819,7 +11819,7 @@
   },
   {
     "GameId": 541172,
-    "RoundId": 7,
+    "RoundId": 36,
     "RoundName": "Championship",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T15:00:00Z",
@@ -11845,10 +11845,10 @@
   },
   {
     "GameId": 541173,
-    "RoundId": 7,
+    "RoundId": 36,
     "RoundName": "Championship",
     "Date": "2026-03-21",
-    "DateTime": "2026-03-21T15:00:00Z",
+    "DateTime": "2026-03-21T12:30:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -11897,7 +11897,7 @@
   },
   {
     "GameId": 541175,
-    "RoundId": 7,
+    "RoundId": 36,
     "RoundName": "Championship",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T15:00:00Z",
@@ -11923,7 +11923,7 @@
   },
   {
     "GameId": 541176,
-    "RoundId": 7,
+    "RoundId": 36,
     "RoundName": "Championship",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T15:00:00Z",
@@ -11949,7 +11949,7 @@
   },
   {
     "GameId": 541177,
-    "RoundId": 7,
+    "RoundId": 36,
     "RoundName": "Championship",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T15:00:00Z",
@@ -11975,10 +11975,10 @@
   },
   {
     "GameId": 541178,
-    "RoundId": 7,
+    "RoundId": 36,
     "RoundName": "Championship",
     "Date": "2026-03-21",
-    "DateTime": "2026-03-21T15:00:00Z",
+    "DateTime": "2026-03-21T17:15:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -12001,7 +12001,7 @@
   },
   {
     "GameId": 541179,
-    "RoundId": 7,
+    "RoundId": 36,
     "RoundName": "Championship",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T15:00:00Z",
