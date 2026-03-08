@@ -6956,8 +6956,8 @@
     "AwayTeamName": "Parma Calcio 1913",
     "HomeTeamLogo": "https://crests.football-data.org/99.png",
     "AwayTeamLogo": "https://crests.football-data.org/112.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "99": 0,
@@ -7086,8 +7086,8 @@
     "AwayTeamName": "Hellas Verona FC",
     "HomeTeamLogo": "https://crests.football-data.org/103.png",
     "AwayTeamLogo": "https://crests.football-data.org/450.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "103": 0,
@@ -7179,7 +7179,7 @@
     "RoundName": "Serie A",
     "Date": "2026-03-08",
     "DateTime": "2026-03-08T11:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5890,
@@ -7191,11 +7191,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/5890.png",
     "AwayTeamLogo": "https://crests.football-data.org/457.png",
     "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "5890": 0,
-      "457": 0
+      "5890": 1,
+      "457": 1
     },
     "Goals": []
   },
