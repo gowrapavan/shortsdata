@@ -5609,7 +5609,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-03-08",
     "DateTime": "2026-03-08T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 522,
@@ -5620,12 +5620,12 @@
     "AwayTeamName": "Stade Rennais FC 1901",
     "HomeTeamLogo": "https://crests.football-data.org/522.png",
     "AwayTeamLogo": "https://crests.football-data.org/529.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 4,
+    "Result": 529,
     "Points": {
       "522": 0,
-      "529": 0
+      "529": 3
     },
     "Goals": []
   },
@@ -5661,7 +5661,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-03-08",
     "DateTime": "2026-03-08T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 521,
@@ -5672,12 +5672,12 @@
     "AwayTeamName": "FC Lorient",
     "HomeTeamLogo": "https://crests.football-data.org/521.png",
     "AwayTeamLogo": "https://crests.football-data.org/525.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "521": 0,
-      "525": 0
+      "521": 1,
+      "525": 1
     },
     "Goals": []
   },
@@ -5713,7 +5713,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-03-08",
     "DateTime": "2026-03-08T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 546,
@@ -5726,9 +5726,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/545.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 546,
     "Points": {
-      "546": 0,
+      "546": 3,
       "545": 0
     },
     "Goals": []
@@ -5739,7 +5739,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-03-08",
     "DateTime": "2026-03-08T16:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 512,
@@ -5750,11 +5750,11 @@
     "AwayTeamName": "Le Havre AC",
     "HomeTeamLogo": "https://crests.football-data.org/512.png",
     "AwayTeamLogo": "https://crests.football-data.org/533.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 512,
     "Points": {
-      "512": 0,
+      "512": 3,
       "533": 0
     },
     "Goals": []

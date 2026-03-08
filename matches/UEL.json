@@ -10965,7 +10965,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-08",
     "DateTime": "2026-03-08T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 69,
@@ -10976,12 +10976,12 @@
     "AwayTeamName": "Middlesbrough FC",
     "HomeTeamLogo": "https://crests.football-data.org/69.png",
     "AwayTeamLogo": "https://crests.football-data.org/343.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 4,
+    "Result": 343,
     "Points": {
       "69": 0,
-      "343": 0
+      "343": 3
     },
     "Goals": []
   },

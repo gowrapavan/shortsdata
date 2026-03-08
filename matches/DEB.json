@@ -5575,7 +5575,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-03-08",
     "DateTime": "2026-03-08T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 20,
@@ -5590,8 +5590,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "20": 0,
-      "19": 0
+      "20": 1,
+      "19": 1
     },
     "Goals": []
   },
@@ -5638,8 +5638,8 @@
     "AwayTeamName": "SV Werder Bremen",
     "HomeTeamLogo": "https://crests.football-data.org/28.png",
     "AwayTeamLogo": "https://crests.football-data.org/12.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
       "28": 0,

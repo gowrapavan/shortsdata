@@ -6945,7 +6945,7 @@
     "RoundName": "Serie A",
     "Date": "2026-03-08",
     "DateTime": "2026-03-08T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 99,
@@ -6960,8 +6960,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "99": 0,
-      "112": 0
+      "99": 1,
+      "112": 1
     },
     "Goals": []
   },
@@ -7060,8 +7060,8 @@
     "AwayTeamName": "AS Roma",
     "HomeTeamLogo": "https://crests.football-data.org/107.png",
     "AwayTeamLogo": "https://crests.football-data.org/100.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "107": 0,
@@ -7075,7 +7075,7 @@
     "RoundName": "Serie A",
     "Date": "2026-03-08",
     "DateTime": "2026-03-08T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 103,
@@ -7087,11 +7087,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/103.png",
     "AwayTeamLogo": "https://crests.football-data.org/450.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 450,
     "Points": {
       "103": 0,
-      "450": 0
+      "450": 3
     },
     "Goals": []
   },
