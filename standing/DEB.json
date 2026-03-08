@@ -151,12 +151,12 @@
             "tla": "SGE",
             "crest": "https://crests.football-data.org/19.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
           "won": 9,
-          "draw": 7,
+          "draw": 8,
           "lost": 8,
-          "points": 34,
+          "points": 35,
           "goalsFor": 48,
           "goalsAgainst": 49,
           "goalDifference": -1
@@ -227,15 +227,15 @@
             "tla": "UNB",
             "crest": "https://crests.football-data.org/28.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
           "won": 7,
           "draw": 7,
-          "lost": 10,
+          "lost": 11,
           "points": 28,
-          "goalsFor": 29,
-          "goalsAgainst": 38,
-          "goalDifference": -9
+          "goalsFor": 30,
+          "goalsAgainst": 42,
+          "goalDifference": -12
         },
         {
           "position": 12,
@@ -259,6 +259,25 @@
         {
           "position": 13,
           "team": {
+            "id": 12,
+            "name": "SV Werder Bremen",
+            "shortName": "Bremen",
+            "tla": "SVW",
+            "crest": "https://crests.football-data.org/12.png"
+          },
+          "playedGames": 25,
+          "form": null,
+          "won": 6,
+          "draw": 7,
+          "lost": 12,
+          "points": 25,
+          "goalsFor": 29,
+          "goalsAgainst": 45,
+          "goalDifference": -16
+        },
+        {
+          "position": 14,
+          "team": {
             "id": 1,
             "name": "1. FC Köln",
             "shortName": "1. FC Köln",
@@ -276,7 +295,7 @@
           "goalDifference": -9
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 15,
             "name": "1. FSV Mainz 05",
@@ -295,7 +314,7 @@
           "goalDifference": -12
         },
         {
-          "position": 15,
+          "position": 16,
           "team": {
             "id": 20,
             "name": "FC St. Pauli 1910",
@@ -303,34 +322,15 @@
             "tla": "STP",
             "crest": "https://crests.football-data.org/20.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
           "won": 6,
-          "draw": 5,
+          "draw": 6,
           "lost": 13,
-          "points": 23,
+          "points": 24,
           "goalsFor": 23,
           "goalsAgainst": 40,
           "goalDifference": -17
-        },
-        {
-          "position": 16,
-          "team": {
-            "id": 12,
-            "name": "SV Werder Bremen",
-            "shortName": "Bremen",
-            "tla": "SVW",
-            "crest": "https://crests.football-data.org/12.png"
-          },
-          "playedGames": 24,
-          "form": null,
-          "won": 5,
-          "draw": 7,
-          "lost": 12,
-          "points": 22,
-          "goalsFor": 25,
-          "goalsAgainst": 44,
-          "goalDifference": -19
         },
         {
           "position": 17,
