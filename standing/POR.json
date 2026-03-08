@@ -189,15 +189,15 @@
             "tla": "GUI",
             "crest": "https://crests.football-data.org/5543.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
           "won": 9,
           "draw": 5,
-          "lost": 10,
+          "lost": 11,
           "points": 32,
           "goalsFor": 28,
-          "goalsAgainst": 35,
-          "goalDifference": -7
+          "goalsAgainst": 37,
+          "goalDifference": -9
         },
         {
           "position": 10,
@@ -297,6 +297,25 @@
         {
           "position": 15,
           "team": {
+            "id": 5530,
+            "name": "CD Santa Clara",
+            "shortName": "Santa Clara",
+            "tla": "CD ",
+            "crest": "https://crests.football-data.org/5530.png"
+          },
+          "playedGames": 25,
+          "form": null,
+          "won": 5,
+          "draw": 7,
+          "lost": 13,
+          "points": 22,
+          "goalsFor": 22,
+          "goalsAgainst": 31,
+          "goalDifference": -9
+        },
+        {
+          "position": 16,
+          "team": {
             "id": 496,
             "name": "Rio Ave FC",
             "shortName": "Rio Ave",
@@ -312,25 +331,6 @@
           "goalsFor": 23,
           "goalsAgainst": 44,
           "goalDifference": -21
-        },
-        {
-          "position": 16,
-          "team": {
-            "id": 5530,
-            "name": "CD Santa Clara",
-            "shortName": "Santa Clara",
-            "tla": "CD ",
-            "crest": "https://crests.football-data.org/5530.png"
-          },
-          "playedGames": 24,
-          "form": null,
-          "won": 4,
-          "draw": 7,
-          "lost": 13,
-          "points": 19,
-          "goalsFor": 20,
-          "goalsAgainst": 31,
-          "goalDifference": -11
         },
         {
           "position": 17,
