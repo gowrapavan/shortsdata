@@ -5635,7 +5635,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-03-08",
     "DateTime": "2026-03-08T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 523,
@@ -5646,12 +5646,12 @@
     "AwayTeamName": "Paris FC",
     "HomeTeamLogo": "https://crests.football-data.org/523.png",
     "AwayTeamLogo": "https://crests.football-data.org/1045.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "523": 0,
-      "1045": 0
+      "523": 1,
+      "1045": 1
     },
     "Goals": []
   },
