@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 95,
+            "name": "Valencia CF",
+            "shortName": "Valencia",
+            "tla": "VAL",
+            "crest": "https://crests.football-data.org/95.png"
+          },
+          "playedGames": 27,
+          "form": null,
+          "won": 8,
+          "draw": 8,
+          "lost": 11,
+          "points": 32,
+          "goalsFor": 30,
+          "goalsAgainst": 41,
+          "goalDifference": -11
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 87,
             "name": "Rayo Vallecano de Madrid",
             "shortName": "Rayo Vallecano",
@@ -257,7 +276,7 @@
           "goalDifference": -6
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 559,
             "name": "Sevilla FC",
@@ -276,7 +295,7 @@
           "goalDifference": -7
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 298,
             "name": "Girona FC",
@@ -295,25 +314,6 @@
           "goalDifference": -15
         },
         {
-          "position": 15,
-          "team": {
-            "id": 95,
-            "name": "Valencia CF",
-            "shortName": "Valencia",
-            "tla": "VAL",
-            "crest": "https://crests.football-data.org/95.png"
-          },
-          "playedGames": 27,
-          "form": null,
-          "won": 7,
-          "draw": 9,
-          "lost": 11,
-          "points": 30,
-          "goalsFor": 29,
-          "goalsAgainst": 41,
-          "goalDifference": -12
-        },
-        {
           "position": 16,
           "team": {
             "id": 263,
@@ -325,12 +325,12 @@
           "playedGames": 27,
           "form": null,
           "won": 7,
-          "draw": 7,
-          "lost": 13,
-          "points": 28,
+          "draw": 6,
+          "lost": 14,
+          "points": 27,
           "goalsFor": 25,
-          "goalsAgainst": 36,
-          "goalDifference": -11
+          "goalsAgainst": 37,
+          "goalDifference": -12
         },
         {
           "position": 17,
