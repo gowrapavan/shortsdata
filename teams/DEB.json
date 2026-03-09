@@ -33,15 +33,15 @@
       }
     ],
     "coach": {
-      "id": 179967,
-      "firstName": "Łukasz",
-      "lastName": "Kwasniok",
-      "name": "Łukasz Kwasniok",
-      "dateOfBirth": "1981-06-12",
-      "nationality": "Germany",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-07",
-        "until": "2028-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -692,6 +692,13 @@
         "nationality": "Germany"
       },
       {
+        "id": 293515,
+        "name": "Emmanuel Owen",
+        "position": "Offence",
+        "dateOfBirth": "2007-06-11",
+        "nationality": "Germany"
+      },
+      {
         "id": 144715,
         "name": "Nathan Tella",
         "position": "Right Midfield",
@@ -1219,45 +1226,17 @@
         "nationality": "Gambia"
       },
       {
+        "id": 291949,
+        "name": "Maycon Cardozo",
+        "position": "Midfield",
+        "dateOfBirth": "2008-10-10",
+        "nationality": "Brazil"
+      },
+      {
         "id": 275164,
         "name": "Wisdom Mike",
         "position": "Offence",
         "dateOfBirth": "2008-09-24",
-        "nationality": "Germany"
-      },
-      {
-        "id": 202665,
-        "name": "Aleksandar Pavlović",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2004-05-03",
-        "nationality": "Germany"
-      },
-      {
-        "id": 172574,
-        "name": "Tom Bischof",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2005-06-28",
-        "nationality": "Germany"
-      },
-      {
-        "id": 168299,
-        "name": "Min-Jae Kim",
-        "position": "Centre-Back",
-        "dateOfBirth": "1996-11-15",
-        "nationality": "South Korea"
-      },
-      {
-        "id": 152515,
-        "name": "Nicolas Jackson",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2001-06-20",
-        "nationality": "Senegal"
-      },
-      {
-        "id": 144393,
-        "name": "Jamal Musiala",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2003-02-26",
         "nationality": "Germany"
       },
       {
@@ -1349,6 +1328,41 @@
         "name": "Jonathan Tah",
         "position": "Centre-Back",
         "dateOfBirth": "1996-02-11",
+        "nationality": "Germany"
+      },
+      {
+        "id": 202665,
+        "name": "Aleksandar Pavlović",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2004-05-03",
+        "nationality": "Germany"
+      },
+      {
+        "id": 172574,
+        "name": "Tom Bischof",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2005-06-28",
+        "nationality": "Germany"
+      },
+      {
+        "id": 168299,
+        "name": "Min-Jae Kim",
+        "position": "Centre-Back",
+        "dateOfBirth": "1996-11-15",
+        "nationality": "South Korea"
+      },
+      {
+        "id": 152515,
+        "name": "Nicolas Jackson",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2001-06-20",
+        "nationality": "Senegal"
+      },
+      {
+        "id": 144393,
+        "name": "Jamal Musiala",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2003-02-26",
         "nationality": "Germany"
       }
     ],

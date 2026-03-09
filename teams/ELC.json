@@ -530,13 +530,6 @@
         "nationality": "Croatia"
       },
       {
-        "id": 56852,
-        "name": "Josh Sargent",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2000-02-20",
-        "nationality": "USA"
-      },
-      {
         "id": 34494,
         "name": "Kenny McLean",
         "position": "Central Midfield",
@@ -1550,14 +1543,14 @@
       }
     ],
     "coach": {
-      "id": 204521,
-      "firstName": "Eric",
-      "lastName": "Ramsay",
-      "name": "Eric Ramsay",
-      "dateOfBirth": "1992-02-14",
-      "nationality": "Wales",
+      "id": 5300,
+      "firstName": "James",
+      "lastName": "Morrison",
+      "name": "James Morrison",
+      "dateOfBirth": "1986-05-25",
+      "nationality": "Scotland",
       "contract": {
-        "start": "2026-01",
+        "start": "2026-02",
         "until": "2026-06"
       }
     },
@@ -1942,6 +1935,20 @@
         "nationality": "Scotland"
       },
       {
+        "id": 289904,
+        "name": "Hugh Parker",
+        "position": "Offence",
+        "dateOfBirth": "2006-04-18",
+        "nationality": "Ireland"
+      },
+      {
+        "id": 147780,
+        "name": "Cody Drameh",
+        "position": "Right-Back",
+        "dateOfBirth": "2001-12-08",
+        "nationality": "England"
+      },
+      {
         "id": 131126,
         "name": "Brandon Williams",
         "position": "Left-Back",
@@ -2066,13 +2073,6 @@
         "position": "Central Midfield",
         "dateOfBirth": "2002-02-15",
         "nationality": "Belgium"
-      },
-      {
-        "id": 147780,
-        "name": "Cody Drameh",
-        "position": "Right-Back",
-        "dateOfBirth": "2001-12-08",
-        "nationality": "England"
       }
     ],
     "staff": [],
@@ -2734,6 +2734,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "1999-05-07",
         "nationality": "Spain"
+      },
+      {
+        "id": 288484,
+        "name": "Harry French",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2005-09-28",
+        "nationality": "England"
       },
       {
         "id": 291264,
@@ -3544,6 +3551,13 @@
     },
     "squad": [
       {
+        "id": 4008,
+        "name": "Seny Dieng",
+        "position": "Goalkeeper",
+        "dateOfBirth": "1994-11-23",
+        "nationality": "Senegal"
+      },
+      {
         "id": 34683,
         "name": "Jon McLaughlin",
         "position": "Goalkeeper",
@@ -3626,13 +3640,6 @@
         "position": "Offence",
         "dateOfBirth": "2005-11-02",
         "nationality": "England"
-      },
-      {
-        "id": 140417,
-        "name": "Aidan Morris",
-        "position": "Central Midfield",
-        "dateOfBirth": "2001-11-16",
-        "nationality": "USA"
       },
       {
         "id": 137025,
@@ -3773,6 +3780,13 @@
         "position": "Centre-Forward",
         "dateOfBirth": "2002-08-06",
         "nationality": "Scotland"
+      },
+      {
+        "id": 140417,
+        "name": "Aidan Morris",
+        "position": "Central Midfield",
+        "dateOfBirth": "2001-11-16",
+        "nationality": "USA"
       }
     ],
     "staff": [],
@@ -3824,13 +3838,6 @@
       }
     },
     "squad": [
-      {
-        "id": 4008,
-        "name": "Seny Dieng",
-        "position": "Goalkeeper",
-        "dateOfBirth": "1994-11-23",
-        "nationality": "Senegal"
-      },
       {
         "id": 177439,
         "name": "Murphy Mahoney",
@@ -4174,13 +4181,6 @@
         "position": "Goalkeeper",
         "dateOfBirth": "1997-07-30",
         "nationality": "Norway"
-      },
-      {
-        "id": 291165,
-        "name": "Alfie Marriott",
-        "position": "Goalkeeper",
-        "dateOfBirth": "2004-03-26",
-        "nationality": "England"
       },
       {
         "id": 5126,
@@ -5602,6 +5602,13 @@
         "nationality": "England"
       },
       {
+        "id": 293277,
+        "name": "Marley Thelwell",
+        "position": "Defence",
+        "dateOfBirth": "2007-12-02",
+        "nationality": "England"
+      },
+      {
         "id": 120407,
         "name": "Tomi Horvat",
         "position": "Midfield",
@@ -5635,48 +5642,6 @@
         "position": "Offence",
         "dateOfBirth": "2007-11-16",
         "nationality": "England"
-      },
-      {
-        "id": 248957,
-        "name": "George Earthy",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2004-09-05",
-        "nationality": "England"
-      },
-      {
-        "id": 180386,
-        "name": "Sinclair Armstrong",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2003-06-22",
-        "nationality": "Ireland"
-      },
-      {
-        "id": 156796,
-        "name": "Sam Bell",
-        "position": "Left Winger",
-        "dateOfBirth": "2002-05-23",
-        "nationality": "England"
-      },
-      {
-        "id": 137118,
-        "name": "Luke McNally",
-        "position": "Centre-Back",
-        "dateOfBirth": "1999-09-20",
-        "nationality": "Ireland"
-      },
-      {
-        "id": 125973,
-        "name": "George Tanner",
-        "position": "Right-Back",
-        "dateOfBirth": "1999-11-16",
-        "nationality": "England"
-      },
-      {
-        "id": 118587,
-        "name": "Jason Knight",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2001-02-13",
-        "nationality": "Ireland"
       },
       {
         "id": 101714,
@@ -5768,6 +5733,48 @@
         "position": "Central Midfield",
         "dateOfBirth": "1991-09-10",
         "nationality": "Egypt"
+      },
+      {
+        "id": 248957,
+        "name": "George Earthy",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2004-09-05",
+        "nationality": "England"
+      },
+      {
+        "id": 180386,
+        "name": "Sinclair Armstrong",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2003-06-22",
+        "nationality": "Ireland"
+      },
+      {
+        "id": 156796,
+        "name": "Sam Bell",
+        "position": "Left Winger",
+        "dateOfBirth": "2002-05-23",
+        "nationality": "England"
+      },
+      {
+        "id": 137118,
+        "name": "Luke McNally",
+        "position": "Centre-Back",
+        "dateOfBirth": "1999-09-20",
+        "nationality": "Ireland"
+      },
+      {
+        "id": 125973,
+        "name": "George Tanner",
+        "position": "Right-Back",
+        "dateOfBirth": "1999-11-16",
+        "nationality": "England"
+      },
+      {
+        "id": 118587,
+        "name": "Jason Knight",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2001-02-13",
+        "nationality": "Ireland"
       }
     ],
     "staff": [],
@@ -6359,6 +6366,13 @@
         "position": "Defence",
         "dateOfBirth": "2004-08-01",
         "nationality": "England"
+      },
+      {
+        "id": 264162,
+        "name": "Kacper Pasiek",
+        "position": "Defence",
+        "dateOfBirth": "2005-10-08",
+        "nationality": "Poland"
       },
       {
         "id": 185182,
