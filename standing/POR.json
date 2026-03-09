@@ -278,6 +278,25 @@
         {
           "position": 14,
           "team": {
+            "id": 496,
+            "name": "Rio Ave FC",
+            "shortName": "Rio Ave",
+            "tla": "RIO",
+            "crest": "https://crests.football-data.org/496.png"
+          },
+          "playedGames": 25,
+          "form": null,
+          "won": 5,
+          "draw": 9,
+          "lost": 11,
+          "points": 24,
+          "goalsFor": 24,
+          "goalsAgainst": 44,
+          "goalDifference": -20
+        },
+        {
+          "position": 15,
+          "team": {
             "id": 5529,
             "name": "CD Nacional",
             "shortName": "CD Nacional",
@@ -295,7 +314,7 @@
           "goalDifference": -8
         },
         {
-          "position": 15,
+          "position": 16,
           "team": {
             "id": 5530,
             "name": "CD Santa Clara",
@@ -314,25 +333,6 @@
           "goalDifference": -9
         },
         {
-          "position": 16,
-          "team": {
-            "id": 496,
-            "name": "Rio Ave FC",
-            "shortName": "Rio Ave",
-            "tla": "RIO",
-            "crest": "https://crests.football-data.org/496.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 4,
-          "draw": 10,
-          "lost": 11,
-          "points": 22,
-          "goalsFor": 23,
-          "goalsAgainst": 44,
-          "goalDifference": -21
-        },
-        {
           "position": 17,
           "team": {
             "id": 1049,
@@ -344,12 +344,12 @@
           "playedGames": 25,
           "form": null,
           "won": 4,
-          "draw": 8,
-          "lost": 13,
-          "points": 20,
+          "draw": 7,
+          "lost": 14,
+          "points": 19,
           "goalsFor": 19,
-          "goalsAgainst": 38,
-          "goalDifference": -19
+          "goalsAgainst": 39,
+          "goalDifference": -20
         },
         {
           "position": 18,
