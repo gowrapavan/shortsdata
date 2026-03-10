@@ -4155,7 +4155,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-10",
     "DateTime": "2026-03-10T17:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 610,
@@ -4167,11 +4167,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/610.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "610": 0,
-      "64": 0
+      "610": 1,
+      "64": 1
     },
     "Goals": []
   },
@@ -4218,8 +4218,8 @@
     "AwayTeamName": "FC Bayern München",
     "HomeTeamLogo": "https://crests.football-data.org/102.png",
     "AwayTeamLogo": "https://crests.football-data.org/5.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 4,
     "Result": null,
     "Points": {
       "102": 0,
@@ -4244,8 +4244,8 @@
     "AwayTeamName": "FC Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/67.png",
     "AwayTeamLogo": "https://crests.football-data.org/81.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "67": 0,
@@ -4270,8 +4270,8 @@
     "AwayTeamName": "Tottenham Hotspur FC",
     "HomeTeamLogo": "https://crests.football-data.org/78.png",
     "AwayTeamLogo": "https://crests.football-data.org/73.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 5,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "78": 0,
