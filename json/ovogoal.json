@@ -1,24 +1,46 @@
 [
   {
-    "time": "23:00",
+    "time": "18:45",
     "game": "football",
-    "league": "mma",
-    "home_team": "",
-    "away_team": "",
-    "label": "ovogoal",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
-    "url": "https://24start.net/mma/totalm/"
+    "league": "champions",
+    "home_team": "Galatasaray",
+    "away_team": "Liverpool",
+    "label": "gal-liv",
+    "home_logo": "https://crests.football-data.org/610.png",
+    "away_logo": "https://crests.football-data.org/64.png",
+    "url": "https://24start.net/homes/blog1/"
   },
   {
-    "time": "05:00",
+    "time": "21:00",
     "game": "football",
-    "league": "f1",
-    "home_team": "",
-    "away_team": "",
-    "label": "ovogoal",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
-    "url": "https://24start.net/homes/blogf1/"
+    "league": "champions",
+    "home_team": "Atl Madrid",
+    "away_team": "Tottenham",
+    "label": "atl-tot",
+    "home_logo": "https://crests.football-data.org/78.png",
+    "away_logo": "https://crests.football-data.org/73.png",
+    "url": "https://24start.net/homes/blog1/"
+  },
+  {
+    "time": "21:00",
+    "game": "football",
+    "league": "champions",
+    "home_team": "Newcastle",
+    "away_team": "Barcelona",
+    "label": "new-bar",
+    "home_logo": "https://crests.football-data.org/67.png",
+    "away_logo": "https://crests.football-data.org/80.png",
+    "url": "https://24start.net/homes/blog2/"
+  },
+  {
+    "time": "21:00",
+    "game": "football",
+    "league": "champions",
+    "home_team": "Atalanta",
+    "away_team": "Bayern",
+    "label": "ata-bay",
+    "home_logo": "https://crests.football-data.org/102.png",
+    "away_logo": "https://crests.football-data.org/5.png",
+    "url": "https://24start.net/homes/blog3/"
   }
 ]
