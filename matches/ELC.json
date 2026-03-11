@@ -11121,7 +11121,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-10",
     "DateTime": "2026-03-10T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 338,
@@ -11134,9 +11134,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/387.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 338,
     "Points": {
-      "338": 0,
+      "338": 3,
       "387": 0
     },
     "Goals": []
@@ -11147,7 +11147,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-10",
     "DateTime": "2026-03-10T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 384,
@@ -11160,9 +11160,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/342.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 384,
     "Points": {
-      "384": 0,
+      "384": 3,
       "342": 0
     },
     "Goals": []
@@ -11199,7 +11199,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-10",
     "DateTime": "2026-03-10T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 325,
@@ -11212,10 +11212,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/72.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 72,
     "Points": {
       "325": 0,
-      "72": 0
+      "72": 3
     },
     "Goals": []
   },
@@ -11225,7 +11225,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-10",
     "DateTime": "2026-03-10T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 345,
@@ -11237,11 +11237,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/345.png",
     "AwayTeamLogo": "https://crests.football-data.org/346.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "345": 0,
-      "346": 0
+      "345": 1,
+      "346": 1
     },
     "Goals": []
   },
@@ -11251,7 +11251,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-10",
     "DateTime": "2026-03-10T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 70,
@@ -11262,12 +11262,12 @@
     "AwayTeamName": "Ipswich Town FC",
     "HomeTeamLogo": "https://crests.football-data.org/70.png",
     "AwayTeamLogo": "https://crests.football-data.org/349.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
-      "70": 0,
-      "349": 0
+      "70": 1,
+      "349": 1
     },
     "Goals": []
   },
@@ -11277,7 +11277,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-10",
     "DateTime": "2026-03-10T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 404,
@@ -11290,10 +11290,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/322.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 322,
     "Points": {
       "404": 0,
-      "322": 0
+      "322": 3
     },
     "Goals": []
   },
