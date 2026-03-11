@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-10T06:33:30.747959Z",
+    "last_updated": "2026-03-11T06:36:12.796220Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -629,9 +629,18 @@
                     "team_name": "Galatasaray SK",
                     "team_crest": "https://crests.football-data.org/610.png",
                     "goals": 7,
-                    "assists": 1,
+                    "assists": 2,
                     "penalties": 3,
                     "nationality": "Nigeria"
+                },
+                {
+                    "player_name": "Julián Álvarez",
+                    "team_name": "Club Atlético de Madrid",
+                    "team_crest": "https://crests.football-data.org/78.png",
+                    "goals": 7,
+                    "assists": 2,
+                    "penalties": 2,
+                    "nationality": "Argentina"
                 },
                 {
                     "player_name": "Martinelli",
@@ -652,6 +661,15 @@
                     "nationality": "Norway"
                 },
                 {
+                    "player_name": "Harvey Barnes",
+                    "team_name": "Newcastle United FC",
+                    "team_crest": "https://crests.football-data.org/67.png",
+                    "goals": 6,
+                    "assists": 3,
+                    "penalties": null,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Camilo Durán",
                     "team_name": "Qarabağ Ağdam FK",
                     "team_crest": "https://crests.football-data.org/611.png",
@@ -659,24 +677,6 @@
                     "assists": 2,
                     "penalties": null,
                     "nationality": "Colombia"
-                },
-                {
-                    "player_name": "Marcus Rashford",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 5,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "England"
-                },
-                {
-                    "player_name": "Julián Álvarez",
-                    "team_name": "Club Atlético de Madrid",
-                    "team_crest": "https://crests.football-data.org/78.png",
-                    "goals": 5,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "Argentina"
                 }
             ]
         }
