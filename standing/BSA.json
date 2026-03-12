@@ -88,25 +88,6 @@
         {
           "position": 4,
           "team": {
-            "id": 1779,
-            "name": "SC Corinthians Paulista",
-            "shortName": "Corinthians",
-            "tla": "COR",
-            "crest": "https://crests.football-data.org/1779.png"
-          },
-          "playedGames": 5,
-          "form": null,
-          "won": 2,
-          "draw": 1,
-          "lost": 2,
-          "points": 7,
-          "goalsFor": 5,
-          "goalsAgainst": 4,
-          "goalDifference": 1
-        },
-        {
-          "position": 4,
-          "team": {
             "id": 1783,
             "name": "CR Flamengo",
             "shortName": "Flamengo",
@@ -119,12 +100,31 @@
           "draw": 1,
           "lost": 1,
           "points": 7,
-          "goalsFor": 5,
+          "goalsFor": 6,
           "goalsAgainst": 4,
+          "goalDifference": 2
+        },
+        {
+          "position": 5,
+          "team": {
+            "id": 4241,
+            "name": "Coritiba FBC",
+            "shortName": "Coritiba",
+            "tla": "COR",
+            "crest": "https://crests.football-data.org/4241.png"
+          },
+          "playedGames": 5,
+          "form": null,
+          "won": 2,
+          "draw": 1,
+          "lost": 2,
+          "points": 7,
+          "goalsFor": 7,
+          "goalsAgainst": 6,
           "goalDifference": 1
         },
         {
-          "position": 4,
+          "position": 6,
           "team": {
             "id": 1765,
             "name": "Fluminense FC",
@@ -164,11 +164,11 @@
         {
           "position": 8,
           "team": {
-            "id": 4241,
-            "name": "Coritiba FBC",
-            "shortName": "Coritiba",
+            "id": 1779,
+            "name": "SC Corinthians Paulista",
+            "shortName": "Corinthians",
             "tla": "COR",
-            "crest": "https://crests.football-data.org/4241.png"
+            "crest": "https://crests.football-data.org/1779.png"
           },
           "playedGames": 5,
           "form": null,
@@ -176,8 +176,8 @@
           "draw": 1,
           "lost": 2,
           "points": 7,
-          "goalsFor": 6,
-          "goalsAgainst": 6,
+          "goalsFor": 5,
+          "goalsAgainst": 5,
           "goalDifference": 0
         },
         {
@@ -386,8 +386,8 @@
           "lost": 3,
           "points": 2,
           "goalsFor": 4,
-          "goalsAgainst": 10,
-          "goalDifference": -6
+          "goalsAgainst": 11,
+          "goalDifference": -7
         },
         {
           "position": 20,
