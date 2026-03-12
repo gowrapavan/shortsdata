@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 1765,
+            "name": "Fluminense FC",
+            "shortName": "Fluminense",
+            "tla": "FLU",
+            "crest": "https://crests.football-data.org/1765.png"
+          },
+          "playedGames": 5,
+          "form": null,
+          "won": 2,
+          "draw": 2,
+          "lost": 1,
+          "points": 8,
+          "goalsFor": 5,
+          "goalsAgainst": 4,
+          "goalDifference": 1
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 1783,
             "name": "CR Flamengo",
             "shortName": "Flamengo",
@@ -105,7 +124,7 @@
           "goalDifference": 2
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 4241,
             "name": "Coritiba FBC",
@@ -121,25 +140,6 @@
           "points": 7,
           "goalsFor": 7,
           "goalsAgainst": 6,
-          "goalDifference": 1
-        },
-        {
-          "position": 6,
-          "team": {
-            "id": 1765,
-            "name": "Fluminense FC",
-            "shortName": "Fluminense",
-            "tla": "FLU",
-            "crest": "https://crests.football-data.org/1765.png"
-          },
-          "playedGames": 4,
-          "form": null,
-          "won": 2,
-          "draw": 1,
-          "lost": 1,
-          "points": 7,
-          "goalsFor": 5,
-          "goalsAgainst": 4,
           "goalDifference": 1
         },
         {
@@ -316,6 +316,25 @@
         {
           "position": 16,
           "team": {
+            "id": 4287,
+            "name": "Clube do Remo",
+            "shortName": "Clube do Remo",
+            "tla": "CRE",
+            "crest": "https://crests.football-data.org/4287.png"
+          },
+          "playedGames": 5,
+          "form": null,
+          "won": 0,
+          "draw": 4,
+          "lost": 1,
+          "points": 4,
+          "goalsFor": 6,
+          "goalsAgainst": 8,
+          "goalDifference": -2
+        },
+        {
+          "position": 17,
+          "team": {
             "id": 1770,
             "name": "Botafogo FR",
             "shortName": "Botafogo",
@@ -331,25 +350,6 @@
           "goalsFor": 7,
           "goalsAgainst": 6,
           "goalDifference": 1
-        },
-        {
-          "position": 17,
-          "team": {
-            "id": 4287,
-            "name": "Clube do Remo",
-            "shortName": "Clube do Remo",
-            "tla": "CRE",
-            "crest": "https://crests.football-data.org/4287.png"
-          },
-          "playedGames": 4,
-          "form": null,
-          "won": 0,
-          "draw": 3,
-          "lost": 1,
-          "points": 3,
-          "goalsFor": 6,
-          "goalsAgainst": 8,
-          "goalDifference": -2
         },
         {
           "position": 18,
