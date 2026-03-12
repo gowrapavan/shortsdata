@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-11T06:36:12.796220Z",
+    "last_updated": "2026-03-12T06:38:28.581592Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -652,11 +652,20 @@
                     "nationality": "Brazil"
                 },
                 {
+                    "player_name": "Khvicha Kvaratskhelia",
+                    "team_name": "Paris Saint-Germain FC",
+                    "team_crest": "https://crests.football-data.org/524.png",
+                    "goals": 6,
+                    "assists": 4,
+                    "penalties": null,
+                    "nationality": "Georgia"
+                },
+                {
                     "player_name": "Jens Hauge",
                     "team_name": "FK Bodø/Glimt",
                     "team_crest": "https://crests.football-data.org/5721.png",
                     "goals": 6,
-                    "assists": 1,
+                    "assists": 2,
                     "penalties": null,
                     "nationality": "Norway"
                 },
@@ -668,15 +677,6 @@
                     "assists": 3,
                     "penalties": null,
                     "nationality": "England"
-                },
-                {
-                    "player_name": "Camilo Durán",
-                    "team_name": "Qarabağ Ağdam FK",
-                    "team_crest": "https://crests.football-data.org/611.png",
-                    "goals": 5,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Colombia"
                 }
             ]
         }
