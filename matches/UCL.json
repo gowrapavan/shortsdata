@@ -4129,7 +4129,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 524,
@@ -4140,11 +4140,11 @@
     "AwayTeamName": "Chelsea FC",
     "HomeTeamLogo": "https://crests.football-data.org/524.png",
     "AwayTeamLogo": "https://crests.football-data.org/61.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 5,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 524,
     "Points": {
-      "524": 0,
+      "524": 3,
       "61": 0
     },
     "Goals": []
@@ -4181,7 +4181,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 86,
@@ -4194,9 +4194,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/65.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 86,
     "Points": {
-      "86": 0,
+      "86": 3,
       "65": 0
     },
     "Goals": []
@@ -4285,7 +4285,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5721,
@@ -4296,11 +4296,11 @@
     "AwayTeamName": "Sporting Clube de Portugal",
     "HomeTeamLogo": "https://crests.football-data.org/5721.png",
     "AwayTeamLogo": "https://crests.football-data.org/498.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 5721,
     "Points": {
-      "5721": 0,
+      "5721": 3,
       "498": 0
     },
     "Goals": []

@@ -11095,7 +11095,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 332,
@@ -11108,9 +11108,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/69.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 332,
     "Points": {
-      "332": 0,
+      "332": 3,
       "69": 0
     },
     "Goals": []
@@ -11173,7 +11173,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 68,
@@ -11184,11 +11184,11 @@
     "AwayTeamName": "Sheffield United FC",
     "HomeTeamLogo": "https://crests.football-data.org/68.png",
     "AwayTeamLogo": "https://crests.football-data.org/356.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 68,
     "Points": {
-      "68": 0,
+      "68": 3,
       "356": 0
     },
     "Goals": []
@@ -11303,7 +11303,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1076,
@@ -11316,9 +11316,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/1081.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 1076,
     "Points": {
-      "1076": 0,
+      "1076": 3,
       "1081": 0
     },
     "Goals": []
@@ -11329,7 +11329,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 343,
@@ -11342,10 +11342,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/348.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 348,
     "Points": {
       "343": 0,
-      "348": 0
+      "348": 3
     },
     "Goals": []
   },
@@ -11355,7 +11355,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1082,
@@ -11368,9 +11368,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/59.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 1082,
     "Points": {
-      "1082": 0,
+      "1082": 3,
       "59": 0
     },
     "Goals": []
@@ -11381,7 +11381,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-11",
     "DateTime": "2026-03-11T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 74,
@@ -11393,11 +11393,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/74.png",
     "AwayTeamLogo": "https://crests.football-data.org/340.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "74": 0,
-      "340": 0
+      "74": 1,
+      "340": 1
     },
     "Goals": []
   },
