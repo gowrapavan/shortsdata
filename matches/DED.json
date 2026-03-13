@@ -6111,7 +6111,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-03-13",
     "DateTime": "2026-03-13T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 684,
@@ -6122,12 +6122,12 @@
     "AwayTeamName": "FC Groningen",
     "HomeTeamLogo": "https://crests.football-data.org/684.png",
     "AwayTeamLogo": "https://crests.football-data.org/677.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "684": 0,
-      "677": 0
+      "684": 1,
+      "677": 1
     },
     "Goals": []
   },
