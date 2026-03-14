@@ -11407,7 +11407,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 332,
@@ -11418,12 +11418,12 @@
     "AwayTeamName": "Sheffield United FC",
     "HomeTeamLogo": "https://crests.football-data.org/332.png",
     "AwayTeamLogo": "https://crests.football-data.org/356.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "332": 0,
-      "356": 0
+      "332": 1,
+      "356": 1
     },
     "Goals": []
   },
@@ -11459,7 +11459,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 338,
@@ -11471,11 +11471,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/338.png",
     "AwayTeamLogo": "https://crests.football-data.org/69.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 69,
     "Points": {
       "338": 0,
-      "69": 0
+      "69": 3
     },
     "Goals": []
   },
@@ -11511,7 +11511,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 384,
@@ -11522,12 +11522,12 @@
     "AwayTeamName": "Blackburn Rovers FC",
     "HomeTeamLogo": "https://crests.football-data.org/384.png",
     "AwayTeamLogo": "https://crests.football-data.org/59.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 59,
     "Points": {
       "384": 0,
-      "59": 0
+      "59": 3
     },
     "Goals": []
   },
@@ -11537,7 +11537,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 68,
@@ -11548,11 +11548,11 @@
     "AwayTeamName": "Preston North End FC",
     "HomeTeamLogo": "https://crests.football-data.org/68.png",
     "AwayTeamLogo": "https://crests.football-data.org/1081.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 68,
     "Points": {
-      "68": 0,
+      "68": 3,
       "1081": 0
     },
     "Goals": []
@@ -11615,7 +11615,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 345,
@@ -11627,11 +11627,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/345.png",
     "AwayTeamLogo": "https://crests.football-data.org/349.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 349,
     "Points": {
       "345": 0,
-      "349": 0
+      "349": 3
     },
     "Goals": []
   },
@@ -11641,7 +11641,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 70,
@@ -11652,11 +11652,11 @@
     "AwayTeamName": "Watford FC",
     "HomeTeamLogo": "https://crests.football-data.org/70.png",
     "AwayTeamLogo": "https://crests.football-data.org/346.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 70,
     "Points": {
-      "70": 0,
+      "70": 3,
       "346": 0
     },
     "Goals": []
@@ -11667,7 +11667,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 74,
@@ -11678,11 +11678,11 @@
     "AwayTeamName": "Hull City AFC",
     "HomeTeamLogo": "https://crests.football-data.org/74.png",
     "AwayTeamLogo": "https://crests.football-data.org/322.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 74,
     "Points": {
-      "74": 0,
+      "74": 3,
       "322": 0
     },
     "Goals": []

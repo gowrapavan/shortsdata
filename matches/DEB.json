@@ -5783,7 +5783,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 3,
@@ -5794,11 +5794,11 @@
     "AwayTeamName": "FC Bayern München",
     "HomeTeamLogo": "https://crests.football-data.org/3.png",
     "AwayTeamLogo": "https://crests.football-data.org/5.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 3,
     "Points": {
-      "3": 0,
+      "3": 3,
       "5": 0
     },
     "Goals": []
@@ -5861,7 +5861,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 2,
@@ -5872,12 +5872,12 @@
     "AwayTeamName": "VfL Wolfsburg",
     "HomeTeamLogo": "https://crests.football-data.org/2.png",
     "AwayTeamLogo": "https://crests.football-data.org/11.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "2": 0,
-      "11": 0
+      "2": 1,
+      "11": 1
     },
     "Goals": []
   },
@@ -5887,7 +5887,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 4,
@@ -5898,11 +5898,11 @@
     "AwayTeamName": "FC Augsburg",
     "HomeTeamLogo": "https://crests.football-data.org/4.png",
     "AwayTeamLogo": "https://crests.football-data.org/16.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 4,
     "Points": {
-      "4": 0,
+      "4": 3,
       "16": 0
     },
     "Goals": []
@@ -5965,7 +5965,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 19,
@@ -5976,12 +5976,12 @@
     "AwayTeamName": "1. FC Heidenheim 1846",
     "HomeTeamLogo": "https://crests.football-data.org/19.png",
     "AwayTeamLogo": "https://crests.football-data.org/44.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "19": 0,
-      "44": 0
+      "19": 1,
+      "44": 1
     },
     "Goals": []
   },
@@ -6002,8 +6002,8 @@
     "AwayTeamName": "1. FC Köln",
     "HomeTeamLogo": "https://crests.football-data.org/7.png",
     "AwayTeamLogo": "https://crests.football-data.org/1.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "7": 0,

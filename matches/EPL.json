@@ -7445,7 +7445,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 71,
@@ -7457,11 +7457,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/71.png",
     "AwayTeamLogo": "https://crests.football-data.org/397.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 397,
     "Points": {
       "71": 0,
-      "397": 0
+      "397": 3
     },
     "Goals": []
   },
@@ -7508,8 +7508,8 @@
     "AwayTeamName": "Everton FC",
     "HomeTeamLogo": "https://crests.football-data.org/57.png",
     "AwayTeamLogo": "https://crests.football-data.org/62.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "57": 0,
@@ -7549,7 +7549,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 328,
@@ -7564,8 +7564,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "328": 0,
-      "1044": 0
+      "328": 1,
+      "1044": 1
     },
     "Goals": []
   },
@@ -7586,8 +7586,8 @@
     "AwayTeamName": "Newcastle United FC",
     "HomeTeamLogo": "https://crests.football-data.org/61.png",
     "AwayTeamLogo": "https://crests.football-data.org/67.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "61": 0,
