@@ -7013,7 +7013,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T17:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1048,
@@ -7024,11 +7024,11 @@
     "AwayTeamName": "Valencia CF",
     "HomeTeamLogo": "https://crests.football-data.org/1048.png",
     "AwayTeamLogo": "https://crests.football-data.org/95.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 1048,
     "Points": {
-      "1048": 0,
+      "1048": 3,
       "95": 0
     },
     "Goals": []
@@ -7076,8 +7076,8 @@
     "AwayTeamName": "Elche CF",
     "HomeTeamLogo": "https://crests.football-data.org/86.png",
     "AwayTeamLogo": "https://crests.football-data.org/285.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "86": 0,
