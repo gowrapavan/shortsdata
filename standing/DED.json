@@ -37,18 +37,37 @@
             "tla": "PSV",
             "crest": "https://crests.football-data.org/674.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 22,
           "draw": 2,
-          "lost": 2,
+          "lost": 3,
           "points": 68,
-          "goalsFor": 75,
-          "goalsAgainst": 31,
-          "goalDifference": 44
+          "goalsFor": 77,
+          "goalsAgainst": 34,
+          "goalDifference": 43
         },
         {
           "position": 2,
+          "team": {
+            "id": 1915,
+            "name": "NEC",
+            "shortName": "NEC",
+            "tla": "NEC",
+            "crest": "https://crests.football-data.org/1915.png"
+          },
+          "playedGames": 27,
+          "form": null,
+          "won": 14,
+          "draw": 7,
+          "lost": 6,
+          "points": 49,
+          "goalsFor": 67,
+          "goalsAgainst": 45,
+          "goalDifference": 22
+        },
+        {
+          "position": 3,
           "team": {
             "id": 675,
             "name": "Feyenoord Rotterdam",
@@ -67,26 +86,26 @@
           "goalDifference": 20
         },
         {
-          "position": 3,
+          "position": 4,
           "team": {
-            "id": 1915,
-            "name": "NEC",
-            "shortName": "NEC",
-            "tla": "NEC",
-            "crest": "https://crests.football-data.org/1915.png"
+            "id": 678,
+            "name": "AFC Ajax",
+            "shortName": "Ajax",
+            "tla": "AJA",
+            "crest": "https://crests.football-data.org/678.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
-          "won": 13,
-          "draw": 7,
-          "lost": 6,
-          "points": 46,
-          "goalsFor": 64,
-          "goalsAgainst": 43,
-          "goalDifference": 21
+          "won": 11,
+          "draw": 12,
+          "lost": 4,
+          "points": 45,
+          "goalsFor": 48,
+          "goalsAgainst": 34,
+          "goalDifference": 14
         },
         {
-          "position": 4,
+          "position": 5,
           "team": {
             "id": 666,
             "name": "FC Twente '65",
@@ -105,26 +124,26 @@
           "goalDifference": 18
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
-            "id": 678,
-            "name": "AFC Ajax",
-            "shortName": "Ajax",
-            "tla": "AJA",
-            "crest": "https://crests.football-data.org/678.png"
+            "id": 673,
+            "name": "SC Heerenveen",
+            "shortName": "Heerenveen",
+            "tla": "HEE",
+            "crest": "https://crests.football-data.org/673.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 11,
-          "draw": 11,
-          "lost": 4,
-          "points": 44,
-          "goalsFor": 48,
-          "goalsAgainst": 34,
-          "goalDifference": 14
+          "draw": 7,
+          "lost": 9,
+          "points": 40,
+          "goalsFor": 45,
+          "goalsAgainst": 44,
+          "goalDifference": 1
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 682,
             "name": "AZ",
@@ -143,7 +162,7 @@
           "goalDifference": 1
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 6806,
             "name": "Sparta Rotterdam",
@@ -151,34 +170,15 @@
             "tla": "SPA",
             "crest": "https://crests.football-data.org/6806.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 11,
-          "draw": 5,
+          "draw": 6,
           "lost": 10,
-          "points": 38,
+          "points": 39,
           "goalsFor": 33,
           "goalsAgainst": 43,
           "goalDifference": -10
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 673,
-            "name": "SC Heerenveen",
-            "shortName": "Heerenveen",
-            "tla": "HEE",
-            "crest": "https://crests.football-data.org/673.png"
-          },
-          "playedGames": 26,
-          "form": null,
-          "won": 10,
-          "draw": 7,
-          "lost": 9,
-          "points": 37,
-          "goalsFor": 44,
-          "goalsAgainst": 44,
-          "goalDifference": 0
         },
         {
           "position": 9,
@@ -227,15 +227,15 @@
             "tla": "SIT",
             "crest": "https://crests.football-data.org/1920.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
-          "won": 9,
+          "won": 10,
           "draw": 5,
           "lost": 12,
-          "points": 32,
-          "goalsFor": 40,
-          "goalsAgainst": 49,
-          "goalDifference": -9
+          "points": 35,
+          "goalsFor": 42,
+          "goalsAgainst": 50,
+          "goalDifference": -8
         },
         {
           "position": 12,
@@ -284,15 +284,15 @@
             "tla": "VOL",
             "crest": "https://crests.football-data.org/1919.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 7,
           "draw": 6,
-          "lost": 13,
+          "lost": 14,
           "points": 27,
-          "goalsFor": 29,
-          "goalsAgainst": 44,
-          "goalDifference": -15
+          "goalsFor": 30,
+          "goalsAgainst": 46,
+          "goalDifference": -16
         },
         {
           "position": 15,
@@ -322,15 +322,15 @@
             "tla": "TEL",
             "crest": "https://crests.football-data.org/1912.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 5,
           "draw": 9,
-          "lost": 12,
+          "lost": 13,
           "points": 24,
           "goalsFor": 35,
-          "goalsAgainst": 42,
-          "goalDifference": -7
+          "goalsAgainst": 43,
+          "goalDifference": -8
         },
         {
           "position": 17,
