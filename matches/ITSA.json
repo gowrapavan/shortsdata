@@ -7231,7 +7231,7 @@
     "RoundName": "Serie A",
     "Date": "2026-03-13",
     "DateTime": "2026-03-13T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 586,
@@ -7242,11 +7242,11 @@
     "AwayTeamName": "Parma Calcio 1913",
     "HomeTeamLogo": "https://crests.football-data.org/586.png",
     "AwayTeamLogo": "https://crests.football-data.org/112.png",
-    "HomeTeamScore": 3,
+    "HomeTeamScore": 4,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 586,
     "Points": {
-      "586": 0,
+      "586": 3,
       "112": 0
     },
     "Goals": []

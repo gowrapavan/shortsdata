@@ -5869,7 +5869,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-03-13",
     "DateTime": "2026-03-13T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 516,
@@ -5882,9 +5882,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/519.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 516,
     "Points": {
-      "516": 0,
+      "516": 3,
       "519": 0
     },
     "Goals": []

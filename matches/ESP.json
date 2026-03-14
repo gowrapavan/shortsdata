@@ -6909,7 +6909,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-03-13",
     "DateTime": "2026-03-13T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 263,
@@ -6921,11 +6921,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/263.png",
     "AwayTeamLogo": "https://crests.football-data.org/94.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "263": 0,
-      "94": 0
+      "263": 1,
+      "94": 1
     },
     "Goals": []
   },
