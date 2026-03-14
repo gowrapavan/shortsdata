@@ -1,27 +1,5 @@
 [
   {
-    "time": "16:00",
-    "game": "football",
-    "league": "premier",
-    "home_team": "Sunderland",
-    "away_team": "Brighton",
-    "label": "sun-bri",
-    "home_logo": "https://crests.football-data.org/71.png",
-    "away_logo": "https://crests.football-data.org/397.png",
-    "url": "https://24start.net/homes/blog1/"
-  },
-  {
-    "time": "16:00",
-    "game": "football",
-    "league": "premier",
-    "home_team": "Burnley",
-    "away_team": "Bournemouth",
-    "label": "bur-bou",
-    "home_logo": "https://crests.football-data.org/328.png",
-    "away_logo": "https://crests.football-data.org/bournemouth.png",
-    "url": "https://24start.net/homes/blog2/"
-  },
-  {
     "time": "18:30",
     "game": "football",
     "league": "premier",
@@ -66,17 +44,6 @@
     "url": "https://24start.net/homes/blog2/"
   },
   {
-    "time": "15:00",
-    "game": "football",
-    "league": "seriea",
-    "home_team": "Inter",
-    "away_team": "Atalanta",
-    "label": "int-ata",
-    "home_logo": "https://crests.football-data.org/108.png",
-    "away_logo": "https://crests.football-data.org/102.png",
-    "url": "https://24start.net/homes/blog3/"
-  },
-  {
     "time": "18:00",
     "game": "football",
     "league": "seriea",
@@ -105,8 +72,8 @@
     "home_team": "",
     "away_team": "",
     "label": "ovogoal",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
     "url": "https://24start.net/mma/totalm/"
   },
   {
@@ -116,8 +83,8 @@
     "home_team": "",
     "away_team": "",
     "label": "ovogoal",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
     "url": "https://24start.net/homes/blogf1/"
   }
 ]
