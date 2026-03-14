@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 109,
+            "name": "Juventus FC",
+            "shortName": "Juventus",
+            "tla": "JUV",
+            "crest": "https://crests.football-data.org/109.png"
+          },
+          "playedGames": 29,
+          "form": null,
+          "won": 15,
+          "draw": 8,
+          "lost": 6,
+          "points": 53,
+          "goalsFor": 51,
+          "goalsAgainst": 28,
+          "goalDifference": 23
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 7397,
             "name": "Como 1907",
             "shortName": "Como 1907",
@@ -103,25 +122,6 @@
           "goalsFor": 46,
           "goalsAgainst": 21,
           "goalDifference": 25
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 109,
-            "name": "Juventus FC",
-            "shortName": "Juventus",
-            "tla": "JUV",
-            "crest": "https://crests.football-data.org/109.png"
-          },
-          "playedGames": 29,
-          "form": null,
-          "won": 14,
-          "draw": 9,
-          "lost": 6,
-          "points": 51,
-          "goalsFor": 50,
-          "goalsAgainst": 28,
-          "goalDifference": 22
         },
         {
           "position": 6,
@@ -230,12 +230,12 @@
           "playedGames": 29,
           "form": null,
           "won": 10,
-          "draw": 7,
-          "lost": 12,
-          "points": 37,
+          "draw": 6,
+          "lost": 13,
+          "points": 36,
           "goalsFor": 33,
-          "goalsAgainst": 41,
-          "goalDifference": -8
+          "goalsAgainst": 42,
+          "goalDifference": -9
         },
         {
           "position": 12,

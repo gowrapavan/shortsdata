@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 548,
+            "name": "AS Monaco FC",
+            "shortName": "Monaco",
+            "tla": "ASM",
+            "crest": "https://crests.football-data.org/548.png"
+          },
+          "playedGames": 26,
+          "form": null,
+          "won": 13,
+          "draw": 4,
+          "lost": 9,
+          "points": 43,
+          "goalsFor": 45,
+          "goalsAgainst": 37,
+          "goalDifference": 8
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 529,
             "name": "Stade Rennais FC 1901",
             "shortName": "Stade Rennais",
@@ -124,7 +143,7 @@
           "goalDifference": 7
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 521,
             "name": "Lille OSC",
@@ -140,25 +159,6 @@
           "points": 41,
           "goalsFor": 38,
           "goalsAgainst": 32,
-          "goalDifference": 6
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": 548,
-            "name": "AS Monaco FC",
-            "shortName": "Monaco",
-            "tla": "ASM",
-            "crest": "https://crests.football-data.org/548.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 12,
-          "draw": 4,
-          "lost": 9,
-          "points": 40,
-          "goalsFor": 43,
-          "goalsAgainst": 37,
           "goalDifference": 6
         },
         {
@@ -208,15 +208,15 @@
             "tla": "BRE",
             "crest": "https://crests.football-data.org/512.png"
           },
-          "playedGames": 25,
+          "playedGames": 26,
           "form": null,
           "won": 10,
           "draw": 6,
-          "lost": 9,
+          "lost": 10,
           "points": 36,
           "goalsFor": 34,
-          "goalsAgainst": 34,
-          "goalDifference": 0
+          "goalsAgainst": 36,
+          "goalDifference": -2
         },
         {
           "position": 11,
