@@ -7257,7 +7257,7 @@
     "RoundName": "Serie A",
     "Date": "2026-03-15",
     "DateTime": "2026-03-15T11:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 450,
@@ -7269,11 +7269,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/450.png",
     "AwayTeamLogo": "https://crests.football-data.org/107.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 107,
     "Points": {
       "450": 0,
-      "107": 0
+      "107": 3
     },
     "Goals": []
   },
@@ -7346,8 +7346,8 @@
     "AwayTeamName": "Cagliari Calcio",
     "HomeTeamLogo": "https://crests.football-data.org/487.png",
     "AwayTeamLogo": "https://crests.football-data.org/104.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "487": 0,
@@ -7372,8 +7372,8 @@
     "AwayTeamName": "Bologna FC 1909",
     "HomeTeamLogo": "https://crests.football-data.org/471.png",
     "AwayTeamLogo": "https://crests.football-data.org/103.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "471": 0,
