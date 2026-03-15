@@ -5981,7 +5981,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 678,
@@ -5992,11 +5992,11 @@
     "AwayTeamName": "Sparta Rotterdam",
     "HomeTeamLogo": "https://crests.football-data.org/678.png",
     "AwayTeamLogo": "https://crests.football-data.org/6806.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 4,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 678,
     "Points": {
-      "678": 0,
+      "678": 3,
       "6806": 0
     },
     "Goals": []

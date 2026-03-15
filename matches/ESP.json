@@ -7065,7 +7065,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-03-14",
     "DateTime": "2026-03-14T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 86,
@@ -7076,11 +7076,11 @@
     "AwayTeamName": "Elche CF",
     "HomeTeamLogo": "https://crests.football-data.org/86.png",
     "AwayTeamLogo": "https://crests.football-data.org/285.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 1,
+    "Result": 86,
     "Points": {
-      "86": 0,
+      "86": 3,
       "285": 0
     },
     "Goals": []
