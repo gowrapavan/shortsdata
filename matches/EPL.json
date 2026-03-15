@@ -7471,7 +7471,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-15",
     "DateTime": "2026-03-15T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 354,
@@ -7486,8 +7486,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "354": 0,
-      "341": 0
+      "354": 1,
+      "341": 1
     },
     "Goals": []
   },
@@ -7601,7 +7601,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-15",
     "DateTime": "2026-03-15T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 64,
@@ -7612,12 +7612,12 @@
     "AwayTeamName": "Tottenham Hotspur FC",
     "HomeTeamLogo": "https://crests.football-data.org/64.png",
     "AwayTeamLogo": "https://crests.football-data.org/73.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "64": 0,
-      "73": 0
+      "64": 1,
+      "73": 1
     },
     "Goals": []
   },
@@ -7627,7 +7627,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-15",
     "DateTime": "2026-03-15T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 66,
@@ -7638,11 +7638,11 @@
     "AwayTeamName": "Aston Villa FC",
     "HomeTeamLogo": "https://crests.football-data.org/66.png",
     "AwayTeamLogo": "https://crests.football-data.org/58.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 66,
     "Points": {
-      "66": 0,
+      "66": 3,
       "58": 0
     },
     "Goals": []
@@ -7653,7 +7653,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-15",
     "DateTime": "2026-03-15T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 351,
@@ -7664,11 +7664,11 @@
     "AwayTeamName": "Fulham FC",
     "HomeTeamLogo": "https://crests.football-data.org/351.png",
     "AwayTeamLogo": "https://crests.football-data.org/63.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 351,
     "Points": {
-      "351": 0,
+      "351": 3,
       "63": 0
     },
     "Goals": []
