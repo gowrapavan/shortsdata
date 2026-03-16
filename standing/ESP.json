@@ -278,6 +278,25 @@
         {
           "position": 14,
           "team": {
+            "id": 87,
+            "name": "Rayo Vallecano de Madrid",
+            "shortName": "Rayo Vallecano",
+            "tla": "RAY",
+            "crest": "https://crests.football-data.org/87.png"
+          },
+          "playedGames": 28,
+          "form": null,
+          "won": 7,
+          "draw": 11,
+          "lost": 10,
+          "points": 32,
+          "goalsFor": 27,
+          "goalsAgainst": 33,
+          "goalDifference": -6
+        },
+        {
+          "position": 15,
+          "team": {
             "id": 559,
             "name": "Sevilla FC",
             "shortName": "Sevilla FC",
@@ -293,25 +312,6 @@
           "goalsFor": 37,
           "goalsAgainst": 47,
           "goalDifference": -10
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 87,
-            "name": "Rayo Vallecano de Madrid",
-            "shortName": "Rayo Vallecano",
-            "tla": "RAY",
-            "crest": "https://crests.football-data.org/87.png"
-          },
-          "playedGames": 27,
-          "form": null,
-          "won": 7,
-          "draw": 10,
-          "lost": 10,
-          "points": 31,
-          "goalsFor": 27,
-          "goalsAgainst": 33,
-          "goalDifference": -6
         },
         {
           "position": 16,
@@ -379,12 +379,12 @@
             "tla": "LEV",
             "crest": "https://crests.football-data.org/88.png"
           },
-          "playedGames": 27,
+          "playedGames": 28,
           "form": null,
           "won": 5,
-          "draw": 7,
+          "draw": 8,
           "lost": 15,
-          "points": 22,
+          "points": 23,
           "goalsFor": 29,
           "goalsAgainst": 45,
           "goalDifference": -16

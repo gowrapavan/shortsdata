@@ -316,6 +316,25 @@
         {
           "position": 16,
           "team": {
+            "id": 99,
+            "name": "ACF Fiorentina",
+            "shortName": "Fiorentina",
+            "tla": "FIO",
+            "crest": "https://crests.football-data.org/99.png"
+          },
+          "playedGames": 29,
+          "form": null,
+          "won": 6,
+          "draw": 10,
+          "lost": 13,
+          "points": 28,
+          "goalsFor": 32,
+          "goalsAgainst": 42,
+          "goalDifference": -10
+        },
+        {
+          "position": 17,
+          "team": {
             "id": 5890,
             "name": "US Lecce",
             "shortName": "Lecce",
@@ -333,25 +352,6 @@
           "goalDifference": -18
         },
         {
-          "position": 17,
-          "team": {
-            "id": 99,
-            "name": "ACF Fiorentina",
-            "shortName": "Fiorentina",
-            "tla": "FIO",
-            "crest": "https://crests.football-data.org/99.png"
-          },
-          "playedGames": 28,
-          "form": null,
-          "won": 5,
-          "draw": 10,
-          "lost": 13,
-          "points": 25,
-          "goalsFor": 30,
-          "goalsAgainst": 42,
-          "goalDifference": -12
-        },
-        {
           "position": 18,
           "team": {
             "id": 457,
@@ -360,15 +360,15 @@
             "tla": "CRE",
             "crest": "https://crests.football-data.org/457.png"
           },
-          "playedGames": 28,
+          "playedGames": 29,
           "form": null,
           "won": 5,
           "draw": 9,
-          "lost": 14,
+          "lost": 15,
           "points": 24,
           "goalsFor": 22,
-          "goalsAgainst": 40,
-          "goalDifference": -18
+          "goalsAgainst": 42,
+          "goalDifference": -20
         },
         {
           "position": 19,
