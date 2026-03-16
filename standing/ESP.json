@@ -259,6 +259,25 @@
         {
           "position": 13,
           "team": {
+            "id": 87,
+            "name": "Rayo Vallecano de Madrid",
+            "shortName": "Rayo Vallecano",
+            "tla": "RAY",
+            "crest": "https://crests.football-data.org/87.png"
+          },
+          "playedGames": 28,
+          "form": null,
+          "won": 7,
+          "draw": 11,
+          "lost": 10,
+          "points": 32,
+          "goalsFor": 28,
+          "goalsAgainst": 34,
+          "goalDifference": -6
+        },
+        {
+          "position": 14,
+          "team": {
             "id": 95,
             "name": "Valencia CF",
             "shortName": "Valencia",
@@ -274,25 +293,6 @@
           "goalsFor": 30,
           "goalsAgainst": 42,
           "goalDifference": -12
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 87,
-            "name": "Rayo Vallecano de Madrid",
-            "shortName": "Rayo Vallecano",
-            "tla": "RAY",
-            "crest": "https://crests.football-data.org/87.png"
-          },
-          "playedGames": 28,
-          "form": null,
-          "won": 7,
-          "draw": 11,
-          "lost": 10,
-          "points": 32,
-          "goalsFor": 27,
-          "goalsAgainst": 33,
-          "goalDifference": -6
         },
         {
           "position": 15,
@@ -385,8 +385,8 @@
           "draw": 8,
           "lost": 15,
           "points": 23,
-          "goalsFor": 29,
-          "goalsAgainst": 45,
+          "goalsFor": 30,
+          "goalsAgainst": 46,
           "goalDifference": -16
         },
         {
