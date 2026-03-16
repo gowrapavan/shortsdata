@@ -158,6 +158,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 1154,
+        "name": "Alisson",
+        "position": "Midfield",
+        "dateOfBirth": "1993-06-25",
+        "nationality": "Brazil"
+      },
+      {
         "id": 8503,
         "name": "Otávio",
         "position": "Midfield",
@@ -677,13 +684,6 @@
         "nationality": "Colombia"
       },
       {
-        "id": 12653,
-        "name": "Júnior Santos",
-        "position": "Offence",
-        "dateOfBirth": "1994-10-11",
-        "nationality": "Brazil"
-      },
-      {
         "id": 21689,
         "name": "Hulk",
         "position": "Offence",
@@ -923,13 +923,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 1541,
-        "name": "Gustavo Cuéllar",
-        "position": "Midfield",
-        "dateOfBirth": "1992-10-14",
-        "nationality": "Colombia"
-      },
-      {
         "id": 8863,
         "name": "Francis Amuzu",
         "position": "Midfield",
@@ -984,6 +977,13 @@
         "position": "Midfield",
         "dateOfBirth": "2004-02-27",
         "nationality": "Colombia"
+      },
+      {
+        "id": 213173,
+        "name": "Leonel Perez",
+        "position": "Midfield",
+        "dateOfBirth": "2004-08-09",
+        "nationality": "Argentina"
       },
       {
         "id": 249139,
@@ -1160,13 +1160,6 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2006-06-09",
         "nationality": "Ukraine"
-      },
-      {
-        "id": 278583,
-        "name": "Carlos Eduardo",
-        "position": "Goalkeeper",
-        "dateOfBirth": "2006-03-10",
-        "nationality": "Brazil"
       },
       {
         "id": 1386,
@@ -1391,13 +1384,6 @@
         "position": "Midfield",
         "dateOfBirth": "1995-11-01",
         "nationality": "Brazil"
-      },
-      {
-        "id": 28282,
-        "name": "Gonzalo Mastriani",
-        "position": "Offence",
-        "dateOfBirth": "1993-04-28",
-        "nationality": "Uruguay"
       },
       {
         "id": 56226,
@@ -1794,13 +1780,6 @@
     "venue": "Estádio Nilton Santos",
     "runningCompetitions": [
       {
-        "id": 2152,
-        "name": "Copa Libertadores",
-        "code": "CLI",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/CLI.svg"
-      },
-      {
         "id": 2013,
         "name": "Campeonato Brasileiro Série A",
         "code": "BSA",
@@ -1876,6 +1855,13 @@
         "position": "Defence",
         "dateOfBirth": "1992-12-15",
         "nationality": "Brazil"
+      },
+      {
+        "id": 28433,
+        "name": "Nahuel Ferraresi",
+        "position": "Defence",
+        "dateOfBirth": "1998-11-19",
+        "nationality": "Venezuela"
       },
       {
         "id": 37418,
@@ -2127,6 +2113,13 @@
         "name": "Artur Guimaraes",
         "position": "Offence",
         "dateOfBirth": "1998-02-15",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 12653,
+        "name": "Júnior Santos",
+        "position": "Offence",
+        "dateOfBirth": "1994-10-11",
         "nationality": "Brazil"
       },
       {
@@ -2502,13 +2495,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 249191,
-        "name": "Vitor Hugo",
-        "position": "Offence",
-        "dateOfBirth": "2004-02-18",
-        "nationality": "Brazil"
-      },
-      {
         "id": 272933,
         "name": "Kenji",
         "position": "Offence",
@@ -2741,13 +2727,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 293338,
-        "name": "Enzo",
-        "position": "Defence",
-        "dateOfBirth": "2005-11-18",
-        "nationality": "Brazil"
-      },
-      {
         "id": 1485,
         "name": "Giovanni Augusto",
         "position": "Midfield",
@@ -2846,6 +2825,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 293715,
+        "name": "Ferreira",
+        "position": "Midfield",
+        "dateOfBirth": "2011-05-18",
+        "nationality": "Brazil"
+      },
+      {
         "id": 1286,
         "name": "Perotti",
         "position": "Offence",
@@ -2867,10 +2853,10 @@
         "nationality": "Brazil"
       },
       {
-        "id": 250379,
-        "name": "Mailson",
+        "id": 220740,
+        "name": "Kaíque Maciel",
         "position": "Offence",
-        "dateOfBirth": "2003-05-11",
+        "dateOfBirth": "2001-01-31",
         "nationality": "Brazil"
       },
       {
@@ -2918,14 +2904,14 @@
       }
     ],
     "coach": {
-      "id": 102551,
-      "firstName": "Hernán",
-      "lastName": "Crespo",
-      "name": "Hernán Crespo",
-      "dateOfBirth": "1975-07-05",
-      "nationality": "Argentina",
+      "id": 11184,
+      "firstName": "",
+      "lastName": "Roger Machado",
+      "name": "Roger Machado",
+      "dateOfBirth": "1975-04-25",
+      "nationality": "Brazil",
       "contract": {
-        "start": "2025-06",
+        "start": "2026-03",
         "until": "2026-12"
       }
     },
@@ -2978,13 +2964,6 @@
         "position": "Defence",
         "dateOfBirth": "1994-03-07",
         "nationality": "Brazil"
-      },
-      {
-        "id": 28433,
-        "name": "Nahuel Ferraresi",
-        "position": "Defence",
-        "dateOfBirth": "1998-11-19",
-        "nationality": "Venezuela"
       },
       {
         "id": 46523,
@@ -3061,13 +3040,6 @@
         "name": "Raphael",
         "position": "Defence",
         "dateOfBirth": "2005-03-13",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 1154,
-        "name": "Alisson",
-        "position": "Midfield",
-        "dateOfBirth": "1993-06-25",
         "nationality": "Brazil"
       },
       {
@@ -3260,13 +3232,6 @@
     "clubColors": "Blue / White / Red",
     "venue": "Estádio Governador Roberto Santos",
     "runningCompetitions": [
-      {
-        "id": 2152,
-        "name": "Copa Libertadores",
-        "code": "CLI",
-        "type": "CUP",
-        "emblem": "https://crests.football-data.org/CLI.svg"
-      },
       {
         "id": 2013,
         "name": "Campeonato Brasileiro Série A",
@@ -4762,13 +4727,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 249153,
-        "name": "Miguel",
-        "position": "Offence",
-        "dateOfBirth": "2005-02-04",
-        "nationality": "Brazil"
-      },
-      {
         "id": 250521,
         "name": "Diego Tarzia",
         "position": "Offence",
@@ -4804,13 +4762,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 21166,
-        "name": "Riccieli",
-        "position": "Centre-Back",
-        "dateOfBirth": "1998-09-17",
-        "nationality": "Brazil"
-      },
-      {
         "id": 150786,
         "name": "Rúben Ramos",
         "position": "Defensive Midfield",
@@ -4822,6 +4773,13 @@
         "name": "Ramon",
         "position": "Left-Back",
         "dateOfBirth": "2001-03-13",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 21166,
+        "name": "Riccieli",
+        "position": "Centre-Back",
+        "dateOfBirth": "1998-09-17",
         "nationality": "Brazil"
       }
     ],
@@ -6173,13 +6131,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 292476,
-        "name": "Rafael",
-        "position": "Midfield",
-        "dateOfBirth": "2006-03-11",
-        "nationality": "Brazil"
-      },
-      {
         "id": 12960,
         "name": "Carlinhos",
         "position": "Offence",
@@ -6921,7 +6872,7 @@
         "name": "Benjamin Arhin",
         "position": "Offence",
         "dateOfBirth": "2006-05-29",
-        "nationality": "Brazil"
+        "nationality": "Ghana"
       },
       {
         "id": 290700,
@@ -7223,13 +7174,6 @@
         "name": "Moises",
         "position": "Offence",
         "dateOfBirth": "1996-09-02",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 203911,
-        "name": "Rafael Freitas",
-        "position": "Offence",
-        "dateOfBirth": "2005-08-18",
         "nationality": "Brazil"
       },
       {
