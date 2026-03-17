@@ -1,13 +1,46 @@
 [
   {
+    "time": "18:45",
+    "game": "football",
+    "league": "champions",
+    "home_team": "Sporting CP",
+    "away_team": "BodÃ¸O / Glimt",
+    "label": "spo-bod",
+    "home_logo": "https://crests.football-data.org/498.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
+    "url": "https://24start.net/homes/blog1/"
+  },
+  {
     "time": "21:00",
     "game": "football",
-    "league": "premier",
-    "home_team": "Brentford",
-    "away_team": "Wolves",
-    "label": "bre-wol",
-    "home_logo": "https://crests.football-data.org/402.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "league": "champions",
+    "home_team": "Man City",
+    "away_team": "Real Madrid",
+    "label": "man-rea",
+    "home_logo": "https://crests.football-data.org/65.png",
+    "away_logo": "https://crests.football-data.org/86.png",
     "url": "https://24start.net/homes/blog1/"
+  },
+  {
+    "time": "21:00",
+    "game": "football",
+    "league": "champions",
+    "home_team": "Chelsea",
+    "away_team": "PSG",
+    "label": "che-psg",
+    "home_logo": "https://crests.football-data.org/61.png",
+    "away_logo": "https://crests.football-data.org/524.png",
+    "url": "https://24start.net/homes/blog2/"
+  },
+  {
+    "time": "21:00",
+    "game": "football",
+    "league": "champions",
+    "home_team": "Arsenal",
+    "away_team": "Bayer Leverkusen",
+    "label": "ars-bay",
+    "home_logo": "https://crests.football-data.org/57.png",
+    "away_logo": "https://crests.football-data.org/3.png",
+    "url": "https://24start.net/homes/blog3/"
   }
 ]
