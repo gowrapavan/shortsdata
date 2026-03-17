@@ -4348,8 +4348,8 @@
     "AwayTeamName": "Paris Saint-Germain FC",
     "HomeTeamLogo": "https://crests.football-data.org/61.png",
     "AwayTeamLogo": "https://crests.football-data.org/524.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
       "61": 0,
@@ -4400,8 +4400,8 @@
     "AwayTeamName": "Real Madrid CF",
     "HomeTeamLogo": "https://crests.football-data.org/65.png",
     "AwayTeamLogo": "https://crests.football-data.org/86.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "65": 0,
@@ -4493,7 +4493,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-17",
     "DateTime": "2026-03-17T17:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 498,
@@ -4504,11 +4504,11 @@
     "AwayTeamName": "FK Bodø/Glimt",
     "HomeTeamLogo": "https://crests.football-data.org/498.png",
     "AwayTeamLogo": "https://crests.football-data.org/5721.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 5,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 498,
     "Points": {
-      "498": 0,
+      "498": 3,
       "5721": 0
     },
     "Goals": []
@@ -4530,8 +4530,8 @@
     "AwayTeamName": "Bayer 04 Leverkusen",
     "HomeTeamLogo": "https://crests.football-data.org/57.png",
     "AwayTeamLogo": "https://crests.football-data.org/3.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "57": 0,
