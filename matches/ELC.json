@@ -11589,7 +11589,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-16",
     "DateTime": "2026-03-16T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 325,
@@ -11602,10 +11602,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/342.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 342,
     "Points": {
       "325": 0,
-      "342": 0
+      "342": 3
     },
     "Goals": []
   },
