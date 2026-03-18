@@ -4337,7 +4337,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-17",
     "DateTime": "2026-03-17T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 61,
@@ -4350,10 +4350,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/524.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 3,
-    "Result": null,
+    "Result": 524,
     "Points": {
       "61": 0,
-      "524": 0
+      "524": 3
     },
     "Goals": []
   },
@@ -4389,7 +4389,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-17",
     "DateTime": "2026-03-17T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 65,
@@ -4401,11 +4401,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/65.png",
     "AwayTeamLogo": "https://crests.football-data.org/86.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 86,
     "Points": {
       "65": 0,
-      "86": 0
+      "86": 3
     },
     "Goals": []
   },
@@ -4519,7 +4519,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-17",
     "DateTime": "2026-03-17T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 57,
@@ -4532,9 +4532,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/3.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 57,
     "Points": {
-      "57": 0,
+      "57": 3,
       "3": 0
     },
     "Goals": []

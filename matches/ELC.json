@@ -11069,7 +11069,7 @@
     "RoundName": "Championship",
     "Date": "2026-03-17",
     "DateTime": "2026-03-17T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 346,
@@ -11080,11 +11080,11 @@
     "AwayTeamName": "Wrexham AFC",
     "HomeTeamLogo": "https://crests.football-data.org/346.png",
     "AwayTeamLogo": "https://crests.football-data.org/404.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 346,
     "Points": {
-      "346": 0,
+      "346": 3,
       "404": 0
     },
     "Goals": []
