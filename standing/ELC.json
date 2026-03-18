@@ -126,6 +126,25 @@
         {
           "position": 6,
           "team": {
+            "id": 340,
+            "name": "Southampton FC",
+            "shortName": "Southampton",
+            "tla": "SOU",
+            "crest": "https://crests.football-data.org/340.png"
+          },
+          "playedGames": 38,
+          "form": null,
+          "won": 16,
+          "draw": 12,
+          "lost": 10,
+          "points": 60,
+          "goalsFor": 61,
+          "goalsAgainst": 48,
+          "goalDifference": 13
+        },
+        {
+          "position": 7,
+          "team": {
             "id": 404,
             "name": "Wrexham AFC",
             "shortName": "Wrexham",
@@ -141,25 +160,6 @@
           "goalsFor": 58,
           "goalsAgainst": 50,
           "goalDifference": 8
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": 340,
-            "name": "Southampton FC",
-            "shortName": "Southampton",
-            "tla": "SOU",
-            "crest": "https://crests.football-data.org/340.png"
-          },
-          "playedGames": 37,
-          "form": null,
-          "won": 15,
-          "draw": 12,
-          "lost": 10,
-          "points": 57,
-          "goalsFor": 60,
-          "goalsAgainst": 48,
-          "goalDifference": 12
         },
         {
           "position": 8,
@@ -246,15 +246,15 @@
             "tla": "NOR",
             "crest": "https://crests.football-data.org/68.png"
           },
-          "playedGames": 37,
+          "playedGames": 38,
           "form": null,
           "won": 15,
           "draw": 6,
-          "lost": 16,
+          "lost": 17,
           "points": 51,
           "goalsFor": 51,
-          "goalsAgainst": 45,
-          "goalDifference": 6
+          "goalsAgainst": 46,
+          "goalDifference": 5
         },
         {
           "position": 13,
