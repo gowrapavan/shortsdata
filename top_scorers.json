@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-17T06:48:25.172961Z",
+    "last_updated": "2026-03-18T06:47:22.603209Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -619,10 +619,19 @@
                     "player_name": "Erling Haaland",
                     "team_name": "Manchester City FC",
                     "team_crest": "https://crests.football-data.org/65.png",
-                    "goals": 7,
+                    "goals": 8,
                     "assists": null,
                     "penalties": 1,
                     "nationality": "Norway"
+                },
+                {
+                    "player_name": "Khvicha Kvaratskhelia",
+                    "team_name": "Paris Saint-Germain FC",
+                    "team_crest": "https://crests.football-data.org/524.png",
+                    "goals": 7,
+                    "assists": 4,
+                    "penalties": null,
+                    "nationality": "Georgia"
                 },
                 {
                     "player_name": "Victor Osimhen",
@@ -650,15 +659,6 @@
                     "assists": 1,
                     "penalties": null,
                     "nationality": "Brazil"
-                },
-                {
-                    "player_name": "Khvicha Kvaratskhelia",
-                    "team_name": "Paris Saint-Germain FC",
-                    "team_crest": "https://crests.football-data.org/524.png",
-                    "goals": 6,
-                    "assists": 4,
-                    "penalties": null,
-                    "nationality": "Georgia"
                 },
                 {
                     "player_name": "Jens Hauge",
