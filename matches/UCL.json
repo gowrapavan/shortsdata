@@ -4363,7 +4363,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-18",
     "DateTime": "2026-03-18T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 64,
@@ -4376,9 +4376,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/610.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 64,
     "Points": {
-      "64": 0,
+      "64": 3,
       "610": 0
     },
     "Goals": []
@@ -4415,7 +4415,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-18",
     "DateTime": "2026-03-18T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5,
@@ -4426,11 +4426,11 @@
     "AwayTeamName": "Atalanta BC",
     "HomeTeamLogo": "https://crests.football-data.org/5.png",
     "AwayTeamLogo": "https://crests.football-data.org/102.png",
-    "HomeTeamScore": 3,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 1,
+    "Result": 5,
     "Points": {
-      "5": 0,
+      "5": 3,
       "102": 0
     },
     "Goals": []
@@ -4467,7 +4467,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-03-18",
     "DateTime": "2026-03-18T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 73,
@@ -4478,11 +4478,11 @@
     "AwayTeamName": "Club Atlético de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/73.png",
     "AwayTeamLogo": "https://crests.football-data.org/78.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 73,
     "Points": {
-      "73": 0,
+      "73": 3,
       "78": 0
     },
     "Goals": []
