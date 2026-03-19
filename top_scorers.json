@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-18T06:47:22.603209Z",
+    "last_updated": "2026-03-19T06:42:03.038864Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -598,21 +598,21 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Harry Kane",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 10,
+                    "assists": null,
+                    "penalties": 3,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Anthony Gordon",
                     "team_name": "Newcastle United FC",
                     "team_crest": "https://crests.football-data.org/67.png",
                     "goals": 10,
                     "assists": 2,
                     "penalties": 5,
-                    "nationality": "England"
-                },
-                {
-                    "player_name": "Harry Kane",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 8,
-                    "assists": null,
-                    "penalties": 2,
                     "nationality": "England"
                 },
                 {
@@ -623,6 +623,15 @@
                     "assists": null,
                     "penalties": 1,
                     "nationality": "Norway"
+                },
+                {
+                    "player_name": "Julián Álvarez",
+                    "team_name": "Club Atlético de Madrid",
+                    "team_crest": "https://crests.football-data.org/78.png",
+                    "goals": 8,
+                    "assists": 3,
+                    "penalties": 2,
+                    "nationality": "Argentina"
                 },
                 {
                     "player_name": "Khvicha Kvaratskhelia",
@@ -641,15 +650,6 @@
                     "assists": 2,
                     "penalties": 3,
                     "nationality": "Nigeria"
-                },
-                {
-                    "player_name": "Julián Álvarez",
-                    "team_name": "Club Atlético de Madrid",
-                    "team_crest": "https://crests.football-data.org/78.png",
-                    "goals": 7,
-                    "assists": 2,
-                    "penalties": 2,
-                    "nationality": "Argentina"
                 },
                 {
                     "player_name": "Martinelli",
@@ -674,7 +674,7 @@
                     "team_name": "Newcastle United FC",
                     "team_crest": "https://crests.football-data.org/67.png",
                     "goals": 6,
-                    "assists": 3,
+                    "assists": 4,
                     "penalties": null,
                     "nationality": "England"
                 }
