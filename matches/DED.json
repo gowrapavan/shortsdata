@@ -6319,7 +6319,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-03-20",
     "DateTime": "2026-03-20T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 671,
@@ -6330,12 +6330,12 @@
     "AwayTeamName": "SBV Excelsior",
     "HomeTeamLogo": "https://crests.football-data.org/671.png",
     "AwayTeamLogo": "https://crests.football-data.org/670.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "671": 0,
-      "670": 0
+      "671": 1,
+      "670": 1
     },
     "Goals": []
   },
