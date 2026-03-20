@@ -1,16 +1,5 @@
 [
   {
-    "time": "08:30 PM",
-    "game": "football",
-    "league": "الدوري الإيطالي",
-    "home_team": "كالياري",
-    "away_team": "نابولي",
-    "label": "كال-ناب",
-    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69bcf1b5965c2.png",
-    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69bcf1b59de00.png",
-    "url": "https://a8.sia-koora.live/albaplayer/pemium-1/"
-  },
-  {
     "time": "10:30 PM",
     "game": "football",
     "league": "الدوري الألماني",
@@ -35,6 +24,17 @@
   {
     "time": "11:00 PM",
     "game": "football",
+    "league": "الدوري الإسباني",
+    "home_team": "فياريال",
+    "away_team": "ريال سوسيداد",
+    "label": "فيا-ريا",
+    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69bb2f31a1c68.png",
+    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69bb2f31a8457.png",
+    "url": "https://a8.sia-koora.live/albaplayer/bein-3/"
+  },
+  {
+    "time": "11:00 PM",
+    "game": "football",
     "league": "الدوري الإنجليزي",
     "home_team": "بورنموث",
     "away_team": "مان يونايتد",
@@ -44,14 +44,14 @@
     "url": "https://a8.sia-koora.live/albaplayer/bein-1/"
   },
   {
-    "time": "11:00 PM",
+    "time": "08:30 PM",
     "game": "football",
-    "league": "الدوري الإسباني",
-    "home_team": "فياريال",
-    "away_team": "ريال سوسيداد",
-    "label": "فيا-ريا",
-    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69bb2f31a1c68.png",
-    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69bb2f31a8457.png",
-    "url": "https://a8.sia-koora.live/albaplayer/bein-3/"
+    "league": "الدوري الإيطالي",
+    "home_team": "كالياري",
+    "away_team": "نابولي",
+    "label": "كال-ناب",
+    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69bcf1b5965c2.png",
+    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69bcf1b59de00.png",
+    "url": "https://a8.sia-koora.live/albaplayer/pemium-1/"
   }
 ]
