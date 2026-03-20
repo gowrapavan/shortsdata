@@ -221,25 +221,6 @@
         {
           "position": 11,
           "team": {
-            "id": 70,
-            "name": "Stoke City FC",
-            "shortName": "Stoke",
-            "tla": "STK",
-            "crest": "https://crests.football-data.org/70.png"
-          },
-          "playedGames": 39,
-          "form": null,
-          "won": 14,
-          "draw": 10,
-          "lost": 15,
-          "points": 52,
-          "goalsFor": 45,
-          "goalsAgainst": 40,
-          "goalDifference": 5
-        },
-        {
-          "position": 12,
-          "team": {
             "id": 72,
             "name": "Swansea City AFC",
             "shortName": "Swansea",
@@ -255,6 +236,25 @@
           "goalsFor": 44,
           "goalsAgainst": 46,
           "goalDifference": -2
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": 1081,
+            "name": "Preston North End FC",
+            "shortName": "Preston NE",
+            "tla": "PNE",
+            "crest": "https://crests.football-data.org/1081.png"
+          },
+          "playedGames": 39,
+          "form": null,
+          "won": 13,
+          "draw": 13,
+          "lost": 13,
+          "points": 52,
+          "goalsFor": 45,
+          "goalsAgainst": 49,
+          "goalDifference": -4
         },
         {
           "position": 13,
@@ -278,6 +278,25 @@
         {
           "position": 14,
           "team": {
+            "id": 70,
+            "name": "Stoke City FC",
+            "shortName": "Stoke",
+            "tla": "STK",
+            "crest": "https://crests.football-data.org/70.png"
+          },
+          "playedGames": 39,
+          "form": null,
+          "won": 14,
+          "draw": 9,
+          "lost": 16,
+          "points": 51,
+          "goalsFor": 46,
+          "goalsAgainst": 43,
+          "goalDifference": 3
+        },
+        {
+          "position": 15,
+          "team": {
             "id": 387,
             "name": "Bristol City FC",
             "shortName": "Bristol City",
@@ -295,7 +314,7 @@
           "goalDifference": 0
         },
         {
-          "position": 15,
+          "position": 16,
           "team": {
             "id": 356,
             "name": "Sheffield United FC",
@@ -312,25 +331,6 @@
           "goalsFor": 53,
           "goalsAgainst": 52,
           "goalDifference": 1
-        },
-        {
-          "position": 16,
-          "team": {
-            "id": 1081,
-            "name": "Preston North End FC",
-            "shortName": "Preston NE",
-            "tla": "PNE",
-            "crest": "https://crests.football-data.org/1081.png"
-          },
-          "playedGames": 39,
-          "form": null,
-          "won": 12,
-          "draw": 14,
-          "lost": 13,
-          "points": 50,
-          "goalsFor": 42,
-          "goalsAgainst": 48,
-          "goalDifference": -6
         },
         {
           "position": 17,
