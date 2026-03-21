@@ -6382,8 +6382,8 @@
     "AwayTeamName": "NAC Breda",
     "HomeTeamLogo": "https://crests.football-data.org/684.png",
     "AwayTeamLogo": "https://crests.football-data.org/681.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "684": 0,
@@ -6397,7 +6397,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T17:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 6806,
@@ -6410,9 +6410,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/1919.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 6806,
     "Points": {
-      "6806": 0,
+      "6806": 3,
       "1919": 0
     },
     "Goals": []
