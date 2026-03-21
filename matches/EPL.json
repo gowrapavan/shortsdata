@@ -7756,8 +7756,8 @@
     "RoundId": 31,
     "RoundName": "Premier League",
     "Date": "2026-03-21",
-    "DateTime": "2026-03-21T12:30:00Z",
-    "Status": "Scheduled",
+    "DateTime": "2026-03-21T12:45:00Z",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 397,
@@ -7768,11 +7768,11 @@
     "AwayTeamName": "Liverpool FC",
     "HomeTeamLogo": "https://crests.football-data.org/397.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 397,
     "Points": {
-      "397": 0,
+      "397": 3,
       "64": 0
     },
     "Goals": []
@@ -7820,8 +7820,8 @@
     "AwayTeamName": "Burnley FC",
     "HomeTeamLogo": "https://crests.football-data.org/63.png",
     "AwayTeamLogo": "https://crests.football-data.org/328.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "63": 0,

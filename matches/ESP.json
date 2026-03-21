@@ -7221,7 +7221,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 285,
@@ -7232,11 +7232,11 @@
     "AwayTeamName": "RCD Mallorca",
     "HomeTeamLogo": "https://crests.football-data.org/285.png",
     "AwayTeamLogo": "https://crests.football-data.org/89.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 285,
     "Points": {
-      "285": 0,
+      "285": 3,
       "89": 0
     },
     "Goals": []
@@ -7258,8 +7258,8 @@
     "AwayTeamName": "Getafe CF",
     "HomeTeamLogo": "https://crests.football-data.org/80.png",
     "AwayTeamLogo": "https://crests.football-data.org/82.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "80": 0,
