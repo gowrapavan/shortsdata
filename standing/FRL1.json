@@ -31,6 +31,25 @@
         {
           "position": 1,
           "team": {
+            "id": 524,
+            "name": "Paris Saint-Germain FC",
+            "shortName": "PSG",
+            "tla": "PSG",
+            "crest": "https://crests.football-data.org/524.png"
+          },
+          "playedGames": 26,
+          "form": null,
+          "won": 19,
+          "draw": 3,
+          "lost": 4,
+          "points": 60,
+          "goalsFor": 58,
+          "goalsAgainst": 22,
+          "goalDifference": 36
+        },
+        {
+          "position": 2,
+          "team": {
             "id": 546,
             "name": "Racing Club de Lens",
             "shortName": "RC Lens",
@@ -46,25 +65,6 @@
           "goalsFor": 54,
           "goalsAgainst": 24,
           "goalDifference": 30
-        },
-        {
-          "position": 2,
-          "team": {
-            "id": 524,
-            "name": "Paris Saint-Germain FC",
-            "shortName": "PSG",
-            "tla": "PSG",
-            "crest": "https://crests.football-data.org/524.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 18,
-          "draw": 3,
-          "lost": 4,
-          "points": 57,
-          "goalsFor": 54,
-          "goalsAgainst": 22,
-          "goalDifference": 32
         },
         {
           "position": 3,
@@ -303,15 +303,15 @@
             "tla": "NIC",
             "crest": "https://crests.football-data.org/522.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 7,
           "draw": 6,
-          "lost": 13,
+          "lost": 14,
           "points": 27,
           "goalsFor": 32,
-          "goalsAgainst": 48,
-          "goalDifference": -16
+          "goalsAgainst": 52,
+          "goalDifference": -20
         },
         {
           "position": 16,
