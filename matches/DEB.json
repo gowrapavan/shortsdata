@@ -6017,7 +6017,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 44,
@@ -6028,12 +6028,12 @@
     "AwayTeamName": "Bayer 04 Leverkusen",
     "HomeTeamLogo": "https://crests.football-data.org/44.png",
     "AwayTeamLogo": "https://crests.football-data.org/3.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 2,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
-      "44": 0,
-      "3": 0
+      "44": 1,
+      "3": 1
     },
     "Goals": []
   },
@@ -6095,7 +6095,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 11,
@@ -6107,11 +6107,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/11.png",
     "AwayTeamLogo": "https://crests.football-data.org/12.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 12,
     "Points": {
       "11": 0,
-      "12": 0
+      "12": 3
     },
     "Goals": []
   },
@@ -6147,7 +6147,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1,
@@ -6158,12 +6158,12 @@
     "AwayTeamName": "Borussia Mönchengladbach",
     "HomeTeamLogo": "https://crests.football-data.org/1.png",
     "AwayTeamLogo": "https://crests.football-data.org/18.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 2,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
-      "1": 0,
-      "18": 0
+      "1": 1,
+      "18": 1
     },
     "Goals": []
   },
@@ -6173,7 +6173,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5,
@@ -6184,11 +6184,11 @@
     "AwayTeamName": "1. FC Union Berlin",
     "HomeTeamLogo": "https://crests.football-data.org/5.png",
     "AwayTeamLogo": "https://crests.football-data.org/28.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 4,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 5,
     "Points": {
-      "5": 0,
+      "5": 3,
       "28": 0
     },
     "Goals": []
@@ -6236,8 +6236,8 @@
     "AwayTeamName": "Hamburger SV",
     "HomeTeamLogo": "https://crests.football-data.org/4.png",
     "AwayTeamLogo": "https://crests.football-data.org/7.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "4": 0,

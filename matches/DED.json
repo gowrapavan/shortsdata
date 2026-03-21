@@ -6293,7 +6293,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T15:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1920,
@@ -6304,12 +6304,12 @@
     "AwayTeamName": "FC Twente '65",
     "HomeTeamLogo": "https://crests.football-data.org/1920.png",
     "AwayTeamLogo": "https://crests.football-data.org/666.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 666,
     "Points": {
       "1920": 0,
-      "666": 0
+      "666": 3
     },
     "Goals": []
   },
@@ -6408,8 +6408,8 @@
     "AwayTeamName": "FC Volendam",
     "HomeTeamLogo": "https://crests.football-data.org/6806.png",
     "AwayTeamLogo": "https://crests.football-data.org/1919.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "6806": 0,
