@@ -7705,7 +7705,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-20",
     "DateTime": "2026-03-20T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1044,
@@ -7716,12 +7716,12 @@
     "AwayTeamName": "Manchester United FC",
     "HomeTeamLogo": "https://crests.football-data.org/bournemouth.png",
     "AwayTeamLogo": "https://crests.football-data.org/66.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "1044": 0,
-      "66": 0
+      "1044": 1,
+      "66": 1
     },
     "Goals": []
   },
