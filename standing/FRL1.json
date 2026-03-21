@@ -183,24 +183,43 @@
         {
           "position": 9,
           "team": {
+            "id": 511,
+            "name": "Toulouse FC",
+            "shortName": "Toulouse",
+            "tla": "TOU",
+            "crest": "https://crests.football-data.org/511.png"
+          },
+          "playedGames": 27,
+          "form": null,
+          "won": 10,
+          "draw": 7,
+          "lost": 10,
+          "points": 37,
+          "goalsFor": 38,
+          "goalsAgainst": 32,
+          "goalDifference": 6
+        },
+        {
+          "position": 10,
+          "team": {
             "id": 525,
             "name": "FC Lorient",
             "shortName": "Lorient",
             "tla": "FCL",
             "crest": "https://crests.football-data.org/525.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 9,
           "draw": 10,
-          "lost": 7,
+          "lost": 8,
           "points": 37,
           "goalsFor": 37,
-          "goalsAgainst": 40,
-          "goalDifference": -3
+          "goalsAgainst": 41,
+          "goalDifference": -4
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 512,
             "name": "Stade Brestois 29",
@@ -208,34 +227,15 @@
             "tla": "BRE",
             "crest": "https://crests.football-data.org/512.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 10,
           "draw": 6,
-          "lost": 10,
+          "lost": 11,
           "points": 36,
           "goalsFor": 34,
-          "goalsAgainst": 36,
-          "goalDifference": -2
-        },
-        {
-          "position": 11,
-          "team": {
-            "id": 511,
-            "name": "Toulouse FC",
-            "shortName": "Toulouse",
-            "tla": "TOU",
-            "crest": "https://crests.football-data.org/511.png"
-          },
-          "playedGames": 26,
-          "form": null,
-          "won": 9,
-          "draw": 7,
-          "lost": 10,
-          "points": 34,
-          "goalsFor": 37,
-          "goalsAgainst": 32,
-          "goalDifference": 5
+          "goalsAgainst": 39,
+          "goalDifference": -5
         },
         {
           "position": 12,
@@ -322,15 +322,15 @@
             "tla": "AJA",
             "crest": "https://crests.football-data.org/519.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
-          "won": 4,
+          "won": 5,
           "draw": 7,
           "lost": 15,
-          "points": 19,
-          "goalsFor": 19,
+          "points": 22,
+          "goalsFor": 22,
           "goalsAgainst": 36,
-          "goalDifference": -17
+          "goalDifference": -14
         },
         {
           "position": 17,

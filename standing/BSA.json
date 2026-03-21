@@ -202,6 +202,25 @@
         {
           "position": 10,
           "team": {
+            "id": 4286,
+            "name": "RB Bragantino",
+            "shortName": "Bragantino",
+            "tla": "RBB",
+            "crest": "https://crests.football-data.org/4286.png"
+          },
+          "playedGames": 8,
+          "form": null,
+          "won": 2,
+          "draw": 3,
+          "lost": 3,
+          "points": 9,
+          "goalsFor": 6,
+          "goalsAgainst": 9,
+          "goalDifference": -3
+        },
+        {
+          "position": 11,
+          "team": {
             "id": 1780,
             "name": "CR Vasco da Gama",
             "shortName": "Vasco da Gama",
@@ -219,7 +238,7 @@
           "goalDifference": -1
         },
         {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 1766,
             "name": "CA Mineiro",
@@ -236,25 +255,6 @@
           "goalsFor": 8,
           "goalsAgainst": 10,
           "goalDifference": -2
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 4286,
-            "name": "RB Bragantino",
-            "shortName": "Bragantino",
-            "tla": "RBB",
-            "crest": "https://crests.football-data.org/4286.png"
-          },
-          "playedGames": 7,
-          "form": null,
-          "won": 2,
-          "draw": 2,
-          "lost": 3,
-          "points": 8,
-          "goalsFor": 5,
-          "goalsAgainst": 8,
-          "goalDifference": -3
         },
         {
           "position": 13,
@@ -360,14 +360,14 @@
             "tla": "BOT",
             "crest": "https://crests.football-data.org/1770.png"
           },
-          "playedGames": 5,
+          "playedGames": 6,
           "form": null,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 4,
-          "points": 3,
-          "goalsFor": 8,
-          "goalsAgainst": 11,
+          "points": 4,
+          "goalsFor": 9,
+          "goalsAgainst": 12,
           "goalDifference": -3
         },
         {
