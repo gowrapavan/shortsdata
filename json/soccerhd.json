@@ -24,6 +24,17 @@
   {
     "time": "05:00 PM",
     "game": "football",
+    "league": "الدوري الفرنسي",
+    "home_team": "ليون",
+    "away_team": "موناكو",
+    "label": "ليو-مون",
+    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6da006bd1.png",
+    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6da00e761.png",
+    "url": ""
+  },
+  {
+    "time": "05:00 PM",
+    "game": "football",
     "league": "الدوري الإيطالي",
     "home_team": "أتلانتا",
     "away_team": "هيلاس فيرونا",
@@ -41,17 +52,6 @@
     "label": "بول-لات",
     "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6da9e6472.png",
     "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6da9ecd70.png",
-    "url": ""
-  },
-  {
-    "time": "05:00 PM",
-    "game": "football",
-    "league": "الدوري الفرنسي",
-    "home_team": "ليون",
-    "away_team": "موناكو",
-    "label": "ليو-مون",
-    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6da006bd1.png",
-    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6da00e761.png",
     "url": ""
   },
   {
@@ -101,6 +101,17 @@
   {
     "time": "07:00 PM",
     "game": "football",
+    "league": "دوري أبطال أفريقيا",
+    "home_team": "الهلال",
+    "away_team": "نهضة بركان",
+    "label": "اله-نهض",
+    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6db7ccdcb.png",
+    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6db8d62ef.png",
+    "url": ""
+  },
+  {
+    "time": "07:00 PM",
+    "game": "football",
     "league": "كأس الكونفيدرالية",
     "home_team": "الزمالك",
     "away_team": "أوتوهو",
@@ -118,17 +129,6 @@
     "label": "الم-صن ",
     "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6db87dfb2.png",
     "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6db885baa.png",
-    "url": ""
-  },
-  {
-    "time": "07:00 PM",
-    "game": "football",
-    "league": "دوري أبطال أفريقيا",
-    "home_team": "الهلال",
-    "away_team": "نهضة بركان",
-    "label": "اله-نهض",
-    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6db7ccdcb.png",
-    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6db8d62ef.png",
     "url": ""
   },
   {
@@ -167,23 +167,23 @@
   {
     "time": "08:00 PM",
     "game": "football",
-    "league": "الدوري الأمريكي لكرة القدم",
-    "home_team": "نيويورك سيتي",
-    "away_team": "إنتر ميامي",
-    "label": "نيو-إنت",
-    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6dc412efc.png",
-    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6dc4193bc.png",
-    "url": ""
-  },
-  {
-    "time": "08:00 PM",
-    "game": "football",
     "league": "الدوري الإيطالي",
     "home_team": "روما",
     "away_team": "ليتشي",
     "label": "روم-ليت",
     "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6dabcca3c.png",
     "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6dabd62c3.png",
+    "url": ""
+  },
+  {
+    "time": "08:00 PM",
+    "game": "football",
+    "league": "الدوري الأمريكي لكرة القدم",
+    "home_team": "نيويورك سيتي",
+    "away_team": "إنتر ميامي",
+    "label": "نيو-إنت",
+    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6dc412efc.png",
+    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/03/alba_img_69be6dc4193bc.png",
     "url": ""
   },
   {
