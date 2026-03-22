@@ -6252,8 +6252,8 @@
     "AwayTeamName": "Go Ahead Eagles",
     "HomeTeamLogo": "https://crests.football-data.org/676.png",
     "AwayTeamLogo": "https://crests.football-data.org/718.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "676": 0,
@@ -6278,8 +6278,8 @@
     "AwayTeamName": "AFC Ajax",
     "HomeTeamLogo": "https://crests.football-data.org/675.png",
     "AwayTeamLogo": "https://crests.football-data.org/678.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "675": 0,
@@ -6345,7 +6345,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-03-22",
     "DateTime": "2026-03-22T11:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1915,
@@ -6360,8 +6360,8 @@
     "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "1915": 0,
-      "673": 0
+      "1915": 1,
+      "673": 1
     },
     "Goals": []
   },

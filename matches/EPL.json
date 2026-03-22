@@ -7742,8 +7742,8 @@
     "AwayTeamName": "West Ham United FC",
     "HomeTeamLogo": "https://crests.football-data.org/58.png",
     "AwayTeamLogo": "https://crests.football-data.org/563.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "58": 0,
@@ -7887,7 +7887,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-22",
     "DateTime": "2026-03-22T12:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 67,
@@ -7899,11 +7899,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/67.png",
     "AwayTeamLogo": "https://crests.football-data.org/71.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 71,
     "Points": {
       "67": 0,
-      "71": 0
+      "71": 3
     },
     "Goals": []
   },
@@ -7924,8 +7924,8 @@
     "AwayTeamName": "Nottingham Forest FC",
     "HomeTeamLogo": "https://crests.football-data.org/73.png",
     "AwayTeamLogo": "https://crests.football-data.org/351.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "73": 0,
