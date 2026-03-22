@@ -6043,7 +6043,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-03-22",
     "DateTime": "2026-03-22T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 15,
@@ -6054,11 +6054,11 @@
     "AwayTeamName": "Eintracht Frankfurt",
     "HomeTeamLogo": "https://crests.football-data.org/15.png",
     "AwayTeamLogo": "https://crests.football-data.org/19.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 15,
     "Points": {
-      "15": 0,
+      "15": 3,
       "19": 0
     },
     "Goals": []
@@ -6080,8 +6080,8 @@
     "AwayTeamName": "SC Freiburg",
     "HomeTeamLogo": "https://crests.football-data.org/20.png",
     "AwayTeamLogo": "https://crests.football-data.org/17.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "20": 0,

@@ -7731,7 +7731,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-22",
     "DateTime": "2026-03-22T14:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 58,
@@ -7742,11 +7742,11 @@
     "AwayTeamName": "West Ham United FC",
     "HomeTeamLogo": "https://crests.football-data.org/58.png",
     "AwayTeamLogo": "https://crests.football-data.org/563.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 58,
     "Points": {
-      "58": 0,
+      "58": 3,
       "563": 0
     },
     "Goals": []
@@ -7913,7 +7913,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-22",
     "DateTime": "2026-03-22T14:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 73,
@@ -7925,11 +7925,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/73.png",
     "AwayTeamLogo": "https://crests.football-data.org/351.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 351,
     "Points": {
       "73": 0,
-      "351": 0
+      "351": 3
     },
     "Goals": []
   },

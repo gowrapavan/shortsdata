@@ -7180,8 +7180,8 @@
     "AwayTeamName": "Real Betis Balompié",
     "HomeTeamLogo": "https://crests.football-data.org/77.png",
     "AwayTeamLogo": "https://crests.football-data.org/90.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "77": 0,
@@ -7325,7 +7325,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-03-22",
     "DateTime": "2026-03-22T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 558,
@@ -7336,12 +7336,12 @@
     "AwayTeamName": "Deportivo Alavés",
     "HomeTeamLogo": "https://crests.football-data.org/558.png",
     "AwayTeamLogo": "https://crests.football-data.org/263.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 4,
+    "Result": 263,
     "Points": {
       "558": 0,
-      "263": 0
+      "263": 3
     },
     "Goals": []
   },
