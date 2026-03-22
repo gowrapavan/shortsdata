@@ -7673,7 +7673,7 @@
     "RoundName": "Serie A",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 109,
@@ -7688,8 +7688,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "109": 0,
-      "471": 0
+      "109": 1,
+      "471": 1
     },
     "Goals": []
   },
@@ -7747,10 +7747,10 @@
   },
   {
     "GameId": 537116,
-    "RoundId": 5,
+    "RoundId": 30,
     "RoundName": "Serie A",
-    "Date": "2026-04-04",
-    "DateTime": "2026-04-04T00:00:00Z",
+    "Date": "2026-04-05",
+    "DateTime": "2026-04-05T18:45:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -7825,10 +7825,10 @@
   },
   {
     "GameId": 537119,
-    "RoundId": 5,
+    "RoundId": 30,
     "RoundName": "Serie A",
-    "Date": "2026-04-04",
-    "DateTime": "2026-04-04T00:00:00Z",
+    "Date": "2026-04-05",
+    "DateTime": "2026-04-05T16:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -7929,10 +7929,10 @@
   },
   {
     "GameId": 537123,
-    "RoundId": 5,
+    "RoundId": 30,
     "RoundName": "Serie A",
-    "Date": "2026-04-04",
-    "DateTime": "2026-04-04T00:00:00Z",
+    "Date": "2026-04-05",
+    "DateTime": "2026-04-05T13:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",

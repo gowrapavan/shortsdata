@@ -7835,7 +7835,7 @@
     "RoundName": "Premier League",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 341,
@@ -7850,8 +7850,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "341": 0,
-      "402": 0
+      "341": 1,
+      "402": 1
     },
     "Goals": []
   },

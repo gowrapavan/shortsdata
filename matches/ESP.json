@@ -7299,7 +7299,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-03-21",
     "DateTime": "2026-03-21T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 559,
@@ -7312,10 +7312,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/95.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 95,
     "Points": {
       "559": 0,
-      "95": 0
+      "95": 3
     },
     "Goals": []
   },
@@ -7425,10 +7425,10 @@
   },
   {
     "GameId": 544501,
-    "RoundId": 7,
+    "RoundId": 29,
     "RoundName": "Primera Division",
     "Date": "2026-04-05",
-    "DateTime": "2026-04-05T00:00:00Z",
+    "DateTime": "2026-04-05T19:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -7555,10 +7555,10 @@
   },
   {
     "GameId": 544506,
-    "RoundId": 7,
+    "RoundId": 29,
     "RoundName": "Primera Division",
     "Date": "2026-04-05",
-    "DateTime": "2026-04-05T00:00:00Z",
+    "DateTime": "2026-04-05T16:30:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -7581,10 +7581,10 @@
   },
   {
     "GameId": 544507,
-    "RoundId": 7,
+    "RoundId": 29,
     "RoundName": "Primera Division",
     "Date": "2026-04-05",
-    "DateTime": "2026-04-05T00:00:00Z",
+    "DateTime": "2026-04-05T12:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -7607,10 +7607,10 @@
   },
   {
     "GameId": 544508,
-    "RoundId": 7,
+    "RoundId": 29,
     "RoundName": "Primera Division",
     "Date": "2026-04-05",
-    "DateTime": "2026-04-05T00:00:00Z",
+    "DateTime": "2026-04-05T14:15:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
