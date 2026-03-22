@@ -6069,7 +6069,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-03-22",
     "DateTime": "2026-03-22T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 20,
@@ -6082,10 +6082,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/17.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 17,
     "Points": {
       "20": 0,
-      "17": 0
+      "17": 3
     },
     "Goals": []
   },
@@ -6121,7 +6121,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-03-22",
     "DateTime": "2026-03-22T18:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 16,
@@ -6132,12 +6132,12 @@
     "AwayTeamName": "VfB Stuttgart",
     "HomeTeamLogo": "https://crests.football-data.org/16.png",
     "AwayTeamLogo": "https://crests.football-data.org/10.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 5,
+    "Result": 10,
     "Points": {
       "16": 0,
-      "10": 0
+      "10": 3
     },
     "Goals": []
   },
