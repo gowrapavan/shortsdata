@@ -221,25 +221,6 @@
         {
           "position": 11,
           "team": {
-            "id": 77,
-            "name": "Athletic Club",
-            "shortName": "Athletic",
-            "tla": "ATH",
-            "crest": "https://crests.football-data.org/77.png"
-          },
-          "playedGames": 28,
-          "form": null,
-          "won": 10,
-          "draw": 5,
-          "lost": 13,
-          "points": 35,
-          "goalsFor": 30,
-          "goalsAgainst": 40,
-          "goalDifference": -10
-        },
-        {
-          "position": 12,
-          "team": {
             "id": 95,
             "name": "Valencia CF",
             "shortName": "Valencia",
@@ -254,6 +235,25 @@
           "points": 35,
           "goalsFor": 32,
           "goalsAgainst": 42,
+          "goalDifference": -10
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": 77,
+            "name": "Athletic Club",
+            "shortName": "Athletic",
+            "tla": "ATH",
+            "crest": "https://crests.football-data.org/77.png"
+          },
+          "playedGames": 28,
+          "form": null,
+          "won": 10,
+          "draw": 5,
+          "lost": 13,
+          "points": 35,
+          "goalsFor": 30,
+          "goalsAgainst": 40,
           "goalDifference": -10
         },
         {
