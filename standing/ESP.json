@@ -297,25 +297,6 @@
         {
           "position": 15,
           "team": {
-            "id": 263,
-            "name": "Deportivo Alavés",
-            "shortName": "Alavés",
-            "tla": "ALA",
-            "crest": "https://crests.football-data.org/263.png"
-          },
-          "playedGames": 29,
-          "form": null,
-          "won": 8,
-          "draw": 7,
-          "lost": 14,
-          "points": 31,
-          "goalsFor": 30,
-          "goalsAgainst": 41,
-          "goalDifference": -11
-        },
-        {
-          "position": 16,
-          "team": {
             "id": 559,
             "name": "Sevilla FC",
             "shortName": "Sevilla FC",
@@ -331,6 +312,25 @@
           "goalsFor": 37,
           "goalsAgainst": 49,
           "goalDifference": -12
+        },
+        {
+          "position": 16,
+          "team": {
+            "id": 263,
+            "name": "Deportivo Alavés",
+            "shortName": "Alavés",
+            "tla": "ALA",
+            "crest": "https://crests.football-data.org/263.png"
+          },
+          "playedGames": 29,
+          "form": null,
+          "won": 8,
+          "draw": 7,
+          "lost": 14,
+          "points": 31,
+          "goalsFor": 30,
+          "goalsAgainst": 41,
+          "goalDifference": -11
         },
         {
           "position": 17,

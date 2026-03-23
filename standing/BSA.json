@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 1783,
+            "name": "CR Flamengo",
+            "shortName": "Flamengo",
+            "tla": "FLA",
+            "crest": "https://crests.football-data.org/1783.png"
+          },
+          "playedGames": 7,
+          "form": null,
+          "won": 4,
+          "draw": 2,
+          "lost": 1,
+          "points": 14,
+          "goalsFor": 13,
+          "goalsAgainst": 5,
+          "goalDifference": 8
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 1777,
             "name": "EC Bahia",
             "shortName": "Bahia",
@@ -103,25 +122,6 @@
           "goalsFor": 9,
           "goalsAgainst": 7,
           "goalDifference": 2
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 1783,
-            "name": "CR Flamengo",
-            "shortName": "Flamengo",
-            "tla": "FLA",
-            "crest": "https://crests.football-data.org/1783.png"
-          },
-          "playedGames": 6,
-          "form": null,
-          "won": 4,
-          "draw": 1,
-          "lost": 1,
-          "points": 13,
-          "goalsFor": 12,
-          "goalsAgainst": 4,
-          "goalDifference": 8
         },
         {
           "position": 6,
@@ -227,18 +227,37 @@
             "tla": "COR",
             "crest": "https://crests.football-data.org/1779.png"
           },
-          "playedGames": 7,
+          "playedGames": 8,
           "form": null,
           "won": 2,
-          "draw": 3,
+          "draw": 4,
           "lost": 2,
-          "points": 9,
-          "goalsFor": 6,
-          "goalsAgainst": 6,
+          "points": 10,
+          "goalsFor": 7,
+          "goalsAgainst": 7,
           "goalDifference": 0
         },
         {
           "position": 12,
+          "team": {
+            "id": 6684,
+            "name": "SC Internacional",
+            "shortName": "Internacional",
+            "tla": "SCI",
+            "crest": "https://crests.football-data.org/6684.png"
+          },
+          "playedGames": 8,
+          "form": null,
+          "won": 2,
+          "draw": 2,
+          "lost": 4,
+          "points": 8,
+          "goalsFor": 7,
+          "goalsAgainst": 9,
+          "goalDifference": -2
+        },
+        {
+          "position": 13,
           "team": {
             "id": 1766,
             "name": "CA Mineiro",
@@ -254,25 +273,6 @@
           "points": 8,
           "goalsFor": 8,
           "goalsAgainst": 11,
-          "goalDifference": -3
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 6684,
-            "name": "SC Internacional",
-            "shortName": "Internacional",
-            "tla": "SCI",
-            "crest": "https://crests.football-data.org/6684.png"
-          },
-          "playedGames": 8,
-          "form": null,
-          "won": 2,
-          "draw": 2,
-          "lost": 4,
-          "points": 8,
-          "goalsFor": 6,
-          "goalsAgainst": 9,
           "goalDifference": -3
         },
         {
@@ -310,8 +310,8 @@
           "lost": 2,
           "points": 7,
           "goalsFor": 9,
-          "goalsAgainst": 10,
-          "goalDifference": -1
+          "goalsAgainst": 11,
+          "goalDifference": -2
         },
         {
           "position": 16,
