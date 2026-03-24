@@ -4863,5 +4863,57 @@
       "None": 0
     },
     "Goals": []
+  },
+  {
+    "GameId": 556719,
+    "RoundId": 8,
+    "RoundName": "UEFA Champions League",
+    "Date": "2026-04-07",
+    "DateTime": "2026-04-07T19:00:00Z",
+    "Status": "Scheduled",
+    "Week": null,
+    "VenueType": "Home Away",
+    "HomeTeamId": 86,
+    "AwayTeamId": 5,
+    "HomeTeamKey": "Real Madrid",
+    "AwayTeamKey": "Bayern",
+    "HomeTeamName": "Real Madrid CF",
+    "AwayTeamName": "FC Bayern München",
+    "HomeTeamLogo": "https://crests.football-data.org/86.png",
+    "AwayTeamLogo": "https://crests.football-data.org/5.png",
+    "HomeTeamScore": null,
+    "AwayTeamScore": null,
+    "Result": null,
+    "Points": {
+      "86": 0,
+      "5": 0
+    },
+    "Goals": []
+  },
+  {
+    "GameId": 556721,
+    "RoundId": 8,
+    "RoundName": "UEFA Champions League",
+    "Date": "2026-04-07",
+    "DateTime": "2026-04-07T19:00:00Z",
+    "Status": "Scheduled",
+    "Week": null,
+    "VenueType": "Home Away",
+    "HomeTeamId": 498,
+    "AwayTeamId": 57,
+    "HomeTeamKey": "Sporting CP",
+    "AwayTeamKey": "Arsenal",
+    "HomeTeamName": "Sporting Clube de Portugal",
+    "AwayTeamName": "Arsenal FC",
+    "HomeTeamLogo": "https://crests.football-data.org/498.png",
+    "AwayTeamLogo": "https://crests.football-data.org/57.png",
+    "HomeTeamScore": null,
+    "AwayTeamScore": null,
+    "Result": null,
+    "Points": {
+      "498": 0,
+      "57": 0
+    },
+    "Goals": []
   }
 ]
