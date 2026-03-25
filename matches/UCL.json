@@ -4865,6 +4865,32 @@
     "Goals": []
   },
   {
+    "GameId": 556718,
+    "RoundId": 8,
+    "RoundName": "UEFA Champions League",
+    "Date": "2026-04-08",
+    "DateTime": "2026-04-08T19:00:00Z",
+    "Status": "Scheduled",
+    "Week": null,
+    "VenueType": "Home Away",
+    "HomeTeamId": 524,
+    "AwayTeamId": 64,
+    "HomeTeamKey": "PSG",
+    "AwayTeamKey": "Liverpool",
+    "HomeTeamName": "Paris Saint-Germain FC",
+    "AwayTeamName": "Liverpool FC",
+    "HomeTeamLogo": "https://crests.football-data.org/524.png",
+    "AwayTeamLogo": "https://crests.football-data.org/64.png",
+    "HomeTeamScore": null,
+    "AwayTeamScore": null,
+    "Result": null,
+    "Points": {
+      "524": 0,
+      "64": 0
+    },
+    "Goals": []
+  },
+  {
     "GameId": 556719,
     "RoundId": 8,
     "RoundName": "UEFA Champions League",
@@ -4887,6 +4913,32 @@
     "Points": {
       "86": 0,
       "5": 0
+    },
+    "Goals": []
+  },
+  {
+    "GameId": 556720,
+    "RoundId": 8,
+    "RoundName": "UEFA Champions League",
+    "Date": "2026-04-08",
+    "DateTime": "2026-04-08T19:00:00Z",
+    "Status": "Scheduled",
+    "Week": null,
+    "VenueType": "Home Away",
+    "HomeTeamId": 81,
+    "AwayTeamId": 78,
+    "HomeTeamKey": "Barça",
+    "AwayTeamKey": "Atleti",
+    "HomeTeamName": "FC Barcelona",
+    "AwayTeamName": "Club Atlético de Madrid",
+    "HomeTeamLogo": "https://crests.football-data.org/81.png",
+    "AwayTeamLogo": "https://crests.football-data.org/78.png",
+    "HomeTeamScore": null,
+    "AwayTeamScore": null,
+    "Result": null,
+    "Points": {
+      "81": 0,
+      "78": 0
     },
     "Goals": []
   },
