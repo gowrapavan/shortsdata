@@ -1,65 +1,5 @@
 [
   {
-    "time": "2026-03-27 22:30 IST",
-    "game": "football",
-    "league": "Friendly International",
-    "home_team": "Ghana",
-    "away_team": "Austria",
-    "label": "gha-aus",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5094.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5059.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-03-27 22:30 IST",
-    "game": "football",
-    "league": "Friendly International",
-    "home_team": "Andorra",
-    "away_team": "Montenegro",
-    "label": "and-mon",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5052.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5063.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-03-27 22:30 IST",
-    "game": "football",
-    "league": "Friendly International",
-    "home_team": "Panama",
-    "away_team": "South Africa",
-    "label": "pan-sou",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5414.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5103.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-03-27 23:00 IST",
-    "game": "football",
-    "league": "Friendly International",
-    "home_team": "Costa Rica",
-    "away_team": "Jordan",
-    "label": "cos-jor",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5424.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5083.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-03-27 23:00 IST",
-    "game": "football",
-    "league": "Friendly International",
-    "home_team": "Egypt",
-    "away_team": "Saudi Arabia",
-    "label": "egy-sau",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5100.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5087.png",
-    "url": "",
-    "servers": []
-  },
-  {
     "time": "2026-03-28 00:30 IST",
     "game": "football",
     "league": "Friendly International",
@@ -92,7 +32,7 @@
     "label": "uru-eng",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5073.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5054.png",
-    "url": "https://yallashoot.cfd/albaplayer/england-vs-uruguay/",
+    "url": "",
     "servers": []
   },
   {
@@ -104,7 +44,7 @@
     "label": "ger-swi",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/2372.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5032.png",
-    "url": "https://yallashoot.cfd/albaplayer/switzerland-vs-germany/",
+    "url": "",
     "servers": []
   },
   {
@@ -116,7 +56,7 @@
     "label": "nor-net",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/2376.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/2377.png",
-    "url": "https://yallashoot.cfd/albaplayer/netherlands-vs-norway/",
+    "url": "",
     "servers": []
   },
   {
@@ -128,7 +68,7 @@
     "label": "ser-spa",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/2374.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5050.png",
-    "url": "https://yallashoot.cfd/albaplayer/spain-vs-serbia/",
+    "url": "",
     "servers": []
   },
   {
@@ -140,7 +80,19 @@
     "label": "ecu-mor",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5075.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5093.png",
-    "url": "https://yallashoot.cfd/albaplayer/morocco-vs-ecuador/",
+    "url": "",
+    "servers": []
+  },
+  {
+    "time": "2026-03-28 04:45 IST",
+    "game": "football",
+    "league": "Friendly International",
+    "home_team": "Mauritania",
+    "away_team": "Argentina",
+    "label": "mau-arg",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/5599.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/national-teams-imgs/2378.png",
+    "url": "",
     "servers": []
   }
 ]
