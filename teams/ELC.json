@@ -291,6 +291,13 @@
         "nationality": "England"
       },
       {
+        "id": 8092,
+        "name": "Nathan Redmond",
+        "position": "Right Winger",
+        "dateOfBirth": "1994-03-06",
+        "nationality": "England"
+      },
+      {
         "id": 5842,
         "name": "Scott Wharton",
         "position": "Centre-Back",
@@ -1116,7 +1123,7 @@
         "id": 265511,
         "name": "William Smith",
         "position": "Midfield",
-        "dateOfBirth": null,
+        "dateOfBirth": "2005-11-30",
         "nationality": "England"
       },
       {
@@ -2170,7 +2177,7 @@
         "id": 264267,
         "name": "Harry Clout",
         "position": "Defence",
-        "dateOfBirth": null,
+        "dateOfBirth": "2006-08-30",
         "nationality": "England"
       },
       {
@@ -2233,7 +2240,7 @@
         "id": 260993,
         "name": "Reuben Swann",
         "position": "Midfield",
-        "dateOfBirth": null,
+        "dateOfBirth": "2006-01-26",
         "nationality": "England"
       },
       {
@@ -2591,7 +2598,7 @@
         "id": 290607,
         "name": "Briar Bateman",
         "position": "Offence",
-        "dateOfBirth": null,
+        "dateOfBirth": "2006-09-05",
         "nationality": "England"
       },
       {
@@ -2760,7 +2767,7 @@
         "id": 291264,
         "name": "Kevon Gray",
         "position": "Defence",
-        "dateOfBirth": null,
+        "dateOfBirth": "2007-01-28",
         "nationality": "England"
       },
       {
@@ -3385,7 +3392,7 @@
         "id": 276642,
         "name": "Owen Eames",
         "position": "Midfield",
-        "dateOfBirth": null,
+        "dateOfBirth": "2006-11-01",
         "nationality": "England"
       },
       {
@@ -3614,13 +3621,6 @@
         "nationality": "England"
       },
       {
-        "id": 289617,
-        "name": "Archie Baptiste",
-        "position": "Defence",
-        "dateOfBirth": "2005-10-28",
-        "nationality": "England"
-      },
-      {
         "id": 218492,
         "name": "Finley Cartwright",
         "position": "Midfield",
@@ -3654,13 +3654,6 @@
         "position": "Offence",
         "dateOfBirth": "2001-05-28",
         "nationality": "Senegal"
-      },
-      {
-        "id": 286252,
-        "name": "Rio Patterson-Powell",
-        "position": "Offence",
-        "dateOfBirth": "2005-11-02",
-        "nationality": "England"
       },
       {
         "id": 137025,
@@ -3877,7 +3870,7 @@
         "id": 282801,
         "name": "Logan Stretch",
         "position": "Goalkeeper",
-        "dateOfBirth": "2007-07-06",
+        "dateOfBirth": "2006-11-04",
         "nationality": "Wales"
       },
       {
@@ -4042,6 +4035,13 @@
         "nationality": "England"
       },
       {
+        "id": 261003,
+        "name": "Olaf Kobacki",
+        "position": "Left Winger",
+        "dateOfBirth": "2001-07-10",
+        "nationality": "Poland"
+      },
+      {
         "id": 188310,
         "name": "Charlie McNeill",
         "position": "Centre-Forward",
@@ -4081,13 +4081,6 @@
         "name": "Nathaniel Chalobah",
         "position": "Defensive Midfield",
         "dateOfBirth": "1994-12-12",
-        "nationality": "England"
-      },
-      {
-        "id": 8092,
-        "name": "Nathan Redmond",
-        "position": "Right Winger",
-        "dateOfBirth": "1994-03-06",
         "nationality": "England"
       },
       {
@@ -4131,13 +4124,6 @@
         "position": "Attacking Midfield",
         "dateOfBirth": "1998-06-14",
         "nationality": "Sweden"
-      },
-      {
-        "id": 261003,
-        "name": "Olaf Kobacki",
-        "position": "Left Winger",
-        "dateOfBirth": "2001-07-10",
-        "nationality": "Poland"
       }
     ],
     "staff": [],
@@ -5405,6 +5391,13 @@
         "nationality": "England"
       },
       {
+        "id": 294119,
+        "name": "Jaiden Celestine-Charles",
+        "position": "Offence",
+        "dateOfBirth": null,
+        "nationality": "England"
+      },
+      {
         "id": 131115,
         "name": "Luke Cundle",
         "position": "Central Midfield",
@@ -5575,15 +5568,15 @@
       }
     ],
     "coach": {
-      "id": 74737,
-      "firstName": "Gerhard",
-      "lastName": "Struber",
-      "name": "Gerhard Struber",
-      "dateOfBirth": "1977-01-24",
-      "nationality": "Austria",
+      "id": 11628,
+      "firstName": "Roy",
+      "lastName": "Hodgson",
+      "name": "Roy Hodgson",
+      "dateOfBirth": "1947-08-09",
+      "nationality": "England",
       "contract": {
-        "start": "2025-07",
-        "until": "2028-06"
+        "start": "2026-03",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -5658,13 +5651,6 @@
         "nationality": "England"
       },
       {
-        "id": 214396,
-        "name": "Ephraim Yeboah",
-        "position": "Offence",
-        "dateOfBirth": "2006-07-21",
-        "nationality": "Italy"
-      },
-      {
         "id": 263746,
         "name": "Leo Pecover",
         "position": "Offence",
@@ -5677,13 +5663,6 @@
         "position": "Offence",
         "dateOfBirth": "2007-11-16",
         "nationality": "England"
-      },
-      {
-        "id": 118587,
-        "name": "Jason Knight",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2001-02-13",
-        "nationality": "Ireland"
       },
       {
         "id": 101714,
@@ -5810,6 +5789,13 @@
         "position": "Right-Back",
         "dateOfBirth": "1999-11-16",
         "nationality": "England"
+      },
+      {
+        "id": 118587,
+        "name": "Jason Knight",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2001-02-13",
+        "nationality": "Ireland"
       }
     ],
     "staff": [],

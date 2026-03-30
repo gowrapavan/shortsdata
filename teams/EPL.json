@@ -2815,15 +2815,15 @@
       }
     ],
     "coach": {
-      "id": 11105,
-      "firstName": "Igor",
-      "lastName": "Tudor",
-      "name": "Igor Tudor",
-      "dateOfBirth": "1978-04-16",
-      "nationality": "Croatia",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2026-02",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -3402,13 +3402,6 @@
         "position": "Defence",
         "dateOfBirth": "2006-07-25",
         "nationality": "Scotland"
-      },
-      {
-        "id": 285393,
-        "name": "Marley Leuluai",
-        "position": "Defence",
-        "dateOfBirth": "2006-11-08",
-        "nationality": "New Zealand"
       },
       {
         "id": 192680,

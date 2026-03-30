@@ -67,6 +67,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 169278,
+        "name": "Gustavo Ramalho",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2002-09-16",
+        "nationality": "Brazil"
+      },
+      {
         "id": 291296,
         "name": "Lucas Emanuel",
         "position": "Goalkeeper",
@@ -121,13 +128,6 @@
         "position": "Defence",
         "dateOfBirth": "2000-01-11",
         "nationality": "Argentina"
-      },
-      {
-        "id": 179146,
-        "name": "Jhonny",
-        "position": "Defence",
-        "dateOfBirth": "2002-04-16",
-        "nationality": "Brazil"
       },
       {
         "id": 221385,
@@ -228,13 +228,6 @@
         "nationality": "Colombia"
       },
       {
-        "id": 114704,
-        "name": "Santiago Moreno",
-        "position": "Midfield",
-        "dateOfBirth": "2000-04-21",
-        "nationality": "Colombia"
-      },
-      {
         "id": 145985,
         "name": "Hércules",
         "position": "Midfield",
@@ -295,20 +288,6 @@
         "name": "Naarã Teixeira",
         "position": "Midfield",
         "dateOfBirth": "2008-01-12",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 291290,
-        "name": "Miguel",
-        "position": "Midfield",
-        "dateOfBirth": "2005-01-19",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 291299,
-        "name": "Luis Fernando",
-        "position": "Midfield",
-        "dateOfBirth": "2005-02-18",
         "nationality": "Brazil"
       },
       {
@@ -457,6 +436,13 @@
         "name": "Gabriel Delfim",
         "position": "Goalkeeper",
         "dateOfBirth": "2002-07-10",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 276227,
+        "name": "Robert",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2005-02-03",
         "nationality": "Brazil"
       },
       {
@@ -642,13 +628,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 276209,
-        "name": "Kauan",
-        "position": "Midfield",
-        "dateOfBirth": "2005-01-05",
-        "nationality": "Brazil"
-      },
-      {
         "id": 276210,
         "name": "Hendel",
         "position": "Midfield",
@@ -805,14 +784,14 @@
       }
     ],
     "coach": {
-      "id": 45492,
+      "id": 293872,
       "firstName": "",
-      "lastName": "Luís Castro",
-      "name": "Luís Castro",
-      "dateOfBirth": "1961-09-03",
-      "nationality": "Portugal",
+      "lastName": "Jéssica Lima",
+      "name": "Jéssica Lima",
+      "dateOfBirth": "1981-06-08",
+      "nationality": "Brazil",
       "contract": {
-        "start": "2025-12",
+        "start": "2026-03",
         "until": "2027-12"
       }
     },
@@ -1230,13 +1209,6 @@
         "position": "Defence",
         "dateOfBirth": "2001-10-14",
         "nationality": "Argentina"
-      },
-      {
-        "id": 179215,
-        "name": "Habraão",
-        "position": "Defence",
-        "dateOfBirth": "2001-06-26",
-        "nationality": "Brazil"
       },
       {
         "id": 203402,
@@ -1934,6 +1906,13 @@
         "nationality": "Angola"
       },
       {
+        "id": 179797,
+        "name": "Kawan",
+        "position": "Defence",
+        "dateOfBirth": "2003-04-10",
+        "nationality": "Brazil"
+      },
+      {
         "id": 206227,
         "name": "Jhoan Hernández",
         "position": "Defence",
@@ -1945,6 +1924,13 @@
         "name": "Ythallo",
         "position": "Defence",
         "dateOfBirth": "2004-07-22",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 249506,
+        "name": "Anthony",
+        "position": "Defence",
+        "dateOfBirth": "2005-07-12",
         "nationality": "Brazil"
       },
       {
@@ -2099,13 +2085,6 @@
         "name": "Lucyo",
         "position": "Midfield",
         "dateOfBirth": "2006-03-15",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 274155,
-        "name": "Kauê Leonardo",
-        "position": "Midfield",
-        "dateOfBirth": "2005-04-11",
         "nationality": "Brazil"
       },
       {
@@ -2286,15 +2265,15 @@
       }
     ],
     "coach": {
-      "id": 33639,
+      "id": 145312,
       "firstName": "",
-      "lastName": "Tite",
-      "name": "Tite",
-      "dateOfBirth": "1961-05-25",
-      "nationality": "Brazil",
+      "lastName": "Artur Jorge",
+      "name": "Artur Jorge",
+      "dateOfBirth": "1972-01-01",
+      "nationality": "Portugal",
       "contract": {
-        "start": "2025-12",
-        "until": "2026-12"
+        "start": "2026-03",
+        "until": "2027-12"
       }
     },
     "squad": [
@@ -2643,13 +2622,6 @@
     },
     "squad": [
       {
-        "id": 1664,
-        "name": "Léo Vieira",
-        "position": "Goalkeeper",
-        "dateOfBirth": "1990-09-22",
-        "nationality": "Brazil"
-      },
-      {
         "id": 13237,
         "name": "Rafael Santos",
         "position": "Goalkeeper",
@@ -2661,6 +2633,20 @@
         "name": "Anderson",
         "position": "Goalkeeper",
         "dateOfBirth": "1998-03-05",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 181574,
+        "name": "Gabriel Werner",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2003-07-14",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 276113,
+        "name": "Matheus Aurélio",
+        "position": "Goalkeeper",
+        "dateOfBirth": "1999-06-23",
         "nationality": "Brazil"
       },
       {
@@ -2783,6 +2769,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 294100,
+        "name": "Fernando da Silva",
+        "position": "Defence",
+        "dateOfBirth": "1999-11-16",
+        "nationality": "Brazil"
+      },
+      {
         "id": 1485,
         "name": "Giovanni Augusto",
         "position": "Midfield",
@@ -2874,6 +2867,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 249466,
+        "name": "Rodrigo",
+        "position": "Midfield",
+        "dateOfBirth": "2007-07-03",
+        "nationality": "Brazil"
+      },
+      {
         "id": 250726,
         "name": "Robert Conceição",
         "position": "Midfield",
@@ -2895,11 +2895,25 @@
         "nationality": "Brazil"
       },
       {
-        "id": 1286,
-        "name": "Perotti",
-        "position": "Offence",
-        "dateOfBirth": "1997-11-22",
+        "id": 294047,
+        "name": "Kauan Godoy",
+        "position": "Midfield",
+        "dateOfBirth": "2007-06-06",
         "nationality": "Brazil"
+      },
+      {
+        "id": 294050,
+        "name": "Kauê Arno",
+        "position": "Midfield",
+        "dateOfBirth": "2008-06-06",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 22136,
+        "name": "Kevin Ramírez",
+        "position": "Offence",
+        "dateOfBirth": "1994-04-01",
+        "nationality": "Uruguay"
       },
       {
         "id": 150815,
@@ -2916,13 +2930,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 220740,
-        "name": "Kaíque Maciel",
-        "position": "Offence",
-        "dateOfBirth": "2001-01-31",
-        "nationality": "Brazil"
-      },
-      {
         "id": 278710,
         "name": "Gleidson",
         "position": "Offence",
@@ -2934,6 +2941,27 @@
         "name": "João Henrique",
         "position": "Offence",
         "dateOfBirth": null,
+        "nationality": "Brazil"
+      },
+      {
+        "id": 294046,
+        "name": "Luizão",
+        "position": "Offence",
+        "dateOfBirth": "2006-01-27",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 294049,
+        "name": "Miguel Miranda",
+        "position": "Offence",
+        "dateOfBirth": "2006-08-27",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 294052,
+        "name": "Iago",
+        "position": "Offence",
+        "dateOfBirth": "2007-05-17",
         "nationality": "Brazil"
       }
     ],
@@ -3068,6 +3096,13 @@
         "name": "Matheus Doria",
         "position": "Defence",
         "dateOfBirth": "1994-11-08",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 192632,
+        "name": "Matheus Belém",
+        "position": "Defence",
+        "dateOfBirth": "2003-03-13",
         "nationality": "Brazil"
       },
       {
@@ -3335,6 +3370,13 @@
         "name": "Ronaldo",
         "position": "Goalkeeper",
         "dateOfBirth": "1996-08-22",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 1664,
+        "name": "Léo Vieira",
+        "position": "Goalkeeper",
+        "dateOfBirth": "1990-09-22",
         "nationality": "Brazil"
       },
       {
@@ -3718,15 +3760,15 @@
       }
     ],
     "coach": {
-      "id": 293469,
+      "id": 203358,
       "firstName": "",
-      "lastName": "Emily Lima",
-      "name": "Emily Lima",
-      "dateOfBirth": "1980-09-29",
+      "lastName": "Dorival Júnior",
+      "name": "Dorival Júnior",
+      "dateOfBirth": "1962-04-25",
       "nationality": "Brazil",
       "contract": {
-        "start": "2026-03",
-        "until": "2026-03"
+        "start": "2025-04",
+        "until": "2026-12"
       }
     },
     "squad": [
@@ -4055,15 +4097,15 @@
       }
     ],
     "coach": {
-      "id": 11124,
+      "id": 293871,
       "firstName": "",
-      "lastName": "Renato Gaúcho",
-      "name": "Renato Gaúcho",
-      "dateOfBirth": "1962-09-09",
+      "lastName": "Possato",
+      "name": "Possato",
+      "dateOfBirth": "1979-01-30",
       "nationality": "Brazil",
       "contract": {
         "start": "2026-03",
-        "until": "2026-12"
+        "until": "2027-03"
       }
     },
     "squad": [
@@ -4100,13 +4142,6 @@
         "name": "Renatinha",
         "position": "Goalkeeper",
         "dateOfBirth": "1997-10-22",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 276257,
-        "name": "Allan Vitor",
-        "position": "Goalkeeper",
-        "dateOfBirth": "2004-01-08",
         "nationality": "Brazil"
       },
       {
@@ -4636,6 +4671,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 181441,
+        "name": "Lepu",
+        "position": "Midfield",
+        "dateOfBirth": "1997-01-16",
+        "nationality": "Brazil"
+      },
+      {
         "id": 181537,
         "name": "Zé Vitor",
         "position": "Midfield",
@@ -4682,13 +4724,6 @@
         "name": "Lucas Lohan",
         "position": "Midfield",
         "dateOfBirth": "2006-07-10",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 282800,
-        "name": "Paulo",
-        "position": "Midfield",
-        "dateOfBirth": "2005-11-13",
         "nationality": "Brazil"
       },
       {
@@ -4752,6 +4787,13 @@
         "name": "Anderson",
         "position": "Midfield",
         "dateOfBirth": "2002-09-28",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 294048,
+        "name": "Wanderson Estrela",
+        "position": "Midfield",
+        "dateOfBirth": "2008-08-07",
         "nationality": "Brazil"
       },
       {
@@ -4825,6 +4867,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 276795,
+        "name": "Carlos Renê",
+        "position": "Offence",
+        "dateOfBirth": "2003-10-07",
+        "nationality": "Brazil"
+      },
+      {
         "id": 277421,
         "name": "Emanoel",
         "position": "Offence",
@@ -4843,6 +4892,13 @@
         "name": "Antoniano Fernando",
         "position": "Offence",
         "dateOfBirth": "2007-11-17",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 294051,
+        "name": "Ruan Rebola",
+        "position": "Offence",
+        "dateOfBirth": "2008-02-08",
         "nationality": "Brazil"
       },
       {
@@ -5401,20 +5457,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 253936,
-        "name": "Felipe da Silva",
-        "position": "Defence",
-        "dateOfBirth": "2004-04-08",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 290542,
-        "name": "Lucas Perez",
-        "position": "Defence",
-        "dateOfBirth": "2007-03-02",
-        "nationality": "Brazil"
-      },
-      {
         "id": 290546,
         "name": "Kauan Noveli",
         "position": "Defence",
@@ -5461,13 +5503,6 @@
         "name": "Wallisson Luiz",
         "position": "Midfield",
         "dateOfBirth": "1997-09-23",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 203314,
-        "name": "Jean Gabriel",
-        "position": "Midfield",
-        "dateOfBirth": "2003-02-15",
         "nationality": "Brazil"
       },
       {
@@ -5583,6 +5618,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 179086,
+        "name": "Renato Marques",
+        "position": "Offence",
+        "dateOfBirth": "2003-12-09",
+        "nationality": "Brazil"
+      },
+      {
         "id": 181513,
         "name": "Vini Paulista",
         "position": "Offence",
@@ -5609,13 +5651,6 @@
         "position": "Offence",
         "dateOfBirth": null,
         "nationality": "Uruguay"
-      },
-      {
-        "id": 274563,
-        "name": "Brayan",
-        "position": "Offence",
-        "dateOfBirth": "2006-02-03",
-        "nationality": "Brazil"
       },
       {
         "id": 276213,
@@ -6082,17 +6117,24 @@
         "nationality": "Brazil"
       },
       {
-        "id": 1565,
-        "name": "Klaus",
-        "position": "Defence",
-        "dateOfBirth": "1994-01-11",
-        "nationality": "Brazil"
-      },
-      {
         "id": 13899,
         "name": "Léo Andrade",
         "position": "Defence",
         "dateOfBirth": "1998-04-18",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 19262,
+        "name": "Mayk",
+        "position": "Defence",
+        "dateOfBirth": "1999-08-31",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 83595,
+        "name": "Matheus Alexandre",
+        "position": "Defence",
+        "dateOfBirth": "1999-04-07",
         "nationality": "Brazil"
       },
       {
@@ -6115,13 +6157,6 @@
         "position": "Defence",
         "dateOfBirth": "1996-07-23",
         "nationality": "Uruguay"
-      },
-      {
-        "id": 179797,
-        "name": "Kawan",
-        "position": "Defence",
-        "dateOfBirth": "2003-04-10",
-        "nationality": "Brazil"
       },
       {
         "id": 180287,
@@ -6243,6 +6278,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 292476,
+        "name": "Rafael",
+        "position": "Midfield",
+        "dateOfBirth": "2006-03-11",
+        "nationality": "Brazil"
+      },
+      {
         "id": 12960,
         "name": "Carlinhos",
         "position": "Offence",
@@ -6292,18 +6334,18 @@
         "nationality": "Brazil"
       },
       {
+        "id": 203696,
+        "name": "David Braga",
+        "position": "Offence",
+        "dateOfBirth": "2001-12-11",
+        "nationality": "Brazil"
+      },
+      {
         "id": 259959,
         "name": "Nicolás Ferreira",
         "position": "Offence",
         "dateOfBirth": null,
         "nationality": "Uruguay"
-      },
-      {
-        "id": 276810,
-        "name": "Guty",
-        "position": "Offence",
-        "dateOfBirth": "2003-06-26",
-        "nationality": "Brazil"
       },
       {
         "id": 278662,
@@ -6334,10 +6376,17 @@
         "nationality": "Brazil"
       },
       {
-        "id": 19922,
-        "name": "Savio",
-        "position": "Left-Back",
-        "dateOfBirth": "1995-05-26",
+        "id": 294115,
+        "name": "Andrés Moreno",
+        "position": "Offence",
+        "dateOfBirth": "2006-06-29",
+        "nationality": "Colombia"
+      },
+      {
+        "id": 294116,
+        "name": "Paulo Andrade",
+        "position": "Offence",
+        "dateOfBirth": "2007-08-05",
         "nationality": "Brazil"
       },
       {
@@ -6587,6 +6636,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 294117,
+        "name": "Giovanni Pacheco",
+        "position": "Midfield",
+        "dateOfBirth": "2006-07-19",
+        "nationality": "Brazil"
+      },
+      {
         "id": 1426,
         "name": "Neto Moura",
         "position": "Offence",
@@ -6636,17 +6692,17 @@
         "nationality": "Paraguay"
       },
       {
-        "id": 179086,
-        "name": "Renato Marques",
-        "position": "Offence",
-        "dateOfBirth": "2003-12-09",
-        "nationality": "Brazil"
-      },
-      {
         "id": 179144,
         "name": "Carlos Eduardo",
         "position": "Offence",
         "dateOfBirth": "1996-10-10",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 294118,
+        "name": "Glaucon",
+        "position": "Offence",
+        "dateOfBirth": "2006-04-02",
         "nationality": "Brazil"
       },
       {
@@ -6903,13 +6959,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 249134,
-        "name": "Gustavo Prado",
-        "position": "Midfield",
-        "dateOfBirth": "2005-06-06",
-        "nationality": "Brazil"
-      },
-      {
         "id": 261682,
         "name": "Yago Noal",
         "position": "Midfield",
@@ -7149,6 +7198,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 293967,
+        "name": "Rafael Gonzaga",
+        "position": "Defence",
+        "dateOfBirth": "2008-02-07",
+        "nationality": "Brazil"
+      },
+      {
         "id": 1156,
         "name": "Thaciano",
         "position": "Midfield",
@@ -7329,13 +7385,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "1998-03-17",
         "nationality": "Argentina"
-      },
-      {
-        "id": 293967,
-        "name": "Rafael Gonzaga",
-        "position": null,
-        "dateOfBirth": "2008-02-07",
-        "nationality": "Brazil"
       }
     ],
     "staff": [],

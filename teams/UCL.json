@@ -2660,15 +2660,15 @@
       }
     ],
     "coach": {
-      "id": 11105,
-      "firstName": "Igor",
-      "lastName": "Tudor",
-      "name": "Igor Tudor",
-      "dateOfBirth": "1978-04-16",
-      "nationality": "Croatia",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2026-02",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -4615,7 +4615,7 @@
         "name": "Honest Ahanor",
         "position": "Left-Back",
         "dateOfBirth": "2008-02-23",
-        "nationality": "Nigeria"
+        "nationality": "Italy"
       },
       {
         "id": 245244,
@@ -7972,7 +7972,7 @@
         "id": 265342,
         "name": "Jinairo Johnson",
         "position": "Midfield",
-        "dateOfBirth": "2007-06-13",
+        "dateOfBirth": "2007-04-08",
         "nationality": "Netherlands"
       },
       {
@@ -9849,13 +9849,6 @@
         "position": "Offence",
         "dateOfBirth": "2000-12-06",
         "nationality": "Denmark"
-      },
-      {
-        "id": 264369,
-        "name": "Gift Sunday",
-        "position": "Offence",
-        "dateOfBirth": "2006-03-14",
-        "nationality": "Nigeria"
       },
       {
         "id": 274833,
