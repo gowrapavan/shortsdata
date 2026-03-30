@@ -50,6 +50,25 @@
         {
           "position": 2,
           "team": {
+            "id": 1768,
+            "name": "CA Paranaense",
+            "shortName": "Paranaense",
+            "tla": "CAP",
+            "crest": "https://crests.football-data.org/1768.png"
+          },
+          "playedGames": 8,
+          "form": null,
+          "won": 5,
+          "draw": 1,
+          "lost": 2,
+          "points": 16,
+          "goalsFor": 14,
+          "goalsAgainst": 8,
+          "goalDifference": 6
+        },
+        {
+          "position": 3,
+          "team": {
             "id": 1776,
             "name": "São Paulo FC",
             "shortName": "São Paulo",
@@ -67,7 +86,7 @@
           "goalDifference": 5
         },
         {
-          "position": 3,
+          "position": 4,
           "team": {
             "id": 1765,
             "name": "Fluminense FC",
@@ -86,7 +105,7 @@
           "goalDifference": 4
         },
         {
-          "position": 4,
+          "position": 5,
           "team": {
             "id": 1783,
             "name": "CR Flamengo",
@@ -105,7 +124,7 @@
           "goalDifference": 8
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 1777,
             "name": "EC Bahia",
@@ -122,25 +141,6 @@
           "goalsFor": 9,
           "goalsAgainst": 7,
           "goalDifference": 2
-        },
-        {
-          "position": 6,
-          "team": {
-            "id": 1768,
-            "name": "CA Paranaense",
-            "shortName": "Paranaense",
-            "tla": "CAP",
-            "crest": "https://crests.football-data.org/1768.png"
-          },
-          "playedGames": 7,
-          "form": null,
-          "won": 4,
-          "draw": 1,
-          "lost": 2,
-          "points": 13,
-          "goalsFor": 10,
-          "goalsAgainst": 7,
-          "goalDifference": 3
         },
         {
           "position": 7,
@@ -341,15 +341,15 @@
             "tla": "BOT",
             "crest": "https://crests.football-data.org/1770.png"
           },
-          "playedGames": 6,
+          "playedGames": 7,
           "form": null,
           "won": 2,
           "draw": 0,
-          "lost": 4,
+          "lost": 5,
           "points": 6,
-          "goalsFor": 10,
-          "goalsAgainst": 12,
-          "goalDifference": -2
+          "goalsFor": 11,
+          "goalsAgainst": 16,
+          "goalDifference": -5
         },
         {
           "position": 18,
