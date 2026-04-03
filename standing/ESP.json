@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 87,
+            "name": "Rayo Vallecano de Madrid",
+            "shortName": "Rayo Vallecano",
+            "tla": "RAY",
+            "crest": "https://crests.football-data.org/87.png"
+          },
+          "playedGames": 30,
+          "form": null,
+          "won": 8,
+          "draw": 11,
+          "lost": 11,
+          "points": 35,
+          "goalsFor": 29,
+          "goalsAgainst": 35,
+          "goalDifference": -6
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 95,
             "name": "Valencia CF",
             "shortName": "Valencia",
@@ -257,7 +276,7 @@
           "goalDifference": -10
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 298,
             "name": "Girona FC",
@@ -274,25 +293,6 @@
           "goalsFor": 31,
           "goalsAgainst": 44,
           "goalDifference": -13
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 87,
-            "name": "Rayo Vallecano de Madrid",
-            "shortName": "Rayo Vallecano",
-            "tla": "RAY",
-            "crest": "https://crests.football-data.org/87.png"
-          },
-          "playedGames": 30,
-          "form": null,
-          "won": 7,
-          "draw": 12,
-          "lost": 11,
-          "points": 33,
-          "goalsFor": 28,
-          "goalsAgainst": 35,
-          "goalDifference": -7
         },
         {
           "position": 15,
@@ -344,12 +344,12 @@
           "playedGames": 30,
           "form": null,
           "won": 6,
-          "draw": 12,
-          "lost": 12,
-          "points": 30,
+          "draw": 11,
+          "lost": 13,
+          "points": 29,
           "goalsFor": 38,
-          "goalsAgainst": 46,
-          "goalDifference": -8
+          "goalsAgainst": 47,
+          "goalDifference": -9
         },
         {
           "position": 18,
