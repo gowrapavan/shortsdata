@@ -12042,8 +12042,8 @@
     "AwayTeamName": "Blackburn Rovers FC",
     "HomeTeamLogo": "https://crests.football-data.org/332.png",
     "AwayTeamLogo": "https://crests.football-data.org/59.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "332": 0,
@@ -12068,8 +12068,8 @@
     "AwayTeamName": "Bristol City FC",
     "HomeTeamLogo": "https://crests.football-data.org/348.png",
     "AwayTeamLogo": "https://crests.football-data.org/387.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "348": 0,
@@ -12120,8 +12120,8 @@
     "AwayTeamName": "Preston North End FC",
     "HomeTeamLogo": "https://crests.football-data.org/338.png",
     "AwayTeamLogo": "https://crests.football-data.org/1081.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "338": 0,
@@ -12135,7 +12135,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-03",
     "DateTime": "2026-04-03T11:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 343,
@@ -12147,11 +12147,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/343.png",
     "AwayTeamLogo": "https://crests.football-data.org/384.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 384,
     "Points": {
       "343": 0,
-      "384": 0
+      "384": 3
     },
     "Goals": []
   },
@@ -12172,8 +12172,8 @@
     "AwayTeamName": "Portsmouth FC",
     "HomeTeamLogo": "https://crests.football-data.org/68.png",
     "AwayTeamLogo": "https://crests.football-data.org/325.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "68": 0,
@@ -12198,8 +12198,8 @@
     "AwayTeamName": "Hull City AFC",
     "HomeTeamLogo": "https://crests.football-data.org/1082.png",
     "AwayTeamLogo": "https://crests.football-data.org/322.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "1082": 0,
@@ -12224,8 +12224,8 @@
     "AwayTeamName": "Watford FC",
     "HomeTeamLogo": "https://crests.football-data.org/69.png",
     "AwayTeamLogo": "https://crests.football-data.org/346.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "69": 0,
@@ -12250,8 +12250,8 @@
     "AwayTeamName": "Swansea City AFC",
     "HomeTeamLogo": "https://crests.football-data.org/356.png",
     "AwayTeamLogo": "https://crests.football-data.org/72.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "356": 0,
@@ -12302,8 +12302,8 @@
     "AwayTeamName": "Sheffield Wednesday FC",
     "HomeTeamLogo": "https://crests.football-data.org/70.png",
     "AwayTeamLogo": "https://crests.football-data.org/345.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "70": 0,
@@ -12328,8 +12328,8 @@
     "AwayTeamName": "Wrexham AFC",
     "HomeTeamLogo": "https://crests.football-data.org/74.png",
     "AwayTeamLogo": "https://crests.football-data.org/404.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "74": 0,
