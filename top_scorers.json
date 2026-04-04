@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-03T06:54:20.165766Z",
+    "last_updated": "2026-04-04T06:43:43.930635Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -449,6 +449,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Ousmane Dembélé",
+                    "team_name": "Paris Saint-Germain FC",
+                    "team_crest": "https://crests.football-data.org/524.png",
+                    "goals": 10,
+                    "assists": 5,
+                    "penalties": 2,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Pavel Šulc",
                     "team_name": "Olympique Lyonnais",
                     "team_crest": "https://crests.football-data.org/523.png",
@@ -474,15 +483,6 @@
                     "assists": 3,
                     "penalties": 2,
                     "nationality": "USA"
-                },
-                {
-                    "player_name": "Pierre-Emerick Aubameyang",
-                    "team_name": "Olympique de Marseille",
-                    "team_crest": "https://crests.football-data.org/516.png",
-                    "goals": 8,
-                    "assists": 5,
-                    "penalties": null,
-                    "nationality": "Gabon"
                 }
             ]
         },
