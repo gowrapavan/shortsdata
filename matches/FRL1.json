@@ -6337,7 +6337,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-04-04",
     "DateTime": "2026-04-04T19:05:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 521,
@@ -6348,11 +6348,11 @@
     "AwayTeamName": "Racing Club de Lens",
     "HomeTeamLogo": "https://crests.football-data.org/521.png",
     "AwayTeamLogo": "https://crests.football-data.org/546.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
+    "Result": 521,
     "Points": {
-      "521": 0,
+      "521": 3,
       "546": 0
     },
     "Goals": []
@@ -6441,7 +6441,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-04-04",
     "DateTime": "2026-04-04T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 512,
@@ -6452,12 +6452,12 @@
     "AwayTeamName": "Stade Rennais FC 1901",
     "HomeTeamLogo": "https://crests.football-data.org/512.png",
     "AwayTeamLogo": "https://crests.football-data.org/529.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 3,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 4,
+    "Result": 529,
     "Points": {
       "512": 0,
-      "529": 0
+      "529": 3
     },
     "Goals": []
   },
