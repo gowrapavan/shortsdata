@@ -7855,7 +7855,7 @@
     "RoundName": "Serie A",
     "Date": "2026-04-04",
     "DateTime": "2026-04-04T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 471,
@@ -7866,11 +7866,11 @@
     "AwayTeamName": "Cagliari Calcio",
     "HomeTeamLogo": "https://crests.football-data.org/471.png",
     "AwayTeamLogo": "https://crests.football-data.org/104.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 471,
     "Points": {
-      "471": 0,
+      "471": 3,
       "104": 0
     },
     "Goals": []

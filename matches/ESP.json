@@ -7544,8 +7544,8 @@
     "AwayTeamName": "Real Madrid CF",
     "HomeTeamLogo": "https://crests.football-data.org/89.png",
     "AwayTeamLogo": "https://crests.football-data.org/86.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "89": 0,
@@ -7663,7 +7663,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-04",
     "DateTime": "2026-04-04T12:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 92,
@@ -7674,11 +7674,11 @@
     "AwayTeamName": "Levante UD",
     "HomeTeamLogo": "https://crests.football-data.org/92.png",
     "AwayTeamLogo": "https://crests.football-data.org/88.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 92,
     "Points": {
-      "92": 0,
+      "92": 3,
       "88": 0
     },
     "Goals": []
