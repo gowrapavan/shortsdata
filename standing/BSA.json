@@ -50,6 +50,25 @@
         {
           "position": 2,
           "team": {
+            "id": 1776,
+            "name": "São Paulo FC",
+            "shortName": "São Paulo",
+            "tla": "PAU",
+            "crest": "https://crests.football-data.org/1776.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 6,
+          "draw": 2,
+          "lost": 2,
+          "points": 20,
+          "goalsFor": 13,
+          "goalsAgainst": 6,
+          "goalDifference": 7
+        },
+        {
+          "position": 3,
+          "team": {
             "id": 1765,
             "name": "Fluminense FC",
             "shortName": "Fluminense",
@@ -67,7 +86,7 @@
           "goalDifference": 6
         },
         {
-          "position": 3,
+          "position": 4,
           "team": {
             "id": 1777,
             "name": "EC Bahia",
@@ -83,25 +102,6 @@
           "points": 17,
           "goalsFor": 12,
           "goalsAgainst": 7,
-          "goalDifference": 5
-        },
-        {
-          "position": 4,
-          "team": {
-            "id": 1776,
-            "name": "São Paulo FC",
-            "shortName": "São Paulo",
-            "tla": "PAU",
-            "crest": "https://crests.football-data.org/1776.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 5,
-          "draw": 2,
-          "lost": 2,
-          "points": 17,
-          "goalsFor": 11,
-          "goalsAgainst": 6,
           "goalDifference": 5
         },
         {
@@ -335,25 +335,6 @@
         {
           "position": 17,
           "team": {
-            "id": 1771,
-            "name": "Cruzeiro EC",
-            "shortName": "Cruzeiro",
-            "tla": "CRU",
-            "crest": "https://crests.football-data.org/1771.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 1,
-          "draw": 4,
-          "lost": 4,
-          "points": 7,
-          "goalsFor": 11,
-          "goalsAgainst": 16,
-          "goalDifference": -5
-        },
-        {
-          "position": 18,
-          "team": {
             "id": 1772,
             "name": "Chapecoense AF",
             "shortName": "Chapecoense",
@@ -369,6 +350,25 @@
           "goalsFor": 9,
           "goalsAgainst": 15,
           "goalDifference": -6
+        },
+        {
+          "position": 18,
+          "team": {
+            "id": 1771,
+            "name": "Cruzeiro EC",
+            "shortName": "Cruzeiro",
+            "tla": "CRU",
+            "crest": "https://crests.football-data.org/1771.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 1,
+          "draw": 4,
+          "lost": 5,
+          "points": 7,
+          "goalsFor": 11,
+          "goalsAgainst": 18,
+          "goalDifference": -7
         },
         {
           "position": 19,

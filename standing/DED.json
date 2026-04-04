@@ -62,9 +62,9 @@
           "draw": 8,
           "lost": 6,
           "points": 53,
-          "goalsFor": 70,
+          "goalsFor": 71,
           "goalsAgainst": 47,
-          "goalDifference": 23
+          "goalDifference": 24
         },
         {
           "position": 3,
@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 666,
+            "name": "FC Twente '65",
+            "shortName": "Twente",
+            "tla": "TWE",
+            "crest": "https://crests.football-data.org/666.png"
+          },
+          "playedGames": 29,
+          "form": null,
+          "won": 13,
+          "draw": 11,
+          "lost": 5,
+          "points": 50,
+          "goalsFor": 49,
+          "goalsAgainst": 31,
+          "goalDifference": 18
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 678,
             "name": "AFC Ajax",
             "shortName": "Ajax",
@@ -97,30 +116,11 @@
           "playedGames": 29,
           "form": null,
           "won": 12,
-          "draw": 13,
-          "lost": 4,
-          "points": 49,
-          "goalsFor": 54,
-          "goalsAgainst": 36,
-          "goalDifference": 18
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 666,
-            "name": "FC Twente '65",
-            "shortName": "Twente",
-            "tla": "TWE",
-            "crest": "https://crests.football-data.org/666.png"
-          },
-          "playedGames": 29,
-          "form": null,
-          "won": 12,
           "draw": 12,
           "lost": 5,
           "points": 48,
-          "goalsFor": 48,
-          "goalsAgainst": 31,
+          "goalsFor": 54,
+          "goalsAgainst": 37,
           "goalDifference": 17
         },
         {
@@ -329,8 +329,8 @@
           "lost": 16,
           "points": 27,
           "goalsFor": 29,
-          "goalsAgainst": 48,
-          "goalDifference": -19
+          "goalsAgainst": 49,
+          "goalDifference": -20
         },
         {
           "position": 17,
