@@ -7481,7 +7481,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-04",
     "DateTime": "2026-04-04T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 90,
@@ -7492,12 +7492,12 @@
     "AwayTeamName": "RCD Espanyol de Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/90.png",
     "AwayTeamLogo": "https://crests.football-data.org/80.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "90": 0,
-      "80": 0
+      "90": 1,
+      "80": 1
     },
     "Goals": []
   },
@@ -7533,7 +7533,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-04",
     "DateTime": "2026-04-04T14:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 89,
@@ -7544,11 +7544,11 @@
     "AwayTeamName": "Real Madrid CF",
     "HomeTeamLogo": "https://crests.football-data.org/89.png",
     "AwayTeamLogo": "https://crests.football-data.org/86.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 89,
     "Points": {
-      "89": 0,
+      "89": 3,
       "86": 0
     },
     "Goals": []
