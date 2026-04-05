@@ -7429,7 +7429,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-05",
     "DateTime": "2026-04-05T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 263,
@@ -7440,12 +7440,12 @@
     "AwayTeamName": "CA Osasuna",
     "HomeTeamLogo": "https://crests.football-data.org/263.png",
     "AwayTeamLogo": "https://crests.football-data.org/79.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "263": 0,
-      "79": 0
+      "263": 1,
+      "79": 1
     },
     "Goals": []
   },
