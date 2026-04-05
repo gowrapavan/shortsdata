@@ -6527,7 +6527,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-04-05",
     "DateTime": "2026-04-05T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1919,
@@ -6542,8 +6542,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "1919": 0,
-      "675": 0
+      "1919": 1,
+      "675": 1
     },
     "Goals": []
   },
@@ -6553,7 +6553,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-04-05",
     "DateTime": "2026-04-05T10:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 718,
@@ -6564,11 +6564,11 @@
     "AwayTeamName": "PEC Zwolle",
     "HomeTeamLogo": "https://crests.football-data.org/718.png",
     "AwayTeamLogo": "https://crests.football-data.org/684.png",
-    "HomeTeamScore": 3,
+    "HomeTeamScore": 5,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 718,
     "Points": {
-      "718": 0,
+      "718": 3,
       "684": 0
     },
     "Goals": []
@@ -6590,8 +6590,8 @@
     "AwayTeamName": "Sparta Rotterdam",
     "HomeTeamLogo": "https://crests.football-data.org/681.png",
     "AwayTeamLogo": "https://crests.football-data.org/6806.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "681": 0,
@@ -6631,7 +6631,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-04-05",
     "DateTime": "2026-04-05T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 673,
@@ -6642,11 +6642,11 @@
     "AwayTeamName": "Heracles Almelo",
     "HomeTeamLogo": "https://crests.football-data.org/673.png",
     "AwayTeamLogo": "https://crests.football-data.org/671.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 1,
+    "Result": 673,
     "Points": {
-      "673": 0,
+      "673": 3,
       "671": 0
     },
     "Goals": []
