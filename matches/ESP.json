@@ -7559,7 +7559,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-05",
     "DateTime": "2026-04-05T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1048,
@@ -7570,11 +7570,11 @@
     "AwayTeamName": "Sevilla FC",
     "HomeTeamLogo": "https://crests.football-data.org/1048.png",
     "AwayTeamLogo": "https://crests.football-data.org/559.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 1048,
     "Points": {
-      "1048": 0,
+      "1048": 3,
       "559": 0
     },
     "Goals": []
@@ -7611,7 +7611,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-05",
     "DateTime": "2026-04-05T14:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 95,
@@ -7622,12 +7622,12 @@
     "AwayTeamName": "RC Celta de Vigo",
     "HomeTeamLogo": "https://crests.football-data.org/95.png",
     "AwayTeamLogo": "https://crests.football-data.org/558.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 558,
     "Points": {
       "95": 0,
-      "558": 0
+      "558": 3
     },
     "Goals": []
   },
