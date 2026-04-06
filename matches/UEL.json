@@ -12354,8 +12354,8 @@
     "AwayTeamName": "West Bromwich Albion FC",
     "HomeTeamLogo": "https://crests.football-data.org/59.png",
     "AwayTeamLogo": "https://crests.football-data.org/74.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "59": 0,
@@ -12380,8 +12380,8 @@
     "AwayTeamName": "Sheffield United FC",
     "HomeTeamLogo": "https://crests.football-data.org/387.png",
     "AwayTeamLogo": "https://crests.football-data.org/356.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "387": 0,
@@ -12406,8 +12406,8 @@
     "AwayTeamName": "Stoke City FC",
     "HomeTeamLogo": "https://crests.football-data.org/342.png",
     "AwayTeamLogo": "https://crests.football-data.org/70.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "342": 0,
@@ -12458,8 +12458,8 @@
     "AwayTeamName": "Birmingham City FC",
     "HomeTeamLogo": "https://crests.football-data.org/349.png",
     "AwayTeamLogo": "https://crests.football-data.org/332.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "349": 0,
@@ -12473,7 +12473,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-06",
     "DateTime": "2026-04-06T12:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 384,
@@ -12484,12 +12484,12 @@
     "AwayTeamName": "Norwich City FC",
     "HomeTeamLogo": "https://crests.football-data.org/384.png",
     "AwayTeamLogo": "https://crests.football-data.org/68.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 68,
     "Points": {
       "384": 0,
-      "68": 0
+      "68": 3
     },
     "Goals": []
   },
@@ -12499,7 +12499,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-06",
     "DateTime": "2026-04-06T11:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 325,
@@ -12510,12 +12510,12 @@
     "AwayTeamName": "Oxford United FC",
     "HomeTeamLogo": "https://crests.football-data.org/325.png",
     "AwayTeamLogo": "https://crests.football-data.org/1082.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "325": 0,
-      "1082": 0
+      "325": 1,
+      "1082": 1
     },
     "Goals": []
   },
@@ -12536,8 +12536,8 @@
     "AwayTeamName": "Queens Park Rangers FC",
     "HomeTeamLogo": "https://crests.football-data.org/1081.png",
     "AwayTeamLogo": "https://crests.football-data.org/69.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "1081": 0,
@@ -12562,8 +12562,8 @@
     "AwayTeamName": "Leicester City FC",
     "HomeTeamLogo": "https://crests.football-data.org/345.png",
     "AwayTeamLogo": "https://crests.football-data.org/338.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "345": 0,
@@ -12614,8 +12614,8 @@
     "AwayTeamName": "Charlton Athletic FC",
     "HomeTeamLogo": "https://crests.football-data.org/346.png",
     "AwayTeamLogo": "https://crests.football-data.org/348.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "346": 0,
