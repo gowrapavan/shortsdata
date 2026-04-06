@@ -75,12 +75,12 @@
             "tla": "BEN",
             "crest": "https://crests.football-data.org/1903.png"
           },
-          "playedGames": 27,
+          "playedGames": 28,
           "form": null,
           "won": 19,
-          "draw": 8,
+          "draw": 9,
           "lost": 0,
-          "points": 65,
+          "points": 66,
           "goalsFor": 58,
           "goalsAgainst": 17,
           "goalDifference": 41
@@ -151,15 +151,15 @@
             "tla": "EST",
             "crest": "https://crests.football-data.org/582.png"
           },
-          "playedGames": 27,
+          "playedGames": 28,
           "form": null,
           "won": 10,
           "draw": 7,
-          "lost": 10,
+          "lost": 11,
           "points": 37,
-          "goalsFor": 48,
-          "goalsAgainst": 44,
-          "goalDifference": 4
+          "goalsFor": 50,
+          "goalsAgainst": 47,
+          "goalDifference": 3
         },
         {
           "position": 8,
@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 712,
+            "name": "FC Arouca",
+            "shortName": "Arouca",
+            "tla": "FCA",
+            "crest": "https://crests.football-data.org/712.png"
+          },
+          "playedGames": 28,
+          "form": null,
+          "won": 9,
+          "draw": 5,
+          "lost": 14,
+          "points": 32,
+          "goalsFor": 37,
+          "goalsAgainst": 57,
+          "goalDifference": -20
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 496,
             "name": "Rio Ave FC",
             "shortName": "Rio Ave",
@@ -236,25 +255,6 @@
           "goalsFor": 29,
           "goalsAgainst": 48,
           "goalDifference": -19
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 712,
-            "name": "FC Arouca",
-            "shortName": "Arouca",
-            "tla": "FCA",
-            "crest": "https://crests.football-data.org/712.png"
-          },
-          "playedGames": 27,
-          "form": null,
-          "won": 8,
-          "draw": 5,
-          "lost": 14,
-          "points": 29,
-          "goalsFor": 34,
-          "goalsAgainst": 55,
-          "goalDifference": -21
         },
         {
           "position": 13,
@@ -322,12 +322,12 @@
             "tla": "CAS",
             "crest": "https://crests.football-data.org/6618.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 5,
-          "draw": 9,
+          "draw": 10,
           "lost": 12,
-          "points": 24,
+          "points": 25,
           "goalsFor": 26,
           "goalsAgainst": 48,
           "goalDifference": -22

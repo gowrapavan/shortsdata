@@ -75,15 +75,15 @@
             "tla": "VIL",
             "crest": "https://crests.football-data.org/94.png"
           },
-          "playedGames": 29,
+          "playedGames": 30,
           "form": null,
           "won": 18,
           "draw": 4,
-          "lost": 7,
+          "lost": 8,
           "points": 58,
           "goalsFor": 54,
-          "goalsAgainst": 34,
-          "goalDifference": 20
+          "goalsAgainst": 35,
+          "goalDifference": 19
         },
         {
           "position": 4,
@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 298,
+            "name": "Girona FC",
+            "shortName": "Girona",
+            "tla": "GIR",
+            "crest": "https://crests.football-data.org/298.png"
+          },
+          "playedGames": 30,
+          "form": null,
+          "won": 9,
+          "draw": 10,
+          "lost": 11,
+          "points": 37,
+          "goalsFor": 32,
+          "goalsAgainst": 44,
+          "goalDifference": -12
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 87,
             "name": "Rayo Vallecano de Madrid",
             "shortName": "Rayo Vallecano",
@@ -257,7 +276,7 @@
           "goalDifference": -6
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 95,
             "name": "Valencia CF",
@@ -274,25 +293,6 @@
           "goalsFor": 34,
           "goalsAgainst": 45,
           "goalDifference": -11
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 298,
-            "name": "Girona FC",
-            "shortName": "Girona",
-            "tla": "GIR",
-            "crest": "https://crests.football-data.org/298.png"
-          },
-          "playedGames": 29,
-          "form": null,
-          "won": 8,
-          "draw": 10,
-          "lost": 11,
-          "points": 34,
-          "goalsFor": 31,
-          "goalsAgainst": 44,
-          "goalDifference": -13
         },
         {
           "position": 15,
