@@ -7907,7 +7907,7 @@
     "RoundName": "Serie A",
     "Date": "2026-04-06",
     "DateTime": "2026-04-06T10:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 115,
@@ -7918,12 +7918,12 @@
     "AwayTeamName": "Como 1907",
     "HomeTeamLogo": "https://crests.football-data.org/115.png",
     "AwayTeamLogo": "https://crests.football-data.org/7397.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "115": 0,
-      "7397": 0
+      "115": 1,
+      "7397": 1
     },
     "Goals": []
   },
