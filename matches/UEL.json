@@ -12343,7 +12343,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-06",
     "DateTime": "2026-04-06T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 59,
@@ -12358,8 +12358,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "59": 0,
-      "74": 0
+      "59": 1,
+      "74": 1
     },
     "Goals": []
   },
@@ -12369,7 +12369,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-06",
     "DateTime": "2026-04-06T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 387,
@@ -12382,9 +12382,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/356.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 387,
     "Points": {
-      "387": 0,
+      "387": 3,
       "356": 0
     },
     "Goals": []
@@ -12395,7 +12395,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-06",
     "DateTime": "2026-04-06T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 342,
@@ -12406,11 +12406,11 @@
     "AwayTeamName": "Stoke City FC",
     "HomeTeamLogo": "https://crests.football-data.org/342.png",
     "AwayTeamLogo": "https://crests.football-data.org/70.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 342,
     "Points": {
-      "342": 0,
+      "342": 3,
       "70": 0
     },
     "Goals": []
@@ -12447,7 +12447,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-06",
     "DateTime": "2026-04-06T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 349,
@@ -12460,9 +12460,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/332.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 349,
     "Points": {
-      "349": 0,
+      "349": 3,
       "332": 0
     },
     "Goals": []
@@ -12525,7 +12525,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-06",
     "DateTime": "2026-04-06T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1081,
@@ -12537,11 +12537,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/1081.png",
     "AwayTeamLogo": "https://crests.football-data.org/69.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "1081": 0,
-      "69": 0
+      "1081": 1,
+      "69": 1
     },
     "Goals": []
   },
@@ -12551,7 +12551,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-06",
     "DateTime": "2026-04-06T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 345,
@@ -12563,11 +12563,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/345.png",
     "AwayTeamLogo": "https://crests.football-data.org/338.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "345": 0,
-      "338": 0
+      "345": 1,
+      "338": 1
     },
     "Goals": []
   },
@@ -12577,7 +12577,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-06",
     "DateTime": "2026-04-06T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 72,
@@ -12588,12 +12588,12 @@
     "AwayTeamName": "Middlesbrough FC",
     "HomeTeamLogo": "https://crests.football-data.org/72.png",
     "AwayTeamLogo": "https://crests.football-data.org/343.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "72": 0,
-      "343": 0
+      "72": 1,
+      "343": 1
     },
     "Goals": []
   },
@@ -12603,7 +12603,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-06",
     "DateTime": "2026-04-06T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 346,
@@ -12618,8 +12618,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "346": 0,
-      "348": 0
+      "346": 1,
+      "348": 1
     },
     "Goals": []
   },
