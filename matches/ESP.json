@@ -7507,7 +7507,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-06",
     "DateTime": "2026-04-06T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 298,
@@ -7518,11 +7518,11 @@
     "AwayTeamName": "Villarreal CF",
     "HomeTeamLogo": "https://crests.football-data.org/298.png",
     "AwayTeamLogo": "https://crests.football-data.org/94.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 298,
     "Points": {
-      "298": 0,
+      "298": 3,
       "94": 0
     },
     "Goals": []

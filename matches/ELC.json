@@ -12421,7 +12421,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-06",
     "DateTime": "2026-04-06T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 322,
@@ -12432,12 +12432,12 @@
     "AwayTeamName": "Coventry City FC",
     "HomeTeamLogo": "https://crests.football-data.org/322.png",
     "AwayTeamLogo": "https://crests.football-data.org/1076.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "322": 0,
-      "1076": 0
+      "322": 1,
+      "1076": 1
     },
     "Goals": []
   },
