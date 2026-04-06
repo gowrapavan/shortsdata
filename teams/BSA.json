@@ -495,13 +495,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 203342,
-        "name": "Vitor Reis",
-        "position": "Defence",
-        "dateOfBirth": "2006-03-11",
-        "nationality": "Brazil"
-      },
-      {
         "id": 218742,
         "name": "Iván Román",
         "position": "Defence",
@@ -1795,15 +1788,15 @@
       }
     ],
     "coach": {
-      "id": 179333,
-      "firstName": "Martín",
-      "lastName": "Anselmi",
-      "name": "Martin Anselmi",
-      "dateOfBirth": "1985-07-11",
-      "nationality": "Argentina",
+      "id": 177226,
+      "firstName": "",
+      "lastName": "Franclim Carvalho",
+      "name": "Franclim Carvalho",
+      "dateOfBirth": "1987-03-30",
+      "nationality": "Portugal",
       "contract": {
-        "start": "2025-12",
-        "until": "2027-12"
+        "start": "2026-04",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -1904,13 +1897,6 @@
         "position": "Defence",
         "dateOfBirth": "1991-11-23",
         "nationality": "Angola"
-      },
-      {
-        "id": 179797,
-        "name": "Kawan",
-        "position": "Defence",
-        "dateOfBirth": "2003-04-10",
-        "nationality": "Brazil"
       },
       {
         "id": 206227,
@@ -2135,13 +2121,6 @@
         "position": "Offence",
         "dateOfBirth": "1994-08-13",
         "nationality": "Argentina"
-      },
-      {
-        "id": 1192,
-        "name": "Artur Guimaraes",
-        "position": "Offence",
-        "dateOfBirth": "1998-02-15",
-        "nationality": "Brazil"
       },
       {
         "id": 12653,
@@ -2636,20 +2615,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 181574,
-        "name": "Gabriel Werner",
-        "position": "Goalkeeper",
-        "dateOfBirth": "2003-07-14",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 276113,
-        "name": "Matheus Aurélio",
-        "position": "Goalkeeper",
-        "dateOfBirth": "1999-06-23",
-        "nationality": "Brazil"
-      },
-      {
         "id": 292444,
         "name": "Kainã",
         "position": "Goalkeeper",
@@ -2734,6 +2699,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 206864,
+        "name": "Eduardo Lopes",
+        "position": "Defence",
+        "dateOfBirth": "2006-04-07",
+        "nationality": "Brazil"
+      },
+      {
         "id": 220748,
         "name": "João Vitor",
         "position": "Defence",
@@ -2773,6 +2745,13 @@
         "name": "Fernando da Silva",
         "position": "Defence",
         "dateOfBirth": "1999-11-16",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 294205,
+        "name": "Felipe da Fonseca",
+        "position": "Defence",
+        "dateOfBirth": "2008-02-06",
         "nationality": "Brazil"
       },
       {
@@ -2962,6 +2941,27 @@
         "name": "Iago",
         "position": "Offence",
         "dateOfBirth": "2007-05-17",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 294204,
+        "name": "Matheus Milani",
+        "position": "Offence",
+        "dateOfBirth": "2006-05-25",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 294206,
+        "name": "Talison",
+        "position": "Offence",
+        "dateOfBirth": "2007-04-17",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 294207,
+        "name": "Bernardo",
+        "position": "Offence",
+        "dateOfBirth": "2006-11-30",
         "nationality": "Brazil"
       }
     ],
@@ -3229,6 +3229,13 @@
         "name": "Djhordney",
         "position": "Midfield",
         "dateOfBirth": "2007-06-17",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 1192,
+        "name": "Artur Guimaraes",
+        "position": "Offence",
+        "dateOfBirth": "1998-02-15",
         "nationality": "Brazil"
       },
       {
@@ -3546,13 +3553,6 @@
         "position": "Midfield",
         "dateOfBirth": "2002-04-17",
         "nationality": "Uruguay"
-      },
-      {
-        "id": 181498,
-        "name": "Miqueias",
-        "position": "Midfield",
-        "dateOfBirth": "2001-07-27",
-        "nationality": "Brazil"
       },
       {
         "id": 191376,
@@ -4355,13 +4355,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 290126,
-        "name": "Lora Capanema",
-        "position": "Midfield",
-        "dateOfBirth": "1993-07-09",
-        "nationality": "Brazil"
-      },
-      {
         "id": 291285,
         "name": "João Vitor",
         "position": "Midfield",
@@ -4668,13 +4661,6 @@
         "name": "Dudu",
         "position": "Midfield",
         "dateOfBirth": "1999-06-05",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 181441,
-        "name": "Lepu",
-        "position": "Midfield",
-        "dateOfBirth": "1997-01-16",
         "nationality": "Brazil"
       },
       {
@@ -5124,6 +5110,13 @@
         "name": "Yan",
         "position": "Midfield",
         "dateOfBirth": "2005-02-08",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 272932,
+        "name": "Caio",
+        "position": "Midfield",
+        "dateOfBirth": "2004-04-03",
         "nationality": "Brazil"
       },
       {
@@ -5686,6 +5679,13 @@
         "position": "Offence",
         "dateOfBirth": "2007-06-18",
         "nationality": "Brazil"
+      },
+      {
+        "id": 294294,
+        "name": "David Alves",
+        "position": "Offence",
+        "dateOfBirth": "2008-02-04",
+        "nationality": "Brazil"
       }
     ],
     "staff": [],
@@ -5910,13 +5910,6 @@
         "name": "Rodrigo Huendra",
         "position": "Midfield",
         "dateOfBirth": "2004-03-16",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 189633,
-        "name": "Dija",
-        "position": "Midfield",
-        "dateOfBirth": "2003-04-14",
         "nationality": "Brazil"
       },
       {
@@ -6264,13 +6257,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 292210,
-        "name": "Kakaroto",
-        "position": "Midfield",
-        "dateOfBirth": "2005-09-15",
-        "nationality": "Brazil"
-      },
-      {
         "id": 292474,
         "name": "Miguel Pereira",
         "position": "Midfield",
@@ -6535,6 +6521,13 @@
         "name": "Igor Formiga",
         "position": "Defence",
         "dateOfBirth": "1999-01-08",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 203940,
+        "name": "Wesley",
+        "position": "Defence",
+        "dateOfBirth": "2004-06-06",
         "nationality": "Brazil"
       },
       {

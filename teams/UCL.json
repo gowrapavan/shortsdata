@@ -2660,15 +2660,15 @@
       }
     ],
     "coach": {
-      "id": null,
-      "firstName": null,
-      "lastName": null,
-      "name": null,
-      "dateOfBirth": null,
-      "nationality": null,
+      "id": 11109,
+      "firstName": "Roberto",
+      "lastName": "De Zerbi",
+      "name": "Roberto De Zerbi",
+      "dateOfBirth": "1979-06-06",
+      "nationality": "Italy",
       "contract": {
-        "start": null,
-        "until": null
+        "start": "2026-03",
+        "until": "2031-06"
       }
     },
     "squad": [
@@ -5965,6 +5965,13 @@
         "code": "CL",
         "type": "CUP",
         "emblem": "https://crests.football-data.org/CL.png"
+      },
+      {
+        "id": 2138,
+        "name": "Coupe de France",
+        "code": "CDF",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -6492,6 +6499,13 @@
         "code": "CL",
         "type": "CUP",
         "emblem": "https://crests.football-data.org/CL.png"
+      },
+      {
+        "id": 2138,
+        "name": "Coupe de France",
+        "code": "CDF",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -7976,6 +7990,13 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 265343,
+        "name": "Mark Verkuijl",
+        "position": "Midfield",
+        "dateOfBirth": "2006-02-10",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 273341,
         "name": "Rayane Bounida",
         "position": "Midfield",
@@ -8037,6 +8058,13 @@
         "position": "Offence",
         "dateOfBirth": "2008-02-07",
         "nationality": "Netherlands"
+      },
+      {
+        "id": 189574,
+        "name": "Mika Godts",
+        "position": "Left Winger",
+        "dateOfBirth": "2005-06-07",
+        "nationality": "Belgium"
       },
       {
         "id": 188830,
@@ -8135,13 +8163,6 @@
         "position": "Right Winger",
         "dateOfBirth": "1991-12-19",
         "nationality": "Netherlands"
-      },
-      {
-        "id": 189574,
-        "name": "Mika Godts",
-        "position": "Left Winger",
-        "dateOfBirth": "2005-06-07",
-        "nationality": "Belgium"
       }
     ],
     "staff": [],
@@ -8792,15 +8813,15 @@
       }
     ],
     "coach": {
-      "id": 124504,
-      "firstName": "Jacob",
-      "lastName": "Neestrup",
-      "name": "Jacob Neestrup",
-      "dateOfBirth": "1988-03-08",
+      "id": 124245,
+      "firstName": "Bo",
+      "lastName": "Svensson",
+      "name": "Bo Svensson",
+      "dateOfBirth": "1979-08-04",
       "nationality": "Denmark",
       "contract": {
-        "start": "2022-09",
-        "until": "2029-06"
+        "start": "2026-03",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -9774,6 +9795,13 @@
         "nationality": "Norway"
       },
       {
+        "id": 38416,
+        "name": "Ola Brynhildsen",
+        "position": "Midfield",
+        "dateOfBirth": "1999-04-27",
+        "nationality": "Norway"
+      },
+      {
         "id": 44413,
         "name": "Sondre Fet",
         "position": "Midfield",
@@ -10102,13 +10130,6 @@
         "position": "Offence",
         "dateOfBirth": "2006-10-09",
         "nationality": "Kazakhstan"
-      },
-      {
-        "id": 290968,
-        "name": "Mansur Birkurmanov",
-        "position": "Offence",
-        "dateOfBirth": "2007-04-04",
-        "nationality": "Kazakhstan"
       }
     ],
     "staff": [],
@@ -10299,6 +10320,13 @@
         "position": "Midfield",
         "dateOfBirth": "2005-08-16",
         "nationality": "Brazil"
+      },
+      {
+        "id": 294266,
+        "name": "Andreas Christoforou",
+        "position": "Midfield",
+        "dateOfBirth": "2007-04-17",
+        "nationality": "Cyprus"
       },
       {
         "id": 37791,
