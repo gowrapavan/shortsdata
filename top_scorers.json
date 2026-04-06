@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-05T06:52:21.050881Z",
+    "last_updated": "2026-04-06T07:14:18.902436Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -122,6 +122,15 @@
                     "nationality": "Kosovo"
                 },
                 {
+                    "player_name": "Ante Budimir",
+                    "team_name": "CA Osasuna",
+                    "team_crest": "https://crests.football-data.org/79.png",
+                    "goals": 15,
+                    "assists": null,
+                    "penalties": 5,
+                    "nationality": "Croatia"
+                },
+                {
                     "player_name": "Lamine Yamal",
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
@@ -129,15 +138,6 @@
                     "assists": 9,
                     "penalties": 2,
                     "nationality": "Spain"
-                },
-                {
-                    "player_name": "Ante Budimir",
-                    "team_name": "CA Osasuna",
-                    "team_crest": "https://crests.football-data.org/79.png",
-                    "goals": 14,
-                    "assists": null,
-                    "penalties": 4,
-                    "nationality": "Croatia"
                 },
                 {
                     "player_name": "Ferrán Torres",
@@ -204,7 +204,7 @@
                     "player_name": "Lautaro Martínez",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
-                    "goals": 14,
+                    "goals": 16,
                     "assists": 4,
                     "penalties": null,
                     "nationality": "Argentina"
@@ -255,6 +255,15 @@
                     "nationality": "Denmark"
                 },
                 {
+                    "player_name": "Hakan Çalhanoğlu",
+                    "team_name": "FC Internazionale Milano",
+                    "team_crest": "https://crests.football-data.org/108.png",
+                    "goals": 9,
+                    "assists": 3,
+                    "penalties": 4,
+                    "nationality": "Turkey"
+                },
+                {
                     "player_name": "Rafael Leão",
                     "team_name": "AC Milan",
                     "team_crest": "https://crests.football-data.org/98.png",
@@ -273,22 +282,13 @@
                     "nationality": "Italy"
                 },
                 {
-                    "player_name": "Andrea Pinamonti",
-                    "team_name": "US Sassuolo Calcio",
-                    "team_crest": "https://crests.football-data.org/471.png",
+                    "player_name": "Marcus Thuram-Ulien",
+                    "team_name": "FC Internazionale Milano",
+                    "team_crest": "https://crests.football-data.org/108.png",
                     "goals": 8,
-                    "assists": 3,
+                    "assists": 5,
                     "penalties": null,
-                    "nationality": "Italy"
-                },
-                {
-                    "player_name": "Christian Pulisic",
-                    "team_name": "AC Milan",
-                    "team_crest": "https://crests.football-data.org/98.png",
-                    "goals": 8,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "USA"
+                    "nationality": "France"
                 }
             ]
         },
@@ -458,6 +458,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Folarin Balogun",
+                    "team_name": "AS Monaco FC",
+                    "team_crest": "https://crests.football-data.org/548.png",
+                    "goals": 10,
+                    "assists": 3,
+                    "penalties": 2,
+                    "nationality": "USA"
+                },
+                {
                     "player_name": "Pavel Šulc",
                     "team_name": "Olympique Lyonnais",
                     "team_crest": "https://crests.football-data.org/523.png",
@@ -474,15 +483,6 @@
                     "assists": 5,
                     "penalties": 2,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Folarin Balogun",
-                    "team_name": "AS Monaco FC",
-                    "team_crest": "https://crests.football-data.org/548.png",
-                    "goals": 9,
-                    "assists": 3,
-                    "penalties": 2,
-                    "nationality": "USA"
                 }
             ]
         },
@@ -537,6 +537,15 @@
                     "nationality": "Netherlands"
                 },
                 {
+                    "player_name": "Jacob Trenskow",
+                    "team_name": "SC Heerenveen",
+                    "team_crest": "https://crests.football-data.org/673.png",
+                    "goals": 12,
+                    "assists": 3,
+                    "penalties": null,
+                    "nationality": "Denmark"
+                },
+                {
                     "player_name": "Bryan Linssen",
                     "team_name": "NEC",
                     "team_crest": "https://crests.football-data.org/1915.png",
@@ -555,15 +564,6 @@
                     "nationality": "Netherlands"
                 },
                 {
-                    "player_name": "Jacob Trenskow",
-                    "team_name": "SC Heerenveen",
-                    "team_crest": "https://crests.football-data.org/673.png",
-                    "goals": 11,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "Denmark"
-                },
-                {
                     "player_name": "Tobias Lauritsen",
                     "team_name": "Sparta Rotterdam",
                     "team_crest": "https://crests.football-data.org/6806.png",
@@ -573,13 +573,13 @@
                     "nationality": "Norway"
                 },
                 {
-                    "player_name": "Jizz Hornkamp",
-                    "team_name": "Heracles Almelo",
-                    "team_crest": "https://crests.football-data.org/671.png",
-                    "goals": 10,
-                    "assists": 1,
-                    "penalties": 1,
-                    "nationality": "Netherlands"
+                    "player_name": "Mathis Suray",
+                    "team_name": "Go Ahead Eagles",
+                    "team_crest": "https://crests.football-data.org/718.png",
+                    "goals": 11,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Belgium"
                 }
             ]
         },
