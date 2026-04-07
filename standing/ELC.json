@@ -126,40 +126,40 @@
         {
           "position": 6,
           "team": {
-            "id": 404,
-            "name": "Wrexham AFC",
-            "shortName": "Wrexham",
-            "tla": "WRE",
-            "crest": "https://crests.football-data.org/404.png"
-          },
-          "playedGames": 40,
-          "form": null,
-          "won": 17,
-          "draw": 13,
-          "lost": 10,
-          "points": 64,
-          "goalsFor": 62,
-          "goalsAgainst": 53,
-          "goalDifference": 9
-        },
-        {
-          "position": 7,
-          "team": {
             "id": 340,
             "name": "Southampton FC",
             "shortName": "Southampton",
             "tla": "SOU",
             "crest": "https://crests.football-data.org/340.png"
           },
-          "playedGames": 39,
+          "playedGames": 40,
           "form": null,
-          "won": 17,
+          "won": 18,
           "draw": 12,
           "lost": 10,
-          "points": 63,
+          "points": 66,
+          "goalsFor": 66,
+          "goalsAgainst": 49,
+          "goalDifference": 17
+        },
+        {
+          "position": 7,
+          "team": {
+            "id": 404,
+            "name": "Wrexham AFC",
+            "shortName": "Wrexham",
+            "tla": "WRE",
+            "crest": "https://crests.football-data.org/404.png"
+          },
+          "playedGames": 41,
+          "form": null,
+          "won": 17,
+          "draw": 13,
+          "lost": 11,
+          "points": 64,
           "goalsFor": 63,
-          "goalsAgainst": 48,
-          "goalDifference": 15
+          "goalsAgainst": 56,
+          "goalDifference": 7
         },
         {
           "position": 8,
