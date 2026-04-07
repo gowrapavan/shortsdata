@@ -12629,7 +12629,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-07",
     "DateTime": "2026-04-07T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 404,
@@ -12640,12 +12640,12 @@
     "AwayTeamName": "Southampton FC",
     "HomeTeamLogo": "https://crests.football-data.org/404.png",
     "AwayTeamLogo": "https://crests.football-data.org/340.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 5,
+    "Result": 340,
     "Points": {
       "404": 0,
-      "340": 0
+      "340": 3
     },
     "Goals": []
   },

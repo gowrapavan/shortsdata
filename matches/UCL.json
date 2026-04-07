@@ -4896,7 +4896,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-04-07",
     "DateTime": "2026-04-07T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 86,
@@ -4907,12 +4907,12 @@
     "AwayTeamName": "FC Bayern München",
     "HomeTeamLogo": "https://crests.football-data.org/86.png",
     "AwayTeamLogo": "https://crests.football-data.org/5.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 5,
     "Points": {
       "86": 0,
-      "5": 0
+      "5": 3
     },
     "Goals": []
   },
@@ -4948,7 +4948,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-04-07",
     "DateTime": "2026-04-07T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 498,
@@ -4959,12 +4959,12 @@
     "AwayTeamName": "Arsenal FC",
     "HomeTeamLogo": "https://crests.football-data.org/498.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 57,
     "Points": {
       "498": 0,
-      "57": 0
+      "57": 3
     },
     "Goals": []
   },
