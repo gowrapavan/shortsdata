@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-08T07:03:26.885268Z",
+    "last_updated": "2026-04-09T07:07:25.988449Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -616,19 +616,10 @@
                     "nationality": "England"
                 },
                 {
-                    "player_name": "Erling Haaland",
-                    "team_name": "Manchester City FC",
-                    "team_crest": "https://crests.football-data.org/65.png",
-                    "goals": 8,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "Norway"
-                },
-                {
                     "player_name": "Julián Álvarez",
                     "team_name": "Club Atlético de Madrid",
                     "team_crest": "https://crests.football-data.org/78.png",
-                    "goals": 8,
+                    "goals": 9,
                     "assists": 3,
                     "penalties": 2,
                     "nationality": "Argentina"
@@ -637,10 +628,19 @@
                     "player_name": "Khvicha Kvaratskhelia",
                     "team_name": "Paris Saint-Germain FC",
                     "team_crest": "https://crests.football-data.org/524.png",
-                    "goals": 7,
+                    "goals": 8,
                     "assists": 4,
                     "penalties": null,
                     "nationality": "Georgia"
+                },
+                {
+                    "player_name": "Erling Haaland",
+                    "team_name": "Manchester City FC",
+                    "team_crest": "https://crests.football-data.org/65.png",
+                    "goals": 8,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Norway"
                 },
                 {
                     "player_name": "Victor Osimhen",
