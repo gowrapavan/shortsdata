@@ -8199,7 +8199,7 @@
     "RoundName": "Premier League",
     "Date": "2026-04-10",
     "DateTime": "2026-04-10T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 563,
@@ -8210,11 +8210,11 @@
     "AwayTeamName": "Wolverhampton Wanderers FC",
     "HomeTeamLogo": "https://crests.football-data.org/563.png",
     "AwayTeamLogo": "https://crests.football-data.org/76.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 0,
+    "Result": 563,
     "Points": {
-      "563": 0,
+      "563": 3,
       "76": 0
     },
     "Goals": []

@@ -7923,7 +7923,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-10",
     "DateTime": "2026-04-10T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 86,
@@ -7934,12 +7934,12 @@
     "AwayTeamName": "Girona FC",
     "HomeTeamLogo": "https://crests.football-data.org/86.png",
     "AwayTeamLogo": "https://crests.football-data.org/298.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "86": 0,
-      "298": 0
+      "86": 1,
+      "298": 1
     },
     "Goals": []
   },

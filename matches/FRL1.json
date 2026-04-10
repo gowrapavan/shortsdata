@@ -6493,7 +6493,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-04-10",
     "DateTime": "2026-04-10T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1045,
@@ -6506,9 +6506,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/548.png",
     "HomeTeamScore": 4,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 1045,
     "Points": {
-      "1045": 0,
+      "1045": 3,
       "548": 0
     },
     "Goals": []
@@ -6597,7 +6597,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-04-10",
     "DateTime": "2026-04-10T19:05:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 516,
@@ -6608,11 +6608,11 @@
     "AwayTeamName": "FC Metz",
     "HomeTeamLogo": "https://crests.football-data.org/516.png",
     "AwayTeamLogo": "https://crests.football-data.org/545.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 516,
     "Points": {
-      "516": 0,
+      "516": 3,
       "545": 0
     },
     "Goals": []

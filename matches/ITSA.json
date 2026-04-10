@@ -8037,7 +8037,7 @@
     "RoundName": "Serie A",
     "Date": "2026-04-10",
     "DateTime": "2026-04-10T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 100,
@@ -8048,11 +8048,11 @@
     "AwayTeamName": "AC Pisa 1909",
     "HomeTeamLogo": "https://crests.football-data.org/100.png",
     "AwayTeamLogo": "https://crests.football-data.org/487.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
+    "Result": 100,
     "Points": {
-      "100": 0,
+      "100": 3,
       "487": 0
     },
     "Goals": []
