@@ -69,6 +69,25 @@
         {
           "position": 3,
           "team": {
+            "id": 516,
+            "name": "Olympique de Marseille",
+            "shortName": "Marseille",
+            "tla": "MAR",
+            "crest": "https://crests.football-data.org/516.png"
+          },
+          "playedGames": 29,
+          "form": null,
+          "won": 16,
+          "draw": 4,
+          "lost": 9,
+          "points": 52,
+          "goalsFor": 57,
+          "goalsAgainst": 38,
+          "goalDifference": 19
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 521,
             "name": "Lille OSC",
             "shortName": "Lille",
@@ -86,25 +105,6 @@
           "goalDifference": 11
         },
         {
-          "position": 4,
-          "team": {
-            "id": 516,
-            "name": "Olympique de Marseille",
-            "shortName": "Marseille",
-            "tla": "MAR",
-            "crest": "https://crests.football-data.org/516.png"
-          },
-          "playedGames": 28,
-          "form": null,
-          "won": 15,
-          "draw": 4,
-          "lost": 9,
-          "points": 49,
-          "goalsFor": 55,
-          "goalsAgainst": 37,
-          "goalDifference": 18
-        },
-        {
           "position": 5,
           "team": {
             "id": 548,
@@ -113,15 +113,15 @@
             "tla": "ASM",
             "crest": "https://crests.football-data.org/548.png"
           },
-          "playedGames": 28,
+          "playedGames": 29,
           "form": null,
           "won": 15,
           "draw": 4,
-          "lost": 9,
+          "lost": 10,
           "points": 49,
-          "goalsFor": 49,
-          "goalsAgainst": 39,
-          "goalDifference": 10
+          "goalsFor": 50,
+          "goalsAgainst": 43,
+          "goalDifference": 7
         },
         {
           "position": 6,
@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 1045,
+            "name": "Paris FC",
+            "shortName": "Paris FC",
+            "tla": "PFC",
+            "crest": "https://crests.football-data.org/1045.png"
+          },
+          "playedGames": 29,
+          "form": null,
+          "won": 8,
+          "draw": 11,
+          "lost": 10,
+          "points": 35,
+          "goalsFor": 37,
+          "goalsAgainst": 45,
+          "goalDifference": -8
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 532,
             "name": "Angers SCO",
             "shortName": "Angers SCO",
@@ -255,25 +274,6 @@
           "goalsFor": 24,
           "goalsAgainst": 37,
           "goalDifference": -13
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 1045,
-            "name": "Paris FC",
-            "shortName": "Paris FC",
-            "tla": "PFC",
-            "crest": "https://crests.football-data.org/1045.png"
-          },
-          "playedGames": 28,
-          "form": null,
-          "won": 7,
-          "draw": 11,
-          "lost": 10,
-          "points": 32,
-          "goalsFor": 33,
-          "goalsAgainst": 44,
-          "goalDifference": -11
         },
         {
           "position": 14,
@@ -360,15 +360,15 @@
             "tla": "FCM",
             "crest": "https://crests.football-data.org/545.png"
           },
-          "playedGames": 28,
+          "playedGames": 29,
           "form": null,
           "won": 3,
           "draw": 6,
-          "lost": 19,
+          "lost": 20,
           "points": 15,
-          "goalsFor": 25,
-          "goalsAgainst": 60,
-          "goalDifference": -35
+          "goalsFor": 26,
+          "goalsAgainst": 62,
+          "goalDifference": -36
         }
       ]
     }

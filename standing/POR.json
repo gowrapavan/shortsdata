@@ -113,15 +113,15 @@
             "tla": "FAM",
             "crest": "https://crests.football-data.org/5531.png"
           },
-          "playedGames": 28,
+          "playedGames": 29,
           "form": null,
           "won": 13,
           "draw": 7,
-          "lost": 8,
+          "lost": 9,
           "points": 46,
           "goalsFor": 35,
-          "goalsAgainst": 24,
-          "goalDifference": 11
+          "goalsAgainst": 25,
+          "goalDifference": 10
         },
         {
           "position": 6,
@@ -145,6 +145,25 @@
         {
           "position": 7,
           "team": {
+            "id": 583,
+            "name": "Moreirense FC",
+            "shortName": "Moreirense",
+            "tla": "MOR",
+            "crest": "https://crests.football-data.org/583.png"
+          },
+          "playedGames": 29,
+          "form": null,
+          "won": 11,
+          "draw": 5,
+          "lost": 13,
+          "points": 38,
+          "goalsFor": 32,
+          "goalsAgainst": 40,
+          "goalDifference": -8
+        },
+        {
+          "position": 8,
+          "team": {
             "id": 582,
             "name": "GD Estoril Praia",
             "shortName": "Estoril Praia",
@@ -162,7 +181,7 @@
           "goalDifference": 3
         },
         {
-          "position": 8,
+          "position": 9,
           "team": {
             "id": 5543,
             "name": "Vitória SC",
@@ -179,25 +198,6 @@
           "goalsFor": 34,
           "goalsAgainst": 42,
           "goalDifference": -8
-        },
-        {
-          "position": 9,
-          "team": {
-            "id": 583,
-            "name": "Moreirense FC",
-            "shortName": "Moreirense",
-            "tla": "MOR",
-            "crest": "https://crests.football-data.org/583.png"
-          },
-          "playedGames": 28,
-          "form": null,
-          "won": 10,
-          "draw": 5,
-          "lost": 13,
-          "points": 35,
-          "goalsFor": 31,
-          "goalsAgainst": 40,
-          "goalDifference": -9
         },
         {
           "position": 10,
