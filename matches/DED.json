@@ -6709,7 +6709,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-04-11",
     "DateTime": "2026-04-11T18:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 677,
@@ -6724,8 +6724,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "677": 0,
-      "718": 0
+      "677": 1,
+      "718": 1
     },
     "Goals": []
   },
@@ -6787,7 +6787,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-04-11",
     "DateTime": "2026-04-11T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 671,
@@ -6798,12 +6798,12 @@
     "AwayTeamName": "AFC Ajax",
     "HomeTeamLogo": "https://crests.football-data.org/671.png",
     "AwayTeamLogo": "https://crests.football-data.org/678.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 3,
+    "Result": 678,
     "Points": {
       "671": 0,
-      "678": 0
+      "678": 3
     },
     "Goals": []
   },
@@ -6865,7 +6865,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-04-11",
     "DateTime": "2026-04-11T16:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 6806,
@@ -6878,10 +6878,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/674.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 674,
     "Points": {
       "6806": 0,
-      "674": 0
+      "674": 3
     },
     "Goals": []
   },

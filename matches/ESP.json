@@ -7845,7 +7845,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-11",
     "DateTime": "2026-04-11T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 559,
@@ -7856,11 +7856,11 @@
     "AwayTeamName": "Club Atlético de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/559.png",
     "AwayTeamLogo": "https://crests.football-data.org/78.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 559,
     "Points": {
-      "559": 0,
+      "559": 3,
       "78": 0
     },
     "Goals": []
