@@ -8089,7 +8089,7 @@
     "RoundName": "Serie A",
     "Date": "2026-04-11",
     "DateTime": "2026-04-11T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 104,
@@ -8100,11 +8100,11 @@
     "AwayTeamName": "US Cremonese",
     "HomeTeamLogo": "https://crests.football-data.org/104.png",
     "AwayTeamLogo": "https://crests.football-data.org/457.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 104,
     "Points": {
-      "104": 0,
+      "104": 3,
       "457": 0
     },
     "Goals": []
@@ -8193,7 +8193,7 @@
     "RoundName": "Serie A",
     "Date": "2026-04-11",
     "DateTime": "2026-04-11T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 586,
@@ -8204,11 +8204,11 @@
     "AwayTeamName": "Hellas Verona FC",
     "HomeTeamLogo": "https://crests.football-data.org/586.png",
     "AwayTeamLogo": "https://crests.football-data.org/450.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 586,
     "Points": {
-      "586": 0,
+      "586": 3,
       "450": 0
     },
     "Goals": []

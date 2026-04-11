@@ -7778,8 +7778,8 @@
     "AwayTeamName": "Valencia CF",
     "HomeTeamLogo": "https://crests.football-data.org/285.png",
     "AwayTeamLogo": "https://crests.football-data.org/95.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "285": 0,
@@ -7819,7 +7819,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-11",
     "DateTime": "2026-04-11T12:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 92,
@@ -7830,12 +7830,12 @@
     "AwayTeamName": "Deportivo Alavés",
     "HomeTeamLogo": "https://crests.football-data.org/92.png",
     "AwayTeamLogo": "https://crests.football-data.org/263.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 2,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
-      "92": 0,
-      "263": 0
+      "92": 1,
+      "263": 1
     },
     "Goals": []
   },
