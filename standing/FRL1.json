@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 529,
+            "name": "Stade Rennais FC 1901",
+            "shortName": "Stade Rennais",
+            "tla": "REN",
+            "crest": "https://crests.football-data.org/529.png"
+          },
+          "playedGames": 29,
+          "form": null,
+          "won": 14,
+          "draw": 8,
+          "lost": 7,
+          "points": 50,
+          "goalsFor": 49,
+          "goalsAgainst": 41,
+          "goalDifference": 8
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 548,
             "name": "AS Monaco FC",
             "shortName": "Monaco",
@@ -124,7 +143,7 @@
           "goalDifference": 7
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 523,
             "name": "Olympique Lyonnais",
@@ -141,25 +160,6 @@
           "goalsFor": 41,
           "goalsAgainst": 29,
           "goalDifference": 12
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": 529,
-            "name": "Stade Rennais FC 1901",
-            "shortName": "Stade Rennais",
-            "tla": "REN",
-            "crest": "https://crests.football-data.org/529.png"
-          },
-          "playedGames": 28,
-          "form": null,
-          "won": 13,
-          "draw": 8,
-          "lost": 7,
-          "points": 47,
-          "goalsFor": 47,
-          "goalsAgainst": 40,
-          "goalDifference": 7
         },
         {
           "position": 8,
@@ -265,15 +265,15 @@
             "tla": "ANG",
             "crest": "https://crests.football-data.org/532.png"
           },
-          "playedGames": 28,
+          "playedGames": 29,
           "form": null,
           "won": 9,
           "draw": 6,
-          "lost": 13,
+          "lost": 14,
           "points": 33,
-          "goalsFor": 24,
-          "goalsAgainst": 37,
-          "goalDifference": -13
+          "goalsFor": 25,
+          "goalsAgainst": 39,
+          "goalDifference": -14
         },
         {
           "position": 14,
@@ -322,12 +322,12 @@
             "tla": "AJA",
             "crest": "https://crests.football-data.org/519.png"
           },
-          "playedGames": 28,
+          "playedGames": 29,
           "form": null,
           "won": 5,
-          "draw": 8,
+          "draw": 9,
           "lost": 15,
-          "points": 23,
+          "points": 24,
           "goalsFor": 23,
           "goalsAgainst": 37,
           "goalDifference": -14
@@ -341,12 +341,12 @@
             "tla": "NAN",
             "crest": "https://crests.football-data.org/543.png"
           },
-          "playedGames": 27,
+          "playedGames": 28,
           "form": null,
           "won": 4,
-          "draw": 6,
+          "draw": 7,
           "lost": 17,
-          "points": 18,
+          "points": 19,
           "goalsFor": 24,
           "goalsAgainst": 45,
           "goalDifference": -21
