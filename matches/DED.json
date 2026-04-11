@@ -6720,8 +6720,8 @@
     "AwayTeamName": "Go Ahead Eagles",
     "HomeTeamLogo": "https://crests.football-data.org/677.png",
     "AwayTeamLogo": "https://crests.football-data.org/718.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "677": 0,
@@ -6735,7 +6735,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-04-11",
     "DateTime": "2026-04-11T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 676,
@@ -6746,11 +6746,11 @@
     "AwayTeamName": "Telstar 1963",
     "HomeTeamLogo": "https://crests.football-data.org/676.png",
     "AwayTeamLogo": "https://crests.football-data.org/1912.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 1,
+    "Result": 676,
     "Points": {
-      "676": 0,
+      "676": 3,
       "1912": 0
     },
     "Goals": []
@@ -6876,8 +6876,8 @@
     "AwayTeamName": "PSV",
     "HomeTeamLogo": "https://crests.football-data.org/6806.png",
     "AwayTeamLogo": "https://crests.football-data.org/674.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "6806": 0,

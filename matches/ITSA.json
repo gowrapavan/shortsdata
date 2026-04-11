@@ -8011,7 +8011,7 @@
     "RoundName": "Serie A",
     "Date": "2026-04-11",
     "DateTime": "2026-04-11T16:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 98,
@@ -8022,12 +8022,12 @@
     "AwayTeamName": "Udinese Calcio",
     "HomeTeamLogo": "https://crests.football-data.org/98.png",
     "AwayTeamLogo": "https://crests.football-data.org/115.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 3,
+    "Result": 115,
     "Points": {
       "98": 0,
-      "115": 0
+      "115": 3
     },
     "Goals": []
   },
