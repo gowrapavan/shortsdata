@@ -1,16 +1,5 @@
 [
   {
-    "time": "06:00 PM",
-    "game": "football",
-    "league": "دوري Nile",
-    "home_team": "بيراميدز",
-    "away_team": "المصري",
-    "label": "بير-الم",
-    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824ffe5827.png",
-    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824ffec100.png",
-    "url": "https://a10.sia-koora.live/albaplayer/on-time-sport/"
-  },
-  {
     "time": "06:40 PM",
     "game": "football",
     "league": "دوري روشن السعودي",
@@ -24,17 +13,6 @@
   {
     "time": "07:00 PM",
     "game": "football",
-    "league": "كأس الكونفيدرالية",
-    "home_team": "اتحاد العاصمة",
-    "away_team": "أولمبيك آسفي",
-    "label": "اتح-أول",
-    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d96ca32d11b.png",
-    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d96ca33503e.png",
-    "url": "https://a10.sia-koora.live/albaplayer/bein-3/"
-  },
-  {
-    "time": "07:00 PM",
-    "game": "football",
     "league": "الدوري الإيطالي",
     "home_team": "ميلان",
     "away_team": "أودينيزي",
@@ -42,6 +20,17 @@
     "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824eb0dfaa.png",
     "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824eb15732.png",
     "url": "https://a10.sia-koora.live/albaplayer/pemium-1/"
+  },
+  {
+    "time": "07:00 PM",
+    "game": "football",
+    "league": "كأس الكونفيدرالية",
+    "home_team": "اتحاد العاصمة",
+    "away_team": "أولمبيك آسفي",
+    "label": "اتح-أول",
+    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d96ca32d11b.png",
+    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d96ca33503e.png",
+    "url": "https://a10.sia-koora.live/albaplayer/bein-3/"
   },
   {
     "time": "07:20 PM",
@@ -68,17 +57,6 @@
   {
     "time": "07:30 PM",
     "game": "football",
-    "league": "الدوري الإسباني",
-    "home_team": "برشلونة",
-    "away_team": "إسبانيول",
-    "label": "برش-إسب",
-    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824dd88956.png",
-    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824dd8f126.png",
-    "url": "https://a10.sia-koora.live/albaplayer/bein-1/"
-  },
-  {
-    "time": "07:30 PM",
-    "game": "football",
     "league": "الدوري الإنجليزي",
     "home_team": "ليفربول",
     "away_team": "فولهام",
@@ -86,6 +64,17 @@
     "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824f0ef358.png",
     "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824f101b93.png",
     "url": "https://a10.sia-koora.live/albaplayer/bein-2/"
+  },
+  {
+    "time": "07:30 PM",
+    "game": "football",
+    "league": "الدوري الإسباني",
+    "home_team": "برشلونة",
+    "away_team": "إسبانيول",
+    "label": "برش-إسب",
+    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824dd88956.png",
+    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824dd8f126.png",
+    "url": "https://a10.sia-koora.live/albaplayer/bein-1/"
   },
   {
     "time": "09:00 PM",
@@ -212,23 +201,23 @@
     "time": "05:00 PM",
     "game": "football",
     "league": "الدوري الإنجليزي",
-    "home_team": "برينتفورد",
-    "away_team": "إيفرتون",
-    "label": "بري-إيف",
-    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824efdda69.png",
-    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824efe4c2b.png",
-    "url": "https://a10.sia-koora.live/albaplayer/bein-1/"
-  },
-  {
-    "time": "05:00 PM",
-    "game": "football",
-    "league": "الدوري الإنجليزي",
     "home_team": "بيرنلي",
     "away_team": "برايتون",
     "label": "بير-برا",
     "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824f041ff6.png",
     "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824f0483d9.png",
     "url": "https://a10.sia-koora.live/albaplayer/bein-4/"
+  },
+  {
+    "time": "05:00 PM",
+    "game": "football",
+    "league": "الدوري الإنجليزي",
+    "home_team": "برينتفورد",
+    "away_team": "إيفرتون",
+    "label": "بري-إيف",
+    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824efdda69.png",
+    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824efe4c2b.png",
+    "url": "https://a10.sia-koora.live/albaplayer/bein-1/"
   },
   {
     "time": "05:15 PM",
@@ -240,5 +229,16 @@
     "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824dd4645c.png",
     "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824dd4d73a.png",
     "url": "https://a10.sia-koora.live/albaplayer/bein-5/"
+  },
+  {
+    "time": "06:00 PM",
+    "game": "football",
+    "league": "دوري Nile",
+    "home_team": "بيراميدز",
+    "away_team": "المصري",
+    "label": "بير-الم",
+    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824ffe5827.png",
+    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d824ffec100.png",
+    "url": "https://a10.sia-koora.live/albaplayer/on-time-sport/"
   }
 ]
