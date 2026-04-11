@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-10T07:12:28.973921Z",
+    "last_updated": "2026-04-11T06:45:16.037043Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -255,6 +255,15 @@
                     "nationality": "Denmark"
                 },
                 {
+                    "player_name": "Donyell Malen",
+                    "team_name": "AS Roma",
+                    "team_crest": "https://crests.football-data.org/100.png",
+                    "goals": 10,
+                    "assists": null,
+                    "penalties": 2,
+                    "nationality": "Netherlands"
+                },
+                {
                     "player_name": "Hakan Çalhanoğlu",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
@@ -280,15 +289,6 @@
                     "assists": 2,
                     "penalties": 2,
                     "nationality": "Portugal"
-                },
-                {
-                    "player_name": "Gianluca Scamacca",
-                    "team_name": "Atalanta BC",
-                    "team_crest": "https://crests.football-data.org/102.png",
-                    "goals": 8,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "Italy"
                 }
             ]
         },
@@ -417,7 +417,7 @@
                     "team_name": "Olympique de Marseille",
                     "team_crest": "https://crests.football-data.org/516.png",
                     "goals": 15,
-                    "assists": 5,
+                    "assists": 7,
                     "penalties": 5,
                     "nationality": "England"
                 },
@@ -429,6 +429,15 @@
                     "assists": 3,
                     "penalties": 1,
                     "nationality": "France"
+                },
+                {
+                    "player_name": "Folarin Balogun",
+                    "team_name": "AS Monaco FC",
+                    "team_crest": "https://crests.football-data.org/548.png",
+                    "goals": 11,
+                    "assists": 3,
+                    "penalties": 2,
+                    "nationality": "USA"
                 },
                 {
                     "player_name": "Wesley Saïd",
@@ -458,15 +467,6 @@
                     "nationality": "France"
                 },
                 {
-                    "player_name": "Folarin Balogun",
-                    "team_name": "AS Monaco FC",
-                    "team_crest": "https://crests.football-data.org/548.png",
-                    "goals": 10,
-                    "assists": 3,
-                    "penalties": 2,
-                    "nationality": "USA"
-                },
-                {
                     "player_name": "Pavel Šulc",
                     "team_name": "Olympique Lyonnais",
                     "team_crest": "https://crests.football-data.org/523.png",
@@ -476,13 +476,13 @@
                     "nationality": "Czech Republic"
                 },
                 {
-                    "player_name": "Florian Thauvin",
-                    "team_name": "Racing Club de Lens",
-                    "team_crest": "https://crests.football-data.org/546.png",
+                    "player_name": "Pierre-Emerick Aubameyang",
+                    "team_name": "Olympique de Marseille",
+                    "team_crest": "https://crests.football-data.org/516.png",
                     "goals": 9,
                     "assists": 5,
-                    "penalties": 2,
-                    "nationality": "France"
+                    "penalties": null,
+                    "nationality": "Gabon"
                 }
             ]
         },
