@@ -58,13 +58,13 @@
           },
           "playedGames": 28,
           "form": null,
-          "won": 21,
-          "draw": 6,
+          "won": 22,
+          "draw": 5,
           "lost": 1,
-          "points": 69,
-          "goalsFor": 72,
+          "points": 71,
+          "goalsFor": 73,
           "goalsAgainst": 17,
-          "goalDifference": 55
+          "goalDifference": 56
         },
         {
           "position": 3,
@@ -259,25 +259,6 @@
         {
           "position": 13,
           "team": {
-            "id": 9136,
-            "name": "CF Estrela da Amadora",
-            "shortName": "Amadora",
-            "tla": "AMA",
-            "crest": "https://crests.football-data.org/9136.png"
-          },
-          "playedGames": 29,
-          "form": null,
-          "won": 6,
-          "draw": 11,
-          "lost": 12,
-          "points": 29,
-          "goalsFor": 33,
-          "goalsAgainst": 47,
-          "goalDifference": -14
-        },
-        {
-          "position": 14,
-          "team": {
             "id": 5530,
             "name": "CD Santa Clara",
             "shortName": "Santa Clara",
@@ -293,6 +274,25 @@
           "goalsFor": 26,
           "goalsAgainst": 37,
           "goalDifference": -11
+        },
+        {
+          "position": 14,
+          "team": {
+            "id": 9136,
+            "name": "CF Estrela da Amadora",
+            "shortName": "Amadora",
+            "tla": "AMA",
+            "crest": "https://crests.football-data.org/9136.png"
+          },
+          "playedGames": 29,
+          "form": null,
+          "won": 6,
+          "draw": 10,
+          "lost": 13,
+          "points": 28,
+          "goalsFor": 33,
+          "goalsAgainst": 48,
+          "goalDifference": -15
         },
         {
           "position": 15,
