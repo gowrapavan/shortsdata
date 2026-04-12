@@ -7965,7 +7965,7 @@
     "RoundName": "Premier League",
     "Date": "2026-04-12",
     "DateTime": "2026-04-12T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 71,
@@ -7976,11 +7976,11 @@
     "AwayTeamName": "Tottenham Hotspur FC",
     "HomeTeamLogo": "https://crests.football-data.org/71.png",
     "AwayTeamLogo": "https://crests.football-data.org/73.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 71,
     "Points": {
-      "71": 0,
+      "71": 3,
       "73": 0
     },
     "Goals": []
@@ -7991,7 +7991,7 @@
     "RoundName": "Premier League",
     "Date": "2026-04-12",
     "DateTime": "2026-04-12T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 354,
@@ -8002,11 +8002,11 @@
     "AwayTeamName": "Newcastle United FC",
     "HomeTeamLogo": "https://crests.football-data.org/354.png",
     "AwayTeamLogo": "https://crests.football-data.org/67.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 354,
     "Points": {
-      "354": 0,
+      "354": 3,
       "67": 0
     },
     "Goals": []
@@ -8173,7 +8173,7 @@
     "RoundName": "Premier League",
     "Date": "2026-04-12",
     "DateTime": "2026-04-12T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 351,
@@ -8184,12 +8184,12 @@
     "AwayTeamName": "Aston Villa FC",
     "HomeTeamLogo": "https://crests.football-data.org/351.png",
     "AwayTeamLogo": "https://crests.football-data.org/58.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "351": 0,
-      "58": 0
+      "351": 1,
+      "58": 1
     },
     "Goals": []
   },

@@ -7804,8 +7804,8 @@
     "AwayTeamName": "Rayo Vallecano de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/89.png",
     "AwayTeamLogo": "https://crests.football-data.org/87.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "89": 0,
@@ -7871,7 +7871,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-12",
     "DateTime": "2026-04-12T12:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 79,
@@ -7886,8 +7886,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "79": 0,
-      "90": 0
+      "79": 1,
+      "90": 1
     },
     "Goals": []
   },
