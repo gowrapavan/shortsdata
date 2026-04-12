@@ -1,16 +1,5 @@
 [
   {
-    "time": "02:30 AM",
-    "game": "football",
-    "league": "الدوري الأمريكي لكرة القدم",
-    "home_team": "إنتر ميامي",
-    "away_team": "نيويورك ريدبول",
-    "label": "إنت-نيو",
-    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d976b330f2f.png",
-    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d976b337f48.png",
-    "url": "https://a10.sia-koora.live/albaplayer/ssc-2/"
-  },
-  {
     "time": "03:00 PM",
     "game": "football",
     "league": "الدوري الإسباني",
@@ -178,6 +167,17 @@
   {
     "time": "10:00 PM",
     "game": "football",
+    "league": "دوري أبطال أفريقيا",
+    "home_team": "الترجي",
+    "away_team": "صن داونز",
+    "label": "الت-صن ",
+    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d976b0cea68.png",
+    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d976b0d46eb.png",
+    "url": ""
+  },
+  {
+    "time": "10:00 PM",
+    "game": "football",
     "league": "الدوري الإسباني",
     "home_team": "أتلتيك بلباو",
     "away_team": "فياريال",
@@ -187,14 +187,14 @@
     "url": ""
   },
   {
-    "time": "10:00 PM",
+    "time": "02:30 AM",
     "game": "football",
-    "league": "دوري أبطال أفريقيا",
-    "home_team": "الترجي",
-    "away_team": "صن داونز",
-    "label": "الت-صن ",
-    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d976b0cea68.png",
-    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d976b0d46eb.png",
-    "url": ""
+    "league": "الدوري الأمريكي لكرة القدم",
+    "home_team": "إنتر ميامي",
+    "away_team": "نيويورك ريدبول",
+    "label": "إنت-نيو",
+    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d976b330f2f.png",
+    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69d976b337f48.png",
+    "url": "https://a10.sia-koora.live/albaplayer/ssc-2/"
   }
 ]
