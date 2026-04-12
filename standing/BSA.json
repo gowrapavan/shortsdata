@@ -37,12 +37,12 @@
             "tla": "PAL",
             "crest": "https://crests.football-data.org/1769.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
           "won": 8,
-          "draw": 1,
+          "draw": 2,
           "lost": 1,
-          "points": 25,
+          "points": 26,
           "goalsFor": 21,
           "goalsAgainst": 10,
           "goalDifference": 11
@@ -50,11 +50,11 @@
         {
           "position": 2,
           "team": {
-            "id": 1765,
-            "name": "Fluminense FC",
-            "shortName": "Fluminense",
-            "tla": "FLU",
-            "crest": "https://crests.football-data.org/1765.png"
+            "id": 1783,
+            "name": "CR Flamengo",
+            "shortName": "Flamengo",
+            "tla": "FLA",
+            "crest": "https://crests.football-data.org/1783.png"
           },
           "playedGames": 10,
           "form": null,
@@ -62,9 +62,9 @@
           "draw": 2,
           "lost": 2,
           "points": 20,
-          "goalsFor": 17,
-          "goalsAgainst": 11,
-          "goalDifference": 6
+          "goalsFor": 18,
+          "goalsAgainst": 9,
+          "goalDifference": 9
         },
         {
           "position": 3,
@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 1765,
+            "name": "Fluminense FC",
+            "shortName": "Fluminense",
+            "tla": "FLU",
+            "crest": "https://crests.football-data.org/1765.png"
+          },
+          "playedGames": 11,
+          "form": null,
+          "won": 6,
+          "draw": 2,
+          "lost": 3,
+          "points": 20,
+          "goalsFor": 17,
+          "goalsAgainst": 13,
+          "goalDifference": 4
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 1768,
             "name": "CA Paranaense",
             "shortName": "Paranaense",
@@ -124,25 +143,6 @@
           "goalDifference": 4
         },
         {
-          "position": 6,
-          "team": {
-            "id": 1783,
-            "name": "CR Flamengo",
-            "shortName": "Flamengo",
-            "tla": "FLA",
-            "crest": "https://crests.football-data.org/1783.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 5,
-          "draw": 2,
-          "lost": 2,
-          "points": 17,
-          "goalsFor": 16,
-          "goalsAgainst": 9,
-          "goalDifference": 7
-        },
-        {
           "position": 7,
           "team": {
             "id": 4241,
@@ -157,12 +157,31 @@
           "draw": 4,
           "lost": 3,
           "points": 16,
-          "goalsFor": 12,
-          "goalsAgainst": 11,
+          "goalsFor": 13,
+          "goalsAgainst": 12,
           "goalDifference": 1
         },
         {
           "position": 8,
+          "team": {
+            "id": 4286,
+            "name": "RB Bragantino",
+            "shortName": "Bragantino",
+            "tla": "RBB",
+            "crest": "https://crests.football-data.org/4286.png"
+          },
+          "playedGames": 11,
+          "form": null,
+          "won": 4,
+          "draw": 3,
+          "lost": 4,
+          "points": 15,
+          "goalsFor": 11,
+          "goalsAgainst": 11,
+          "goalDifference": 0
+        },
+        {
+          "position": 9,
           "team": {
             "id": 1766,
             "name": "CA Mineiro",
@@ -179,25 +198,6 @@
           "goalsFor": 14,
           "goalsAgainst": 13,
           "goalDifference": 1
-        },
-        {
-          "position": 9,
-          "team": {
-            "id": 4286,
-            "name": "RB Bragantino",
-            "shortName": "Bragantino",
-            "tla": "RBB",
-            "crest": "https://crests.football-data.org/4286.png"
-          },
-          "playedGames": 10,
-          "form": null,
-          "won": 4,
-          "draw": 2,
-          "lost": 4,
-          "points": 14,
-          "goalsFor": 10,
-          "goalsAgainst": 10,
-          "goalDifference": 0
         },
         {
           "position": 10,
@@ -233,8 +233,8 @@
           "draw": 1,
           "lost": 5,
           "points": 13,
-          "goalsFor": 17,
-          "goalsAgainst": 20,
+          "goalsFor": 18,
+          "goalsAgainst": 21,
           "goalDifference": -3
         },
         {
@@ -322,12 +322,12 @@
             "tla": "COR",
             "crest": "https://crests.football-data.org/1779.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
           "won": 2,
-          "draw": 4,
+          "draw": 5,
           "lost": 4,
-          "points": 10,
+          "points": 11,
           "goalsFor": 8,
           "goalsAgainst": 11,
           "goalDifference": -3
@@ -354,6 +354,25 @@
         {
           "position": 18,
           "team": {
+            "id": 1771,
+            "name": "Cruzeiro EC",
+            "shortName": "Cruzeiro",
+            "tla": "CRU",
+            "crest": "https://crests.football-data.org/1771.png"
+          },
+          "playedGames": 11,
+          "form": null,
+          "won": 1,
+          "draw": 5,
+          "lost": 5,
+          "points": 8,
+          "goalsFor": 13,
+          "goalsAgainst": 21,
+          "goalDifference": -8
+        },
+        {
+          "position": 19,
+          "team": {
             "id": 1772,
             "name": "Chapecoense AF",
             "shortName": "Chapecoense",
@@ -368,25 +387,6 @@
           "points": 8,
           "goalsFor": 10,
           "goalsAgainst": 18,
-          "goalDifference": -8
-        },
-        {
-          "position": 19,
-          "team": {
-            "id": 1771,
-            "name": "Cruzeiro EC",
-            "shortName": "Cruzeiro",
-            "tla": "CRU",
-            "crest": "https://crests.football-data.org/1771.png"
-          },
-          "playedGames": 10,
-          "form": null,
-          "won": 1,
-          "draw": 4,
-          "lost": 5,
-          "points": 7,
-          "goalsFor": 12,
-          "goalsAgainst": 20,
           "goalDifference": -8
         },
         {
