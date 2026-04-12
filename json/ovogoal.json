@@ -1,60 +1,5 @@
 [
   {
-    "time": "15:00",
-    "game": "football",
-    "league": "premierleague",
-    "home_team": "Sunderland",
-    "away_team": "Tottenham",
-    "label": "sun-tot",
-    "home_logo": "https://crests.football-data.org/71.png",
-    "away_logo": "https://crests.football-data.org/73.png",
-    "url": ""
-  },
-  {
-    "time": "15:00",
-    "game": "football",
-    "league": "premier",
-    "home_team": "Nottingham",
-    "away_team": "Aston Villa",
-    "label": "not-ast",
-    "home_logo": "https://crests.football-data.org/351.png",
-    "away_logo": "https://crests.football-data.org/58.png",
-    "url": ""
-  },
-  {
-    "time": "15:00",
-    "game": "football",
-    "league": "premier",
-    "home_team": "Crystal Palace",
-    "away_team": "Newcastle",
-    "label": "cry-new",
-    "home_logo": "https://crests.football-data.org/354.png",
-    "away_logo": "https://crests.football-data.org/67.png",
-    "url": ""
-  },
-  {
-    "time": "17:30",
-    "game": "football",
-    "league": "premier",
-    "home_team": "Chelsea",
-    "away_team": "Manchester City",
-    "label": "che-man",
-    "home_logo": "https://crests.football-data.org/61.png",
-    "away_logo": "https://crests.football-data.org/65.png",
-    "url": ""
-  },
-  {
-    "time": "15:00",
-    "game": "football",
-    "league": "seriea",
-    "home_team": "Parma",
-    "away_team": "Napoli",
-    "label": "par-nap",
-    "home_logo": "https://crests.football-data.org/112.png",
-    "away_logo": "https://crests.football-data.org/113.png",
-    "url": ""
-  },
-  {
     "time": "20:45",
     "game": "football",
     "league": "seriea",
@@ -73,7 +18,7 @@
     "away_team": "Nacional",
     "label": "ben-nac",
     "home_logo": "https://crests.football-data.org/1903.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
     "url": ""
   },
   {
@@ -83,8 +28,8 @@
     "home_team": "Estoril",
     "away_team": "Porto",
     "label": "est-por",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
     "url": ""
   }
 ]
