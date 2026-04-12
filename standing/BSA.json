@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 1768,
+            "name": "CA Paranaense",
+            "shortName": "Paranaense",
+            "tla": "CAP",
+            "crest": "https://crests.football-data.org/1768.png"
+          },
+          "playedGames": 11,
+          "form": null,
+          "won": 6,
+          "draw": 1,
+          "lost": 4,
+          "points": 19,
+          "goalsFor": 17,
+          "goalsAgainst": 13,
+          "goalDifference": 4
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 1783,
             "name": "CR Flamengo",
             "shortName": "Flamengo",
@@ -124,25 +143,6 @@
           "goalDifference": 7
         },
         {
-          "position": 6,
-          "team": {
-            "id": 1768,
-            "name": "CA Paranaense",
-            "shortName": "Paranaense",
-            "tla": "CAP",
-            "crest": "https://crests.football-data.org/1768.png"
-          },
-          "playedGames": 10,
-          "form": null,
-          "won": 5,
-          "draw": 1,
-          "lost": 4,
-          "points": 16,
-          "goalsFor": 15,
-          "goalsAgainst": 13,
-          "goalDifference": 2
-        },
-        {
           "position": 7,
           "team": {
             "id": 4241,
@@ -151,14 +151,14 @@
             "tla": "COR",
             "crest": "https://crests.football-data.org/4241.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
           "won": 4,
-          "draw": 3,
+          "draw": 4,
           "lost": 3,
-          "points": 15,
-          "goalsFor": 11,
-          "goalsAgainst": 10,
+          "points": 16,
+          "goalsFor": 12,
+          "goalsAgainst": 11,
           "goalDifference": 1
         },
         {
@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 1770,
+            "name": "Botafogo FR",
+            "shortName": "Botafogo",
+            "tla": "BOT",
+            "crest": "https://crests.football-data.org/1770.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 4,
+          "draw": 1,
+          "lost": 5,
+          "points": 13,
+          "goalsFor": 17,
+          "goalsAgainst": 20,
+          "goalDifference": -3
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 1767,
             "name": "Grêmio FBPA",
             "shortName": "Grêmio",
@@ -238,7 +257,7 @@
           "goalDifference": 0
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 1780,
             "name": "CR Vasco da Gama",
@@ -257,7 +276,7 @@
           "goalDifference": -1
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 6684,
             "name": "SC Internacional",
@@ -276,7 +295,7 @@
           "goalDifference": -1
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 6685,
             "name": "Santos FC",
@@ -293,25 +312,6 @@
           "goalsFor": 14,
           "goalsAgainst": 16,
           "goalDifference": -2
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 1770,
-            "name": "Botafogo FR",
-            "shortName": "Botafogo",
-            "tla": "BOT",
-            "crest": "https://crests.football-data.org/1770.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 4,
-          "draw": 0,
-          "lost": 5,
-          "points": 12,
-          "goalsFor": 16,
-          "goalsAgainst": 19,
-          "goalDifference": -3
         },
         {
           "position": 16,
@@ -335,25 +335,6 @@
         {
           "position": 17,
           "team": {
-            "id": 1772,
-            "name": "Chapecoense AF",
-            "shortName": "Chapecoense",
-            "tla": "CHA",
-            "crest": "https://crests.football-data.org/1772_large.png"
-          },
-          "playedGames": 9,
-          "form": null,
-          "won": 1,
-          "draw": 5,
-          "lost": 3,
-          "points": 8,
-          "goalsFor": 10,
-          "goalsAgainst": 16,
-          "goalDifference": -6
-        },
-        {
-          "position": 18,
-          "team": {
             "id": 4287,
             "name": "Clube do Remo",
             "shortName": "Clube do Remo",
@@ -369,6 +350,25 @@
           "goalsFor": 11,
           "goalsAgainst": 18,
           "goalDifference": -7
+        },
+        {
+          "position": 18,
+          "team": {
+            "id": 1772,
+            "name": "Chapecoense AF",
+            "shortName": "Chapecoense",
+            "tla": "CHA",
+            "crest": "https://crests.football-data.org/1772_large.png"
+          },
+          "playedGames": 10,
+          "form": null,
+          "won": 1,
+          "draw": 5,
+          "lost": 4,
+          "points": 8,
+          "goalsFor": 10,
+          "goalsAgainst": 18,
+          "goalDifference": -8
         },
         {
           "position": 19,

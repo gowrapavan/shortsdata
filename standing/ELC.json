@@ -151,15 +151,15 @@
             "tla": "WRE",
             "crest": "https://crests.football-data.org/404.png"
           },
-          "playedGames": 41,
+          "playedGames": 42,
           "form": null,
           "won": 17,
           "draw": 13,
-          "lost": 11,
+          "lost": 12,
           "points": 64,
           "goalsFor": 63,
-          "goalsAgainst": 58,
-          "goalDifference": 5
+          "goalsAgainst": 60,
+          "goalDifference": 3
         },
         {
           "position": 8,
@@ -297,6 +297,25 @@
         {
           "position": 15,
           "team": {
+            "id": 332,
+            "name": "Birmingham City FC",
+            "shortName": "Birmingham",
+            "tla": "BIR",
+            "crest": "https://crests.football-data.org/332.png"
+          },
+          "playedGames": 42,
+          "form": null,
+          "won": 15,
+          "draw": 11,
+          "lost": 16,
+          "points": 56,
+          "goalsFor": 51,
+          "goalsAgainst": 52,
+          "goalDifference": -1
+        },
+        {
+          "position": 16,
+          "team": {
             "id": 70,
             "name": "Stoke City FC",
             "shortName": "Stoke",
@@ -314,7 +333,7 @@
           "goalDifference": 3
         },
         {
-          "position": 16,
+          "position": 17,
           "team": {
             "id": 356,
             "name": "Sheffield United FC",
@@ -331,25 +350,6 @@
           "goalsFor": 59,
           "goalsAgainst": 59,
           "goalDifference": 0
-        },
-        {
-          "position": 17,
-          "team": {
-            "id": 332,
-            "name": "Birmingham City FC",
-            "shortName": "Birmingham",
-            "tla": "BIR",
-            "crest": "https://crests.football-data.org/332.png"
-          },
-          "playedGames": 41,
-          "form": null,
-          "won": 14,
-          "draw": 11,
-          "lost": 16,
-          "points": 53,
-          "goalsFor": 49,
-          "goalsAgainst": 52,
-          "goalDifference": -3
         },
         {
           "position": 18,
