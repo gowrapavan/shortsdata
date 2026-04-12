@@ -6574,8 +6574,8 @@
     "AwayTeamName": "SC Freiburg",
     "HomeTeamLogo": "https://crests.football-data.org/15.png",
     "AwayTeamLogo": "https://crests.football-data.org/17.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "15": 0,
@@ -6589,7 +6589,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-04-12",
     "DateTime": "2026-04-12T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1,
@@ -6600,11 +6600,11 @@
     "AwayTeamName": "SV Werder Bremen",
     "HomeTeamLogo": "https://crests.football-data.org/1.png",
     "AwayTeamLogo": "https://crests.football-data.org/12.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 1,
     "Points": {
-      "1": 0,
+      "1": 3,
       "12": 0
     },
     "Goals": []
@@ -6693,7 +6693,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-04-12",
     "DateTime": "2026-04-12T15:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 10,
@@ -6704,11 +6704,11 @@
     "AwayTeamName": "Hamburger SV",
     "HomeTeamLogo": "https://crests.football-data.org/10.png",
     "AwayTeamLogo": "https://crests.football-data.org/7.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 0,
+    "Result": 10,
     "Points": {
-      "10": 0,
+      "10": 3,
       "7": 0
     },
     "Goals": []

@@ -7741,7 +7741,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-12",
     "DateTime": "2026-04-12T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 558,
@@ -7752,12 +7752,12 @@
     "AwayTeamName": "Real Oviedo",
     "HomeTeamLogo": "https://crests.football-data.org/558.png",
     "AwayTeamLogo": "https://crests.football-data.org/1048.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 3,
+    "Result": 1048,
     "Points": {
       "558": 0,
-      "1048": 0
+      "1048": 3
     },
     "Goals": []
   },
@@ -7793,7 +7793,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-12",
     "DateTime": "2026-04-12T14:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 89,
@@ -7804,11 +7804,11 @@
     "AwayTeamName": "Rayo Vallecano de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/89.png",
     "AwayTeamLogo": "https://crests.football-data.org/87.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 89,
     "Points": {
-      "89": 0,
+      "89": 3,
       "87": 0
     },
     "Goals": []

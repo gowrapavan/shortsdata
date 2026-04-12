@@ -6519,7 +6519,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-04-12",
     "DateTime": "2026-04-12T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 511,
@@ -6531,11 +6531,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/511.png",
     "AwayTeamLogo": "https://crests.football-data.org/521.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 5,
+    "Result": 521,
     "Points": {
       "511": 0,
-      "521": 0
+      "521": 3
     },
     "Goals": []
   },
@@ -6545,7 +6545,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-04-12",
     "DateTime": "2026-04-12T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 522,
@@ -6556,12 +6556,12 @@
     "AwayTeamName": "Le Havre AC",
     "HomeTeamLogo": "https://crests.football-data.org/522.png",
     "AwayTeamLogo": "https://crests.football-data.org/533.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "522": 0,
-      "533": 0
+      "522": 1,
+      "533": 1
     },
     "Goals": []
   },

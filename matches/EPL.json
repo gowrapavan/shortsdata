@@ -8095,7 +8095,7 @@
     "RoundName": "Premier League",
     "Date": "2026-04-12",
     "DateTime": "2026-04-12T15:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 61,
@@ -8106,12 +8106,12 @@
     "AwayTeamName": "Manchester City FC",
     "HomeTeamLogo": "https://crests.football-data.org/61.png",
     "AwayTeamLogo": "https://crests.football-data.org/65.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 3,
+    "Result": 65,
     "Points": {
       "61": 0,
-      "65": 0
+      "65": 3
     },
     "Goals": []
   },

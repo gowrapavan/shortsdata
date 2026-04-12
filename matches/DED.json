@@ -6683,7 +6683,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-04-12",
     "DateTime": "2026-04-12T14:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 682,
@@ -6696,9 +6696,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/673.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 682,
     "Points": {
-      "682": 0,
+      "682": 3,
       "673": 0
     },
     "Goals": []
@@ -6865,7 +6865,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-04-11",
     "DateTime": "2026-04-11T16:45:00Z",
-    "Status": "Final",
+    "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 6806,
@@ -6878,10 +6878,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/674.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 2,
-    "Result": 674,
+    "Result": null,
     "Points": {
       "6806": 0,
-      "674": 3
+      "674": 0
     },
     "Goals": []
   },
