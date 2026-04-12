@@ -6571,7 +6571,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-04-12",
     "DateTime": "2026-04-12T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 523,
@@ -6582,11 +6582,11 @@
     "AwayTeamName": "FC Lorient",
     "HomeTeamLogo": "https://crests.football-data.org/523.png",
     "AwayTeamLogo": "https://crests.football-data.org/525.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 523,
     "Points": {
-      "523": 0,
+      "523": 3,
       "525": 0
     },
     "Goals": []
