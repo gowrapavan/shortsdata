@@ -170,12 +170,12 @@
             "tla": "GET",
             "crest": "https://crests.football-data.org/82.png"
           },
-          "playedGames": 30,
+          "playedGames": 31,
           "form": null,
           "won": 12,
-          "draw": 5,
+          "draw": 6,
           "lost": 13,
-          "points": 41,
+          "points": 42,
           "goalsFor": 27,
           "goalsAgainst": 31,
           "goalDifference": -4
@@ -373,6 +373,25 @@
         {
           "position": 19,
           "team": {
+            "id": 88,
+            "name": "Levante UD",
+            "shortName": "Levante",
+            "tla": "LEV",
+            "crest": "https://crests.football-data.org/88.png"
+          },
+          "playedGames": 31,
+          "form": null,
+          "won": 6,
+          "draw": 9,
+          "lost": 16,
+          "points": 27,
+          "goalsFor": 34,
+          "goalsAgainst": 50,
+          "goalDifference": -16
+        },
+        {
+          "position": 20,
+          "team": {
             "id": 1048,
             "name": "Real Oviedo",
             "shortName": "Real Oviedo",
@@ -388,25 +407,6 @@
           "goalsFor": 24,
           "goalsAgainst": 48,
           "goalDifference": -24
-        },
-        {
-          "position": 20,
-          "team": {
-            "id": 88,
-            "name": "Levante UD",
-            "shortName": "Levante",
-            "tla": "LEV",
-            "crest": "https://crests.football-data.org/88.png"
-          },
-          "playedGames": 30,
-          "form": null,
-          "won": 6,
-          "draw": 8,
-          "lost": 16,
-          "points": 26,
-          "goalsFor": 34,
-          "goalsAgainst": 50,
-          "goalDifference": -16
         }
       ]
     }
