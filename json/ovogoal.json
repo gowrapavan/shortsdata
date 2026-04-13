@@ -2,12 +2,23 @@
   {
     "time": "21:00",
     "game": "football",
-    "league": "premier",
-    "home_team": "Man United",
-    "away_team": "Leeds",
-    "label": "man-lee",
-    "home_logo": "https://crests.football-data.org/66.png",
-    "away_logo": "https://crests.football-data.org/341.png",
+    "league": "champions",
+    "home_team": "Atletico Madrid",
+    "away_team": "Barcelona",
+    "label": "atl-bar",
+    "home_logo": "https://crests.football-data.org/78.png",
+    "away_logo": "https://crests.football-data.org/80.png",
+    "url": ""
+  },
+  {
+    "time": "21:00",
+    "game": "football",
+    "league": "champions",
+    "home_team": "Liverpool",
+    "away_team": "PSG",
+    "label": "liv-psg",
+    "home_logo": "https://crests.football-data.org/64.png",
+    "away_logo": "https://crests.football-data.org/524.png",
     "url": ""
   }
 ]
