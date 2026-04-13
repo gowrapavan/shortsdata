@@ -7897,7 +7897,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-13",
     "DateTime": "2026-04-13T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 88,
@@ -7908,11 +7908,11 @@
     "AwayTeamName": "Getafe CF",
     "HomeTeamLogo": "https://crests.football-data.org/88.png",
     "AwayTeamLogo": "https://crests.football-data.org/82.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 88,
     "Points": {
-      "88": 0,
+      "88": 3,
       "82": 0
     },
     "Goals": []

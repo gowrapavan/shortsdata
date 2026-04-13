@@ -8147,7 +8147,7 @@
     "RoundName": "Premier League",
     "Date": "2026-04-13",
     "DateTime": "2026-04-13T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 66,
@@ -8158,12 +8158,12 @@
     "AwayTeamName": "Leeds United FC",
     "HomeTeamLogo": "https://crests.football-data.org/66.png",
     "AwayTeamLogo": "https://crests.football-data.org/341.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 341,
     "Points": {
       "66": 0,
-      "341": 0
+      "341": 3
     },
     "Goals": []
   },
