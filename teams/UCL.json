@@ -1486,6 +1486,13 @@
     },
     "squad": [
       {
+        "id": 102895,
+        "name": "James Hillson",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2001-01-14",
+        "nationality": "England"
+      },
+      {
         "id": 135555,
         "name": "Robert Sánchez",
         "position": "Goalkeeper",
@@ -1724,6 +1731,13 @@
         "nationality": "England"
       },
       {
+        "id": 177766,
+        "name": "Caleb Wiley",
+        "position": "Left-Back",
+        "dateOfBirth": "2004-12-22",
+        "nationality": "USA"
+      },
+      {
         "id": 172738,
         "name": "Romeo Lavia",
         "position": "Defensive Midfield",
@@ -1814,6 +1828,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2000-09-29",
         "nationality": "Georgia"
+      },
+      {
+        "id": 165154,
+        "name": "Harvey Davies",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2003-09-03",
+        "nationality": "England"
       },
       {
         "id": 182236,
@@ -3368,6 +3389,13 @@
         "nationality": "Serbia"
       },
       {
+        "id": 270792,
+        "name": "Gerónimo Spina",
+        "position": "Defence",
+        "dateOfBirth": "2005-02-09",
+        "nationality": "Argentina"
+      },
+      {
         "id": 289895,
         "name": "Daniel Martínez",
         "position": "Defence",
@@ -3424,6 +3452,13 @@
         "nationality": "Ghana"
       },
       {
+        "id": 294508,
+        "name": "Javi Morcillo",
+        "position": "Midfield",
+        "dateOfBirth": "2006-03-15",
+        "nationality": "Spain"
+      },
+      {
         "id": 9554,
         "name": "Ademola Lookman",
         "position": "Offence",
@@ -3450,6 +3485,13 @@
         "position": "Offence",
         "dateOfBirth": "2007-03-20",
         "nationality": "Spain"
+      },
+      {
+        "id": 171964,
+        "name": "Giuliano Simeone",
+        "position": "Right Winger",
+        "dateOfBirth": "2002-12-18",
+        "nationality": "Argentina"
       },
       {
         "id": 151241,
@@ -3543,6 +3585,13 @@
         "nationality": "France"
       },
       {
+        "id": 244719,
+        "name": "Rayane Belaid",
+        "position": "Left Winger",
+        "dateOfBirth": "2005-11-02",
+        "nationality": "Spain"
+      },
+      {
         "id": 221562,
         "name": "Javier Boñar",
         "position": "Right-Back",
@@ -3555,13 +3604,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "2003-02-27",
         "nationality": "Cyprus"
-      },
-      {
-        "id": 171964,
-        "name": "Giuliano Simeone",
-        "position": "Right Winger",
-        "dateOfBirth": "2002-12-18",
-        "nationality": "Argentina"
       }
     ],
     "staff": [],
@@ -4555,6 +4597,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 220576,
+        "name": "Piotr Pardel",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2005-01-31",
+        "nationality": "Poland"
+      },
+      {
         "id": 151933,
         "name": "Lorenzo Bernasconi",
         "position": "Defence",
@@ -4567,6 +4616,13 @@
         "position": "Defence",
         "dateOfBirth": "2006-04-11",
         "nationality": "Slovenia"
+      },
+      {
+        "id": 265553,
+        "name": "Albert Navarro",
+        "position": "Defence",
+        "dateOfBirth": "2007-05-24",
+        "nationality": "Spain"
       },
       {
         "id": 81440,
@@ -4609,62 +4665,6 @@
         "position": "Offence",
         "dateOfBirth": "2006-05-06",
         "nationality": "Guinea"
-      },
-      {
-        "id": 263661,
-        "name": "Honest Ahanor",
-        "position": "Left-Back",
-        "dateOfBirth": "2008-02-23",
-        "nationality": "Italy"
-      },
-      {
-        "id": 245244,
-        "name": "Pietro Comi",
-        "position": "Centre-Back",
-        "dateOfBirth": "2005-06-11",
-        "nationality": "Italy"
-      },
-      {
-        "id": 170381,
-        "name": "Berat Djimsiti",
-        "position": "Centre-Back",
-        "dateOfBirth": "2023-06-30",
-        "nationality": "Albania"
-      },
-      {
-        "id": 167098,
-        "name": "Odilon Kossounou",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-01-04",
-        "nationality": "Ivory Coast"
-      },
-      {
-        "id": 167031,
-        "name": "Isak Hien",
-        "position": "Centre-Back",
-        "dateOfBirth": "1999-01-13",
-        "nationality": "Sweden"
-      },
-      {
-        "id": 153990,
-        "name": "Giorgio Scalvini",
-        "position": "Centre-Back",
-        "dateOfBirth": "2003-12-11",
-        "nationality": "Italy"
-      },
-      {
-        "id": 152528,
-        "name": "Nicola Zalewski",
-        "position": "Left Midfield",
-        "dateOfBirth": "2002-01-23",
-        "nationality": "Poland"
-      },
-      {
-        "id": 150669,
-        "name": "Yunus Musah",
-        "position": "Central Midfield",
-        "dateOfBirth": "2002-11-29",
-        "nationality": "USA"
       },
       {
         "id": 142140,
@@ -4742,6 +4742,62 @@
         "position": "Right Midfield",
         "dateOfBirth": "2000-05-17",
         "nationality": "Italy"
+      },
+      {
+        "id": 263661,
+        "name": "Honest Ahanor",
+        "position": "Left-Back",
+        "dateOfBirth": "2008-02-23",
+        "nationality": "Italy"
+      },
+      {
+        "id": 245244,
+        "name": "Pietro Comi",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-06-11",
+        "nationality": "Italy"
+      },
+      {
+        "id": 170381,
+        "name": "Berat Djimsiti",
+        "position": "Centre-Back",
+        "dateOfBirth": "2023-06-30",
+        "nationality": "Albania"
+      },
+      {
+        "id": 167098,
+        "name": "Odilon Kossounou",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-01-04",
+        "nationality": "Ivory Coast"
+      },
+      {
+        "id": 167031,
+        "name": "Isak Hien",
+        "position": "Centre-Back",
+        "dateOfBirth": "1999-01-13",
+        "nationality": "Sweden"
+      },
+      {
+        "id": 153990,
+        "name": "Giorgio Scalvini",
+        "position": "Centre-Back",
+        "dateOfBirth": "2003-12-11",
+        "nationality": "Italy"
+      },
+      {
+        "id": 152528,
+        "name": "Nicola Zalewski",
+        "position": "Left Midfield",
+        "dateOfBirth": "2002-01-23",
+        "nationality": "Poland"
+      },
+      {
+        "id": 150669,
+        "name": "Yunus Musah",
+        "position": "Central Midfield",
+        "dateOfBirth": "2002-11-29",
+        "nationality": "USA"
       }
     ],
     "staff": [],
@@ -5112,7 +5168,7 @@
       "nationality": "Italy",
       "contract": {
         "start": "2025-10",
-        "until": "2026-06"
+        "until": "2028-06"
       }
     },
     "squad": [
@@ -5159,6 +5215,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 271977,
+        "name": "Riccardo Radu",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2007-08-07",
+        "nationality": "Romania"
+      },
+      {
         "id": 291336,
         "name": "Raffaele Huli",
         "position": "Goalkeeper",
@@ -5192,6 +5255,13 @@
         "position": "Offence",
         "dateOfBirth": "2005-02-26",
         "nationality": "Italy"
+      },
+      {
+        "id": 111777,
+        "name": "Emil Holm",
+        "position": "Right-Back",
+        "dateOfBirth": "2000-05-13",
+        "nationality": "Sweden"
       },
       {
         "id": 99251,
@@ -5339,13 +5409,6 @@
         "position": "Left-Back",
         "dateOfBirth": "2001-01-08",
         "nationality": "Colombia"
-      },
-      {
-        "id": 111777,
-        "name": "Emil Holm",
-        "position": "Right-Back",
-        "dateOfBirth": "2000-05-13",
-        "nationality": "Sweden"
       }
     ],
     "staff": [],
@@ -7934,6 +7997,13 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 264453,
+        "name": "Aymean el Hani",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2007-05-09",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 272771,
         "name": "Joeri Heerkens",
         "position": "Goalkeeper",
@@ -8324,7 +8394,7 @@
         "name": "Hugo Vetlesen",
         "position": "Midfield",
         "dateOfBirth": "2000-02-28",
-        "nationality": "Norway"
+        "nationality": "Belgium"
       },
       {
         "id": 144434,
@@ -8387,7 +8457,7 @@
         "name": "Romeo Vermant",
         "position": "Offence",
         "dateOfBirth": "2004-01-24",
-        "nationality": "Belgium"
+        "nationality": "Germany"
       },
       {
         "id": 214423,
@@ -8436,14 +8506,14 @@
         "name": "Aleksandar Stankovic",
         "position": "Defensive Midfield",
         "dateOfBirth": "2005-08-03",
-        "nationality": "Serbia"
+        "nationality": "Italy"
       },
       {
         "id": 177321,
         "name": "Nicolo Tresoldi",
         "position": "Centre-Forward",
         "dateOfBirth": "2004-08-20",
-        "nationality": "Germany"
+        "nationality": "Italy"
       }
     ],
     "staff": [],
@@ -9950,6 +10020,13 @@
         "nationality": "Kazakhstan"
       },
       {
+        "id": 286436,
+        "name": "Bakhtiyar Aldashev",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2008-02-12",
+        "nationality": "Kazakhstan"
+      },
+      {
         "id": 289894,
         "name": "Danila Buch",
         "position": "Goalkeeper",
@@ -10020,6 +10097,41 @@
         "nationality": "Kazakhstan"
       },
       {
+        "id": 294389,
+        "name": "Sanat Nurbolat",
+        "position": "Defence",
+        "dateOfBirth": "2008-09-22",
+        "nationality": "Kazakhstan"
+      },
+      {
+        "id": 294391,
+        "name": "Adlan Nurgaliyev",
+        "position": "Defence",
+        "dateOfBirth": "2007-01-26",
+        "nationality": "Kazakhstan"
+      },
+      {
+        "id": 294392,
+        "name": "Mustafa Shen",
+        "position": "Defence",
+        "dateOfBirth": "2007-06-07",
+        "nationality": "Kazakhstan"
+      },
+      {
+        "id": 294395,
+        "name": "Rayimbek Kenesbekov",
+        "position": "Defence",
+        "dateOfBirth": "2008-01-30",
+        "nationality": "Kazakhstan"
+      },
+      {
+        "id": 294399,
+        "name": "Akezhan Kalikulov",
+        "position": "Defence",
+        "dateOfBirth": "2008-04-02",
+        "nationality": "Kazakhstan"
+      },
+      {
         "id": 25775,
         "name": "Jaakko Oksanen",
         "position": "Midfield",
@@ -10066,6 +10178,34 @@
         "name": "Shyngys Duysenbek",
         "position": "Midfield",
         "dateOfBirth": "2006-01-13",
+        "nationality": "Kazakhstan"
+      },
+      {
+        "id": 294390,
+        "name": "Alamgir Smakov",
+        "position": "Midfield",
+        "dateOfBirth": "2008-05-28",
+        "nationality": "Kazakhstan"
+      },
+      {
+        "id": 294393,
+        "name": "Karim Makhametzhan",
+        "position": "Midfield",
+        "dateOfBirth": "2007-10-11",
+        "nationality": "Kazakhstan"
+      },
+      {
+        "id": 294394,
+        "name": "Tore Ismagulov",
+        "position": "Midfield",
+        "dateOfBirth": "2008-04-10",
+        "nationality": "Kazakhstan"
+      },
+      {
+        "id": 294398,
+        "name": "Yevgeniy Petrik",
+        "position": "Midfield",
+        "dateOfBirth": "2008-05-31",
         "nationality": "Kazakhstan"
       },
       {
@@ -10129,6 +10269,20 @@
         "name": "Ramazan Bagdat",
         "position": "Offence",
         "dateOfBirth": "2006-10-09",
+        "nationality": "Kazakhstan"
+      },
+      {
+        "id": 294396,
+        "name": "Abylay Toleukhan",
+        "position": "Offence",
+        "dateOfBirth": "2008-08-23",
+        "nationality": "Kazakhstan"
+      },
+      {
+        "id": 294397,
+        "name": "Ermukhammad Kerimkhan",
+        "position": "Offence",
+        "dateOfBirth": "2008-04-04",
         "nationality": "Kazakhstan"
       }
     ],
