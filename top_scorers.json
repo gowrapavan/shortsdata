@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-12T07:00:50.011000Z",
+    "last_updated": "2026-04-13T07:44:46.377542Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -70,6 +70,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Jean-Philippe Mateta",
+                    "team_name": "Crystal Palace FC",
+                    "team_crest": "https://crests.football-data.org/354.png",
+                    "goals": 10,
+                    "assists": null,
+                    "penalties": 4,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Dominic Calvert-Lewin",
                     "team_name": "Leeds United FC",
                     "team_crest": "https://crests.football-data.org/341.png",
@@ -86,15 +95,6 @@
                     "assists": 6,
                     "penalties": null,
                     "nationality": "Wales"
-                },
-                {
-                    "player_name": "Eli Kroupi",
-                    "team_name": "AFC Bournemouth",
-                    "team_crest": "https://crests.football-data.org/bournemouth.png",
-                    "goals": 10,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "France"
                 }
             ]
         },
@@ -116,10 +116,19 @@
                     "player_name": "Vedat Muriqi",
                     "team_name": "RCD Mallorca",
                     "team_crest": "https://crests.football-data.org/89.png",
-                    "goals": 19,
+                    "goals": 21,
                     "assists": 1,
                     "penalties": 5,
                     "nationality": "Kosovo"
+                },
+                {
+                    "player_name": "Ante Budimir",
+                    "team_name": "CA Osasuna",
+                    "team_crest": "https://crests.football-data.org/79.png",
+                    "goals": 16,
+                    "assists": null,
+                    "penalties": 6,
+                    "nationality": "Croatia"
                 },
                 {
                     "player_name": "Lamine Yamal",
@@ -129,15 +138,6 @@
                     "assists": 11,
                     "penalties": 2,
                     "nationality": "Spain"
-                },
-                {
-                    "player_name": "Ante Budimir",
-                    "team_name": "CA Osasuna",
-                    "team_crest": "https://crests.football-data.org/79.png",
-                    "goals": 15,
-                    "assists": null,
-                    "penalties": 5,
-                    "nationality": "Croatia"
                 },
                 {
                     "player_name": "Ferrán Torres",
@@ -222,10 +222,19 @@
                     "player_name": "Nico Paz",
                     "team_name": "Como 1907",
                     "team_crest": "https://crests.football-data.org/7397.png",
-                    "goals": 10,
+                    "goals": 11,
                     "assists": 6,
                     "penalties": null,
                     "nationality": "Argentina"
+                },
+                {
+                    "player_name": "Marcus Thuram-Ulien",
+                    "team_name": "FC Internazionale Milano",
+                    "team_crest": "https://crests.football-data.org/108.png",
+                    "goals": 10,
+                    "assists": 5,
+                    "penalties": null,
+                    "nationality": "France"
                 },
                 {
                     "player_name": "Keinan Davis",
@@ -250,7 +259,7 @@
                     "team_name": "SSC Napoli",
                     "team_crest": "https://crests.football-data.org/113.png",
                     "goals": 10,
-                    "assists": 2,
+                    "assists": 3,
                     "penalties": 1,
                     "nationality": "Denmark"
                 },
@@ -268,7 +277,7 @@
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
                     "goals": 9,
-                    "assists": 3,
+                    "assists": 4,
                     "penalties": 4,
                     "nationality": "Turkey"
                 },
@@ -280,15 +289,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Argentina"
-                },
-                {
-                    "player_name": "Nikola Krstović",
-                    "team_name": "Atalanta BC",
-                    "team_crest": "https://crests.football-data.org/102.png",
-                    "goals": 9,
-                    "assists": 4,
-                    "penalties": null,
-                    "nationality": "Montenegro"
                 }
             ]
         },
@@ -352,6 +352,15 @@
                     "nationality": "Austria"
                 },
                 {
+                    "player_name": "Said El Mala",
+                    "team_name": "1. FC Köln",
+                    "team_crest": "https://crests.football-data.org/1.png",
+                    "goals": 11,
+                    "assists": 3,
+                    "penalties": 1,
+                    "nationality": "Germany"
+                },
+                {
                     "player_name": "Haris Tabaković",
                     "team_name": "Borussia Mönchengladbach",
                     "team_crest": "https://crests.football-data.org/18.png",
@@ -377,15 +386,6 @@
                     "assists": 2,
                     "penalties": 3,
                     "nationality": "Czech Republic"
-                },
-                {
-                    "player_name": "Nadiem Amiri",
-                    "team_name": "1. FSV Mainz 05",
-                    "team_crest": "https://crests.football-data.org/15.png",
-                    "goals": 10,
-                    "assists": 2,
-                    "penalties": 7,
-                    "nationality": "Germany"
                 }
             ]
         },
@@ -495,10 +495,19 @@
                     "player_name": "Ayase Ueda",
                     "team_name": "Feyenoord Rotterdam",
                     "team_crest": "https://crests.football-data.org/675.png",
-                    "goals": 22,
+                    "goals": 23,
                     "assists": 1,
                     "penalties": null,
                     "nationality": "Japan"
+                },
+                {
+                    "player_name": "Troy Parrott",
+                    "team_name": "AZ",
+                    "team_crest": "https://crests.football-data.org/682.png",
+                    "goals": 15,
+                    "assists": 4,
+                    "penalties": 2,
+                    "nationality": "Ireland"
                 },
                 {
                     "player_name": "Mika Godts",
@@ -517,15 +526,6 @@
                     "assists": 6,
                     "penalties": 1,
                     "nationality": "Morocco"
-                },
-                {
-                    "player_name": "Troy Parrott",
-                    "team_name": "AZ",
-                    "team_crest": "https://crests.football-data.org/682.png",
-                    "goals": 14,
-                    "assists": 4,
-                    "penalties": 2,
-                    "nationality": "Ireland"
                 },
                 {
                     "player_name": "Guus Til",
