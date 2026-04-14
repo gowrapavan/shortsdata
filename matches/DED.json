@@ -6865,7 +6865,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-04-11",
     "DateTime": "2026-04-11T16:45:00Z",
-    "Status": "Final",
+    "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 6806,
@@ -6878,10 +6878,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/674.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 2,
-    "Result": 674,
+    "Result": null,
     "Points": {
       "6806": 0,
-      "674": 3
+      "674": 0
     },
     "Goals": []
   },

@@ -7897,7 +7897,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-14",
     "DateTime": "2026-04-14T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 325,
@@ -7908,11 +7908,11 @@
     "AwayTeamName": "Ipswich Town FC",
     "HomeTeamLogo": "https://crests.football-data.org/325.png",
     "AwayTeamLogo": "https://crests.football-data.org/349.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 325,
     "Points": {
-      "325": 0,
+      "325": 3,
       "349": 0
     },
     "Goals": []
@@ -13825,7 +13825,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-14",
     "DateTime": "2026-04-14T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 340,
@@ -13836,11 +13836,11 @@
     "AwayTeamName": "Blackburn Rovers FC",
     "HomeTeamLogo": "https://crests.football-data.org/340.png",
     "AwayTeamLogo": "https://crests.football-data.org/59.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 340,
     "Points": {
-      "340": 0,
+      "340": 3,
       "59": 0
     },
     "Goals": []
