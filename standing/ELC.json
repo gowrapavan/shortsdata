@@ -56,15 +56,15 @@
             "tla": "IPS",
             "crest": "https://crests.football-data.org/349.png"
           },
-          "playedGames": 40,
+          "playedGames": 41,
           "form": null,
           "won": 21,
           "draw": 12,
-          "lost": 7,
+          "lost": 8,
           "points": 75,
           "goalsFor": 71,
-          "goalsAgainst": 40,
-          "goalDifference": 31
+          "goalsAgainst": 42,
+          "goalDifference": 29
         },
         {
           "position": 3,
@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 340,
+            "name": "Southampton FC",
+            "shortName": "Southampton",
+            "tla": "SOU",
+            "crest": "https://crests.football-data.org/340.png"
+          },
+          "playedGames": 42,
+          "form": null,
+          "won": 20,
+          "draw": 12,
+          "lost": 10,
+          "points": 72,
+          "goalsFor": 72,
+          "goalsAgainst": 50,
+          "goalDifference": 22
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 343,
             "name": "Middlesbrough FC",
             "shortName": "Middlesbrough",
@@ -102,25 +121,6 @@
           "points": 72,
           "goalsFor": 62,
           "goalsAgainst": 42,
-          "goalDifference": 20
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 340,
-            "name": "Southampton FC",
-            "shortName": "Southampton",
-            "tla": "SOU",
-            "crest": "https://crests.football-data.org/340.png"
-          },
-          "playedGames": 41,
-          "form": null,
-          "won": 19,
-          "draw": 12,
-          "lost": 10,
-          "points": 69,
-          "goalsFor": 70,
-          "goalsAgainst": 50,
           "goalDifference": 20
         },
         {
@@ -373,11 +373,11 @@
         {
           "position": 19,
           "team": {
-            "id": 59,
-            "name": "Blackburn Rovers FC",
-            "shortName": "Blackburn",
-            "tla": "BLA",
-            "crest": "https://crests.football-data.org/59.png"
+            "id": 325,
+            "name": "Portsmouth FC",
+            "shortName": "Portsmouth",
+            "tla": "POR",
+            "crest": "https://crests.football-data.org/325.png"
           },
           "playedGames": 42,
           "form": null,
@@ -385,12 +385,31 @@
           "draw": 12,
           "lost": 18,
           "points": 48,
-          "goalsFor": 38,
-          "goalsAgainst": 50,
-          "goalDifference": -12
+          "goalsFor": 43,
+          "goalsAgainst": 57,
+          "goalDifference": -14
         },
         {
           "position": 20,
+          "team": {
+            "id": 59,
+            "name": "Blackburn Rovers FC",
+            "shortName": "Blackburn",
+            "tla": "BLA",
+            "crest": "https://crests.football-data.org/59.png"
+          },
+          "playedGames": 43,
+          "form": null,
+          "won": 12,
+          "draw": 12,
+          "lost": 19,
+          "points": 48,
+          "goalsFor": 38,
+          "goalsAgainst": 52,
+          "goalDifference": -14
+        },
+        {
+          "position": 21,
           "team": {
             "id": 74,
             "name": "West Bromwich Albion FC",
@@ -407,25 +426,6 @@
           "goalsFor": 42,
           "goalsAgainst": 56,
           "goalDifference": -14
-        },
-        {
-          "position": 21,
-          "team": {
-            "id": 325,
-            "name": "Portsmouth FC",
-            "shortName": "Portsmouth",
-            "tla": "POR",
-            "crest": "https://crests.football-data.org/325.png"
-          },
-          "playedGames": 41,
-          "form": null,
-          "won": 11,
-          "draw": 12,
-          "lost": 18,
-          "points": 45,
-          "goalsFor": 41,
-          "goalsAgainst": 57,
-          "goalDifference": -16
         },
         {
           "position": 22,
