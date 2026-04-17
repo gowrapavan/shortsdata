@@ -6883,7 +6883,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-04-17",
     "DateTime": "2026-04-17T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 546,
@@ -6894,11 +6894,11 @@
     "AwayTeamName": "Toulouse FC",
     "HomeTeamLogo": "https://crests.football-data.org/546.png",
     "AwayTeamLogo": "https://crests.football-data.org/511.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 546,
     "Points": {
-      "546": 0,
+      "546": 3,
       "511": 0
     },
     "Goals": []
