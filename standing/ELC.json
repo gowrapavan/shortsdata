@@ -40,12 +40,12 @@
           "playedGames": 43,
           "form": null,
           "won": 25,
-          "draw": 10,
-          "lost": 8,
-          "points": 85,
-          "goalsFor": 84,
+          "draw": 11,
+          "lost": 7,
+          "points": 86,
+          "goalsFor": 85,
           "goalsAgainst": 43,
-          "goalDifference": 41
+          "goalDifference": 42
         },
         {
           "position": 2,
@@ -354,25 +354,6 @@
         {
           "position": 18,
           "team": {
-            "id": 59,
-            "name": "Blackburn Rovers FC",
-            "shortName": "Blackburn",
-            "tla": "BLA",
-            "crest": "https://crests.football-data.org/59.png"
-          },
-          "playedGames": 44,
-          "form": null,
-          "won": 13,
-          "draw": 12,
-          "lost": 19,
-          "points": 51,
-          "goalsFor": 39,
-          "goalsAgainst": 53,
-          "goalDifference": -14
-        },
-        {
-          "position": 19,
-          "team": {
             "id": 348,
             "name": "Charlton Athletic FC",
             "shortName": "Charlton",
@@ -388,6 +369,25 @@
           "goalsFor": 39,
           "goalsAgainst": 51,
           "goalDifference": -12
+        },
+        {
+          "position": 19,
+          "team": {
+            "id": 59,
+            "name": "Blackburn Rovers FC",
+            "shortName": "Blackburn",
+            "tla": "BLA",
+            "crest": "https://crests.football-data.org/59.png"
+          },
+          "playedGames": 44,
+          "form": null,
+          "won": 12,
+          "draw": 13,
+          "lost": 19,
+          "points": 49,
+          "goalsFor": 39,
+          "goalsAgainst": 54,
+          "goalDifference": -15
         },
         {
           "position": 20,
