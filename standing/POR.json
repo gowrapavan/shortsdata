@@ -107,25 +107,6 @@
         {
           "position": 5,
           "team": {
-            "id": 5533,
-            "name": "Gil Vicente FC",
-            "shortName": "Gil Vicente",
-            "tla": "GIL",
-            "crest": "https://crests.football-data.org/5533.png"
-          },
-          "playedGames": 30,
-          "form": null,
-          "won": 12,
-          "draw": 11,
-          "lost": 7,
-          "points": 47,
-          "goalsFor": 44,
-          "goalsAgainst": 30,
-          "goalDifference": 14
-        },
-        {
-          "position": 6,
-          "team": {
             "id": 5531,
             "name": "FC Famalicão",
             "shortName": "Famalicão",
@@ -143,7 +124,45 @@
           "goalDifference": 11
         },
         {
+          "position": 6,
+          "team": {
+            "id": 5533,
+            "name": "Gil Vicente FC",
+            "shortName": "Gil Vicente",
+            "tla": "GIL",
+            "crest": "https://crests.football-data.org/5533.png"
+          },
+          "playedGames": 30,
+          "form": null,
+          "won": 12,
+          "draw": 10,
+          "lost": 8,
+          "points": 46,
+          "goalsFor": 44,
+          "goalsAgainst": 31,
+          "goalDifference": 13
+        },
+        {
           "position": 7,
+          "team": {
+            "id": 5543,
+            "name": "Vitória SC",
+            "shortName": "Vitória SC",
+            "tla": "GUI",
+            "crest": "https://crests.football-data.org/5543.png"
+          },
+          "playedGames": 30,
+          "form": null,
+          "won": 11,
+          "draw": 6,
+          "lost": 13,
+          "points": 39,
+          "goalsFor": 36,
+          "goalsAgainst": 43,
+          "goalDifference": -7
+        },
+        {
+          "position": 8,
           "team": {
             "id": 582,
             "name": "GD Estoril Praia",
@@ -160,25 +179,6 @@
           "goalsFor": 51,
           "goalsAgainst": 50,
           "goalDifference": 1
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 5543,
-            "name": "Vitória SC",
-            "shortName": "Vitória SC",
-            "tla": "GUI",
-            "crest": "https://crests.football-data.org/5543.png"
-          },
-          "playedGames": 30,
-          "form": null,
-          "won": 10,
-          "draw": 7,
-          "lost": 13,
-          "points": 37,
-          "goalsFor": 35,
-          "goalsAgainst": 43,
-          "goalDifference": -8
         },
         {
           "position": 9,
