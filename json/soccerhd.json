@@ -1,16 +1,5 @@
 [
   {
-    "time": "02:30 PM",
-    "game": "football",
-    "league": "الدوري الإنجليزي",
-    "home_team": "برينتفورد",
-    "away_team": "فولهام",
-    "label": "بري-فول",
-    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e161309100e.png",
-    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e16130973b4.png",
-    "url": "https://a11.sia-koora.live/albaplayer/bein-1/"
-  },
-  {
     "time": "04:00 PM",
     "game": "football",
     "league": "دوري أبطال أفريقيا",
@@ -47,23 +36,23 @@
     "time": "05:00 PM",
     "game": "football",
     "league": "الدوري الإنجليزي",
-    "home_team": "نيوكاسل",
-    "away_team": "بورنموث",
-    "label": "نيو-بور",
-    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e16131d1f6a.png",
-    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e16131e0628.png",
-    "url": ""
-  },
-  {
-    "time": "05:00 PM",
-    "game": "football",
-    "league": "الدوري الإنجليزي",
     "home_team": "ليدز يونايتد",
     "away_team": "وولفرهامبتون",
     "label": "ليد-وول",
     "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e16131372a0.png",
     "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e161313ce0e.png",
-    "url": ""
+    "url": "https://a11.sia-koora.live/albaplayer/bein-4/"
+  },
+  {
+    "time": "05:00 PM",
+    "game": "football",
+    "league": "الدوري الإنجليزي",
+    "home_team": "نيوكاسل",
+    "away_team": "بورنموث",
+    "label": "نيو-بور",
+    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e16131d1f6a.png",
+    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e16131e0628.png",
+    "url": "https://a11.sia-koora.live/albaplayer/bein-1/"
   },
   {
     "time": "06:00 PM",
@@ -74,7 +63,7 @@
     "label": "لور-مار",
     "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e16122f24dd.png",
     "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e1612304cb7.png",
-    "url": ""
+    "url": "https://a11.sia-koora.live/albaplayer/bein-5/"
   },
   {
     "time": "07:00 PM",
@@ -134,6 +123,17 @@
   {
     "time": "10:00 PM",
     "game": "football",
+    "league": "دوري أبطال أفريقيا",
+    "home_team": "نهضة بركان",
+    "away_team": "الجيش الملكي",
+    "label": "نهض-الج",
+    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e1613871c5c.png",
+    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e1613879eb1.png",
+    "url": ""
+  },
+  {
+    "time": "10:00 PM",
+    "game": "football",
     "league": "الدوري الإنجليزي",
     "home_team": "تشيلسي",
     "away_team": "مان يونايتد",
@@ -151,17 +151,6 @@
     "label": "أتل-ريا",
     "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e16134ddf25.png",
     "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e16134e49a7.png",
-    "url": ""
-  },
-  {
-    "time": "10:00 PM",
-    "game": "football",
-    "league": "دوري أبطال أفريقيا",
-    "home_team": "نهضة بركان",
-    "away_team": "الجيش الملكي",
-    "label": "نهض-الج",
-    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e1613871c5c.png",
-    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e1613879eb1.png",
     "url": ""
   },
   {
@@ -185,5 +174,16 @@
     "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e16142d7692.png",
     "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e16142ddb29.png",
     "url": ""
+  },
+  {
+    "time": "02:30 PM",
+    "game": "football",
+    "league": "الدوري الإنجليزي",
+    "home_team": "برينتفورد",
+    "away_team": "فولهام",
+    "label": "بري-فول",
+    "home_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e161309100e.png",
+    "away_logo": "https://www.live-soccer.info/wp-content/uploads/2026/04/alba_img_69e16130973b4.png",
+    "url": "https://a11.sia-koora.live/albaplayer/bein-1/"
   }
 ]
