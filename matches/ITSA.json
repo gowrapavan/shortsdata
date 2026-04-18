@@ -8401,7 +8401,7 @@
     "RoundName": "Serie A",
     "Date": "2026-04-18",
     "DateTime": "2026-04-18T16:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 113,
@@ -8412,12 +8412,12 @@
     "AwayTeamName": "SS Lazio",
     "HomeTeamLogo": "https://crests.football-data.org/113.png",
     "AwayTeamLogo": "https://crests.football-data.org/110.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
+    "Result": 110,
     "Points": {
       "113": 0,
-      "110": 0
+      "110": 3
     },
     "Goals": []
   },
