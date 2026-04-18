@@ -5891,7 +5891,7 @@
   },
   {
     "GameId": 542636,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-22",
     "DateTime": "2026-04-22T17:00:00Z",
@@ -6697,7 +6697,7 @@
   },
   {
     "GameId": 542667,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-19",
     "DateTime": "2026-04-19T13:00:00Z",
@@ -6749,7 +6749,7 @@
   },
   {
     "GameId": 542669,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-19",
     "DateTime": "2026-04-19T15:15:00Z",
@@ -6775,7 +6775,7 @@
   },
   {
     "GameId": 542670,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-19",
     "DateTime": "2026-04-19T15:15:00Z",
@@ -6801,11 +6801,11 @@
   },
   {
     "GameId": 542671,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-18",
     "DateTime": "2026-04-18T19:05:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 521,
@@ -6816,18 +6816,18 @@
     "AwayTeamName": "OGC Nice",
     "HomeTeamLogo": "https://crests.football-data.org/521.png",
     "AwayTeamLogo": "https://crests.football-data.org/522.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "521": 0,
-      "522": 0
+      "521": 1,
+      "522": 1
     },
     "Goals": []
   },
   {
     "GameId": 542672,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-19",
     "DateTime": "2026-04-19T18:45:00Z",
@@ -6853,7 +6853,7 @@
   },
   {
     "GameId": 542673,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-19",
     "DateTime": "2026-04-19T15:15:00Z",
@@ -6905,11 +6905,11 @@
   },
   {
     "GameId": 542675,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-18",
     "DateTime": "2026-04-18T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 532,
@@ -6924,14 +6924,14 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "532": 0,
-      "533": 0
+      "532": 1,
+      "533": 1
     },
     "Goals": []
   },
   {
     "GameId": 542676,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T15:15:00Z",
@@ -6957,7 +6957,7 @@
   },
   {
     "GameId": 542677,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T13:00:00Z",
@@ -6983,7 +6983,7 @@
   },
   {
     "GameId": 542678,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T15:15:00Z",
@@ -7009,7 +7009,7 @@
   },
   {
     "GameId": 542679,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T19:05:00Z",
@@ -7035,7 +7035,7 @@
   },
   {
     "GameId": 542680,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T13:00:00Z",
@@ -7061,7 +7061,7 @@
   },
   {
     "GameId": 542681,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T18:45:00Z",
@@ -7087,7 +7087,7 @@
   },
   {
     "GameId": 542682,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T17:00:00Z",
@@ -7113,7 +7113,7 @@
   },
   {
     "GameId": 542683,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-24",
     "DateTime": "2026-04-24T18:45:00Z",
@@ -7139,7 +7139,7 @@
   },
   {
     "GameId": 542684,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T15:15:00Z",
@@ -7191,7 +7191,7 @@
   },
   {
     "GameId": 542686,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T17:00:00Z",
@@ -7217,7 +7217,7 @@
   },
   {
     "GameId": 542687,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-05-01",
     "DateTime": "2026-05-01T18:45:00Z",
@@ -7269,7 +7269,7 @@
   },
   {
     "GameId": 542689,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T19:05:00Z",
@@ -7347,7 +7347,7 @@
   },
   {
     "GameId": 542692,
-    "RoundId": 29,
+    "RoundId": 30,
     "RoundName": "Ligue 1",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T15:00:00Z",
