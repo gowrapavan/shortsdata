@@ -1,16 +1,5 @@
 [
   {
-    "time": "06:00 PM",
-    "game": "football",
-    "league": "الدوري الفرنسي",
-    "home_team": "لوريان",
-    "away_team": "مارسيليا",
-    "label": "لور-مار",
-    "home_logo": "https://www.livesoccertv.tv/wp-content/uploads/2026/04/alba_img_69e3a6165571e.png",
-    "away_logo": "https://www.livesoccertv.tv/wp-content/uploads/2026/04/alba_img_69e3a6165e47c.png",
-    "url": ""
-  },
-  {
     "time": "07:00 PM",
     "game": "football",
     "league": "الدوري الإيطالي",
@@ -57,6 +46,17 @@
   {
     "time": "10:00 PM",
     "game": "football",
+    "league": "دوري أبطال أفريقيا",
+    "home_team": "نهضة بركان",
+    "away_team": "الجيش الملكي",
+    "label": "نهض-الج",
+    "home_logo": "https://www.livesoccertv.tv/wp-content/uploads/2026/04/alba_img_69e3a6820cefe.png",
+    "away_logo": "https://www.livesoccertv.tv/wp-content/uploads/2026/04/alba_img_69e3a68214569.png",
+    "url": ""
+  },
+  {
+    "time": "10:00 PM",
+    "game": "football",
     "league": "كأس ملك إسبانيا",
     "home_team": "أتلتيكو مدريد",
     "away_team": "ريال سوسيداد",
@@ -74,17 +74,6 @@
     "label": "تشي-مان",
     "home_logo": "https://www.livesoccertv.tv/wp-content/uploads/2026/04/alba_img_69e3a63639982.png",
     "away_logo": "https://www.livesoccertv.tv/wp-content/uploads/2026/04/alba_img_69e3a63640cae.png",
-    "url": ""
-  },
-  {
-    "time": "10:00 PM",
-    "game": "football",
-    "league": "دوري أبطال أفريقيا",
-    "home_team": "نهضة بركان",
-    "away_team": "الجيش الملكي",
-    "label": "نهض-الج",
-    "home_logo": "https://www.livesoccertv.tv/wp-content/uploads/2026/04/alba_img_69e3a6820cefe.png",
-    "away_logo": "https://www.livesoccertv.tv/wp-content/uploads/2026/04/alba_img_69e3a68214569.png",
     "url": ""
   },
   {
@@ -195,6 +184,17 @@
     "label": "ليد-وول",
     "home_logo": "https://www.livesoccertv.tv/wp-content/uploads/2026/04/alba_img_69e3a632e95f9.png",
     "away_logo": "https://www.livesoccertv.tv/wp-content/uploads/2026/04/alba_img_69e3a632f00f6.png",
+    "url": ""
+  },
+  {
+    "time": "06:00 PM",
+    "game": "football",
+    "league": "الدوري الفرنسي",
+    "home_team": "لوريان",
+    "away_team": "مارسيليا",
+    "label": "لور-مار",
+    "home_logo": "https://www.livesoccertv.tv/wp-content/uploads/2026/04/alba_img_69e3a6165571e.png",
+    "away_logo": "https://www.livesoccertv.tv/wp-content/uploads/2026/04/alba_img_69e3a6165e47c.png",
     "url": ""
   }
 ]
