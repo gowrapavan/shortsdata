@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 5533,
+            "name": "Gil Vicente FC",
+            "shortName": "Gil Vicente",
+            "tla": "GIL",
+            "crest": "https://crests.football-data.org/5533.png"
+          },
+          "playedGames": 30,
+          "form": null,
+          "won": 12,
+          "draw": 11,
+          "lost": 7,
+          "points": 47,
+          "goalsFor": 44,
+          "goalsAgainst": 30,
+          "goalDifference": 14
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 5531,
             "name": "FC Famalicão",
             "shortName": "Famalicão",
@@ -122,25 +141,6 @@
           "goalsFor": 36,
           "goalsAgainst": 25,
           "goalDifference": 11
-        },
-        {
-          "position": 6,
-          "team": {
-            "id": 5533,
-            "name": "Gil Vicente FC",
-            "shortName": "Gil Vicente",
-            "tla": "GIL",
-            "crest": "https://crests.football-data.org/5533.png"
-          },
-          "playedGames": 29,
-          "form": null,
-          "won": 12,
-          "draw": 10,
-          "lost": 7,
-          "points": 46,
-          "goalsFor": 44,
-          "goalsAgainst": 30,
-          "goalDifference": 14
         },
         {
           "position": 7,
@@ -170,12 +170,12 @@
             "tla": "GUI",
             "crest": "https://crests.football-data.org/5543.png"
           },
-          "playedGames": 29,
+          "playedGames": 30,
           "form": null,
           "won": 10,
-          "draw": 6,
+          "draw": 7,
           "lost": 13,
-          "points": 36,
+          "points": 37,
           "goalsFor": 35,
           "goalsAgainst": 43,
           "goalDifference": -8
@@ -208,15 +208,15 @@
             "tla": "ALV",
             "crest": "https://crests.football-data.org/7822.png"
           },
-          "playedGames": 29,
+          "playedGames": 30,
           "form": null,
           "won": 9,
           "draw": 8,
-          "lost": 12,
+          "lost": 13,
           "points": 35,
           "goalsFor": 32,
-          "goalsAgainst": 47,
-          "goalDifference": -15
+          "goalsAgainst": 48,
+          "goalDifference": -16
         },
         {
           "position": 11,
@@ -265,18 +265,37 @@
             "tla": "CD ",
             "crest": "https://crests.football-data.org/5530.png"
           },
-          "playedGames": 29,
+          "playedGames": 30,
           "form": null,
           "won": 7,
-          "draw": 7,
+          "draw": 8,
           "lost": 15,
-          "points": 28,
+          "points": 29,
           "goalsFor": 26,
           "goalsAgainst": 37,
           "goalDifference": -11
         },
         {
           "position": 14,
+          "team": {
+            "id": 5529,
+            "name": "CD Nacional",
+            "shortName": "CD Nacional",
+            "tla": "CDN",
+            "crest": "https://crests.football-data.org/5529.png"
+          },
+          "playedGames": 30,
+          "form": null,
+          "won": 7,
+          "draw": 7,
+          "lost": 16,
+          "points": 28,
+          "goalsFor": 32,
+          "goalsAgainst": 41,
+          "goalDifference": -9
+        },
+        {
+          "position": 15,
           "team": {
             "id": 9136,
             "name": "CF Estrela da Amadora",
@@ -295,25 +314,6 @@
           "goalDifference": -15
         },
         {
-          "position": 15,
-          "team": {
-            "id": 5529,
-            "name": "CD Nacional",
-            "shortName": "CD Nacional",
-            "tla": "CDN",
-            "crest": "https://crests.football-data.org/5529.png"
-          },
-          "playedGames": 29,
-          "form": null,
-          "won": 6,
-          "draw": 7,
-          "lost": 16,
-          "points": 25,
-          "goalsFor": 31,
-          "goalsAgainst": 41,
-          "goalDifference": -10
-        },
-        {
           "position": 16,
           "team": {
             "id": 6618,
@@ -322,12 +322,12 @@
             "tla": "CAS",
             "crest": "https://crests.football-data.org/6618.png"
           },
-          "playedGames": 28,
+          "playedGames": 29,
           "form": null,
           "won": 5,
-          "draw": 10,
+          "draw": 11,
           "lost": 13,
-          "points": 25,
+          "points": 26,
           "goalsFor": 28,
           "goalsAgainst": 52,
           "goalDifference": -24
