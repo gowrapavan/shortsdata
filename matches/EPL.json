@@ -8381,7 +8381,7 @@
     "RoundName": "Premier League",
     "Date": "2026-04-19",
     "DateTime": "2026-04-19T15:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 65,
@@ -8392,11 +8392,11 @@
     "AwayTeamName": "Arsenal FC",
     "HomeTeamLogo": "https://crests.football-data.org/65.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 65,
     "Points": {
-      "65": 0,
+      "65": 3,
       "57": 0
     },
     "Goals": []

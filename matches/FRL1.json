@@ -6753,7 +6753,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-04-19",
     "DateTime": "2026-04-19T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 545,
@@ -6764,12 +6764,12 @@
     "AwayTeamName": "Paris FC",
     "HomeTeamLogo": "https://crests.football-data.org/545.png",
     "AwayTeamLogo": "https://crests.football-data.org/1045.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 3,
+    "Result": 1045,
     "Points": {
       "545": 0,
-      "1045": 0
+      "1045": 3
     },
     "Goals": []
   },
@@ -6779,7 +6779,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-04-19",
     "DateTime": "2026-04-19T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 543,
@@ -6791,11 +6791,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/543.png",
     "AwayTeamLogo": "https://crests.football-data.org/512.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "543": 0,
-      "512": 0
+      "543": 1,
+      "512": 1
     },
     "Goals": []
   },
@@ -6857,7 +6857,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-04-19",
     "DateTime": "2026-04-19T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 576,
@@ -6869,11 +6869,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/576.png",
     "AwayTeamLogo": "https://crests.football-data.org/529.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 529,
     "Points": {
       "576": 0,
-      "529": 0
+      "529": 3
     },
     "Goals": []
   },
