@@ -37,12 +37,12 @@
             "tla": "FCP",
             "crest": "https://crests.football-data.org/503.png"
           },
-          "playedGames": 29,
+          "playedGames": 30,
           "form": null,
           "won": 24,
-          "draw": 4,
+          "draw": 5,
           "lost": 1,
-          "points": 76,
+          "points": 77,
           "goalsFor": 59,
           "goalsAgainst": 14,
           "goalDifference": 45
@@ -50,40 +50,40 @@
         {
           "position": 2,
           "team": {
-            "id": 498,
-            "name": "Sporting Clube de Portugal",
-            "shortName": "Sporting CP",
-            "tla": "SPO",
-            "crest": "https://crests.football-data.org/498.png"
-          },
-          "playedGames": 28,
-          "form": null,
-          "won": 22,
-          "draw": 5,
-          "lost": 1,
-          "points": 71,
-          "goalsFor": 73,
-          "goalsAgainst": 17,
-          "goalDifference": 56
-        },
-        {
-          "position": 3,
-          "team": {
             "id": 1903,
             "name": "Sport Lisboa e Benfica",
             "shortName": "SL Benfica",
             "tla": "BEN",
             "crest": "https://crests.football-data.org/1903.png"
           },
-          "playedGames": 29,
+          "playedGames": 30,
           "form": null,
-          "won": 20,
+          "won": 21,
           "draw": 9,
           "lost": 0,
-          "points": 69,
-          "goalsFor": 61,
-          "goalsAgainst": 18,
-          "goalDifference": 43
+          "points": 72,
+          "goalsFor": 63,
+          "goalsAgainst": 19,
+          "goalDifference": 44
+        },
+        {
+          "position": 3,
+          "team": {
+            "id": 498,
+            "name": "Sporting Clube de Portugal",
+            "shortName": "Sporting CP",
+            "tla": "SPO",
+            "crest": "https://crests.football-data.org/498.png"
+          },
+          "playedGames": 29,
+          "form": null,
+          "won": 22,
+          "draw": 5,
+          "lost": 2,
+          "points": 71,
+          "goalsFor": 74,
+          "goalsAgainst": 19,
+          "goalDifference": 55
         },
         {
           "position": 4,
@@ -94,14 +94,14 @@
             "tla": "SCB",
             "crest": "https://crests.football-data.org/5613.png"
           },
-          "playedGames": 28,
+          "playedGames": 29,
           "form": null,
           "won": 15,
-          "draw": 7,
+          "draw": 8,
           "lost": 6,
-          "points": 52,
-          "goalsFor": 55,
-          "goalsAgainst": 27,
+          "points": 53,
+          "goalsFor": 56,
+          "goalsAgainst": 28,
           "goalDifference": 28
         },
         {
@@ -113,14 +113,14 @@
             "tla": "FAM",
             "crest": "https://crests.football-data.org/5531.png"
           },
-          "playedGames": 29,
+          "playedGames": 30,
           "form": null,
           "won": 13,
-          "draw": 8,
+          "draw": 9,
           "lost": 8,
-          "points": 47,
-          "goalsFor": 36,
-          "goalsAgainst": 25,
+          "points": 48,
+          "goalsFor": 37,
+          "goalsAgainst": 26,
           "goalDifference": 11
         },
         {
@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 712,
+            "name": "FC Arouca",
+            "shortName": "Arouca",
+            "tla": "FCA",
+            "crest": "https://crests.football-data.org/712.png"
+          },
+          "playedGames": 30,
+          "form": null,
+          "won": 10,
+          "draw": 5,
+          "lost": 15,
+          "points": 35,
+          "goalsFor": 38,
+          "goalsAgainst": 58,
+          "goalDifference": -20
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 496,
             "name": "Rio Ave FC",
             "shortName": "Rio Ave",
@@ -236,25 +255,6 @@
           "goalsFor": 33,
           "goalsAgainst": 50,
           "goalDifference": -17
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 712,
-            "name": "FC Arouca",
-            "shortName": "Arouca",
-            "tla": "FCA",
-            "crest": "https://crests.football-data.org/712.png"
-          },
-          "playedGames": 29,
-          "form": null,
-          "won": 9,
-          "draw": 5,
-          "lost": 15,
-          "points": 32,
-          "goalsFor": 37,
-          "goalsAgainst": 58,
-          "goalDifference": -21
         },
         {
           "position": 13,
@@ -303,15 +303,15 @@
             "tla": "AMA",
             "crest": "https://crests.football-data.org/9136.png"
           },
-          "playedGames": 29,
+          "playedGames": 30,
           "form": null,
           "won": 6,
           "draw": 10,
-          "lost": 13,
+          "lost": 14,
           "points": 28,
           "goalsFor": 33,
-          "goalsAgainst": 48,
-          "goalDifference": -15
+          "goalsAgainst": 49,
+          "goalDifference": -16
         },
         {
           "position": 16,
@@ -341,12 +341,12 @@
             "tla": "TON",
             "crest": "https://crests.football-data.org/1049.png"
           },
-          "playedGames": 28,
+          "playedGames": 29,
           "form": null,
           "won": 4,
-          "draw": 9,
+          "draw": 10,
           "lost": 15,
-          "points": 21,
+          "points": 22,
           "goalsFor": 21,
           "goalsAgainst": 46,
           "goalDifference": -25

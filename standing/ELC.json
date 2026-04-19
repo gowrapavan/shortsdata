@@ -50,6 +50,25 @@
         {
           "position": 2,
           "team": {
+            "id": 349,
+            "name": "Ipswich Town FC",
+            "shortName": "Ipswich Town",
+            "tla": "IPS",
+            "crest": "https://crests.football-data.org/349.png"
+          },
+          "playedGames": 42,
+          "form": null,
+          "won": 21,
+          "draw": 13,
+          "lost": 8,
+          "points": 76,
+          "goalsFor": 73,
+          "goalsAgainst": 44,
+          "goalDifference": 29
+        },
+        {
+          "position": 3,
+          "team": {
             "id": 384,
             "name": "Millwall FC",
             "shortName": "Millwall",
@@ -65,25 +84,6 @@
           "goalsFor": 58,
           "goalsAgainst": 47,
           "goalDifference": 11
-        },
-        {
-          "position": 3,
-          "team": {
-            "id": 349,
-            "name": "Ipswich Town FC",
-            "shortName": "Ipswich Town",
-            "tla": "IPS",
-            "crest": "https://crests.football-data.org/349.png"
-          },
-          "playedGames": 41,
-          "form": null,
-          "won": 21,
-          "draw": 12,
-          "lost": 8,
-          "points": 75,
-          "goalsFor": 71,
-          "goalsAgainst": 42,
-          "goalDifference": 29
         },
         {
           "position": 4,
@@ -113,14 +113,14 @@
             "tla": "MID",
             "crest": "https://crests.football-data.org/343.png"
           },
-          "playedGames": 42,
+          "playedGames": 43,
           "form": null,
           "won": 20,
-          "draw": 12,
+          "draw": 13,
           "lost": 10,
-          "points": 72,
-          "goalsFor": 62,
-          "goalsAgainst": 42,
+          "points": 73,
+          "goalsFor": 64,
+          "goalsAgainst": 44,
           "goalDifference": 20
         },
         {
