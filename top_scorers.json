@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-18T06:53:42.063522Z",
+    "last_updated": "2026-04-19T07:03:52.823668Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -70,6 +70,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Dominic Calvert-Lewin",
+                    "team_name": "Leeds United FC",
+                    "team_crest": "https://crests.football-data.org/341.png",
+                    "goals": 11,
+                    "assists": 1,
+                    "penalties": 3,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Jean-Philippe Mateta",
                     "team_name": "Crystal Palace FC",
                     "team_crest": "https://crests.football-data.org/354.png",
@@ -77,15 +86,6 @@
                     "assists": null,
                     "penalties": 4,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Dominic Calvert-Lewin",
-                    "team_name": "Leeds United FC",
-                    "team_crest": "https://crests.football-data.org/341.png",
-                    "goals": 10,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "England"
                 },
                 {
                     "player_name": "Harry Wilson",
@@ -264,6 +264,15 @@
                     "nationality": "Denmark"
                 },
                 {
+                    "player_name": "Nikola Krstović",
+                    "team_name": "Atalanta BC",
+                    "team_crest": "https://crests.football-data.org/102.png",
+                    "goals": 10,
+                    "assists": 4,
+                    "penalties": null,
+                    "nationality": "Montenegro"
+                },
+                {
                     "player_name": "Donyell Malen",
                     "team_name": "AS Roma",
                     "team_crest": "https://crests.football-data.org/100.png",
@@ -280,15 +289,6 @@
                     "assists": 4,
                     "penalties": 4,
                     "nationality": "Turkey"
-                },
-                {
-                    "player_name": "Giovanni Simeone",
-                    "team_name": "Torino FC",
-                    "team_crest": "https://crests.football-data.org/586.png",
-                    "goals": 9,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Argentina"
                 }
             ]
         },
@@ -328,7 +328,7 @@
                     "player_name": "Sehrou Guirassy",
                     "team_name": "Borussia Dortmund",
                     "team_crest": "https://crests.football-data.org/4.png",
-                    "goals": 13,
+                    "goals": 14,
                     "assists": null,
                     "penalties": 1,
                     "nationality": "Guinea"
@@ -352,28 +352,19 @@
                     "nationality": "Austria"
                 },
                 {
-                    "player_name": "Said El Mala",
-                    "team_name": "1. FC Köln",
-                    "team_crest": "https://crests.football-data.org/1.png",
-                    "goals": 11,
-                    "assists": 3,
-                    "penalties": 1,
-                    "nationality": "Germany"
-                },
-                {
-                    "player_name": "Haris Tabaković",
-                    "team_name": "Borussia Mönchengladbach",
-                    "team_crest": "https://crests.football-data.org/18.png",
-                    "goals": 11,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "Bosnia-Herzegovina"
+                    "player_name": "Andrej Kramarić",
+                    "team_name": "TSG 1899 Hoffenheim",
+                    "team_crest": "https://crests.football-data.org/2.png",
+                    "goals": 12,
+                    "assists": 5,
+                    "penalties": 5,
+                    "nationality": "Croatia"
                 },
                 {
                     "player_name": "Yan Diomandé",
                     "team_name": "RB Leipzig",
                     "team_crest": "https://crests.football-data.org/721.png",
-                    "goals": 11,
+                    "goals": 12,
                     "assists": 6,
                     "penalties": null,
                     "nationality": "Ivory Coast"
@@ -382,10 +373,19 @@
                     "player_name": "Patrik Schick",
                     "team_name": "Bayer 04 Leverkusen",
                     "team_crest": "https://crests.football-data.org/3.png",
-                    "goals": 10,
+                    "goals": 11,
                     "assists": 2,
                     "penalties": 3,
                     "nationality": "Czech Republic"
+                },
+                {
+                    "player_name": "Said El Mala",
+                    "team_name": "1. FC Köln",
+                    "team_crest": "https://crests.football-data.org/1.png",
+                    "goals": 11,
+                    "assists": 3,
+                    "penalties": 1,
+                    "nationality": "Germany"
                 }
             ]
         },
