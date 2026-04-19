@@ -8271,7 +8271,7 @@
     "RoundName": "Serie A",
     "Date": "2026-04-19",
     "DateTime": "2026-04-19T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 450,
@@ -8282,12 +8282,12 @@
     "AwayTeamName": "AC Milan",
     "HomeTeamLogo": "https://crests.football-data.org/450.png",
     "AwayTeamLogo": "https://crests.football-data.org/98.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 98,
     "Points": {
       "450": 0,
-      "98": 0
+      "98": 3
     },
     "Goals": []
   },
