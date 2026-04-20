@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-19T07:03:52.823668Z",
+    "last_updated": "2026-04-20T07:46:59.642767Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -10,7 +10,7 @@
                     "player_name": "Erling Haaland",
                     "team_name": "Manchester City FC",
                     "team_crest": "https://crests.football-data.org/65.png",
-                    "goals": 22,
+                    "goals": 23,
                     "assists": 7,
                     "penalties": 3,
                     "nationality": "Norway"
@@ -61,6 +61,15 @@
                     "nationality": "England"
                 },
                 {
+                    "player_name": "Morgan Gibbs-White",
+                    "team_name": "Nottingham Forest FC",
+                    "team_crest": "https://crests.football-data.org/351.png",
+                    "goals": 12,
+                    "assists": 3,
+                    "penalties": 1,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Hugo Ekitike",
                     "team_name": "Liverpool FC",
                     "team_crest": "https://crests.football-data.org/64.png",
@@ -79,22 +88,13 @@
                     "nationality": "England"
                 },
                 {
-                    "player_name": "Jean-Philippe Mateta",
-                    "team_name": "Crystal Palace FC",
-                    "team_crest": "https://crests.football-data.org/354.png",
-                    "goals": 10,
-                    "assists": null,
-                    "penalties": 4,
-                    "nationality": "France"
-                },
-                {
-                    "player_name": "Harry Wilson",
-                    "team_name": "Fulham FC",
-                    "team_crest": "https://crests.football-data.org/63.png",
-                    "goals": 10,
-                    "assists": 6,
+                    "player_name": "Ollie Watkins",
+                    "team_name": "Aston Villa FC",
+                    "team_crest": "https://crests.football-data.org/58.png",
+                    "goals": 11,
+                    "assists": 2,
                     "penalties": null,
-                    "nationality": "Wales"
+                    "nationality": "England"
                 }
             ]
         },
@@ -301,7 +301,7 @@
                     "player_name": "Harry Kane",
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 31,
+                    "goals": 32,
                     "assists": 4,
                     "penalties": 10,
                     "nationality": "England"
@@ -320,7 +320,7 @@
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
                     "goals": 15,
-                    "assists": 9,
+                    "assists": 11,
                     "penalties": null,
                     "nationality": "Colombia"
                 },
@@ -379,12 +379,12 @@
                     "nationality": "Czech Republic"
                 },
                 {
-                    "player_name": "Said El Mala",
-                    "team_name": "1. FC Köln",
-                    "team_crest": "https://crests.football-data.org/1.png",
+                    "player_name": "Nadiem Amiri",
+                    "team_name": "1. FSV Mainz 05",
+                    "team_crest": "https://crests.football-data.org/15.png",
                     "goals": 11,
-                    "assists": 3,
-                    "penalties": 1,
+                    "assists": 2,
+                    "penalties": 8,
                     "nationality": "Germany"
                 }
             ]
@@ -395,6 +395,15 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Esteban Lepaul",
+                    "team_name": "Stade Rennais FC 1901",
+                    "team_crest": "https://crests.football-data.org/529.png",
+                    "goals": 17,
+                    "assists": 4,
+                    "penalties": 2,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Joaquín Panichelli",
                     "team_name": "RC Strasbourg Alsace",
                     "team_crest": "https://crests.football-data.org/576.png",
@@ -402,15 +411,6 @@
                     "assists": 1,
                     "penalties": 5,
                     "nationality": "Argentina"
-                },
-                {
-                    "player_name": "Esteban Lepaul",
-                    "team_name": "Stade Rennais FC 1901",
-                    "team_crest": "https://crests.football-data.org/529.png",
-                    "goals": 16,
-                    "assists": 3,
-                    "penalties": 2,
-                    "nationality": "France"
                 },
                 {
                     "player_name": "Mason Greenwood",
@@ -422,6 +422,15 @@
                     "nationality": "England"
                 },
                 {
+                    "player_name": "Folarin Balogun",
+                    "team_name": "AS Monaco FC",
+                    "team_crest": "https://crests.football-data.org/548.png",
+                    "goals": 12,
+                    "assists": 3,
+                    "penalties": 3,
+                    "nationality": "USA"
+                },
+                {
                     "player_name": "Odsonne Edouard",
                     "team_name": "Racing Club de Lens",
                     "team_crest": "https://crests.football-data.org/546.png",
@@ -429,15 +438,6 @@
                     "assists": 3,
                     "penalties": 1,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Folarin Balogun",
-                    "team_name": "AS Monaco FC",
-                    "team_crest": "https://crests.football-data.org/548.png",
-                    "goals": 11,
-                    "assists": 3,
-                    "penalties": 2,
-                    "nationality": "USA"
                 },
                 {
                     "player_name": "Wesley Saïd",
@@ -476,13 +476,13 @@
                     "nationality": "Czech Republic"
                 },
                 {
-                    "player_name": "Pierre-Emerick Aubameyang",
-                    "team_name": "Olympique de Marseille",
-                    "team_crest": "https://crests.football-data.org/516.png",
+                    "player_name": "Lassine Sinayoko",
+                    "team_name": "AJ Auxerre",
+                    "team_crest": "https://crests.football-data.org/519.png",
                     "goals": 9,
-                    "assists": 5,
-                    "penalties": null,
-                    "nationality": "Gabon"
+                    "assists": 3,
+                    "penalties": 3,
+                    "nationality": "Mali"
                 }
             ]
         },
