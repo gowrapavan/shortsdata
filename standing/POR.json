@@ -164,40 +164,40 @@
         {
           "position": 8,
           "team": {
-            "id": 582,
-            "name": "GD Estoril Praia",
-            "shortName": "Estoril Praia",
-            "tla": "EST",
-            "crest": "https://crests.football-data.org/582.png"
-          },
-          "playedGames": 29,
-          "form": null,
-          "won": 10,
-          "draw": 7,
-          "lost": 12,
-          "points": 37,
-          "goalsFor": 51,
-          "goalsAgainst": 50,
-          "goalDifference": 1
-        },
-        {
-          "position": 9,
-          "team": {
             "id": 583,
             "name": "Moreirense FC",
             "shortName": "Moreirense",
             "tla": "MOR",
             "crest": "https://crests.football-data.org/583.png"
           },
-          "playedGames": 29,
+          "playedGames": 30,
           "form": null,
-          "won": 10,
+          "won": 11,
           "draw": 6,
           "lost": 13,
-          "points": 36,
-          "goalsFor": 32,
+          "points": 39,
+          "goalsFor": 33,
           "goalsAgainst": 41,
-          "goalDifference": -9
+          "goalDifference": -8
+        },
+        {
+          "position": 9,
+          "team": {
+            "id": 582,
+            "name": "GD Estoril Praia",
+            "shortName": "Estoril Praia",
+            "tla": "EST",
+            "crest": "https://crests.football-data.org/582.png"
+          },
+          "playedGames": 30,
+          "form": null,
+          "won": 10,
+          "draw": 7,
+          "lost": 13,
+          "points": 37,
+          "goalsFor": 51,
+          "goalsAgainst": 51,
+          "goalDifference": 0
         },
         {
           "position": 10,
