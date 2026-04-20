@@ -8479,7 +8479,7 @@
     "RoundName": "Serie A",
     "Date": "2026-04-20",
     "DateTime": "2026-04-20T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5890,
@@ -8490,12 +8490,12 @@
     "AwayTeamName": "ACF Fiorentina",
     "HomeTeamLogo": "https://crests.football-data.org/5890.png",
     "AwayTeamLogo": "https://crests.football-data.org/99.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "5890": 0,
-      "99": 0
+      "5890": 1,
+      "99": 1
     },
     "Goals": []
   },
