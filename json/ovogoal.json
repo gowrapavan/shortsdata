@@ -1,46 +1,35 @@
 [
   {
-    "time": "20:45",
+    "time": "21:00",
     "game": "football",
     "league": "seriea",
-    "home_team": "Juventus",
-    "away_team": "Bologna",
-    "label": "juv-bol",
-    "home_logo": "https://crests.football-data.org/109.png",
-    "away_logo": "https://crests.football-data.org/103.png",
-    "url": ""
-  },
-  {
-    "time": "20:45",
-    "game": "football",
-    "league": "ligue1",
-    "home_team": "PSG",
-    "away_team": "Olympique Lyonnais",
-    "label": "psg-oly",
-    "home_logo": "https://crests.football-data.org/524.png",
-    "away_logo": "https://crests.football-data.org/523.png",
-    "url": ""
-  },
-  {
-    "time": "19:00",
-    "game": "football",
-    "league": "portugal",
-    "home_team": "Sporting CP",
-    "away_team": "Benfica",
-    "label": "spo-ben",
-    "home_logo": "https://crests.football-data.org/498.png",
-    "away_logo": "https://crests.football-data.org/1903.png",
+    "home_team": "Brighton",
+    "away_team": "Chelsea",
+    "label": "bri-che",
+    "home_logo": "https://crests.football-data.org/397.png",
+    "away_logo": "https://crests.football-data.org/61.png",
     "url": ""
   },
   {
     "time": "21:30",
     "game": "football",
+    "league": "ligue1",
+    "home_team": "Real Madrid",
+    "away_team": "Deportivo Alaves",
+    "label": "rea-dep",
+    "home_logo": "https://crests.football-data.org/86.png",
+    "away_logo": "https://crests.football-data.org/263.png",
+    "url": ""
+  },
+  {
+    "time": "21:00",
+    "game": "football",
     "league": "portugal",
-    "home_team": "Porto",
-    "away_team": "Tondela",
-    "label": "por-ton",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "home_team": "Internazionale",
+    "away_team": "Como",
+    "label": "int-com",
+    "home_logo": "https://crests.football-data.org/108.png",
+    "away_logo": "https://crests.football-data.org/7397.png",
     "url": ""
   }
 ]
