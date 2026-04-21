@@ -8209,7 +8209,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-21",
     "DateTime": "2026-04-21T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 77,
@@ -8220,11 +8220,11 @@
     "AwayTeamName": "CA Osasuna",
     "HomeTeamLogo": "https://crests.football-data.org/77.png",
     "AwayTeamLogo": "https://crests.football-data.org/79.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 77,
     "Points": {
-      "77": 0,
+      "77": 3,
       "79": 0
     },
     "Goals": []
@@ -8287,7 +8287,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-21",
     "DateTime": "2026-04-21T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 89,
@@ -8298,12 +8298,12 @@
     "AwayTeamName": "Valencia CF",
     "HomeTeamLogo": "https://crests.football-data.org/89.png",
     "AwayTeamLogo": "https://crests.football-data.org/95.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "89": 0,
-      "95": 0
+      "89": 1,
+      "95": 1
     },
     "Goals": []
   },
