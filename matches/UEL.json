@@ -5527,7 +5527,7 @@
   },
   {
     "GameId": 540930,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2025-12-06",
     "DateTime": "2025-12-06T12:30:00Z",
@@ -12261,7 +12261,7 @@
   },
   {
     "GameId": 541189,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-28",
     "DateTime": "2026-04-28T18:45:00Z",
@@ -13275,11 +13275,11 @@
   },
   {
     "GameId": 541228,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-21",
     "DateTime": "2026-04-21T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1076,
@@ -13290,18 +13290,18 @@
     "AwayTeamName": "Portsmouth FC",
     "HomeTeamLogo": "https://crests.football-data.org/1076.png",
     "AwayTeamLogo": "https://crests.football-data.org/325.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 5,
+    "AwayTeamScore": 1,
+    "Result": 1076,
     "Points": {
-      "1076": 0,
+      "1076": 3,
       "325": 0
     },
     "Goals": []
   },
   {
     "GameId": 541229,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-22",
     "DateTime": "2026-04-22T18:45:00Z",
@@ -13327,11 +13327,11 @@
   },
   {
     "GameId": 541230,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-21",
     "DateTime": "2026-04-21T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 68,
@@ -13342,22 +13342,22 @@
     "AwayTeamName": "Derby County FC",
     "HomeTeamLogo": "https://crests.football-data.org/68.png",
     "AwayTeamLogo": "https://crests.football-data.org/342.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 68,
     "Points": {
-      "68": 0,
+      "68": 3,
       "342": 0
     },
     "Goals": []
   },
   {
     "GameId": 541231,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-21",
     "DateTime": "2026-04-21T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1082,
@@ -13369,21 +13369,21 @@
     "HomeTeamLogo": "https://crests.football-data.org/1082.png",
     "AwayTeamLogo": "https://crests.football-data.org/404.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 404,
     "Points": {
       "1082": 0,
-      "404": 0
+      "404": 3
     },
     "Goals": []
   },
   {
     "GameId": 541232,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-21",
     "DateTime": "2026-04-21T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 69,
@@ -13394,22 +13394,22 @@
     "AwayTeamName": "Swansea City AFC",
     "HomeTeamLogo": "https://crests.football-data.org/69.png",
     "AwayTeamLogo": "https://crests.football-data.org/72.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 72,
     "Points": {
       "69": 0,
-      "72": 0
+      "72": 3
     },
     "Goals": []
   },
   {
     "GameId": 541233,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-21",
     "DateTime": "2026-04-21T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 340,
@@ -13420,22 +13420,22 @@
     "AwayTeamName": "Bristol City FC",
     "HomeTeamLogo": "https://crests.football-data.org/340.png",
     "AwayTeamLogo": "https://crests.football-data.org/387.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "340": 0,
-      "387": 0
+      "340": 1,
+      "387": 1
     },
     "Goals": []
   },
   {
     "GameId": 541234,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-21",
     "DateTime": "2026-04-21T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 70,
@@ -13446,22 +13446,22 @@
     "AwayTeamName": "Millwall FC",
     "HomeTeamLogo": "https://crests.football-data.org/70.png",
     "AwayTeamLogo": "https://crests.football-data.org/384.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 3,
+    "Result": 384,
     "Points": {
       "70": 0,
-      "384": 0
+      "384": 3
     },
     "Goals": []
   },
   {
     "GameId": 541235,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-21",
     "DateTime": "2026-04-21T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 74,
@@ -13472,18 +13472,18 @@
     "AwayTeamName": "Watford FC",
     "HomeTeamLogo": "https://crests.football-data.org/74.png",
     "AwayTeamLogo": "https://crests.football-data.org/346.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 74,
     "Points": {
-      "74": 0,
+      "74": 3,
       "346": 0
     },
     "Goals": []
   },
   {
     "GameId": 541236,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-22",
     "DateTime": "2026-04-22T18:45:00Z",
@@ -13509,7 +13509,7 @@
   },
   {
     "GameId": 541237,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-22",
     "DateTime": "2026-04-22T18:45:00Z",
@@ -13535,11 +13535,11 @@
   },
   {
     "GameId": 541238,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-21",
     "DateTime": "2026-04-21T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 338,
@@ -13550,18 +13550,18 @@
     "AwayTeamName": "Hull City AFC",
     "HomeTeamLogo": "https://crests.football-data.org/338.png",
     "AwayTeamLogo": "https://crests.football-data.org/322.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "338": 0,
-      "322": 0
+      "338": 1,
+      "322": 1
     },
     "Goals": []
   },
   {
     "GameId": 541239,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-22",
     "DateTime": "2026-04-22T18:45:00Z",
@@ -13587,7 +13587,7 @@
   },
   {
     "GameId": 541240,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T14:00:00Z",
@@ -13613,7 +13613,7 @@
   },
   {
     "GameId": 541241,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T11:30:00Z",
@@ -13639,7 +13639,7 @@
   },
   {
     "GameId": 541242,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T11:00:00Z",
@@ -13665,7 +13665,7 @@
   },
   {
     "GameId": 541243,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-24",
     "DateTime": "2026-04-24T19:00:00Z",
@@ -13691,7 +13691,7 @@
   },
   {
     "GameId": 541244,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T11:30:00Z",
@@ -13717,7 +13717,7 @@
   },
   {
     "GameId": 541245,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T14:00:00Z",
@@ -13743,7 +13743,7 @@
   },
   {
     "GameId": 541246,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T14:00:00Z",
@@ -13769,7 +13769,7 @@
   },
   {
     "GameId": 541247,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T14:00:00Z",
@@ -13795,7 +13795,7 @@
   },
   {
     "GameId": 541248,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T14:00:00Z",
@@ -13847,7 +13847,7 @@
   },
   {
     "GameId": 541250,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T14:00:00Z",
@@ -13873,7 +13873,7 @@
   },
   {
     "GameId": 541251,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T11:30:00Z",
@@ -13899,7 +13899,7 @@
   },
   {
     "GameId": 541252,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T11:30:00Z",
@@ -13925,7 +13925,7 @@
   },
   {
     "GameId": 541253,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T11:30:00Z",
@@ -13951,7 +13951,7 @@
   },
   {
     "GameId": 541254,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T11:30:00Z",
@@ -13977,7 +13977,7 @@
   },
   {
     "GameId": 541255,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T11:30:00Z",
@@ -14003,7 +14003,7 @@
   },
   {
     "GameId": 541256,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T11:30:00Z",
@@ -14029,7 +14029,7 @@
   },
   {
     "GameId": 541257,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T11:30:00Z",
@@ -14055,7 +14055,7 @@
   },
   {
     "GameId": 541258,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T11:30:00Z",
@@ -14081,7 +14081,7 @@
   },
   {
     "GameId": 541259,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T11:30:00Z",
@@ -14107,7 +14107,7 @@
   },
   {
     "GameId": 541260,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T11:30:00Z",
@@ -14133,7 +14133,7 @@
   },
   {
     "GameId": 541261,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T11:30:00Z",
@@ -14159,7 +14159,7 @@
   },
   {
     "GameId": 541262,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T11:30:00Z",
@@ -14185,7 +14185,7 @@
   },
   {
     "GameId": 541263,
-    "RoundId": 45,
+    "RoundId": 42,
     "RoundName": "Championship",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T11:30:00Z",
