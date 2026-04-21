@@ -126,24 +126,43 @@
         {
           "position": 6,
           "team": {
+            "id": 397,
+            "name": "Brighton & Hove Albion FC",
+            "shortName": "Brighton Hove",
+            "tla": "BHA",
+            "crest": "https://crests.football-data.org/397.png"
+          },
+          "playedGames": 34,
+          "form": null,
+          "won": 13,
+          "draw": 11,
+          "lost": 10,
+          "points": 50,
+          "goalsFor": 47,
+          "goalsAgainst": 39,
+          "goalDifference": 8
+        },
+        {
+          "position": 7,
+          "team": {
             "id": 61,
             "name": "Chelsea FC",
             "shortName": "Chelsea",
             "tla": "CHE",
             "crest": "https://crests.football-data.org/61.png"
           },
-          "playedGames": 33,
+          "playedGames": 34,
           "form": null,
           "won": 13,
           "draw": 9,
-          "lost": 11,
+          "lost": 12,
           "points": 48,
           "goalsFor": 53,
-          "goalsAgainst": 42,
-          "goalDifference": 11
+          "goalsAgainst": 44,
+          "goalDifference": 9
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 402,
             "name": "Brentford FC",
@@ -162,7 +181,7 @@
           "goalDifference": 4
         },
         {
-          "position": 8,
+          "position": 9,
           "team": {
             "id": 1044,
             "name": "AFC Bournemouth",
@@ -179,25 +198,6 @@
           "goalsFor": 50,
           "goalsAgainst": 50,
           "goalDifference": 0
-        },
-        {
-          "position": 9,
-          "team": {
-            "id": 397,
-            "name": "Brighton & Hove Albion FC",
-            "shortName": "Brighton Hove",
-            "tla": "BHA",
-            "crest": "https://crests.football-data.org/397.png"
-          },
-          "playedGames": 33,
-          "form": null,
-          "won": 12,
-          "draw": 11,
-          "lost": 10,
-          "points": 47,
-          "goalsFor": 45,
-          "goalsAgainst": 39,
-          "goalDifference": 6
         },
         {
           "position": 10,
