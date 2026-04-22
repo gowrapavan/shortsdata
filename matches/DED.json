@@ -7099,7 +7099,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-04-22",
     "DateTime": "2026-04-22T18:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1912,
@@ -7110,11 +7110,11 @@
     "AwayTeamName": "Sparta Rotterdam",
     "HomeTeamLogo": "https://crests.football-data.org/1912.png",
     "AwayTeamLogo": "https://crests.football-data.org/6806.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 4,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 1912,
     "Points": {
-      "1912": 0,
+      "1912": 3,
       "6806": 0
     },
     "Goals": []
