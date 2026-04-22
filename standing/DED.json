@@ -208,15 +208,15 @@
             "tla": "SPA",
             "crest": "https://crests.football-data.org/6806.png"
           },
-          "playedGames": 30,
+          "playedGames": 31,
           "form": null,
           "won": 12,
           "draw": 6,
-          "lost": 12,
+          "lost": 13,
           "points": 42,
-          "goalsFor": 35,
-          "goalsAgainst": 49,
-          "goalDifference": -14
+          "goalsFor": 36,
+          "goalsAgainst": 53,
+          "goalDifference": -17
         },
         {
           "position": 11,
@@ -278,6 +278,25 @@
         {
           "position": 14,
           "team": {
+            "id": 1912,
+            "name": "Telstar 1963",
+            "shortName": "Telstar",
+            "tla": "TEL",
+            "crest": "https://crests.football-data.org/1912.png"
+          },
+          "playedGames": 31,
+          "form": null,
+          "won": 7,
+          "draw": 9,
+          "lost": 15,
+          "points": 30,
+          "goalsFor": 43,
+          "goalsAgainst": 53,
+          "goalDifference": -10
+        },
+        {
+          "position": 15,
+          "team": {
             "id": 1919,
             "name": "FC Volendam",
             "shortName": "Volendam",
@@ -295,7 +314,7 @@
           "goalDifference": -19
         },
         {
-          "position": 15,
+          "position": 16,
           "team": {
             "id": 670,
             "name": "SBV Excelsior",
@@ -312,25 +331,6 @@
           "goalsFor": 31,
           "goalsAgainst": 51,
           "goalDifference": -20
-        },
-        {
-          "position": 16,
-          "team": {
-            "id": 1912,
-            "name": "Telstar 1963",
-            "shortName": "Telstar",
-            "tla": "TEL",
-            "crest": "https://crests.football-data.org/1912.png"
-          },
-          "playedGames": 30,
-          "form": null,
-          "won": 6,
-          "draw": 9,
-          "lost": 15,
-          "points": 27,
-          "goalsFor": 39,
-          "goalsAgainst": 52,
-          "goalDifference": -13
         },
         {
           "position": 17,
