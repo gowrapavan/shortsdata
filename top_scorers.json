@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-21T07:18:29.696767Z",
+    "last_updated": "2026-04-22T07:16:50.917909Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -43,6 +43,15 @@
                     "nationality": "Brazil"
                 },
                 {
+                    "player_name": "Danny Welbeck",
+                    "team_name": "Brighton & Hove Albion FC",
+                    "team_crest": "https://crests.football-data.org/397.png",
+                    "goals": 13,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Viktor Gyökeres",
                     "team_name": "Arsenal FC",
                     "team_crest": "https://crests.football-data.org/57.png",
@@ -50,15 +59,6 @@
                     "assists": null,
                     "penalties": 3,
                     "nationality": "Sweden"
-                },
-                {
-                    "player_name": "Danny Welbeck",
-                    "team_name": "Brighton & Hove Albion FC",
-                    "team_crest": "https://crests.football-data.org/397.png",
-                    "goals": 12,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "England"
                 },
                 {
                     "player_name": "Morgan Gibbs-White",
@@ -107,7 +107,7 @@
                     "player_name": "Kylian Mbappé",
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 23,
+                    "goals": 24,
                     "assists": 4,
                     "penalties": 8,
                     "nationality": "France"
@@ -149,6 +149,15 @@
                     "nationality": "Spain"
                 },
                 {
+                    "player_name": "Vinicius Junior",
+                    "team_name": "Real Madrid CF",
+                    "team_crest": "https://crests.football-data.org/86.png",
+                    "goals": 12,
+                    "assists": 5,
+                    "penalties": 4,
+                    "nationality": "Brazil"
+                },
+                {
                     "player_name": "Borja Iglesias",
                     "team_name": "RC Celta de Vigo",
                     "team_crest": "https://crests.football-data.org/558.png",
@@ -182,15 +191,6 @@
                     "goals": 11,
                     "assists": 3,
                     "penalties": 3,
-                    "nationality": "Brazil"
-                },
-                {
-                    "player_name": "Vinicius Junior",
-                    "team_name": "Real Madrid CF",
-                    "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 11,
-                    "assists": 5,
-                    "penalties": 4,
                     "nationality": "Brazil"
                 }
             ]
