@@ -6969,7 +6969,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-04-23",
     "DateTime": "2026-04-23T16:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 718,
@@ -6980,12 +6980,12 @@
     "AwayTeamName": "AZ",
     "HomeTeamLogo": "https://crests.football-data.org/718.png",
     "AwayTeamLogo": "https://crests.football-data.org/682.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "718": 0,
-      "682": 0
+      "718": 1,
+      "682": 1
     },
     "Goals": []
   },
