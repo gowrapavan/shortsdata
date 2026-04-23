@@ -7945,7 +7945,7 @@
   },
   {
     "GameId": 544521,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T12:00:00Z",
@@ -7971,7 +7971,7 @@
   },
   {
     "GameId": 544522,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-04-24",
     "DateTime": "2026-04-24T19:00:00Z",
@@ -7997,7 +7997,7 @@
   },
   {
     "GameId": 544523,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-04-27",
     "DateTime": "2026-04-27T19:00:00Z",
@@ -8023,7 +8023,7 @@
   },
   {
     "GameId": 544524,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T16:30:00Z",
@@ -8049,7 +8049,7 @@
   },
   {
     "GameId": 544525,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T12:00:00Z",
@@ -8075,7 +8075,7 @@
   },
   {
     "GameId": 544526,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T19:00:00Z",
@@ -8101,7 +8101,7 @@
   },
   {
     "GameId": 544527,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T14:15:00Z",
@@ -8127,7 +8127,7 @@
   },
   {
     "GameId": 544528,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T19:00:00Z",
@@ -8153,7 +8153,7 @@
   },
   {
     "GameId": 544529,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T14:15:00Z",
@@ -8179,7 +8179,7 @@
   },
   {
     "GameId": 544530,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T16:30:00Z",
@@ -8257,11 +8257,11 @@
   },
   {
     "GameId": 544533,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-04-23",
     "DateTime": "2026-04-23T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 88,
@@ -8272,11 +8272,11 @@
     "AwayTeamName": "Sevilla FC",
     "HomeTeamLogo": "https://crests.football-data.org/88.png",
     "AwayTeamLogo": "https://crests.football-data.org/559.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 88,
     "Points": {
-      "88": 0,
+      "88": 3,
       "559": 0
     },
     "Goals": []
@@ -8309,11 +8309,11 @@
   },
   {
     "GameId": 544535,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-04-23",
     "DateTime": "2026-04-23T19:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1048,
@@ -8324,12 +8324,12 @@
     "AwayTeamName": "Villarreal CF",
     "HomeTeamLogo": "https://crests.football-data.org/1048.png",
     "AwayTeamLogo": "https://crests.football-data.org/94.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "1048": 0,
-      "94": 0
+      "1048": 1,
+      "94": 1
     },
     "Goals": []
   },
@@ -8413,11 +8413,11 @@
   },
   {
     "GameId": 544539,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-04-23",
     "DateTime": "2026-04-23T18:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 87,
@@ -8428,11 +8428,11 @@
     "AwayTeamName": "RCD Espanyol de Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/87.png",
     "AwayTeamLogo": "https://crests.football-data.org/80.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 87,
     "Points": {
-      "87": 0,
+      "87": 3,
       "80": 0
     },
     "Goals": []
@@ -8465,7 +8465,7 @@
   },
   {
     "GameId": 544541,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T16:30:00Z",
@@ -8491,7 +8491,7 @@
   },
   {
     "GameId": 544542,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T16:30:00Z",
@@ -8517,7 +8517,7 @@
   },
   {
     "GameId": 544543,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T12:00:00Z",
@@ -8543,7 +8543,7 @@
   },
   {
     "GameId": 544544,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T19:00:00Z",
@@ -8569,7 +8569,7 @@
   },
   {
     "GameId": 544545,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T14:15:00Z",
@@ -8595,7 +8595,7 @@
   },
   {
     "GameId": 544546,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-05-01",
     "DateTime": "2026-05-01T19:00:00Z",
@@ -8621,7 +8621,7 @@
   },
   {
     "GameId": 544547,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T14:15:00Z",
@@ -8647,7 +8647,7 @@
   },
   {
     "GameId": 544548,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T19:00:00Z",
@@ -8673,7 +8673,7 @@
   },
   {
     "GameId": 544549,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T12:00:00Z",
@@ -8699,7 +8699,7 @@
   },
   {
     "GameId": 544550,
-    "RoundId": 33,
+    "RoundId": 31,
     "RoundName": "Primera Division",
     "Date": "2026-05-04",
     "DateTime": "2026-05-04T19:00:00Z",

@@ -6913,7 +6913,7 @@
   },
   {
     "GameId": 537711,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T10:15:00Z",
@@ -6939,7 +6939,7 @@
   },
   {
     "GameId": 537712,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T14:30:00Z",
@@ -6991,7 +6991,7 @@
   },
   {
     "GameId": 537714,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T12:30:00Z",
@@ -7017,7 +7017,7 @@
   },
   {
     "GameId": 537715,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T18:00:00Z",
@@ -7043,11 +7043,11 @@
   },
   {
     "GameId": 537716,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-04-23",
     "DateTime": "2026-04-23T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 674,
@@ -7058,18 +7058,18 @@
     "AwayTeamName": "PEC Zwolle",
     "HomeTeamLogo": "https://crests.football-data.org/674.png",
     "AwayTeamLogo": "https://crests.football-data.org/684.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 6,
+    "AwayTeamScore": 1,
+    "Result": 674,
     "Points": {
-      "674": 0,
+      "674": 3,
       "684": 0
     },
     "Goals": []
   },
   {
     "GameId": 537717,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T16:45:00Z",
@@ -7121,7 +7121,7 @@
   },
   {
     "GameId": 537719,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T19:00:00Z",
@@ -7147,7 +7147,7 @@
   },
   {
     "GameId": 537720,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T18:00:00Z",
@@ -7173,7 +7173,7 @@
   },
   {
     "GameId": 537721,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T14:45:00Z",
@@ -7199,7 +7199,7 @@
   },
   {
     "GameId": 537722,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T16:45:00Z",
@@ -7225,7 +7225,7 @@
   },
   {
     "GameId": 537723,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T14:30:00Z",
@@ -7251,7 +7251,7 @@
   },
   {
     "GameId": 537724,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T10:15:00Z",
@@ -7277,7 +7277,7 @@
   },
   {
     "GameId": 537725,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T12:30:00Z",
@@ -7303,7 +7303,7 @@
   },
   {
     "GameId": 537726,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T19:00:00Z",
@@ -7329,7 +7329,7 @@
   },
   {
     "GameId": 537727,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T12:30:00Z",
@@ -7355,7 +7355,7 @@
   },
   {
     "GameId": 537728,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T14:45:00Z",
