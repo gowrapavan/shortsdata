@@ -8511,7 +8511,7 @@
     "RoundName": "Premier League",
     "Date": "2026-04-24",
     "DateTime": "2026-04-24T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 71,
@@ -8522,12 +8522,12 @@
     "AwayTeamName": "Nottingham Forest FC",
     "HomeTeamLogo": "https://crests.football-data.org/71.png",
     "AwayTeamLogo": "https://crests.football-data.org/351.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 5,
+    "Result": 351,
     "Points": {
       "71": 0,
-      "351": 0
+      "351": 3
     },
     "Goals": []
   },

@@ -8739,7 +8739,7 @@
     "RoundName": "Serie A",
     "Date": "2026-04-24",
     "DateTime": "2026-04-24T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 113,
@@ -8750,11 +8750,11 @@
     "AwayTeamName": "US Cremonese",
     "HomeTeamLogo": "https://crests.football-data.org/113.png",
     "AwayTeamLogo": "https://crests.football-data.org/457.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 0,
+    "Result": 113,
     "Points": {
-      "113": 0,
+      "113": 3,
       "457": 0
     },
     "Goals": []

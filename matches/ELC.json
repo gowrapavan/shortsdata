@@ -13669,7 +13669,7 @@
     "RoundName": "Championship",
     "Date": "2026-04-24",
     "DateTime": "2026-04-24T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 338,
@@ -13680,12 +13680,12 @@
     "AwayTeamName": "Millwall FC",
     "HomeTeamLogo": "https://crests.football-data.org/338.png",
     "AwayTeamLogo": "https://crests.football-data.org/384.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "338": 0,
-      "384": 0
+      "338": 1,
+      "384": 1
     },
     "Goals": []
   },
