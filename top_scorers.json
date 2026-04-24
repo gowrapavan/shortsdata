@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-23T07:18:43.885352Z",
+    "last_updated": "2026-04-24T07:45:03.641091Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -532,9 +532,18 @@
                     "team_name": "PSV",
                     "team_crest": "https://crests.football-data.org/674.png",
                     "goals": 13,
-                    "assists": 4,
+                    "assists": 5,
                     "penalties": null,
                     "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Ricardo Pepi",
+                    "team_name": "PSV",
+                    "team_crest": "https://crests.football-data.org/674.png",
+                    "goals": 13,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "USA"
                 },
                 {
                     "player_name": "Jacob Trenskow",
@@ -571,15 +580,6 @@
                     "assists": 3,
                     "penalties": 3,
                     "nationality": "Norway"
-                },
-                {
-                    "player_name": "Ricardo Pepi",
-                    "team_name": "PSV",
-                    "team_crest": "https://crests.football-data.org/674.png",
-                    "goals": 11,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "USA"
                 }
             ]
         },
