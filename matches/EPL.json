@@ -8563,7 +8563,7 @@
     "RoundName": "Premier League",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 57,
@@ -8574,11 +8574,11 @@
     "AwayTeamName": "Newcastle United FC",
     "HomeTeamLogo": "https://crests.football-data.org/57.png",
     "AwayTeamLogo": "https://crests.football-data.org/67.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 57,
     "Points": {
-      "57": 0,
+      "57": 3,
       "67": 0
     },
     "Goals": []
@@ -8641,7 +8641,7 @@
     "RoundName": "Premier League",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 64,
@@ -8652,11 +8652,11 @@
     "AwayTeamName": "Crystal Palace FC",
     "HomeTeamLogo": "https://crests.football-data.org/64.png",
     "AwayTeamLogo": "https://crests.football-data.org/354.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 64,
     "Points": {
-      "64": 0,
+      "64": 3,
       "354": 0
     },
     "Goals": []
@@ -8693,7 +8693,7 @@
     "RoundName": "Premier League",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 563,
@@ -8704,11 +8704,11 @@
     "AwayTeamName": "Everton FC",
     "HomeTeamLogo": "https://crests.football-data.org/563.png",
     "AwayTeamLogo": "https://crests.football-data.org/62.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 563,
     "Points": {
-      "563": 0,
+      "563": 3,
       "62": 0
     },
     "Goals": []
@@ -8719,7 +8719,7 @@
     "RoundName": "Premier League",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 76,
@@ -8731,11 +8731,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/76.png",
     "AwayTeamLogo": "https://crests.football-data.org/73.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 73,
     "Points": {
       "76": 0,
-      "73": 0
+      "73": 3
     },
     "Goals": []
   },

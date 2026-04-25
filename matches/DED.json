@@ -6943,7 +6943,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 675,
@@ -6954,11 +6954,11 @@
     "AwayTeamName": "FC Groningen",
     "HomeTeamLogo": "https://crests.football-data.org/675.png",
     "AwayTeamLogo": "https://crests.football-data.org/677.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 675,
     "Points": {
-      "675": 0,
+      "675": 3,
       "677": 0
     },
     "Goals": []
@@ -7032,8 +7032,8 @@
     "AwayTeamName": "AFC Ajax",
     "HomeTeamLogo": "https://crests.football-data.org/681.png",
     "AwayTeamLogo": "https://crests.football-data.org/678.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "681": 0,
@@ -7084,8 +7084,8 @@
     "AwayTeamName": "Fortuna Sittard",
     "HomeTeamLogo": "https://crests.football-data.org/673.png",
     "AwayTeamLogo": "https://crests.football-data.org/1920.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "673": 0,

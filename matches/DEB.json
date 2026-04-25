@@ -7161,7 +7161,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 7,
@@ -7172,12 +7172,12 @@
     "AwayTeamName": "TSG 1899 Hoffenheim",
     "HomeTeamLogo": "https://crests.football-data.org/7.png",
     "AwayTeamLogo": "https://crests.football-data.org/2.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 2,
     "Points": {
       "7": 0,
-      "2": 0
+      "2": 3
     },
     "Goals": []
   },
