@@ -153,13 +153,13 @@
           },
           "playedGames": 31,
           "form": null,
-          "won": 11,
-          "draw": 7,
+          "won": 12,
+          "draw": 6,
           "lost": 13,
-          "points": 40,
-          "goalsFor": 36,
+          "points": 42,
+          "goalsFor": 38,
           "goalsAgainst": 43,
-          "goalDifference": -7
+          "goalDifference": -5
         },
         {
           "position": 8,
@@ -221,25 +221,6 @@
         {
           "position": 11,
           "team": {
-            "id": 496,
-            "name": "Rio Ave FC",
-            "shortName": "Rio Ave",
-            "tla": "RIO",
-            "crest": "https://crests.football-data.org/496.png"
-          },
-          "playedGames": 31,
-          "form": null,
-          "won": 8,
-          "draw": 11,
-          "lost": 12,
-          "points": 35,
-          "goalsFor": 33,
-          "goalsAgainst": 50,
-          "goalDifference": -17
-        },
-        {
-          "position": 12,
-          "team": {
             "id": 712,
             "name": "FC Arouca",
             "shortName": "Arouca",
@@ -255,6 +236,25 @@
           "goalsFor": 39,
           "goalsAgainst": 60,
           "goalDifference": -21
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": 496,
+            "name": "Rio Ave FC",
+            "shortName": "Rio Ave",
+            "tla": "RIO",
+            "crest": "https://crests.football-data.org/496.png"
+          },
+          "playedGames": 31,
+          "form": null,
+          "won": 8,
+          "draw": 10,
+          "lost": 13,
+          "points": 34,
+          "goalsFor": 33,
+          "goalsAgainst": 52,
+          "goalDifference": -19
         },
         {
           "position": 13,
