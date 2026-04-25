@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-24T07:45:03.641091Z",
+    "last_updated": "2026-04-25T06:59:50.002724Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -52,6 +52,15 @@
                     "nationality": "England"
                 },
                 {
+                    "player_name": "Morgan Gibbs-White",
+                    "team_name": "Nottingham Forest FC",
+                    "team_crest": "https://crests.football-data.org/351.png",
+                    "goals": 13,
+                    "assists": 4,
+                    "penalties": 1,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Viktor Gyökeres",
                     "team_name": "Arsenal FC",
                     "team_crest": "https://crests.football-data.org/57.png",
@@ -59,15 +68,6 @@
                     "assists": null,
                     "penalties": 3,
                     "nationality": "Sweden"
-                },
-                {
-                    "player_name": "Morgan Gibbs-White",
-                    "team_name": "Nottingham Forest FC",
-                    "team_crest": "https://crests.football-data.org/351.png",
-                    "goals": 12,
-                    "assists": 3,
-                    "penalties": 1,
-                    "nationality": "England"
                 },
                 {
                     "player_name": "Hugo Ekitike",
@@ -152,7 +152,7 @@
                     "player_name": "Vinicius Junior",
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 12,
+                    "goals": 13,
                     "assists": 5,
                     "penalties": 4,
                     "nationality": "Brazil"
@@ -237,6 +237,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Rasmus Højlund",
+                    "team_name": "SSC Napoli",
+                    "team_crest": "https://crests.football-data.org/113.png",
+                    "goals": 11,
+                    "assists": 3,
+                    "penalties": 1,
+                    "nationality": "Denmark"
+                },
+                {
                     "player_name": "Keinan Davis",
                     "team_name": "Udinese Calcio",
                     "team_crest": "https://crests.football-data.org/115.png",
@@ -253,15 +262,6 @@
                     "assists": 6,
                     "penalties": 1,
                     "nationality": "Turkey"
-                },
-                {
-                    "player_name": "Rasmus Højlund",
-                    "team_name": "SSC Napoli",
-                    "team_crest": "https://crests.football-data.org/113.png",
-                    "goals": 10,
-                    "assists": 3,
-                    "penalties": 1,
-                    "nationality": "Denmark"
                 },
                 {
                     "player_name": "Nikola Krstović",
@@ -282,13 +282,13 @@
                     "nationality": "Netherlands"
                 },
                 {
-                    "player_name": "Hakan Çalhanoğlu",
-                    "team_name": "FC Internazionale Milano",
-                    "team_crest": "https://crests.football-data.org/108.png",
+                    "player_name": "Scott McTominay",
+                    "team_name": "SSC Napoli",
+                    "team_crest": "https://crests.football-data.org/113.png",
                     "goals": 9,
-                    "assists": 4,
-                    "penalties": 4,
-                    "nationality": "Turkey"
+                    "assists": 3,
+                    "penalties": null,
+                    "nationality": "Scotland"
                 }
             ]
         },
@@ -365,7 +365,7 @@
                     "team_name": "RB Leipzig",
                     "team_crest": "https://crests.football-data.org/721.png",
                     "goals": 12,
-                    "assists": 6,
+                    "assists": 7,
                     "penalties": null,
                     "nationality": "Ivory Coast"
                 },
@@ -449,6 +449,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Florian Thauvin",
+                    "team_name": "Racing Club de Lens",
+                    "team_crest": "https://crests.football-data.org/546.png",
+                    "goals": 10,
+                    "assists": 5,
+                    "penalties": 2,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Bradley Barcola",
                     "team_name": "Paris Saint-Germain FC",
                     "team_crest": "https://crests.football-data.org/524.png",
@@ -474,15 +483,6 @@
                     "assists": 3,
                     "penalties": null,
                     "nationality": "Czech Republic"
-                },
-                {
-                    "player_name": "Lassine Sinayoko",
-                    "team_name": "AJ Auxerre",
-                    "team_crest": "https://crests.football-data.org/519.png",
-                    "goals": 9,
-                    "assists": 3,
-                    "penalties": 3,
-                    "nationality": "Mali"
                 }
             ]
         },
