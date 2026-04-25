@@ -6913,7 +6913,7 @@
   },
   {
     "GameId": 537711,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T10:15:00Z",
@@ -6991,7 +6991,7 @@
   },
   {
     "GameId": 537714,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T12:30:00Z",
@@ -7017,11 +7017,11 @@
   },
   {
     "GameId": 537715,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T18:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 681,
@@ -7033,11 +7033,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/681.png",
     "AwayTeamLogo": "https://crests.football-data.org/678.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 678,
     "Points": {
       "681": 0,
-      "678": 0
+      "678": 3
     },
     "Goals": []
   },
@@ -7069,11 +7069,11 @@
   },
   {
     "GameId": 537717,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T16:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 673,
@@ -7086,9 +7086,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/1920.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 673,
     "Points": {
-      "673": 0,
+      "673": 3,
       "1920": 0
     },
     "Goals": []
@@ -7121,11 +7121,11 @@
   },
   {
     "GameId": 537719,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-04-25",
     "DateTime": "2026-04-25T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 666,
@@ -7136,18 +7136,18 @@
     "AwayTeamName": "NEC",
     "HomeTeamLogo": "https://crests.football-data.org/666.png",
     "AwayTeamLogo": "https://crests.football-data.org/1915.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "666": 0,
-      "1915": 0
+      "666": 1,
+      "1915": 1
     },
     "Goals": []
   },
   {
     "GameId": 537720,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T18:00:00Z",
@@ -7173,7 +7173,7 @@
   },
   {
     "GameId": 537721,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T14:45:00Z",
@@ -7199,7 +7199,7 @@
   },
   {
     "GameId": 537722,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T16:45:00Z",
@@ -7225,7 +7225,7 @@
   },
   {
     "GameId": 537723,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T14:30:00Z",
@@ -7251,7 +7251,7 @@
   },
   {
     "GameId": 537724,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T10:15:00Z",
@@ -7277,7 +7277,7 @@
   },
   {
     "GameId": 537725,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T12:30:00Z",
@@ -7303,7 +7303,7 @@
   },
   {
     "GameId": 537726,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T19:00:00Z",
@@ -7329,7 +7329,7 @@
   },
   {
     "GameId": 537727,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T12:30:00Z",
@@ -7355,7 +7355,7 @@
   },
   {
     "GameId": 537728,
-    "RoundId": 31,
+    "RoundId": 30,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T14:45:00Z",
