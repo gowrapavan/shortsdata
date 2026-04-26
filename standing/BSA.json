@@ -94,15 +94,15 @@
             "tla": "PAU",
             "crest": "https://crests.football-data.org/1776.png"
           },
-          "playedGames": 12,
+          "playedGames": 13,
           "form": null,
-          "won": 6,
+          "won": 7,
           "draw": 2,
           "lost": 4,
-          "points": 20,
-          "goalsFor": 16,
+          "points": 23,
+          "goalsFor": 17,
           "goalsAgainst": 11,
-          "goalDifference": 5
+          "goalDifference": 6
         },
         {
           "position": 5,
@@ -116,12 +116,12 @@
           "playedGames": 12,
           "form": null,
           "won": 6,
-          "draw": 2,
-          "lost": 4,
-          "points": 20,
-          "goalsFor": 15,
+          "draw": 3,
+          "lost": 3,
+          "points": 21,
+          "goalsFor": 17,
           "goalsAgainst": 14,
-          "goalDifference": 1
+          "goalDifference": 3
         },
         {
           "position": 6,
@@ -195,8 +195,8 @@
           "draw": 2,
           "lost": 5,
           "points": 17,
-          "goalsFor": 22,
-          "goalsAgainst": 22,
+          "goalsFor": 24,
+          "goalsAgainst": 24,
           "goalDifference": 0
         },
         {
@@ -221,25 +221,6 @@
         {
           "position": 11,
           "team": {
-            "id": 6685,
-            "name": "Santos FC",
-            "shortName": "Santos",
-            "tla": "SAN",
-            "crest": "https://crests.football-data.org/6685.png"
-          },
-          "playedGames": 13,
-          "form": null,
-          "won": 4,
-          "draw": 4,
-          "lost": 5,
-          "points": 16,
-          "goalsFor": 18,
-          "goalsAgainst": 19,
-          "goalDifference": -1
-        },
-        {
-          "position": 12,
-          "team": {
             "id": 1771,
             "name": "Cruzeiro EC",
             "shortName": "Cruzeiro",
@@ -257,7 +238,7 @@
           "goalDifference": -4
         },
         {
-          "position": 13,
+          "position": 12,
           "team": {
             "id": 1782,
             "name": "EC Vitória",
@@ -276,7 +257,7 @@
           "goalDifference": -3
         },
         {
-          "position": 14,
+          "position": 13,
           "team": {
             "id": 1766,
             "name": "CA Mineiro",
@@ -295,7 +276,7 @@
           "goalDifference": -1
         },
         {
-          "position": 15,
+          "position": 14,
           "team": {
             "id": 6684,
             "name": "SC Internacional",
@@ -309,9 +290,28 @@
           "draw": 5,
           "lost": 5,
           "points": 14,
-          "goalsFor": 10,
-          "goalsAgainst": 12,
+          "goalsFor": 12,
+          "goalsAgainst": 14,
           "goalDifference": -2
+        },
+        {
+          "position": 15,
+          "team": {
+            "id": 6685,
+            "name": "Santos FC",
+            "shortName": "Santos",
+            "tla": "SAN",
+            "crest": "https://crests.football-data.org/6685.png"
+          },
+          "playedGames": 13,
+          "form": null,
+          "won": 3,
+          "draw": 5,
+          "lost": 5,
+          "points": 14,
+          "goalsFor": 18,
+          "goalsAgainst": 21,
+          "goalDifference": -3
         },
         {
           "position": 16,
@@ -360,15 +360,15 @@
             "tla": "MIR",
             "crest": "https://crests.football-data.org/4364.png"
           },
-          "playedGames": 11,
+          "playedGames": 12,
           "form": null,
           "won": 2,
           "draw": 3,
-          "lost": 6,
+          "lost": 7,
           "points": 9,
           "goalsFor": 13,
-          "goalsAgainst": 17,
-          "goalDifference": -4
+          "goalsAgainst": 18,
+          "goalDifference": -5
         },
         {
           "position": 19,
