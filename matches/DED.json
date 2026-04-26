@@ -6917,7 +6917,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T10:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 670,
@@ -6928,11 +6928,11 @@
     "AwayTeamName": "FC Utrecht",
     "HomeTeamLogo": "https://crests.football-data.org/670.png",
     "AwayTeamLogo": "https://crests.football-data.org/676.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 5,
+    "AwayTeamScore": 0,
+    "Result": 670,
     "Points": {
-      "670": 0,
+      "670": 3,
       "676": 0
     },
     "Goals": []
@@ -7006,8 +7006,8 @@
     "AwayTeamName": "FC Volendam",
     "HomeTeamLogo": "https://crests.football-data.org/671.png",
     "AwayTeamLogo": "https://crests.football-data.org/1919.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "671": 0,
