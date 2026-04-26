@@ -7065,7 +7065,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 516,
@@ -7076,12 +7076,12 @@
     "AwayTeamName": "OGC Nice",
     "HomeTeamLogo": "https://crests.football-data.org/516.png",
     "AwayTeamLogo": "https://crests.football-data.org/522.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "516": 0,
-      "522": 0
+      "516": 1,
+      "522": 1
     },
     "Goals": []
   },

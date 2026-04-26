@@ -8531,7 +8531,7 @@
     "RoundName": "Serie A",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 98,
@@ -8542,12 +8542,12 @@
     "AwayTeamName": "Juventus FC",
     "HomeTeamLogo": "https://crests.football-data.org/98.png",
     "AwayTeamLogo": "https://crests.football-data.org/109.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "98": 0,
-      "109": 0
+      "98": 1,
+      "109": 1
     },
     "Goals": []
   },
