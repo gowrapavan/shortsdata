@@ -75,15 +75,15 @@
             "tla": "VIL",
             "crest": "https://crests.football-data.org/94.png"
           },
-          "playedGames": 32,
+          "playedGames": 33,
           "form": null,
-          "won": 19,
+          "won": 20,
           "draw": 5,
           "lost": 8,
-          "points": 62,
-          "goalsFor": 57,
+          "points": 65,
+          "goalsFor": 59,
           "goalsAgainst": 37,
-          "goalDifference": 20
+          "goalDifference": 22
         },
         {
           "position": 4,
@@ -151,15 +151,15 @@
             "tla": "CEL",
             "crest": "https://crests.football-data.org/558.png"
           },
-          "playedGames": 32,
+          "playedGames": 33,
           "form": null,
           "won": 11,
           "draw": 11,
-          "lost": 10,
+          "lost": 11,
           "points": 44,
           "goalsFor": 44,
-          "goalsAgainst": 41,
-          "goalDifference": 3
+          "goalsAgainst": 43,
+          "goalDifference": 1
         },
         {
           "position": 8,
@@ -170,18 +170,37 @@
             "tla": "RSO",
             "crest": "https://crests.football-data.org/92.png"
           },
-          "playedGames": 32,
+          "playedGames": 33,
           "form": null,
           "won": 11,
-          "draw": 9,
+          "draw": 10,
           "lost": 12,
-          "points": 42,
-          "goalsFor": 49,
-          "goalsAgainst": 49,
+          "points": 43,
+          "goalsFor": 52,
+          "goalsAgainst": 52,
           "goalDifference": 0
         },
         {
           "position": 9,
+          "team": {
+            "id": 79,
+            "name": "CA Osasuna",
+            "shortName": "Osasuna",
+            "tla": "OSA",
+            "crest": "https://crests.football-data.org/79.png"
+          },
+          "playedGames": 33,
+          "form": null,
+          "won": 11,
+          "draw": 9,
+          "lost": 13,
+          "points": 42,
+          "goalsFor": 39,
+          "goalsAgainst": 40,
+          "goalDifference": -1
+        },
+        {
+          "position": 10,
           "team": {
             "id": 77,
             "name": "Athletic Club",
@@ -198,25 +217,6 @@
           "goalsFor": 36,
           "goalsAgainst": 48,
           "goalDifference": -12
-        },
-        {
-          "position": 10,
-          "team": {
-            "id": 79,
-            "name": "CA Osasuna",
-            "shortName": "Osasuna",
-            "tla": "OSA",
-            "crest": "https://crests.football-data.org/79.png"
-          },
-          "playedGames": 32,
-          "form": null,
-          "won": 10,
-          "draw": 9,
-          "lost": 13,
-          "points": 39,
-          "goalsFor": 37,
-          "goalsAgainst": 39,
-          "goalDifference": -2
         },
         {
           "position": 11,
@@ -246,14 +246,14 @@
             "tla": "RAY",
             "crest": "https://crests.football-data.org/87.png"
           },
-          "playedGames": 32,
+          "playedGames": 33,
           "form": null,
           "won": 9,
-          "draw": 11,
+          "draw": 12,
           "lost": 12,
-          "points": 38,
-          "goalsFor": 30,
-          "goalsAgainst": 38,
+          "points": 39,
+          "goalsFor": 33,
+          "goalsAgainst": 41,
           "goalDifference": -8
         },
         {
@@ -297,6 +297,25 @@
         {
           "position": 15,
           "team": {
+            "id": 285,
+            "name": "Elche CF",
+            "shortName": "Elche",
+            "tla": "ELC",
+            "crest": "https://crests.football-data.org/285.png"
+          },
+          "playedGames": 33,
+          "form": null,
+          "won": 9,
+          "draw": 11,
+          "lost": 13,
+          "points": 38,
+          "goalsFor": 44,
+          "goalsAgainst": 50,
+          "goalDifference": -6
+        },
+        {
+          "position": 16,
+          "team": {
             "id": 263,
             "name": "Deportivo Alavés",
             "shortName": "Alavés",
@@ -314,7 +333,7 @@
           "goalDifference": -11
         },
         {
-          "position": 16,
+          "position": 17,
           "team": {
             "id": 89,
             "name": "RCD Mallorca",
@@ -333,25 +352,6 @@
           "goalDifference": -10
         },
         {
-          "position": 17,
-          "team": {
-            "id": 285,
-            "name": "Elche CF",
-            "shortName": "Elche",
-            "tla": "ELC",
-            "crest": "https://crests.football-data.org/285.png"
-          },
-          "playedGames": 32,
-          "form": null,
-          "won": 8,
-          "draw": 11,
-          "lost": 13,
-          "points": 35,
-          "goalsFor": 42,
-          "goalsAgainst": 49,
-          "goalDifference": -7
-        },
-        {
           "position": 18,
           "team": {
             "id": 559,
@@ -360,15 +360,15 @@
             "tla": "SEV",
             "crest": "https://crests.football-data.org/559.png"
           },
-          "playedGames": 32,
+          "playedGames": 33,
           "form": null,
           "won": 9,
           "draw": 7,
-          "lost": 16,
+          "lost": 17,
           "points": 34,
-          "goalsFor": 39,
-          "goalsAgainst": 53,
-          "goalDifference": -14
+          "goalsFor": 40,
+          "goalsAgainst": 55,
+          "goalDifference": -15
         },
         {
           "position": 19,
@@ -398,15 +398,15 @@
             "tla": "OVI",
             "crest": "https://crests.football-data.org/1048.png"
           },
-          "playedGames": 32,
+          "playedGames": 33,
           "form": null,
           "won": 6,
           "draw": 10,
-          "lost": 16,
+          "lost": 17,
           "points": 28,
-          "goalsFor": 25,
-          "goalsAgainst": 49,
-          "goalDifference": -24
+          "goalsFor": 26,
+          "goalsAgainst": 51,
+          "goalDifference": -25
         }
       ]
     }

@@ -170,15 +170,15 @@
             "tla": "UTR",
             "crest": "https://crests.football-data.org/676.png"
           },
-          "playedGames": 30,
+          "playedGames": 31,
           "form": null,
           "won": 12,
           "draw": 8,
-          "lost": 10,
+          "lost": 11,
           "points": 44,
           "goalsFor": 49,
-          "goalsAgainst": 36,
-          "goalDifference": 13
+          "goalsAgainst": 41,
+          "goalDifference": 8
         },
         {
           "position": 9,
@@ -278,6 +278,44 @@
         {
           "position": 14,
           "team": {
+            "id": 670,
+            "name": "SBV Excelsior",
+            "shortName": "Excelsior",
+            "tla": "EXC",
+            "crest": "https://crests.football-data.org/670.png"
+          },
+          "playedGames": 31,
+          "form": null,
+          "won": 8,
+          "draw": 7,
+          "lost": 16,
+          "points": 31,
+          "goalsFor": 36,
+          "goalsAgainst": 51,
+          "goalDifference": -15
+        },
+        {
+          "position": 15,
+          "team": {
+            "id": 1919,
+            "name": "FC Volendam",
+            "shortName": "Volendam",
+            "tla": "VOL",
+            "crest": "https://crests.football-data.org/1919.png"
+          },
+          "playedGames": 31,
+          "form": null,
+          "won": 8,
+          "draw": 7,
+          "lost": 16,
+          "points": 31,
+          "goalsFor": 33,
+          "goalsAgainst": 50,
+          "goalDifference": -17
+        },
+        {
+          "position": 16,
+          "team": {
             "id": 1912,
             "name": "Telstar 1963",
             "shortName": "Telstar",
@@ -293,44 +331,6 @@
           "goalsFor": 43,
           "goalsAgainst": 53,
           "goalDifference": -10
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 1919,
-            "name": "FC Volendam",
-            "shortName": "Volendam",
-            "tla": "VOL",
-            "crest": "https://crests.football-data.org/1919.png"
-          },
-          "playedGames": 30,
-          "form": null,
-          "won": 7,
-          "draw": 7,
-          "lost": 16,
-          "points": 28,
-          "goalsFor": 31,
-          "goalsAgainst": 50,
-          "goalDifference": -19
-        },
-        {
-          "position": 16,
-          "team": {
-            "id": 670,
-            "name": "SBV Excelsior",
-            "shortName": "Excelsior",
-            "tla": "EXC",
-            "crest": "https://crests.football-data.org/670.png"
-          },
-          "playedGames": 30,
-          "form": null,
-          "won": 7,
-          "draw": 7,
-          "lost": 16,
-          "points": 28,
-          "goalsFor": 31,
-          "goalsAgainst": 51,
-          "goalDifference": -20
         },
         {
           "position": 17,
@@ -360,15 +360,15 @@
             "tla": "HER",
             "crest": "https://crests.football-data.org/671.png"
           },
-          "playedGames": 30,
+          "playedGames": 31,
           "form": null,
           "won": 5,
           "draw": 4,
-          "lost": 21,
+          "lost": 22,
           "points": 19,
           "goalsFor": 34,
-          "goalsAgainst": 77,
-          "goalDifference": -43
+          "goalsAgainst": 79,
+          "goalDifference": -45
         }
       ]
     }

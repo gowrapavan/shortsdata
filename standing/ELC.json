@@ -37,15 +37,15 @@
             "tla": "COV",
             "crest": "https://crests.football-data.org/1076.png"
           },
-          "playedGames": 44,
+          "playedGames": 45,
           "form": null,
-          "won": 26,
+          "won": 27,
           "draw": 11,
           "lost": 7,
-          "points": 89,
-          "goalsFor": 90,
-          "goalsAgainst": 44,
-          "goalDifference": 46
+          "points": 92,
+          "goalsFor": 93,
+          "goalsAgainst": 45,
+          "goalDifference": 48
         },
         {
           "position": 2,
@@ -132,15 +132,15 @@
             "tla": "WRE",
             "crest": "https://crests.football-data.org/404.png"
           },
-          "playedGames": 44,
+          "playedGames": 45,
           "form": null,
           "won": 19,
           "draw": 13,
-          "lost": 12,
+          "lost": 13,
           "points": 70,
-          "goalsFor": 66,
-          "goalsAgainst": 60,
-          "goalDifference": 6
+          "goalsFor": 67,
+          "goalsAgainst": 63,
+          "goalDifference": 4
         },
         {
           "position": 7,
@@ -373,25 +373,6 @@
         {
           "position": 19,
           "team": {
-            "id": 74,
-            "name": "West Bromwich Albion FC",
-            "shortName": "West Brom",
-            "tla": "WBA",
-            "crest": "https://crests.football-data.org/74.png"
-          },
-          "playedGames": 45,
-          "form": null,
-          "won": 13,
-          "draw": 14,
-          "lost": 18,
-          "points": 53,
-          "goalsFor": 47,
-          "goalsAgainst": 56,
-          "goalDifference": -9
-        },
-        {
-          "position": 20,
-          "team": {
             "id": 348,
             "name": "Charlton Athletic FC",
             "shortName": "Charlton",
@@ -409,7 +390,7 @@
           "goalDifference": -12
         },
         {
-          "position": 21,
+          "position": 20,
           "team": {
             "id": 59,
             "name": "Blackburn Rovers FC",
@@ -426,6 +407,25 @@
           "goalsFor": 42,
           "goalsAgainst": 55,
           "goalDifference": -13
+        },
+        {
+          "position": 21,
+          "team": {
+            "id": 74,
+            "name": "West Bromwich Albion FC",
+            "shortName": "West Brom",
+            "tla": "WBA",
+            "crest": "https://crests.football-data.org/74.png"
+          },
+          "playedGames": 45,
+          "form": null,
+          "won": 13,
+          "draw": 14,
+          "lost": 18,
+          "points": 51,
+          "goalsFor": 47,
+          "goalsAgainst": 56,
+          "goalDifference": -9
         },
         {
           "position": 22,
