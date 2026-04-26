@@ -37,15 +37,15 @@
             "tla": "PAL",
             "crest": "https://crests.football-data.org/1769.png"
           },
-          "playedGames": 12,
+          "playedGames": 13,
           "form": null,
-          "won": 9,
+          "won": 10,
           "draw": 2,
           "lost": 1,
-          "points": 29,
-          "goalsFor": 22,
+          "points": 32,
+          "goalsFor": 23,
           "goalsAgainst": 10,
-          "goalDifference": 12
+          "goalDifference": 13
         },
         {
           "position": 2,
@@ -132,14 +132,14 @@
             "tla": "CAP",
             "crest": "https://crests.football-data.org/1768.png"
           },
-          "playedGames": 12,
+          "playedGames": 13,
           "form": null,
           "won": 6,
-          "draw": 1,
+          "draw": 2,
           "lost": 5,
-          "points": 19,
-          "goalsFor": 17,
-          "goalsAgainst": 14,
+          "points": 20,
+          "goalsFor": 18,
+          "goalsAgainst": 15,
           "goalDifference": 3
         },
         {
@@ -164,25 +164,6 @@
         {
           "position": 8,
           "team": {
-            "id": 4286,
-            "name": "RB Bragantino",
-            "shortName": "Bragantino",
-            "tla": "RBB",
-            "crest": "https://crests.football-data.org/4286.png"
-          },
-          "playedGames": 12,
-          "form": null,
-          "won": 5,
-          "draw": 2,
-          "lost": 5,
-          "points": 17,
-          "goalsFor": 15,
-          "goalsAgainst": 14,
-          "goalDifference": 1
-        },
-        {
-          "position": 9,
-          "team": {
             "id": 1770,
             "name": "Botafogo FR",
             "shortName": "Botafogo",
@@ -197,6 +178,25 @@
           "points": 17,
           "goalsFor": 24,
           "goalsAgainst": 24,
+          "goalDifference": 0
+        },
+        {
+          "position": 9,
+          "team": {
+            "id": 4286,
+            "name": "RB Bragantino",
+            "shortName": "Bragantino",
+            "tla": "RBB",
+            "crest": "https://crests.football-data.org/4286.png"
+          },
+          "playedGames": 13,
+          "form": null,
+          "won": 5,
+          "draw": 2,
+          "lost": 6,
+          "points": 17,
+          "goalsFor": 15,
+          "goalsAgainst": 15,
           "goalDifference": 0
         },
         {
@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 1782,
+            "name": "EC Vitória",
+            "shortName": "Vitória",
+            "tla": "VIT",
+            "crest": "https://crests.football-data.org/1782.png"
+          },
+          "playedGames": 12,
+          "form": null,
+          "won": 4,
+          "draw": 4,
+          "lost": 4,
+          "points": 16,
+          "goalsFor": 12,
+          "goalsAgainst": 15,
+          "goalDifference": -3
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 1771,
             "name": "Cruzeiro EC",
             "shortName": "Cruzeiro",
@@ -255,25 +274,6 @@
           "goalsFor": 17,
           "goalsAgainst": 21,
           "goalDifference": -4
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 1782,
-            "name": "EC Vitória",
-            "shortName": "Vitória",
-            "tla": "VIT",
-            "crest": "https://crests.football-data.org/1782.png"
-          },
-          "playedGames": 11,
-          "form": null,
-          "won": 4,
-          "draw": 3,
-          "lost": 4,
-          "points": 15,
-          "goalsFor": 11,
-          "goalsAgainst": 14,
-          "goalDifference": -3
         },
         {
           "position": 14,
