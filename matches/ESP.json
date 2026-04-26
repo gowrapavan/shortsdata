@@ -8053,7 +8053,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-04-26",
     "DateTime": "2026-04-26T12:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 87,
@@ -8064,12 +8064,12 @@
     "AwayTeamName": "Real Sociedad de Fútbol",
     "HomeTeamLogo": "https://crests.football-data.org/87.png",
     "AwayTeamLogo": "https://crests.football-data.org/92.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
-      "87": 0,
-      "92": 0
+      "87": 1,
+      "92": 1
     },
     "Goals": []
   },
@@ -8168,8 +8168,8 @@
     "AwayTeamName": "Elche CF",
     "HomeTeamLogo": "https://crests.football-data.org/1048.png",
     "AwayTeamLogo": "https://crests.football-data.org/285.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "1048": 0,
