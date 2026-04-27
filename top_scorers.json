@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-26T07:14:06.919392Z",
+    "last_updated": "2026-04-27T08:00:28.020570Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -149,6 +149,15 @@
                     "nationality": "Spain"
                 },
                 {
+                    "player_name": "Mikel Oyarzabal",
+                    "team_name": "Real Sociedad de Fútbol",
+                    "team_crest": "https://crests.football-data.org/92.png",
+                    "goals": 14,
+                    "assists": 3,
+                    "penalties": 6,
+                    "nationality": "Spain"
+                },
+                {
                     "player_name": "Vinicius Junior",
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
@@ -158,6 +167,15 @@
                     "nationality": "Brazil"
                 },
                 {
+                    "player_name": "Borja Iglesias",
+                    "team_name": "RC Celta de Vigo",
+                    "team_crest": "https://crests.football-data.org/558.png",
+                    "goals": 13,
+                    "assists": 1,
+                    "penalties": 4,
+                    "nationality": "Spain"
+                },
+                {
                     "player_name": "Alexander Sørloth",
                     "team_name": "Club Atlético de Madrid",
                     "team_crest": "https://crests.football-data.org/78.png",
@@ -165,24 +183,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Norway"
-                },
-                {
-                    "player_name": "Borja Iglesias",
-                    "team_name": "RC Celta de Vigo",
-                    "team_crest": "https://crests.football-data.org/558.png",
-                    "goals": 12,
-                    "assists": 1,
-                    "penalties": 3,
-                    "nationality": "Spain"
-                },
-                {
-                    "player_name": "Mikel Oyarzabal",
-                    "team_name": "Real Sociedad de Fútbol",
-                    "team_crest": "https://crests.football-data.org/92.png",
-                    "goals": 12,
-                    "assists": 3,
-                    "penalties": 5,
-                    "nationality": "Spain"
                 },
                 {
                     "player_name": "Robert Lewandowski",
@@ -210,6 +210,15 @@
                     "nationality": "Argentina"
                 },
                 {
+                    "player_name": "Anastasios Douvikas",
+                    "team_name": "Como 1907",
+                    "team_crest": "https://crests.football-data.org/7397.png",
+                    "goals": 12,
+                    "assists": 1,
+                    "penalties": 1,
+                    "nationality": "Greece"
+                },
+                {
                     "player_name": "Nico Paz",
                     "team_name": "Como 1907",
                     "team_crest": "https://crests.football-data.org/7397.png",
@@ -219,19 +228,10 @@
                     "nationality": "Argentina"
                 },
                 {
-                    "player_name": "Anastasios Douvikas",
-                    "team_name": "Como 1907",
-                    "team_crest": "https://crests.football-data.org/7397.png",
-                    "goals": 11,
-                    "assists": 1,
-                    "penalties": 1,
-                    "nationality": "Greece"
-                },
-                {
                     "player_name": "Marcus Thuram-Ulien",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
-                    "goals": 11,
+                    "goals": 12,
                     "assists": 5,
                     "penalties": null,
                     "nationality": "France"
@@ -273,6 +273,15 @@
                     "nationality": "Turkey"
                 },
                 {
+                    "player_name": "Giovanni Simeone",
+                    "team_name": "Torino FC",
+                    "team_crest": "https://crests.football-data.org/586.png",
+                    "goals": 10,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Argentina"
+                },
+                {
                     "player_name": "Nikola Krstović",
                     "team_name": "Atalanta BC",
                     "team_crest": "https://crests.football-data.org/102.png",
@@ -280,15 +289,6 @@
                     "assists": 4,
                     "penalties": null,
                     "nationality": "Montenegro"
-                },
-                {
-                    "player_name": "Scott McTominay",
-                    "team_name": "SSC Napoli",
-                    "team_crest": "https://crests.football-data.org/113.png",
-                    "goals": 9,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "Scotland"
                 }
             ]
         },
@@ -328,7 +328,7 @@
                     "player_name": "Sehrou Guirassy",
                     "team_name": "Borussia Dortmund",
                     "team_crest": "https://crests.football-data.org/4.png",
-                    "goals": 14,
+                    "goals": 15,
                     "assists": null,
                     "penalties": 1,
                     "nationality": "Guinea"
@@ -398,9 +398,9 @@
                     "player_name": "Esteban Lepaul",
                     "team_name": "Stade Rennais FC 1901",
                     "team_crest": "https://crests.football-data.org/529.png",
-                    "goals": 17,
+                    "goals": 18,
                     "assists": 4,
-                    "penalties": 2,
+                    "penalties": 3,
                     "nationality": "France"
                 },
                 {
