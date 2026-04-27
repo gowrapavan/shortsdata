@@ -703,7 +703,7 @@
         "name": "Bara Sapoko Ndiaye",
         "position": "Midfield",
         "dateOfBirth": null,
-        "nationality": "Gambia"
+        "nationality": "Senegal"
       },
       {
         "id": 291949,
@@ -732,6 +732,20 @@
         "position": "Offence",
         "dateOfBirth": "2008-09-24",
         "nationality": "Germany"
+      },
+      {
+        "id": 294776,
+        "name": "Bastian Assomo",
+        "position": "Offence",
+        "dateOfBirth": "2010-01-03",
+        "nationality": "Germany"
+      },
+      {
+        "id": 168299,
+        "name": "Min-Jae Kim",
+        "position": "Centre-Back",
+        "dateOfBirth": "1996-11-15",
+        "nationality": "South Korea"
       },
       {
         "id": 152515,
@@ -851,13 +865,6 @@
         "position": "Attacking Midfield",
         "dateOfBirth": "2005-06-28",
         "nationality": "Germany"
-      },
-      {
-        "id": 168299,
-        "name": "Min-Jae Kim",
-        "position": "Centre-Back",
-        "dateOfBirth": "1996-11-15",
-        "nationality": "South Korea"
       }
     ],
     "staff": [],
@@ -1480,15 +1487,15 @@
       }
     ],
     "coach": {
-      "id": 8262,
-      "firstName": "Liam",
-      "lastName": "Rosenior",
-      "name": "Liam Rosenior",
-      "dateOfBirth": "1984-07-09",
+      "id": 290431,
+      "firstName": "Calum",
+      "lastName": "McFarlane",
+      "name": "Calum McFarlane",
+      "dateOfBirth": "1985-11-13",
       "nationality": "England",
       "contract": {
-        "start": "2026-01",
-        "until": "2032-06"
+        "start": "2026-04",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -1582,6 +1589,13 @@
         "position": "Offence",
         "dateOfBirth": "2007-06-30",
         "nationality": "England"
+      },
+      {
+        "id": 170426,
+        "name": "Benoît Badiashile",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-03-26",
+        "nationality": "France"
       },
       {
         "id": 166366,
@@ -1757,13 +1771,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "2003-02-26",
         "nationality": "England"
-      },
-      {
-        "id": 170426,
-        "name": "Benoît Badiashile",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-03-26",
-        "nationality": "France"
       }
     ],
     "staff": [],
@@ -1865,6 +1872,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 273063,
+        "name": "Will Wright",
+        "position": "Defence",
+        "dateOfBirth": null,
+        "nationality": "England"
+      },
+      {
         "id": 288621,
         "name": "Wellity Lucky",
         "position": "Defence",
@@ -1912,6 +1926,13 @@
         "position": "Offence",
         "dateOfBirth": "2006-08-31",
         "nationality": "USA"
+      },
+      {
+        "id": 135636,
+        "name": "Rhys Williams",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-02-03",
+        "nationality": "England"
       },
       {
         "id": 128954,
@@ -2080,13 +2101,6 @@
         "position": "Centre-Forward",
         "dateOfBirth": "2002-06-20",
         "nationality": "France"
-      },
-      {
-        "id": 135636,
-        "name": "Rhys Williams",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-02-03",
-        "nationality": "England"
       }
     ],
     "staff": [],
@@ -3494,6 +3508,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 294736,
+        "name": "Miguel Cubo",
+        "position": "Offence",
+        "dateOfBirth": "2008-02-08",
+        "nationality": "Spain"
+      },
+      {
         "id": 171964,
         "name": "Giuliano Simeone",
         "position": "Right Winger",
@@ -4622,7 +4643,7 @@
         "name": "Relja Obrić",
         "position": "Defence",
         "dateOfBirth": "2006-04-11",
-        "nationality": "Slovenia"
+        "nationality": "Serbia"
       },
       {
         "id": 265553,
@@ -4671,7 +4692,7 @@
         "name": "Henry Camara",
         "position": "Offence",
         "dateOfBirth": "2006-05-06",
-        "nationality": "Guinea"
+        "nationality": "France"
       },
       {
         "id": 142140,
@@ -5879,7 +5900,7 @@
         "name": "Geovany Quenda",
         "position": "Offence",
         "dateOfBirth": "2007-04-30",
-        "nationality": "Portugal"
+        "nationality": "Guinea-Bissau"
       },
       {
         "id": 247303,
@@ -5900,7 +5921,7 @@
         "name": "Flávio Gonçalves",
         "position": "Offence",
         "dateOfBirth": "2007-05-30",
-        "nationality": "Portugal"
+        "nationality": "France"
       },
       {
         "id": 283132,
@@ -7807,53 +7828,18 @@
         "nationality": "Belgium"
       },
       {
+        "id": 263656,
+        "name": "Jim Koller",
+        "position": "Midfield",
+        "dateOfBirth": "2007-03-31",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 283059,
         "name": "Noah Fernandez",
         "position": "Midfield",
         "dateOfBirth": "2008-01-09",
         "nationality": "Belgium"
-      },
-      {
-        "id": 221412,
-        "name": "Yarek Gasiorowski",
-        "position": "Centre-Back",
-        "dateOfBirth": "2005-01-12",
-        "nationality": "Spain"
-      },
-      {
-        "id": 184642,
-        "name": "Ryan Flamingo",
-        "position": "Centre-Back",
-        "dateOfBirth": "2002-12-31",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 181984,
-        "name": "Ruben van Bommel",
-        "position": "Left Winger",
-        "dateOfBirth": "2004-08-03",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 176932,
-        "name": "Paul Wanner",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2005-12-23",
-        "nationality": "Austria"
-      },
-      {
-        "id": 150536,
-        "name": "Couhaib Driouech",
-        "position": "Left Winger",
-        "dateOfBirth": "2002-04-17",
-        "nationality": "Morocco"
-      },
-      {
-        "id": 142790,
-        "name": "Kiliann Sildillia",
-        "position": "Right-Back",
-        "dateOfBirth": "2002-05-16",
-        "nationality": "France"
       },
       {
         "id": 137693,
@@ -7945,6 +7931,48 @@
         "position": "Left Winger",
         "dateOfBirth": "1989-02-02",
         "nationality": "Croatia"
+      },
+      {
+        "id": 221412,
+        "name": "Yarek Gasiorowski",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-01-12",
+        "nationality": "Spain"
+      },
+      {
+        "id": 184642,
+        "name": "Ryan Flamingo",
+        "position": "Centre-Back",
+        "dateOfBirth": "2002-12-31",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 181984,
+        "name": "Ruben van Bommel",
+        "position": "Left Winger",
+        "dateOfBirth": "2004-08-03",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 176932,
+        "name": "Paul Wanner",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2005-12-23",
+        "nationality": "Austria"
+      },
+      {
+        "id": 150536,
+        "name": "Couhaib Driouech",
+        "position": "Left Winger",
+        "dateOfBirth": "2002-04-17",
+        "nationality": "Morocco"
+      },
+      {
+        "id": 142790,
+        "name": "Kiliann Sildillia",
+        "position": "Right-Back",
+        "dateOfBirth": "2002-05-16",
+        "nationality": "France"
       }
     ],
     "staff": [],
@@ -8064,6 +8092,13 @@
         "name": "Mylo van der Lans",
         "position": "Defence",
         "dateOfBirth": "2007-04-11",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 270676,
+        "name": "Ryan van de Pavert",
+        "position": "Defence",
+        "dateOfBirth": "2006-01-24",
         "nationality": "Netherlands"
       },
       {
@@ -9230,7 +9265,7 @@
         "name": "Sidny Lopes Cabral",
         "position": "Defence",
         "dateOfBirth": "2002-09-18",
-        "nationality": "Cape Verde Islands"
+        "nationality": "Netherlands"
       },
       {
         "id": 262709,
@@ -9300,7 +9335,7 @@
         "name": "Franjo Ivanovic",
         "position": "Midfield",
         "dateOfBirth": "2003-10-01",
-        "nationality": "Croatia"
+        "nationality": "Austria"
       },
       {
         "id": 246194,
@@ -9419,7 +9454,7 @@
         "name": "Amar Dedić",
         "position": "Right-Back",
         "dateOfBirth": "2002-08-18",
-        "nationality": "Bosnia-Herzegovina"
+        "nationality": "Austria"
       },
       {
         "id": 70583,
@@ -9440,7 +9475,7 @@
         "name": "Bruma",
         "position": "Left Winger",
         "dateOfBirth": "1994-10-24",
-        "nationality": "Portugal"
+        "nationality": "Guinea-Bissau"
       },
       {
         "id": 8128,

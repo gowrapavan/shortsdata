@@ -623,15 +623,15 @@
       }
     ],
     "coach": {
-      "id": 8262,
-      "firstName": "Liam",
-      "lastName": "Rosenior",
-      "name": "Liam Rosenior",
-      "dateOfBirth": "1984-07-09",
+      "id": 290431,
+      "firstName": "Calum",
+      "lastName": "McFarlane",
+      "name": "Calum McFarlane",
+      "dateOfBirth": "1985-11-13",
       "nationality": "England",
       "contract": {
-        "start": "2026-01",
-        "until": "2032-06"
+        "start": "2026-04",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -725,6 +725,13 @@
         "position": "Offence",
         "dateOfBirth": "2007-06-30",
         "nationality": "England"
+      },
+      {
+        "id": 170426,
+        "name": "Benoît Badiashile",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-03-26",
+        "nationality": "France"
       },
       {
         "id": 166366,
@@ -900,13 +907,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "2003-02-26",
         "nationality": "England"
-      },
-      {
-        "id": 170426,
-        "name": "Benoît Badiashile",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-03-26",
-        "nationality": "France"
       }
     ],
     "staff": [],
@@ -1486,6 +1486,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 273063,
+        "name": "Will Wright",
+        "position": "Defence",
+        "dateOfBirth": null,
+        "nationality": "England"
+      },
+      {
         "id": 288621,
         "name": "Wellity Lucky",
         "position": "Defence",
@@ -1533,6 +1540,13 @@
         "position": "Offence",
         "dateOfBirth": "2006-08-31",
         "nationality": "USA"
+      },
+      {
+        "id": 135636,
+        "name": "Rhys Williams",
+        "position": "Centre-Back",
+        "dateOfBirth": "2001-02-03",
+        "nationality": "England"
       },
       {
         "id": 128954,
@@ -1701,13 +1715,6 @@
         "position": "Centre-Forward",
         "dateOfBirth": "2002-06-20",
         "nationality": "France"
-      },
-      {
-        "id": 135636,
-        "name": "Rhys Williams",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-02-03",
-        "nationality": "England"
       }
     ],
     "staff": [],
