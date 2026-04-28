@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-27T08:00:28.020570Z",
+    "last_updated": "2026-04-28T08:00:53.023673Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -255,6 +255,15 @@
                     "nationality": "Netherlands"
                 },
                 {
+                    "player_name": "Gianluca Scamacca",
+                    "team_name": "Atalanta BC",
+                    "team_crest": "https://crests.football-data.org/102.png",
+                    "goals": 10,
+                    "assists": 1,
+                    "penalties": 2,
+                    "nationality": "Italy"
+                },
+                {
                     "player_name": "Keinan Davis",
                     "team_name": "Udinese Calcio",
                     "team_crest": "https://crests.football-data.org/115.png",
@@ -280,15 +289,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Argentina"
-                },
-                {
-                    "player_name": "Nikola Krstović",
-                    "team_name": "Atalanta BC",
-                    "team_crest": "https://crests.football-data.org/102.png",
-                    "goals": 10,
-                    "assists": 4,
-                    "penalties": null,
-                    "nationality": "Montenegro"
                 }
             ]
         },
