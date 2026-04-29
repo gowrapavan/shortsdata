@@ -4771,7 +4771,7 @@
     "RoundName": "UEFA Champions League",
     "Date": "2026-04-29",
     "DateTime": "2026-04-29T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 78,
@@ -4782,12 +4782,12 @@
     "AwayTeamName": "Arsenal FC",
     "HomeTeamLogo": "https://crests.football-data.org/78.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "78": 0,
-      "57": 0
+      "78": 1,
+      "57": 1
     },
     "Goals": []
   },
