@@ -297,24 +297,43 @@
         {
           "position": 15,
           "team": {
+            "id": 89,
+            "name": "RCD Mallorca",
+            "shortName": "Mallorca",
+            "tla": "MAL",
+            "crest": "https://crests.football-data.org/89.png"
+          },
+          "playedGames": 34,
+          "form": null,
+          "won": 10,
+          "draw": 8,
+          "lost": 16,
+          "points": 38,
+          "goalsFor": 42,
+          "goalsAgainst": 51,
+          "goalDifference": -9
+        },
+        {
+          "position": 16,
+          "team": {
             "id": 298,
             "name": "Girona FC",
             "shortName": "Girona",
             "tla": "GIR",
             "crest": "https://crests.football-data.org/298.png"
           },
-          "playedGames": 33,
+          "playedGames": 34,
           "form": null,
           "won": 9,
           "draw": 11,
-          "lost": 13,
+          "lost": 14,
           "points": 38,
           "goalsFor": 36,
-          "goalsAgainst": 50,
-          "goalDifference": -14
+          "goalsAgainst": 51,
+          "goalDifference": -15
         },
         {
-          "position": 16,
+          "position": 17,
           "team": {
             "id": 263,
             "name": "Deportivo Alavés",
@@ -331,25 +350,6 @@
           "goalsFor": 38,
           "goalsAgainst": 49,
           "goalDifference": -11
-        },
-        {
-          "position": 17,
-          "team": {
-            "id": 89,
-            "name": "RCD Mallorca",
-            "shortName": "Mallorca",
-            "tla": "MAL",
-            "crest": "https://crests.football-data.org/89.png"
-          },
-          "playedGames": 33,
-          "form": null,
-          "won": 9,
-          "draw": 8,
-          "lost": 16,
-          "points": 35,
-          "goalsFor": 41,
-          "goalsAgainst": 51,
-          "goalDifference": -10
         },
         {
           "position": 18,
