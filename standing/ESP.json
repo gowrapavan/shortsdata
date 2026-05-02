@@ -39,13 +39,13 @@
           },
           "playedGames": 34,
           "form": null,
-          "won": 28,
-          "draw": 2,
+          "won": 29,
+          "draw": 1,
           "lost": 4,
-          "points": 86,
-          "goalsFor": 87,
-          "goalsAgainst": 30,
-          "goalDifference": 57
+          "points": 88,
+          "goalsFor": 89,
+          "goalsAgainst": 31,
+          "goalDifference": 58
         },
         {
           "position": 2,
@@ -126,21 +126,21 @@
         {
           "position": 6,
           "team": {
-            "id": 77,
-            "name": "Athletic Club",
-            "shortName": "Athletic",
-            "tla": "ATH",
-            "crest": "https://crests.football-data.org/77.png"
+            "id": 558,
+            "name": "RC Celta de Vigo",
+            "shortName": "Celta",
+            "tla": "CEL",
+            "crest": "https://crests.football-data.org/558.png"
           },
-          "playedGames": 34,
+          "playedGames": 33,
           "form": null,
-          "won": 13,
-          "draw": 5,
-          "lost": 16,
+          "won": 11,
+          "draw": 11,
+          "lost": 11,
           "points": 44,
-          "goalsFor": 40,
-          "goalsAgainst": 50,
-          "goalDifference": -10
+          "goalsFor": 45,
+          "goalsAgainst": 43,
+          "goalDifference": 2
         },
         {
           "position": 7,
@@ -164,21 +164,21 @@
         {
           "position": 8,
           "team": {
-            "id": 558,
-            "name": "RC Celta de Vigo",
-            "shortName": "Celta",
-            "tla": "CEL",
-            "crest": "https://crests.football-data.org/558.png"
+            "id": 77,
+            "name": "Athletic Club",
+            "shortName": "Athletic",
+            "tla": "ATH",
+            "crest": "https://crests.football-data.org/77.png"
           },
-          "playedGames": 33,
+          "playedGames": 34,
           "form": null,
-          "won": 11,
-          "draw": 11,
-          "lost": 11,
+          "won": 13,
+          "draw": 5,
+          "lost": 16,
           "points": 44,
-          "goalsFor": 45,
-          "goalsAgainst": 43,
-          "goalDifference": 2
+          "goalsFor": 40,
+          "goalsAgainst": 50,
+          "goalDifference": -10
         },
         {
           "position": 9,
@@ -211,12 +211,12 @@
           "playedGames": 34,
           "form": null,
           "won": 11,
-          "draw": 10,
-          "lost": 13,
-          "points": 43,
-          "goalsFor": 39,
-          "goalsAgainst": 40,
-          "goalDifference": -1
+          "draw": 9,
+          "lost": 14,
+          "points": 42,
+          "goalsFor": 40,
+          "goalsAgainst": 42,
+          "goalDifference": -2
         },
         {
           "position": 11,
@@ -240,25 +240,6 @@
         {
           "position": 12,
           "team": {
-            "id": 95,
-            "name": "Valencia CF",
-            "shortName": "Valencia",
-            "tla": "VAL",
-            "crest": "https://crests.football-data.org/95.png"
-          },
-          "playedGames": 34,
-          "form": null,
-          "won": 10,
-          "draw": 9,
-          "lost": 15,
-          "points": 39,
-          "goalsFor": 37,
-          "goalsAgainst": 50,
-          "goalDifference": -13
-        },
-        {
-          "position": 13,
-          "team": {
             "id": 80,
             "name": "RCD Espanyol de Barcelona",
             "shortName": "Espanyol",
@@ -274,6 +255,25 @@
           "goalsFor": 37,
           "goalsAgainst": 49,
           "goalDifference": -12
+        },
+        {
+          "position": 13,
+          "team": {
+            "id": 95,
+            "name": "Valencia CF",
+            "shortName": "Valencia",
+            "tla": "VAL",
+            "crest": "https://crests.football-data.org/95.png"
+          },
+          "playedGames": 34,
+          "form": null,
+          "won": 10,
+          "draw": 9,
+          "lost": 15,
+          "points": 39,
+          "goalsFor": 37,
+          "goalsAgainst": 50,
+          "goalDifference": -13
         },
         {
           "position": 14,
