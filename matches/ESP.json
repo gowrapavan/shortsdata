@@ -8636,8 +8636,8 @@
     "AwayTeamName": "Club Atlético de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/95.png",
     "AwayTeamLogo": "https://crests.football-data.org/78.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "95": 0,
@@ -8677,7 +8677,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T12:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 94,
@@ -8688,11 +8688,11 @@
     "AwayTeamName": "Levante UD",
     "HomeTeamLogo": "https://crests.football-data.org/94.png",
     "AwayTeamLogo": "https://crests.football-data.org/88.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 5,
+    "AwayTeamScore": 1,
+    "Result": 94,
     "Points": {
-      "94": 0,
+      "94": 3,
       "88": 0
     },
     "Goals": []
