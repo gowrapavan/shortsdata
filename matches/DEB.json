@@ -7239,7 +7239,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 3,
@@ -7250,11 +7250,11 @@
     "AwayTeamName": "RB Leipzig",
     "HomeTeamLogo": "https://crests.football-data.org/3.png",
     "AwayTeamLogo": "https://crests.football-data.org/721.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 1,
+    "Result": 3,
     "Points": {
-      "3": 0,
+      "3": 3,
       "721": 0
     },
     "Goals": []
@@ -7317,7 +7317,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 12,
@@ -7330,10 +7330,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/16.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 3,
-    "Result": null,
+    "Result": 16,
     "Points": {
       "12": 0,
-      "16": 0
+      "16": 3
     },
     "Goals": []
   },
@@ -7343,7 +7343,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5,
@@ -7354,12 +7354,12 @@
     "AwayTeamName": "1. FC Heidenheim 1846",
     "HomeTeamLogo": "https://crests.football-data.org/5.png",
     "AwayTeamLogo": "https://crests.football-data.org/44.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 3,
     "Result": null,
     "Points": {
-      "5": 0,
-      "44": 0
+      "5": 1,
+      "44": 1
     },
     "Goals": []
   },
@@ -7369,7 +7369,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 28,
@@ -7384,8 +7384,8 @@
     "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "28": 0,
-      "1": 0
+      "28": 1,
+      "1": 1
     },
     "Goals": []
   },
@@ -7395,7 +7395,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 19,
@@ -7408,10 +7408,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/7.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 7,
     "Points": {
       "19": 0,
-      "7": 0
+      "7": 3
     },
     "Goals": []
   },

@@ -7857,7 +7857,7 @@
   },
   {
     "GameId": 538091,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-13",
     "DateTime": "2026-05-13T19:00:00Z",
@@ -8741,7 +8741,7 @@
   },
   {
     "GameId": 538125,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T13:00:00Z",
@@ -8767,7 +8767,7 @@
   },
   {
     "GameId": 538126,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T18:00:00Z",
@@ -8793,11 +8793,11 @@
   },
   {
     "GameId": 538127,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 57,
@@ -8808,22 +8808,22 @@
     "AwayTeamName": "Fulham FC",
     "HomeTeamLogo": "https://crests.football-data.org/57.png",
     "AwayTeamLogo": "https://crests.football-data.org/63.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
+    "Result": 57,
     "Points": {
-      "57": 0,
+      "57": 3,
       "63": 0
     },
     "Goals": []
   },
   {
     "GameId": 538128,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 402,
@@ -8834,18 +8834,18 @@
     "AwayTeamName": "West Ham United FC",
     "HomeTeamLogo": "https://crests.football-data.org/402.png",
     "AwayTeamLogo": "https://crests.football-data.org/563.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 402,
     "Points": {
-      "402": 0,
+      "402": 3,
       "563": 0
     },
     "Goals": []
   },
   {
     "GameId": 538129,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-04",
     "DateTime": "2026-05-04T14:00:00Z",
@@ -8871,7 +8871,7 @@
   },
   {
     "GameId": 538130,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-04",
     "DateTime": "2026-05-04T19:00:00Z",
@@ -8923,7 +8923,7 @@
   },
   {
     "GameId": 538132,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T14:30:00Z",
@@ -8949,11 +8949,11 @@
   },
   {
     "GameId": 538133,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 67,
@@ -8964,22 +8964,22 @@
     "AwayTeamName": "Brighton & Hove Albion FC",
     "HomeTeamLogo": "https://crests.football-data.org/67.png",
     "AwayTeamLogo": "https://crests.football-data.org/397.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 67,
     "Points": {
-      "67": 0,
+      "67": 3,
       "397": 0
     },
     "Goals": []
   },
   {
     "GameId": 538134,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T14:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 76,
@@ -8994,14 +8994,14 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "76": 0,
-      "71": 0
+      "76": 1,
+      "71": 1
     },
     "Goals": []
   },
   {
     "GameId": 538135,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-09",
     "DateTime": "2026-05-09T14:00:00Z",
@@ -9027,7 +9027,7 @@
   },
   {
     "GameId": 538136,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-09",
     "DateTime": "2026-05-09T14:00:00Z",
@@ -9053,7 +9053,7 @@
   },
   {
     "GameId": 538137,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T13:00:00Z",
@@ -9079,7 +9079,7 @@
   },
   {
     "GameId": 538138,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T13:00:00Z",
@@ -9105,7 +9105,7 @@
   },
   {
     "GameId": 538139,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-09",
     "DateTime": "2026-05-09T14:00:00Z",
@@ -9131,7 +9131,7 @@
   },
   {
     "GameId": 538140,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-09",
     "DateTime": "2026-05-09T11:30:00Z",
@@ -9157,7 +9157,7 @@
   },
   {
     "GameId": 538141,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-09",
     "DateTime": "2026-05-09T16:30:00Z",
@@ -9183,7 +9183,7 @@
   },
   {
     "GameId": 538142,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T13:00:00Z",
@@ -9209,7 +9209,7 @@
   },
   {
     "GameId": 538143,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-11",
     "DateTime": "2026-05-11T19:00:00Z",
@@ -9235,7 +9235,7 @@
   },
   {
     "GameId": 538144,
-    "RoundId": 34,
+    "RoundId": 35,
     "RoundName": "Premier League",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T15:30:00Z",

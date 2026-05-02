@@ -8469,7 +8469,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 263,
@@ -8480,12 +8480,12 @@
     "AwayTeamName": "Athletic Club",
     "HomeTeamLogo": "https://crests.football-data.org/263.png",
     "AwayTeamLogo": "https://crests.football-data.org/77.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 4,
+    "Result": 77,
     "Points": {
       "263": 0,
-      "77": 0
+      "77": 3
     },
     "Goals": []
   },
@@ -8625,7 +8625,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-02",
     "DateTime": "2026-05-02T14:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 95,
@@ -8637,11 +8637,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/95.png",
     "AwayTeamLogo": "https://crests.football-data.org/78.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 78,
     "Points": {
       "95": 0,
-      "78": 0
+      "78": 3
     },
     "Goals": []
   },
