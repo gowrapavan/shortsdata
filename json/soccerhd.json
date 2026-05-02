@@ -1,16 +1,5 @@
 [
   {
-    "time": "07:00 PM",
-    "game": "football",
-    "league": "الدوري الفرنسي",
-    "home_team": "باريس",
-    "away_team": "لوريان",
-    "label": "بار-لور",
-    "home_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d31f48690.png",
-    "away_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d31f51031.png",
-    "url": "https://a11.sia-koora.live/albaplayer/bein-2/"
-  },
-  {
     "time": "08:00 PM",
     "game": "football",
     "league": "الدوري الإيطالي",
@@ -35,17 +24,6 @@
   {
     "time": "08:30 PM",
     "game": "football",
-    "league": "الدوري الإسباني",
-    "home_team": "ألافيس",
-    "away_team": "أتلتيك بلباو",
-    "label": "ألا-أتل",
-    "home_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d31b161d4.png",
-    "away_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d31b1d3d0.png",
-    "url": "https://a11.sia-koora.live/albaplayer/bein-3/"
-  },
-  {
-    "time": "08:30 PM",
-    "game": "football",
     "league": "الدوري الألماني",
     "home_team": "باير ليفركوزن",
     "away_team": "لايبزيج",
@@ -53,6 +31,17 @@
     "home_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d32784edd.png",
     "away_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d3278b340.png",
     "url": "https://a11.sia-koora.live/albaplayer/pemium-2/"
+  },
+  {
+    "time": "08:30 PM",
+    "game": "football",
+    "league": "الدوري الإسباني",
+    "home_team": "ألافيس",
+    "away_team": "أتلتيك بلباو",
+    "label": "ألا-أتل",
+    "home_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d31b161d4.png",
+    "away_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d31b1d3d0.png",
+    "url": "https://a11.sia-koora.live/albaplayer/bein-3/"
   },
   {
     "time": "09:00 PM",
@@ -179,17 +168,6 @@
     "time": "06:00 PM",
     "game": "football",
     "league": "الدوري الإنجليزي",
-    "home_team": "برينتفورد",
-    "away_team": "وست هام",
-    "label": "بري-وست",
-    "home_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d32f2242c.png",
-    "away_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d32f28d5f.png",
-    "url": "https://a11.sia-koora.live/albaplayer/bein-1/"
-  },
-  {
-    "time": "06:00 PM",
-    "game": "football",
-    "league": "الدوري الإنجليزي",
     "home_team": "وولفرهامبتون",
     "away_team": "سندرلاند",
     "label": "وول-سند",
@@ -209,6 +187,17 @@
     "url": "https://a11.sia-koora.live/albaplayer/bein-4/"
   },
   {
+    "time": "06:00 PM",
+    "game": "football",
+    "league": "الدوري الإنجليزي",
+    "home_team": "برينتفورد",
+    "away_team": "وست هام",
+    "label": "بري-وست",
+    "home_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d32f2242c.png",
+    "away_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d32f28d5f.png",
+    "url": "https://a11.sia-koora.live/albaplayer/bein-1/"
+  },
+  {
     "time": "06:15 PM",
     "game": "football",
     "league": "الدوري الإسباني",
@@ -218,5 +207,16 @@
     "home_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d31a80091.png",
     "away_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d31a87019.png",
     "url": "https://a11.sia-koora.live/albaplayer/bein-3/"
+  },
+  {
+    "time": "07:00 PM",
+    "game": "football",
+    "league": "الدوري الفرنسي",
+    "home_team": "باريس",
+    "away_team": "لوريان",
+    "label": "بار-لور",
+    "home_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d31f48690.png",
+    "away_logo": "https://www.livescorehd.com/wp-content/uploads/2026/04/alba_img_69f3d31f51031.png",
+    "url": "https://a11.sia-koora.live/albaplayer/bein-2/"
   }
 ]
