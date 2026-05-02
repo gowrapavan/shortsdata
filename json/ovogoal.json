@@ -1,38 +1,5 @@
 [
   {
-    "time": "16:00",
-    "game": "football",
-    "league": "premier",
-    "home_team": "Wolves",
-    "away_team": "Sunderland",
-    "label": "wol-sun",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
-    "away_logo": "https://crests.football-data.org/71.png",
-    "url": ""
-  },
-  {
-    "time": "16:00",
-    "game": "football",
-    "league": "premier",
-    "home_team": "Newcastle",
-    "away_team": "Brighton",
-    "label": "new-bri",
-    "home_logo": "https://crests.football-data.org/67.png",
-    "away_logo": "https://crests.football-data.org/397.png",
-    "url": ""
-  },
-  {
-    "time": "16:00",
-    "game": "football",
-    "league": "premier",
-    "home_team": "Brentford",
-    "away_team": "West Ham",
-    "label": "bre-wes",
-    "home_logo": "https://crests.football-data.org/402.png",
-    "away_logo": "https://crests.football-data.org/563.png",
-    "url": ""
-  },
-  {
     "time": "18:30",
     "game": "football",
     "league": "premier",
@@ -66,17 +33,6 @@
     "url": ""
   },
   {
-    "time": "15:30",
-    "game": "football",
-    "league": "bundesliga",
-    "home_team": "Bayern MUnchen",
-    "away_team": "Heidenheim",
-    "label": "bay-hei",
-    "home_logo": "https://crests.football-data.org/5.png",
-    "away_logo": "https://crests.football-data.org/44.png",
-    "url": ""
-  },
-  {
     "time": "17:00",
     "game": "football",
     "league": "ligue1",
@@ -94,7 +50,7 @@
     "home_team": "FamalicÃ£o",
     "away_team": "Benfica",
     "label": "fam-ben",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
     "away_logo": "https://crests.football-data.org/1903.png",
     "url": ""
   },
@@ -105,8 +61,8 @@
     "home_team": "Porto",
     "away_team": "Alverca",
     "label": "por-alv",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
     "url": ""
   },
   {
@@ -116,8 +72,8 @@
     "home_team": "UFC Fight Night: Della Maddalena",
     "away_team": "Prates",
     "label": "ufc-pra",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/benfica.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
     "url": ""
   },
   {
@@ -127,8 +83,8 @@
     "home_team": "",
     "away_team": "",
     "label": "ovogoal",
-    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/porto.png",
+    "home_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/maritimo.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/braga.png",
     "url": ""
   }
 ]
