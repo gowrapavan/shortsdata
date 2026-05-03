@@ -8782,8 +8782,8 @@
     "AwayTeamName": "Tottenham Hotspur FC",
     "HomeTeamLogo": "https://crests.football-data.org/58.png",
     "AwayTeamLogo": "https://crests.football-data.org/73.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "58": 0,
@@ -8927,7 +8927,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T14:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 66,
@@ -8938,11 +8938,11 @@
     "AwayTeamName": "Liverpool FC",
     "HomeTeamLogo": "https://crests.football-data.org/66.png",
     "AwayTeamLogo": "https://crests.football-data.org/64.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 66,
     "Points": {
-      "66": 0,
+      "66": 3,
       "64": 0
     },
     "Goals": []

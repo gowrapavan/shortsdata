@@ -7169,7 +7169,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 519,
@@ -7180,11 +7180,11 @@
     "AwayTeamName": "Angers SCO",
     "HomeTeamLogo": "https://crests.football-data.org/519.png",
     "AwayTeamLogo": "https://crests.football-data.org/532.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 519,
     "Points": {
-      "519": 0,
+      "519": 3,
       "532": 0
     },
     "Goals": []
@@ -7247,7 +7247,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1045,
@@ -7258,11 +7258,11 @@
     "AwayTeamName": "Stade Brestois 29",
     "HomeTeamLogo": "https://crests.football-data.org/1045.png",
     "AwayTeamLogo": "https://crests.football-data.org/512.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 4,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 1045,
     "Points": {
-      "1045": 0,
+      "1045": 3,
       "512": 0
     },
     "Goals": []
@@ -7310,8 +7310,8 @@
     "AwayTeamName": "Stade Rennais FC 1901",
     "HomeTeamLogo": "https://crests.football-data.org/523.png",
     "AwayTeamLogo": "https://crests.football-data.org/529.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "523": 0,
@@ -7377,7 +7377,7 @@
     "RoundName": "Ligue 1",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T15:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 576,
@@ -7388,12 +7388,12 @@
     "AwayTeamName": "Toulouse FC",
     "HomeTeamLogo": "https://crests.football-data.org/576.png",
     "AwayTeamLogo": "https://crests.football-data.org/511.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 511,
     "Points": {
       "576": 0,
-      "511": 0
+      "511": 3
     },
     "Goals": []
   },
