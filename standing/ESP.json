@@ -240,25 +240,6 @@
         {
           "position": 12,
           "team": {
-            "id": 80,
-            "name": "RCD Espanyol de Barcelona",
-            "shortName": "Espanyol",
-            "tla": "ESP",
-            "crest": "https://crests.football-data.org/80.png"
-          },
-          "playedGames": 34,
-          "form": null,
-          "won": 10,
-          "draw": 9,
-          "lost": 15,
-          "points": 39,
-          "goalsFor": 37,
-          "goalsAgainst": 51,
-          "goalDifference": -14
-        },
-        {
-          "position": 13,
-          "team": {
             "id": 95,
             "name": "Valencia CF",
             "shortName": "Valencia",
@@ -274,6 +255,25 @@
           "goalsFor": 37,
           "goalsAgainst": 50,
           "goalDifference": -13
+        },
+        {
+          "position": 13,
+          "team": {
+            "id": 80,
+            "name": "RCD Espanyol de Barcelona",
+            "shortName": "Espanyol",
+            "tla": "ESP",
+            "crest": "https://crests.football-data.org/80.png"
+          },
+          "playedGames": 34,
+          "form": null,
+          "won": 10,
+          "draw": 9,
+          "lost": 15,
+          "points": 39,
+          "goalsFor": 37,
+          "goalsAgainst": 51,
+          "goalDifference": -14
         },
         {
           "position": 14,
