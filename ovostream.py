@@ -107,7 +107,7 @@ def fetch_ovogoal():
 
     load_team_data()
 
-    url = "https://ovogoal.plus/"
+    url = "https://backlik.com/"
     headers = {"User-Agent": "Mozilla/5.0"}
 
     try:
