@@ -40,12 +40,12 @@
           "playedGames": 14,
           "form": null,
           "won": 10,
-          "draw": 2,
-          "lost": 2,
-          "points": 32,
-          "goalsFor": 23,
+          "draw": 3,
+          "lost": 1,
+          "points": 33,
+          "goalsFor": 24,
           "goalsAgainst": 11,
-          "goalDifference": 12
+          "goalDifference": 13
         },
         {
           "position": 2,
@@ -113,12 +113,12 @@
             "tla": "CAP",
             "crest": "https://crests.football-data.org/1768.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
           "won": 7,
-          "draw": 1,
+          "draw": 2,
           "lost": 5,
-          "points": 22,
+          "points": 23,
           "goalsFor": 20,
           "goalsAgainst": 15,
           "goalDifference": 5
@@ -158,8 +158,8 @@
           "lost": 5,
           "points": 19,
           "goalsFor": 16,
-          "goalsAgainst": 15,
-          "goalDifference": 1
+          "goalsAgainst": 17,
+          "goalDifference": -1
         },
         {
           "position": 8,
@@ -176,9 +176,9 @@
           "draw": 3,
           "lost": 5,
           "points": 18,
-          "goalsFor": 14,
+          "goalsFor": 16,
           "goalsAgainst": 18,
-          "goalDifference": -4
+          "goalDifference": -2
         },
         {
           "position": 9,
@@ -221,11 +221,30 @@
         {
           "position": 11,
           "team": {
-            "id": 6685,
-            "name": "Santos FC",
-            "shortName": "Santos",
-            "tla": "SAN",
-            "crest": "https://crests.football-data.org/6685.png"
+            "id": 1766,
+            "name": "CA Mineiro",
+            "shortName": "Mineiro",
+            "tla": "CAM",
+            "crest": "https://crests.football-data.org/1766.png"
+          },
+          "playedGames": 14,
+          "form": null,
+          "won": 5,
+          "draw": 2,
+          "lost": 7,
+          "points": 17,
+          "goalsFor": 17,
+          "goalsAgainst": 20,
+          "goalDifference": -3
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": 1767,
+            "name": "Grêmio FBPA",
+            "shortName": "Grêmio",
+            "tla": "FBP",
+            "crest": "https://crests.football-data.org/1767.png"
           },
           "playedGames": 14,
           "form": null,
@@ -233,12 +252,12 @@
           "draw": 5,
           "lost": 5,
           "points": 17,
-          "goalsFor": 19,
-          "goalsAgainst": 21,
-          "goalDifference": -2
+          "goalsFor": 15,
+          "goalsAgainst": 16,
+          "goalDifference": -1
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 1780,
             "name": "CR Vasco da Gama",
@@ -257,25 +276,6 @@
           "goalDifference": -1
         },
         {
-          "position": 13,
-          "team": {
-            "id": 1767,
-            "name": "Grêmio FBPA",
-            "shortName": "Grêmio",
-            "tla": "FBP",
-            "crest": "https://crests.football-data.org/1767.png"
-          },
-          "playedGames": 13,
-          "form": null,
-          "won": 4,
-          "draw": 4,
-          "lost": 5,
-          "points": 16,
-          "goalsFor": 15,
-          "goalsAgainst": 16,
-          "goalDifference": -1
-        },
-        {
           "position": 14,
           "team": {
             "id": 1771,
@@ -284,15 +284,15 @@
             "tla": "CRU",
             "crest": "https://crests.football-data.org/1771.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
           "won": 4,
           "draw": 4,
-          "lost": 5,
+          "lost": 6,
           "points": 16,
-          "goalsFor": 17,
-          "goalsAgainst": 21,
-          "goalDifference": -4
+          "goalsFor": 18,
+          "goalsAgainst": 24,
+          "goalDifference": -6
         },
         {
           "position": 15,
@@ -316,21 +316,21 @@
         {
           "position": 16,
           "team": {
-            "id": 1766,
-            "name": "CA Mineiro",
-            "shortName": "Mineiro",
-            "tla": "CAM",
-            "crest": "https://crests.football-data.org/1766.png"
+            "id": 6685,
+            "name": "Santos FC",
+            "shortName": "Santos",
+            "tla": "SAN",
+            "crest": "https://crests.football-data.org/6685.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
-          "won": 4,
-          "draw": 2,
-          "lost": 7,
-          "points": 14,
-          "goalsFor": 14,
-          "goalsAgainst": 19,
-          "goalDifference": -5
+          "won": 3,
+          "draw": 6,
+          "lost": 5,
+          "points": 15,
+          "goalsFor": 19,
+          "goalsAgainst": 22,
+          "goalDifference": -3
         },
         {
           "position": 17,
