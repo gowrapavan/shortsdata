@@ -8547,7 +8547,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 80,
@@ -8558,12 +8558,12 @@
     "AwayTeamName": "Real Madrid CF",
     "HomeTeamLogo": "https://crests.football-data.org/80.png",
     "AwayTeamLogo": "https://crests.football-data.org/86.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
+    "Result": 86,
     "Points": {
       "80": 0,
-      "86": 0
+      "86": 3
     },
     "Goals": []
   },
