@@ -7173,7 +7173,7 @@
   },
   {
     "GameId": 537721,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T14:45:00Z",
@@ -7251,11 +7251,11 @@
   },
   {
     "GameId": 537724,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T10:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1919,
@@ -7266,18 +7266,18 @@
     "AwayTeamName": "SC Heerenveen",
     "HomeTeamLogo": "https://crests.football-data.org/1919.png",
     "AwayTeamLogo": "https://crests.football-data.org/673.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 2,
+    "Result": 673,
     "Points": {
       "1919": 0,
-      "673": 0
+      "673": 3
     },
     "Goals": []
   },
   {
     "GameId": 537725,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T12:30:00Z",
@@ -7292,8 +7292,8 @@
     "AwayTeamName": "Feyenoord Rotterdam",
     "HomeTeamLogo": "https://crests.football-data.org/1920.png",
     "AwayTeamLogo": "https://crests.football-data.org/675.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "1920": 0,
@@ -7329,7 +7329,7 @@
   },
   {
     "GameId": 537727,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T12:30:00Z",
@@ -7344,8 +7344,8 @@
     "AwayTeamName": "Heracles Almelo",
     "HomeTeamLogo": "https://crests.football-data.org/684.png",
     "AwayTeamLogo": "https://crests.football-data.org/671.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "684": 0,
@@ -7355,7 +7355,7 @@
   },
   {
     "GameId": 537728,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-03",
     "DateTime": "2026-05-03T14:45:00Z",
@@ -7381,7 +7381,7 @@
   },
   {
     "GameId": 537729,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T14:45:00Z",
@@ -7407,7 +7407,7 @@
   },
   {
     "GameId": 537730,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T14:45:00Z",
@@ -7433,7 +7433,7 @@
   },
   {
     "GameId": 537731,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T14:45:00Z",
@@ -7459,7 +7459,7 @@
   },
   {
     "GameId": 537732,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T14:45:00Z",
@@ -7485,7 +7485,7 @@
   },
   {
     "GameId": 537733,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T14:45:00Z",
@@ -7511,7 +7511,7 @@
   },
   {
     "GameId": 537734,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T14:45:00Z",
@@ -7537,7 +7537,7 @@
   },
   {
     "GameId": 537735,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T14:45:00Z",
@@ -7563,7 +7563,7 @@
   },
   {
     "GameId": 537736,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T14:45:00Z",
@@ -7589,7 +7589,7 @@
   },
   {
     "GameId": 537737,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T14:45:00Z",
@@ -7615,7 +7615,7 @@
   },
   {
     "GameId": 537738,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
@@ -7641,7 +7641,7 @@
   },
   {
     "GameId": 537739,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
@@ -7667,7 +7667,7 @@
   },
   {
     "GameId": 537740,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
@@ -7693,7 +7693,7 @@
   },
   {
     "GameId": 537741,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
@@ -7719,7 +7719,7 @@
   },
   {
     "GameId": 537742,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
@@ -7745,7 +7745,7 @@
   },
   {
     "GameId": 537743,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
@@ -7771,7 +7771,7 @@
   },
   {
     "GameId": 537744,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
@@ -7797,7 +7797,7 @@
   },
   {
     "GameId": 537745,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
@@ -7823,7 +7823,7 @@
   },
   {
     "GameId": 537746,
-    "RoundId": 32,
+    "RoundId": 31,
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
