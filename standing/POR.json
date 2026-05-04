@@ -50,6 +50,25 @@
         {
           "position": 2,
           "team": {
+            "id": 498,
+            "name": "Sporting Clube de Portugal",
+            "shortName": "Sporting CP",
+            "tla": "SPO",
+            "crest": "https://crests.football-data.org/498.png"
+          },
+          "playedGames": 32,
+          "form": null,
+          "won": 23,
+          "draw": 7,
+          "lost": 2,
+          "points": 76,
+          "goalsFor": 82,
+          "goalsAgainst": 22,
+          "goalDifference": 60
+        },
+        {
+          "position": 3,
+          "team": {
             "id": 1903,
             "name": "Sport Lisboa e Benfica",
             "shortName": "SL Benfica",
@@ -65,25 +84,6 @@
           "goalsFor": 69,
           "goalsAgainst": 22,
           "goalDifference": 47
-        },
-        {
-          "position": 3,
-          "team": {
-            "id": 498,
-            "name": "Sporting Clube de Portugal",
-            "shortName": "Sporting CP",
-            "tla": "SPO",
-            "crest": "https://crests.football-data.org/498.png"
-          },
-          "playedGames": 31,
-          "form": null,
-          "won": 22,
-          "draw": 7,
-          "lost": 2,
-          "points": 73,
-          "goalsFor": 77,
-          "goalsAgainst": 22,
-          "goalDifference": 55
         },
         {
           "position": 4,
@@ -151,15 +151,15 @@
             "tla": "GUI",
             "crest": "https://crests.football-data.org/5543.png"
           },
-          "playedGames": 31,
+          "playedGames": 32,
           "form": null,
           "won": 12,
           "draw": 6,
-          "lost": 13,
+          "lost": 14,
           "points": 42,
           "goalsFor": 38,
-          "goalsAgainst": 43,
-          "goalDifference": -5
+          "goalsAgainst": 48,
+          "goalDifference": -10
         },
         {
           "position": 8,

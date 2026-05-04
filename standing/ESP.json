@@ -189,15 +189,15 @@
             "tla": "RSO",
             "crest": "https://crests.football-data.org/92.png"
           },
-          "playedGames": 33,
+          "playedGames": 34,
           "form": null,
           "won": 11,
           "draw": 10,
-          "lost": 12,
+          "lost": 13,
           "points": 43,
           "goalsFor": 52,
-          "goalsAgainst": 52,
-          "goalDifference": 0
+          "goalsAgainst": 53,
+          "goalDifference": -1
         },
         {
           "position": 10,
@@ -335,6 +335,25 @@
         {
           "position": 17,
           "team": {
+            "id": 559,
+            "name": "Sevilla FC",
+            "shortName": "Sevilla FC",
+            "tla": "SEV",
+            "crest": "https://crests.football-data.org/559.png"
+          },
+          "playedGames": 34,
+          "form": null,
+          "won": 10,
+          "draw": 7,
+          "lost": 17,
+          "points": 37,
+          "goalsFor": 41,
+          "goalsAgainst": 55,
+          "goalDifference": -14
+        },
+        {
+          "position": 18,
+          "team": {
             "id": 263,
             "name": "Deportivo Alavés",
             "shortName": "Alavés",
@@ -350,25 +369,6 @@
           "goalsFor": 40,
           "goalsAgainst": 53,
           "goalDifference": -13
-        },
-        {
-          "position": 18,
-          "team": {
-            "id": 559,
-            "name": "Sevilla FC",
-            "shortName": "Sevilla FC",
-            "tla": "SEV",
-            "crest": "https://crests.football-data.org/559.png"
-          },
-          "playedGames": 33,
-          "form": null,
-          "won": 9,
-          "draw": 7,
-          "lost": 17,
-          "points": 34,
-          "goalsFor": 40,
-          "goalsAgainst": 55,
-          "goalDifference": -15
         },
         {
           "position": 19,
