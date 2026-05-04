@@ -1489,7 +1489,7 @@
         "id": 273063,
         "name": "Will Wright",
         "position": "Defence",
-        "dateOfBirth": null,
+        "dateOfBirth": "2008-04-03",
         "nationality": "England"
       },
       {
@@ -1505,6 +1505,13 @@
         "position": "Defence",
         "dateOfBirth": "2007-02-21",
         "nationality": "England"
+      },
+      {
+        "id": 295109,
+        "name": "Mor Talla N'Diaye",
+        "position": "Defence",
+        "dateOfBirth": "2008-01-06",
+        "nationality": "Senegal"
       },
       {
         "id": 274726,
@@ -3200,6 +3207,13 @@
         "nationality": "Portugal"
       },
       {
+        "id": 227022,
+        "name": "Josh Gracey",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2007-12-14",
+        "nationality": "Northern Ireland"
+      },
+      {
         "id": 260577,
         "name": "Alfie Brooks",
         "position": "Goalkeeper",
@@ -3412,15 +3426,15 @@
       }
     ],
     "coach": {
-      "id": 3964,
-      "firstName": "Scott",
-      "lastName": "Parker",
-      "name": "Scott Parker",
-      "dateOfBirth": "1980-10-13",
-      "nationality": "England",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-07",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [

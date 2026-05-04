@@ -601,6 +601,13 @@
         "nationality": "France"
       },
       {
+        "id": 295070,
+        "name": "Kelyann Bezahaf",
+        "position": "Defence",
+        "dateOfBirth": "2006-05-16",
+        "nationality": "France"
+      },
+      {
         "id": 183544,
         "name": "Tochukwu Nadi",
         "position": "Midfield",
@@ -1809,6 +1816,13 @@
         "nationality": "Brazil"
       },
       {
+        "id": 204235,
+        "name": "Achraf Laaziri",
+        "position": "Defence",
+        "dateOfBirth": "2003-07-08",
+        "nationality": "Morocco"
+      },
+      {
         "id": 277933,
         "name": "Noham Kamara",
         "position": "Defence",
@@ -2076,10 +2090,31 @@
         "nationality": "France"
       },
       {
+        "id": 295076,
+        "name": "Bilal Laurendon",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2006-02-15",
+        "nationality": "Morocco"
+      },
+      {
         "id": 289216,
         "name": "David Boly",
         "position": "Defence",
         "dateOfBirth": "2009-01-22",
+        "nationality": "France"
+      },
+      {
+        "id": 295073,
+        "name": "Samba Coulibaly",
+        "position": "Defence",
+        "dateOfBirth": "2008-04-04",
+        "nationality": "France"
+      },
+      {
+        "id": 295074,
+        "name": "Thomas Cordier",
+        "position": "Defence",
+        "dateOfBirth": "2006-03-13",
         "nationality": "France"
       },
       {
@@ -2130,6 +2165,27 @@
         "position": "Offence",
         "dateOfBirth": "2008-06-24",
         "nationality": "France"
+      },
+      {
+        "id": 295077,
+        "name": "Pierre Mounguengue",
+        "position": "Offence",
+        "dateOfBirth": "2008-01-03",
+        "nationality": "France"
+      },
+      {
+        "id": 186089,
+        "name": "Warren Zaïre-Emery",
+        "position": "Central Midfield",
+        "dateOfBirth": "2006-03-08",
+        "nationality": "France"
+      },
+      {
+        "id": 178722,
+        "name": "Vitinha",
+        "position": "Central Midfield",
+        "dateOfBirth": "2000-02-13",
+        "nationality": "Portugal"
       },
       {
         "id": 177522,
@@ -2241,20 +2297,6 @@
         "name": "Joao Neves",
         "position": "Defensive Midfield",
         "dateOfBirth": "2004-09-27",
-        "nationality": "Portugal"
-      },
-      {
-        "id": 186089,
-        "name": "Warren Zaïre-Emery",
-        "position": "Central Midfield",
-        "dateOfBirth": "2006-03-08",
-        "nationality": "France"
-      },
-      {
-        "id": 178722,
-        "name": "Vitinha",
-        "position": "Central Midfield",
-        "dateOfBirth": "2000-02-13",
         "nationality": "Portugal"
       }
     ],
@@ -3404,6 +3446,13 @@
         "nationality": "Sweden"
       },
       {
+        "id": 170411,
+        "name": "Lucas Bonelli",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2003-02-14",
+        "nationality": "France"
+      },
+      {
         "id": 188030,
         "name": "Alexis Mirbach",
         "position": "Goalkeeper",
@@ -3478,13 +3527,6 @@
         "name": "Junior Kone",
         "position": "Offence",
         "dateOfBirth": "2007-03-11",
-        "nationality": "France"
-      },
-      {
-        "id": 170412,
-        "name": "Matthis Abline",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2003-03-28",
         "nationality": "France"
       },
       {
@@ -3604,6 +3646,13 @@
         "name": "Mohamed Kaba",
         "position": "Central Midfield",
         "dateOfBirth": "2001-10-27",
+        "nationality": "France"
+      },
+      {
+        "id": 170412,
+        "name": "Matthis Abline",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2003-03-28",
         "nationality": "France"
       }
     ],
@@ -4179,7 +4228,7 @@
       "nationality": "Belgium",
       "contract": {
         "start": "2025-10",
-        "until": "2026-06"
+        "until": "2027-06"
       }
     },
     "squad": [
@@ -4598,6 +4647,20 @@
         "nationality": "France"
       },
       {
+        "id": 295113,
+        "name": "Yaya Diemé",
+        "position": "Offence",
+        "dateOfBirth": "2007-10-16",
+        "nationality": "Senegal"
+      },
+      {
+        "id": 206809,
+        "name": "Samuel Amo-Ameyaw",
+        "position": "Right Winger",
+        "dateOfBirth": "2006-07-18",
+        "nationality": "England"
+      },
+      {
         "id": 204426,
         "name": "Martial Godo",
         "position": "Left Winger",
@@ -4708,13 +4771,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "2005-04-29",
         "nationality": "Argentina"
-      },
-      {
-        "id": 206809,
-        "name": "Samuel Amo-Ameyaw",
-        "position": "Right Winger",
-        "dateOfBirth": "2006-07-18",
-        "nationality": "England"
       }
     ],
     "staff": [],

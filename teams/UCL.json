@@ -1875,7 +1875,7 @@
         "id": 273063,
         "name": "Will Wright",
         "position": "Defence",
-        "dateOfBirth": null,
+        "dateOfBirth": "2008-04-03",
         "nationality": "England"
       },
       {
@@ -1891,6 +1891,13 @@
         "position": "Defence",
         "dateOfBirth": "2007-02-21",
         "nationality": "England"
+      },
+      {
+        "id": 295109,
+        "name": "Mor Talla N'Diaye",
+        "position": "Defence",
+        "dateOfBirth": "2008-01-06",
+        "nationality": "Senegal"
       },
       {
         "id": 274726,
@@ -6135,6 +6142,13 @@
         "nationality": "France"
       },
       {
+        "id": 295070,
+        "name": "Kelyann Bezahaf",
+        "position": "Defence",
+        "dateOfBirth": "2006-05-16",
+        "nationality": "France"
+      },
+      {
         "id": 183544,
         "name": "Tochukwu Nadi",
         "position": "Midfield",
@@ -6395,10 +6409,31 @@
         "nationality": "France"
       },
       {
+        "id": 295076,
+        "name": "Bilal Laurendon",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2006-02-15",
+        "nationality": "Morocco"
+      },
+      {
         "id": 289216,
         "name": "David Boly",
         "position": "Defence",
         "dateOfBirth": "2009-01-22",
+        "nationality": "France"
+      },
+      {
+        "id": 295073,
+        "name": "Samba Coulibaly",
+        "position": "Defence",
+        "dateOfBirth": "2008-04-04",
+        "nationality": "France"
+      },
+      {
+        "id": 295074,
+        "name": "Thomas Cordier",
+        "position": "Defence",
+        "dateOfBirth": "2006-03-13",
         "nationality": "France"
       },
       {
@@ -6449,6 +6484,27 @@
         "position": "Offence",
         "dateOfBirth": "2008-06-24",
         "nationality": "France"
+      },
+      {
+        "id": 295077,
+        "name": "Pierre Mounguengue",
+        "position": "Offence",
+        "dateOfBirth": "2008-01-03",
+        "nationality": "France"
+      },
+      {
+        "id": 186089,
+        "name": "Warren Zaïre-Emery",
+        "position": "Central Midfield",
+        "dateOfBirth": "2006-03-08",
+        "nationality": "France"
+      },
+      {
+        "id": 178722,
+        "name": "Vitinha",
+        "position": "Central Midfield",
+        "dateOfBirth": "2000-02-13",
+        "nationality": "Portugal"
       },
       {
         "id": 177522,
@@ -6561,20 +6617,6 @@
         "position": "Defensive Midfield",
         "dateOfBirth": "2004-09-27",
         "nationality": "Portugal"
-      },
-      {
-        "id": 186089,
-        "name": "Warren Zaïre-Emery",
-        "position": "Central Midfield",
-        "dateOfBirth": "2006-03-08",
-        "nationality": "France"
-      },
-      {
-        "id": 178722,
-        "name": "Vitinha",
-        "position": "Central Midfield",
-        "dateOfBirth": "2000-02-13",
-        "nationality": "Portugal"
       }
     ],
     "staff": [],
@@ -6629,7 +6671,7 @@
       "nationality": "Belgium",
       "contract": {
         "start": "2025-10",
-        "until": "2026-06"
+        "until": "2027-06"
       }
     },
     "squad": [
@@ -7443,15 +7485,15 @@
       }
     ],
     "coach": {
-      "id": 166944,
-      "firstName": "",
-      "lastName": "José Luis Mendilíbar",
-      "name": "Jose Luis Mendilibar",
-      "dateOfBirth": "1961-03-14",
-      "nationality": "Spain",
+      "id": 294993,
+      "firstName": "Marios",
+      "lastName": "Christofi",
+      "name": "Marios Christofi",
+      "dateOfBirth": "1978-01-18",
+      "nationality": "Cyprus",
       "contract": {
-        "start": "2024-02",
-        "until": "2027-06"
+        "start": "2026-04",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -7730,13 +7772,6 @@
         "emblem": "https://crests.football-data.org/ED.png"
       },
       {
-        "id": 2109,
-        "name": "KNVB Beker",
-        "code": "KNV",
-        "type": "CUP",
-        "emblem": null
-      },
-      {
         "id": 2001,
         "name": "UEFA Champions League",
         "code": "CL",
@@ -8002,13 +8037,6 @@
         "code": "DED",
         "type": "LEAGUE",
         "emblem": "https://crests.football-data.org/ED.png"
-      },
-      {
-        "id": 2109,
-        "name": "KNVB Beker",
-        "code": "KNV",
-        "type": "CUP",
-        "emblem": null
       },
       {
         "id": 2001,
@@ -9022,6 +9050,13 @@
         "nationality": "Denmark"
       },
       {
+        "id": 294859,
+        "name": "Kyung-hyun Lee",
+        "position": "Defence",
+        "dateOfBirth": "2007-08-09",
+        "nationality": "South Korea"
+      },
+      {
         "id": 3460,
         "name": "Thomas Delaney",
         "position": "Midfield",
@@ -9141,6 +9176,13 @@
         "nationality": "Cameroon"
       },
       {
+        "id": 169152,
+        "name": "Amir Richardson",
+        "position": "Central Midfield",
+        "dateOfBirth": "2002-01-24",
+        "nationality": "Morocco"
+      },
+      {
         "id": 150817,
         "name": "Youssoufa Moukoko",
         "position": "Centre-Forward",
@@ -9174,13 +9216,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "1997-01-18",
         "nationality": "Greece"
-      },
-      {
-        "id": 169152,
-        "name": "Amir Richardson",
-        "position": "Central Midfield",
-        "dateOfBirth": "2002-01-24",
-        "nationality": "Morocco"
       }
     ],
     "staff": [],
@@ -10386,15 +10421,15 @@
       }
     ],
     "coach": {
-      "id": 129768,
-      "firstName": "Albert",
-      "lastName": "Celades",
-      "name": "Albert Celades",
-      "dateOfBirth": "1975-09-29",
-      "nationality": "Spain",
+      "id": 57657,
+      "firstName": "",
+      "lastName": "Sá Pinto",
+      "name": "Sá Pinto",
+      "dateOfBirth": "1972-10-10",
+      "nationality": "Portugal",
       "contract": {
-        "start": "2026-01",
-        "until": "2027-06"
+        "start": "2026-04",
+        "until": "2026-06"
       }
     },
     "squad": [
