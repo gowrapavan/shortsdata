@@ -462,7 +462,7 @@ def fetch_siiir():
 
     load_team_data()
 
-    url = "https://w4.siiir.tv/"
+    url = "https://siiir.tv/"
     headers = {"User-Agent": "Mozilla/5.0"}
     html = requests.get(url, headers=headers, timeout=10).text
     soup = BeautifulSoup(html, "html.parser")
