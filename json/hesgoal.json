@@ -1,77 +1,5 @@
 [
   {
-    "time": "2026-05-06 23:30 IST",
-    "game": "football",
-    "league": "Saudi League",
-    "home_team": "Al Fateh",
-    "away_team": "Al Ahli Jeddah",
-    "label": "alf-ala",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8942.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8946.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-05-07 00:30 IST",
-    "game": "football",
-    "league": "UEFA Champions League - Semi Finals",
-    "home_team": "PSG",
-    "away_team": "Bayern Munich",
-    "label": "psg-bay",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/480.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/331.png",
-    "url": "",
-    "servers": []
-  },
-  {
-    "time": "2026-05-07 07:00 IST",
-    "game": "football",
-    "league": "CONCACAF Champions Cup - Semi Finals",
-    "home_team": "Los Angeles FC",
-    "away_team": "Toluca",
-    "label": "los-tol",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/51178.png",
-    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2078",
-    "url": "https://yallashoot.cfd/albaplayer/toluca-vs-los-angeles-fc/",
-    "servers": []
-  },
-  {
-    "time": "2026-05-07 19:30 IST",
-    "game": "football",
-    "league": "Premier League - Final Round - Group B",
-    "home_team": "Ghazl El-Mehalla",
-    "away_team": "El Geish",
-    "label": "gha-elg",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8610.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8306.png",
-    "url": "https://yallashoot.cfd/albaplayer/el-geish-vs-ghazl-el-mehalla/",
-    "servers": []
-  },
-  {
-    "time": "2026-05-07 22:30 IST",
-    "game": "football",
-    "league": "Premier League - Final Round - Group B",
-    "home_team": "Zed FC",
-    "away_team": "Haras El Hodood",
-    "label": "zed-har",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/29732.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8307.png",
-    "url": "https://yallashoot.cfd/albaplayer/haras-el-hodood-vs-zed-fc/",
-    "servers": []
-  },
-  {
-    "time": "2026-05-07 22:30 IST",
-    "game": "football",
-    "league": "Premier League - Final Round - Group B",
-    "home_team": "Ismaily",
-    "away_team": "National Bank Of Egypt",
-    "label": "ism-nat",
-    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8299.png",
-    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/50527.png",
-    "url": "https://yallashoot.cfd/albaplayer/national-bank-of-egypt-vs-ismaily/",
-    "servers": []
-  },
-  {
     "time": "2026-05-07 23:30 IST",
     "game": "football",
     "league": "Saudi League",
@@ -80,7 +8,7 @@
     "label": "aln-als",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/7549.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/8945.png",
-    "url": "https://yallashoot.cfd/albaplayer/al-shabab-riyadh-vs-al-nassr-fc-riyadh/",
+    "url": "",
     "servers": []
   },
   {
@@ -92,7 +20,7 @@
     "label": "ray-str",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/174.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/479.png",
-    "url": "https://yallashoot.cfd/albaplayer/strasbourg-vs-rayo-vallecano/",
+    "url": "",
     "servers": []
   },
   {
@@ -104,7 +32,7 @@
     "label": "scb-fre",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/895.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/354.png",
-    "url": "https://yallashoot.cfd/albaplayer/freiburg-vs-sc-braga/",
+    "url": "",
     "servers": []
   },
   {
@@ -116,7 +44,7 @@
     "label": "not-ast",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/29.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/109.png",
-    "url": "https://yallashoot.cfd/albaplayer/aston-villa-vs-nottingham-forest/",
+    "url": "",
     "servers": []
   },
   {
@@ -128,7 +56,127 @@
     "label": "sha-cry",
     "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/1955.png",
     "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/10.png",
-    "url": "https://yallashoot.cfd/albaplayer/crystal-palace-vs-shakhtar-donetsk/",
+    "url": "",
+    "servers": []
+  },
+  {
+    "time": "2026-05-08 22:00 IST",
+    "game": "football",
+    "league": "Bundesliga 2",
+    "home_team": "Karlsruher",
+    "away_team": "SC Paderborn 07",
+    "label": "kar-scp",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/336.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/366.png",
+    "url": "https://yallashoot.cfd/albaplayer/sc-paderborn-07-vs-karlsruher/",
+    "servers": []
+  },
+  {
+    "time": "2026-05-08 22:00 IST",
+    "game": "football",
+    "league": "Bundesliga 2",
+    "home_team": "Arminia Bielefeld",
+    "away_team": "FC Kaiserslautern",
+    "label": "arm-fck",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/345.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/364.png",
+    "url": "https://yallashoot.cfd/albaplayer/fc-kaiserslautern-vs-arminia-bielefeld/",
+    "servers": []
+  },
+  {
+    "time": "2026-05-08 22:30 IST",
+    "game": "football",
+    "league": "Superliga - Championship Group",
+    "home_team": "Sonderjyske",
+    "away_team": "Viborg",
+    "label": "son-vib",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1835",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1833",
+    "url": "https://yallashoot.cfd/albaplayer/viborg-vs-sonderjyske/",
+    "servers": []
+  },
+  {
+    "time": "2026-05-08 23:30 IST",
+    "game": "football",
+    "league": "King's Cup - Final",
+    "home_team": "Al Hilal Riyadh",
+    "away_team": "Al-Kholood",
+    "label": "alh-alk",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/5457.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/55800.png",
+    "url": "https://yallashoot.cfd/albaplayer/al-kholood-vs-al-hilal-riyadh/",
+    "servers": []
+  },
+  {
+    "time": "2026-05-09 00:00 IST",
+    "game": "football",
+    "league": "Bundesliga",
+    "home_team": "Eintracht Frankfurt",
+    "away_team": "Borussia Dortmund",
+    "label": "ein-bor",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/337.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/341.png",
+    "url": "https://yallashoot.cfd/albaplayer/borussia-dortmund-vs-eintracht-frankfurt/",
+    "servers": []
+  },
+  {
+    "time": "2026-05-09 00:15 IST",
+    "game": "football",
+    "league": "Serie A",
+    "home_team": "Sassuolo",
+    "away_team": "Torino",
+    "label": "sas-tor",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/266.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/235.png",
+    "url": "https://yallashoot.cfd/albaplayer/torino-vs-sassuolo/",
+    "servers": []
+  },
+  {
+    "time": "2026-05-09 00:15 IST",
+    "game": "football",
+    "league": "Ligue 1",
+    "home_team": "Nantes",
+    "away_team": "Lens",
+    "label": "nan-len",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/486.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/481.png",
+    "url": "https://yallashoot.cfd/albaplayer/lens-vs-nantes/",
+    "servers": []
+  },
+  {
+    "time": "2026-05-09 00:15 IST",
+    "game": "football",
+    "league": "Jupiler Pro League - Playoffs - Conference League Group",
+    "home_team": "Oud-Heverlee Leuven",
+    "away_team": "Standard de Liège",
+    "label": "oud-sta",
+    "home_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1189",
+    "away_logo": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1170",
+    "url": "https://yallashoot.cfd/albaplayer/standard-de-liège-vs-oud-heverlee-leuven/",
+    "servers": []
+  },
+  {
+    "time": "2026-05-09 00:30 IST",
+    "game": "football",
+    "league": "LaLiga",
+    "home_team": "Osasuna",
+    "away_team": "Levante",
+    "label": "osa-lev",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/143.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/150.png",
+    "url": "https://yallashoot.cfd/albaplayer/levante-vs-osasuna/",
+    "servers": []
+  },
+  {
+    "time": "2026-05-09 00:30 IST",
+    "game": "football",
+    "league": "Championship - Promotion Play-off",
+    "home_team": "Millwall",
+    "away_team": "Hull City",
+    "label": "mil-hul",
+    "home_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/45.png",
+    "away_logo": "https://cdn.statically.io/gh/dev-malikweb/images/teams-imgs/11.png",
+    "url": "https://yallashoot.cfd/albaplayer/hull-city-vs-millwall/",
     "servers": []
   }
 ]
