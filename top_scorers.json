@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-05T07:50:09.735692Z",
+    "last_updated": "2026-05-07T08:09:25.225569Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -601,7 +601,7 @@
                     "player_name": "Harry Kane",
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 13,
+                    "goals": 14,
                     "assists": 2,
                     "penalties": 4,
                     "nationality": "England"
@@ -611,7 +611,7 @@
                     "team_name": "Paris Saint-Germain FC",
                     "team_crest": "https://crests.football-data.org/524.png",
                     "goals": 10,
-                    "assists": 5,
+                    "assists": 6,
                     "penalties": null,
                     "nationality": "Georgia"
                 },
@@ -652,6 +652,15 @@
                     "nationality": "Nigeria"
                 },
                 {
+                    "player_name": "Ousmane Dembélé",
+                    "team_name": "Paris Saint-Germain FC",
+                    "team_crest": "https://crests.football-data.org/524.png",
+                    "goals": 7,
+                    "assists": 2,
+                    "penalties": 1,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Luis Díaz",
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
@@ -668,15 +677,6 @@
                     "assists": 2,
                     "penalties": null,
                     "nationality": "Brazil"
-                },
-                {
-                    "player_name": "Jens Hauge",
-                    "team_name": "FK Bodø/Glimt",
-                    "team_crest": "https://crests.football-data.org/5721.png",
-                    "goals": 6,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Norway"
                 }
             ]
         }
