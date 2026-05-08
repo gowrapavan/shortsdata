@@ -7473,7 +7473,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-05-08",
     "DateTime": "2026-05-08T18:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 4,
@@ -7484,11 +7484,11 @@
     "AwayTeamName": "Eintracht Frankfurt",
     "HomeTeamLogo": "https://crests.football-data.org/4.png",
     "AwayTeamLogo": "https://crests.football-data.org/19.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 2,
+    "Result": 4,
     "Points": {
-      "4": 0,
+      "4": 3,
       "19": 0
     },
     "Goals": []
