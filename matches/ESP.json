@@ -8755,7 +8755,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-09",
     "DateTime": "2026-05-09T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 78,
@@ -8766,12 +8766,12 @@
     "AwayTeamName": "RC Celta de Vigo",
     "HomeTeamLogo": "https://crests.football-data.org/78.png",
     "AwayTeamLogo": "https://crests.football-data.org/558.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 558,
     "Points": {
       "78": 0,
-      "558": 0
+      "558": 3
     },
     "Goals": []
   },
@@ -8911,7 +8911,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-09",
     "DateTime": "2026-05-09T14:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 559,
@@ -8922,11 +8922,11 @@
     "AwayTeamName": "RCD Espanyol de Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/559.png",
     "AwayTeamLogo": "https://crests.football-data.org/80.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 559,
     "Points": {
-      "559": 0,
+      "559": 3,
       "80": 0
     },
     "Goals": []

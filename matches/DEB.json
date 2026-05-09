@@ -7421,7 +7421,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-05-09",
     "DateTime": "2026-05-09T16:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 11,
@@ -7432,12 +7432,12 @@
     "AwayTeamName": "FC Bayern München",
     "HomeTeamLogo": "https://crests.football-data.org/11.png",
     "AwayTeamLogo": "https://crests.football-data.org/5.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 5,
     "Points": {
       "11": 0,
-      "5": 0
+      "5": 3
     },
     "Goals": []
   },
