@@ -732,20 +732,18 @@ def fetch_streamfree():
                 dt_ist = dt.astimezone(IST)
                 time_ist = dt_ist.strftime("%Y-%m-%d %H:%M IST")
 
-            # 4. Extract Logos (Use your crest finder, fallback to their thumbnail)
+            # 4. Extract Logos
             home_logo = find_team_crest(home)
             away_logo = find_team_crest(away)
             
-            # If find_team_crest fails, try to use the stream's thumbnail image
             if home_logo in LOGOS: # meaning it fell back to random
                 thumb = match.get("thumbnail_url", "")
                 if thumb:
                     home_logo = f"https://streamfree.app{thumb}" if thumb.startswith("/") else thumb
 
-            # 5. Build Final URL with Corsproxy
-            # The player page source code revealed the iframe path is /embed/{category}/{stream_key}
-            raw_iframe_src = f"https://streamfree.app/embed/{category}/{stream_key}?quality=720p&category={category}"
-            final_stream_url = f"https://corsproxy.io/?{raw_iframe_src}"
+            # 5. Build Final URL (NO PROXY!)
+            # 🚨 Removed corsproxy.io from here 🚨
+            final_stream_url = f"https://streamfree.app/embed/{category}/{stream_key}?quality=720p&category={category}"
 
             # 6. Append
             matches.append({
@@ -764,6 +762,7 @@ def fetch_streamfree():
         print(f"⚠️ Failed to fetch StreamFree API: {e}")
         
     return matches
+
 
 def fetch_liverscore():
     """
