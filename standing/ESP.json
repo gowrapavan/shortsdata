@@ -94,15 +94,15 @@
             "tla": "ATL",
             "crest": "https://crests.football-data.org/78.png"
           },
-          "playedGames": 34,
+          "playedGames": 35,
           "form": null,
           "won": 19,
           "draw": 6,
-          "lost": 9,
+          "lost": 10,
           "points": 63,
           "goalsFor": 58,
-          "goalsAgainst": 37,
-          "goalDifference": 21
+          "goalsAgainst": 38,
+          "goalDifference": 20
         },
         {
           "position": 5,
@@ -113,15 +113,15 @@
             "tla": "BET",
             "crest": "https://crests.football-data.org/90.png"
           },
-          "playedGames": 34,
+          "playedGames": 35,
           "form": null,
-          "won": 13,
+          "won": 14,
           "draw": 14,
           "lost": 7,
-          "points": 53,
-          "goalsFor": 52,
+          "points": 56,
+          "goalsFor": 54,
           "goalsAgainst": 41,
-          "goalDifference": 11
+          "goalDifference": 13
         },
         {
           "position": 6,
@@ -132,15 +132,15 @@
             "tla": "CEL",
             "crest": "https://crests.football-data.org/558.png"
           },
-          "playedGames": 34,
+          "playedGames": 35,
           "form": null,
-          "won": 12,
+          "won": 13,
           "draw": 11,
           "lost": 11,
-          "points": 47,
-          "goalsFor": 48,
+          "points": 50,
+          "goalsFor": 49,
           "goalsAgainst": 44,
-          "goalDifference": 4
+          "goalDifference": 5
         },
         {
           "position": 7,
@@ -189,15 +189,15 @@
             "tla": "RSO",
             "crest": "https://crests.football-data.org/92.png"
           },
-          "playedGames": 34,
+          "playedGames": 35,
           "form": null,
           "won": 11,
           "draw": 10,
-          "lost": 13,
+          "lost": 14,
           "points": 43,
           "goalsFor": 52,
-          "goalsAgainst": 53,
-          "goalDifference": -1
+          "goalsAgainst": 55,
+          "goalDifference": -3
         },
         {
           "position": 10,
@@ -240,6 +240,44 @@
         {
           "position": 12,
           "team": {
+            "id": 559,
+            "name": "Sevilla FC",
+            "shortName": "Sevilla FC",
+            "tla": "SEV",
+            "crest": "https://crests.football-data.org/559.png"
+          },
+          "playedGames": 35,
+          "form": null,
+          "won": 11,
+          "draw": 7,
+          "lost": 17,
+          "points": 40,
+          "goalsFor": 43,
+          "goalsAgainst": 56,
+          "goalDifference": -13
+        },
+        {
+          "position": 13,
+          "team": {
+            "id": 285,
+            "name": "Elche CF",
+            "shortName": "Elche",
+            "tla": "ELC",
+            "crest": "https://crests.football-data.org/285.png"
+          },
+          "playedGames": 35,
+          "form": null,
+          "won": 9,
+          "draw": 12,
+          "lost": 14,
+          "points": 39,
+          "goalsFor": 46,
+          "goalsAgainst": 54,
+          "goalDifference": -8
+        },
+        {
+          "position": 14,
+          "team": {
             "id": 95,
             "name": "Valencia CF",
             "shortName": "Valencia",
@@ -257,7 +295,7 @@
           "goalDifference": -13
         },
         {
-          "position": 13,
+          "position": 15,
           "team": {
             "id": 80,
             "name": "RCD Espanyol de Barcelona",
@@ -265,37 +303,18 @@
             "tla": "ESP",
             "crest": "https://crests.football-data.org/80.png"
           },
-          "playedGames": 34,
+          "playedGames": 35,
           "form": null,
           "won": 10,
           "draw": 9,
-          "lost": 15,
+          "lost": 16,
           "points": 39,
-          "goalsFor": 37,
-          "goalsAgainst": 51,
-          "goalDifference": -14
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 285,
-            "name": "Elche CF",
-            "shortName": "Elche",
-            "tla": "ELC",
-            "crest": "https://crests.football-data.org/285.png"
-          },
-          "playedGames": 34,
-          "form": null,
-          "won": 9,
-          "draw": 11,
-          "lost": 14,
-          "points": 38,
-          "goalsFor": 45,
+          "goalsFor": 38,
           "goalsAgainst": 53,
-          "goalDifference": -8
+          "goalDifference": -15
         },
         {
-          "position": 15,
+          "position": 16,
           "team": {
             "id": 89,
             "name": "RCD Mallorca",
@@ -314,7 +333,7 @@
           "goalDifference": -9
         },
         {
-          "position": 16,
+          "position": 17,
           "team": {
             "id": 298,
             "name": "Girona FC",
@@ -333,25 +352,6 @@
           "goalDifference": -15
         },
         {
-          "position": 17,
-          "team": {
-            "id": 559,
-            "name": "Sevilla FC",
-            "shortName": "Sevilla FC",
-            "tla": "SEV",
-            "crest": "https://crests.football-data.org/559.png"
-          },
-          "playedGames": 34,
-          "form": null,
-          "won": 10,
-          "draw": 7,
-          "lost": 17,
-          "points": 37,
-          "goalsFor": 41,
-          "goalsAgainst": 55,
-          "goalDifference": -14
-        },
-        {
           "position": 18,
           "team": {
             "id": 263,
@@ -360,14 +360,14 @@
             "tla": "ALA",
             "crest": "https://crests.football-data.org/263.png"
           },
-          "playedGames": 34,
+          "playedGames": 35,
           "form": null,
           "won": 9,
-          "draw": 9,
+          "draw": 10,
           "lost": 16,
-          "points": 36,
-          "goalsFor": 40,
-          "goalsAgainst": 53,
+          "points": 37,
+          "goalsFor": 41,
+          "goalsAgainst": 54,
           "goalDifference": -13
         },
         {

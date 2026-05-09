@@ -56,15 +56,15 @@
             "tla": "MCI",
             "crest": "https://crests.football-data.org/65.png"
           },
-          "playedGames": 34,
+          "playedGames": 35,
           "form": null,
-          "won": 21,
+          "won": 22,
           "draw": 8,
           "lost": 5,
-          "points": 71,
-          "goalsFor": 69,
+          "points": 74,
+          "goalsFor": 72,
           "goalsAgainst": 32,
-          "goalDifference": 37
+          "goalDifference": 40
         },
         {
           "position": 3,
@@ -75,12 +75,12 @@
             "tla": "MUN",
             "crest": "https://crests.football-data.org/66.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 18,
-          "draw": 10,
+          "draw": 11,
           "lost": 7,
-          "points": 64,
+          "points": 65,
           "goalsFor": 63,
           "goalsAgainst": 48,
           "goalDifference": 15
@@ -94,14 +94,14 @@
             "tla": "LIV",
             "crest": "https://crests.football-data.org/64.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 17,
-          "draw": 7,
+          "draw": 8,
           "lost": 11,
-          "points": 58,
-          "goalsFor": 59,
-          "goalsAgainst": 47,
+          "points": 59,
+          "goalsFor": 60,
+          "goalsAgainst": 48,
           "goalDifference": 12
         },
         {
@@ -132,37 +132,18 @@
             "tla": "BOU",
             "crest": "https://crests.football-data.org/bournemouth.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
-          "won": 12,
+          "won": 13,
           "draw": 16,
           "lost": 7,
-          "points": 52,
-          "goalsFor": 55,
+          "points": 55,
+          "goalsFor": 56,
           "goalsAgainst": 52,
-          "goalDifference": 3
+          "goalDifference": 4
         },
         {
           "position": 7,
-          "team": {
-            "id": 402,
-            "name": "Brentford FC",
-            "shortName": "Brentford",
-            "tla": "BRE",
-            "crest": "https://crests.football-data.org/402.png"
-          },
-          "playedGames": 35,
-          "form": null,
-          "won": 14,
-          "draw": 9,
-          "lost": 12,
-          "points": 51,
-          "goalsFor": 52,
-          "goalsAgainst": 46,
-          "goalDifference": 6
-        },
-        {
-          "position": 8,
           "team": {
             "id": 397,
             "name": "Brighton & Hove Albion FC",
@@ -170,15 +151,34 @@
             "tla": "BHA",
             "crest": "https://crests.football-data.org/397.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
-          "won": 13,
+          "won": 14,
           "draw": 11,
           "lost": 11,
-          "points": 50,
-          "goalsFor": 49,
+          "points": 53,
+          "goalsFor": 52,
           "goalsAgainst": 42,
-          "goalDifference": 7
+          "goalDifference": 10
+        },
+        {
+          "position": 8,
+          "team": {
+            "id": 402,
+            "name": "Brentford FC",
+            "shortName": "Brentford",
+            "tla": "BRE",
+            "crest": "https://crests.football-data.org/402.png"
+          },
+          "playedGames": 36,
+          "form": null,
+          "won": 14,
+          "draw": 9,
+          "lost": 13,
+          "points": 51,
+          "goalsFor": 52,
+          "goalsAgainst": 49,
+          "goalDifference": 3
         },
         {
           "position": 9,
@@ -189,14 +189,14 @@
             "tla": "CHE",
             "crest": "https://crests.football-data.org/61.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 13,
-          "draw": 9,
+          "draw": 10,
           "lost": 13,
-          "points": 48,
-          "goalsFor": 54,
-          "goalsAgainst": 48,
+          "points": 49,
+          "goalsFor": 55,
+          "goalsAgainst": 49,
           "goalDifference": 6
         },
         {
@@ -227,15 +227,15 @@
             "tla": "FUL",
             "crest": "https://crests.football-data.org/63.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 14,
           "draw": 6,
-          "lost": 15,
+          "lost": 16,
           "points": 48,
           "goalsFor": 44,
-          "goalsAgainst": 49,
-          "goalDifference": -5
+          "goalsAgainst": 50,
+          "goalDifference": -6
         },
         {
           "position": 12,
@@ -246,12 +246,12 @@
             "tla": "SUN",
             "crest": "https://crests.football-data.org/71.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 12,
-          "draw": 11,
+          "draw": 12,
           "lost": 12,
-          "points": 47,
+          "points": 48,
           "goalsFor": 37,
           "goalsAgainst": 46,
           "goalDifference": -9
@@ -398,15 +398,15 @@
             "tla": "WOL",
             "crest": "https://crests.football-data.org/76.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 3,
           "draw": 9,
-          "lost": 23,
+          "lost": 24,
           "points": 18,
           "goalsFor": 25,
-          "goalsAgainst": 63,
-          "goalDifference": -38
+          "goalsAgainst": 66,
+          "goalDifference": -41
         }
       ]
     }
