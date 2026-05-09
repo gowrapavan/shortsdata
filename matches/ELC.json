@@ -14214,7 +14214,7 @@
     "RoundId": 46,
     "RoundName": "Championship",
     "Date": "2026-05-12",
-    "DateTime": "2026-05-12T21:00:00Z",
+    "DateTime": "2026-05-12T19:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -14240,7 +14240,7 @@
     "RoundId": 46,
     "RoundName": "Championship",
     "Date": "2026-05-11",
-    "DateTime": "2026-05-11T21:00:00Z",
+    "DateTime": "2026-05-11T19:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -14266,8 +14266,8 @@
     "RoundId": 46,
     "RoundName": "Championship",
     "Date": "2026-05-09",
-    "DateTime": "2026-05-09T13:30:00Z",
-    "Status": "Scheduled",
+    "DateTime": "2026-05-09T11:30:00Z",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 343,
@@ -14278,12 +14278,12 @@
     "AwayTeamName": "Southampton FC",
     "HomeTeamLogo": "https://crests.football-data.org/343.png",
     "AwayTeamLogo": "https://crests.football-data.org/340.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "343": 0,
-      "340": 0
+      "343": 1,
+      "340": 1
     },
     "Goals": []
   },
@@ -14293,7 +14293,7 @@
     "RoundName": "Championship",
     "Date": "2026-05-08",
     "DateTime": "2026-05-08T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 322,
@@ -14308,8 +14308,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "322": 0,
-      "384": 0
+      "322": 1,
+      "384": 1
     },
     "Goals": []
   }
