@@ -148,12 +148,6 @@ def fetch_hesgoal():
         if link_tag and "href" in link_tag.attrs:
             raw_link = link_tag["href"].strip()
 
-        # --------------------------
-        # 🔥 FIX: GENERATE URL IF href="#" OR EMPTY
-        # --------------------------
-       # --------------------------
-        # 🔥 FIX: GENERATE URL IF href="#" OR EMPTY
-        # --------------------------
         if raw_link in ("", "#"):
             # Hesgoal format is ALWAYS: away-vs-home
             away_slug = away.lower().replace(" ", "-")
@@ -579,7 +573,7 @@ def fetch_siiir():
 
     return matches
     
-    def fetch_livesoccerhd():
+def fetch_livesoccerhd():
     """
     Scrape livesoccerhd.info
     - Extract matches from div.AY_Match
