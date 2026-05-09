@@ -679,6 +679,98 @@ def fetch_siiir():
 
     return matches
 
+def fetch_streamfree():
+    """
+    Scrapes streamfree.app using their internal JSON API.
+    Returns all live and upcoming soccer matches.
+    """
+    load_team_data()
+    
+    url = "https://streamfree.app/streams"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Accept": "application/json",
+        "Referer": "https://streamfree.app/"
+    }
+    
+    matches = []
+    
+    try:
+        resp = requests.get(url, headers=headers, timeout=10)
+        if resp.status_code != 200:
+            print(f"⚠️ StreamFree returned status code {resp.status_code}")
+            return []
+            
+        data = resp.json()
+        
+        # Grab only the soccer matches (you can change this to grab basketball, etc.)
+        soccer_streams = data.get("streams", {}).get("soccer", [])
+        
+        for match in soccer_streams:
+            # 1. Extract Name & Teams
+            name = match.get("name", "")
+            home = match.get("home_team", "")
+            away = match.get("away_team", "")
+            
+            # If the API didn't separate home/away, try to split the name string manually
+            if not home and "vs" in name.lower():
+                parts = re.split(r'\s+vs\.?\s+', name, flags=re.IGNORECASE)
+                if len(parts) >= 2:
+                    home = parts[0].strip()
+                    away = parts[1].strip()
+            
+            if not home:
+                home = name
+            if not away:
+                away = "Away"
+
+            # 2. Extract Category, League, and Keys
+            category = match.get("category", "soccer")
+            league = match.get("league", "")
+            stream_key = match.get("stream_key", "")
+            
+            # 3. Time Conversion (Unix Timestamp -> IST)
+            time_ist = ""
+            ts = match.get("match_timestamp")
+            if ts:
+                # API uses Unix Epoch timestamps
+                dt = datetime.fromtimestamp(ts, pytz.utc)
+                dt_ist = dt.astimezone(IST)
+                time_ist = dt_ist.strftime("%Y-%m-%d %H:%M IST")
+
+            # 4. Extract Logos (Use your crest finder, fallback to their thumbnail)
+            home_logo = find_team_crest(home)
+            away_logo = find_team_crest(away)
+            
+            # If find_team_crest fails, try to use the stream's thumbnail image
+            if home_logo in LOGOS: # meaning it fell back to random
+                thumb = match.get("thumbnail_url", "")
+                if thumb:
+                    home_logo = f"https://streamfree.app{thumb}" if thumb.startswith("/") else thumb
+
+            # 5. Build Final URL with Corsproxy
+            # The player page source code revealed the iframe path is /embed/{category}/{stream_key}
+            raw_iframe_src = f"https://streamfree.app/embed/{category}/{stream_key}?quality=720p&category={category}"
+            final_stream_url = f"https://corsproxy.io/?{raw_iframe_src}"
+
+            # 6. Append
+            matches.append({
+                "time": time_ist,
+                "game": "football",
+                "league": league,
+                "home_team": home,
+                "away_team": away,
+                "label": short_label(home, away) if home != name else "streamfree",
+                "home_logo": home_logo or random_logo(),
+                "away_logo": away_logo or random_logo(),
+                "url": final_stream_url
+            })
+            
+    except Exception as e:
+        print(f"⚠️ Failed to fetch StreamFree API: {e}")
+        
+    return matches
+
 # === Save JSONs ===
 JSON_FOLDER = "json"
 os.makedirs(JSON_FOLDER, exist_ok=True)
@@ -690,7 +782,9 @@ if __name__ == "__main__":
         "yallashooote.json": fetch_yallashooote,
         "livekora.json": fetch_livekora,
         "siiir.json": fetch_siiir,      # 👈 ADD THIS
-        "soccerhd.json": fetch_livesoccerhd
+        "soccerhd.json": fetch_livesoccerhd,
+        "streamfree.json": fetch_streamfree  # 👈 ADD THIS LINE
+
 
 
     }
