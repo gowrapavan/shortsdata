@@ -453,90 +453,115 @@ def fetch_livekora():
 
 def fetch_siiir():
     """
-    Scrape w4.siiir.tv
-    - Extract matches
-    - Take hard href ?match=X
-    - Build final iframe src:
-      https://eyj0exaio.../playerv2.php?match=matchX&key=...
+    Scrape www.siir-tv.live
+    - Extract matches from the main page
+    - Open match page (e.g. romi.vip-gx.online/...)
+    - Extract iframe src as the final stream URL
     """
-
     load_team_data()
-
-    url = "https://siiir.tv/"
+    
+    url = "https://www.siir-tv.live/"
     headers = {"User-Agent": "Mozilla/5.0"}
-    html = requests.get(url, headers=headers, timeout=10).text
-    soup = BeautifulSoup(html, "html.parser")
+    
+    try:
+        html = requests.get(url, headers=headers, timeout=10).text
+        soup = BeautifulSoup(html, "html.parser")
+    except Exception as e:
+        print(f"⚠️ Failed to fetch Sir TV main page: {e}")
+        return []
 
     matches = []
+    
+    # Sir TV uses Egypt/Saudi time (UTC+3)
+    SAUDI_TZ = pytz.timezone("Asia/Riyadh")
 
-    for match_div in soup.select("div.AY_Match"):
-
+    for match_div in soup.select("div.match-container"):
+        
         # -----------------------------
-        # Teams
+        # 1. Teams
         # -----------------------------
-        home_tag = match_div.select_one(".TM1 .TM_Name")
-        away_tag = match_div.select_one(".TM2 .TM_Name")
+        home_tag = match_div.select_one(".right-team .team-name")
+        away_tag = match_div.select_one(".left-team .team-name")
 
         home = home_tag.text.strip() if home_tag else ""
         away = away_tag.text.strip() if away_tag else ""
 
-        # -----------------------------
-        # Logos
-        # -----------------------------
-        home_logo_tag = match_div.select_one(".TM1 .TM_Logo img")
-        away_logo_tag = match_div.select_one(".TM2 .TM_Logo img")
-
-        home_logo = home_logo_tag["src"].strip() if home_logo_tag and home_logo_tag.has_attr("src") else random_logo()
-        away_logo = away_logo_tag["src"].strip() if away_logo_tag and away_logo_tag.has_attr("src") else random_logo()
-
-        # -----------------------------
-        # League
-        # -----------------------------
-        league_tag = match_div.select_one(".TourName")
-        league = league_tag.text.strip() if league_tag else ""
-
-        # -----------------------------
-        # Time → IST
-        # -----------------------------
-        time_ist = ""
-        time_tag = match_div.select_one(".MT_Time[data-start]")
-        if time_tag:
-            try:
-                dt = datetime.fromisoformat(time_tag["data-start"].strip())
-                dt_ist = dt.astimezone(IST)
-                time_ist = dt_ist.strftime("%Y-%m-%d %H:%M IST")
-            except Exception:
-                time_ist = ""
-
-        # -----------------------------
-        # Extract hard href
-        # -----------------------------
-        a_tag = match_div.select_one("a[href]")
-        if not a_tag:
+        if not home or not away:
             continue
 
-        hard_href = a_tag["href"].strip()
+        # -----------------------------
+        # 2. Logos (Handle Lazy Loading)
+        # -----------------------------
+        home_img = match_div.select_one(".right-team .team-logo img")
+        away_img = match_div.select_one(".left-team .team-logo img")
+
+        home_logo = home_img.get("data-src") or home_img.get("src") if home_img else None
+        away_logo = away_img.get("data-src") or away_img.get("src") if away_img else None
+
+        # Fallback if image is a base64 lazy-load gif
+        if not home_logo or "data:image" in home_logo:
+            home_logo = find_team_crest(home)
+        if not away_logo or "data:image" in away_logo:
+            away_logo = find_team_crest(away)
 
         # -----------------------------
-        # 🔥 Convert hard href → iframe src
+        # 3. League
         # -----------------------------
-        final_url = ""
+        league = ""
+        info_items = match_div.select(".match-info ul li span")
+        if len(info_items) >= 3:
+            league = info_items[2].text.strip()
 
+        # -----------------------------
+        # 4. Time -> Convert to IST
+        # -----------------------------
+        time_ist = ""
+        time_tag = match_div.select_one(".match-time")
+        
+        if time_tag:
+            time_str = time_tag.text.strip()  # Example format: "2:30 PM"
+            try:
+                now = datetime.now()
+                # Parse 12-hour AM/PM time
+                dt = datetime.strptime(time_str, "%I:%M %p")
+                dt = dt.replace(year=now.year, month=now.month, day=now.day)
+                
+                # Convert Saudi Time (UTC+3) to IST (UTC+5:30)
+                dt_saudi = SAUDI_TZ.localize(dt)
+                dt_ist = dt_saudi.astimezone(IST)
+                time_ist = dt_ist.strftime("%Y-%m-%d %H:%M IST")
+            except Exception:
+                # Fallback to original text if parsing fails
+                time_ist = time_str
+
+        # -----------------------------
+        # 5. Extract Match Page Link
+        # -----------------------------
+        a_tag = match_div.select_one("a.ahmed")
+        if not a_tag or not a_tag.has_attr("href"):
+            continue
+            
+        match_url = a_tag["href"].strip()
+
+        # -----------------------------
+        # 6. Open match page -> extract iframe
+        # -----------------------------
+        final_stream_url = ""
+        
         try:
-            parsed = urlparse(hard_href)
-            qs = parse_qs(parsed.query)
-            match_id = qs.get("match", [None])[0]
-
-            if match_id:
-                final_url = (
-                    "https://eyj0exaioijkv1qilcjhbgcioijiuzi1nij99sss.aleynoxitram.sbs/"
-                    f"playerv2.php?match=match{match_id}&key=c0ae1abba6eebd7e6cc5b88b1d2B71547"
-                )
+            match_html = requests.get(match_url, headers=headers, timeout=10).text
+            match_soup = BeautifulSoup(match_html, "html.parser")
+            
+            # The streaming iframe is inside the .entry-content div
+            iframe = match_soup.select_one(".entry-content iframe")
+            if iframe and iframe.has_attr("src"):
+                final_stream_url = iframe["src"].strip()
+                
         except Exception as e:
-            print("⚠️ siiir parse failed:", e)
+            print(f"⚠️ siiir iframe fetch failed for {home} vs {away}: {e}")
 
         # -----------------------------
-        # Append match
+        # 7. Append match
         # -----------------------------
         matches.append({
             "time": time_ist,
@@ -544,14 +569,13 @@ def fetch_siiir():
             "league": league,
             "home_team": home,
             "away_team": away,
-            "label": short_label(home, away) if home and away else "siiir",
-            "home_logo": home_logo,
-            "away_logo": away_logo,
-            "url": final_url
+            "label": short_label(home, away),
+            "home_logo": home_logo or random_logo(),
+            "away_logo": away_logo or random_logo(),
+            "url": final_stream_url
         })
 
     return matches
-
 def fetch_livesoccerhd():
     """
     Scrape livesoccerhd.info
