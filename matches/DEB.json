@@ -7447,7 +7447,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-05-09",
     "DateTime": "2026-05-09T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 10,
@@ -7458,11 +7458,11 @@
     "AwayTeamName": "Bayer 04 Leverkusen",
     "HomeTeamLogo": "https://crests.football-data.org/10.png",
     "AwayTeamLogo": "https://crests.football-data.org/3.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 10,
     "Points": {
-      "10": 0,
+      "10": 3,
       "3": 0
     },
     "Goals": []
@@ -7525,7 +7525,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-05-09",
     "DateTime": "2026-05-09T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 2,
@@ -7536,11 +7536,11 @@
     "AwayTeamName": "SV Werder Bremen",
     "HomeTeamLogo": "https://crests.football-data.org/2.png",
     "AwayTeamLogo": "https://crests.football-data.org/12.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 2,
     "Points": {
-      "2": 0,
+      "2": 3,
       "12": 0
     },
     "Goals": []
@@ -7551,7 +7551,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-05-09",
     "DateTime": "2026-05-09T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 16,
@@ -7562,11 +7562,11 @@
     "AwayTeamName": "Borussia Mönchengladbach",
     "HomeTeamLogo": "https://crests.football-data.org/16.png",
     "AwayTeamLogo": "https://crests.football-data.org/18.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 16,
     "Points": {
-      "16": 0,
+      "16": 3,
       "18": 0
     },
     "Goals": []
@@ -7603,7 +7603,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-05-09",
     "DateTime": "2026-05-09T13:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 721,
@@ -7614,11 +7614,11 @@
     "AwayTeamName": "FC St. Pauli 1910",
     "HomeTeamLogo": "https://crests.football-data.org/721.png",
     "AwayTeamLogo": "https://crests.football-data.org/20.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 721,
     "Points": {
-      "721": 0,
+      "721": 3,
       "20": 0
     },
     "Goals": []
