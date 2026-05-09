@@ -765,6 +765,129 @@ def fetch_streamfree():
         
     return matches
 
+def fetch_liverscore():
+    """
+    Scrape www.liverscore.net
+    - Extract matches from the homepage
+    - Open match page (kooora-sia.com)
+    - Extract iframe src as the final stream URL (NO proxy)
+    """
+    load_team_data()
+    
+    url = "https://www.liverscore.net/"
+    headers = {"User-Agent": "Mozilla/5.0"}
+    
+    try:
+        html = requests.get(url, headers=headers, timeout=10).text
+        soup = BeautifulSoup(html, "html.parser")
+    except Exception as e:
+        print(f"⚠️ Failed to fetch LiverScore main page: {e}")
+        return []
+
+    matches = []
+    
+    # LiverScore uses Saudi Time (Riyadh) for its match times
+    SAUDI_TZ = pytz.timezone("Asia/Riyadh")
+
+    for match_div in soup.select("div.AY_Match"):
+        
+        # -----------------------------
+        # 1. Teams
+        # -----------------------------
+        home_tag = match_div.select_one(".TM1 .TM_Name")
+        away_tag = match_div.select_one(".TM2 .TM_Name")
+
+        home = home_tag.text.strip() if home_tag else ""
+        away = away_tag.text.strip() if away_tag else ""
+
+        if not home or not away:
+            continue
+
+        # -----------------------------
+        # 2. Logos (Handle Lazy Loading)
+        # -----------------------------
+        home_img = match_div.select_one(".TM1 .TM_Logo img")
+        away_img = match_div.select_one(".TM2 .TM_Logo img")
+
+        home_logo = home_img.get("data-src") or home_img.get("src") if home_img else None
+        away_logo = away_img.get("data-src") or away_img.get("src") if away_img else None
+
+        # Fallback if image is a base64 lazy-load gif
+        if not home_logo or "data:image" in home_logo:
+            home_logo = find_team_crest(home)
+        if not away_logo or "data:image" in away_logo:
+            away_logo = find_team_crest(away)
+
+        # -----------------------------
+        # 3. League
+        # -----------------------------
+        league = ""
+        info_items = match_div.select(".MT_Info ul li span")
+        if len(info_items) >= 3:
+            league = info_items[2].text.strip()
+
+        # -----------------------------
+        # 4. Time -> Convert Saudi to IST
+        # -----------------------------
+        time_ist = ""
+        time_tag = match_div.select_one(".MT_Time")
+        
+        if time_tag:
+            time_str = time_tag.text.strip()  # Example: "05:30 PM"
+            try:
+                now = datetime.now()
+                dt = datetime.strptime(time_str, "%I:%M %p")
+                dt = dt.replace(year=now.year, month=now.month, day=now.day)
+                
+                dt_saudi = SAUDI_TZ.localize(dt)
+                dt_ist = dt_saudi.astimezone(IST)
+                time_ist = dt_ist.strftime("%Y-%m-%d %H:%M IST")
+            except Exception:
+                time_ist = time_str
+
+        # -----------------------------
+        # 5. Extract Match Page Link
+        # -----------------------------
+        a_tag = match_div.select_one("a[href]")
+        if not a_tag:
+            continue
+            
+        match_url = a_tag["href"].strip()
+
+        # -----------------------------
+        # 6. Open match page -> extract iframe (No Proxy)
+        # -----------------------------
+        final_stream_url = ""
+        
+        try:
+            match_html = requests.get(match_url, headers=headers, timeout=10).text
+            match_soup = BeautifulSoup(match_html, "html.parser")
+            
+            # The iframe is inside the .entry-content div
+            iframe = match_soup.select_one(".entry-content iframe, iframe")
+            if iframe and iframe.has_attr("src"):
+                final_stream_url = iframe["src"].strip()
+                
+        except Exception as e:
+            print(f"⚠️ LiverScore iframe fetch failed for {home} vs {away}: {e}")
+
+        # -----------------------------
+        # 7. Append match
+        # -----------------------------
+        matches.append({
+            "time": time_ist,
+            "game": "football",
+            "league": league,
+            "home_team": home,
+            "away_team": away,
+            "label": short_label(home, away),
+            "home_logo": home_logo or random_logo(),
+            "away_logo": away_logo or random_logo(),
+            "url": final_stream_url
+        })
+
+    return matches
+
 # === Save JSONs ===
 JSON_FOLDER = "json"
 os.makedirs(JSON_FOLDER, exist_ok=True)
@@ -777,7 +900,8 @@ if __name__ == "__main__":
         "livekora.json": fetch_livekora,
         "siiir.json": fetch_siiir,      # 👈 ADD THIS
         "soccerhd.json": fetch_livesoccerhd,
-        "streamfree.json": fetch_streamfree  # 👈 ADD THIS LINE
+        "streamfree.json": fetch_streamfree , # 👈 ADD THIS LINE
+        "liverscore.json": fetch_liverscore  # 👈 ADD THIS LINE
 
 
 
