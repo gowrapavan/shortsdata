@@ -456,7 +456,7 @@ def fetch_siiir():
     Scrape www.siir-tv.live
     - Extract matches from the main page
     - Open match page (e.g. romi.vip-gx.online/...)
-    - Extract iframe src as the final stream URL
+    - Extract iframe src and prepend corsproxy.io
     """
     load_team_data()
     
@@ -555,7 +555,9 @@ def fetch_siiir():
             # The streaming iframe is inside the .entry-content div
             iframe = match_soup.select_one(".entry-content iframe")
             if iframe and iframe.has_attr("src"):
-                final_stream_url = iframe["src"].strip()
+                raw_src = iframe["src"].strip()
+                # 🔥 APPEND CORSPROXY TO THE RAW URL
+                final_stream_url = f"https://corsproxy.io/?{raw_src}"
                 
         except Exception as e:
             print(f"⚠️ siiir iframe fetch failed for {home} vs {away}: {e}")
@@ -576,7 +578,8 @@ def fetch_siiir():
         })
 
     return matches
-def fetch_livesoccerhd():
+    
+    def fetch_livesoccerhd():
     """
     Scrape livesoccerhd.info
     - Extract matches from div.AY_Match
