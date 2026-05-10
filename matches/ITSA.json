@@ -9051,7 +9051,7 @@
     "RoundName": "Serie A",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 98,
@@ -9062,12 +9062,12 @@
     "AwayTeamName": "Atalanta BC",
     "HomeTeamLogo": "https://crests.football-data.org/98.png",
     "AwayTeamLogo": "https://crests.football-data.org/102.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 102,
     "Points": {
       "98": 0,
-      "102": 0
+      "102": 3
     },
     "Goals": []
   },
