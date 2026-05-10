@@ -151,15 +151,15 @@
             "tla": "SCF",
             "crest": "https://crests.football-data.org/17.png"
           },
-          "playedGames": 32,
+          "playedGames": 33,
           "form": null,
           "won": 12,
           "draw": 8,
-          "lost": 12,
+          "lost": 13,
           "points": 44,
-          "goalsFor": 45,
-          "goalsAgainst": 53,
-          "goalDifference": -8
+          "goalsFor": 47,
+          "goalsAgainst": 56,
+          "goalDifference": -9
         },
         {
           "position": 8,
@@ -208,18 +208,56 @@
             "tla": "M05",
             "crest": "https://crests.football-data.org/15.png"
           },
-          "playedGames": 32,
+          "playedGames": 33,
           "form": null,
           "won": 9,
           "draw": 10,
-          "lost": 13,
+          "lost": 14,
           "points": 37,
-          "goalsFor": 41,
-          "goalsAgainst": 50,
-          "goalDifference": -9
+          "goalsFor": 42,
+          "goalsAgainst": 53,
+          "goalDifference": -11
         },
         {
           "position": 11,
+          "team": {
+            "id": 7,
+            "name": "Hamburger SV",
+            "shortName": "HSV",
+            "tla": "HSV",
+            "crest": "https://crests.football-data.org/7.png"
+          },
+          "playedGames": 33,
+          "form": null,
+          "won": 9,
+          "draw": 10,
+          "lost": 14,
+          "points": 37,
+          "goalsFor": 39,
+          "goalsAgainst": 53,
+          "goalDifference": -14
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": 28,
+            "name": "1. FC Union Berlin",
+            "shortName": "Union Berlin",
+            "tla": "UNB",
+            "crest": "https://crests.football-data.org/28.png"
+          },
+          "playedGames": 33,
+          "form": null,
+          "won": 9,
+          "draw": 9,
+          "lost": 15,
+          "points": 36,
+          "goalsFor": 40,
+          "goalsAgainst": 58,
+          "goalDifference": -18
+        },
+        {
+          "position": 13,
           "team": {
             "id": 18,
             "name": "Borussia Mönchengladbach",
@@ -238,44 +276,6 @@
           "goalDifference": -15
         },
         {
-          "position": 12,
-          "team": {
-            "id": 7,
-            "name": "Hamburger SV",
-            "shortName": "HSV",
-            "tla": "HSV",
-            "crest": "https://crests.football-data.org/7.png"
-          },
-          "playedGames": 32,
-          "form": null,
-          "won": 8,
-          "draw": 10,
-          "lost": 14,
-          "points": 34,
-          "goalsFor": 36,
-          "goalsAgainst": 51,
-          "goalDifference": -15
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 28,
-            "name": "1. FC Union Berlin",
-            "shortName": "Union Berlin",
-            "tla": "UNB",
-            "crest": "https://crests.football-data.org/28.png"
-          },
-          "playedGames": 32,
-          "form": null,
-          "won": 8,
-          "draw": 9,
-          "lost": 15,
-          "points": 33,
-          "goalsFor": 37,
-          "goalsAgainst": 57,
-          "goalDifference": -20
-        },
-        {
           "position": 14,
           "team": {
             "id": 1,
@@ -284,15 +284,15 @@
             "tla": "KOE",
             "crest": "https://crests.football-data.org/1.png"
           },
-          "playedGames": 32,
+          "playedGames": 33,
           "form": null,
           "won": 7,
           "draw": 11,
-          "lost": 14,
+          "lost": 15,
           "points": 32,
-          "goalsFor": 47,
-          "goalsAgainst": 55,
-          "goalDifference": -8
+          "goalsFor": 48,
+          "goalsAgainst": 58,
+          "goalDifference": -10
         },
         {
           "position": 15,
@@ -335,6 +335,25 @@
         {
           "position": 17,
           "team": {
+            "id": 44,
+            "name": "1. FC Heidenheim 1846",
+            "shortName": "Heidenheim",
+            "tla": "HEI",
+            "crest": "https://crests.football-data.org/44.png"
+          },
+          "playedGames": 33,
+          "form": null,
+          "won": 6,
+          "draw": 8,
+          "lost": 19,
+          "points": 26,
+          "goalsFor": 41,
+          "goalsAgainst": 70,
+          "goalDifference": -29
+        },
+        {
+          "position": 18,
+          "team": {
             "id": 20,
             "name": "FC St. Pauli 1910",
             "shortName": "St. Pauli",
@@ -350,25 +369,6 @@
           "goalsFor": 28,
           "goalsAgainst": 57,
           "goalDifference": -29
-        },
-        {
-          "position": 18,
-          "team": {
-            "id": 44,
-            "name": "1. FC Heidenheim 1846",
-            "shortName": "Heidenheim",
-            "tla": "HEI",
-            "crest": "https://crests.football-data.org/44.png"
-          },
-          "playedGames": 32,
-          "form": null,
-          "won": 5,
-          "draw": 8,
-          "lost": 19,
-          "points": 23,
-          "goalsFor": 38,
-          "goalsAgainst": 69,
-          "goalDifference": -31
         }
       ]
     }
