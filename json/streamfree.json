@@ -1,16 +1,5 @@
 [
   {
-    "time": "2026-05-10 16:00 IST",
-    "game": "football",
-    "league": "Serie A",
-    "home_team": "Como",
-    "away_team": "Hellas Verona",
-    "label": "com-hel",
-    "home_logo": "https://crests.football-data.org/7397.png",
-    "away_logo": "https://crests.football-data.org/450.png",
-    "url": "https://streamfree.app/embed/soccer/como-vs-hellas-verona?quality=720p&category=soccer"
-  },
-  {
     "time": "2026-05-10 17:30 IST",
     "game": "football",
     "league": "La Liga",
@@ -282,7 +271,18 @@
     "away_team": "Minnesota United FC",
     "label": "aus-min",
     "home_logo": "https://streamfree.app/thumbnails/soccer_austin-fc-vs-minnesota-united-fc_Austin_FC_vs_Minnesota_United_",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/sporting.png",
     "url": "https://streamfree.app/embed/soccer/austin-fc-vs-minnesota-united-fc?quality=720p&category=soccer"
+  },
+  {
+    "time": "2026-05-11 06:30 IST",
+    "game": "football",
+    "league": "MLS",
+    "home_team": "Houston Dynamo FC",
+    "away_team": "LAFC",
+    "label": "hou-laf",
+    "home_logo": "https://streamfree.app/thumbnails/soccer_houston-dynamo-fc-vs-lafc_Houston_Dynamo_FC_vs_LAFC",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/fcboavista.png",
+    "url": "https://streamfree.app/embed/soccer/houston-dynamo-fc-vs-lafc?quality=720p&category=soccer"
   }
 ]
