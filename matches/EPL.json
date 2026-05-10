@@ -9057,7 +9057,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 354,
@@ -9068,12 +9068,12 @@
     "AwayTeamName": "Everton FC",
     "HomeTeamLogo": "https://crests.football-data.org/354.png",
     "AwayTeamLogo": "https://crests.football-data.org/62.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "354": 0,
-      "62": 0
+      "354": 1,
+      "62": 1
     },
     "Goals": []
   },
@@ -9083,7 +9083,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 328,
@@ -9094,12 +9094,12 @@
     "AwayTeamName": "Aston Villa FC",
     "HomeTeamLogo": "https://crests.football-data.org/328.png",
     "AwayTeamLogo": "https://crests.football-data.org/58.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "328": 0,
-      "58": 0
+      "328": 1,
+      "58": 1
     },
     "Goals": []
   },
@@ -9187,7 +9187,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T13:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 351,
@@ -9198,12 +9198,12 @@
     "AwayTeamName": "Newcastle United FC",
     "HomeTeamLogo": "https://crests.football-data.org/351.png",
     "AwayTeamLogo": "https://crests.football-data.org/67.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "351": 0,
-      "67": 0
+      "351": 1,
+      "67": 1
     },
     "Goals": []
   },
@@ -9250,8 +9250,8 @@
     "AwayTeamName": "Arsenal FC",
     "HomeTeamLogo": "https://crests.football-data.org/563.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "563": 0,

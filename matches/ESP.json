@@ -8740,8 +8740,8 @@
     "AwayTeamName": "Valencia CF",
     "HomeTeamLogo": "https://crests.football-data.org/77.png",
     "AwayTeamLogo": "https://crests.football-data.org/95.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "77": 0,
@@ -8833,7 +8833,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T12:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 89,
@@ -8848,8 +8848,8 @@
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "89": 0,
-      "94": 0
+      "89": 1,
+      "94": 1
     },
     "Goals": []
   },
