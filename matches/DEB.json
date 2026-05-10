@@ -7588,8 +7588,8 @@
     "AwayTeamName": "1. FC Union Berlin",
     "HomeTeamLogo": "https://crests.football-data.org/15.png",
     "AwayTeamLogo": "https://crests.football-data.org/28.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "15": 0,
@@ -7629,7 +7629,7 @@
     "RoundName": "Bundesliga",
     "Date": "2026-05-10",
     "DateTime": "2026-05-10T15:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1,
@@ -7641,11 +7641,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/1.png",
     "AwayTeamLogo": "https://crests.football-data.org/44.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 44,
     "Points": {
       "1": 0,
-      "44": 0
+      "44": 3
     },
     "Goals": []
   },
