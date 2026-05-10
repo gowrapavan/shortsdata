@@ -183,25 +183,6 @@
         {
           "position": 9,
           "team": {
-            "id": 7822,
-            "name": "FC Alverca",
-            "shortName": "Alverca",
-            "tla": "ALV",
-            "crest": "https://crests.football-data.org/7822.png"
-          },
-          "playedGames": 33,
-          "form": null,
-          "won": 11,
-          "draw": 8,
-          "lost": 14,
-          "points": 41,
-          "goalsFor": 35,
-          "goalsAgainst": 50,
-          "goalDifference": -15
-        },
-        {
-          "position": 10,
-          "team": {
             "id": 582,
             "name": "GD Estoril Praia",
             "shortName": "Estoril Praia",
@@ -211,12 +192,31 @@
           "playedGames": 33,
           "form": null,
           "won": 10,
-          "draw": 8,
-          "lost": 15,
-          "points": 38,
-          "goalsFor": 52,
+          "draw": 9,
+          "lost": 14,
+          "points": 39,
+          "goalsFor": 53,
           "goalsAgainst": 54,
-          "goalDifference": -2
+          "goalDifference": -1
+        },
+        {
+          "position": 10,
+          "team": {
+            "id": 7822,
+            "name": "FC Alverca",
+            "shortName": "Alverca",
+            "tla": "ALV",
+            "crest": "https://crests.football-data.org/7822.png"
+          },
+          "playedGames": 33,
+          "form": null,
+          "won": 10,
+          "draw": 9,
+          "lost": 14,
+          "points": 39,
+          "goalsFor": 35,
+          "goalsAgainst": 51,
+          "goalDifference": -16
         },
         {
           "position": 11,
