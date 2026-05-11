@@ -727,6 +727,20 @@
         "nationality": "England"
       },
       {
+        "id": 295284,
+        "name": "Mathis Eboué",
+        "position": "Offence",
+        "dateOfBirth": "2009-02-27",
+        "nationality": "England"
+      },
+      {
+        "id": 170440,
+        "name": "Levi Colwill",
+        "position": "Centre-Back",
+        "dateOfBirth": "2003-02-26",
+        "nationality": "England"
+      },
+      {
         "id": 170426,
         "name": "Benoît Badiashile",
         "position": "Centre-Back",
@@ -900,13 +914,6 @@
         "position": "Defensive Midfield",
         "dateOfBirth": "2004-01-06",
         "nationality": "Belgium"
-      },
-      {
-        "id": 170440,
-        "name": "Levi Colwill",
-        "position": "Centre-Back",
-        "dateOfBirth": "2003-02-26",
-        "nationality": "England"
       }
     ],
     "staff": [],
@@ -3426,15 +3433,15 @@
       }
     ],
     "coach": {
-      "id": null,
-      "firstName": null,
-      "lastName": null,
-      "name": null,
-      "dateOfBirth": null,
-      "nationality": null,
+      "id": 149933,
+      "firstName": "Michael",
+      "lastName": "Jackson",
+      "name": "Michael Jackson",
+      "dateOfBirth": "1973-12-04",
+      "nationality": "England",
       "contract": {
-        "start": null,
-        "until": null
+        "start": "2026-04",
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -4544,7 +4551,7 @@
       "nationality": "Germany",
       "contract": {
         "start": "2024-07",
-        "until": "2027-06"
+        "until": "2029-06"
       }
     },
     "squad": [

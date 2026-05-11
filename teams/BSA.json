@@ -144,13 +144,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 263956,
-        "name": "João Loiola",
-        "position": "Defence",
-        "dateOfBirth": "2005-04-14",
-        "nationality": "Brazil"
-      },
-      {
         "id": 274161,
         "name": "Davi Schuindt",
         "position": "Defence",
@@ -1384,13 +1377,6 @@
         "position": "Midfield",
         "dateOfBirth": "2007-07-25",
         "nationality": "Argentina"
-      },
-      {
-        "id": 291345,
-        "name": "Daniel Aguilar",
-        "position": "Midfield",
-        "dateOfBirth": "2003-12-12",
-        "nationality": "Colombia"
       },
       {
         "id": 293116,
@@ -2861,7 +2847,7 @@
       },
       {
         "id": 203983,
-        "name": "Italo",
+        "name": "Italo Vargas",
         "position": "Midfield",
         "dateOfBirth": "2002-10-13",
         "nationality": "Brazil"
@@ -2889,7 +2875,7 @@
       },
       {
         "id": 273011,
-        "name": "David",
+        "name": "David Antunes",
         "position": "Midfield",
         "dateOfBirth": "2005-08-17",
         "nationality": "Brazil"
@@ -2913,6 +2899,13 @@
         "name": "Yago",
         "position": "Midfield",
         "dateOfBirth": "2006-04-11",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 295236,
+        "name": "Igor Rampazzo",
+        "position": "Midfield",
+        "dateOfBirth": "2007-01-24",
         "nationality": "Brazil"
       },
       {
@@ -4026,7 +4019,7 @@
       },
       {
         "id": 259933,
-        "name": "Guilhermexxx",
+        "name": "Guilherme",
         "position": "Midfield",
         "dateOfBirth": "2007-02-06",
         "nationality": "Brazil"
@@ -4085,6 +4078,13 @@
         "name": "Dieguinho",
         "position": "Offence",
         "dateOfBirth": "2007-09-16",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 295178,
+        "name": "Nícollas Mello",
+        "position": "Offence",
+        "dateOfBirth": "2008-06-13",
         "nationality": "Brazil"
       },
       {
@@ -4979,13 +4979,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 290717,
-        "name": "Antoniano Fernando",
-        "position": "Offence",
-        "dateOfBirth": "2007-11-17",
-        "nationality": "Brazil"
-      },
-      {
         "id": 294051,
         "name": "Ruan Rebola",
         "position": "Offence",
@@ -5740,7 +5733,7 @@
         "id": 259981,
         "name": "Joaquín Lavega",
         "position": "Offence",
-        "dateOfBirth": null,
+        "dateOfBirth": "2005-02-03",
         "nationality": "Uruguay"
       },
       {
@@ -6474,13 +6467,6 @@
         "nationality": "Colombia"
       },
       {
-        "id": 294116,
-        "name": "Paulo Andrade",
-        "position": "Offence",
-        "dateOfBirth": "2007-08-05",
-        "nationality": "Brazil"
-      },
-      {
         "id": 294997,
         "name": "Kerlon Cruz",
         "position": "Offence",
@@ -6841,15 +6827,15 @@
       }
     ],
     "coach": {
-      "id": 28355,
-      "firstName": "Paulo",
-      "lastName": "Pezzolano",
-      "name": "Paulo Pezzolano",
-      "dateOfBirth": "1983-04-25",
-      "nationality": "Uruguay",
+      "id": 295217,
+      "firstName": "",
+      "lastName": "Leonardo Ramos",
+      "name": "Leonardo Ramos",
+      "dateOfBirth": "1987-05-18",
+      "nationality": "Brazil",
       "contract": {
-        "start": "2025-12",
-        "until": "2026-12"
+        "start": "2026-05",
+        "until": "2028-04"
       }
     },
     "squad": [
@@ -6999,6 +6985,13 @@
         "position": "Defence",
         "dateOfBirth": "2006-01-28",
         "nationality": "Ghana"
+      },
+      {
+        "id": 295297,
+        "name": "Luiz Felipe",
+        "position": "Defence",
+        "dateOfBirth": "2006-05-19",
+        "nationality": "Brazil"
       },
       {
         "id": 1189,
