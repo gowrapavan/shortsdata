@@ -9207,7 +9207,7 @@
     "RoundName": "Serie A",
     "Date": "2026-05-11",
     "DateTime": "2026-05-11T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 113,
@@ -9218,12 +9218,12 @@
     "AwayTeamName": "Bologna FC 1909",
     "HomeTeamLogo": "https://crests.football-data.org/113.png",
     "AwayTeamLogo": "https://crests.football-data.org/103.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 103,
     "Points": {
       "113": 0,
-      "103": 0
+      "103": 3
     },
     "Goals": []
   },
