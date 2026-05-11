@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-10T07:51:27.769810Z",
+    "last_updated": "2026-05-11T08:52:51.739131Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -88,13 +88,13 @@
                     "nationality": "France"
                 },
                 {
-                    "player_name": "Hugo Ekitike",
-                    "team_name": "Liverpool FC",
-                    "team_crest": "https://crests.football-data.org/64.png",
-                    "goals": 11,
-                    "assists": 4,
+                    "player_name": "Ollie Watkins",
+                    "team_name": "Aston Villa FC",
+                    "team_crest": "https://crests.football-data.org/58.png",
+                    "goals": 12,
+                    "assists": 2,
                     "penalties": null,
-                    "nationality": "France"
+                    "nationality": "England"
                 }
             ]
         },
@@ -116,7 +116,7 @@
                     "player_name": "Vedat Muriqi",
                     "team_name": "RCD Mallorca",
                     "team_crest": "https://crests.football-data.org/89.png",
-                    "goals": 21,
+                    "goals": 22,
                     "assists": 1,
                     "penalties": 5,
                     "nationality": "Kosovo"
@@ -131,21 +131,21 @@
                     "nationality": "Croatia"
                 },
                 {
+                    "player_name": "Ferrán Torres",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
+                    "goals": 16,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Spain"
+                },
+                {
                     "player_name": "Lamine Yamal",
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
                     "goals": 16,
                     "assists": 11,
                     "penalties": 3,
-                    "nationality": "Spain"
-                },
-                {
-                    "player_name": "Ferrán Torres",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 15,
-                    "assists": 2,
-                    "penalties": null,
                     "nationality": "Spain"
                 },
                 {
@@ -210,6 +210,15 @@
                     "nationality": "Argentina"
                 },
                 {
+                    "player_name": "Anastasios Douvikas",
+                    "team_name": "Como 1907",
+                    "team_crest": "https://crests.football-data.org/7397.png",
+                    "goals": 13,
+                    "assists": 1,
+                    "penalties": 1,
+                    "nationality": "Greece"
+                },
+                {
                     "player_name": "Marcus Thuram-Ulien",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
@@ -219,13 +228,13 @@
                     "nationality": "France"
                 },
                 {
-                    "player_name": "Anastasios Douvikas",
-                    "team_name": "Como 1907",
-                    "team_crest": "https://crests.football-data.org/7397.png",
-                    "goals": 12,
-                    "assists": 1,
-                    "penalties": 1,
-                    "nationality": "Greece"
+                    "player_name": "Donyell Malen",
+                    "team_name": "AS Roma",
+                    "team_crest": "https://crests.football-data.org/100.png",
+                    "goals": 13,
+                    "assists": 2,
+                    "penalties": 3,
+                    "nationality": "Netherlands"
                 },
                 {
                     "player_name": "Nico Paz",
@@ -253,15 +262,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Argentina"
-                },
-                {
-                    "player_name": "Donyell Malen",
-                    "team_name": "AS Roma",
-                    "team_crest": "https://crests.football-data.org/100.png",
-                    "goals": 11,
-                    "assists": 2,
-                    "penalties": 2,
-                    "nationality": "Netherlands"
                 },
                 {
                     "player_name": "Gianluca Scamacca",
@@ -398,7 +398,7 @@
                     "player_name": "Esteban Lepaul",
                     "team_name": "Stade Rennais FC 1901",
                     "team_crest": "https://crests.football-data.org/529.png",
-                    "goals": 19,
+                    "goals": 20,
                     "assists": 5,
                     "penalties": 3,
                     "nationality": "France"
@@ -416,9 +416,9 @@
                     "player_name": "Mason Greenwood",
                     "team_name": "Olympique de Marseille",
                     "team_crest": "https://crests.football-data.org/516.png",
-                    "goals": 15,
+                    "goals": 16,
                     "assists": 7,
-                    "penalties": 5,
+                    "penalties": 6,
                     "nationality": "England"
                 },
                 {
@@ -443,7 +443,7 @@
                     "player_name": "Lassine Sinayoko",
                     "team_name": "AJ Auxerre",
                     "team_crest": "https://crests.football-data.org/519.png",
-                    "goals": 10,
+                    "goals": 11,
                     "assists": 4,
                     "penalties": 3,
                     "nationality": "Mali"
@@ -452,7 +452,7 @@
                     "player_name": "Corentin Tolisso",
                     "team_name": "Olympique Lyonnais",
                     "team_crest": "https://crests.football-data.org/523.png",
-                    "goals": 10,
+                    "goals": 11,
                     "assists": 4,
                     "penalties": 2,
                     "nationality": "France"
@@ -462,7 +462,7 @@
                     "team_name": "FC Lorient",
                     "team_crest": "https://crests.football-data.org/525.png",
                     "goals": 10,
-                    "assists": 3,
+                    "assists": 5,
                     "penalties": 2,
                     "nationality": "France"
                 },
@@ -513,10 +513,19 @@
                     "player_name": "Troy Parrott",
                     "team_name": "AZ",
                     "team_crest": "https://crests.football-data.org/682.png",
-                    "goals": 15,
+                    "goals": 16,
                     "assists": 4,
                     "penalties": 2,
                     "nationality": "Ireland"
+                },
+                {
+                    "player_name": "Ricardo Pepi",
+                    "team_name": "PSV",
+                    "team_crest": "https://crests.football-data.org/674.png",
+                    "goals": 15,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "USA"
                 },
                 {
                     "player_name": "Ismael Saibari",
@@ -526,15 +535,6 @@
                     "assists": 6,
                     "penalties": 1,
                     "nationality": "Morocco"
-                },
-                {
-                    "player_name": "Ricardo Pepi",
-                    "team_name": "PSV",
-                    "team_crest": "https://crests.football-data.org/674.png",
-                    "goals": 14,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "USA"
                 },
                 {
                     "player_name": "Guus Til",
@@ -573,13 +573,13 @@
                     "nationality": "Norway"
                 },
                 {
-                    "player_name": "Koen Kostons",
-                    "team_name": "PEC Zwolle",
-                    "team_crest": "https://crests.football-data.org/684.png",
-                    "goals": 11,
-                    "assists": 6,
-                    "penalties": null,
-                    "nationality": "Netherlands"
+                    "player_name": "Mathis Suray",
+                    "team_name": "Go Ahead Eagles",
+                    "team_crest": "https://crests.football-data.org/718.png",
+                    "goals": 12,
+                    "assists": 2,
+                    "penalties": 1,
+                    "nationality": "Belgium"
                 }
             ]
         },
