@@ -278,6 +278,25 @@
         {
           "position": 14,
           "team": {
+            "id": 341,
+            "name": "Leeds United FC",
+            "shortName": "Leeds United",
+            "tla": "LEE",
+            "crest": "https://crests.football-data.org/341.png"
+          },
+          "playedGames": 36,
+          "form": null,
+          "won": 10,
+          "draw": 14,
+          "lost": 12,
+          "points": 44,
+          "goalsFor": 48,
+          "goalsAgainst": 53,
+          "goalDifference": -5
+        },
+        {
+          "position": 15,
+          "team": {
             "id": 354,
             "name": "Crystal Palace FC",
             "shortName": "Crystal Palace",
@@ -295,7 +314,7 @@
           "goalDifference": -6
         },
         {
-          "position": 15,
+          "position": 16,
           "team": {
             "id": 351,
             "name": "Nottingham Forest FC",
@@ -314,25 +333,6 @@
           "goalDifference": -2
         },
         {
-          "position": 16,
-          "team": {
-            "id": 341,
-            "name": "Leeds United FC",
-            "shortName": "Leeds United",
-            "tla": "LEE",
-            "crest": "https://crests.football-data.org/341.png"
-          },
-          "playedGames": 35,
-          "form": null,
-          "won": 10,
-          "draw": 13,
-          "lost": 12,
-          "points": 43,
-          "goalsFor": 47,
-          "goalsAgainst": 52,
-          "goalDifference": -5
-        },
-        {
           "position": 17,
           "team": {
             "id": 73,
@@ -341,14 +341,14 @@
             "tla": "TOT",
             "crest": "https://crests.football-data.org/73.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 9,
-          "draw": 10,
+          "draw": 11,
           "lost": 16,
-          "points": 37,
-          "goalsFor": 45,
-          "goalsAgainst": 54,
+          "points": 38,
+          "goalsFor": 46,
+          "goalsAgainst": 55,
           "goalDifference": -9
         },
         {
