@@ -88,25 +88,6 @@
         {
           "position": 4,
           "team": {
-            "id": 100,
-            "name": "AS Roma",
-            "shortName": "Roma",
-            "tla": "ROM",
-            "crest": "https://crests.football-data.org/100.png"
-          },
-          "playedGames": 36,
-          "form": null,
-          "won": 21,
-          "draw": 4,
-          "lost": 11,
-          "points": 67,
-          "goalsFor": 55,
-          "goalsAgainst": 31,
-          "goalDifference": 24
-        },
-        {
-          "position": 5,
-          "team": {
             "id": 98,
             "name": "AC Milan",
             "shortName": "Milan",
@@ -122,6 +103,25 @@
           "goalsFor": 50,
           "goalsAgainst": 32,
           "goalDifference": 18
+        },
+        {
+          "position": 5,
+          "team": {
+            "id": 100,
+            "name": "AS Roma",
+            "shortName": "Roma",
+            "tla": "ROM",
+            "crest": "https://crests.football-data.org/100.png"
+          },
+          "playedGames": 36,
+          "form": null,
+          "won": 21,
+          "draw": 4,
+          "lost": 11,
+          "points": 67,
+          "goalsFor": 55,
+          "goalsAgainst": 31,
+          "goalDifference": 24
         },
         {
           "position": 6,
@@ -227,37 +227,18 @@
             "tla": "SAS",
             "crest": "https://crests.football-data.org/471.png"
           },
-          "playedGames": 36,
+          "playedGames": 35,
           "form": null,
           "won": 14,
           "draw": 7,
-          "lost": 15,
+          "lost": 14,
           "points": 49,
-          "goalsFor": 44,
-          "goalsAgainst": 46,
-          "goalDifference": -2
+          "goalsFor": 43,
+          "goalsAgainst": 44,
+          "goalDifference": -1
         },
         {
           "position": 12,
-          "team": {
-            "id": 586,
-            "name": "Torino FC",
-            "shortName": "Torino",
-            "tla": "TOR",
-            "crest": "https://crests.football-data.org/586.png"
-          },
-          "playedGames": 36,
-          "form": null,
-          "won": 12,
-          "draw": 8,
-          "lost": 16,
-          "points": 44,
-          "goalsFor": 41,
-          "goalsAgainst": 59,
-          "goalDifference": -18
-        },
-        {
-          "position": 13,
           "team": {
             "id": 112,
             "name": "Parma Calcio 1913",
@@ -276,7 +257,7 @@
           "goalDifference": -18
         },
         {
-          "position": 14,
+          "position": 13,
           "team": {
             "id": 107,
             "name": "Genoa CFC",
@@ -293,6 +274,25 @@
           "goalsFor": 40,
           "goalsAgainst": 48,
           "goalDifference": -8
+        },
+        {
+          "position": 14,
+          "team": {
+            "id": 586,
+            "name": "Torino FC",
+            "shortName": "Torino",
+            "tla": "TOR",
+            "crest": "https://crests.football-data.org/586.png"
+          },
+          "playedGames": 35,
+          "form": null,
+          "won": 11,
+          "draw": 8,
+          "lost": 16,
+          "points": 41,
+          "goalsFor": 39,
+          "goalsAgainst": 58,
+          "goalDifference": -19
         },
         {
           "position": 15,
