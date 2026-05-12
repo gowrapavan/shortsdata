@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-11T08:52:51.739131Z",
+    "last_updated": "2026-05-12T08:18:14.873388Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -52,6 +52,15 @@
                     "nationality": "Sweden"
                 },
                 {
+                    "player_name": "Dominic Calvert-Lewin",
+                    "team_name": "Leeds United FC",
+                    "team_crest": "https://crests.football-data.org/341.png",
+                    "goals": 13,
+                    "assists": 1,
+                    "penalties": 4,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Danny Welbeck",
                     "team_name": "Brighton & Hove Albion FC",
                     "team_crest": "https://crests.football-data.org/397.png",
@@ -67,15 +76,6 @@
                     "goals": 13,
                     "assists": 5,
                     "penalties": 1,
-                    "nationality": "England"
-                },
-                {
-                    "player_name": "Dominic Calvert-Lewin",
-                    "team_name": "Leeds United FC",
-                    "team_crest": "https://crests.football-data.org/341.png",
-                    "goals": 12,
-                    "assists": 1,
-                    "penalties": 3,
                     "nationality": "England"
                 },
                 {
@@ -250,7 +250,7 @@
                     "team_name": "SSC Napoli",
                     "team_crest": "https://crests.football-data.org/113.png",
                     "goals": 11,
-                    "assists": 3,
+                    "assists": 4,
                     "penalties": 1,
                     "nationality": "Denmark"
                 },
