@@ -9000,8 +9000,8 @@
     "AwayTeamName": "FC Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/263.png",
     "AwayTeamLogo": "https://crests.football-data.org/81.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "263": 0,
@@ -9078,8 +9078,8 @@
     "AwayTeamName": "RCD Mallorca",
     "HomeTeamLogo": "https://crests.football-data.org/82.png",
     "AwayTeamLogo": "https://crests.football-data.org/89.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "82": 0,
@@ -9119,7 +9119,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-13",
     "DateTime": "2026-05-13T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 80,
@@ -9130,11 +9130,11 @@
     "AwayTeamName": "Athletic Club",
     "HomeTeamLogo": "https://crests.football-data.org/80.png",
     "AwayTeamLogo": "https://crests.football-data.org/77.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 80,
     "Points": {
-      "80": 0,
+      "80": 3,
       "77": 0
     },
     "Goals": []
@@ -9197,7 +9197,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-13",
     "DateTime": "2026-05-13T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 94,
@@ -9208,12 +9208,12 @@
     "AwayTeamName": "Sevilla FC",
     "HomeTeamLogo": "https://crests.football-data.org/94.png",
     "AwayTeamLogo": "https://crests.football-data.org/559.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 559,
     "Points": {
       "94": 0,
-      "559": 0
+      "559": 3
     },
     "Goals": []
   },
