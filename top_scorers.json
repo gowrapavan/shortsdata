@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-12T08:18:14.873388Z",
+    "last_updated": "2026-05-13T08:28:18.231740Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -176,6 +176,15 @@
                     "nationality": "Spain"
                 },
                 {
+                    "player_name": "Alexander Sørloth",
+                    "team_name": "Club Atlético de Madrid",
+                    "team_crest": "https://crests.football-data.org/78.png",
+                    "goals": 13,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Norway"
+                },
+                {
                     "player_name": "Robert Lewandowski",
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
@@ -183,15 +192,6 @@
                     "assists": 2,
                     "penalties": 1,
                     "nationality": "Poland"
-                },
-                {
-                    "player_name": "Toni Martínez",
-                    "team_name": "Deportivo Alavés",
-                    "team_crest": "https://crests.football-data.org/263.png",
-                    "goals": 12,
-                    "assists": 3,
-                    "penalties": 1,
-                    "nationality": "Spain"
                 }
             ]
         },
