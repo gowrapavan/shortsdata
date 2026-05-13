@@ -7861,7 +7861,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-13",
     "DateTime": "2026-05-13T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 65,
@@ -7872,11 +7872,11 @@
     "AwayTeamName": "Crystal Palace FC",
     "HomeTeamLogo": "https://crests.football-data.org/65.png",
     "AwayTeamLogo": "https://crests.football-data.org/354.png",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 65,
     "Points": {
-      "65": 0,
+      "65": 3,
       "354": 0
     },
     "Goals": []
