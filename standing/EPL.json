@@ -88,40 +88,40 @@
         {
           "position": 4,
           "team": {
-            "id": 64,
-            "name": "Liverpool FC",
-            "shortName": "Liverpool",
-            "tla": "LIV",
-            "crest": "https://crests.football-data.org/64.png"
-          },
-          "playedGames": 36,
-          "form": null,
-          "won": 17,
-          "draw": 8,
-          "lost": 11,
-          "points": 59,
-          "goalsFor": 60,
-          "goalsAgainst": 48,
-          "goalDifference": 12
-        },
-        {
-          "position": 5,
-          "team": {
             "id": 58,
             "name": "Aston Villa FC",
             "shortName": "Aston Villa",
             "tla": "AVL",
             "crest": "https://crests.football-data.org/58.png"
           },
-          "playedGames": 36,
+          "playedGames": 37,
+          "form": null,
+          "won": 18,
+          "draw": 8,
+          "lost": 11,
+          "points": 62,
+          "goalsFor": 52,
+          "goalsAgainst": 47,
+          "goalDifference": 5
+        },
+        {
+          "position": 5,
+          "team": {
+            "id": 64,
+            "name": "Liverpool FC",
+            "shortName": "Liverpool",
+            "tla": "LIV",
+            "crest": "https://crests.football-data.org/64.png"
+          },
+          "playedGames": 37,
           "form": null,
           "won": 17,
           "draw": 8,
-          "lost": 11,
+          "lost": 12,
           "points": 59,
-          "goalsFor": 50,
-          "goalsAgainst": 46,
-          "goalDifference": 4
+          "goalsFor": 61,
+          "goalsAgainst": 50,
+          "goalDifference": 11
         },
         {
           "position": 6,
