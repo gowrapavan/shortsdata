@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-15T08:34:44.051066Z",
+    "last_updated": "2026-05-16T07:45:01.697235Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -52,6 +52,15 @@
                     "nationality": "Sweden"
                 },
                 {
+                    "player_name": "Ollie Watkins",
+                    "team_name": "Aston Villa FC",
+                    "team_crest": "https://crests.football-data.org/58.png",
+                    "goals": 14,
+                    "assists": 3,
+                    "penalties": null,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Dominic Calvert-Lewin",
                     "team_name": "Leeds United FC",
                     "team_crest": "https://crests.football-data.org/341.png",
@@ -86,15 +95,6 @@
                     "assists": null,
                     "penalties": 2,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Ollie Watkins",
-                    "team_name": "Aston Villa FC",
-                    "team_crest": "https://crests.football-data.org/58.png",
-                    "goals": 12,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "England"
                 }
             ]
         },
