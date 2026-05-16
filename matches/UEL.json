@@ -14312,5 +14312,31 @@
       "384": 1
     },
     "Goals": []
+  },
+  {
+    "GameId": 557983,
+    "RoundId": 46,
+    "RoundName": "Championship",
+    "Date": "2026-05-23",
+    "DateTime": "2026-05-23T01:00:00Z",
+    "Status": "Scheduled",
+    "Week": null,
+    "VenueType": "Home Away",
+    "HomeTeamId": 322,
+    "AwayTeamId": 340,
+    "HomeTeamKey": "Hull City",
+    "AwayTeamKey": "Southampton",
+    "HomeTeamName": "Hull City AFC",
+    "AwayTeamName": "Southampton FC",
+    "HomeTeamLogo": "https://crests.football-data.org/322.png",
+    "AwayTeamLogo": "https://crests.football-data.org/340.png",
+    "HomeTeamScore": null,
+    "AwayTeamScore": null,
+    "Result": null,
+    "Points": {
+      "322": 0,
+      "340": 0
+    },
+    "Goals": []
   }
 ]

@@ -14215,7 +14215,7 @@
     "RoundName": "Championship",
     "Date": "2026-05-12",
     "DateTime": "2026-05-12T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 340,
@@ -14228,9 +14228,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/343.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 340,
     "Points": {
-      "340": 0,
+      "340": 3,
       "343": 0
     },
     "Goals": []
@@ -14241,7 +14241,7 @@
     "RoundName": "Championship",
     "Date": "2026-05-11",
     "DateTime": "2026-05-11T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 384,
@@ -14254,10 +14254,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/322.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 322,
     "Points": {
       "384": 0,
-      "322": 0
+      "322": 3
     },
     "Goals": []
   },
@@ -14310,6 +14310,32 @@
     "Points": {
       "322": 1,
       "384": 1
+    },
+    "Goals": []
+  },
+  {
+    "GameId": 557983,
+    "RoundId": 46,
+    "RoundName": "Championship",
+    "Date": "2026-05-23",
+    "DateTime": "2026-05-23T01:00:00Z",
+    "Status": "Scheduled",
+    "Week": null,
+    "VenueType": "Home Away",
+    "HomeTeamId": 322,
+    "AwayTeamId": 340,
+    "HomeTeamKey": "Hull City",
+    "AwayTeamKey": "Southampton",
+    "HomeTeamName": "Hull City AFC",
+    "AwayTeamName": "Southampton FC",
+    "HomeTeamLogo": "https://crests.football-data.org/322.png",
+    "AwayTeamLogo": "https://crests.football-data.org/340.png",
+    "HomeTeamScore": null,
+    "AwayTeamScore": null,
+    "Result": null,
+    "Points": {
+      "322": 0,
+      "340": 0
     },
     "Goals": []
   }
