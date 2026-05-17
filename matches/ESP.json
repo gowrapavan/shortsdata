@@ -9249,7 +9249,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 77,
@@ -9260,12 +9260,12 @@
     "AwayTeamName": "RC Celta de Vigo",
     "HomeTeamLogo": "https://crests.football-data.org/77.png",
     "AwayTeamLogo": "https://crests.football-data.org/558.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "77": 0,
-      "558": 0
+      "77": 1,
+      "558": 1
     },
     "Goals": []
   },
@@ -9275,7 +9275,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 78,
@@ -9286,11 +9286,11 @@
     "AwayTeamName": "Girona FC",
     "HomeTeamLogo": "https://crests.football-data.org/78.png",
     "AwayTeamLogo": "https://crests.football-data.org/298.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 78,
     "Points": {
-      "78": 0,
+      "78": 3,
       "298": 0
     },
     "Goals": []
@@ -9327,7 +9327,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 285,
@@ -9338,11 +9338,11 @@
     "AwayTeamName": "Getafe CF",
     "HomeTeamLogo": "https://crests.football-data.org/285.png",
     "AwayTeamLogo": "https://crests.football-data.org/82.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 285,
     "Points": {
-      "285": 0,
+      "285": 3,
       "82": 0
     },
     "Goals": []
@@ -9364,8 +9364,8 @@
     "AwayTeamName": "RCD Mallorca",
     "HomeTeamLogo": "https://crests.football-data.org/88.png",
     "AwayTeamLogo": "https://crests.football-data.org/89.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "88": 0,
@@ -9379,7 +9379,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 87,
@@ -9390,11 +9390,11 @@
     "AwayTeamName": "Villarreal CF",
     "HomeTeamLogo": "https://crests.football-data.org/87.png",
     "AwayTeamLogo": "https://crests.football-data.org/94.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 87,
     "Points": {
-      "87": 0,
+      "87": 3,
       "94": 0
     },
     "Goals": []
@@ -9416,8 +9416,8 @@
     "AwayTeamName": "Valencia CF",
     "HomeTeamLogo": "https://crests.football-data.org/92.png",
     "AwayTeamLogo": "https://crests.football-data.org/95.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 4,
     "Result": null,
     "Points": {
       "92": 0,
@@ -9431,7 +9431,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1048,
@@ -9442,12 +9442,12 @@
     "AwayTeamName": "Deportivo Alavés",
     "HomeTeamLogo": "https://crests.football-data.org/1048.png",
     "AwayTeamLogo": "https://crests.football-data.org/263.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 263,
     "Points": {
       "1048": 0,
-      "263": 0
+      "263": 3
     },
     "Goals": []
   },
@@ -9457,7 +9457,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 79,
@@ -9468,12 +9468,12 @@
     "AwayTeamName": "RCD Espanyol de Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/79.png",
     "AwayTeamLogo": "https://crests.football-data.org/80.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 80,
     "Points": {
       "79": 0,
-      "80": 0
+      "80": 3
     },
     "Goals": []
   },
@@ -9483,7 +9483,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 559,
@@ -9494,12 +9494,12 @@
     "AwayTeamName": "Real Madrid CF",
     "HomeTeamLogo": "https://crests.football-data.org/559.png",
     "AwayTeamLogo": "https://crests.football-data.org/86.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 86,
     "Points": {
       "559": 0,
-      "86": 0
+      "86": 3
     },
     "Goals": []
   },
