@@ -1,14 +1,14 @@
 [
   {
-    "time": "09:00 PM",
+    "time": "10:00 PM",
     "game": "football",
-    "league": "دوري روشن السعودي",
-    "home_team": "الشباب",
-    "away_team": "الاتحاد",
-    "label": "الش-الا",
-    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079cac88044.png",
-    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079cac901be.png",
-    "url": "https://a11.kooora-sia.com/albaplayer/ssc-1/"
+    "league": "الدوري الفرنسي",
+    "home_team": "ستراسبورغ",
+    "away_team": "موناكو",
+    "label": "ستر-مون",
+    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c74b676a.png",
+    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c74bd40a.png",
+    "url": "https://a11.kooora-sia.com/albaplayer/bein-7/"
   },
   {
     "time": "10:00 PM",
@@ -66,17 +66,6 @@
     "url": "https://a11.kooora-sia.com/albaplayer/bein-3/"
   },
   {
-    "time": "10:00 PM",
-    "game": "football",
-    "league": "الدوري الفرنسي",
-    "home_team": "ستراسبورغ",
-    "away_team": "موناكو",
-    "label": "ستر-مون",
-    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c74b676a.png",
-    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c74bd40a.png",
-    "url": "https://a11.kooora-sia.com/albaplayer/bein-7/"
-  },
-  {
     "time": "10:15 PM",
     "game": "football",
     "league": "الدوري الإسباني",
@@ -86,17 +75,6 @@
     "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c6760e52.png",
     "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c676830a.png",
     "url": "https://a11.kooora-sia.com/albaplayer/bein-2/"
-  },
-  {
-    "time": "01:00 PM",
-    "game": "football",
-    "league": "الدوري الإيطالي",
-    "home_team": "جنوى",
-    "away_team": "ميلان",
-    "label": "جنو-ميل",
-    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c85938b8.png",
-    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c8599b85.png",
-    "url": "https://a11.kooora-sia.com/albaplayer/pemium-1/"
   },
   {
     "time": "01:00 PM",
@@ -113,6 +91,17 @@
     "time": "01:00 PM",
     "game": "football",
     "league": "الدوري الإيطالي",
+    "home_team": "روما",
+    "away_team": "لاتسيو",
+    "label": "روم-لات",
+    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c892976c.png",
+    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c893174a.png",
+    "url": "https://a11.kooora-sia.com/albaplayer/bein-8/"
+  },
+  {
+    "time": "01:00 PM",
+    "game": "football",
+    "league": "الدوري الإيطالي",
     "home_team": "يوفنتوس",
     "away_team": "فيورنتينا",
     "label": "يوف-فيو",
@@ -124,23 +113,23 @@
     "time": "01:00 PM",
     "game": "football",
     "league": "الدوري الإيطالي",
+    "home_team": "جنوى",
+    "away_team": "ميلان",
+    "label": "جنو-ميل",
+    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c85938b8.png",
+    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c8599b85.png",
+    "url": "https://a11.kooora-sia.com/albaplayer/pemium-1/"
+  },
+  {
+    "time": "01:00 PM",
+    "game": "football",
+    "league": "الدوري الإيطالي",
     "home_team": "بيزا",
     "away_team": "نابولي",
     "label": "بيز-ناب",
     "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c87447fa.png",
     "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c874c3cb.png",
     "url": "https://a11.kooora-sia.com/albaplayer/pemium-3/"
-  },
-  {
-    "time": "01:00 PM",
-    "game": "football",
-    "league": "الدوري الإيطالي",
-    "home_team": "روما",
-    "away_team": "لاتسيو",
-    "label": "روم-لات",
-    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c892976c.png",
-    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c893174a.png",
-    "url": "https://a11.kooora-sia.com/albaplayer/bein-8/"
   },
   {
     "time": "02:30 PM",
@@ -168,12 +157,23 @@
     "time": "05:00 PM",
     "game": "football",
     "league": "الدوري الإنجليزي",
-    "home_team": "وولفرهامبتون",
-    "away_team": "فولهام",
-    "label": "وول-فول",
-    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079d49d3b99.png",
-    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079d49da866.png",
-    "url": "https://a11.kooora-sia.com/albaplayer/bein-5/"
+    "home_team": "برينتفورد",
+    "away_team": "كريستال بالاس",
+    "label": "بري-كري",
+    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c95ccd30.png",
+    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c95d34df.png",
+    "url": "https://a11.kooora-sia.com/albaplayer/bein-3/"
+  },
+  {
+    "time": "05:00 PM",
+    "game": "football",
+    "league": "الدوري الإنجليزي",
+    "home_team": "ليدز يونايتد",
+    "away_team": "برايتون",
+    "label": "ليد-برا",
+    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079d49750af.png",
+    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079d497b1c2.png",
+    "url": "https://a11.kooora-sia.com/albaplayer/bein-4/"
   },
   {
     "time": "05:00 PM",
@@ -190,34 +190,23 @@
     "time": "05:00 PM",
     "game": "football",
     "league": "الدوري الإنجليزي",
+    "home_team": "وولفرهامبتون",
+    "away_team": "فولهام",
+    "label": "وول-فول",
+    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079d49d3b99.png",
+    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079d49da866.png",
+    "url": "https://a11.kooora-sia.com/albaplayer/bein-5/"
+  },
+  {
+    "time": "05:00 PM",
+    "game": "football",
+    "league": "الدوري الإنجليزي",
     "home_team": "إيفرتون",
     "away_team": "سندرلاند",
     "label": "إيف-سند",
     "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c976133e.png",
     "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c976a37b.png",
     "url": "https://a11.kooora-sia.com/albaplayer/bein-1/"
-  },
-  {
-    "time": "05:00 PM",
-    "game": "football",
-    "league": "الدوري الإنجليزي",
-    "home_team": "ليدز يونايتد",
-    "away_team": "برايتون",
-    "label": "ليد-برا",
-    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079d49750af.png",
-    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079d497b1c2.png",
-    "url": "https://a11.kooora-sia.com/albaplayer/bein-4/"
-  },
-  {
-    "time": "05:00 PM",
-    "game": "football",
-    "league": "الدوري الإنجليزي",
-    "home_team": "برينتفورد",
-    "away_team": "كريستال بالاس",
-    "label": "بري-كري",
-    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c95ccd30.png",
-    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c95d34df.png",
-    "url": "https://a11.kooora-sia.com/albaplayer/bein-3/"
   },
   {
     "time": "05:30 PM",
@@ -267,6 +256,17 @@
     "time": "08:00 PM",
     "game": "football",
     "league": "الدوري الإسباني",
+    "home_team": "أتلتيك بلباو",
+    "away_team": "سيلتا فيغو",
+    "label": "أتل-سيل",
+    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c5e93133.png",
+    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c5e99a2a.png",
+    "url": "https://a11.kooora-sia.com/albaplayer/on-time-sport/"
+  },
+  {
+    "time": "08:00 PM",
+    "game": "football",
+    "league": "الدوري الإسباني",
     "home_team": "رايو فاليكانو",
     "away_team": "فياريال",
     "label": "راي-فيا",
@@ -311,22 +311,22 @@
     "time": "08:00 PM",
     "game": "football",
     "league": "الدوري الإسباني",
-    "home_team": "أتلتيك بلباو",
-    "away_team": "سيلتا فيغو",
-    "label": "أتل-سيل",
-    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c5e93133.png",
-    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079c5e99a2a.png",
-    "url": "https://a11.kooora-sia.com/albaplayer/on-time-sport/"
-  },
-  {
-    "time": "08:00 PM",
-    "game": "football",
-    "league": "الدوري الإسباني",
     "home_team": "أوساسونا",
     "away_team": "إسبانيول",
     "label": "أوس-إسب",
     "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079d950bc53.png",
     "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079d9512f8d.png",
     "url": "https://a11.kooora-sia.com/albaplayer/bein-4/"
+  },
+  {
+    "time": "09:00 PM",
+    "game": "football",
+    "league": "دوري روشن السعودي",
+    "home_team": "الشباب",
+    "away_team": "الاتحاد",
+    "label": "الش-الا",
+    "home_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079cac88044.png",
+    "away_logo": "https://www.liverscore.net/wp-content/uploads/2026/05/alba_img_6a079cac901be.png",
+    "url": "https://a11.kooora-sia.com/albaplayer/ssc-1/"
   }
 ]
