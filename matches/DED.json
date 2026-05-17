@@ -7619,7 +7619,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 682,
@@ -7630,12 +7630,12 @@
     "AwayTeamName": "NAC Breda",
     "HomeTeamLogo": "https://crests.football-data.org/682.png",
     "AwayTeamLogo": "https://crests.football-data.org/681.png",
-    "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 3,
     "Result": null,
     "Points": {
-      "682": 0,
-      "681": 0
+      "682": 1,
+      "681": 1
     },
     "Goals": []
   },
@@ -7645,7 +7645,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 676,
@@ -7656,11 +7656,11 @@
     "AwayTeamName": "Fortuna Sittard",
     "HomeTeamLogo": "https://crests.football-data.org/676.png",
     "AwayTeamLogo": "https://crests.football-data.org/1920.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 676,
     "Points": {
-      "676": 0,
+      "676": 3,
       "1920": 0
     },
     "Goals": []
@@ -7671,7 +7671,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1919,
@@ -7683,11 +7683,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/1919.png",
     "AwayTeamLogo": "https://crests.football-data.org/1912.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 1912,
     "Points": {
       "1919": 0,
-      "1912": 0
+      "1912": 3
     },
     "Goals": []
   },
@@ -7697,7 +7697,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 671,
@@ -7709,11 +7709,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/671.png",
     "AwayTeamLogo": "https://crests.football-data.org/677.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 677,
     "Points": {
       "671": 0,
-      "677": 0
+      "677": 3
     },
     "Goals": []
   },
@@ -7723,7 +7723,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1915,
@@ -7735,10 +7735,10 @@
     "HomeTeamLogo": "https://crests.football-data.org/1915.png",
     "AwayTeamLogo": "https://crests.football-data.org/718.png",
     "HomeTeamScore": 2,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 1915,
     "Points": {
-      "1915": 0,
+      "1915": 3,
       "718": 0
     },
     "Goals": []
@@ -7749,7 +7749,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 684,
@@ -7761,11 +7761,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/684.png",
     "AwayTeamLogo": "https://crests.football-data.org/675.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 675,
     "Points": {
       "684": 0,
-      "675": 0
+      "675": 3
     },
     "Goals": []
   },
@@ -7775,7 +7775,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 674,
@@ -7786,11 +7786,11 @@
     "AwayTeamName": "FC Twente '65",
     "HomeTeamLogo": "https://crests.football-data.org/674.png",
     "AwayTeamLogo": "https://crests.football-data.org/666.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 5,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 674,
     "Points": {
-      "674": 0,
+      "674": 3,
       "666": 0
     },
     "Goals": []
@@ -7801,7 +7801,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 673,
@@ -7816,8 +7816,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "673": 0,
-      "678": 0
+      "673": 1,
+      "678": 1
     },
     "Goals": []
   },
@@ -7827,7 +7827,7 @@
     "RoundName": "Eredivisie",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T12:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 6806,
@@ -7838,12 +7838,12 @@
     "AwayTeamName": "SBV Excelsior",
     "HomeTeamLogo": "https://crests.football-data.org/6806.png",
     "AwayTeamLogo": "https://crests.football-data.org/670.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 670,
     "Points": {
       "6806": 0,
-      "670": 0
+      "670": 3
     },
     "Goals": []
   }
