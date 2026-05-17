@@ -9301,7 +9301,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T19:15:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 81,
@@ -9312,11 +9312,11 @@
     "AwayTeamName": "Real Betis Balompié",
     "HomeTeamLogo": "https://crests.football-data.org/81.png",
     "AwayTeamLogo": "https://crests.football-data.org/90.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 81,
     "Points": {
-      "81": 0,
+      "81": 3,
       "90": 0
     },
     "Goals": []
@@ -9353,7 +9353,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 88,
@@ -9366,9 +9366,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/89.png",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 88,
     "Points": {
-      "88": 0,
+      "88": 3,
       "89": 0
     },
     "Goals": []
@@ -9405,7 +9405,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 92,
@@ -9418,10 +9418,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/95.png",
     "HomeTeamScore": 3,
     "AwayTeamScore": 4,
-    "Result": null,
+    "Result": 95,
     "Points": {
       "92": 0,
-      "95": 0
+      "95": 3
     },
     "Goals": []
   },

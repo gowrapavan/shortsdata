@@ -9337,7 +9337,7 @@
     "RoundName": "Serie A",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 104,
@@ -9348,11 +9348,11 @@
     "AwayTeamName": "Torino FC",
     "HomeTeamLogo": "https://crests.football-data.org/104.png",
     "AwayTeamLogo": "https://crests.football-data.org/586.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 104,
     "Points": {
-      "104": 0,
+      "104": 3,
       "586": 0
     },
     "Goals": []
@@ -9493,7 +9493,7 @@
     "RoundName": "Serie A",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 471,
@@ -9504,12 +9504,12 @@
     "AwayTeamName": "US Lecce",
     "HomeTeamLogo": "https://crests.football-data.org/471.png",
     "AwayTeamLogo": "https://crests.football-data.org/5890.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 3,
+    "Result": 5890,
     "Points": {
       "471": 0,
-      "5890": 0
+      "5890": 3
     },
     "Goals": []
   },
@@ -9519,7 +9519,7 @@
     "RoundName": "Serie A",
     "Date": "2026-05-17",
     "DateTime": "2026-05-17T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 115,
@@ -9532,10 +9532,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/457.png",
     "HomeTeamScore": 0,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 457,
     "Points": {
       "115": 0,
-      "457": 0
+      "457": 3
     },
     "Goals": []
   },
