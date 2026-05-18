@@ -911,15 +911,15 @@
       }
     ],
     "coach": {
-      "id": 183022,
-      "firstName": "",
-      "lastName": "Albert Riera",
-      "name": "Albert Riera",
-      "dateOfBirth": "1982-04-15",
-      "nationality": "Spain",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2026-02",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -999,13 +999,6 @@
         "position": "Offence",
         "dateOfBirth": "2008-06-12",
         "nationality": "Germany"
-      },
-      {
-        "id": 178658,
-        "name": "Fares Chaïbi",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2002-11-28",
-        "nationality": "Algeria"
       },
       {
         "id": 171714,
@@ -1146,6 +1139,13 @@
         "position": "Central Midfield",
         "dateOfBirth": "2004-06-27",
         "nationality": "Sweden"
+      },
+      {
+        "id": 178658,
+        "name": "Fares Chaïbi",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2002-11-28",
+        "nationality": "Algeria"
       }
     ],
     "staff": [],
@@ -1872,6 +1872,13 @@
         "nationality": "Poland"
       },
       {
+        "id": 295490,
+        "name": "Matty Wright",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2008-06-13",
+        "nationality": "England"
+      },
+      {
         "id": 186701,
         "name": "Stefan Bajcetic",
         "position": "Defence",
@@ -1940,6 +1947,13 @@
         "position": "Offence",
         "dateOfBirth": "2006-08-31",
         "nationality": "USA"
+      },
+      {
+        "id": 152454,
+        "name": "Hugo Ekitike",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2002-06-20",
+        "nationality": "France"
       },
       {
         "id": 135636,
@@ -2082,6 +2096,13 @@
         "nationality": "England"
       },
       {
+        "id": 214502,
+        "name": "James McConnell",
+        "position": "Central Midfield",
+        "dateOfBirth": "2004-09-13",
+        "nationality": "England"
+      },
+      {
         "id": 192563,
         "name": "Giovanni Leoni",
         "position": "Centre-Back",
@@ -2108,13 +2129,6 @@
         "position": "Right Winger",
         "dateOfBirth": "2004-10-05",
         "nationality": "England"
-      },
-      {
-        "id": 152454,
-        "name": "Hugo Ekitike",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2002-06-20",
-        "nationality": "France"
       }
     ],
     "staff": [],
@@ -3693,7 +3707,7 @@
       "nationality": "Germany",
       "contract": {
         "start": "2024-07",
-        "until": "2027-06"
+        "until": "2028-06"
       }
     },
     "squad": [
@@ -6437,6 +6451,13 @@
         "nationality": "France"
       },
       {
+        "id": 295355,
+        "name": "Dimitri Lucea",
+        "position": "Defence",
+        "dateOfBirth": "2007-01-20",
+        "nationality": "France"
+      },
+      {
         "id": 213217,
         "name": "Kang-in Lee",
         "position": "Midfield",
@@ -6491,6 +6512,13 @@
         "position": "Offence",
         "dateOfBirth": "2008-01-03",
         "nationality": "France"
+      },
+      {
+        "id": 190877,
+        "name": "Joao Neves",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2004-09-27",
+        "nationality": "Portugal"
       },
       {
         "id": 186089,
@@ -6610,13 +6638,6 @@
         "position": "Central Midfield",
         "dateOfBirth": "2006-05-17",
         "nationality": "France"
-      },
-      {
-        "id": 190877,
-        "name": "Joao Neves",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2004-09-27",
-        "nationality": "Portugal"
       }
     ],
     "staff": [],
@@ -6985,6 +7006,13 @@
         "nationality": "Turkey"
       },
       {
+        "id": 295492,
+        "name": "Enes Büyük",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2006-05-08",
+        "nationality": "Turkey"
+      },
+      {
         "id": 29804,
         "name": "Abdülkerim Bardakcı",
         "position": "Defence",
@@ -7059,7 +7087,7 @@
         "name": "Gökdeniz Gürpüz",
         "position": "Midfield",
         "dateOfBirth": "2006-02-25",
-        "nationality": "Germany"
+        "nationality": "Turkey"
       },
       {
         "id": 289567,
@@ -7094,13 +7122,6 @@
         "name": "Ahmed Kutucu",
         "position": "Offence",
         "dateOfBirth": "2000-03-01",
-        "nationality": "Turkey"
-      },
-      {
-        "id": 275290,
-        "name": "Çağrı Balta",
-        "position": "Offence",
-        "dateOfBirth": "2008-05-15",
         "nationality": "Turkey"
       },
       {
@@ -7770,6 +7791,13 @@
         "code": "CL",
         "type": "CUP",
         "emblem": "https://crests.football-data.org/CL.png"
+      },
+      {
+        "id": 2110,
+        "name": "Johan Cruijff Schaal",
+        "code": "JCS",
+        "type": "SUPER_CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -8088,6 +8116,13 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 294576,
+        "name": "Valentijn van der Velde",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2007-01-12",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 249025,
         "name": "Jorthy Mokio",
         "position": "Defence",
@@ -8121,6 +8156,13 @@
         "position": "Defence",
         "dateOfBirth": "2006-01-24",
         "nationality": "Netherlands"
+      },
+      {
+        "id": 276935,
+        "name": "Marvyn Muzungu",
+        "position": "Defence",
+        "dateOfBirth": "2007-11-28",
+        "nationality": "France"
       },
       {
         "id": 190731,

@@ -3616,15 +3616,15 @@
       }
     ],
     "coach": {
-      "id": 183022,
-      "firstName": "",
-      "lastName": "Albert Riera",
-      "name": "Albert Riera",
-      "dateOfBirth": "1982-04-15",
-      "nationality": "Spain",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2026-02",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -3704,13 +3704,6 @@
         "position": "Offence",
         "dateOfBirth": "2008-06-12",
         "nationality": "Germany"
-      },
-      {
-        "id": 178658,
-        "name": "Fares Chaïbi",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2002-11-28",
-        "nationality": "Algeria"
       },
       {
         "id": 171714,
@@ -3851,6 +3844,13 @@
         "position": "Central Midfield",
         "dateOfBirth": "2004-06-27",
         "nationality": "Sweden"
+      },
+      {
+        "id": 178658,
+        "name": "Fares Chaïbi",
+        "position": "Attacking Midfield",
+        "dateOfBirth": "2002-11-28",
+        "nationality": "Algeria"
       }
     ],
     "staff": [],
