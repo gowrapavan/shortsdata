@@ -1,13 +1,24 @@
 [
   {
-    "time": "2026-05-23 07:30 IST",
+    "time": "2026-05-23 21:30 IST",
     "game": "football",
-    "league": "International Friendly",
-    "home_team": "Ghana",
-    "away_team": "Mexico",
-    "label": "gha-mex",
-    "home_logo": "https://streamfree.app/thumbnails/soccer_ghana-vs-mexico_Ghana_vs_Mexico",
-    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/valencia.png",
-    "url": "https://streamfree.app/embed/soccer/ghana-vs-mexico?quality=720p&category=soccer"
+    "league": "Serie A",
+    "home_team": "Internazionale",
+    "away_team": "Bologna",
+    "label": "int-bol",
+    "home_logo": "https://crests.football-data.org/108.png",
+    "away_logo": "https://crests.football-data.org/103.png",
+    "url": "https://streamfree.app/embed/soccer/internazionale-vs-bologna?quality=720p&category=soccer"
+  },
+  {
+    "time": "2026-05-23 23:30 IST",
+    "game": "football",
+    "league": "DFB-Pokal",
+    "home_team": "VfB Stuttgart",
+    "away_team": "Bayern Munich",
+    "label": "vfb-bay",
+    "home_logo": "https://crests.football-data.org/10.png",
+    "away_logo": "https://crests.football-data.org/5.png",
+    "url": "https://streamfree.app/embed/soccer/vfb-stuttgart-vs-bayern-munich?quality=720p&category=soccer"
   }
 ]
