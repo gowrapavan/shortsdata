@@ -9509,7 +9509,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-23",
     "DateTime": "2026-05-23T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 263,
@@ -9520,12 +9520,12 @@
     "AwayTeamName": "Rayo Vallecano de Madrid",
     "HomeTeamLogo": "https://crests.football-data.org/263.png",
     "AwayTeamLogo": "https://crests.football-data.org/87.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 87,
     "Points": {
       "263": 0,
-      "87": 0
+      "87": 3
     },
     "Goals": []
   },
@@ -9535,7 +9535,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-23",
     "DateTime": "2026-05-23T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 90,
@@ -9546,11 +9546,11 @@
     "AwayTeamName": "Levante UD",
     "HomeTeamLogo": "https://crests.football-data.org/90.png",
     "AwayTeamLogo": "https://crests.football-data.org/88.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 90,
     "Points": {
-      "90": 0,
+      "90": 3,
       "88": 0
     },
     "Goals": []
@@ -9561,7 +9561,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-23",
     "DateTime": "2026-05-23T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 558,
@@ -9572,11 +9572,11 @@
     "AwayTeamName": "Sevilla FC",
     "HomeTeamLogo": "https://crests.football-data.org/558.png",
     "AwayTeamLogo": "https://crests.football-data.org/559.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 558,
     "Points": {
-      "558": 0,
+      "558": 3,
       "559": 0
     },
     "Goals": []
@@ -9587,7 +9587,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-23",
     "DateTime": "2026-05-23T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 80,
@@ -9598,12 +9598,12 @@
     "AwayTeamName": "Real Sociedad de Fútbol",
     "HomeTeamLogo": "https://crests.football-data.org/80.png",
     "AwayTeamLogo": "https://crests.football-data.org/92.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "80": 0,
-      "92": 0
+      "80": 1,
+      "92": 1
     },
     "Goals": []
   },
@@ -9613,7 +9613,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-23",
     "DateTime": "2026-05-23T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 82,
@@ -9624,11 +9624,11 @@
     "AwayTeamName": "CA Osasuna",
     "HomeTeamLogo": "https://crests.football-data.org/82.png",
     "AwayTeamLogo": "https://crests.football-data.org/79.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
+    "Result": 82,
     "Points": {
-      "82": 0,
+      "82": 3,
       "79": 0
     },
     "Goals": []
@@ -9639,7 +9639,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-23",
     "DateTime": "2026-05-23T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 89,
@@ -9650,11 +9650,11 @@
     "AwayTeamName": "Real Oviedo",
     "HomeTeamLogo": "https://crests.football-data.org/89.png",
     "AwayTeamLogo": "https://crests.football-data.org/1048.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 0,
+    "Result": 89,
     "Points": {
-      "89": 0,
+      "89": 3,
       "1048": 0
     },
     "Goals": []
@@ -9665,7 +9665,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-23",
     "DateTime": "2026-05-23T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 86,
@@ -9676,11 +9676,11 @@
     "AwayTeamName": "Athletic Club",
     "HomeTeamLogo": "https://crests.football-data.org/86.png",
     "AwayTeamLogo": "https://crests.football-data.org/77.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 2,
+    "Result": 86,
     "Points": {
-      "86": 0,
+      "86": 3,
       "77": 0
     },
     "Goals": []
@@ -9717,7 +9717,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-23",
     "DateTime": "2026-05-23T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 95,
@@ -9728,11 +9728,11 @@
     "AwayTeamName": "FC Barcelona",
     "HomeTeamLogo": "https://crests.football-data.org/95.png",
     "AwayTeamLogo": "https://crests.football-data.org/81.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 95,
     "Points": {
-      "95": 0,
+      "95": 3,
       "81": 0
     },
     "Goals": []
@@ -9743,7 +9743,7 @@
     "RoundName": "Primera Division",
     "Date": "2026-05-23",
     "DateTime": "2026-05-23T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 298,
@@ -9754,12 +9754,12 @@
     "AwayTeamName": "Elche CF",
     "HomeTeamLogo": "https://crests.football-data.org/298.png",
     "AwayTeamLogo": "https://crests.football-data.org/285.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "298": 0,
-      "285": 0
+      "298": 1,
+      "285": 1
     },
     "Goals": []
   }
