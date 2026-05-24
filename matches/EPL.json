@@ -9525,7 +9525,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 71,
@@ -9536,11 +9536,11 @@
     "AwayTeamName": "Chelsea FC",
     "HomeTeamLogo": "https://crests.football-data.org/71.png",
     "AwayTeamLogo": "https://crests.football-data.org/61.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 71,
     "Points": {
-      "71": 0,
+      "71": 3,
       "61": 0
     },
     "Goals": []
@@ -9551,7 +9551,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 397,
@@ -9563,11 +9563,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/397.png",
     "AwayTeamLogo": "https://crests.football-data.org/66.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 2,
-    "Result": null,
+    "AwayTeamScore": 3,
+    "Result": 66,
     "Points": {
       "397": 0,
-      "66": 0
+      "66": 3
     },
     "Goals": []
   },
@@ -9577,7 +9577,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 354,
@@ -9588,12 +9588,12 @@
     "AwayTeamName": "Arsenal FC",
     "HomeTeamLogo": "https://crests.football-data.org/354.png",
     "AwayTeamLogo": "https://crests.football-data.org/57.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 57,
     "Points": {
       "354": 0,
-      "57": 0
+      "57": 3
     },
     "Goals": []
   },
@@ -9603,7 +9603,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 328,
@@ -9614,12 +9614,12 @@
     "AwayTeamName": "Wolverhampton Wanderers FC",
     "HomeTeamLogo": "https://crests.football-data.org/328.png",
     "AwayTeamLogo": "https://crests.football-data.org/76.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "328": 0,
-      "76": 0
+      "328": 1,
+      "76": 1
     },
     "Goals": []
   },
@@ -9629,7 +9629,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 63,
@@ -9640,11 +9640,11 @@
     "AwayTeamName": "Newcastle United FC",
     "HomeTeamLogo": "https://crests.football-data.org/63.png",
     "AwayTeamLogo": "https://crests.football-data.org/67.png",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 63,
     "Points": {
-      "63": 0,
+      "63": 3,
       "67": 0
     },
     "Goals": []
@@ -9655,7 +9655,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 64,
@@ -9666,12 +9666,12 @@
     "AwayTeamName": "Brentford FC",
     "HomeTeamLogo": "https://crests.football-data.org/64.png",
     "AwayTeamLogo": "https://crests.football-data.org/402.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "64": 0,
-      "402": 0
+      "64": 1,
+      "402": 1
     },
     "Goals": []
   },
@@ -9681,7 +9681,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 65,
@@ -9692,12 +9692,12 @@
     "AwayTeamName": "Aston Villa FC",
     "HomeTeamLogo": "https://crests.football-data.org/65.png",
     "AwayTeamLogo": "https://crests.football-data.org/58.png",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "65": 0,
-      "58": 0
+      "65": 1,
+      "58": 1
     },
     "Goals": []
   },
@@ -9707,7 +9707,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 351,
@@ -9719,11 +9719,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/351.png",
     "AwayTeamLogo": "https://crests.football-data.org/bournemouth.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "351": 0,
-      "1044": 0
+      "351": 1,
+      "1044": 1
     },
     "Goals": []
   },
@@ -9733,7 +9733,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 73,
@@ -9746,9 +9746,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/62.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 73,
     "Points": {
-      "73": 0,
+      "73": 3,
       "62": 0
     },
     "Goals": []
@@ -9759,7 +9759,7 @@
     "RoundName": "Premier League",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T15:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 563,
@@ -9770,11 +9770,11 @@
     "AwayTeamName": "Leeds United FC",
     "HomeTeamLogo": "https://crests.football-data.org/563.png",
     "AwayTeamLogo": "https://crests.football-data.org/341.png",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 563,
     "Points": {
-      "563": 0,
+      "563": 3,
       "341": 0
     },
     "Goals": []
