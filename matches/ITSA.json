@@ -9567,11 +9567,11 @@
   },
   {
     "GameId": 537186,
-    "RoundId": 38,
+    "RoundId": 36,
     "RoundName": "Serie A",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 98,
@@ -9583,11 +9583,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/98.png",
     "AwayTeamLogo": "https://crests.football-data.org/104.png",
     "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 104,
     "Points": {
       "98": 0,
-      "104": 0
+      "104": 3
     },
     "Goals": []
   },
@@ -9619,10 +9619,10 @@
   },
   {
     "GameId": 537188,
-    "RoundId": 38,
+    "RoundId": 36,
     "RoundName": "Serie A",
     "Date": "2026-05-24",
-    "DateTime": "2026-05-24T18:45:00Z",
+    "DateTime": "2026-05-24T19:45:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -9634,8 +9634,8 @@
     "AwayTeamName": "Juventus FC",
     "HomeTeamLogo": "https://crests.football-data.org/586.png",
     "AwayTeamLogo": "https://crests.football-data.org/109.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "586": 0,
@@ -9645,11 +9645,11 @@
   },
   {
     "GameId": 537189,
-    "RoundId": 38,
+    "RoundId": 36,
     "RoundName": "Serie A",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 450,
@@ -9661,11 +9661,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/450.png",
     "AwayTeamLogo": "https://crests.football-data.org/100.png",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 100,
     "Points": {
       "450": 0,
-      "100": 0
+      "100": 3
     },
     "Goals": []
   },
@@ -9749,11 +9749,11 @@
   },
   {
     "GameId": 537193,
-    "RoundId": 38,
+    "RoundId": 36,
     "RoundName": "Serie A",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 457,
@@ -9764,22 +9764,22 @@
     "AwayTeamName": "Como 1907",
     "HomeTeamLogo": "https://crests.football-data.org/457.png",
     "AwayTeamLogo": "https://crests.football-data.org/7397.png",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 4,
+    "Result": 7397,
     "Points": {
       "457": 0,
-      "7397": 0
+      "7397": 3
     },
     "Goals": []
   },
   {
     "GameId": 537194,
-    "RoundId": 38,
+    "RoundId": 36,
     "RoundName": "Serie A",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T18:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 5890,
@@ -9792,9 +9792,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/107.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 5890,
     "Points": {
-      "5890": 0,
+      "5890": 3,
       "107": 0
     },
     "Goals": []
