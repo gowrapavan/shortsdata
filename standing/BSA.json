@@ -195,8 +195,8 @@
           "draw": 5,
           "lost": 6,
           "points": 23,
-          "goalsFor": 22,
-          "goalsAgainst": 26,
+          "goalsFor": 23,
+          "goalsAgainst": 27,
           "goalDifference": -4
         },
         {
@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 1766,
+            "name": "CA Mineiro",
+            "shortName": "Mineiro",
+            "tla": "CAM",
+            "crest": "https://crests.football-data.org/1766.png"
+          },
+          "playedGames": 17,
+          "form": null,
+          "won": 6,
+          "draw": 4,
+          "lost": 7,
+          "points": 22,
+          "goalsFor": 21,
+          "goalsAgainst": 22,
+          "goalDifference": -1
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 1782,
             "name": "EC Vitória",
             "shortName": "Vitória",
@@ -236,25 +255,6 @@
           "goalsFor": 20,
           "goalsAgainst": 22,
           "goalDifference": -2
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 1766,
-            "name": "CA Mineiro",
-            "shortName": "Mineiro",
-            "tla": "CAM",
-            "crest": "https://crests.football-data.org/1766.png"
-          },
-          "playedGames": 16,
-          "form": null,
-          "won": 6,
-          "draw": 3,
-          "lost": 7,
-          "points": 21,
-          "goalsFor": 21,
-          "goalsAgainst": 22,
-          "goalDifference": -1
         },
         {
           "position": 13,
@@ -322,12 +322,12 @@
             "tla": "COR",
             "crest": "https://crests.football-data.org/1779.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 4,
-          "draw": 6,
+          "draw": 7,
           "lost": 6,
-          "points": 18,
+          "points": 19,
           "goalsFor": 14,
           "goalsAgainst": 18,
           "goalDifference": -4
@@ -404,8 +404,8 @@
           "draw": 6,
           "lost": 9,
           "points": 9,
-          "goalsFor": 16,
-          "goalsAgainst": 31,
+          "goalsFor": 17,
+          "goalsAgainst": 32,
           "goalDifference": -15
         }
       ]
