@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-23T08:01:43.073039Z",
+    "last_updated": "2026-05-24T08:13:10.154901Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -107,7 +107,7 @@
                     "player_name": "Kylian Mbappé",
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 24,
+                    "goals": 25,
                     "assists": 4,
                     "penalties": 8,
                     "nationality": "France"
@@ -116,7 +116,7 @@
                     "player_name": "Vedat Muriqi",
                     "team_name": "RCD Mallorca",
                     "team_crest": "https://crests.football-data.org/89.png",
-                    "goals": 22,
+                    "goals": 23,
                     "assists": 1,
                     "penalties": 5,
                     "nationality": "Kosovo"
@@ -135,7 +135,7 @@
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
                     "goals": 16,
-                    "assists": 2,
+                    "assists": 3,
                     "penalties": null,
                     "nationality": "Spain"
                 },
@@ -176,22 +176,22 @@
                     "nationality": "Spain"
                 },
                 {
-                    "player_name": "Raphinha",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 13,
-                    "assists": 3,
-                    "penalties": 3,
-                    "nationality": "Brazil"
-                },
-                {
                     "player_name": "Toni Martínez",
                     "team_name": "Deportivo Alavés",
                     "team_crest": "https://crests.football-data.org/263.png",
-                    "goals": 13,
+                    "goals": 14,
                     "assists": 3,
                     "penalties": 1,
                     "nationality": "Spain"
+                },
+                {
+                    "player_name": "Robert Lewandowski",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
+                    "goals": 14,
+                    "assists": 2,
+                    "penalties": 1,
+                    "nationality": "Poland"
                 }
             ]
         },
