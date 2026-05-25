@@ -9619,11 +9619,11 @@
   },
   {
     "GameId": 537188,
-    "RoundId": 36,
+    "RoundId": 38,
     "RoundName": "Serie A",
     "Date": "2026-05-24",
     "DateTime": "2026-05-24T19:45:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 586,
@@ -9638,8 +9638,8 @@
     "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "586": 0,
-      "109": 0
+      "586": 1,
+      "109": 1
     },
     "Goals": []
   },
