@@ -1233,6 +1233,13 @@
         "nationality": "Russia"
       },
       {
+        "id": 23128,
+        "name": "Gabriel Magalhães",
+        "position": "Defence",
+        "dateOfBirth": "1997-12-19",
+        "nationality": "Brazil"
+      },
+      {
         "id": 221784,
         "name": "Jaden Dixon",
         "position": "Defence",
@@ -1343,13 +1350,6 @@
         "position": "Defensive Midfield",
         "dateOfBirth": "1994-03-10",
         "nationality": "Denmark"
-      },
-      {
-        "id": 23128,
-        "name": "Gabriel",
-        "position": "Centre-Back",
-        "dateOfBirth": "1997-12-19",
-        "nationality": "Brazil"
       },
       {
         "id": 8984,
@@ -1831,7 +1831,7 @@
     "squad": [
       {
         "id": 1795,
-        "name": "Alisson",
+        "name": "Alisson Becker",
         "position": "Goalkeeper",
         "dateOfBirth": "1992-10-02",
         "nationality": "Brazil"
@@ -1870,13 +1870,6 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2007-04-27",
         "nationality": "Poland"
-      },
-      {
-        "id": 295490,
-        "name": "Matty Wright",
-        "position": "Goalkeeper",
-        "dateOfBirth": "2008-06-13",
-        "nationality": "England"
       },
       {
         "id": 186701,
@@ -2176,7 +2169,7 @@
       "nationality": "Spain",
       "contract": {
         "start": "2016-07",
-        "until": "2027-06"
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -4028,6 +4021,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 295679,
+        "name": "Álvaro González",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2007-04-09",
+        "nationality": "Spain"
+      },
+      {
         "id": 182020,
         "name": "Álvaro Carreras",
         "position": "Defence",
@@ -4081,6 +4081,13 @@
         "name": "Lamini Fati",
         "position": "Defence",
         "dateOfBirth": "2006-04-18",
+        "nationality": "Spain"
+      },
+      {
+        "id": 295678,
+        "name": "Manu Serrano",
+        "position": "Defence",
+        "dateOfBirth": "2004-03-20",
         "nationality": "Spain"
       },
       {
@@ -4144,6 +4151,13 @@
         "name": "Pol Fortuny",
         "position": "Offence",
         "dateOfBirth": "2005-03-11",
+        "nationality": "Spain"
+      },
+      {
+        "id": 191727,
+        "name": "Dean Huijsen",
+        "position": "Centre-Back",
+        "dateOfBirth": "2005-04-14",
         "nationality": "Spain"
       },
       {
@@ -4270,13 +4284,6 @@
         "name": "Gonzalo García",
         "position": "Right Winger",
         "dateOfBirth": "2004-03-24",
-        "nationality": "Spain"
-      },
-      {
-        "id": 191727,
-        "name": "Dean Huijsen",
-        "position": "Centre-Back",
-        "dateOfBirth": "2005-04-14",
         "nationality": "Spain"
       }
     ],
@@ -5504,15 +5511,15 @@
       }
     ],
     "coach": {
-      "id": 11583,
-      "firstName": "Antonio",
-      "lastName": "Conte",
-      "name": "Antonio Conte",
-      "dateOfBirth": "1969-07-31",
-      "nationality": "Italy",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-06",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -5599,6 +5606,48 @@
         "position": "Offence",
         "dateOfBirth": "2003-11-24",
         "nationality": "Brazil"
+      },
+      {
+        "id": 161310,
+        "name": "Juan Jesus",
+        "position": "Centre-Back",
+        "dateOfBirth": "1991-06-10",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 152770,
+        "name": "Rasmus Højlund",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2003-02-04",
+        "nationality": "Denmark"
+      },
+      {
+        "id": 144953,
+        "name": "Miguel Gutiérrez",
+        "position": "Left-Back",
+        "dateOfBirth": "2001-07-27",
+        "nationality": "Spain"
+      },
+      {
+        "id": 126289,
+        "name": "Billy Gilmour",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2001-06-11",
+        "nationality": "Scotland"
+      },
+      {
+        "id": 53281,
+        "name": "Sam Beukema",
+        "position": "Centre-Back",
+        "dateOfBirth": "1998-11-17",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 33628,
+        "name": "Stanislav Lobotka",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "1994-11-25",
+        "nationality": "Slovakia"
       },
       {
         "id": 32754,
@@ -5690,48 +5739,6 @@
         "position": "Left-Back",
         "dateOfBirth": "1993-03-25",
         "nationality": "Italy"
-      },
-      {
-        "id": 161310,
-        "name": "Juan Jesus",
-        "position": "Centre-Back",
-        "dateOfBirth": "1991-06-10",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 152770,
-        "name": "Rasmus Højlund",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2003-02-04",
-        "nationality": "Denmark"
-      },
-      {
-        "id": 144953,
-        "name": "Miguel Gutiérrez",
-        "position": "Left-Back",
-        "dateOfBirth": "2001-07-27",
-        "nationality": "Spain"
-      },
-      {
-        "id": 126289,
-        "name": "Billy Gilmour",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2001-06-11",
-        "nationality": "Scotland"
-      },
-      {
-        "id": 53281,
-        "name": "Sam Beukema",
-        "position": "Centre-Back",
-        "dateOfBirth": "1998-11-17",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 33628,
-        "name": "Stanislav Lobotka",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "1994-11-25",
-        "nationality": "Slovakia"
       }
     ],
     "staff": [],
@@ -6084,6 +6091,13 @@
         "code": "CL",
         "type": "CUP",
         "emblem": "https://crests.football-data.org/CL.png"
+      },
+      {
+        "id": 2138,
+        "name": "Coupe de France",
+        "code": "CDF",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -6674,6 +6688,13 @@
         "code": "CL",
         "type": "CUP",
         "emblem": "https://crests.football-data.org/CL.png"
+      },
+      {
+        "id": 2138,
+        "name": "Coupe de France",
+        "code": "CDF",
+        "type": "CUP",
+        "emblem": null
       }
     ],
     "coach": {
@@ -8163,6 +8184,13 @@
         "position": "Defence",
         "dateOfBirth": "2007-11-28",
         "nationality": "France"
+      },
+      {
+        "id": 286356,
+        "name": "Kennynho Kasanwirjo",
+        "position": "Defence",
+        "dateOfBirth": "2008-01-04",
+        "nationality": "Netherlands"
       },
       {
         "id": 190731,

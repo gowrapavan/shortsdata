@@ -81,6 +81,13 @@
         "nationality": "Russia"
       },
       {
+        "id": 23128,
+        "name": "Gabriel Magalhães",
+        "position": "Defence",
+        "dateOfBirth": "1997-12-19",
+        "nationality": "Brazil"
+      },
+      {
         "id": 221784,
         "name": "Jaden Dixon",
         "position": "Defence",
@@ -191,13 +198,6 @@
         "position": "Defensive Midfield",
         "dateOfBirth": "1994-03-10",
         "nationality": "Denmark"
-      },
-      {
-        "id": 23128,
-        "name": "Gabriel",
-        "position": "Centre-Back",
-        "dateOfBirth": "1997-12-19",
-        "nationality": "Brazil"
       },
       {
         "id": 8984,
@@ -1445,7 +1445,7 @@
     "squad": [
       {
         "id": 1795,
-        "name": "Alisson",
+        "name": "Alisson Becker",
         "position": "Goalkeeper",
         "dateOfBirth": "1992-10-02",
         "nationality": "Brazil"
@@ -1484,13 +1484,6 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2007-04-27",
         "nationality": "Poland"
-      },
-      {
-        "id": 295490,
-        "name": "Matty Wright",
-        "position": "Goalkeeper",
-        "dateOfBirth": "2008-06-13",
-        "nationality": "England"
       },
       {
         "id": 186701,
@@ -1790,7 +1783,7 @@
       "nationality": "Spain",
       "contract": {
         "start": "2016-07",
-        "until": "2027-06"
+        "until": "2026-06"
       }
     },
     "squad": [
@@ -2071,7 +2064,7 @@
       "nationality": "England",
       "contract": {
         "start": "2026-01",
-        "until": "2026-06"
+        "until": "2028-06"
       }
     },
     "squad": [
@@ -4097,6 +4090,13 @@
         "position": "Offence",
         "dateOfBirth": "2007-11-13",
         "nationality": "England"
+      },
+      {
+        "id": 295708,
+        "name": "Lamin Sillah",
+        "position": "Offence",
+        "dateOfBirth": "2006-06-06",
+        "nationality": "Gambia"
       },
       {
         "id": 119596,

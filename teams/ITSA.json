@@ -685,6 +685,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 102395,
+        "name": "Manu Koné",
+        "position": "Midfield",
+        "dateOfBirth": "2001-05-17",
+        "nationality": "France"
+      },
+      {
         "id": 290005,
         "name": "Muhammed Bah",
         "position": "Midfield",
@@ -760,13 +767,6 @@
         "position": "Centre-Forward",
         "dateOfBirth": "2004-10-19",
         "nationality": "Ireland"
-      },
-      {
-        "id": 102395,
-        "name": "Kouadio Koné",
-        "position": "Central Midfield",
-        "dateOfBirth": "2001-05-17",
-        "nationality": "France"
       },
       {
         "id": 32703,
@@ -1886,10 +1886,24 @@
         "nationality": "Albania"
       },
       {
+        "id": 276934,
+        "name": "Filippo Carbone",
+        "position": "Offence",
+        "dateOfBirth": "2006-12-29",
+        "nationality": "Italy"
+      },
+      {
         "id": 294807,
         "name": "Daniel Ndulue",
         "position": "Offence",
         "dateOfBirth": "2007-03-03",
+        "nationality": "Italy"
+      },
+      {
+        "id": 295711,
+        "name": "Marco Romano",
+        "position": "Offence",
+        "dateOfBirth": "2006-03-01",
         "nationality": "Italy"
       },
       {
@@ -2982,6 +2996,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 295705,
+        "name": "Alessandro Mazzocchi",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2008-04-08",
+        "nationality": "Italy"
+      },
+      {
         "id": 212729,
         "name": "Mariano Troilo",
         "position": "Defence",
@@ -3243,15 +3264,15 @@
       }
     ],
     "coach": {
-      "id": 11583,
-      "firstName": "Antonio",
-      "lastName": "Conte",
-      "name": "Antonio Conte",
-      "dateOfBirth": "1969-07-31",
-      "nationality": "Italy",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-06",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -3338,6 +3359,48 @@
         "position": "Offence",
         "dateOfBirth": "2003-11-24",
         "nationality": "Brazil"
+      },
+      {
+        "id": 161310,
+        "name": "Juan Jesus",
+        "position": "Centre-Back",
+        "dateOfBirth": "1991-06-10",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 152770,
+        "name": "Rasmus Højlund",
+        "position": "Centre-Forward",
+        "dateOfBirth": "2003-02-04",
+        "nationality": "Denmark"
+      },
+      {
+        "id": 144953,
+        "name": "Miguel Gutiérrez",
+        "position": "Left-Back",
+        "dateOfBirth": "2001-07-27",
+        "nationality": "Spain"
+      },
+      {
+        "id": 126289,
+        "name": "Billy Gilmour",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "2001-06-11",
+        "nationality": "Scotland"
+      },
+      {
+        "id": 53281,
+        "name": "Sam Beukema",
+        "position": "Centre-Back",
+        "dateOfBirth": "1998-11-17",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 33628,
+        "name": "Stanislav Lobotka",
+        "position": "Defensive Midfield",
+        "dateOfBirth": "1994-11-25",
+        "nationality": "Slovakia"
       },
       {
         "id": 32754,
@@ -3429,48 +3492,6 @@
         "position": "Left-Back",
         "dateOfBirth": "1993-03-25",
         "nationality": "Italy"
-      },
-      {
-        "id": 161310,
-        "name": "Juan Jesus",
-        "position": "Centre-Back",
-        "dateOfBirth": "1991-06-10",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 152770,
-        "name": "Rasmus Højlund",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2003-02-04",
-        "nationality": "Denmark"
-      },
-      {
-        "id": 144953,
-        "name": "Miguel Gutiérrez",
-        "position": "Left-Back",
-        "dateOfBirth": "2001-07-27",
-        "nationality": "Spain"
-      },
-      {
-        "id": 126289,
-        "name": "Billy Gilmour",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2001-06-11",
-        "nationality": "Scotland"
-      },
-      {
-        "id": 53281,
-        "name": "Sam Beukema",
-        "position": "Centre-Back",
-        "dateOfBirth": "1998-11-17",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 33628,
-        "name": "Stanislav Lobotka",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "1994-11-25",
-        "nationality": "Slovakia"
       }
     ],
     "staff": [],
@@ -4134,6 +4155,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 295710,
+        "name": "Tommaso Vigilati",
+        "position": "Defence",
+        "dateOfBirth": "2008-04-25",
+        "nationality": "Italy"
+      },
+      {
         "id": 41859,
         "name": "Jari Vandeputte",
         "position": "Midfield",
@@ -4158,7 +4186,7 @@
         "id": 278424,
         "name": "Davide Pavesi",
         "position": "Midfield",
-        "dateOfBirth": null,
+        "dateOfBirth": "2008-02-15",
         "nationality": "Italy"
       },
       {
@@ -4422,6 +4450,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 295707,
+        "name": "Giorgio Vezzosi",
+        "position": "Defence",
+        "dateOfBirth": "2007-01-14",
+        "nationality": "Italy"
+      },
+      {
         "id": 150821,
         "name": "Edoardo Iannoni",
         "position": "Midfield",
@@ -4450,6 +4485,13 @@
         "nationality": "Italy"
       },
       {
+        "id": 295706,
+        "name": "Jeffrey Baffoh",
+        "position": "Midfield",
+        "dateOfBirth": "2009-04-02",
+        "nationality": "Italy"
+      },
+      {
         "id": 111561,
         "name": "Luca Moro",
         "position": "Offence",
@@ -4462,6 +4504,13 @@
         "position": "Offence",
         "dateOfBirth": "1996-08-18",
         "nationality": "Angola"
+      },
+      {
+        "id": 123103,
+        "name": "Woyo Coulibaly",
+        "position": "Right-Back",
+        "dateOfBirth": "1999-05-20",
+        "nationality": "Mali"
       },
       {
         "id": 122407,
@@ -4574,13 +4623,6 @@
         "position": "Central Midfield",
         "dateOfBirth": "1998-12-22",
         "nationality": "Italy"
-      },
-      {
-        "id": 123103,
-        "name": "Woyo Coulibaly",
-        "position": "Right-Back",
-        "dateOfBirth": "1999-05-20",
-        "nationality": "Mali"
       }
     ],
     "staff": [],
