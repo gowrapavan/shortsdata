@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-24T08:13:10.154901Z",
+    "last_updated": "2026-05-25T09:42:43.254610Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -28,10 +28,19 @@
                     "player_name": "Antoine Semenyo",
                     "team_name": "Manchester City FC",
                     "team_crest": "https://crests.football-data.org/65.png",
-                    "goals": 16,
+                    "goals": 17,
                     "assists": 4,
                     "penalties": 1,
                     "nationality": "Ghana"
+                },
+                {
+                    "player_name": "Ollie Watkins",
+                    "team_name": "Aston Villa FC",
+                    "team_crest": "https://crests.football-data.org/58.png",
+                    "goals": 16,
+                    "assists": 3,
+                    "penalties": null,
+                    "nationality": "England"
                 },
                 {
                     "player_name": "João Pedro",
@@ -41,6 +50,15 @@
                     "assists": 5,
                     "penalties": null,
                     "nationality": "Brazil"
+                },
+                {
+                    "player_name": "Morgan Gibbs-White",
+                    "team_name": "Nottingham Forest FC",
+                    "team_crest": "https://crests.football-data.org/351.png",
+                    "goals": 15,
+                    "assists": 5,
+                    "penalties": 1,
+                    "nationality": "England"
                 },
                 {
                     "player_name": "Viktor Gyökeres",
@@ -58,24 +76,6 @@
                     "goals": 14,
                     "assists": 1,
                     "penalties": 4,
-                    "nationality": "England"
-                },
-                {
-                    "player_name": "Ollie Watkins",
-                    "team_name": "Aston Villa FC",
-                    "team_crest": "https://crests.football-data.org/58.png",
-                    "goals": 14,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "England"
-                },
-                {
-                    "player_name": "Morgan Gibbs-White",
-                    "team_name": "Nottingham Forest FC",
-                    "team_crest": "https://crests.football-data.org/351.png",
-                    "goals": 14,
-                    "assists": 5,
-                    "penalties": 1,
                     "nationality": "England"
                 },
                 {
@@ -213,10 +213,19 @@
                     "player_name": "Anastasios Douvikas",
                     "team_name": "Como 1907",
                     "team_crest": "https://crests.football-data.org/7397.png",
-                    "goals": 13,
+                    "goals": 14,
                     "assists": 1,
                     "penalties": 1,
                     "nationality": "Greece"
+                },
+                {
+                    "player_name": "Donyell Malen",
+                    "team_name": "AS Roma",
+                    "team_crest": "https://crests.football-data.org/100.png",
+                    "goals": 14,
+                    "assists": 2,
+                    "penalties": 3,
+                    "nationality": "Netherlands"
                 },
                 {
                     "player_name": "Marcus Thuram-Ulien",
@@ -228,13 +237,13 @@
                     "nationality": "France"
                 },
                 {
-                    "player_name": "Donyell Malen",
-                    "team_name": "AS Roma",
-                    "team_crest": "https://crests.football-data.org/100.png",
+                    "player_name": "Rasmus Højlund",
+                    "team_name": "SSC Napoli",
+                    "team_crest": "https://crests.football-data.org/113.png",
                     "goals": 13,
-                    "assists": 2,
-                    "penalties": 3,
-                    "nationality": "Netherlands"
+                    "assists": 5,
+                    "penalties": 1,
+                    "nationality": "Denmark"
                 },
                 {
                     "player_name": "Nico Paz",
@@ -244,15 +253,6 @@
                     "assists": 6,
                     "penalties": null,
                     "nationality": "Argentina"
-                },
-                {
-                    "player_name": "Rasmus Højlund",
-                    "team_name": "SSC Napoli",
-                    "team_crest": "https://crests.football-data.org/113.png",
-                    "goals": 12,
-                    "assists": 5,
-                    "penalties": 1,
-                    "nationality": "Denmark"
                 },
                 {
                     "player_name": "Giovanni Simeone",
@@ -273,21 +273,21 @@
                     "nationality": "Scotland"
                 },
                 {
+                    "player_name": "Federico Bonazzoli",
+                    "team_name": "US Cremonese",
+                    "team_crest": "https://crests.football-data.org/457.png",
+                    "goals": 10,
+                    "assists": 2,
+                    "penalties": 3,
+                    "nationality": "Italy"
+                },
+                {
                     "player_name": "Gianluca Scamacca",
                     "team_name": "Atalanta BC",
                     "team_crest": "https://crests.football-data.org/102.png",
                     "goals": 10,
                     "assists": 1,
                     "penalties": 2,
-                    "nationality": "Italy"
-                },
-                {
-                    "player_name": "Riccardo Orsolini",
-                    "team_name": "Bologna FC 1909",
-                    "team_crest": "https://crests.football-data.org/103.png",
-                    "goals": 10,
-                    "assists": 1,
-                    "penalties": 4,
                     "nationality": "Italy"
                 }
             ]
