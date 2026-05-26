@@ -126,6 +126,25 @@
         {
           "position": 6,
           "team": {
+            "id": 4241,
+            "name": "Coritiba FBC",
+            "shortName": "Coritiba",
+            "tla": "COR",
+            "crest": "https://crests.football-data.org/4241.png"
+          },
+          "playedGames": 17,
+          "form": null,
+          "won": 7,
+          "draw": 5,
+          "lost": 5,
+          "points": 26,
+          "goalsFor": 24,
+          "goalsAgainst": 21,
+          "goalDifference": 3
+        },
+        {
+          "position": 7,
+          "team": {
             "id": 1776,
             "name": "São Paulo FC",
             "shortName": "São Paulo",
@@ -143,7 +162,7 @@
           "goalDifference": 4
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 1777,
             "name": "EC Bahia",
@@ -151,34 +170,15 @@
             "tla": "BAH",
             "crest": "https://crests.football-data.org/1777.png"
           },
-          "playedGames": 15,
-          "form": null,
-          "won": 6,
-          "draw": 5,
-          "lost": 4,
-          "points": 23,
-          "goalsFor": 21,
-          "goalsAgainst": 19,
-          "goalDifference": 2
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": 4241,
-            "name": "Coritiba FBC",
-            "shortName": "Coritiba",
-            "tla": "COR",
-            "crest": "https://crests.football-data.org/4241.png"
-          },
           "playedGames": 16,
           "form": null,
           "won": 6,
           "draw": 5,
           "lost": 5,
           "points": 23,
-          "goalsFor": 21,
-          "goalsAgainst": 19,
-          "goalDifference": 2
+          "goalsFor": 23,
+          "goalsAgainst": 22,
+          "goalDifference": 1
         },
         {
           "position": 9,
