@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "time": "2026-05-30 17:30 IST",
+    "game": "football",
+    "league": "International Friendly",
+    "home_team": "Curacao",
+    "away_team": "Scotland",
+    "label": "cur-sco",
+    "home_logo": "https://streamfree.app/thumbnails/soccer_curacao-vs-scotland_Curacao_vs_Scotland",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "url": "https://streamfree.app/embed/soccer/curacao-vs-scotland?quality=720p&category=soccer"
+  },
+  {
+    "time": "2026-05-30 19:00 IST",
+    "game": "football",
+    "league": "International Friendly",
+    "home_team": "Zimbabwe",
+    "away_team": "India",
+    "label": "zim-ind",
+    "home_logo": "https://streamfree.app/thumbnails/soccer_zimbabwe-vs-india_Zimbabwe_vs_India",
+    "away_logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+    "url": "https://streamfree.app/embed/soccer/zimbabwe-vs-india?quality=720p&category=soccer"
+  },
+  {
+    "time": "2026-05-30 21:30 IST",
+    "game": "football",
+    "league": "Champions League",
+    "home_team": "Arsenal",
+    "away_team": "Paris Saint-Germain",
+    "label": "ars-par",
+    "home_logo": "https://crests.football-data.org/57.png",
+    "away_logo": "https://crests.football-data.org/524.png",
+    "url": "https://streamfree.app/embed/soccer/arsenal-vs-paris-saint-germain?quality=720p&category=soccer"
+  }
+]
