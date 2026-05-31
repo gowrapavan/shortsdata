@@ -37,15 +37,15 @@
             "tla": "PAL",
             "crest": "https://crests.football-data.org/1769.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
-          "won": 11,
+          "won": 12,
           "draw": 5,
           "lost": 1,
-          "points": 38,
-          "goalsFor": 29,
+          "points": 41,
+          "goalsFor": 30,
           "goalsAgainst": 13,
-          "goalDifference": 16
+          "goalDifference": 17
         },
         {
           "position": 2,
@@ -113,15 +113,15 @@
             "tla": "RBB",
             "crest": "https://crests.football-data.org/4286.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
-          "won": 8,
+          "won": 9,
           "draw": 2,
           "lost": 7,
-          "points": 26,
-          "goalsFor": 22,
-          "goalsAgainst": 18,
-          "goalDifference": 4
+          "points": 29,
+          "goalsFor": 25,
+          "goalsAgainst": 19,
+          "goalDifference": 6
         },
         {
           "position": 6,
@@ -183,6 +183,25 @@
         {
           "position": 9,
           "team": {
+            "id": 1766,
+            "name": "CA Mineiro",
+            "shortName": "Mineiro",
+            "tla": "CAM",
+            "crest": "https://crests.football-data.org/1766.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 7,
+          "draw": 3,
+          "lost": 8,
+          "points": 24,
+          "goalsFor": 22,
+          "goalsAgainst": 23,
+          "goalDifference": -1
+        },
+        {
+          "position": 10,
+          "team": {
             "id": 1779,
             "name": "SC Corinthians Paulista",
             "shortName": "Corinthians",
@@ -200,7 +219,7 @@
           "goalDifference": -1
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 1771,
             "name": "Cruzeiro EC",
@@ -219,7 +238,7 @@
           "goalDifference": -4
         },
         {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 1770,
             "name": "Botafogo FR",
@@ -238,7 +257,7 @@
           "goalDifference": 0
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 1782,
             "name": "EC Vitória",
@@ -257,25 +276,6 @@
           "goalDifference": -4
         },
         {
-          "position": 13,
-          "team": {
-            "id": 1766,
-            "name": "CA Mineiro",
-            "shortName": "Mineiro",
-            "tla": "CAM",
-            "crest": "https://crests.football-data.org/1766.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 6,
-          "draw": 3,
-          "lost": 8,
-          "points": 21,
-          "goalsFor": 21,
-          "goalsAgainst": 23,
-          "goalDifference": -2
-        },
-        {
           "position": 14,
           "team": {
             "id": 6684,
@@ -284,15 +284,15 @@
             "tla": "SCI",
             "crest": "https://crests.football-data.org/6684.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
           "won": 5,
           "draw": 6,
-          "lost": 6,
+          "lost": 7,
           "points": 21,
-          "goalsFor": 20,
-          "goalsAgainst": 19,
-          "goalDifference": 1
+          "goalsFor": 21,
+          "goalsAgainst": 22,
+          "goalDifference": -1
         },
         {
           "position": 15,
@@ -341,15 +341,15 @@
             "tla": "VAS",
             "crest": "https://crests.football-data.org/1780.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
           "won": 5,
           "draw": 5,
-          "lost": 7,
+          "lost": 8,
           "points": 20,
           "goalsFor": 22,
-          "goalsAgainst": 28,
-          "goalDifference": -6
+          "goalsAgainst": 29,
+          "goalDifference": -7
         },
         {
           "position": 18,
@@ -398,15 +398,15 @@
             "tla": "CHA",
             "crest": "https://crests.football-data.org/1772_large.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 1,
           "draw": 6,
-          "lost": 9,
+          "lost": 10,
           "points": 9,
           "goalsFor": 17,
-          "goalsAgainst": 32,
-          "goalDifference": -15
+          "goalsAgainst": 33,
+          "goalDifference": -16
         }
       ]
     }
