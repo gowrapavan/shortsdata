@@ -69,6 +69,25 @@
         {
           "position": 3,
           "team": {
+            "id": 1765,
+            "name": "Fluminense FC",
+            "shortName": "Fluminense",
+            "tla": "FLU",
+            "crest": "https://crests.football-data.org/1765.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 9,
+          "draw": 4,
+          "lost": 5,
+          "points": 31,
+          "goalsFor": 28,
+          "goalsAgainst": 23,
+          "goalDifference": 5
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 1768,
             "name": "CA Paranaense",
             "shortName": "Paranaense",
@@ -84,25 +103,6 @@
           "goalsFor": 24,
           "goalsAgainst": 18,
           "goalDifference": 6
-        },
-        {
-          "position": 4,
-          "team": {
-            "id": 1765,
-            "name": "Fluminense FC",
-            "shortName": "Fluminense",
-            "tla": "FLU",
-            "crest": "https://crests.football-data.org/1765.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 9,
-          "draw": 3,
-          "lost": 5,
-          "points": 30,
-          "goalsFor": 27,
-          "goalsAgainst": 22,
-          "goalDifference": 5
         },
         {
           "position": 5,
@@ -170,15 +170,15 @@
             "tla": "PAU",
             "crest": "https://crests.football-data.org/1776.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
           "won": 7,
           "draw": 4,
-          "lost": 6,
+          "lost": 7,
           "points": 25,
           "goalsFor": 23,
-          "goalsAgainst": 19,
-          "goalDifference": 4
+          "goalsAgainst": 20,
+          "goalDifference": 3
         },
         {
           "position": 9,
@@ -227,14 +227,14 @@
             "tla": "CRU",
             "crest": "https://crests.football-data.org/1771.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
           "won": 6,
-          "draw": 5,
+          "draw": 6,
           "lost": 6,
-          "points": 23,
-          "goalsFor": 23,
-          "goalsAgainst": 27,
+          "points": 24,
+          "goalsFor": 24,
+          "goalsAgainst": 28,
           "goalDifference": -4
         },
         {
@@ -354,6 +354,25 @@
         {
           "position": 18,
           "team": {
+            "id": 4287,
+            "name": "Clube do Remo",
+            "shortName": "Clube do Remo",
+            "tla": "CRE",
+            "crest": "https://crests.football-data.org/4287.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 4,
+          "draw": 6,
+          "lost": 8,
+          "points": 18,
+          "goalsFor": 21,
+          "goalsAgainst": 29,
+          "goalDifference": -8
+        },
+        {
+          "position": 19,
+          "team": {
             "id": 4364,
             "name": "Mirassol FC",
             "shortName": "Mirassol",
@@ -369,25 +388,6 @@
           "goalsFor": 18,
           "goalsAgainst": 24,
           "goalDifference": -6
-        },
-        {
-          "position": 19,
-          "team": {
-            "id": 4287,
-            "name": "Clube do Remo",
-            "shortName": "Clube do Remo",
-            "tla": "CRE",
-            "crest": "https://crests.football-data.org/4287.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 3,
-          "draw": 6,
-          "lost": 8,
-          "points": 15,
-          "goalsFor": 20,
-          "goalsAgainst": 29,
-          "goalDifference": -9
         },
         {
           "position": 20,
