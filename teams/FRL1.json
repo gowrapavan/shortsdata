@@ -18,13 +18,6 @@
     "venue": "Stadium Municipal",
     "runningCompetitions": [
       {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
-      {
         "id": 2138,
         "name": "Coupe de France",
         "code": "CDF",
@@ -33,15 +26,15 @@
       }
     ],
     "coach": {
-      "id": 210420,
-      "firstName": "",
-      "lastName": "Carles Martínez",
-      "name": "Carles Martínez",
-      "dateOfBirth": "1984-01-01",
-      "nationality": "Spain",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2023-07",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -72,6 +65,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2005-05-28",
         "nationality": "France"
+      },
+      {
+        "id": 77803,
+        "name": "Mark McKenzie",
+        "position": "Defence",
+        "dateOfBirth": "1999-02-25",
+        "nationality": "USA"
       },
       {
         "id": 264401,
@@ -228,13 +228,6 @@
         "nationality": "France"
       },
       {
-        "id": 77803,
-        "name": "Mark McKenzie",
-        "position": "Centre-Back",
-        "dateOfBirth": "1999-02-25",
-        "nationality": "USA"
-      },
-      {
         "id": 24190,
         "name": "Rasmus Nicolaisen",
         "position": "Centre-Back",
@@ -290,25 +283,17 @@
     "founded": 1903,
     "clubColors": "White / Red",
     "venue": "Stade Francis-Le Blé",
-    "runningCompetitions": [
-      {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 190990,
-      "firstName": "Éric",
-      "lastName": "Roy",
-      "name": "Eric Roy",
-      "dateOfBirth": "1967-09-26",
-      "nationality": "France",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2023-01",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -510,13 +495,6 @@
     "venue": "Orange Vélodrome",
     "runningCompetitions": [
       {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
-      {
         "id": 2001,
         "name": "UEFA Champions League",
         "code": "CL",
@@ -573,6 +551,27 @@
         "nationality": "Belgium"
       },
       {
+        "id": 46125,
+        "name": "Facundo Medina",
+        "position": "Defence",
+        "dateOfBirth": "1999-05-28",
+        "nationality": "Argentina"
+      },
+      {
+        "id": 81191,
+        "name": "Nayef Aguerd",
+        "position": "Defence",
+        "dateOfBirth": "1996-03-30",
+        "nationality": "Morocco"
+      },
+      {
+        "id": 82020,
+        "name": "Leonardo Balerdi",
+        "position": "Defence",
+        "dateOfBirth": "1999-01-26",
+        "nationality": "Argentina"
+      },
+      {
         "id": 288911,
         "name": "Pladi N'Zinga-Pambani",
         "position": "Defence",
@@ -608,6 +607,20 @@
         "nationality": "France"
       },
       {
+        "id": 8492,
+        "name": "Tim Weah",
+        "position": "Midfield",
+        "dateOfBirth": "2000-02-22",
+        "nationality": "USA"
+      },
+      {
+        "id": 97536,
+        "name": "Quinten Timber",
+        "position": "Midfield",
+        "dateOfBirth": "2001-06-17",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 183544,
         "name": "Tochukwu Nadi",
         "position": "Midfield",
@@ -620,6 +633,13 @@
         "position": "Midfield",
         "dateOfBirth": "2004-12-27",
         "nationality": "Mali"
+      },
+      {
+        "id": 8476,
+        "name": "Amine Gouiri",
+        "position": "Offence",
+        "dateOfBirth": "2000-02-16",
+        "nationality": "Algeria"
       },
       {
         "id": 288624,
@@ -664,27 +684,6 @@
         "nationality": "England"
       },
       {
-        "id": 97536,
-        "name": "Quinten Timber",
-        "position": "Central Midfield",
-        "dateOfBirth": "2001-06-17",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 82020,
-        "name": "Leonardo Balerdi",
-        "position": "Centre-Back",
-        "dateOfBirth": "1999-01-26",
-        "nationality": "Argentina"
-      },
-      {
-        "id": 81191,
-        "name": "Nayef Aguerd",
-        "position": "Centre-Back",
-        "dateOfBirth": "1996-03-30",
-        "nationality": "Morocco"
-      },
-      {
         "id": 80754,
         "name": "Himad Abdelli",
         "position": "Attacking Midfield",
@@ -692,32 +691,11 @@
         "nationality": "Algeria"
       },
       {
-        "id": 46125,
-        "name": "Facundo Medina",
-        "position": "Centre-Back",
-        "dateOfBirth": "1999-05-28",
-        "nationality": "Argentina"
-      },
-      {
         "id": 33149,
         "name": "Geoffrey Kondogbia",
         "position": "Defensive Midfield",
         "dateOfBirth": "1993-02-15",
         "nationality": "Central African Republic"
-      },
-      {
-        "id": 8492,
-        "name": "Tim Weah",
-        "position": "Right Winger",
-        "dateOfBirth": "2000-02-22",
-        "nationality": "USA"
-      },
-      {
-        "id": 8476,
-        "name": "Amine Gouiri",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2000-02-16",
-        "nationality": "Algeria"
       },
       {
         "id": 8093,
@@ -803,25 +781,17 @@
     "founded": 1905,
     "clubColors": "White / Blue",
     "venue": "Stade de l'Abbé Deschamps",
-    "runningCompetitions": [
-      {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 45110,
-      "firstName": "Christophe",
-      "lastName": "Pélissier",
-      "name": "Christophe Pélissier",
-      "dateOfBirth": "1965-10-05",
-      "nationality": "France",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2022-10",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -854,11 +824,32 @@
         "nationality": "France"
       },
       {
+        "id": 16340,
+        "name": "Gideon Mensah",
+        "position": "Defence",
+        "dateOfBirth": "1998-07-18",
+        "nationality": "Ghana"
+      },
+      {
         "id": 124243,
         "name": "Bryan Okoh",
         "position": "Defence",
         "dateOfBirth": "2003-05-16",
         "nationality": "Switzerland"
+      },
+      {
+        "id": 153924,
+        "name": "Marvin Senaya",
+        "position": "Defence",
+        "dateOfBirth": "2001-01-28",
+        "nationality": "Ghana"
+      },
+      {
+        "id": 185194,
+        "name": "Clement Akpa",
+        "position": "Defence",
+        "dateOfBirth": "2001-11-24",
+        "nationality": "Ivory Coast"
       },
       {
         "id": 277960,
@@ -896,6 +887,13 @@
         "nationality": "France"
       },
       {
+        "id": 8470,
+        "name": "Elisha Owusu",
+        "position": "Midfield",
+        "dateOfBirth": "1997-11-07",
+        "nationality": "Ghana"
+      },
+      {
         "id": 281104,
         "name": "Tidiane Devernois",
         "position": "Midfield",
@@ -922,6 +920,13 @@
         "position": "Offence",
         "dateOfBirth": "2000-08-28",
         "nationality": "Cameroon"
+      },
+      {
+        "id": 152737,
+        "name": "Josué Casimir",
+        "position": "Offence",
+        "dateOfBirth": "2001-09-24",
+        "nationality": "Haiti"
       },
       {
         "id": 286557,
@@ -952,20 +957,6 @@
         "nationality": "Norway"
       },
       {
-        "id": 153924,
-        "name": "Marvin Senaya",
-        "position": "Right-Back",
-        "dateOfBirth": "2001-01-28",
-        "nationality": "Ghana"
-      },
-      {
-        "id": 152737,
-        "name": "Josué Casimir",
-        "position": "Right Winger",
-        "dateOfBirth": "2001-09-24",
-        "nationality": "Haiti"
-      },
-      {
         "id": 151552,
         "name": "Sekou Mara",
         "position": "Centre-Forward",
@@ -987,25 +978,11 @@
         "nationality": "France"
       },
       {
-        "id": 16340,
-        "name": "Gideon Mensah",
-        "position": "Left-Back",
-        "dateOfBirth": "1998-07-18",
-        "nationality": "Ghana"
-      },
-      {
         "id": 8762,
         "name": "Romain Faivre",
         "position": "Right Midfield",
         "dateOfBirth": "1998-07-14",
         "nationality": "France"
-      },
-      {
-        "id": 8470,
-        "name": "Elisha Owusu",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "1997-11-07",
-        "nationality": "Ghana"
       },
       {
         "id": 3631,
@@ -1034,13 +1011,6 @@
         "position": "Defensive Midfield",
         "dateOfBirth": "2004-02-29",
         "nationality": "France"
-      },
-      {
-        "id": 185194,
-        "name": "Clement Akpa",
-        "position": "Left-Back",
-        "dateOfBirth": "2001-11-24",
-        "nationality": "Ivory Coast"
       },
       {
         "id": 177412,
@@ -1085,13 +1055,6 @@
     "clubColors": "White / Red",
     "venue": "Stade Pierre-Mauroy",
     "runningCompetitions": [
-      {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
       {
         "id": 2146,
         "name": "UEFA Europa League",
@@ -1156,6 +1119,27 @@
         "nationality": "France"
       },
       {
+        "id": 19,
+        "name": "Aïssa Mandi",
+        "position": "Defence",
+        "dateOfBirth": "1991-10-22",
+        "nationality": "Algeria"
+      },
+      {
+        "id": 3650,
+        "name": "Thomas Meunier",
+        "position": "Defence",
+        "dateOfBirth": "1991-09-12",
+        "nationality": "Belgium"
+      },
+      {
+        "id": 7918,
+        "name": "Chancel Mbemba",
+        "position": "Defence",
+        "dateOfBirth": "1994-08-08",
+        "nationality": "DR Congo"
+      },
+      {
         "id": 192677,
         "name": "Nathan Ngoy",
         "position": "Defence",
@@ -1177,6 +1161,13 @@
         "nationality": "France"
       },
       {
+        "id": 6503,
+        "name": "Nabil Bentaleb",
+        "position": "Midfield",
+        "dateOfBirth": "1994-11-24",
+        "nationality": "Algeria"
+      },
+      {
         "id": 170451,
         "name": "Marius Broholm",
         "position": "Midfield",
@@ -1184,11 +1175,25 @@
         "nationality": "Norway"
       },
       {
+        "id": 192666,
+        "name": "Ngal'ayel Mukau",
+        "position": "Midfield",
+        "dateOfBirth": "2004-11-03",
+        "nationality": "DR Congo"
+      },
+      {
         "id": 213221,
         "name": "Hákon Haraldsson",
         "position": "Midfield",
         "dateOfBirth": "2003-04-10",
         "nationality": "Iceland"
+      },
+      {
+        "id": 221819,
+        "name": "Ayyoub Bouaddi",
+        "position": "Midfield",
+        "dateOfBirth": "2007-10-02",
+        "nationality": "France"
       },
       {
         "id": 270794,
@@ -1203,6 +1208,13 @@
         "position": "Midfield",
         "dateOfBirth": "2008-03-18",
         "nationality": "Algeria"
+      },
+      {
+        "id": 213511,
+        "name": "Matias Fernandez-Pardo",
+        "position": "Offence",
+        "dateOfBirth": "2005-02-03",
+        "nationality": "Belgium"
       },
       {
         "id": 260879,
@@ -1282,27 +1294,6 @@
         "nationality": "France"
       },
       {
-        "id": 7918,
-        "name": "Chancel Mbemba",
-        "position": "Centre-Back",
-        "dateOfBirth": "1994-08-08",
-        "nationality": "DR Congo"
-      },
-      {
-        "id": 6503,
-        "name": "Nabil Bentaleb",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "1994-11-24",
-        "nationality": "Algeria"
-      },
-      {
-        "id": 3650,
-        "name": "Thomas Meunier",
-        "position": "Right-Back",
-        "dateOfBirth": "1991-09-12",
-        "nationality": "Belgium"
-      },
-      {
         "id": 3371,
         "name": "Olivier Giroud",
         "position": "Centre-Forward",
@@ -1317,24 +1308,10 @@
         "nationality": "France"
       },
       {
-        "id": 19,
-        "name": "Aïssa Mandi",
-        "position": "Centre-Back",
-        "dateOfBirth": "1991-10-22",
-        "nationality": "Algeria"
-      },
-      {
         "id": 227765,
         "name": "Lilian Baret",
         "position": "Defensive Midfield",
         "dateOfBirth": "2006-05-25",
-        "nationality": "France"
-      },
-      {
-        "id": 221819,
-        "name": "Ayyoub Bouaddi",
-        "position": "Central Midfield",
-        "dateOfBirth": "2007-10-02",
         "nationality": "France"
       },
       {
@@ -1352,25 +1329,11 @@
         "nationality": "France"
       },
       {
-        "id": 213511,
-        "name": "Matias Fernandez-Pardo",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2005-02-03",
-        "nationality": "Belgium"
-      },
-      {
         "id": 212975,
         "name": "Noah Edjouma",
         "position": "Right Winger",
         "dateOfBirth": "2005-10-04",
         "nationality": "France"
-      },
-      {
-        "id": 192666,
-        "name": "Ngal'ayel Mukau",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2004-11-03",
-        "nationality": "DR Congo"
       }
     ],
     "staff": [],
@@ -1394,13 +1357,6 @@
     "clubColors": "Red / Black",
     "venue": "Stade de Nice",
     "runningCompetitions": [
-      {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
       {
         "id": 2146,
         "name": "UEFA Europa League",
@@ -1465,11 +1421,39 @@
         "nationality": "France"
       },
       {
+        "id": 99394,
+        "name": "Ali El Abdi",
+        "position": "Defence",
+        "dateOfBirth": "1993-12-20",
+        "nationality": "Tunisia"
+      },
+      {
+        "id": 168667,
+        "name": "Antoine Mendy",
+        "position": "Defence",
+        "dateOfBirth": "2004-05-27",
+        "nationality": "Senegal"
+      },
+      {
+        "id": 192153,
+        "name": "Moise Bombito",
+        "position": "Defence",
+        "dateOfBirth": "2000-03-30",
+        "nationality": "Canada"
+      },
+      {
         "id": 202896,
         "name": "Kojo Peprah Oppong",
         "position": "Defence",
         "dateOfBirth": "2004-06-04",
         "nationality": "Ghana"
+      },
+      {
+        "id": 245563,
+        "name": "Mohamed Abdelmonem",
+        "position": "Defence",
+        "dateOfBirth": "1999-02-01",
+        "nationality": "Egypt"
       },
       {
         "id": 274450,
@@ -1514,6 +1498,13 @@
         "nationality": "Sweden"
       },
       {
+        "id": 123508,
+        "name": "Hicham Boudaoui",
+        "position": "Midfield",
+        "dateOfBirth": "1999-09-23",
+        "nationality": "Algeria"
+      },
+      {
         "id": 246041,
         "name": "Abdulay Bah",
         "position": "Midfield",
@@ -1546,6 +1537,13 @@
         "name": "Millan Brignone",
         "position": "Midfield",
         "dateOfBirth": "2007-03-24",
+        "nationality": "France"
+      },
+      {
+        "id": 156808,
+        "name": "Sepe Elye Wahi",
+        "position": "Offence",
+        "dateOfBirth": "2003-01-02",
         "nationality": "France"
       },
       {
@@ -1598,32 +1596,11 @@
         "nationality": "Algeria"
       },
       {
-        "id": 192153,
-        "name": "Moise Bombito",
-        "position": "Centre-Back",
-        "dateOfBirth": "2000-03-30",
-        "nationality": "Canada"
-      },
-      {
         "id": 172057,
         "name": "Youssouf Ndayishimiye",
         "position": "Centre-Back",
         "dateOfBirth": "1998-10-27",
         "nationality": "Burundi"
-      },
-      {
-        "id": 168667,
-        "name": "Antoine Mendy",
-        "position": "Right-Back",
-        "dateOfBirth": "2004-05-27",
-        "nationality": "Senegal"
-      },
-      {
-        "id": 156808,
-        "name": "Sepe Elye Wahi",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2003-01-02",
-        "nationality": "France"
       },
       {
         "id": 136721,
@@ -1640,25 +1617,11 @@
         "nationality": "Portugal"
       },
       {
-        "id": 123508,
-        "name": "Hicham Boudaoui",
-        "position": "Central Midfield",
-        "dateOfBirth": "1999-09-23",
-        "nationality": "Algeria"
-      },
-      {
         "id": 123206,
         "name": "Salis Abdul Samed",
         "position": "Defensive Midfield",
         "dateOfBirth": "2000-03-26",
         "nationality": "Ghana"
-      },
-      {
-        "id": 99394,
-        "name": "Ali El Abdi",
-        "position": "Left-Back",
-        "dateOfBirth": "1993-12-20",
-        "nationality": "Tunisia"
       },
       {
         "id": 76723,
@@ -1696,13 +1659,6 @@
         "nationality": "France"
       },
       {
-        "id": 245563,
-        "name": "Mohamed Abdelmonem",
-        "position": "Centre-Back",
-        "dateOfBirth": "1999-02-01",
-        "nationality": "Egypt"
-      },
-      {
         "id": 245455,
         "name": "Kaïl Boudache",
         "position": "Right Winger",
@@ -1738,13 +1694,6 @@
     "clubColors": "White / Red / Blue",
     "venue": "Groupama Stadium",
     "runningCompetitions": [
-      {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
       {
         "id": 2146,
         "name": "UEFA Europa League",
@@ -1807,6 +1756,20 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2007-01-16",
         "nationality": "Ivory Coast"
+      },
+      {
+        "id": 3208,
+        "name": "Nicolás Tagliafico",
+        "position": "Defence",
+        "dateOfBirth": "1992-08-31",
+        "nationality": "Argentina"
+      },
+      {
+        "id": 8723,
+        "name": "Moussa Niakhaté",
+        "position": "Defence",
+        "dateOfBirth": "1996-03-08",
+        "nationality": "Senegal"
       },
       {
         "id": 137655,
@@ -1872,6 +1835,20 @@
         "nationality": "Czech Republic"
       },
       {
+        "id": 142149,
+        "name": "Adam Karabec",
+        "position": "Midfield",
+        "dateOfBirth": "2003-07-02",
+        "nationality": "Czech Republic"
+      },
+      {
+        "id": 142456,
+        "name": "Tanner Tessmann",
+        "position": "Midfield",
+        "dateOfBirth": "2001-09-24",
+        "nationality": "USA"
+      },
+      {
         "id": 215864,
         "name": "Noah Nartey",
         "position": "Midfield",
@@ -1891,6 +1868,13 @@
         "position": "Midfield",
         "dateOfBirth": "2007-02-24",
         "nationality": "France"
+      },
+      {
+        "id": 188487,
+        "name": "Endrick",
+        "position": "Offence",
+        "dateOfBirth": "2006-07-21",
+        "nationality": "Brazil"
       },
       {
         "id": 281450,
@@ -1914,20 +1898,6 @@
         "nationality": "England"
       },
       {
-        "id": 142456,
-        "name": "Tanner Tessmann",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2001-09-24",
-        "nationality": "USA"
-      },
-      {
-        "id": 142149,
-        "name": "Adam Karabec",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2003-07-02",
-        "nationality": "Czech Republic"
-      },
-      {
         "id": 9398,
         "name": "Orel Mangala",
         "position": "Defensive Midfield",
@@ -1949,25 +1919,11 @@
         "nationality": "Ukraine"
       },
       {
-        "id": 8723,
-        "name": "Moussa Niakhaté",
-        "position": "Centre-Back",
-        "dateOfBirth": "1996-03-08",
-        "nationality": "Senegal"
-      },
-      {
         "id": 7792,
         "name": "Ainsley Maitland-Niles",
         "position": "Right-Back",
         "dateOfBirth": "1997-08-29",
         "nationality": "England"
-      },
-      {
-        "id": 3208,
-        "name": "Nicolás Tagliafico",
-        "position": "Left-Back",
-        "dateOfBirth": "1992-08-31",
-        "nationality": "Argentina"
       },
       {
         "id": 1835,
@@ -1989,13 +1945,6 @@
         "position": "Left Winger",
         "dateOfBirth": "2005-03-19",
         "nationality": "Portugal"
-      },
-      {
-        "id": 188487,
-        "name": "Endrick",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2006-07-21",
-        "nationality": "Brazil"
       },
       {
         "id": 187065,
@@ -2033,13 +1982,6 @@
     "clubColors": "Red / Blue / White",
     "venue": "Parc des Princes",
     "runningCompetitions": [
-      {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
       {
         "id": 2001,
         "name": "UEFA Champions League",
@@ -2104,6 +2046,41 @@
         "nationality": "Morocco"
       },
       {
+        "id": 53,
+        "name": "Achraf Hakimi",
+        "position": "Defence",
+        "dateOfBirth": "1998-11-04",
+        "nationality": "Morocco"
+      },
+      {
+        "id": 3225,
+        "name": "Marquinhos",
+        "position": "Defence",
+        "dateOfBirth": "1994-05-14",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 3365,
+        "name": "Lucas Hernández",
+        "position": "Defence",
+        "dateOfBirth": "1996-02-14",
+        "nationality": "France"
+      },
+      {
+        "id": 114102,
+        "name": "William Pacho",
+        "position": "Defence",
+        "dateOfBirth": "2001-10-16",
+        "nationality": "Ecuador"
+      },
+      {
+        "id": 144570,
+        "name": "Nuno Mendes",
+        "position": "Defence",
+        "dateOfBirth": "2002-06-19",
+        "nationality": "Portugal"
+      },
+      {
         "id": 289216,
         "name": "David Boly",
         "position": "Defence",
@@ -2130,6 +2107,41 @@
         "position": "Defence",
         "dateOfBirth": "2007-01-20",
         "nationality": "France"
+      },
+      {
+        "id": 22,
+        "name": "Fabián Ruiz",
+        "position": "Midfield",
+        "dateOfBirth": "1996-04-03",
+        "nationality": "Spain"
+      },
+      {
+        "id": 177522,
+        "name": "Desire Doue",
+        "position": "Midfield",
+        "dateOfBirth": "2005-06-03",
+        "nationality": "France"
+      },
+      {
+        "id": 178722,
+        "name": "Vitinha",
+        "position": "Midfield",
+        "dateOfBirth": "2000-02-13",
+        "nationality": "Portugal"
+      },
+      {
+        "id": 186089,
+        "name": "Warren Zaïre-Emery",
+        "position": "Midfield",
+        "dateOfBirth": "2006-03-08",
+        "nationality": "France"
+      },
+      {
+        "id": 190877,
+        "name": "Joao Neves",
+        "position": "Midfield",
+        "dateOfBirth": "2004-09-27",
+        "nationality": "Portugal"
       },
       {
         "id": 213217,
@@ -2167,6 +2179,34 @@
         "nationality": "France"
       },
       {
+        "id": 3373,
+        "name": "Ousmane Dembélé",
+        "position": "Offence",
+        "dateOfBirth": "1997-05-15",
+        "nationality": "France"
+      },
+      {
+        "id": 101431,
+        "name": "Gonçalo Ramos",
+        "position": "Offence",
+        "dateOfBirth": "2001-06-20",
+        "nationality": "Portugal"
+      },
+      {
+        "id": 172762,
+        "name": "Bradley Barcola",
+        "position": "Offence",
+        "dateOfBirth": "2002-09-02",
+        "nationality": "France"
+      },
+      {
+        "id": 265040,
+        "name": "Ibrahim M'Baye",
+        "position": "Offence",
+        "dateOfBirth": "2008-01-24",
+        "nationality": "Senegal"
+      },
+      {
         "id": 278406,
         "name": "Quentin Ndjantou",
         "position": "Offence",
@@ -2188,53 +2228,11 @@
         "nationality": "France"
       },
       {
-        "id": 190877,
-        "name": "Joao Neves",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "2004-09-27",
-        "nationality": "Portugal"
-      },
-      {
-        "id": 186089,
-        "name": "Warren Zaïre-Emery",
-        "position": "Central Midfield",
-        "dateOfBirth": "2006-03-08",
-        "nationality": "France"
-      },
-      {
-        "id": 178722,
-        "name": "Vitinha",
-        "position": "Central Midfield",
-        "dateOfBirth": "2000-02-13",
-        "nationality": "Portugal"
-      },
-      {
-        "id": 177522,
-        "name": "Desire Doue",
-        "position": "Left Winger",
-        "dateOfBirth": "2005-06-03",
-        "nationality": "France"
-      },
-      {
-        "id": 172762,
-        "name": "Bradley Barcola",
-        "position": "Left Winger",
-        "dateOfBirth": "2002-09-02",
-        "nationality": "France"
-      },
-      {
         "id": 169204,
         "name": "Lucas Beraldo",
         "position": "Centre-Back",
         "dateOfBirth": "2003-11-24",
         "nationality": "Brazil"
-      },
-      {
-        "id": 144570,
-        "name": "Nuno Mendes",
-        "position": "Left-Back",
-        "dateOfBirth": "2002-06-19",
-        "nationality": "Portugal"
       },
       {
         "id": 143573,
@@ -2244,67 +2242,11 @@
         "nationality": "Ukraine"
       },
       {
-        "id": 114102,
-        "name": "William Pacho",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-10-16",
-        "nationality": "Ecuador"
-      },
-      {
         "id": 113285,
         "name": "Khvicha Kvaratskhelia",
         "position": "Left Winger",
         "dateOfBirth": "2001-02-12",
         "nationality": "Georgia"
-      },
-      {
-        "id": 101431,
-        "name": "Gonçalo Ramos",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2001-06-20",
-        "nationality": "Portugal"
-      },
-      {
-        "id": 3373,
-        "name": "Ousmane Dembélé",
-        "position": "Right Winger",
-        "dateOfBirth": "1997-05-15",
-        "nationality": "France"
-      },
-      {
-        "id": 3365,
-        "name": "Lucas Hernández",
-        "position": "Left-Back",
-        "dateOfBirth": "1996-02-14",
-        "nationality": "France"
-      },
-      {
-        "id": 3225,
-        "name": "Marquinhos",
-        "position": "Centre-Back",
-        "dateOfBirth": "1994-05-14",
-        "nationality": "Brazil"
-      },
-      {
-        "id": 53,
-        "name": "Achraf Hakimi",
-        "position": "Right-Back",
-        "dateOfBirth": "1998-11-04",
-        "nationality": "Morocco"
-      },
-      {
-        "id": 22,
-        "name": "Fabián Ruiz",
-        "position": "Central Midfield",
-        "dateOfBirth": "1996-04-03",
-        "nationality": "Spain"
-      },
-      {
-        "id": 265040,
-        "name": "Ibrahim M'Baye",
-        "position": "Right Winger",
-        "dateOfBirth": "2008-01-24",
-        "nationality": "Senegal"
       },
       {
         "id": 246066,
@@ -2336,13 +2278,6 @@
     "venue": "Stade Yves Allainmat - Le Moustoir",
     "runningCompetitions": [
       {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
-      {
         "id": 2138,
         "name": "Coupe de France",
         "code": "CDF",
@@ -2351,15 +2286,15 @@
       }
     ],
     "coach": {
-      "id": 57280,
-      "firstName": "Olivier",
-      "lastName": "Pantaloni",
-      "name": "Olivier Pantaloni",
-      "dateOfBirth": "1966-12-13",
-      "nationality": "France",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-07",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -2383,6 +2318,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "1994-06-06",
         "nationality": "Switzerland"
+      },
+      {
+        "id": 177695,
+        "name": "Montassar Talbi",
+        "position": "Defence",
+        "dateOfBirth": "1998-05-26",
+        "nationality": "Tunisia"
       },
       {
         "id": 244087,
@@ -2481,13 +2423,6 @@
         "position": "Offence",
         "dateOfBirth": null,
         "nationality": "Ivory Coast"
-      },
-      {
-        "id": 177695,
-        "name": "Montassar Talbi",
-        "position": "Centre-Back",
-        "dateOfBirth": "1998-05-26",
-        "nationality": "Tunisia"
       },
       {
         "id": 177248,
@@ -2610,13 +2545,6 @@
     "venue": "Roazhon Park",
     "runningCompetitions": [
       {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
-      {
         "id": 2138,
         "name": "Coupe de France",
         "code": "CDF",
@@ -2625,15 +2553,15 @@
       }
     ],
     "coach": {
-      "id": 142508,
-      "firstName": "Franck",
-      "lastName": "Haise",
-      "name": "Franck Haise",
-      "dateOfBirth": "1971-04-15",
-      "nationality": "France",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2026-02",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -2694,6 +2622,13 @@
         "nationality": "Poland"
       },
       {
+        "id": 48595,
+        "name": "Keito Nakamura",
+        "position": "Midfield",
+        "dateOfBirth": "2000-07-28",
+        "nationality": "Japan"
+      },
+      {
         "id": 265516,
         "name": "Yassir Zabiri",
         "position": "Midfield",
@@ -2701,18 +2636,25 @@
         "nationality": "Morocco"
       },
       {
-        "id": 289597,
-        "name": "Elias Legendre Quiñonez",
-        "position": "Midfield",
-        "dateOfBirth": "2008-04-22",
-        "nationality": "Ecuador"
-      },
-      {
         "id": 291163,
         "name": "Paolo Limon",
         "position": "Midfield",
         "dateOfBirth": "2005-12-05",
         "nationality": "France"
+      },
+      {
+        "id": 3483,
+        "name": "Breel Embolo",
+        "position": "Offence",
+        "dateOfBirth": "1997-02-14",
+        "nationality": "Switzerland"
+      },
+      {
+        "id": 98763,
+        "name": "Musa Al Taamari",
+        "position": "Offence",
+        "dateOfBirth": "1997-06-10",
+        "nationality": "Jordan"
       },
       {
         "id": 274257,
@@ -2734,6 +2676,13 @@
         "position": "Offence",
         "dateOfBirth": "2006-02-12",
         "nationality": "France"
+      },
+      {
+        "id": 289597,
+        "name": "Elias Legendre Quiñonez",
+        "position": "Offence",
+        "dateOfBirth": "2008-04-22",
+        "nationality": "Ecuador"
       },
       {
         "id": 160410,
@@ -2771,25 +2720,11 @@
         "nationality": "France"
       },
       {
-        "id": 98763,
-        "name": "Musa Al Taamari",
-        "position": "Right Winger",
-        "dateOfBirth": "1997-06-10",
-        "nationality": "Jordan"
-      },
-      {
         "id": 96869,
         "name": "Ludovic Blas",
         "position": "Right Winger",
         "dateOfBirth": "1997-12-31",
         "nationality": "France"
-      },
-      {
-        "id": 48595,
-        "name": "Keito Nakamura",
-        "position": "Left Winger",
-        "dateOfBirth": "2000-07-28",
-        "nationality": "Japan"
       },
       {
         "id": 34522,
@@ -2818,13 +2753,6 @@
         "position": "Right Midfield",
         "dateOfBirth": "1995-04-12",
         "nationality": "Poland"
-      },
-      {
-        "id": 3483,
-        "name": "Breel Embolo",
-        "position": "Centre-Forward",
-        "dateOfBirth": "1997-02-14",
-        "nationality": "Switzerland"
       },
       {
         "id": 575,
@@ -2882,25 +2810,17 @@
     "founded": 1919,
     "clubColors": "Black / White / Gold",
     "venue": "Stade Raymond Kopa",
-    "runningCompetitions": [
-      {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 192435,
-      "firstName": "Alexandre",
-      "lastName": "Dujeux",
-      "name": "Alexandre Dujeux",
-      "dateOfBirth": "1976-01-08",
-      "nationality": "France",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2023-03",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -2931,6 +2851,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2007-03-09",
         "nationality": "France"
+      },
+      {
+        "id": 532,
+        "name": "Carlens Arcus",
+        "position": "Defence",
+        "dateOfBirth": "1996-06-28",
+        "nationality": "Haiti"
       },
       {
         "id": 271979,
@@ -3108,13 +3035,6 @@
         "nationality": "Algeria"
       },
       {
-        "id": 532,
-        "name": "Carlens Arcus",
-        "position": "Right-Back",
-        "dateOfBirth": "1996-06-28",
-        "nationality": "Haiti"
-      },
-      {
         "id": 213045,
         "name": "Marius Courcoul",
         "position": "Centre-Back",
@@ -3142,25 +3062,17 @@
     "founded": 1872,
     "clubColors": "Sky Blue / Navy Blue",
     "venue": "Stade Océane",
-    "runningCompetitions": [
-      {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 33769,
-      "firstName": "Didier",
-      "lastName": "Digard",
-      "name": "Didier Digard",
-      "dateOfBirth": "1986-07-12",
-      "nationality": "France",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-07",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -3423,25 +3335,17 @@
     "founded": 1943,
     "clubColors": "Green / Yellow",
     "venue": "Stade de la Beaujoire - Louis Fonteneau",
-    "runningCompetitions": [
-      {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 96870,
-      "firstName": "Vahid",
-      "lastName": "Halilhodžić",
-      "name": "Vahid Halilhodžić",
-      "dateOfBirth": "1952-05-15",
-      "nationality": "Bosnia-Herzegovina",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2026-03",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -3472,6 +3376,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2005-03-04",
         "nationality": "France"
+      },
+      {
+        "id": 8913,
+        "name": "Deiver Machado",
+        "position": "Defence",
+        "dateOfBirth": "1993-09-02",
+        "nationality": "Colombia"
       },
       {
         "id": 62667,
@@ -3577,13 +3488,6 @@
         "position": "Defensive Midfield",
         "dateOfBirth": "1991-05-13",
         "nationality": "France"
-      },
-      {
-        "id": 8913,
-        "name": "Deiver Machado",
-        "position": "Left-Back",
-        "dateOfBirth": "1993-09-02",
-        "nationality": "Colombia"
       },
       {
         "id": 8541,
@@ -3704,25 +3608,17 @@
     "founded": 1919,
     "clubColors": "Red / Blue",
     "venue": "Stade Saint-Symphorien",
-    "runningCompetitions": [
-      {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 177974,
-      "firstName": "Benoît",
-      "lastName": "Tavenot",
-      "name": "Benoit Tavenot",
-      "dateOfBirth": "1977-01-03",
-      "nationality": "France",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2026-01",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -3790,13 +3686,6 @@
         "nationality": "Senegal"
       },
       {
-        "id": 456,
-        "name": "Habib Diallo",
-        "position": "Midfield",
-        "dateOfBirth": "1995-06-18",
-        "nationality": "Senegal"
-      },
-      {
         "id": 119294,
         "name": "Giorgi Abuashvili",
         "position": "Midfield",
@@ -3830,6 +3719,13 @@
         "position": "Midfield",
         "dateOfBirth": "2006-06-30",
         "nationality": "France"
+      },
+      {
+        "id": 456,
+        "name": "Habib Diallo",
+        "position": "Offence",
+        "dateOfBirth": "1995-06-18",
+        "nationality": "Senegal"
       },
       {
         "id": 10662,
@@ -3959,13 +3855,6 @@
     "venue": "Stade Bollaert-Delelis",
     "runningCompetitions": [
       {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
-      {
         "id": 2138,
         "name": "Coupe de France",
         "code": "CDF",
@@ -3974,15 +3863,15 @@
       }
     ],
     "coach": {
-      "id": 244768,
-      "firstName": "Pierre",
-      "lastName": "Sage",
-      "name": "Pierre Sage",
-      "dateOfBirth": "1979-05-05",
-      "nationality": "France",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-07",
-        "until": "2028-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -4029,11 +3918,25 @@
         "nationality": "DR Congo"
       },
       {
+        "id": 129098,
+        "name": "Saud Abdulhamid",
+        "position": "Defence",
+        "dateOfBirth": "1999-07-18",
+        "nationality": "Saudi Arabia"
+      },
+      {
         "id": 188148,
         "name": "Samson Baidoo",
         "position": "Defence",
         "dateOfBirth": "2004-03-31",
         "nationality": "Austria"
+      },
+      {
+        "id": 216398,
+        "name": "Nidal Čelik",
+        "position": "Defence",
+        "dateOfBirth": "2006-07-17",
+        "nationality": "Bosnia-Herzegovina"
       },
       {
         "id": 270890,
@@ -4104,13 +4007,6 @@
         "position": "Right Winger",
         "dateOfBirth": "2001-06-17",
         "nationality": "Senegal"
-      },
-      {
-        "id": 129098,
-        "name": "Saud Abdulhamid",
-        "position": "Right-Back",
-        "dateOfBirth": "1999-07-18",
-        "nationality": "Saudi Arabia"
       },
       {
         "id": 64837,
@@ -4190,13 +4086,6 @@
         "nationality": "France"
       },
       {
-        "id": 216398,
-        "name": "Nidal Čelik",
-        "position": "Centre-Back",
-        "dateOfBirth": "2006-07-17",
-        "nationality": "Bosnia-Herzegovina"
-      },
-      {
         "id": 204260,
         "name": "Fodé Sylla",
         "position": "Defensive Midfield",
@@ -4232,13 +4121,6 @@
     "clubColors": "Red / White",
     "venue": "Stade Louis II.",
     "runningCompetitions": [
-      {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
       {
         "id": 2001,
         "name": "UEFA Champions League",
@@ -4317,6 +4199,34 @@
         "nationality": "France"
       },
       {
+        "id": 6687,
+        "name": "Denis Zakaria",
+        "position": "Midfield",
+        "dateOfBirth": "1996-11-20",
+        "nationality": "Switzerland"
+      },
+      {
+        "id": 8887,
+        "name": "Krépin Diatta",
+        "position": "Midfield",
+        "dateOfBirth": "1999-02-25",
+        "nationality": "Senegal"
+      },
+      {
+        "id": 175701,
+        "name": "Maghnes Akliouche",
+        "position": "Midfield",
+        "dateOfBirth": "2002-02-25",
+        "nationality": "France"
+      },
+      {
+        "id": 204269,
+        "name": "Lamine Camara",
+        "position": "Midfield",
+        "dateOfBirth": "2004-01-01",
+        "nationality": "Senegal"
+      },
+      {
         "id": 272943,
         "name": "Aladji Bamba",
         "position": "Midfield",
@@ -4345,9 +4255,16 @@
         "nationality": "France"
       },
       {
+        "id": 131040,
+        "name": "Folarin Balogun",
+        "position": "Offence",
+        "dateOfBirth": "2001-07-03",
+        "nationality": "USA"
+      },
+      {
         "id": 166249,
         "name": "Simon Adingra",
-        "position": "Left Winger",
+        "position": "Offence",
         "dateOfBirth": "2002-01-01",
         "nationality": "Ivory Coast"
       },
@@ -4357,13 +4274,6 @@
         "position": "Right-Back",
         "dateOfBirth": "2001-06-21",
         "nationality": "Brazil"
-      },
-      {
-        "id": 131040,
-        "name": "Folarin Balogun",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2001-07-03",
-        "nationality": "USA"
       },
       {
         "id": 128040,
@@ -4394,25 +4304,11 @@
         "nationality": "Japan"
       },
       {
-        "id": 8887,
-        "name": "Krépin Diatta",
-        "position": "Right Winger",
-        "dateOfBirth": "1999-02-25",
-        "nationality": "Senegal"
-      },
-      {
         "id": 7328,
         "name": "Wout Faes",
         "position": "Centre-Back",
         "dateOfBirth": "1998-04-03",
         "nationality": "Belgium"
-      },
-      {
-        "id": 6687,
-        "name": "Denis Zakaria",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "1996-11-20",
-        "nationality": "Switzerland"
       },
       {
         "id": 6493,
@@ -4471,13 +4367,6 @@
         "nationality": "Belgium"
       },
       {
-        "id": 204269,
-        "name": "Lamine Camara",
-        "position": "Central Midfield",
-        "dateOfBirth": "2004-01-01",
-        "nationality": "Senegal"
-      },
-      {
         "id": 188481,
         "name": "Christian Mawissa",
         "position": "Centre-Back",
@@ -4497,13 +4386,6 @@
         "position": "Centre-Forward",
         "dateOfBirth": "2003-02-08",
         "nationality": "Denmark"
-      },
-      {
-        "id": 175701,
-        "name": "Maghnes Akliouche",
-        "position": "Right Winger",
-        "dateOfBirth": "2002-02-25",
-        "nationality": "France"
       }
     ],
     "staff": [],
@@ -4527,13 +4409,6 @@
     "clubColors": "Blue / White",
     "venue": "Stade de la Meinau",
     "runningCompetitions": [
-      {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
       {
         "id": 2154,
         "name": "UEFA Conference League",
@@ -4598,6 +4473,13 @@
         "nationality": "Ivory Coast"
       },
       {
+        "id": 170261,
+        "name": "Valentin Barco",
+        "position": "Defence",
+        "dateOfBirth": "2004-07-23",
+        "nationality": "Argentina"
+      },
+      {
         "id": 205551,
         "name": "Lucas Høgsberg",
         "position": "Defence",
@@ -4626,11 +4508,32 @@
         "nationality": "France"
       },
       {
+        "id": 168949,
+        "name": "Julio Enciso",
+        "position": "Midfield",
+        "dateOfBirth": "2004-01-23",
+        "nationality": "Paraguay"
+      },
+      {
+        "id": 182192,
+        "name": "Diego Moreira",
+        "position": "Midfield",
+        "dateOfBirth": "2004-08-06",
+        "nationality": "Belgium"
+      },
+      {
         "id": 210644,
         "name": "Maximillian Oyedele",
         "position": "Midfield",
         "dateOfBirth": "2004-11-07",
         "nationality": "Poland"
+      },
+      {
+        "id": 244929,
+        "name": "Samir El Mourabet",
+        "position": "Midfield",
+        "dateOfBirth": "2005-10-06",
+        "nationality": "Morocco"
       },
       {
         "id": 262705,
@@ -4710,32 +4613,11 @@
         "nationality": "Argentina"
       },
       {
-        "id": 182192,
-        "name": "Diego Moreira",
-        "position": "Left Winger",
-        "dateOfBirth": "2004-08-06",
-        "nationality": "Belgium"
-      },
-      {
         "id": 182091,
         "name": "Junior Mwanga",
         "position": "Defensive Midfield",
         "dateOfBirth": "2003-05-11",
         "nationality": "France"
-      },
-      {
-        "id": 170261,
-        "name": "Valentin Barco",
-        "position": "Left-Back",
-        "dateOfBirth": "2004-07-23",
-        "nationality": "Argentina"
-      },
-      {
-        "id": 168949,
-        "name": "Julio Enciso",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2004-01-23",
-        "nationality": "Paraguay"
       },
       {
         "id": 150599,
@@ -4782,16 +4664,9 @@
       {
         "id": 245336,
         "name": "Gessime Yassine",
-        "position": "Right Winger",
-        "dateOfBirth": null,
+        "position": "null",
+        "dateOfBirth": "2005-11-22",
         "nationality": "France"
-      },
-      {
-        "id": 244929,
-        "name": "Samir El Mourabet",
-        "position": "Central Midfield",
-        "dateOfBirth": "2005-10-06",
-        "nationality": "Morocco"
       },
       {
         "id": 244750,
@@ -4830,13 +4705,6 @@
     "venue": "Stade Sébastien Charléty",
     "runningCompetitions": [
       {
-        "id": 2015,
-        "name": "Ligue 1",
-        "code": "FL1",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
-      {
         "id": 2138,
         "name": "Coupe de France",
         "code": "CDF",
@@ -4845,15 +4713,15 @@
       }
     ],
     "coach": {
-      "id": 45117,
-      "firstName": "Antoine",
-      "lastName": "Kombouaré",
-      "name": "Antoine Kombouare",
-      "dateOfBirth": "1963-11-16",
-      "nationality": "France",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2026-02",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -4877,6 +4745,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2003-02-07",
         "nationality": "France"
+      },
+      {
+        "id": 116150,
+        "name": "Samir Chergui",
+        "position": "Defence",
+        "dateOfBirth": "1999-02-06",
+        "nationality": "Algeria"
       },
       {
         "id": 270699,
@@ -5059,13 +4934,6 @@
         "position": "Defensive Midfield",
         "dateOfBirth": "1996-10-18",
         "nationality": "France"
-      },
-      {
-        "id": 116150,
-        "name": "Samir Chergui",
-        "position": "Centre-Back",
-        "dateOfBirth": "1999-02-06",
-        "nationality": "Algeria"
       },
       {
         "id": 108987,

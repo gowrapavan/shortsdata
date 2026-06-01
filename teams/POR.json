@@ -16,25 +16,17 @@
     "founded": 1939,
     "clubColors": "Green / White",
     "venue": "Estádio do Rio Ave Futebol Clube",
-    "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 247050,
-      "firstName": "Sotiris",
-      "lastName": "Sylaidopoulos",
-      "name": "Sotiris Sylaidopoulos",
-      "dateOfBirth": "1979-02-08",
-      "nationality": "Greece",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-07",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -278,13 +270,6 @@
     "venue": "Estádio José Alvalade",
     "runningCompetitions": [
       {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      {
         "id": 2001,
         "name": "UEFA Champions League",
         "code": "CL",
@@ -334,11 +319,25 @@
         "nationality": "Portugal"
       },
       {
+        "id": 28770,
+        "name": "Maximiliano Araújo",
+        "position": "Defence",
+        "dateOfBirth": "2000-02-15",
+        "nationality": "Uruguay"
+      },
+      {
         "id": 137045,
         "name": "Georgios Vagiannidis",
         "position": "Defence",
         "dateOfBirth": "2001-09-12",
         "nationality": "Greece"
+      },
+      {
+        "id": 145357,
+        "name": "Gonçalo Inácio",
+        "position": "Defence",
+        "dateOfBirth": "2001-08-25",
+        "nationality": "Portugal"
       },
       {
         "id": 160926,
@@ -397,13 +396,6 @@
         "nationality": "Portugal"
       },
       {
-        "id": 28770,
-        "name": "Maximiliano Araújo",
-        "position": "Midfield",
-        "dateOfBirth": "2000-02-15",
-        "nationality": "Uruguay"
-      },
-      {
         "id": 144628,
         "name": "Giorgi Kochorashvili",
         "position": "Midfield",
@@ -430,6 +422,13 @@
         "position": "Offence",
         "dateOfBirth": "1997-12-02",
         "nationality": "Colombia"
+      },
+      {
+        "id": 37332,
+        "name": "Trincão",
+        "position": "Offence",
+        "dateOfBirth": "1999-12-29",
+        "nationality": "Portugal"
       },
       {
         "id": 186459,
@@ -488,13 +487,6 @@
         "nationality": "Spain"
       },
       {
-        "id": 145357,
-        "name": "Gonçalo Inácio",
-        "position": "Centre-Back",
-        "dateOfBirth": "2001-08-25",
-        "nationality": "Portugal"
-      },
-      {
         "id": 128825,
         "name": "Geny Catamo",
         "position": "Right Winger",
@@ -544,13 +536,6 @@
         "nationality": "Portugal"
       },
       {
-        "id": 37332,
-        "name": "Trincão",
-        "position": "Left Winger",
-        "dateOfBirth": "1999-12-29",
-        "nationality": "Portugal"
-      },
-      {
         "id": 227767,
         "name": "João Muniz",
         "position": "Centre-Back",
@@ -593,13 +578,6 @@
     "clubColors": "Blue / White",
     "venue": "Estádio Do Dragão",
     "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
       {
         "id": 2146,
         "name": "UEFA Europa League",
@@ -662,6 +640,13 @@
         "position": "Defence",
         "dateOfBirth": "2004-03-25",
         "nationality": "Portugal"
+      },
+      {
+        "id": 2126,
+        "name": "Seko Fofana",
+        "position": "Midfield",
+        "dateOfBirth": "1995-05-07",
+        "nationality": "France"
       },
       {
         "id": 39102,
@@ -839,13 +824,6 @@
         "nationality": "Brazil"
       },
       {
-        "id": 2126,
-        "name": "Seko Fofana",
-        "position": "Central Midfield",
-        "dateOfBirth": "1995-05-07",
-        "nationality": "France"
-      },
-      {
         "id": 2018,
         "name": "Yann Karamoh",
         "position": "Left Winger",
@@ -894,25 +872,17 @@
     "founded": 1939,
     "clubColors": "Yellow / Blue",
     "venue": "Estádio António Coimbra da Mota",
-    "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 261164,
-      "firstName": "Ian",
-      "lastName": "Cathro",
-      "name": "Ian Cathro",
-      "dateOfBirth": "1986-07-11",
-      "nationality": "Scotland",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-07",
-        "until": "2028-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -1133,25 +1103,17 @@
     "founded": 1938,
     "clubColors": "Green / White",
     "venue": "P.D. Comendador Joaquim de Almeida Freitas",
-    "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 243663,
-      "firstName": "Vasco",
-      "lastName": "Botelho Da Costa",
-      "name": "Vasco Botelho Da Costa",
-      "dateOfBirth": "1989-03-02",
-      "nationality": "Portugal",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-07",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -1358,25 +1320,17 @@
     "founded": 1952,
     "clubColors": "Yellow / Blue",
     "venue": "Estádio Municipal de Arouca",
-    "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 178728,
-      "firstName": "",
-      "lastName": "Vasco Seabra",
-      "name": "Vasco Seabra",
-      "dateOfBirth": "1983-09-15",
-      "nationality": "Portugal",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-10",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -1604,25 +1558,17 @@
     "founded": 1933,
     "clubColors": "Green / Yellow",
     "venue": "Estádio João Cardoso",
-    "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 256212,
-      "firstName": "",
-      "lastName": "Gonçalo Feio",
-      "name": "Gonçalo Feio",
-      "dateOfBirth": "1990-01-17",
-      "nationality": "Portugal",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2026-03",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -1845,13 +1791,6 @@
     "venue": "Estádio do Sport Lisboa e Benfica",
     "runningCompetitions": [
       {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
-      {
         "id": 2001,
         "name": "UEFA Champions League",
         "code": "CL",
@@ -1899,6 +1838,27 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2006-08-30",
         "nationality": "Lithuania"
+      },
+      {
+        "id": 3205,
+        "name": "Nicolás Otamendi",
+        "position": "Defence",
+        "dateOfBirth": "1988-02-12",
+        "nationality": "Argentina"
+      },
+      {
+        "id": 81816,
+        "name": "Amar Dedić",
+        "position": "Defence",
+        "dateOfBirth": "2002-08-18",
+        "nationality": "Austria"
+      },
+      {
+        "id": 177842,
+        "name": "Tomas Araujo",
+        "position": "Defence",
+        "dateOfBirth": "2002-05-16",
+        "nationality": "Portugal"
       },
       {
         "id": 209178,
@@ -1950,18 +1910,25 @@
         "nationality": "Portugal"
       },
       {
+        "id": 8128,
+        "name": "Dodi Lukebakio",
+        "position": "Midfield",
+        "dateOfBirth": "1997-09-24",
+        "nationality": "Belgium"
+      },
+      {
+        "id": 38088,
+        "name": "Fredrik Aursnes",
+        "position": "Midfield",
+        "dateOfBirth": "1995-12-10",
+        "nationality": "Norway"
+      },
+      {
         "id": 151558,
         "name": "Heorhii Sudakov",
         "position": "Midfield",
         "dateOfBirth": "2002-09-01",
         "nationality": "Ukraine"
-      },
-      {
-        "id": 157796,
-        "name": "Andreas Schjelderup",
-        "position": "Midfield",
-        "dateOfBirth": "2004-06-01",
-        "nationality": "Norway"
       },
       {
         "id": 170657,
@@ -2020,6 +1987,13 @@
         "nationality": "Greece"
       },
       {
+        "id": 157796,
+        "name": "Andreas Schjelderup",
+        "position": "Offence",
+        "dateOfBirth": "2004-06-01",
+        "nationality": "Norway"
+      },
+      {
         "id": 251296,
         "name": "João Rêgo",
         "position": "Offence",
@@ -2055,13 +2029,6 @@
         "nationality": "Argentina"
       },
       {
-        "id": 177842,
-        "name": "Tomas Araujo",
-        "position": "Centre-Back",
-        "dateOfBirth": "2002-05-16",
-        "nationality": "Portugal"
-      },
-      {
         "id": 177322,
         "name": "Henrique Araujo",
         "position": "Centre-Forward",
@@ -2090,13 +2057,6 @@
         "nationality": "Luxembourg"
       },
       {
-        "id": 81816,
-        "name": "Amar Dedić",
-        "position": "Right-Back",
-        "dateOfBirth": "2002-08-18",
-        "nationality": "Austria"
-      },
-      {
         "id": 70583,
         "name": "Alexander Bah",
         "position": "Right-Back",
@@ -2104,32 +2064,11 @@
         "nationality": "Denmark"
       },
       {
-        "id": 38088,
-        "name": "Fredrik Aursnes",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "1995-12-10",
-        "nationality": "Norway"
-      },
-      {
         "id": 9553,
         "name": "Bruma",
         "position": "Left Winger",
         "dateOfBirth": "1994-10-24",
         "nationality": "Guinea-Bissau"
-      },
-      {
-        "id": 8128,
-        "name": "Dodi Lukebakio",
-        "position": "Right Winger",
-        "dateOfBirth": "1997-09-24",
-        "nationality": "Belgium"
-      },
-      {
-        "id": 3205,
-        "name": "Nicolás Otamendi",
-        "position": "Centre-Back",
-        "dateOfBirth": "1988-02-12",
-        "nationality": "Argentina"
       },
       {
         "id": 194008,
@@ -2166,25 +2105,17 @@
     "founded": 1910,
     "clubColors": "Black / White",
     "venue": "Estádio da Madeira",
-    "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 136489,
-      "firstName": "",
-      "lastName": "Tiago Margarido",
-      "name": "Tiago Margarido",
-      "dateOfBirth": "1989-01-02",
-      "nationality": "Portugal",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2023-07",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -2200,6 +2131,13 @@
         "name": "Kaique",
         "position": "Goalkeeper",
         "dateOfBirth": "2003-04-16",
+        "nationality": "Brazil"
+      },
+      {
+        "id": 229282,
+        "name": "Cesar Augusto",
+        "position": "Goalkeeper",
+        "dateOfBirth": "2003-08-23",
         "nationality": "Brazil"
       },
       {
@@ -2412,25 +2350,17 @@
     "founded": 1921,
     "clubColors": "Red / White",
     "venue": "Cidade do Futebol",
-    "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 45215,
-      "firstName": "",
-      "lastName": "Petit",
-      "name": "Petit",
-      "dateOfBirth": "1976-09-25",
-      "nationality": "Portugal",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2026-02",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -2728,25 +2658,17 @@
     "founded": 1931,
     "clubColors": "Blue / White",
     "venue": "Estádio Municipal 22 de Junho",
-    "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 180388,
-      "firstName": "",
-      "lastName": "Hugo Oliveira",
-      "name": "Hugo Oliveira",
-      "dateOfBirth": "1979-06-22",
-      "nationality": "Portugal",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-12",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -2988,25 +2910,17 @@
     "founded": 1924,
     "clubColors": "Red / Blue",
     "venue": "Estádio Cidade de Barcelos",
-    "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 114276,
-      "firstName": "",
-      "lastName": "César Peixoto",
-      "name": "César Peixoto",
-      "dateOfBirth": "1980-05-12",
-      "nationality": "Portugal",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-03",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -3255,25 +3169,17 @@
     "founded": 1922,
     "clubColors": "White / Black",
     "venue": "Estádio Dom Afonso Henriques",
-    "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 293679,
-      "firstName": "Gil",
-      "lastName": "Lameiras",
-      "name": "Gil Lameiras",
-      "dateOfBirth": "1994-03-07",
-      "nationality": "Portugal",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2026-03",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -3366,6 +3272,13 @@
         "name": "Samu",
         "position": "Midfield",
         "dateOfBirth": "1996-04-21",
+        "nationality": "Portugal"
+      },
+      {
+        "id": 145346,
+        "name": "Telmo Arcanjo",
+        "position": "Midfield",
+        "dateOfBirth": "2001-06-21",
         "nationality": "Portugal"
       },
       {
@@ -3481,13 +3394,6 @@
         "nationality": "Portugal"
       },
       {
-        "id": 145346,
-        "name": "Telmo Arcanjo",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2001-06-21",
-        "nationality": "Portugal"
-      },
-      {
         "id": 28243,
         "name": "Rodrigo Abascal",
         "position": "Centre-Back",
@@ -3523,13 +3429,6 @@
     "clubColors": "Red / White",
     "venue": "Estádio Municipal de Braga",
     "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      },
       {
         "id": 2146,
         "name": "UEFA Europa League",
@@ -3650,6 +3549,20 @@
         "nationality": "Portugal"
       },
       {
+        "id": 404,
+        "name": "Florian Grillitsch",
+        "position": "Midfield",
+        "dateOfBirth": "1995-08-07",
+        "nationality": "Austria"
+      },
+      {
+        "id": 121007,
+        "name": "Rodrigo Zalazar",
+        "position": "Midfield",
+        "dateOfBirth": "1999-08-12",
+        "nationality": "Uruguay"
+      },
+      {
         "id": 172912,
         "name": "Demir Tiknaz",
         "position": "Midfield",
@@ -3755,13 +3668,6 @@
         "nationality": "Spain"
       },
       {
-        "id": 121007,
-        "name": "Rodrigo Zalazar",
-        "position": "Central Midfield",
-        "dateOfBirth": "1999-08-12",
-        "nationality": "Uruguay"
-      },
-      {
         "id": 45401,
         "name": "Ricardo Horta",
         "position": "Left Winger",
@@ -3795,13 +3701,6 @@
         "position": "Centre-Back",
         "dateOfBirth": "1999-07-10",
         "nationality": "France"
-      },
-      {
-        "id": 404,
-        "name": "Florian Grillitsch",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "1995-08-07",
-        "nationality": "Austria"
       },
       {
         "id": 210468,
@@ -3838,25 +3737,17 @@
     "founded": 1920,
     "clubColors": "Black / White",
     "venue": "Estádio Pina Manique",
-    "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 136315,
-      "firstName": "",
-      "lastName": "Álvaro Pacheco",
-      "name": "Álvaro Pacheco",
-      "dateOfBirth": "1971-06-25",
-      "nationality": "Portugal",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2026-01",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -3966,6 +3857,13 @@
         "nationality": "Spain"
       },
       {
+        "id": 175919,
+        "name": "Dailon Rocha Livramento",
+        "position": "Offence",
+        "dateOfBirth": "2001-05-04",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 218361,
         "name": "Korede Osundina",
         "position": "Offence",
@@ -3992,13 +3890,6 @@
         "position": "Left Winger",
         "dateOfBirth": "2002-02-13",
         "nationality": "Portugal"
-      },
-      {
-        "id": 175919,
-        "name": "Dailon Rocha Livramento",
-        "position": "Centre-Forward",
-        "dateOfBirth": "2001-05-04",
-        "nationality": "Netherlands"
       },
       {
         "id": 171553,
@@ -4084,25 +3975,17 @@
     "founded": 1939,
     "clubColors": null,
     "venue": "Campo Futebol Clube Alverca",
-    "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 144374,
-      "firstName": "",
-      "lastName": "Custódio",
-      "name": "Custódio",
-      "dateOfBirth": "1983-05-24",
-      "nationality": "Portugal",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-07",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -4351,25 +4234,17 @@
     "founded": null,
     "clubColors": null,
     "venue": "Estádio Nacional",
-    "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 209555,
-      "firstName": "Cristiano",
-      "lastName": "Bacci",
-      "name": "Christiano Bacci",
-      "dateOfBirth": "1975-07-06",
-      "nationality": "Italy",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2026-04",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -4667,25 +4542,17 @@
     "founded": null,
     "clubColors": null,
     "venue": "Estádio do CD Aves",
-    "runningCompetitions": [
-      {
-        "id": 2017,
-        "name": "Primeira Liga",
-        "code": "PPL",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/PPL.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 37705,
-      "firstName": "",
-      "lastName": "João Henriques",
-      "name": "João Henriques",
-      "dateOfBirth": "1972-10-31",
-      "nationality": "Portugal",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-12",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [

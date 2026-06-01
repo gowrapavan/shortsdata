@@ -16,25 +16,17 @@
     "founded": 1965,
     "clubColors": "Red / White",
     "venue": "De Grolsch Veste",
-    "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 9557,
-      "firstName": "John",
-      "lastName": "van den Brom",
-      "name": "John van den Brom",
-      "dateOfBirth": "1966-10-04",
-      "nationality": "Netherlands",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-09",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -123,6 +115,13 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 124715,
+        "name": "Ramiz Zerrouki",
+        "position": "Midfield",
+        "dateOfBirth": "1998-05-26",
+        "nationality": "Algeria"
+      },
+      {
         "id": 286471,
         "name": "Benjamin Nagel",
         "position": "Midfield",
@@ -191,13 +190,6 @@
         "position": "Defensive Midfield",
         "dateOfBirth": "2001-06-27",
         "nationality": "Norway"
-      },
-      {
-        "id": 124715,
-        "name": "Ramiz Zerrouki",
-        "position": "Defensive Midfield",
-        "dateOfBirth": "1998-05-26",
-        "nationality": "Algeria"
       },
       {
         "id": 81022,
@@ -269,25 +261,17 @@
     "founded": 1902,
     "clubColors": "Red / Black",
     "venue": "Van Donge & De Roo Stadion",
-    "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 203062,
-      "firstName": "Ruben",
-      "lastName": "den Uil",
-      "name": "Ruben den Uil",
-      "dateOfBirth": "1991-02-03",
-      "nationality": "Netherlands",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-07",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -501,25 +485,17 @@
     "founded": 1903,
     "clubColors": "Black / White",
     "venue": "Erve Asito",
-    "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 9583,
-      "firstName": "Ernest",
-      "lastName": "Faber",
-      "name": "Ernest Faber",
-      "dateOfBirth": "1971-08-27",
-      "nationality": "Netherlands",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-12",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -578,6 +554,13 @@
         "position": "Defence",
         "dateOfBirth": "2007-01-23",
         "nationality": "Netherlands"
+      },
+      {
+        "id": 7528,
+        "name": "Ajdin Hrustic",
+        "position": "Midfield",
+        "dateOfBirth": "1996-07-05",
+        "nationality": "Australia"
       },
       {
         "id": 177605,
@@ -692,13 +675,6 @@
         "nationality": "Netherlands"
       },
       {
-        "id": 7528,
-        "name": "Ajdin Hrustic",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "1996-07-05",
-        "nationality": "Australia"
-      },
-      {
         "id": 7235,
         "name": "Mario Engels",
         "position": "Right Winger",
@@ -789,25 +765,17 @@
     "founded": 1920,
     "clubColors": "Blue / White",
     "venue": "Abe Lenstra Stadion",
-    "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 189385,
-      "firstName": "Robin",
-      "lastName": "Veldman",
-      "name": "Robin Veldman",
-      "dateOfBirth": "1985-12-24",
-      "nationality": "Netherlands",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-03",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -1065,13 +1033,6 @@
     "venue": "Philips Stadion",
     "runningCompetitions": [
       {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
-      {
         "id": 2001,
         "name": "UEFA Champions League",
         "code": "CL",
@@ -1128,6 +1089,20 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 7443,
+        "name": "Armando Obispo",
+        "position": "Defence",
+        "dateOfBirth": "1999-03-05",
+        "nationality": "Curaçao"
+      },
+      {
+        "id": 137693,
+        "name": "Anass Salah-Eddine",
+        "position": "Defence",
+        "dateOfBirth": "2002-01-18",
+        "nationality": "Morocco"
+      },
+      {
         "id": 278178,
         "name": "Fabian Merién",
         "position": "Defence",
@@ -1135,11 +1110,25 @@
         "nationality": "Netherlands"
       },
       {
-        "id": 186380,
-        "name": "Esmir Bajraktarevic",
+        "id": 7688,
+        "name": "Guus Til",
         "position": "Midfield",
-        "dateOfBirth": "2005-03-10",
-        "nationality": "Bosnia-Herzegovina"
+        "dateOfBirth": "1997-12-22",
+        "nationality": "Netherlands"
+      },
+      {
+        "id": 130173,
+        "name": "Ismael Saibari",
+        "position": "Midfield",
+        "dateOfBirth": "2001-01-28",
+        "nationality": "Morocco"
+      },
+      {
+        "id": 176932,
+        "name": "Paul Wanner",
+        "position": "Midfield",
+        "dateOfBirth": "2005-12-23",
+        "nationality": "Austria"
       },
       {
         "id": 215421,
@@ -1184,25 +1173,25 @@
         "nationality": "Belgium"
       },
       {
-        "id": 137693,
-        "name": "Anass Salah-Eddine",
-        "position": "Left-Back",
-        "dateOfBirth": "2002-01-18",
-        "nationality": "Morocco"
-      },
-      {
-        "id": 130173,
-        "name": "Ismael Saibari",
-        "position": "Central Midfield",
-        "dateOfBirth": "2001-01-28",
-        "nationality": "Morocco"
+        "id": 2004,
+        "name": "Ivan Perišić",
+        "position": "Offence",
+        "dateOfBirth": "1989-02-02",
+        "nationality": "Croatia"
       },
       {
         "id": 119731,
         "name": "Ricardo Pepi",
-        "position": "Centre-Forward",
+        "position": "Offence",
         "dateOfBirth": "2003-01-09",
         "nationality": "USA"
+      },
+      {
+        "id": 186380,
+        "name": "Esmir Bajraktarevic",
+        "position": "Offence",
+        "dateOfBirth": "2005-03-10",
+        "nationality": "Bosnia-Herzegovina"
       },
       {
         "id": 97534,
@@ -1247,32 +1236,11 @@
         "nationality": "Netherlands"
       },
       {
-        "id": 7688,
-        "name": "Guus Til",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "1997-12-22",
-        "nationality": "Netherlands"
-      },
-      {
         "id": 7451,
         "name": "Mauro Júnior",
         "position": "Left-Back",
         "dateOfBirth": "1999-05-06",
         "nationality": "Brazil"
-      },
-      {
-        "id": 7443,
-        "name": "Armando Obispo",
-        "position": "Centre-Back",
-        "dateOfBirth": "1999-03-05",
-        "nationality": "Curaçao"
-      },
-      {
-        "id": 2004,
-        "name": "Ivan Perišić",
-        "position": "Left Winger",
-        "dateOfBirth": "1989-02-02",
-        "nationality": "Croatia"
       },
       {
         "id": 221412,
@@ -1294,13 +1262,6 @@
         "position": "Left Winger",
         "dateOfBirth": "2004-08-03",
         "nationality": "Netherlands"
-      },
-      {
-        "id": 176932,
-        "name": "Paul Wanner",
-        "position": "Attacking Midfield",
-        "dateOfBirth": "2005-12-23",
-        "nationality": "Austria"
       },
       {
         "id": 150536,
@@ -1338,13 +1299,6 @@
     "clubColors": "Red / White / Black",
     "venue": "Stadion Feijenoord",
     "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
       {
         "id": 2146,
         "name": "UEFA Europa League",
@@ -1465,6 +1419,20 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 119460,
+        "name": "Ayase Ueda",
+        "position": "Offence",
+        "dateOfBirth": "1998-09-10",
+        "nationality": "Japan"
+      },
+      {
+        "id": 244466,
+        "name": "Anis Moussa",
+        "position": "Offence",
+        "dateOfBirth": "2002-02-11",
+        "nationality": "Algeria"
+      },
+      {
         "id": 265472,
         "name": "Gaoussou Diarra",
         "position": "Offence",
@@ -1533,13 +1501,6 @@
         "position": "Right Winger",
         "dateOfBirth": "2001-03-29",
         "nationality": "Portugal"
-      },
-      {
-        "id": 119460,
-        "name": "Ayase Ueda",
-        "position": "Centre-Forward",
-        "dateOfBirth": "1998-09-10",
-        "nationality": "Japan"
       },
       {
         "id": 99952,
@@ -1612,13 +1573,6 @@
         "nationality": "England"
       },
       {
-        "id": 244466,
-        "name": "Anis Moussa",
-        "position": "Right Winger",
-        "dateOfBirth": "2002-02-11",
-        "nationality": "Algeria"
-      },
-      {
         "id": 214587,
         "name": "Leo Sauer",
         "position": "Left Winger",
@@ -1675,13 +1629,6 @@
     "clubColors": "Red / White",
     "venue": "Stadion Galgenwaard",
     "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
       {
         "id": 2146,
         "name": "UEFA Europa League",
@@ -1779,6 +1726,13 @@
         "position": "Midfield",
         "dateOfBirth": "1998-01-28",
         "nationality": "Netherlands"
+      },
+      {
+        "id": 176642,
+        "name": "Zidane Iqbal",
+        "position": "Midfield",
+        "dateOfBirth": "2003-04-27",
+        "nationality": "Iraq"
       },
       {
         "id": 178013,
@@ -1940,13 +1894,6 @@
         "position": "Left Winger",
         "dateOfBirth": "2005-07-15",
         "nationality": "England"
-      },
-      {
-        "id": 176642,
-        "name": "Zidane Iqbal",
-        "position": "Central Midfield",
-        "dateOfBirth": "2003-04-27",
-        "nationality": "Iraq"
       }
     ],
     "staff": [],
@@ -1969,25 +1916,17 @@
     "founded": 1921,
     "clubColors": "Green / White",
     "venue": "Hitachi Capital Mobility Stadion",
-    "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 9850,
-      "firstName": "Dick",
-      "lastName": "Lukkien",
-      "name": "Dick Lukkien",
-      "dateOfBirth": "1972-03-28",
-      "nationality": "Netherlands",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2023-07",
-        "until": "2028-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -2224,13 +2163,6 @@
     "venue": "Johan Cruyff ArenA",
     "runningCompetitions": [
       {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
-      {
         "id": 2001,
         "name": "UEFA Champions League",
         "code": "CL",
@@ -2292,6 +2224,27 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2007-01-12",
         "nationality": "Netherlands"
+      },
+      {
+        "id": 9034,
+        "name": "Takehiro Tomiyasu",
+        "position": "Defence",
+        "dateOfBirth": "1998-11-05",
+        "nationality": "Japan"
+      },
+      {
+        "id": 48902,
+        "name": "Ko Itakura",
+        "position": "Defence",
+        "dateOfBirth": "1997-01-27",
+        "nationality": "Japan"
+      },
+      {
+        "id": 134835,
+        "name": "Josip Šutalo",
+        "position": "Defence",
+        "dateOfBirth": "2000-02-28",
+        "nationality": "Croatia"
       },
       {
         "id": 249025,
@@ -2406,6 +2359,13 @@
         "nationality": "Denmark"
       },
       {
+        "id": 7697,
+        "name": "Wout Weghorst",
+        "position": "Offence",
+        "dateOfBirth": "1992-08-07",
+        "nationality": "Netherlands"
+      },
+      {
         "id": 250608,
         "name": "Maher Carrizo",
         "position": "Offence",
@@ -2476,32 +2436,11 @@
         "nationality": "Netherlands"
       },
       {
-        "id": 134835,
-        "name": "Josip Šutalo",
-        "position": "Centre-Back",
-        "dateOfBirth": "2000-02-28",
-        "nationality": "Croatia"
-      },
-      {
         "id": 130053,
         "name": "Oliver Edvardsen",
         "position": "Left Winger",
         "dateOfBirth": "1999-03-19",
         "nationality": "Norway"
-      },
-      {
-        "id": 48902,
-        "name": "Ko Itakura",
-        "position": "Centre-Back",
-        "dateOfBirth": "1997-01-27",
-        "nationality": "Japan"
-      },
-      {
-        "id": 9034,
-        "name": "Takehiro Tomiyasu",
-        "position": "Right-Back",
-        "dateOfBirth": "1998-11-05",
-        "nationality": "Japan"
       },
       {
         "id": 7889,
@@ -2515,13 +2454,6 @@
         "name": "Davy Klaassen",
         "position": "Central Midfield",
         "dateOfBirth": "1993-02-21",
-        "nationality": "Netherlands"
-      },
-      {
-        "id": 7697,
-        "name": "Wout Weghorst",
-        "position": "Centre-Forward",
-        "dateOfBirth": "1992-08-07",
         "nationality": "Netherlands"
       },
       {
@@ -2559,25 +2491,17 @@
     "founded": 1912,
     "clubColors": "Yellow / White / Black",
     "venue": "Rat Verlegh Stadion",
-    "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 186524,
-      "firstName": "Carl",
-      "lastName": "Hoefkens",
-      "name": "Carl Hoefkens",
-      "dateOfBirth": "1978-10-06",
-      "nationality": "Belgium",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-07",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -2806,13 +2730,6 @@
     "clubColors": "Red / White",
     "venue": "AFAS Stadion",
     "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
       {
         "id": 2154,
         "name": "UEFA Conference League",
@@ -3114,25 +3031,17 @@
     "founded": 1910,
     "clubColors": "Blue / White",
     "venue": "MAC³PARK Stadion",
-    "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 179487,
-      "firstName": "Henry",
-      "lastName": "van der Vegt",
-      "name": "Henry van der Vegt",
-      "dateOfBirth": "1972-02-18",
-      "nationality": "Netherlands",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-07",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -3170,6 +3079,13 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2006-06-14",
         "nationality": "Netherlands"
+      },
+      {
+        "id": 7744,
+        "name": "Sheral Floranus",
+        "position": "Defence",
+        "dateOfBirth": "1998-08-23",
+        "nationality": "Curaçao"
       },
       {
         "id": 129930,
@@ -3219,6 +3135,13 @@
         "position": "Defence",
         "dateOfBirth": null,
         "nationality": "Netherlands"
+      },
+      {
+        "id": 7723,
+        "name": "Ryan Thomas",
+        "position": "Midfield",
+        "dateOfBirth": "1994-12-20",
+        "nationality": "New Zealand"
       },
       {
         "id": 7729,
@@ -3361,20 +3284,6 @@
         "nationality": "Netherlands"
       },
       {
-        "id": 7744,
-        "name": "Sheral Floranus",
-        "position": "Right-Back",
-        "dateOfBirth": "1998-08-23",
-        "nationality": "Curaçao"
-      },
-      {
-        "id": 7723,
-        "name": "Ryan Thomas",
-        "position": "Central Midfield",
-        "dateOfBirth": "1994-12-20",
-        "nationality": "New Zealand"
-      },
-      {
         "id": 7607,
         "name": "Thomas Buitink",
         "position": "Centre-Forward",
@@ -3417,13 +3326,6 @@
     "clubColors": "Red / Yellow",
     "venue": "De Adelaarshorst",
     "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
       {
         "id": 2146,
         "name": "UEFA Europa League",
@@ -3676,25 +3578,17 @@
     "founded": 1963,
     "clubColors": "White / Blue",
     "venue": "Rabobank IJmond Stadion",
-    "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 133822,
-      "firstName": "Anthony",
-      "lastName": "Correia",
-      "name": "Anthony Correia",
-      "dateOfBirth": "1982-05-02",
-      "nationality": "Netherlands",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-07",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -3929,25 +3823,17 @@
     "founded": 1900,
     "clubColors": "Red / Green / Black",
     "venue": "Goffertstadion",
-    "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 176232,
-      "firstName": "Dick",
-      "lastName": "Schreuder",
-      "name": "Dick Schreuder",
-      "dateOfBirth": "1971-08-02",
-      "nationality": "Netherlands",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2025-07",
-        "until": "2028-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -4012,7 +3898,7 @@
         "name": "Deveron Fonville",
         "position": "Defence",
         "dateOfBirth": "2003-05-16",
-        "nationality": "Netherlands"
+        "nationality": "Curaçao"
       },
       {
         "id": 285237,
@@ -4071,6 +3957,13 @@
         "nationality": "Suriname"
       },
       {
+        "id": 48659,
+        "name": "Koki Ogawa",
+        "position": "Offence",
+        "dateOfBirth": "1997-08-08",
+        "nationality": "Japan"
+      },
+      {
         "id": 67903,
         "name": "Danilo",
         "position": "Offence",
@@ -4118,13 +4011,6 @@
         "position": "Defensive Midfield",
         "dateOfBirth": "2002-02-24",
         "nationality": "Netherlands"
-      },
-      {
-        "id": 48659,
-        "name": "Koki Ogawa",
-        "position": "Centre-Forward",
-        "dateOfBirth": "1997-08-08",
-        "nationality": "Japan"
       },
       {
         "id": 7726,
@@ -4203,25 +4089,17 @@
     "founded": 1920,
     "clubColors": "Orange / Black",
     "venue": "Kras Stadion",
-    "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 55176,
-      "firstName": "Rick",
-      "lastName": "Kruys",
-      "name": "Rick Kruys",
-      "dateOfBirth": "1985-05-09",
-      "nationality": "Netherlands",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-07",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -4259,13 +4137,6 @@
         "position": "Goalkeeper",
         "dateOfBirth": "2005-03-12",
         "nationality": "Netherlands"
-      },
-      {
-        "id": 7518,
-        "name": "Juninho Bacuna",
-        "position": "Defence",
-        "dateOfBirth": "1997-08-07",
-        "nationality": "Curaçao"
       },
       {
         "id": 9602,
@@ -4324,6 +4195,13 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 7518,
+        "name": "Juninho Bacuna",
+        "position": "Midfield",
+        "dateOfBirth": "1997-08-07",
+        "nationality": "Curaçao"
+      },
+      {
         "id": 10138,
         "name": "Özan Kökçü",
         "position": "Midfield",
@@ -4336,13 +4214,6 @@
         "position": "Midfield",
         "dateOfBirth": "2002-07-08",
         "nationality": "Suriname"
-      },
-      {
-        "id": 190770,
-        "name": "Brandley Kuwas",
-        "position": "Midfield",
-        "dateOfBirth": "1992-09-19",
-        "nationality": "Curaçao"
       },
       {
         "id": 215429,
@@ -4415,6 +4286,13 @@
         "nationality": "Netherlands"
       },
       {
+        "id": 190770,
+        "name": "Brandley Kuwas",
+        "position": "Offence",
+        "dateOfBirth": "1992-09-19",
+        "nationality": "Curaçao"
+      },
+      {
         "id": 214142,
         "name": "Joël Ideho",
         "position": "Offence",
@@ -4484,25 +4362,17 @@
     "founded": 1968,
     "clubColors": "Yellow / Green",
     "venue": "Fortuna Sittard Stadion",
-    "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 55440,
-      "firstName": "Danny",
-      "lastName": "Buijs",
-      "name": "Danny Buijs",
-      "dateOfBirth": "1982-06-21",
-      "nationality": "Netherlands",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2023-07",
-        "until": "2027-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -4779,25 +4649,17 @@
     "founded": 1888,
     "clubColors": "Red / White / Black",
     "venue": "Sparta-Stadion Het Kasteel",
-    "runningCompetitions": [
-      {
-        "id": 2003,
-        "name": "Eredivisie",
-        "code": "DED",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/ED.png"
-      }
-    ],
+    "runningCompetitions": [],
     "coach": {
-      "id": 9574,
-      "firstName": "Maurice",
-      "lastName": "Steijn",
-      "name": "Maurice Steijn",
-      "dateOfBirth": "1973-11-20",
-      "nationality": "Netherlands",
+      "id": null,
+      "firstName": null,
+      "lastName": null,
+      "name": null,
+      "dateOfBirth": null,
+      "nationality": null,
       "contract": {
-        "start": "2024-11",
-        "until": "2026-06"
+        "start": null,
+        "until": null
       }
     },
     "squad": [
@@ -4835,6 +4697,13 @@
         "position": "Defence",
         "dateOfBirth": "1990-08-29",
         "nationality": "Netherlands"
+      },
+      {
+        "id": 137697,
+        "name": "Shurandy Sambo",
+        "position": "Defence",
+        "dateOfBirth": "2001-08-19",
+        "nationality": "Curaçao"
       },
       {
         "id": 220689,
@@ -4940,13 +4809,6 @@
         "position": "Central Midfield",
         "dateOfBirth": "2002-04-16",
         "nationality": "Netherlands"
-      },
-      {
-        "id": 137697,
-        "name": "Shurandy Sambo",
-        "position": "Right-Back",
-        "dateOfBirth": "2001-08-19",
-        "nationality": "Curaçao"
       },
       {
         "id": 38124,
