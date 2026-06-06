@@ -65,15 +65,31 @@ def load_team_data():
     global TEAM_DATA
     if TEAM_DATA:
         return TEAM_DATA
+        
     for name, url in TEAM_SOURCES.items():
         try:
             resp = requests.get(url, timeout=10)
             if resp.status_code == 200:
-                TEAM_DATA.extend(resp.json())
+                data = resp.json()
+                
+                # 1. Handle lists
+                if isinstance(data, list):
+                    # Check if it's a list containing a competition object with teams
+                    if len(data) > 0 and isinstance(data[0], dict) and "teams" in data[0]:
+                        for item in data:
+                            TEAM_DATA.extend(item.get("teams", []))
+                    else:
+                        # It's a flat list of team objects (like ESP.json)
+                        TEAM_DATA.extend(data)
+                        
+                # 2. Handle a root dictionary with a "teams" array (like WC.json)
+                elif isinstance(data, dict) and "teams" in data:
+                    TEAM_DATA.extend(data["teams"])
+                    
         except Exception as e:
             print(f"⚠️ Failed loading {name}: {e}")
+            
     return TEAM_DATA
-
 def find_team_crest(team_name):
     """Find crest URL for given team name safely."""
     # 1. Safety check for empty or None team names
