@@ -75,14 +75,29 @@ def load_team_data():
     return TEAM_DATA
 
 def find_team_crest(team_name):
-    """Find crest URL for given team name."""
+    """Find crest URL for given team name safely."""
+    if not team_name:
+        return random_logo()
+        
     team_name_low = team_name.lower()
+    
+    # First pass: Check for exact matches in full name or short name
     for team in TEAM_DATA:
-        if team_name_low in team["name"].lower() or team_name_low in team.get("shortName", "").lower():
+        team_full = team.get("name", "").lower()
+        team_short = team.get("shortName", "").lower()
+        
+        if team_name_low in team_full or team_name_low in team_short:
             return team.get("crest")
-    for team in TEAM_DATA:
-        if team_name_low.split()[0] in team["name"].lower():
-            return team.get("crest")
+            
+    # Second pass: Check if the first word of the team matches
+    parts = team_name_low.split()
+    if parts:
+        first_word = parts[0]
+        for team in TEAM_DATA:
+            team_full = team.get("name", "").lower()
+            if first_word in team_full and first_word != "":
+                return team.get("crest")
+                
     return random_logo()
 
 
