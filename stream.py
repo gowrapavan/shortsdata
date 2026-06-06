@@ -76,20 +76,22 @@ def load_team_data():
 
 def find_team_crest(team_name):
     """Find crest URL for given team name safely."""
+    # 1. Safety check for empty or None team names
     if not team_name:
         return random_logo()
         
     team_name_low = team_name.lower()
     
-    # First pass: Check for exact matches in full name or short name
+    # 2. First pass: Check for exact matches in full name or short name
     for team in TEAM_DATA:
+        # Safely get the name, defaulting to "" if it doesn't exist
         team_full = team.get("name", "").lower()
         team_short = team.get("shortName", "").lower()
         
         if team_name_low in team_full or team_name_low in team_short:
             return team.get("crest")
             
-    # Second pass: Check if the first word of the team matches
+    # 3. Second pass: Check if the first word of the team matches
     parts = team_name_low.split()
     if parts:
         first_word = parts[0]
@@ -98,8 +100,8 @@ def find_team_crest(team_name):
             if first_word in team_full and first_word != "":
                 return team.get("crest")
                 
+    # 4. Fallback if no match is found
     return random_logo()
-
 
 # ---------- 1. SportsOnline ----------
 def fetch_sportzonline():
