@@ -68,11 +68,12 @@ def save_league_json(league_code, filename):
 
     print(f"✅ Saved {len(teams)} teams (with scorers) → {path}")
 
+# In team_info.py
 def main():
     print("⚽ Fetching teams and top scorers by league...\n")
     for code, filename in LEAGUES.items():
         save_league_json(code, filename)
-        time.sleep(6)  # Increased delay to 6s to stay under 10 requests/min
+        time.sleep(12)  # Increased to 12s to stay safer under the rate limit  # Increased delay to 6s to stay under 10 requests/min
     print("\n🎉 Done! All files saved in 'teams/' folder.")
 
 if __name__ == "__main__":
