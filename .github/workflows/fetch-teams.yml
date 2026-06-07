@@ -27,24 +27,26 @@ jobs:
           API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
         run: python team_info.py
 
-      - name: 🚀 Commit and push
+      - name: 🚀 Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # 1. Clean the workspace of any untracked or modified files
+          # 1. Clean up
           git clean -fd
           git checkout -- .
-          
-          # 2. Pull remote changes
           git pull origin main --rebase
           
-          # 3. Add the files
-          git add teams/
+          # 2. Add ALL files in the directory
+          git add .
           
-          # 4. Commit and push
+          # 3. Debugging: Show us what Git thinks is changed
+          echo "Status of the repo:"
+          git status
+          
+          # 4. Commit only if there are actual changes
           if git diff --staged --quiet; then
-            echo "No changes."
+            echo "No changes detected."
           else
             git commit -m "⚽ Update data $(date)"
             git push origin main
