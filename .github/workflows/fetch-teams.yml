@@ -1,43 +1,47 @@
 name: Update Football Teams JSON
 
 on:
-  workflow_dispatch:  # Allow manual run
-  schedule:
-    - cron: "0 6 * * 1"  # Every Monday at 6 AM UTC
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * 1"
 
 jobs:
-  update-teams:
-    runs-on: ubuntu-latest
+  update-teams:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🛎️ Checkout Repository
+        uses: actions/checkout@v4
 
-    steps:
-      - name: 🛎️ Checkout Repository
-        uses: actions/checkout@v4
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-      - name: 🐍 Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+      - name: 📦 Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: 📦 Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+      - name: ⚽ Run team_info.py
+        env:
+          API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+        run: |
+          echo "Starting team fetch..."
+          python team_info.py
 
-      - name: ⚽ Run team_info.py
-        env:
-          API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
-        run: |
-          echo "Starting team fetch..."
-          python team_info.py
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Force a pull of remote changes to avoid "rejected" error
-          git pull origin main --rebase
-          
-          git add teams/
-          git commit -m "⚽ Update team data ($(date))"
-          git push origin main
+      - name: 🚀 Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Stage the files
+          git add teams/
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes detected, skipping commit."
+          else
+            git pull origin main --rebase
+            git commit -m "⚽ Update team data ($(date))"
+            git push origin main
+          fi
