@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: 🛎️ Checkout Repository
+      - name: 🛎️ Checkout
         uses: actions/checkout@v4
 
       - name: 🐍 Setup Python
@@ -20,32 +20,32 @@ jobs:
           python-version: "3.11"
 
       - name: 📦 Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+        run: pip install requests
 
       - name: ⚽ Run team_info.py
         env:
           API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
-        run: |
-          echo "Starting team fetch..."
-          python team_info.py
+        run: python team_info.py
 
-      - name: 🚀 Commit and push changes
+      - name: 🚀 Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Pull latest changes from remote to ensure we are synced
+          # 1. Clean the workspace of any untracked or modified files
+          git clean -fd
+          git checkout -- .
+          
+          # 2. Pull remote changes
           git pull origin main --rebase
           
-          # Stage the files
+          # 3. Add the files
           git add teams/
           
-          # Check if there are changes
+          # 4. Commit and push
           if git diff --staged --quiet; then
-            echo "No changes detected."
+            echo "No changes."
           else
-            git commit -m "⚽ Update team data ($(date))"
+            git commit -m "⚽ Update data $(date)"
             git push origin main
           fi
