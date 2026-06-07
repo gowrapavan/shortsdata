@@ -1,9 +1,6 @@
 name: Update Shorts & Videos JSON
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: "0 */3 * * *"  # every 3 hours
   workflow_dispatch:        # allow manual run
@@ -11,7 +8,6 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -22,23 +18,18 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Scripts
         run: |
-          pip install -r requirements.txt
-
-      - name: Run Shorts script
-        run: python main.py
-
-      - name: Run Videos script
-        run: python video.py  # correct file name
+          python main.py
+          python video.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          git stash || echo "No changes to stash"
-          git pull --rebase
-          git stash pop || echo "No stash to apply"
-          git add shorts_data/shorts.json
-          git add videos_data/videos.json
-          git commit -m "Auto-update shorts.json and videos.json" || echo "No changes to commit"
+          git add shorts_data/shorts.json videos_data/videos.json
+          # Only commit if there are changes to avoid error
+          git commit -m "Auto-update: Refresh shorts and videos data" || echo "No changes to commit"
           git push
