@@ -8,6 +8,7 @@ from isodate import parse_duration
 # === CONFIG ===
 # Note: In a production environment, use environment variables for these keys.
 API_KEYS = [
+    'AIzaSyDy9ZlMxhP7OooTxLS30VwXEQBo7GdcVQg',    
     'AIzaSyAsr9lyCtfa3xizgzs3x4LqYsKHhZuOpzY',
     'AIzaSyAYSP0UZpL85f5l17tqFtxHlr_yClEk7cc',
     'AIzaSyCNqe4uWVgti_ZHBSI8_kKero_I6xf7qYk',
@@ -16,7 +17,6 @@ API_KEYS = [
     'AIzaSyDuXasL2olDdV5w8n65zQSq5FmxknofYww',
     'AIzaSyDGNNJg1aQQ2owQ6FIQcoBNmaQzYiMokPY',
     'AIzaSyAnyL18ylsE5Y6Q5h7VPm-xtjFKJOif3B8',
-    'AIzaSyDy9ZlMxhP7OooTxLS30VwXEQBo7GdcVQg',
 ]
 
 CHANNEL_IDS = [
