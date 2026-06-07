@@ -36,14 +36,13 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Force clean state
-          git reset --hard
+          # Pull latest changes from remote to ensure we are synced
           git pull origin main --rebase
           
           # Stage the files
           git add teams/
           
-          # This will now ALWAYS commit because last_updated changed
+          # Check if there are changes
           if git diff --staged --quiet; then
             echo "No changes detected."
           else
