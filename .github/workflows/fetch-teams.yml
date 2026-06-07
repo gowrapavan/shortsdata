@@ -30,14 +30,22 @@ jobs:
           echo "Starting team fetch..."
           python team_info.py
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Force a pull of remote changes to avoid "rejected" error
-          git pull origin main --rebase
-          
-          git add teams/
-          git commit -m "⚽ Update team data ($(date))"
-          git push origin main
+      - name: 🚀 Commit and push changes
+          run: |
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            
+            # 1. Add the files to staging
+            git add teams/
+            
+            # 2. Check if there are changes to commit
+            if git diff --staged --quiet; then
+              echo "No changes detected, skipping commit."
+            else
+              # 3. Pull latest changes (rebase) before pushing
+              git pull origin main --rebase
+              
+              # 4. Commit and push
+              git commit -m "⚽ Update team data ($(date))"
+              git push origin main
+            fi
