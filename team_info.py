@@ -4,7 +4,7 @@ import json
 import requests
 
 # ⚙️ CONFIG
-API_KEY = os.getenv("API_KEY", "18eaa48000cb4abc9db7dfea5e219828")
+API_KEY = os.getenv("API_KEY", "7e19076a67c6447e987830a06717c4ac")
 BASE_URL = "https://api.football-data.org/v4"
 OUTPUT_DIR = "teams"
 
