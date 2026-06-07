@@ -4,21 +4,15 @@ import json
 import requests
 
 # ⚙️ CONFIG
-# Best Practice: Set FOOTBALL_API_KEY in your GitHub Secrets
 API_KEY = os.getenv("API_KEY", "18eaa48000cb4abc9db7dfea5e219828")
 BASE_URL = "https://api.football-data.org/v4"
 OUTPUT_DIR = "teams"
 
-# Note: Remove leagues that return 403 Forbidden based on your plan
 LEAGUES = {
-    "PL": "EPL.json", 
-    "PD": "ESP.json", 
-    "BL1": "DEB.json",
-    "SA": "ITSA.json", 
-    "FL1": "FRL1.json"
-    # "DED": "DED.json", "BSA": "BSA.json", "ELC": "ELC.json", 
-    # "PPL": "POR.json", "CL": "UCL.json", "EC": "EC.json", 
-    # "WC": "WC.json", "MLS": "MLS.json"
+    "PL": "EPL.json", "PD": "ESP.json", "BL1": "DEB.json",
+    "DED": "DED.json", "SA": "ITSA.json", "FL1": "FRL1.json",
+    "BSA": "BSA.json", "ELC": "ELC.json", "PPL": "POR.json",
+    "CL": "UCL.json", "EC": "EC.json", "WC": "WC.json", "MLS": "MLS.json"
 }
 
 headers = {"X-Auth-Token": API_KEY}
@@ -26,13 +20,16 @@ headers = {"X-Auth-Token": API_KEY}
 def fetch_data(endpoint):
     """Fetch from API with retry logic for 429 errors."""
     url = f"{BASE_URL}/{endpoint}"
-    for attempt in range(3):
+    for attempt in range(5): # Increased retries
         resp = requests.get(url, headers=headers)
         if resp.status_code == 200:
             return resp.json()
         elif resp.status_code == 429:
             print(f"⚠️ Rate limited on {endpoint}. Waiting 60s...")
-            time.sleep(60)
+            time.sleep(60) # Wait 1 minute if hit
+        elif resp.status_code == 403:
+            print(f"🚫 403 Forbidden: No access to {endpoint}. Skipping.")
+            return None
         else:
             print(f"❌ Failed {endpoint}: {resp.status_code}")
             return None
@@ -68,13 +65,15 @@ def save_league_json(league_code, filename):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(teams, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ Saved {len(teams)} teams → {path}")
+    print(f"✅ Saved {len(teams)} teams (with scorers) → {path}")
 
 def main():
-    print("⚽ Fetching teams and top scorers...\n")
+    print("⚽ Fetching all leagues (this will take time to respect limits)...\n")
     for code, filename in LEAGUES.items():
         save_league_json(code, filename)
-        time.sleep(15)  # Respect the 10 req/min limit
+        # We must wait 10+ seconds between API calls to stay under the 10 requests/min limit.
+        # Since we do 2 calls per league, we sleep 30 seconds per league.
+        time.sleep(30) 
     print("\n🎉 Done!")
 
 if __name__ == "__main__":
