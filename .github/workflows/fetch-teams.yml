@@ -36,18 +36,16 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Force a clean state to avoid index errors
+          # Force clean state
           git reset --hard
-          
-          # Pull latest changes
           git pull origin main --rebase
           
           # Stage the files
           git add teams/
           
-          # Only commit if there are changes
+          # This will now ALWAYS commit because last_updated changed
           if git diff --staged --quiet; then
-            echo "No changes detected, skipping commit."
+            echo "No changes detected."
           else
             git commit -m "⚽ Update team data ($(date))"
             git push origin main
