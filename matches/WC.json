@@ -5,7 +5,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-11",
     "DateTime": "2026-06-11T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 769,
@@ -16,11 +16,11 @@
     "AwayTeamName": "South Africa",
     "HomeTeamLogo": "https://crests.football-data.org/769.svg",
     "AwayTeamLogo": "https://crests.football-data.org/9396.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 769,
     "Points": {
-      "769": 0,
+      "769": 3,
       "774": 0
     },
     "Goals": []
