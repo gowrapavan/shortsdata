@@ -161,7 +161,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-12",
     "DateTime": "2026-06-12T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 828,
@@ -172,12 +172,12 @@
     "AwayTeamName": "Bosnia-Herzegovina",
     "HomeTeamLogo": "https://crests.football-data.org/canada.svg",
     "AwayTeamLogo": "https://crests.football-data.org/bosnia.svg",
-    "HomeTeamScore": 0,
+    "HomeTeamScore": 1,
     "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "828": 0,
-      "1060": 0
+      "828": 1,
+      "1060": 1
     },
     "Goals": []
   },
