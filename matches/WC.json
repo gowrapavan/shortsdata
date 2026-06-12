@@ -31,7 +31,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-12",
     "DateTime": "2026-06-12T02:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 772,
@@ -42,11 +42,11 @@
     "AwayTeamName": "Czechia",
     "HomeTeamLogo": "https://crests.football-data.org/772.png",
     "AwayTeamLogo": "https://crests.football-data.org/798.svg",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 2,
     "AwayTeamScore": 1,
-    "Result": null,
+    "Result": 772,
     "Points": {
-      "772": 0,
+      "772": 3,
       "798": 0
     },
     "Goals": []
