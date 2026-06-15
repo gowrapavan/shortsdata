@@ -952,8 +952,8 @@
     "AwayTeamName": "Egypt",
     "HomeTeamLogo": "https://crests.football-data.org/805.svg",
     "AwayTeamLogo": "https://crests.football-data.org/825.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
       "805": 0,
@@ -1097,7 +1097,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-15",
     "DateTime": "2026-06-15T16:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 760,
@@ -1112,8 +1112,8 @@
     "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "760": 0,
-      "1930": 0
+      "760": 1,
+      "1930": 1
     },
     "Goals": []
   },
