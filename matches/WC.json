@@ -1835,7 +1835,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-17",
     "DateTime": "2026-06-17T04:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 816,
@@ -1846,11 +1846,11 @@
     "AwayTeamName": "Jordan",
     "HomeTeamLogo": "https://crests.football-data.org/816.svg",
     "AwayTeamLogo": "https://crests.football-data.org/8049.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 816,
     "Points": {
-      "816": 0,
+      "816": 3,
       "8049": 0
     },
     "Goals": []
