@@ -1861,7 +1861,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-22",
     "DateTime": "2026-06-22T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 762,
@@ -1872,11 +1872,11 @@
     "AwayTeamName": "Austria",
     "HomeTeamLogo": "https://crests.football-data.org/762.png",
     "AwayTeamLogo": "https://crests.football-data.org/816.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 762,
     "Points": {
-      "762": 0,
+      "762": 3,
       "816": 0
     },
     "Goals": []
