@@ -1019,7 +1019,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-22",
     "DateTime": "2026-06-22T01:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 783,
@@ -1030,12 +1030,12 @@
     "AwayTeamName": "Egypt",
     "HomeTeamLogo": "https://crests.football-data.org/783.svg",
     "AwayTeamLogo": "https://crests.football-data.org/825.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 3,
+    "Result": 825,
     "Points": {
       "783": 0,
-      "825": 0
+      "825": 3
     },
     "Goals": []
   },
@@ -1175,7 +1175,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-21",
     "DateTime": "2026-06-21T22:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 758,
@@ -1186,12 +1186,12 @@
     "AwayTeamName": "Cape Verde Islands",
     "HomeTeamLogo": "https://crests.football-data.org/758.svg",
     "AwayTeamLogo": "https://crests.football-data.org/cape_verde.svg",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
-      "758": 0,
-      "1930": 0
+      "758": 1,
+      "1930": 1
     },
     "Goals": []
   },
@@ -1324,10 +1324,10 @@
   },
   {
     "GameId": 537378,
-    "RoundId": 1,
+    "RoundId": 2,
     "RoundName": "FIFA World Cup",
-    "Date": "2026-07-05",
-    "DateTime": "2026-07-05T00:00:00Z",
+    "Date": "2026-07-06",
+    "DateTime": "2026-07-06T00:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -1349,10 +1349,10 @@
   },
   {
     "GameId": 537379,
-    "RoundId": 1,
+    "RoundId": 2,
     "RoundName": "FIFA World Cup",
     "Date": "2026-07-06",
-    "DateTime": "2026-07-06T00:00:00Z",
+    "DateTime": "2026-07-06T19:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
