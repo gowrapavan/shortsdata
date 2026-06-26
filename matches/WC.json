@@ -588,8 +588,8 @@
     "AwayTeamName": "United States",
     "HomeTeamLogo": "https://crests.football-data.org/803.svg",
     "AwayTeamLogo": "https://crests.football-data.org/usa.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "803": 0,
@@ -614,8 +614,8 @@
     "AwayTeamName": "Australia",
     "HomeTeamLogo": "https://crests.football-data.org/761.svg",
     "AwayTeamLogo": "https://crests.football-data.org/779.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "761": 0,
@@ -889,7 +889,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-25",
     "DateTime": "2026-06-25T23:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 802,
@@ -900,12 +900,12 @@
     "AwayTeamName": "Netherlands",
     "HomeTeamLogo": "https://crests.football-data.org/tunisia.svg",
     "AwayTeamLogo": "https://crests.football-data.org/8601.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 3,
+    "Result": 8601,
     "Points": {
       "802": 0,
-      "8601": 0
+      "8601": 3
     },
     "Goals": []
   },
@@ -915,7 +915,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-25",
     "DateTime": "2026-06-25T23:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 766,
@@ -926,12 +926,12 @@
     "AwayTeamName": "Sweden",
     "HomeTeamLogo": "https://crests.football-data.org/766.svg",
     "AwayTeamLogo": "https://crests.football-data.org/792.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 1,
     "Result": null,
     "Points": {
-      "766": 0,
-      "792": 0
+      "766": 1,
+      "792": 1
     },
     "Goals": []
   },
@@ -1477,7 +1477,7 @@
     "RoundId": 1,
     "RoundName": "FIFA World Cup",
     "Date": "2026-07-10",
-    "DateTime": "2026-07-10T00:00:00Z",
+    "DateTime": "2026-07-10T19:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
