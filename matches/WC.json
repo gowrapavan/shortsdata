@@ -1201,7 +1201,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-27",
     "DateTime": "2026-06-27T00:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 758,
@@ -1212,12 +1212,12 @@
     "AwayTeamName": "Spain",
     "HomeTeamLogo": "https://crests.football-data.org/758.svg",
     "AwayTeamLogo": "https://crests.football-data.org/760.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 1,
+    "Result": 760,
     "Points": {
       "758": 0,
-      "760": 0
+      "760": 3
     },
     "Goals": []
   },
@@ -1227,7 +1227,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-27",
     "DateTime": "2026-06-27T00:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1930,
@@ -1238,12 +1238,12 @@
     "AwayTeamName": "Saudi Arabia",
     "HomeTeamLogo": "https://crests.football-data.org/cape_verde.svg",
     "AwayTeamLogo": "https://crests.football-data.org/saudi_arabia.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "1930": 0,
-      "801": 0
+      "1930": 1,
+      "801": 1
     },
     "Goals": []
   },
@@ -1499,10 +1499,10 @@
   },
   {
     "GameId": 537385,
-    "RoundId": 1,
+    "RoundId": 3,
     "RoundName": "FIFA World Cup",
     "Date": "2026-07-11",
-    "DateTime": "2026-07-11T00:00:00Z",
+    "DateTime": "2026-07-11T21:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
