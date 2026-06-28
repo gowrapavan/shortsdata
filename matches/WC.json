@@ -1524,10 +1524,10 @@
   },
   {
     "GameId": 537386,
-    "RoundId": 1,
+    "RoundId": 3,
     "RoundName": "FIFA World Cup",
-    "Date": "2026-07-11",
-    "DateTime": "2026-07-11T00:00:00Z",
+    "Date": "2026-07-12",
+    "DateTime": "2026-07-12T01:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -1924,8 +1924,8 @@
     "AwayTeamName": "Argentina",
     "HomeTeamLogo": "https://crests.football-data.org/8049.png",
     "AwayTeamLogo": "https://crests.football-data.org/762.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "8049": 0,
@@ -1950,8 +1950,8 @@
     "AwayTeamName": "Austria",
     "HomeTeamLogo": "https://crests.football-data.org/algeria.svg",
     "AwayTeamLogo": "https://crests.football-data.org/816.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 2,
     "Result": null,
     "Points": {
       "778": 0,
@@ -2069,7 +2069,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-27",
     "DateTime": "2026-06-27T23:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 818,
@@ -2080,12 +2080,12 @@
     "AwayTeamName": "Portugal",
     "HomeTeamLogo": "https://crests.football-data.org/818.svg",
     "AwayTeamLogo": "https://crests.football-data.org/765.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 0,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
-      "818": 0,
-      "765": 0
+      "818": 1,
+      "765": 1
     },
     "Goals": []
   },
@@ -2095,7 +2095,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-27",
     "DateTime": "2026-06-27T23:30:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1934,
@@ -2106,11 +2106,11 @@
     "AwayTeamName": "Uzbekistan",
     "HomeTeamLogo": "https://crests.football-data.org/congo_dr.svg",
     "AwayTeamLogo": "https://crests.football-data.org/8070.png",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 1,
+    "Result": 1934,
     "Points": {
-      "1934": 0,
+      "1934": 3,
       "8070": 0
     },
     "Goals": []
@@ -2225,7 +2225,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-27",
     "DateTime": "2026-06-27T21:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1836,
@@ -2237,11 +2237,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/panama.svg",
     "AwayTeamLogo": "https://crests.football-data.org/770.svg",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 2,
+    "Result": 770,
     "Points": {
       "1836": 0,
-      "770": 0
+      "770": 3
     },
     "Goals": []
   },
@@ -2251,7 +2251,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-27",
     "DateTime": "2026-06-27T21:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 799,
@@ -2262,11 +2262,11 @@
     "AwayTeamName": "Ghana",
     "HomeTeamLogo": "https://crests.football-data.org/799.svg",
     "AwayTeamLogo": "https://crests.football-data.org/ghana.svg",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 799,
     "Points": {
-      "799": 0,
+      "799": 3,
       "763": 0
     },
     "Goals": []
