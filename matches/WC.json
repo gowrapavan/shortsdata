@@ -2329,7 +2329,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-28",
     "DateTime": "2026-06-28T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 774,
@@ -2341,11 +2341,11 @@
     "HomeTeamLogo": "https://crests.football-data.org/9396.svg",
     "AwayTeamLogo": "https://crests.football-data.org/canada.svg",
     "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "AwayTeamScore": 1,
+    "Result": 828,
     "Points": {
       "774": 0,
-      "828": 0
+      "828": 3
     },
     "Goals": []
   },
