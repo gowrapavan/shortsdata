@@ -1281,18 +1281,19 @@
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
-    "HomeTeamId": null,
+    "HomeTeamId": 828,
     "AwayTeamId": null,
-    "HomeTeamKey": "TBD",
+    "HomeTeamKey": "Canada",
     "AwayTeamKey": "TBD",
-    "HomeTeamName": null,
+    "HomeTeamName": "Canada",
     "AwayTeamName": null,
-    "HomeTeamLogo": null,
+    "HomeTeamLogo": "https://crests.football-data.org/canada.svg",
     "AwayTeamLogo": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null,
     "Result": null,
     "Points": {
+      "828": 0,
       "None": 0
     },
     "Goals": []
