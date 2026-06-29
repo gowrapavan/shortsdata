@@ -2486,7 +2486,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-29",
     "DateTime": "2026-06-29T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 764,
@@ -2497,11 +2497,11 @@
     "AwayTeamName": "Japan",
     "HomeTeamLogo": "https://crests.football-data.org/764.svg",
     "AwayTeamLogo": "https://crests.football-data.org/766.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 764,
     "Points": {
-      "764": 0,
+      "764": 3,
       "766": 0
     },
     "Goals": []
