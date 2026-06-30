@@ -2514,7 +2514,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-30",
     "DateTime": "2026-06-30T17:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 1935,
@@ -2525,12 +2525,12 @@
     "AwayTeamName": "Norway",
     "HomeTeamLogo": "https://crests.football-data.org/787.svg",
     "AwayTeamLogo": "https://crests.football-data.org/813.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 2,
+    "Result": 8872,
     "Points": {
       "1935": 0,
-      "8872": 0
+      "8872": 3
     },
     "Goals": []
   },
