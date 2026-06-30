@@ -1256,18 +1256,19 @@
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
-    "HomeTeamId": null,
+    "HomeTeamId": 761,
     "AwayTeamId": null,
-    "HomeTeamKey": "TBD",
+    "HomeTeamKey": "Paraguay",
     "AwayTeamKey": "TBD",
-    "HomeTeamName": null,
+    "HomeTeamName": "Paraguay",
     "AwayTeamName": null,
-    "HomeTeamLogo": null,
+    "HomeTeamLogo": "https://crests.football-data.org/761.svg",
     "AwayTeamLogo": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null,
     "Result": null,
     "Points": {
+      "761": 0,
       "None": 0
     },
     "Goals": []
@@ -1282,19 +1283,19 @@
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 828,
-    "AwayTeamId": null,
+    "AwayTeamId": 815,
     "HomeTeamKey": "Canada",
-    "AwayTeamKey": "TBD",
+    "AwayTeamKey": "Morocco",
     "HomeTeamName": "Canada",
-    "AwayTeamName": null,
+    "AwayTeamName": "Morocco",
     "HomeTeamLogo": "https://crests.football-data.org/canada.svg",
-    "AwayTeamLogo": null,
+    "AwayTeamLogo": "https://crests.football-data.org/morocco.svg",
     "HomeTeamScore": null,
     "AwayTeamScore": null,
     "Result": null,
     "Points": {
       "828": 0,
-      "None": 0
+      "815": 0
     },
     "Goals": []
   },
@@ -1307,18 +1308,19 @@
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
-    "HomeTeamId": null,
+    "HomeTeamId": 764,
     "AwayTeamId": null,
-    "HomeTeamKey": "TBD",
+    "HomeTeamKey": "Brazil",
     "AwayTeamKey": "TBD",
-    "HomeTeamName": null,
+    "HomeTeamName": "Brazil",
     "AwayTeamName": null,
-    "HomeTeamLogo": null,
+    "HomeTeamLogo": "https://crests.football-data.org/764.svg",
     "AwayTeamLogo": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null,
     "Result": null,
     "Points": {
+      "764": 0,
       "None": 0
     },
     "Goals": []
@@ -2356,7 +2358,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-30",
     "DateTime": "2026-06-30T01:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 8601,
@@ -2367,12 +2369,12 @@
     "AwayTeamName": "Morocco",
     "HomeTeamLogo": "https://crests.football-data.org/8601.svg",
     "AwayTeamLogo": "https://crests.football-data.org/morocco.svg",
-    "HomeTeamScore": 1,
-    "AwayTeamScore": 1,
-    "Result": null,
+    "HomeTeamScore": 3,
+    "AwayTeamScore": 4,
+    "Result": 815,
     "Points": {
       "8601": 0,
-      "815": 0
+      "815": 3
     },
     "Goals": []
   },
