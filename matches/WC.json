@@ -1257,19 +1257,19 @@
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 761,
-    "AwayTeamId": null,
+    "AwayTeamId": 773,
     "HomeTeamKey": "Paraguay",
-    "AwayTeamKey": "TBD",
+    "AwayTeamKey": "France",
     "HomeTeamName": "Paraguay",
-    "AwayTeamName": null,
+    "AwayTeamName": "France",
     "HomeTeamLogo": "https://crests.football-data.org/761.svg",
-    "AwayTeamLogo": null,
+    "AwayTeamLogo": "https://crests.football-data.org/773.svg",
     "HomeTeamScore": null,
     "AwayTeamScore": null,
     "Result": null,
     "Points": {
       "761": 0,
-      "None": 0
+      "773": 0
     },
     "Goals": []
   },
@@ -1309,19 +1309,19 @@
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 764,
-    "AwayTeamId": null,
+    "AwayTeamId": 8872,
     "HomeTeamKey": "Brazil",
-    "AwayTeamKey": "TBD",
+    "AwayTeamKey": "Norway",
     "HomeTeamName": "Brazil",
-    "AwayTeamName": null,
+    "AwayTeamName": "Norway",
     "HomeTeamLogo": "https://crests.football-data.org/764.svg",
-    "AwayTeamLogo": null,
+    "AwayTeamLogo": "https://crests.football-data.org/813.svg",
     "HomeTeamScore": null,
     "AwayTeamScore": null,
     "Result": null,
     "Points": {
       "764": 0,
-      "None": 0
+      "8872": 0
     },
     "Goals": []
   },
@@ -2540,7 +2540,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-07-01",
     "DateTime": "2026-07-01T01:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 769,
@@ -2553,9 +2553,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/791.svg",
     "HomeTeamScore": 2,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 769,
     "Points": {
-      "769": 0,
+      "769": 3,
       "791": 0
     },
     "Goals": []
