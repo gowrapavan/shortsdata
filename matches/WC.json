@@ -1577,10 +1577,10 @@
   },
   {
     "GameId": 537388,
-    "RoundId": 1,
+    "RoundId": 3,
     "RoundName": "FIFA World Cup",
     "Date": "2026-07-15",
-    "DateTime": "2026-07-15T00:00:00Z",
+    "DateTime": "2026-07-15T19:00:00Z",
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
@@ -2306,7 +2306,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-06-30",
     "DateTime": "2026-06-30T21:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 773,
@@ -2317,11 +2317,11 @@
     "AwayTeamName": "Sweden",
     "HomeTeamLogo": "https://crests.football-data.org/773.svg",
     "AwayTeamLogo": "https://crests.football-data.org/792.svg",
-    "HomeTeamScore": 1,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 773,
     "Points": {
-      "773": 0,
+      "773": 3,
       "792": 0
     },
     "Goals": []
@@ -2551,8 +2551,8 @@
     "AwayTeamName": "Ecuador",
     "HomeTeamLogo": "https://crests.football-data.org/769.svg",
     "AwayTeamLogo": "https://crests.football-data.org/791.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "769": 0,
