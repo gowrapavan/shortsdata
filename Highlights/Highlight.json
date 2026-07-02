@@ -25373,5 +25373,55 @@
     "embed_url": "https://hoohfooha.vibedailyhighlights.com/embed/rSs76BffijS0p",
     "match_type": "official",
     "source": "hoofoot"
+  },
+  {
+    "highlight_id": "Belgium_v_Senegal_2026_07_01",
+    "game_id": 537422,
+    "league": "WC",
+    "round": "FIFA World Cup",
+    "season": null,
+    "date": "2026-07-01",
+    "datetime": "2026-07-01T20:00:00Z",
+    "status": "Final",
+    "home_team": {
+      "name": "Belgium",
+      "logo": "https://crests.football-data.org/805.svg",
+      "score": 3
+    },
+    "away_team": {
+      "name": "Senegal",
+      "logo": "https://crests.football-data.org/senegal.svg",
+      "score": 2
+    },
+    "title": "Belgium v Senegal",
+    "highlight_url": "https://hoofoot.com/?match=Belgium_v_Senegal_2026_07_01",
+    "embed_url": "https://hoohfooha.vibedailyhighlights.com/embed/DBppZJZUvLyjH",
+    "match_type": "official",
+    "source": "hoofoot"
+  },
+  {
+    "highlight_id": "USA_v_Bosnia_2026_07_01",
+    "game_id": null,
+    "league": "Goal4u - Undefined",
+    "round": null,
+    "season": null,
+    "date": "2026-07-01",
+    "datetime": "2026-07-01T00:00:00",
+    "status": "Finished",
+    "home_team": {
+      "name": "USA",
+      "logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+      "score": null
+    },
+    "away_team": {
+      "name": "Bosnia",
+      "logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+      "score": null
+    },
+    "title": "USA v Bosnia",
+    "highlight_url": "https://hoofoot.com/?match=USA_v_Bosnia_2026_07_01",
+    "embed_url": "https://hoohfooha.vibedailyhighlights.com/embed/xAL1RVBUUhl9A",
+    "match_type": "fallback",
+    "source": "hoofoot"
   }
 ]
