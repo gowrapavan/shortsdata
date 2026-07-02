@@ -2436,7 +2436,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-07-02",
     "DateTime": "2026-07-02T00:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 771,
@@ -2447,11 +2447,11 @@
     "AwayTeamName": "Bosnia-Herzegovina",
     "HomeTeamLogo": "https://crests.football-data.org/usa.svg",
     "AwayTeamLogo": "https://crests.football-data.org/bosnia.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 0,
+    "Result": 771,
     "Points": {
-      "771": 0,
+      "771": 3,
       "1060": 0
     },
     "Goals": []
@@ -2462,7 +2462,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-07-01",
     "DateTime": "2026-07-01T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 805,
@@ -2473,11 +2473,11 @@
     "AwayTeamName": "Senegal",
     "HomeTeamLogo": "https://crests.football-data.org/805.svg",
     "AwayTeamLogo": "https://crests.football-data.org/senegal.svg",
-    "HomeTeamScore": 2,
+    "HomeTeamScore": 3,
     "AwayTeamScore": 2,
-    "Result": null,
+    "Result": 805,
     "Points": {
-      "805": 0,
+      "805": 3,
       "804": 0
     },
     "Goals": []
