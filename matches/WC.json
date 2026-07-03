@@ -2386,7 +2386,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-07-02",
     "DateTime": "2026-07-02T23:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 765,
@@ -2397,11 +2397,11 @@
     "AwayTeamName": "Croatia",
     "HomeTeamLogo": "https://crests.football-data.org/765.svg",
     "AwayTeamLogo": "https://crests.football-data.org/799.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
-    "Result": null,
+    "HomeTeamScore": 2,
+    "AwayTeamScore": 1,
+    "Result": 765,
     "Points": {
-      "765": 0,
+      "765": 3,
       "799": 0
     },
     "Goals": []
