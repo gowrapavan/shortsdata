@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-02T08:37:19.876920Z",
+    "last_updated": "2026-07-03T08:43:21.234638Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -22,99 +22,8 @@
         "BL1": {
             "competition": "Bundesliga",
             "code": "BL1",
-            "count": 10,
-            "scorers": [
-                {
-                    "player_name": "Harry Kane",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 36,
-                    "assists": 4,
-                    "penalties": 10,
-                    "nationality": "England"
-                },
-                {
-                    "player_name": "Deniz Undav",
-                    "team_name": "VfB Stuttgart",
-                    "team_crest": "https://crests.football-data.org/10.png",
-                    "goals": 19,
-                    "assists": 6,
-                    "penalties": null,
-                    "nationality": "Germany"
-                },
-                {
-                    "player_name": "Sehrou Guirassy",
-                    "team_name": "Borussia Dortmund",
-                    "team_crest": "https://crests.football-data.org/4.png",
-                    "goals": 17,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "Guinea"
-                },
-                {
-                    "player_name": "Patrik Schick",
-                    "team_name": "Bayer 04 Leverkusen",
-                    "team_crest": "https://crests.football-data.org/3.png",
-                    "goals": 16,
-                    "assists": 2,
-                    "penalties": 4,
-                    "nationality": "Czech Republic"
-                },
-                {
-                    "player_name": "Michael Olise",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 15,
-                    "assists": 19,
-                    "penalties": null,
-                    "nationality": "France"
-                },
-                {
-                    "player_name": "Luis Díaz",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 15,
-                    "assists": 12,
-                    "penalties": null,
-                    "nationality": "Colombia"
-                },
-                {
-                    "player_name": "Andrej Kramarić",
-                    "team_name": "TSG 1899 Hoffenheim",
-                    "team_crest": "https://crests.football-data.org/2.png",
-                    "goals": 14,
-                    "assists": 6,
-                    "penalties": 5,
-                    "nationality": "Croatia"
-                },
-                {
-                    "player_name": "Christoph Baumgartner",
-                    "team_name": "RB Leipzig",
-                    "team_crest": "https://crests.football-data.org/721.png",
-                    "goals": 13,
-                    "assists": 8,
-                    "penalties": null,
-                    "nationality": "Austria"
-                },
-                {
-                    "player_name": "Said El Mala",
-                    "team_name": "1. FC Köln",
-                    "team_crest": "https://crests.football-data.org/1.png",
-                    "goals": 13,
-                    "assists": 4,
-                    "penalties": 1,
-                    "nationality": "Germany"
-                },
-                {
-                    "player_name": "Jonathan Burkardt",
-                    "team_name": "Eintracht Frankfurt",
-                    "team_crest": "https://crests.football-data.org/19.png",
-                    "goals": 13,
-                    "assists": 1,
-                    "penalties": 4,
-                    "nationality": "Germany"
-                }
-            ]
+            "count": 0,
+            "scorers": []
         },
         "FL1": {
             "competition": "Ligue 1",
