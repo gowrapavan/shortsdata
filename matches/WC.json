@@ -1331,7 +1331,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-07-06",
     "DateTime": "2026-07-06T01:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 769,
@@ -1344,10 +1344,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/770.svg",
     "HomeTeamScore": 2,
     "AwayTeamScore": 3,
-    "Result": null,
+    "Result": 770,
     "Points": {
       "769": 0,
-      "770": 0
+      "770": 3
     },
     "Goals": []
   },
@@ -1515,19 +1515,20 @@
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
-    "HomeTeamId": null,
-    "AwayTeamId": null,
-    "HomeTeamKey": "TBD",
-    "AwayTeamKey": "TBD",
-    "HomeTeamName": null,
-    "AwayTeamName": null,
-    "HomeTeamLogo": null,
-    "AwayTeamLogo": null,
+    "HomeTeamId": 8872,
+    "AwayTeamId": 770,
+    "HomeTeamKey": "Norway",
+    "AwayTeamKey": "England",
+    "HomeTeamName": "Norway",
+    "AwayTeamName": "England",
+    "HomeTeamLogo": "https://crests.football-data.org/813.svg",
+    "AwayTeamLogo": "https://crests.football-data.org/770.svg",
     "HomeTeamScore": null,
     "AwayTeamScore": null,
     "Result": null,
     "Points": {
-      "None": 0
+      "8872": 0,
+      "770": 0
     },
     "Goals": []
   },
