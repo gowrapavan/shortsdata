@@ -1435,7 +1435,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-07-07",
     "DateTime": "2026-07-07T20:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 788,
@@ -1446,11 +1446,11 @@
     "AwayTeamName": "Colombia",
     "HomeTeamLogo": "https://crests.football-data.org/788.svg",
     "AwayTeamLogo": "https://crests.football-data.org/818.svg",
-    "HomeTeamScore": 0,
-    "AwayTeamScore": 0,
-    "Result": null,
+    "HomeTeamScore": 4,
+    "AwayTeamScore": 3,
+    "Result": 788,
     "Points": {
-      "788": 0,
+      "788": 3,
       "818": 0
     },
     "Goals": []
