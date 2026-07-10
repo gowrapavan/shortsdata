@@ -1568,18 +1568,19 @@
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
-    "HomeTeamId": null,
+    "HomeTeamId": 773,
     "AwayTeamId": null,
-    "HomeTeamKey": "TBD",
+    "HomeTeamKey": "France",
     "AwayTeamKey": "TBD",
-    "HomeTeamName": null,
+    "HomeTeamName": "France",
     "AwayTeamName": null,
-    "HomeTeamLogo": null,
+    "HomeTeamLogo": "https://crests.football-data.org/773.svg",
     "AwayTeamLogo": null,
     "HomeTeamScore": null,
     "AwayTeamScore": null,
     "Result": null,
     "Points": {
+      "773": 0,
       "None": 0
     },
     "Goals": []
