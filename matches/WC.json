@@ -1331,7 +1331,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-07-06",
     "DateTime": "2026-07-06T01:00:00Z",
-    "Status": "Final",
+    "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 769,
@@ -1344,10 +1344,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/770.svg",
     "HomeTeamScore": 2,
     "AwayTeamScore": 3,
-    "Result": 770,
+    "Result": null,
     "Points": {
       "769": 0,
-      "770": 3
+      "770": 0
     },
     "Goals": []
   },
@@ -1524,8 +1524,8 @@
     "AwayTeamName": "England",
     "HomeTeamLogo": "https://crests.football-data.org/813.svg",
     "AwayTeamLogo": "https://crests.football-data.org/770.svg",
-    "HomeTeamScore": null,
-    "AwayTeamScore": null,
+    "HomeTeamScore": 1,
+    "AwayTeamScore": 0,
     "Result": null,
     "Points": {
       "8872": 0,
