@@ -1331,7 +1331,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-07-06",
     "DateTime": "2026-07-06T01:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 769,
@@ -1344,10 +1344,10 @@
     "AwayTeamLogo": "https://crests.football-data.org/770.svg",
     "HomeTeamScore": 2,
     "AwayTeamScore": 3,
-    "Result": null,
+    "Result": 770,
     "Points": {
       "769": 0,
-      "770": 0
+      "770": 3
     },
     "Goals": []
   },
@@ -1594,19 +1594,20 @@
     "Status": "Scheduled",
     "Week": null,
     "VenueType": "Home Away",
-    "HomeTeamId": null,
-    "AwayTeamId": null,
-    "HomeTeamKey": "TBD",
-    "AwayTeamKey": "TBD",
-    "HomeTeamName": null,
-    "AwayTeamName": null,
-    "HomeTeamLogo": null,
-    "AwayTeamLogo": null,
+    "HomeTeamId": 770,
+    "AwayTeamId": 762,
+    "HomeTeamKey": "England",
+    "AwayTeamKey": "Argentina",
+    "HomeTeamName": "England",
+    "AwayTeamName": "Argentina",
+    "HomeTeamLogo": "https://crests.football-data.org/770.svg",
+    "AwayTeamLogo": "https://crests.football-data.org/762.png",
     "HomeTeamScore": null,
     "AwayTeamScore": null,
     "Result": null,
     "Points": {
-      "None": 0
+      "770": 0,
+      "762": 0
     },
     "Goals": []
   },
