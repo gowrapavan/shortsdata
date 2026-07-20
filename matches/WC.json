@@ -1643,7 +1643,7 @@
     "RoundName": "FIFA World Cup",
     "Date": "2026-07-19",
     "DateTime": "2026-07-19T19:00:00Z",
-    "Status": "Scheduled",
+    "Status": "Final",
     "Week": null,
     "VenueType": "Home Away",
     "HomeTeamId": 760,
@@ -1656,9 +1656,9 @@
     "AwayTeamLogo": "https://crests.football-data.org/762.png",
     "HomeTeamScore": 1,
     "AwayTeamScore": 0,
-    "Result": null,
+    "Result": 760,
     "Points": {
-      "760": 0,
+      "760": 3,
       "762": 0
     },
     "Goals": []
