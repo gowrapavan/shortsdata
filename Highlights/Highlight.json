@@ -25973,5 +25973,30 @@
     "embed_url": "",
     "match_type": "official",
     "source": "hoofoot"
+  },
+  {
+    "highlight_id": "Inter_Miami_v_Chicago_Fire_2026_07_23",
+    "game_id": null,
+    "league": "Goal4u - Undefined",
+    "round": null,
+    "season": null,
+    "date": "2026-07-23",
+    "datetime": "2026-07-23T00:00:00",
+    "status": "Finished",
+    "home_team": {
+      "name": "Inter Miami",
+      "logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+      "score": null
+    },
+    "away_team": {
+      "name": "Chicago Fire",
+      "logo": "https://raw.githubusercontent.com/gowrapavan/Goal4u/main/public/assets/img/tv-logo/aves.png",
+      "score": null
+    },
+    "title": "Inter Miami v Chicago Fire",
+    "highlight_url": "https://hoofoot.com/?match=Inter_Miami_v_Chicago_Fire_2026_07_23",
+    "embed_url": "",
+    "match_type": "fallback",
+    "source": "hoofoot"
   }
 ]
