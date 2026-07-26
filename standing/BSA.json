@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 1777,
+            "name": "EC Bahia",
+            "shortName": "Bahia",
+            "tla": "BAH",
+            "crest": "https://crests.football-data.org/1777.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 8,
+          "draw": 7,
+          "lost": 5,
+          "points": 31,
+          "goalsFor": 29,
+          "goalsAgainst": 25,
+          "goalDifference": 4
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 4286,
             "name": "RB Bragantino",
             "shortName": "Bragantino",
@@ -124,64 +143,7 @@
           "goalDifference": 6
         },
         {
-          "position": 6,
-          "team": {
-            "id": 1777,
-            "name": "EC Bahia",
-            "shortName": "Bahia",
-            "tla": "BAH",
-            "crest": "https://crests.football-data.org/1777.png"
-          },
-          "playedGames": 19,
-          "form": null,
-          "won": 8,
-          "draw": 6,
-          "lost": 5,
-          "points": 30,
-          "goalsFor": 28,
-          "goalsAgainst": 24,
-          "goalDifference": 4
-        },
-        {
           "position": 7,
-          "team": {
-            "id": 1779,
-            "name": "SC Corinthians Paulista",
-            "shortName": "Corinthians",
-            "tla": "COR",
-            "crest": "https://crests.football-data.org/1779.png"
-          },
-          "playedGames": 19,
-          "form": null,
-          "won": 7,
-          "draw": 6,
-          "lost": 6,
-          "points": 27,
-          "goalsFor": 21,
-          "goalsAgainst": 19,
-          "goalDifference": 2
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 1771,
-            "name": "Cruzeiro EC",
-            "shortName": "Cruzeiro",
-            "tla": "CRU",
-            "crest": "https://crests.football-data.org/1771.png"
-          },
-          "playedGames": 19,
-          "form": null,
-          "won": 7,
-          "draw": 6,
-          "lost": 6,
-          "points": 27,
-          "goalsFor": 26,
-          "goalsAgainst": 29,
-          "goalDifference": -3
-        },
-        {
-          "position": 9,
           "team": {
             "id": 1770,
             "name": "Botafogo FR",
@@ -189,15 +151,53 @@
             "tla": "BOT",
             "crest": "https://crests.football-data.org/1770.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
-          "won": 7,
+          "won": 8,
           "draw": 5,
           "lost": 7,
-          "points": 26,
-          "goalsFor": 33,
+          "points": 29,
+          "goalsFor": 34,
           "goalsAgainst": 32,
-          "goalDifference": 1
+          "goalDifference": 2
+        },
+        {
+          "position": 8,
+          "team": {
+            "id": 1779,
+            "name": "SC Corinthians Paulista",
+            "shortName": "Corinthians",
+            "tla": "COR",
+            "crest": "https://crests.football-data.org/1779.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 7,
+          "draw": 7,
+          "lost": 6,
+          "points": 28,
+          "goalsFor": 22,
+          "goalsAgainst": 20,
+          "goalDifference": 2
+        },
+        {
+          "position": 9,
+          "team": {
+            "id": 1771,
+            "name": "Cruzeiro EC",
+            "shortName": "Cruzeiro",
+            "tla": "CRU",
+            "crest": "https://crests.football-data.org/1771.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 7,
+          "draw": 6,
+          "lost": 7,
+          "points": 27,
+          "goalsFor": 26,
+          "goalsAgainst": 30,
+          "goalDifference": -4
         },
         {
           "position": 10,
