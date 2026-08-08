@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-07T06:56:09.250788Z",
+    "last_updated": "2026-08-08T06:29:00.450525Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -34,8 +34,36 @@
         "DED": {
             "competition": "Eredivisie",
             "code": "DED",
-            "count": 0,
-            "scorers": []
+            "count": 3,
+            "scorers": [
+                {
+                    "player_name": "Noah Naujoks",
+                    "team_name": "SBV Excelsior",
+                    "team_crest": "https://crests.football-data.org/670.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Irakli Yegoian",
+                    "team_name": "SBV Excelsior",
+                    "team_crest": "https://crests.football-data.org/670.png",
+                    "goals": 1,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Georgia"
+                },
+                {
+                    "player_name": "David Garden",
+                    "team_name": "SBV Excelsior",
+                    "team_crest": "https://crests.football-data.org/670.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                }
+            ]
         },
         "CL": {
             "competition": "UEFA Champions League",
