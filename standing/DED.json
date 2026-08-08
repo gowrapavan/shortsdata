@@ -69,6 +69,25 @@
         {
           "position": 3,
           "team": {
+            "id": 682,
+            "name": "AZ",
+            "shortName": "AZ",
+            "tla": "AZ",
+            "crest": "https://crests.football-data.org/682.png"
+          },
+          "playedGames": 1,
+          "form": null,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 0,
+          "goalDifference": 2
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 1912,
             "name": "Telstar 1963",
             "shortName": "Telstar",
@@ -86,7 +105,7 @@
           "goalDifference": 1
         },
         {
-          "position": 4,
+          "position": 5,
           "team": {
             "id": 1920,
             "name": "Fortuna Sittard",
@@ -105,7 +124,7 @@
           "goalDifference": 0
         },
         {
-          "position": 4,
+          "position": 5,
           "team": {
             "id": 674,
             "name": "PSV",
@@ -124,45 +143,7 @@
           "goalDifference": 0
         },
         {
-          "position": 6,
-          "team": {
-            "id": 680,
-            "name": "ADO Den Haag",
-            "shortName": "Den Haag",
-            "tla": "ADO",
-            "crest": "https://crests.football-data.org/680.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "points": 1,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 6,
-          "team": {
-            "id": 682,
-            "name": "AZ",
-            "shortName": "AZ",
-            "tla": "AZ",
-            "crest": "https://crests.football-data.org/682.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "points": 1,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 8,
+          "position": 7,
           "team": {
             "id": 678,
             "name": "AFC Ajax",
@@ -181,7 +162,7 @@
           "goalDifference": 0
         },
         {
-          "position": 8,
+          "position": 7,
           "team": {
             "id": 677,
             "name": "FC Groningen",
@@ -200,7 +181,7 @@
           "goalDifference": 0
         },
         {
-          "position": 8,
+          "position": 7,
           "team": {
             "id": 666,
             "name": "FC Twente '65",
@@ -219,7 +200,7 @@
           "goalDifference": 0
         },
         {
-          "position": 8,
+          "position": 7,
           "team": {
             "id": 676,
             "name": "FC Utrecht",
@@ -238,7 +219,7 @@
           "goalDifference": 0
         },
         {
-          "position": 8,
+          "position": 7,
           "team": {
             "id": 675,
             "name": "Feyenoord Rotterdam",
@@ -257,7 +238,7 @@
           "goalDifference": 0
         },
         {
-          "position": 8,
+          "position": 7,
           "team": {
             "id": 684,
             "name": "PEC Zwolle",
@@ -276,7 +257,7 @@
           "goalDifference": 0
         },
         {
-          "position": 8,
+          "position": 7,
           "team": {
             "id": 673,
             "name": "SC Heerenveen",
@@ -295,7 +276,7 @@
           "goalDifference": 0
         },
         {
-          "position": 8,
+          "position": 7,
           "team": {
             "id": 6806,
             "name": "Sparta Rotterdam",
@@ -314,7 +295,7 @@
           "goalDifference": 0
         },
         {
-          "position": 16,
+          "position": 15,
           "team": {
             "id": 1915,
             "name": "NEC",
@@ -331,6 +312,25 @@
           "goalsFor": 1,
           "goalsAgainst": 2,
           "goalDifference": -1
+        },
+        {
+          "position": 16,
+          "team": {
+            "id": 680,
+            "name": "ADO Den Haag",
+            "shortName": "Den Haag",
+            "tla": "ADO",
+            "crest": "https://crests.football-data.org/680.png"
+          },
+          "playedGames": 1,
+          "form": null,
+          "won": 0,
+          "draw": 0,
+          "lost": 1,
+          "points": 0,
+          "goalsFor": 0,
+          "goalsAgainst": 2,
+          "goalDifference": -2
         },
         {
           "position": 17,
