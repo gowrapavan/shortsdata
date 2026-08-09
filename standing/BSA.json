@@ -97,34 +97,15 @@
           "playedGames": 22,
           "form": null,
           "won": 9,
-          "draw": 7,
-          "lost": 6,
-          "points": 34,
-          "goalsFor": 30,
+          "draw": 8,
+          "lost": 5,
+          "points": 35,
+          "goalsFor": 31,
           "goalsAgainst": 26,
-          "goalDifference": 4
+          "goalDifference": 5
         },
         {
           "position": 5,
-          "team": {
-            "id": 1770,
-            "name": "Botafogo FR",
-            "shortName": "Botafogo",
-            "tla": "BOT",
-            "crest": "https://crests.football-data.org/1770.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 9,
-          "draw": 5,
-          "lost": 7,
-          "points": 32,
-          "goalsFor": 35,
-          "goalsAgainst": 32,
-          "goalDifference": 3
-        },
-        {
-          "position": 6,
           "team": {
             "id": 1777,
             "name": "EC Bahia",
@@ -143,7 +124,7 @@
           "goalDifference": 4
         },
         {
-          "position": 7,
+          "position": 6,
           "team": {
             "id": 4286,
             "name": "RB Bragantino",
@@ -162,6 +143,25 @@
           "goalDifference": 6
         },
         {
+          "position": 7,
+          "team": {
+            "id": 1770,
+            "name": "Botafogo FR",
+            "shortName": "Botafogo",
+            "tla": "BOT",
+            "crest": "https://crests.football-data.org/1770.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 8,
+          "draw": 6,
+          "lost": 7,
+          "points": 30,
+          "goalsFor": 35,
+          "goalsAgainst": 33,
+          "goalDifference": 2
+        },
+        {
           "position": 8,
           "team": {
             "id": 4241,
@@ -176,8 +176,8 @@
           "draw": 6,
           "lost": 8,
           "points": 30,
-          "goalsFor": 26,
-          "goalsAgainst": 28,
+          "goalsFor": 27,
+          "goalsAgainst": 29,
           "goalDifference": -2
         },
         {
@@ -404,8 +404,8 @@
           "draw": 7,
           "lost": 13,
           "points": 10,
-          "goalsFor": 19,
-          "goalsAgainst": 42,
+          "goalsFor": 20,
+          "goalsAgainst": 43,
           "goalDifference": -23
         }
       ]
