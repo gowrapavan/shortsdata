@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-08T06:29:00.450525Z",
+    "last_updated": "2026-08-09T06:33:45.957578Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -34,7 +34,7 @@
         "DED": {
             "competition": "Eredivisie",
             "code": "DED",
-            "count": 3,
+            "count": 10,
             "scorers": [
                 {
                     "player_name": "Noah Naujoks",
@@ -62,6 +62,69 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Patrick Brouwer",
+                    "team_name": "Telstar 1963",
+                    "team_crest": "https://crests.football-data.org/1912.png",
+                    "goals": 1,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Rui Mendes",
+                    "team_name": "Telstar 1963",
+                    "team_crest": "https://crests.football-data.org/1912.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Portugal"
+                },
+                {
+                    "player_name": "Kaj Sierhuis",
+                    "team_name": "NEC",
+                    "team_crest": "https://crests.football-data.org/1915.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Devin Haen",
+                    "team_name": "Willem II Tilburg",
+                    "team_crest": "https://crests.football-data.org/672.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Søren Tengstedt",
+                    "team_name": "Go Ahead Eagles",
+                    "team_crest": "https://crests.football-data.org/718.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Denmark"
+                },
+                {
+                    "player_name": "Melle  Meulensteen",
+                    "team_name": "Go Ahead Eagles",
+                    "team_crest": "https://crests.football-data.org/718.png",
+                    "goals": 1,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Erik Flataker",
+                    "team_name": "Go Ahead Eagles",
+                    "team_crest": "https://crests.football-data.org/718.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Norway"
                 }
             ]
         },
