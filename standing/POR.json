@@ -126,6 +126,44 @@
         {
           "position": 5,
           "team": {
+            "id": 5529,
+            "name": "CD Nacional",
+            "shortName": "CD Nacional",
+            "tla": "CDN",
+            "crest": "https://crests.football-data.org/5529.png"
+          },
+          "playedGames": 1,
+          "form": null,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "goalDifference": 0
+        },
+        {
+          "position": 5,
+          "team": {
+            "id": 5530,
+            "name": "CD Santa Clara",
+            "shortName": "Santa Clara",
+            "tla": "CD ",
+            "crest": "https://crests.football-data.org/5530.png"
+          },
+          "playedGames": 1,
+          "form": null,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "goalDifference": 0
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 9136,
             "name": "CF Estrela da Amadora",
             "shortName": "Amadora",
@@ -219,7 +257,7 @@
           "goalDifference": 0
         },
         {
-          "position": 11,
+          "position": 13,
           "team": {
             "id": 5531,
             "name": "FC Famalicão",
@@ -238,7 +276,7 @@
           "goalDifference": 0
         },
         {
-          "position": 11,
+          "position": 13,
           "team": {
             "id": 582,
             "name": "GD Estoril Praia",
@@ -254,44 +292,6 @@
           "points": 1,
           "goalsFor": 1,
           "goalsAgainst": 1,
-          "goalDifference": 0
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 5529,
-            "name": "CD Nacional",
-            "shortName": "CD Nacional",
-            "tla": "CDN",
-            "crest": "https://crests.football-data.org/5529.png"
-          },
-          "playedGames": 0,
-          "form": null,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 5530,
-            "name": "CD Santa Clara",
-            "shortName": "Santa Clara",
-            "tla": "CD ",
-            "crest": "https://crests.football-data.org/5530.png"
-          },
-          "playedGames": 0,
-          "form": null,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
           "goalDifference": 0
         },
         {
