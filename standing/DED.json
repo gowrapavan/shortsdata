@@ -107,30 +107,30 @@
         {
           "position": 5,
           "team": {
+            "id": 6806,
+            "name": "Sparta Rotterdam",
+            "shortName": "Sparta",
+            "tla": "SPA",
+            "crest": "https://crests.football-data.org/6806.png"
+          },
+          "playedGames": 2,
+          "form": null,
+          "won": 1,
+          "draw": 0,
+          "lost": 1,
+          "points": 3,
+          "goalsFor": 3,
+          "goalsAgainst": 2,
+          "goalDifference": 1
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 677,
             "name": "FC Groningen",
             "shortName": "Groningen",
             "tla": "GRO",
             "crest": "https://crests.football-data.org/677.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 1,
-          "draw": 0,
-          "lost": 0,
-          "points": 3,
-          "goalsFor": 2,
-          "goalsAgainst": 1,
-          "goalDifference": 1
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 1912,
-            "name": "Telstar 1963",
-            "shortName": "Telstar",
-            "tla": "TEL",
-            "crest": "https://crests.football-data.org/1912.png"
           },
           "playedGames": 1,
           "form": null,
@@ -183,6 +183,25 @@
         {
           "position": 9,
           "team": {
+            "id": 1912,
+            "name": "Telstar 1963",
+            "shortName": "Telstar",
+            "tla": "TEL",
+            "crest": "https://crests.football-data.org/1912.png"
+          },
+          "playedGames": 2,
+          "form": null,
+          "won": 1,
+          "draw": 0,
+          "lost": 1,
+          "points": 3,
+          "goalsFor": 3,
+          "goalsAgainst": 4,
+          "goalDifference": -1
+        },
+        {
+          "position": 10,
+          "team": {
             "id": 1920,
             "name": "Fortuna Sittard",
             "shortName": "Sittard",
@@ -200,7 +219,7 @@
           "goalDifference": 0
         },
         {
-          "position": 9,
+          "position": 10,
           "team": {
             "id": 674,
             "name": "PSV",
@@ -219,7 +238,7 @@
           "goalDifference": 0
         },
         {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 676,
             "name": "FC Utrecht",
@@ -238,7 +257,7 @@
           "goalDifference": -1
         },
         {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 1915,
             "name": "NEC",
@@ -257,32 +276,13 @@
           "goalDifference": -1
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 666,
             "name": "FC Twente '65",
             "shortName": "Twente",
             "tla": "TWE",
             "crest": "https://crests.football-data.org/666.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 0,
-          "draw": 0,
-          "lost": 1,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 1,
-          "goalDifference": -1
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 6806,
-            "name": "Sparta Rotterdam",
-            "shortName": "Sparta",
-            "tla": "SPA",
-            "crest": "https://crests.football-data.org/6806.png"
           },
           "playedGames": 1,
           "form": null,

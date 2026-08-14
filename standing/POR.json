@@ -31,6 +31,25 @@
         {
           "position": 1,
           "team": {
+            "id": 498,
+            "name": "Sporting Clube de Portugal",
+            "shortName": "Sporting CP",
+            "tla": "SPO",
+            "crest": "https://crests.football-data.org/498.png"
+          },
+          "playedGames": 2,
+          "form": null,
+          "won": 1,
+          "draw": 1,
+          "lost": 0,
+          "points": 4,
+          "goalsFor": 5,
+          "goalsAgainst": 2,
+          "goalDifference": 3
+        },
+        {
+          "position": 2,
+          "team": {
             "id": 503,
             "name": "FC Porto",
             "shortName": "Porto",
@@ -48,7 +67,7 @@
           "goalDifference": 2
         },
         {
-          "position": 2,
+          "position": 3,
           "team": {
             "id": 5575,
             "name": "CS Marítimo",
@@ -67,7 +86,7 @@
           "goalDifference": 1
         },
         {
-          "position": 2,
+          "position": 3,
           "team": {
             "id": 712,
             "name": "FC Arouca",
@@ -86,7 +105,7 @@
           "goalDifference": 1
         },
         {
-          "position": 2,
+          "position": 3,
           "team": {
             "id": 5533,
             "name": "Gil Vicente FC",
@@ -105,7 +124,7 @@
           "goalDifference": 1
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 5527,
             "name": "Académico de Viseu FC",
@@ -124,7 +143,7 @@
           "goalDifference": 0
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 5529,
             "name": "CD Nacional",
@@ -143,7 +162,7 @@
           "goalDifference": 0
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 5530,
             "name": "CD Santa Clara",
@@ -162,7 +181,7 @@
           "goalDifference": 0
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 9136,
             "name": "CF Estrela da Amadora",
@@ -181,7 +200,7 @@
           "goalDifference": 0
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 583,
             "name": "Moreirense FC",
@@ -200,7 +219,7 @@
           "goalDifference": 0
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 1903,
             "name": "Sport Lisboa e Benfica",
@@ -219,32 +238,13 @@
           "goalDifference": 0
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 5613,
             "name": "Sporting Clube de Braga",
             "shortName": "Braga",
             "tla": "SCB",
             "crest": "https://crests.football-data.org/5613.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "points": 1,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDifference": 0
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 498,
-            "name": "Sporting Clube de Portugal",
-            "shortName": "Sporting CP",
-            "tla": "SPO",
-            "crest": "https://crests.football-data.org/498.png"
           },
           "playedGames": 1,
           "form": null,
@@ -333,26 +333,7 @@
           "goalDifference": -1
         },
         {
-          "position": 15,
-          "team": {
-            "id": 5543,
-            "name": "Vitória SC",
-            "shortName": "Vitória SC",
-            "tla": "GUI",
-            "crest": "https://crests.football-data.org/5543.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 0,
-          "draw": 0,
-          "lost": 1,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 1,
-          "goalDifference": -1
-        },
-        {
-          "position": 18,
+          "position": 17,
           "team": {
             "id": 7822,
             "name": "FC Alverca",
@@ -369,6 +350,25 @@
           "goalsFor": 0,
           "goalsAgainst": 2,
           "goalDifference": -2
+        },
+        {
+          "position": 18,
+          "team": {
+            "id": 5543,
+            "name": "Vitória SC",
+            "shortName": "Vitória SC",
+            "tla": "GUI",
+            "crest": "https://crests.football-data.org/5543.png"
+          },
+          "playedGames": 2,
+          "form": null,
+          "won": 0,
+          "draw": 0,
+          "lost": 2,
+          "points": 0,
+          "goalsFor": 0,
+          "goalsAgainst": 4,
+          "goalDifference": -4
         }
       ]
     }
