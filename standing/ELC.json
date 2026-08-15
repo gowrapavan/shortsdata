@@ -31,6 +31,44 @@
         {
           "position": 1,
           "team": {
+            "id": 59,
+            "name": "Blackburn Rovers FC",
+            "shortName": "Blackburn",
+            "tla": "BLA",
+            "crest": "https://crests.football-data.org/59.png"
+          },
+          "playedGames": 1,
+          "form": null,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "goalDifference": 0
+        },
+        {
+          "position": 1,
+          "team": {
+            "id": 76,
+            "name": "Wolverhampton Wanderers FC",
+            "shortName": "Wolverhampton",
+            "tla": "WOL",
+            "crest": "https://crests.football-data.org/76.png"
+          },
+          "playedGames": 1,
+          "form": null,
+          "won": 0,
+          "draw": 1,
+          "lost": 0,
+          "points": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "goalDifference": 0
+        },
+        {
+          "position": 3,
+          "team": {
             "id": 340,
             "name": "Southampton FC",
             "shortName": "Southampton",
@@ -48,7 +86,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 356,
             "name": "Sheffield United FC",
@@ -67,7 +105,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 69,
             "name": "Queens Park Rangers FC",
@@ -86,7 +124,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 68,
             "name": "Norwich City FC",
@@ -105,7 +143,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 1081,
             "name": "Preston North End FC",
@@ -124,7 +162,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 715,
             "name": "Cardiff City FC",
@@ -143,7 +181,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 563,
             "name": "West Ham United FC",
@@ -162,7 +200,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 325,
             "name": "Portsmouth FC",
@@ -181,7 +219,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 74,
             "name": "West Bromwich Albion FC",
@@ -200,7 +238,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 60,
             "name": "Bolton Wanderers FC",
@@ -219,26 +257,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
-          "team": {
-            "id": 59,
-            "name": "Blackburn Rovers FC",
-            "shortName": "Blackburn",
-            "tla": "BLA",
-            "crest": "https://crests.football-data.org/59.png"
-          },
-          "playedGames": 0,
-          "form": null,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 346,
             "name": "Watford FC",
@@ -257,7 +276,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 1126,
             "name": "Lincoln City FC",
@@ -276,7 +295,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 348,
             "name": "Charlton Athletic FC",
@@ -295,7 +314,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 404,
             "name": "Wrexham AFC",
@@ -314,7 +333,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 387,
             "name": "Bristol City FC",
@@ -333,7 +352,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 332,
             "name": "Birmingham City FC",
@@ -352,7 +371,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 328,
             "name": "Burnley FC",
@@ -371,7 +390,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 342,
             "name": "Derby County FC",
@@ -390,26 +409,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
-          "team": {
-            "id": 76,
-            "name": "Wolverhampton Wanderers FC",
-            "shortName": "Wolverhampton",
-            "tla": "WOL",
-            "crest": "https://crests.football-data.org/76.png"
-          },
-          "playedGames": 0,
-          "form": null,
-          "won": 0,
-          "draw": 0,
-          "lost": 0,
-          "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0
-        },
-        {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 72,
             "name": "Swansea City AFC",
@@ -428,7 +428,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 343,
             "name": "Middlesbrough FC",
@@ -447,7 +447,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 384,
             "name": "Millwall FC",
@@ -466,7 +466,7 @@
           "goalDifference": 0
         },
         {
-          "position": 1,
+          "position": 3,
           "team": {
             "id": 70,
             "name": "Stoke City FC",

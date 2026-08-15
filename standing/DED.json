@@ -31,24 +31,81 @@
         {
           "position": 1,
           "team": {
+            "id": 682,
+            "name": "AZ",
+            "shortName": "AZ",
+            "tla": "AZ",
+            "crest": "https://crests.football-data.org/682.png"
+          },
+          "playedGames": 2,
+          "form": null,
+          "won": 2,
+          "draw": 0,
+          "lost": 0,
+          "points": 6,
+          "goalsFor": 6,
+          "goalsAgainst": 1,
+          "goalDifference": 5
+        },
+        {
+          "position": 2,
+          "team": {
+            "id": 1920,
+            "name": "Fortuna Sittard",
+            "shortName": "Sittard",
+            "tla": "SIT",
+            "crest": "https://crests.football-data.org/1920.png"
+          },
+          "playedGames": 2,
+          "form": null,
+          "won": 1,
+          "draw": 1,
+          "lost": 0,
+          "points": 4,
+          "goalsFor": 4,
+          "goalsAgainst": 3,
+          "goalDifference": 1
+        },
+        {
+          "position": 2,
+          "team": {
+            "id": 674,
+            "name": "PSV",
+            "shortName": "PSV",
+            "tla": "PSV",
+            "crest": "https://crests.football-data.org/674.png"
+          },
+          "playedGames": 2,
+          "form": null,
+          "won": 1,
+          "draw": 1,
+          "lost": 0,
+          "points": 4,
+          "goalsFor": 4,
+          "goalsAgainst": 3,
+          "goalDifference": 1
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 670,
             "name": "SBV Excelsior",
             "shortName": "Excelsior",
             "tla": "EXC",
             "crest": "https://crests.football-data.org/670.png"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "form": null,
           "won": 1,
           "draw": 0,
-          "lost": 0,
+          "lost": 1,
           "points": 3,
-          "goalsFor": 4,
-          "goalsAgainst": 0,
-          "goalDifference": 4
+          "goalsFor": 5,
+          "goalsAgainst": 2,
+          "goalDifference": 3
         },
         {
-          "position": 2,
+          "position": 5,
           "team": {
             "id": 718,
             "name": "Go Ahead Eagles",
@@ -67,7 +124,26 @@
           "goalDifference": 3
         },
         {
-          "position": 3,
+          "position": 6,
+          "team": {
+            "id": 1915,
+            "name": "NEC",
+            "shortName": "NEC",
+            "tla": "NEC",
+            "crest": "https://crests.football-data.org/1915.png"
+          },
+          "playedGames": 2,
+          "form": null,
+          "won": 1,
+          "draw": 0,
+          "lost": 1,
+          "points": 3,
+          "goalsFor": 5,
+          "goalsAgainst": 3,
+          "goalDifference": 2
+        },
+        {
+          "position": 7,
           "team": {
             "id": 678,
             "name": "AFC Ajax",
@@ -86,26 +162,7 @@
           "goalDifference": 2
         },
         {
-          "position": 3,
-          "team": {
-            "id": 682,
-            "name": "AZ",
-            "shortName": "AZ",
-            "tla": "AZ",
-            "crest": "https://crests.football-data.org/682.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 1,
-          "draw": 0,
-          "lost": 0,
-          "points": 3,
-          "goalsFor": 2,
-          "goalsAgainst": 0,
-          "goalDifference": 2
-        },
-        {
-          "position": 5,
+          "position": 8,
           "team": {
             "id": 6806,
             "name": "Sparta Rotterdam",
@@ -124,7 +181,7 @@
           "goalDifference": 1
         },
         {
-          "position": 6,
+          "position": 9,
           "team": {
             "id": 677,
             "name": "FC Groningen",
@@ -143,7 +200,7 @@
           "goalDifference": 1
         },
         {
-          "position": 7,
+          "position": 10,
           "team": {
             "id": 675,
             "name": "Feyenoord Rotterdam",
@@ -162,7 +219,7 @@
           "goalDifference": 1
         },
         {
-          "position": 7,
+          "position": 10,
           "team": {
             "id": 673,
             "name": "SC Heerenveen",
@@ -181,7 +238,7 @@
           "goalDifference": 1
         },
         {
-          "position": 9,
+          "position": 12,
           "team": {
             "id": 1912,
             "name": "Telstar 1963",
@@ -200,83 +257,7 @@
           "goalDifference": -1
         },
         {
-          "position": 10,
-          "team": {
-            "id": 1920,
-            "name": "Fortuna Sittard",
-            "shortName": "Sittard",
-            "tla": "SIT",
-            "crest": "https://crests.football-data.org/1920.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "points": 1,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDifference": 0
-        },
-        {
-          "position": 10,
-          "team": {
-            "id": 674,
-            "name": "PSV",
-            "shortName": "PSV",
-            "tla": "PSV",
-            "crest": "https://crests.football-data.org/674.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "points": 1,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDifference": 0
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 676,
-            "name": "FC Utrecht",
-            "shortName": "Utrecht",
-            "tla": "UTR",
-            "crest": "https://crests.football-data.org/676.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 0,
-          "draw": 0,
-          "lost": 1,
-          "points": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 2,
-          "goalDifference": -1
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 1915,
-            "name": "NEC",
-            "shortName": "NEC",
-            "tla": "NEC",
-            "crest": "https://crests.football-data.org/1915.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 0,
-          "draw": 0,
-          "lost": 1,
-          "points": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 2,
-          "goalDifference": -1
-        },
-        {
-          "position": 14,
+          "position": 13,
           "team": {
             "id": 666,
             "name": "FC Twente '65",
@@ -295,7 +276,7 @@
           "goalDifference": -1
         },
         {
-          "position": 15,
+          "position": 14,
           "team": {
             "id": 680,
             "name": "ADO Den Haag",
@@ -314,7 +295,7 @@
           "goalDifference": -2
         },
         {
-          "position": 15,
+          "position": 14,
           "team": {
             "id": 684,
             "name": "PEC Zwolle",
@@ -333,26 +314,26 @@
           "goalDifference": -2
         },
         {
-          "position": 17,
+          "position": 16,
           "team": {
-            "id": 672,
-            "name": "Willem II Tilburg",
-            "shortName": "Willem II",
-            "tla": "WII",
-            "crest": "https://crests.football-data.org/672.png"
+            "id": 676,
+            "name": "FC Utrecht",
+            "shortName": "Utrecht",
+            "tla": "UTR",
+            "crest": "https://crests.football-data.org/676.png"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "form": null,
           "won": 0,
           "draw": 0,
-          "lost": 1,
+          "lost": 2,
           "points": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 4,
-          "goalDifference": -3
+          "goalsFor": 2,
+          "goalsAgainst": 6,
+          "goalDifference": -4
         },
         {
-          "position": 18,
+          "position": 17,
           "team": {
             "id": 1909,
             "name": "SC Cambuur-Leeuwarden",
@@ -360,15 +341,34 @@
             "tla": "CAM",
             "crest": "https://crests.football-data.org/1909.png"
           },
-          "playedGames": 1,
+          "playedGames": 2,
           "form": null,
           "won": 0,
           "draw": 0,
-          "lost": 1,
+          "lost": 2,
           "points": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 4,
-          "goalDifference": -4
+          "goalsFor": 1,
+          "goalsAgainst": 6,
+          "goalDifference": -5
+        },
+        {
+          "position": 18,
+          "team": {
+            "id": 672,
+            "name": "Willem II Tilburg",
+            "shortName": "Willem II",
+            "tla": "WII",
+            "crest": "https://crests.football-data.org/672.png"
+          },
+          "playedGames": 2,
+          "form": null,
+          "won": 0,
+          "draw": 0,
+          "lost": 2,
+          "points": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 8,
+          "goalDifference": -6
         }
       ]
     }
