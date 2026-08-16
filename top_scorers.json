@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-15T06:16:04.534620Z",
+    "last_updated": "2026-08-16T06:17:53.781965Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -10,8 +10,63 @@
         "PD": {
             "competition": "Primera Division",
             "code": "PD",
-            "count": 0,
-            "scorers": []
+            "count": 6,
+            "scorers": [
+                {
+                    "player_name": "Nahuel Tenaglia",
+                    "team_name": "Deportivo Alavés",
+                    "team_crest": "https://crests.football-data.org/263.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Argentina"
+                },
+                {
+                    "player_name": "Mariano Díaz",
+                    "team_name": "Deportivo Alavés",
+                    "team_crest": "https://crests.football-data.org/263.png",
+                    "goals": 1,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Dominican Republic"
+                },
+                {
+                    "player_name": "Mikel Rodríguez",
+                    "team_name": "Deportivo Alavés",
+                    "team_crest": "https://crests.football-data.org/263.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Spain"
+                },
+                {
+                    "player_name": "Álvaro García",
+                    "team_name": "Rayo Vallecano de Madrid",
+                    "team_crest": "https://crests.football-data.org/87.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Spain"
+                },
+                {
+                    "player_name": "Jon Guridi",
+                    "team_name": "Sevilla FC",
+                    "team_crest": "https://crests.football-data.org/559.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Spain"
+                },
+                {
+                    "player_name": "Peque",
+                    "team_name": "Sevilla FC",
+                    "team_crest": "https://crests.football-data.org/559.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Spain"
+                }
+            ]
         },
         "SA": {
             "competition": "Serie A",
@@ -46,11 +101,20 @@
                     "nationality": "Netherlands"
                 },
                 {
+                    "player_name": "Kaj Sierhuis",
+                    "team_name": "NEC",
+                    "team_crest": "https://crests.football-data.org/1915.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
                     "player_name": "Irakli Yegoian",
                     "team_name": "SBV Excelsior",
                     "team_crest": "https://crests.football-data.org/670.png",
                     "goals": 1,
-                    "assists": 1,
+                    "assists": 2,
                     "penalties": null,
                     "nationality": "Georgia"
                 },
@@ -82,20 +146,11 @@
                     "nationality": "Portugal"
                 },
                 {
-                    "player_name": "Kaj Sierhuis",
-                    "team_name": "NEC",
-                    "team_crest": "https://crests.football-data.org/1915.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Netherlands"
-                },
-                {
                     "player_name": "Devin Haen",
                     "team_name": "Willem II Tilburg",
                     "team_crest": "https://crests.football-data.org/672.png",
                     "goals": 1,
-                    "assists": null,
+                    "assists": 1,
                     "penalties": null,
                     "nationality": "Netherlands"
                 },
