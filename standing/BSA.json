@@ -81,8 +81,8 @@
           "draw": 5,
           "lost": 6,
           "points": 41,
-          "goalsFor": 30,
-          "goalsAgainst": 19,
+          "goalsFor": 31,
+          "goalsAgainst": 20,
           "goalDifference": 11
         },
         {
@@ -157,8 +157,8 @@
           "draw": 5,
           "lost": 8,
           "points": 32,
-          "goalsFor": 26,
-          "goalsAgainst": 22,
+          "goalsFor": 27,
+          "goalsAgainst": 23,
           "goalDifference": 4
         },
         {
@@ -208,18 +208,37 @@
             "tla": "COR",
             "crest": "https://crests.football-data.org/4241.png"
           },
-          "playedGames": 22,
+          "playedGames": 23,
           "form": null,
           "won": 8,
           "draw": 6,
-          "lost": 8,
+          "lost": 9,
           "points": 30,
           "goalsFor": 27,
-          "goalsAgainst": 29,
-          "goalDifference": -2
+          "goalsAgainst": 30,
+          "goalDifference": -3
         },
         {
           "position": 11,
+          "team": {
+            "id": 1776,
+            "name": "São Paulo FC",
+            "shortName": "São Paulo",
+            "tla": "PAU",
+            "crest": "https://crests.football-data.org/1776.png"
+          },
+          "playedGames": 22,
+          "form": null,
+          "won": 8,
+          "draw": 5,
+          "lost": 9,
+          "points": 29,
+          "goalsFor": 27,
+          "goalsAgainst": 25,
+          "goalDifference": 2
+        },
+        {
+          "position": 12,
           "team": {
             "id": 1766,
             "name": "CA Mineiro",
@@ -236,25 +255,6 @@
           "goalsFor": 27,
           "goalsAgainst": 27,
           "goalDifference": 0
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 1776,
-            "name": "São Paulo FC",
-            "shortName": "São Paulo",
-            "tla": "PAU",
-            "crest": "https://crests.football-data.org/1776.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 7,
-          "draw": 5,
-          "lost": 9,
-          "points": 26,
-          "goalsFor": 26,
-          "goalsAgainst": 25,
-          "goalDifference": 1
         },
         {
           "position": 13,
