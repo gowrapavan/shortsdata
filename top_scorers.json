@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-16T06:17:53.781965Z",
+    "last_updated": "2026-08-17T06:26:37.812530Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -10,8 +10,17 @@
         "PD": {
             "competition": "Primera Division",
             "code": "PD",
-            "count": 6,
+            "count": 10,
             "scorers": [
+                {
+                    "player_name": "Roberto Fernández",
+                    "team_name": "RCD Espanyol de Barcelona",
+                    "team_crest": "https://crests.football-data.org/80.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Spain"
+                },
                 {
                     "player_name": "Nahuel Tenaglia",
                     "team_name": "Deportivo Alavés",
@@ -65,6 +74,33 @@
                     "assists": null,
                     "penalties": 1,
                     "nationality": "Spain"
+                },
+                {
+                    "player_name": "Andrés Martín",
+                    "team_name": "Real Racing Club de Santander",
+                    "team_crest": "https://crests.football-data.org/5335.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Spain"
+                },
+                {
+                    "player_name": "Sergio Martínez",
+                    "team_name": "Real Racing Club de Santander",
+                    "team_crest": "https://crests.football-data.org/5335.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Spain"
+                },
+                {
+                    "player_name": "Pape Gueye",
+                    "team_name": "Villarreal CF",
+                    "team_crest": "https://crests.football-data.org/94.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Senegal"
                 }
             ]
         },
@@ -106,6 +142,33 @@
                     "team_crest": "https://crests.football-data.org/1915.png",
                     "goals": 2,
                     "assists": null,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Søren Tengstedt",
+                    "team_name": "Go Ahead Eagles",
+                    "team_crest": "https://crests.football-data.org/718.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Denmark"
+                },
+                {
+                    "player_name": "Brynjolfur Darri Willumsson",
+                    "team_name": "FC Groningen",
+                    "team_crest": "https://crests.football-data.org/677.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Iceland"
+                },
+                {
+                    "player_name": "Thom van Bergen",
+                    "team_name": "FC Groningen",
+                    "team_crest": "https://crests.football-data.org/677.png",
+                    "goals": 2,
+                    "assists": 1,
                     "penalties": null,
                     "nationality": "Netherlands"
                 },
@@ -153,33 +216,6 @@
                     "assists": 1,
                     "penalties": null,
                     "nationality": "Netherlands"
-                },
-                {
-                    "player_name": "Søren Tengstedt",
-                    "team_name": "Go Ahead Eagles",
-                    "team_crest": "https://crests.football-data.org/718.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Denmark"
-                },
-                {
-                    "player_name": "Melle  Meulensteen",
-                    "team_name": "Go Ahead Eagles",
-                    "team_crest": "https://crests.football-data.org/718.png",
-                    "goals": 1,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "Netherlands"
-                },
-                {
-                    "player_name": "Erik Flataker",
-                    "team_name": "Go Ahead Eagles",
-                    "team_crest": "https://crests.football-data.org/718.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Norway"
                 }
             ]
         },
