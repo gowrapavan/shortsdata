@@ -31,6 +31,25 @@
         {
           "position": 1,
           "team": {
+            "id": 263,
+            "name": "Deportivo Alavés",
+            "shortName": "Alavés",
+            "tla": "ALA",
+            "crest": "https://crests.football-data.org/263.png"
+          },
+          "playedGames": 2,
+          "form": null,
+          "won": 1,
+          "draw": 1,
+          "lost": 0,
+          "points": 4,
+          "goalsFor": 4,
+          "goalsAgainst": 1,
+          "goalDifference": 3
+        },
+        {
+          "position": 2,
+          "team": {
             "id": 80,
             "name": "RCD Espanyol de Barcelona",
             "shortName": "Espanyol",
@@ -46,25 +65,6 @@
           "goalsFor": 3,
           "goalsAgainst": 0,
           "goalDifference": 3
-        },
-        {
-          "position": 2,
-          "team": {
-            "id": 263,
-            "name": "Deportivo Alavés",
-            "shortName": "Alavés",
-            "tla": "ALA",
-            "crest": "https://crests.football-data.org/263.png"
-          },
-          "playedGames": 2,
-          "form": null,
-          "won": 1,
-          "draw": 0,
-          "lost": 1,
-          "points": 3,
-          "goalsFor": 3,
-          "goalsAgainst": 1,
-          "goalDifference": 2
         },
         {
           "position": 3,
@@ -107,25 +107,6 @@
         {
           "position": 5,
           "team": {
-            "id": 87,
-            "name": "Rayo Vallecano de Madrid",
-            "shortName": "Rayo Vallecano",
-            "tla": "RAY",
-            "crest": "https://crests.football-data.org/87.png"
-          },
-          "playedGames": 2,
-          "form": null,
-          "won": 1,
-          "draw": 0,
-          "lost": 1,
-          "points": 3,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDifference": 0
-        },
-        {
-          "position": 6,
-          "team": {
             "id": 5335,
             "name": "Real Racing Club de Santander",
             "shortName": "Santander",
@@ -143,7 +124,7 @@
           "goalDifference": 0
         },
         {
-          "position": 6,
+          "position": 5,
           "team": {
             "id": 94,
             "name": "Villarreal CF",
@@ -162,7 +143,7 @@
           "goalDifference": 0
         },
         {
-          "position": 8,
+          "position": 7,
           "team": {
             "id": 560,
             "name": "RC Deportivo La Coruña",
@@ -181,7 +162,7 @@
           "goalDifference": 0
         },
         {
-          "position": 8,
+          "position": 7,
           "team": {
             "id": 285,
             "name": "Elche CF",
@@ -198,6 +179,25 @@
           "goalsFor": 1,
           "goalsAgainst": 1,
           "goalDifference": 0
+        },
+        {
+          "position": 9,
+          "team": {
+            "id": 87,
+            "name": "Rayo Vallecano de Madrid",
+            "shortName": "Rayo Vallecano",
+            "tla": "RAY",
+            "crest": "https://crests.football-data.org/87.png"
+          },
+          "playedGames": 2,
+          "form": null,
+          "won": 0,
+          "draw": 1,
+          "lost": 1,
+          "points": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "goalDifference": -1
         },
         {
           "position": 10,
