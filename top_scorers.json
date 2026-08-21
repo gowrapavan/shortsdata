@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-20T06:22:09.064194Z",
+    "last_updated": "2026-08-21T06:22:10.098263Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -12,6 +12,15 @@
             "code": "PD",
             "count": 10,
             "scorers": [
+                {
+                    "player_name": "Mariano Díaz",
+                    "team_name": "Deportivo Alavés",
+                    "team_crest": "https://crests.football-data.org/263.png",
+                    "goals": 2,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Dominican Republic"
+                },
                 {
                     "player_name": "Roberto Fernández",
                     "team_name": "RCD Espanyol de Barcelona",
@@ -29,15 +38,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Argentina"
-                },
-                {
-                    "player_name": "Mariano Díaz",
-                    "team_name": "Deportivo Alavés",
-                    "team_crest": "https://crests.football-data.org/263.png",
-                    "goals": 1,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Dominican Republic"
                 },
                 {
                     "player_name": "Mikel Rodríguez",
