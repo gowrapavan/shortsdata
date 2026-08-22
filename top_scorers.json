@@ -1,11 +1,39 @@
 {
-    "last_updated": "2026-08-21T06:22:10.098263Z",
+    "last_updated": "2026-08-22T06:17:14.415052Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
             "code": "PL",
-            "count": 0,
-            "scorers": []
+            "count": 3,
+            "scorers": [
+                {
+                    "player_name": "Kai Havertz",
+                    "team_name": "Arsenal FC",
+                    "team_crest": "https://crests.football-data.org/57.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Germany"
+                },
+                {
+                    "player_name": "Bukayo Saka",
+                    "team_name": "Arsenal FC",
+                    "team_crest": "https://crests.football-data.org/57.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "England"
+                },
+                {
+                    "player_name": "Martin Ødegaard",
+                    "team_name": "Arsenal FC",
+                    "team_crest": "https://crests.football-data.org/57.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Norway"
+                }
+            ]
         },
         "PD": {
             "competition": "Primera Division",
@@ -119,8 +147,36 @@
         "FL1": {
             "competition": "Ligue 1",
             "code": "FL1",
-            "count": 0,
-            "scorers": []
+            "count": 3,
+            "scorers": [
+                {
+                    "player_name": "Amine Gouiri",
+                    "team_name": "Olympique de Marseille",
+                    "team_crest": "https://crests.football-data.org/516.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Algeria"
+                },
+                {
+                    "player_name": "Keyliane Abdallah",
+                    "team_name": "Olympique de Marseille",
+                    "team_crest": "https://crests.football-data.org/516.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "France"
+                },
+                {
+                    "player_name": "Pierre Emile Højbjerg",
+                    "team_name": "Olympique de Marseille",
+                    "team_crest": "https://crests.football-data.org/516.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Denmark"
+                }
+            ]
         },
         "DED": {
             "competition": "Eredivisie",
