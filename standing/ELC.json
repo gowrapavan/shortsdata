@@ -50,6 +50,25 @@
         {
           "position": 2,
           "team": {
+            "id": 74,
+            "name": "West Bromwich Albion FC",
+            "shortName": "West Brom",
+            "tla": "WBA",
+            "crest": "https://crests.football-data.org/74.png"
+          },
+          "playedGames": 2,
+          "form": null,
+          "won": 2,
+          "draw": 0,
+          "lost": 0,
+          "points": 6,
+          "goalsFor": 5,
+          "goalsAgainst": 2,
+          "goalDifference": 3
+        },
+        {
+          "position": 3,
+          "team": {
             "id": 348,
             "name": "Charlton Athletic FC",
             "shortName": "Charlton",
@@ -67,7 +86,7 @@
           "goalDifference": 2
         },
         {
-          "position": 3,
+          "position": 4,
           "team": {
             "id": 76,
             "name": "Wolverhampton Wanderers FC",
@@ -86,7 +105,7 @@
           "goalDifference": 2
         },
         {
-          "position": 4,
+          "position": 5,
           "team": {
             "id": 69,
             "name": "Queens Park Rangers FC",
@@ -105,7 +124,7 @@
           "goalDifference": 2
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 59,
             "name": "Blackburn Rovers FC",
@@ -124,7 +143,7 @@
           "goalDifference": 1
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 346,
             "name": "Watford FC",
@@ -143,7 +162,7 @@
           "goalDifference": 1
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 60,
             "name": "Bolton Wanderers FC",
@@ -162,7 +181,7 @@
           "goalDifference": 1
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 72,
             "name": "Swansea City AFC",
@@ -181,7 +200,7 @@
           "goalDifference": 1
         },
         {
-          "position": 9,
+          "position": 10,
           "team": {
             "id": 340,
             "name": "Southampton FC",
@@ -197,25 +216,6 @@
           "points": 3,
           "goalsFor": 4,
           "goalsAgainst": 3,
-          "goalDifference": 1
-        },
-        {
-          "position": 10,
-          "team": {
-            "id": 74,
-            "name": "West Bromwich Albion FC",
-            "shortName": "West Brom",
-            "tla": "WBA",
-            "crest": "https://crests.football-data.org/74.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 1,
-          "draw": 0,
-          "lost": 0,
-          "points": 3,
-          "goalsFor": 2,
-          "goalsAgainst": 1,
           "goalDifference": 1
         },
         {
@@ -335,25 +335,6 @@
         {
           "position": 17,
           "team": {
-            "id": 328,
-            "name": "Burnley FC",
-            "shortName": "Burnley",
-            "tla": "BUR",
-            "crest": "https://crests.football-data.org/328.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 0,
-          "draw": 1,
-          "lost": 0,
-          "points": 1,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDifference": 0
-        },
-        {
-          "position": 18,
-          "team": {
             "id": 342,
             "name": "Derby County FC",
             "shortName": "Derby County",
@@ -371,7 +352,7 @@
           "goalDifference": -1
         },
         {
-          "position": 18,
+          "position": 17,
           "team": {
             "id": 563,
             "name": "West Ham United FC",
@@ -388,6 +369,25 @@
           "goalsFor": 3,
           "goalsAgainst": 4,
           "goalDifference": -1
+        },
+        {
+          "position": 19,
+          "team": {
+            "id": 328,
+            "name": "Burnley FC",
+            "shortName": "Burnley",
+            "tla": "BUR",
+            "crest": "https://crests.football-data.org/328.png"
+          },
+          "playedGames": 2,
+          "form": null,
+          "won": 0,
+          "draw": 1,
+          "lost": 1,
+          "points": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 5,
+          "goalDifference": -2
         },
         {
           "position": 20,
