@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 81,
+            "name": "FC Barcelona",
+            "shortName": "Barça",
+            "tla": "FCB",
+            "crest": "https://crests.football-data.org/81.png"
+          },
+          "playedGames": 1,
+          "form": null,
+          "won": 1,
+          "draw": 0,
+          "lost": 0,
+          "points": 3,
+          "goalsFor": 5,
+          "goalsAgainst": 0,
+          "goalDifference": 5
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 80,
             "name": "RCD Espanyol de Barcelona",
             "shortName": "Espanyol",
@@ -105,7 +124,7 @@
           "goalDifference": 2
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 86,
             "name": "Real Madrid CF",
@@ -124,26 +143,7 @@
           "goalDifference": 1
         },
         {
-          "position": 6,
-          "team": {
-            "id": 81,
-            "name": "FC Barcelona",
-            "shortName": "Barça",
-            "tla": "FCB",
-            "crest": "https://crests.football-data.org/81.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 1,
-          "draw": 0,
-          "lost": 0,
-          "points": 3,
-          "goalsFor": 1,
-          "goalsAgainst": 0,
-          "goalDifference": 1
-        },
-        {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 90,
             "name": "Real Betis Balompié",
@@ -310,8 +310,8 @@
           "lost": 1,
           "points": 1,
           "goalsFor": 1,
-          "goalsAgainst": 2,
-          "goalDifference": -1
+          "goalsAgainst": 6,
+          "goalDifference": -5
         },
         {
           "position": 16,
