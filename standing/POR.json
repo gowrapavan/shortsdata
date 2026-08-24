@@ -126,6 +126,25 @@
         {
           "position": 6,
           "team": {
+            "id": 5533,
+            "name": "Gil Vicente FC",
+            "shortName": "Gil Vicente",
+            "tla": "GIL",
+            "crest": "https://crests.football-data.org/5533.png"
+          },
+          "playedGames": 2,
+          "form": null,
+          "won": 2,
+          "draw": 0,
+          "lost": 0,
+          "points": 6,
+          "goalsFor": 3,
+          "goalsAgainst": 0,
+          "goalDifference": 3
+        },
+        {
+          "position": 7,
+          "team": {
             "id": 1903,
             "name": "Sport Lisboa e Benfica",
             "shortName": "SL Benfica",
@@ -143,7 +162,7 @@
           "goalDifference": 7
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 5529,
             "name": "CD Nacional",
@@ -159,25 +178,6 @@
           "points": 4,
           "goalsFor": 4,
           "goalsAgainst": 3,
-          "goalDifference": 1
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 5533,
-            "name": "Gil Vicente FC",
-            "shortName": "Gil Vicente",
-            "tla": "GIL",
-            "crest": "https://crests.football-data.org/5533.png"
-          },
-          "playedGames": 1,
-          "form": null,
-          "won": 1,
-          "draw": 0,
-          "lost": 0,
-          "points": 3,
-          "goalsFor": 1,
-          "goalsAgainst": 0,
           "goalDifference": 1
         },
         {
@@ -360,15 +360,15 @@
             "tla": "CAS",
             "crest": "https://crests.football-data.org/6618.png"
           },
-          "playedGames": 2,
+          "playedGames": 3,
           "form": null,
           "won": 0,
           "draw": 0,
-          "lost": 2,
+          "lost": 3,
           "points": 0,
           "goalsFor": 0,
-          "goalsAgainst": 8,
-          "goalDifference": -8
+          "goalsAgainst": 10,
+          "goalDifference": -10
         }
       ]
     }
