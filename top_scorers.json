@@ -1,11 +1,20 @@
 {
-    "last_updated": "2026-08-23T06:18:43.194529Z",
+    "last_updated": "2026-08-24T06:30:58.681916Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
             "code": "PL",
             "count": 10,
             "scorers": [
+                {
+                    "player_name": "Jack Hinshelwood",
+                    "team_name": "Brighton & Hove Albion FC",
+                    "team_crest": "https://crests.football-data.org/397.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "England"
+                },
                 {
                     "player_name": "Kai Havertz",
                     "team_name": "Arsenal FC",
@@ -86,15 +95,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Germany"
-                },
-                {
-                    "player_name": "Kiernan Dewsbury Hall",
-                    "team_name": "Everton FC",
-                    "team_crest": "https://crests.football-data.org/62.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "England"
                 }
             ]
         },
@@ -116,6 +116,24 @@
                     "player_name": "Roberto Fernández",
                     "team_name": "RCD Espanyol de Barcelona",
                     "team_crest": "https://crests.football-data.org/80.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Spain"
+                },
+                {
+                    "player_name": "Raphinha",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Brazil"
+                },
+                {
+                    "player_name": "Fermín López",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
                     "goals": 2,
                     "assists": null,
                     "penalties": null,
@@ -174,24 +192,6 @@
                     "assists": null,
                     "penalties": 1,
                     "nationality": "Spain"
-                },
-                {
-                    "player_name": "Sergio Martínez",
-                    "team_name": "Real Racing Club de Santander",
-                    "team_crest": "https://crests.football-data.org/5335.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Spain"
-                },
-                {
-                    "player_name": "Pape Gueye",
-                    "team_name": "Villarreal CF",
-                    "team_crest": "https://crests.football-data.org/94.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Senegal"
                 }
             ]
         },
@@ -322,6 +322,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Ferrán Torres",
+                    "team_name": "Paris Saint-Germain FC",
+                    "team_crest": "https://crests.football-data.org/524.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Spain"
+                },
+                {
                     "player_name": "Keyliane Abdallah",
                     "team_name": "Olympique de Marseille",
                     "team_crest": "https://crests.football-data.org/516.png",
@@ -383,15 +392,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Romain Del Castillo",
-                    "team_name": "Stade Brestois 29",
-                    "team_crest": "https://crests.football-data.org/512.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "France"
                 }
             ]
         },
@@ -400,6 +400,42 @@
             "code": "DED",
             "count": 10,
             "scorers": [
+                {
+                    "player_name": "Søren Tengstedt",
+                    "team_name": "Go Ahead Eagles",
+                    "team_crest": "https://crests.football-data.org/718.png",
+                    "goals": 3,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Denmark"
+                },
+                {
+                    "player_name": "Brynjolfur Darri Willumsson",
+                    "team_name": "FC Groningen",
+                    "team_crest": "https://crests.football-data.org/677.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Iceland"
+                },
+                {
+                    "player_name": "Rafik el Arguioui",
+                    "team_name": "SC Cambuur-Leeuwarden",
+                    "team_crest": "https://crests.football-data.org/1909.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Gjivai Zechiël",
+                    "team_name": "Feyenoord Rotterdam",
+                    "team_crest": "https://crests.football-data.org/675.png",
+                    "goals": 3,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
                 {
                     "player_name": "Noah Naujoks",
                     "team_name": "SBV Excelsior",
@@ -419,29 +455,20 @@
                     "nationality": "Netherlands"
                 },
                 {
-                    "player_name": "Søren Tengstedt",
-                    "team_name": "Go Ahead Eagles",
-                    "team_crest": "https://crests.football-data.org/718.png",
+                    "player_name": "Luciano Valente",
+                    "team_name": "Feyenoord Rotterdam",
+                    "team_crest": "https://crests.football-data.org/675.png",
                     "goals": 2,
                     "assists": null,
                     "penalties": null,
-                    "nationality": "Denmark"
-                },
-                {
-                    "player_name": "Brynjolfur Darri Willumsson",
-                    "team_name": "FC Groningen",
-                    "team_crest": "https://crests.football-data.org/677.png",
-                    "goals": 2,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Iceland"
+                    "nationality": "Netherlands"
                 },
                 {
                     "player_name": "Thom van Bergen",
                     "team_name": "FC Groningen",
                     "team_crest": "https://crests.football-data.org/677.png",
                     "goals": 2,
-                    "assists": 1,
+                    "assists": 2,
                     "penalties": null,
                     "nationality": "Netherlands"
                 },
@@ -458,33 +485,6 @@
                     "player_name": "Marvin Young",
                     "team_name": "Sparta Rotterdam",
                     "team_crest": "https://crests.football-data.org/6806.png",
-                    "goals": 2,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Netherlands"
-                },
-                {
-                    "player_name": "Milan Zonneveld",
-                    "team_name": "Sparta Rotterdam",
-                    "team_crest": "https://crests.football-data.org/6806.png",
-                    "goals": 2,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Netherlands"
-                },
-                {
-                    "player_name": "Artem Stepanov",
-                    "team_name": "FC Utrecht",
-                    "team_crest": "https://crests.football-data.org/676.png",
-                    "goals": 2,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Ukraine"
-                },
-                {
-                    "player_name": "Jizz Hornkamp",
-                    "team_name": "AZ",
-                    "team_crest": "https://crests.football-data.org/682.png",
                     "goals": 2,
                     "assists": null,
                     "penalties": null,
