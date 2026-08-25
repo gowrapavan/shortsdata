@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-24T06:30:58.681916Z",
+    "last_updated": "2026-08-25T06:22:34.122477Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -122,6 +122,15 @@
                     "nationality": "Spain"
                 },
                 {
+                    "player_name": "Pierre-Emerick Aubameyang",
+                    "team_name": "RC Deportivo La Coruña",
+                    "team_crest": "https://crests.football-data.org/560.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Gabon"
+                },
+                {
                     "player_name": "Raphinha",
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
@@ -183,15 +192,6 @@
                     "assists": null,
                     "penalties": 1,
                     "nationality": "Spain"
-                },
-                {
-                    "player_name": "Andrés Martín",
-                    "team_name": "Real Racing Club de Santander",
-                    "team_crest": "https://crests.football-data.org/5335.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "Spain"
                 }
             ]
         },
@@ -200,6 +200,15 @@
             "code": "SA",
             "count": 10,
             "scorers": [
+                {
+                    "player_name": "Donyell Malen",
+                    "team_name": "AS Roma",
+                    "team_crest": "https://crests.football-data.org/100.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
                 {
                     "player_name": "Hassane Kamara",
                     "team_name": "Udinese Calcio",
@@ -280,15 +289,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Italy"
-                },
-                {
-                    "player_name": "Alessandro Romano",
-                    "team_name": "Cagliari Calcio",
-                    "team_crest": "https://crests.football-data.org/104.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Switzerland"
                 }
             ]
         },
