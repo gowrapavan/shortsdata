@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-26T06:24:36.732728Z",
+    "last_updated": "2026-08-27T16:56:48.228556Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -104,6 +104,15 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Kylian Mbappé",
+                    "team_name": "Real Madrid CF",
+                    "team_crest": "https://crests.football-data.org/86.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Mariano Díaz",
                     "team_name": "Deportivo Alavés",
                     "team_crest": "https://crests.football-data.org/263.png",
@@ -177,15 +186,6 @@
                 },
                 {
                     "player_name": "Jon Guridi",
-                    "team_name": "Sevilla FC",
-                    "team_crest": "https://crests.football-data.org/559.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "Spain"
-                },
-                {
-                    "player_name": "Peque",
                     "team_name": "Sevilla FC",
                     "team_crest": "https://crests.football-data.org/559.png",
                     "goals": 1,
