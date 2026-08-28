@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-27T16:56:48.228556Z",
+    "last_updated": "2026-08-28T17:46:50.071589Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -104,6 +104,24 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Raphinha",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Brazil"
+                },
+                {
+                    "player_name": "Fermín López",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Spain"
+                },
+                {
                     "player_name": "Kylian Mbappé",
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
@@ -111,6 +129,15 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "France"
+                },
+                {
+                    "player_name": "Yassir Zabiri",
+                    "team_name": "Real Racing Club de Santander",
+                    "team_crest": "https://crests.football-data.org/5335.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Morocco"
                 },
                 {
                     "player_name": "Mariano Díaz",
@@ -140,24 +167,6 @@
                     "nationality": "Gabon"
                 },
                 {
-                    "player_name": "Raphinha",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 2,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "Brazil"
-                },
-                {
-                    "player_name": "Fermín López",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 2,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Spain"
-                },
-                {
                     "player_name": "Nahuel Tenaglia",
                     "team_name": "Deportivo Alavés",
                     "team_crest": "https://crests.football-data.org/263.png",
@@ -182,15 +191,6 @@
                     "goals": 1,
                     "assists": null,
                     "penalties": null,
-                    "nationality": "Spain"
-                },
-                {
-                    "player_name": "Jon Guridi",
-                    "team_name": "Sevilla FC",
-                    "team_crest": "https://crests.football-data.org/559.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": 1,
                     "nationality": "Spain"
                 }
             ]
