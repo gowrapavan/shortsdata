@@ -31,6 +31,25 @@
         {
           "position": 1,
           "team": {
+            "id": 498,
+            "name": "Sporting Clube de Portugal",
+            "shortName": "Sporting CP",
+            "tla": "SPO",
+            "crest": "https://crests.football-data.org/498.png"
+          },
+          "playedGames": 4,
+          "form": null,
+          "won": 3,
+          "draw": 1,
+          "lost": 0,
+          "points": 10,
+          "goalsFor": 12,
+          "goalsAgainst": 5,
+          "goalDifference": 7
+        },
+        {
+          "position": 2,
+          "team": {
             "id": 503,
             "name": "FC Porto",
             "shortName": "Porto",
@@ -46,25 +65,6 @@
           "goalsFor": 6,
           "goalsAgainst": 0,
           "goalDifference": 6
-        },
-        {
-          "position": 2,
-          "team": {
-            "id": 498,
-            "name": "Sporting Clube de Portugal",
-            "shortName": "Sporting CP",
-            "tla": "SPO",
-            "crest": "https://crests.football-data.org/498.png"
-          },
-          "playedGames": 3,
-          "form": null,
-          "won": 2,
-          "draw": 1,
-          "lost": 0,
-          "points": 7,
-          "goalsFor": 8,
-          "goalsAgainst": 5,
-          "goalDifference": 3
         },
         {
           "position": 3,
@@ -208,15 +208,15 @@
             "tla": "RIO",
             "crest": "https://crests.football-data.org/496.png"
           },
-          "playedGames": 3,
+          "playedGames": 4,
           "form": null,
           "won": 1,
           "draw": 0,
-          "lost": 2,
+          "lost": 3,
           "points": 3,
           "goalsFor": 2,
-          "goalsAgainst": 3,
-          "goalDifference": -1
+          "goalsAgainst": 7,
+          "goalDifference": -5
         },
         {
           "position": 11,

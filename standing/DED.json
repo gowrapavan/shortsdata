@@ -107,24 +107,43 @@
         {
           "position": 5,
           "team": {
+            "id": 1920,
+            "name": "Fortuna Sittard",
+            "shortName": "Sittard",
+            "tla": "SIT",
+            "crest": "https://crests.football-data.org/1920.png"
+          },
+          "playedGames": 4,
+          "form": null,
+          "won": 2,
+          "draw": 1,
+          "lost": 1,
+          "points": 7,
+          "goalsFor": 8,
+          "goalsAgainst": 7,
+          "goalDifference": 1
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 677,
             "name": "FC Groningen",
             "shortName": "Groningen",
             "tla": "GRO",
             "crest": "https://crests.football-data.org/677.png"
           },
-          "playedGames": 3,
+          "playedGames": 4,
           "form": null,
           "won": 2,
           "draw": 0,
-          "lost": 1,
+          "lost": 2,
           "points": 6,
-          "goalsFor": 7,
-          "goalsAgainst": 7,
-          "goalDifference": 0
+          "goalsFor": 9,
+          "goalsAgainst": 10,
+          "goalDifference": -1
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 678,
             "name": "AFC Ajax",
@@ -143,7 +162,7 @@
           "goalDifference": 2
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 6806,
             "name": "Sparta Rotterdam",
@@ -160,25 +179,6 @@
           "goalsFor": 6,
           "goalsAgainst": 5,
           "goalDifference": 1
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 1920,
-            "name": "Fortuna Sittard",
-            "shortName": "Sittard",
-            "tla": "SIT",
-            "crest": "https://crests.football-data.org/1920.png"
-          },
-          "playedGames": 3,
-          "form": null,
-          "won": 1,
-          "draw": 1,
-          "lost": 1,
-          "points": 4,
-          "goalsFor": 5,
-          "goalsAgainst": 5,
-          "goalDifference": 0
         },
         {
           "position": 9,
