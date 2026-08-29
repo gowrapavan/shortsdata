@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-28T17:46:50.071589Z",
+    "last_updated": "2026-08-29T11:51:09.307823Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -14,6 +14,24 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "England"
+                },
+                {
+                    "player_name": "Erling Haaland",
+                    "team_name": "Manchester City FC",
+                    "team_crest": "https://crests.football-data.org/65.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Norway"
+                },
+                {
+                    "player_name": "Rayan Cherki",
+                    "team_name": "Manchester City FC",
+                    "team_crest": "https://crests.football-data.org/65.png",
+                    "goals": 2,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "France"
                 },
                 {
                     "player_name": "Kai Havertz",
@@ -77,24 +95,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Ecuador"
-                },
-                {
-                    "player_name": "Jack Clarke",
-                    "team_name": "Ipswich Town FC",
-                    "team_crest": "https://crests.football-data.org/349.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "England"
-                },
-                {
-                    "player_name": "Anton Stach",
-                    "team_name": "Leeds United FC",
-                    "team_crest": "https://crests.football-data.org/341.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Germany"
                 }
             ]
         },
@@ -129,15 +129,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Yassir Zabiri",
-                    "team_name": "Real Racing Club de Santander",
-                    "team_crest": "https://crests.football-data.org/5335.png",
-                    "goals": 3,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Morocco"
                 },
                 {
                     "player_name": "Mariano Díaz",
@@ -191,6 +182,15 @@
                     "goals": 1,
                     "assists": null,
                     "penalties": null,
+                    "nationality": "Spain"
+                },
+                {
+                    "player_name": "Jon Guridi",
+                    "team_name": "Sevilla FC",
+                    "team_crest": "https://crests.football-data.org/559.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": 1,
                     "nationality": "Spain"
                 }
             ]
@@ -295,8 +295,54 @@
         "BL1": {
             "competition": "Bundesliga",
             "code": "BL1",
-            "count": 0,
-            "scorers": []
+            "count": 5,
+            "scorers": [
+                {
+                    "player_name": "Dayot Upamecano",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "France"
+                },
+                {
+                    "player_name": "Josha Vagnoman",
+                    "team_name": "VfB Stuttgart",
+                    "team_crest": "https://crests.football-data.org/10.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Germany"
+                },
+                {
+                    "player_name": "Michael Olise",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "France"
+                },
+                {
+                    "player_name": "Aleksandar Pavlović",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Germany"
+                },
+                {
+                    "player_name": "Luis Díaz",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Colombia"
+                }
+            ]
         },
         "FL1": {
             "competition": "Ligue 1",
