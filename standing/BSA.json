@@ -43,8 +43,8 @@
           "draw": 7,
           "lost": 3,
           "points": 52,
-          "goalsFor": 44,
-          "goalsAgainst": 20,
+          "goalsFor": 45,
+          "goalsAgainst": 21,
           "goalDifference": 24
         },
         {
@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 1777,
+            "name": "EC Bahia",
+            "shortName": "Bahia",
+            "tla": "BAH",
+            "crest": "https://crests.football-data.org/1777.png"
+          },
+          "playedGames": 25,
+          "form": null,
+          "won": 10,
+          "draw": 10,
+          "lost": 5,
+          "points": 40,
+          "goalsFor": 37,
+          "goalsAgainst": 30,
+          "goalDifference": 7
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 1771,
             "name": "Cruzeiro EC",
             "shortName": "Cruzeiro",
@@ -122,25 +141,6 @@
           "goalsFor": 35,
           "goalsAgainst": 36,
           "goalDifference": -1
-        },
-        {
-          "position": 6,
-          "team": {
-            "id": 1777,
-            "name": "EC Bahia",
-            "shortName": "Bahia",
-            "tla": "BAH",
-            "crest": "https://crests.football-data.org/1777.png"
-          },
-          "playedGames": 24,
-          "form": null,
-          "won": 9,
-          "draw": 10,
-          "lost": 5,
-          "points": 37,
-          "goalsFor": 34,
-          "goalsAgainst": 28,
-          "goalDifference": 6
         },
         {
           "position": 7,
@@ -309,9 +309,9 @@
           "draw": 7,
           "lost": 10,
           "points": 28,
-          "goalsFor": 26,
+          "goalsFor": 27,
           "goalsAgainst": 32,
-          "goalDifference": -6
+          "goalDifference": -5
         },
         {
           "position": 16,
@@ -328,8 +328,8 @@
           "draw": 7,
           "lost": 11,
           "points": 25,
-          "goalsFor": 26,
-          "goalsAgainst": 36,
+          "goalsFor": 27,
+          "goalsAgainst": 37,
           "goalDifference": -10
         },
         {
@@ -360,15 +360,15 @@
             "tla": "SCI",
             "crest": "https://crests.football-data.org/6684.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
           "won": 5,
           "draw": 10,
-          "lost": 9,
+          "lost": 10,
           "points": 25,
-          "goalsFor": 24,
-          "goalsAgainst": 28,
-          "goalDifference": -4
+          "goalsFor": 26,
+          "goalsAgainst": 31,
+          "goalDifference": -5
         },
         {
           "position": 19,
@@ -405,8 +405,8 @@
           "lost": 14,
           "points": 14,
           "goalsFor": 25,
-          "goalsAgainst": 48,
-          "goalDifference": -23
+          "goalsAgainst": 49,
+          "goalDifference": -24
         }
       ]
     }
