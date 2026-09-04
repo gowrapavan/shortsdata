@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 6806,
+            "name": "Sparta Rotterdam",
+            "shortName": "Sparta",
+            "tla": "SPA",
+            "crest": "https://crests.football-data.org/6806.png"
+          },
+          "playedGames": 5,
+          "form": null,
+          "won": 1,
+          "draw": 2,
+          "lost": 2,
+          "points": 5,
+          "goalsFor": 9,
+          "goalsAgainst": 9,
+          "goalDifference": 0
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 673,
             "name": "SC Heerenveen",
             "shortName": "Heerenveen",
@@ -238,25 +257,6 @@
           "goalDifference": -1
         },
         {
-          "position": 12,
-          "team": {
-            "id": 6806,
-            "name": "Sparta Rotterdam",
-            "shortName": "Sparta",
-            "tla": "SPA",
-            "crest": "https://crests.football-data.org/6806.png"
-          },
-          "playedGames": 4,
-          "form": null,
-          "won": 1,
-          "draw": 1,
-          "lost": 2,
-          "points": 4,
-          "goalsFor": 7,
-          "goalsAgainst": 7,
-          "goalDifference": 0
-        },
-        {
           "position": 13,
           "team": {
             "id": 684,
@@ -265,14 +265,14 @@
             "tla": "ZWO",
             "crest": "https://crests.football-data.org/684.png"
           },
-          "playedGames": 4,
+          "playedGames": 5,
           "form": null,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 3,
-          "points": 3,
-          "goalsFor": 4,
-          "goalsAgainst": 8,
+          "points": 4,
+          "goalsFor": 6,
+          "goalsAgainst": 10,
           "goalDifference": -4
         },
         {
