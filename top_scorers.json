@@ -1,11 +1,20 @@
 {
-    "last_updated": "2026-09-04T10:02:47.560234Z",
+    "last_updated": "2026-09-05T09:32:19.630245Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
             "code": "PL",
             "count": 10,
             "scorers": [
+                {
+                    "player_name": "Alexander Isak",
+                    "team_name": "Liverpool FC",
+                    "team_crest": "https://crests.football-data.org/64.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Sweden"
+                },
                 {
                     "player_name": "Bruno Fernandes",
                     "team_name": "Manchester United FC",
@@ -86,15 +95,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Germany"
-                },
-                {
-                    "player_name": "Martin Ødegaard",
-                    "team_name": "Arsenal FC",
-                    "team_crest": "https://crests.football-data.org/57.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Norway"
                 }
             ]
         },
@@ -264,6 +264,24 @@
                     "nationality": "Italy"
                 },
                 {
+                    "player_name": "Martin Baturina",
+                    "team_name": "Como 1907",
+                    "team_crest": "https://crests.football-data.org/7397.png",
+                    "goals": 2,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Croatia"
+                },
+                {
+                    "player_name": "Assane Diao",
+                    "team_name": "Como 1907",
+                    "team_crest": "https://crests.football-data.org/7397.png",
+                    "goals": 2,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Senegal"
+                },
+                {
                     "player_name": "Piotr Zieliński",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
@@ -271,24 +289,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Poland"
-                },
-                {
-                    "player_name": "Francesco Esposito",
-                    "team_name": "FC Internazionale Milano",
-                    "team_crest": "https://crests.football-data.org/108.png",
-                    "goals": 1,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "Italy"
-                },
-                {
-                    "player_name": "Yann Aurel Bisseck",
-                    "team_name": "FC Internazionale Milano",
-                    "team_crest": "https://crests.football-data.org/108.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Germany"
                 }
             ]
         },
@@ -316,6 +316,15 @@
                     "nationality": "Japan"
                 },
                 {
+                    "player_name": "Josha Vagnoman",
+                    "team_name": "VfB Stuttgart",
+                    "team_crest": "https://crests.football-data.org/10.png",
+                    "goals": 2,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Germany"
+                },
+                {
                     "player_name": "Thijs Dallinga",
                     "team_name": "1. FC Köln",
                     "team_crest": "https://crests.football-data.org/1.png",
@@ -332,15 +341,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Josha Vagnoman",
-                    "team_name": "VfB Stuttgart",
-                    "team_crest": "https://crests.football-data.org/10.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Germany"
                 },
                 {
                     "player_name": "Michael Olise",
@@ -449,6 +449,15 @@
                     "nationality": "Spain"
                 },
                 {
+                    "player_name": "Marquinhos",
+                    "team_name": "Paris Saint-Germain FC",
+                    "team_crest": "https://crests.football-data.org/524.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Brazil"
+                },
+                {
                     "player_name": "Gessime Yassine",
                     "team_name": "RC Strasbourg Alsace",
                     "team_crest": "https://crests.football-data.org/576.png",
@@ -474,15 +483,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Pierre Emile Højbjerg",
-                    "team_name": "Olympique de Marseille",
-                    "team_crest": "https://crests.football-data.org/516.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Denmark"
                 }
             ]
         },
@@ -491,6 +491,15 @@
             "code": "DED",
             "count": 10,
             "scorers": [
+                {
+                    "player_name": "Milan Zonneveld",
+                    "team_name": "Sparta Rotterdam",
+                    "team_crest": "https://crests.football-data.org/6806.png",
+                    "goals": 4,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
                 {
                     "player_name": "Søren Tengstedt",
                     "team_name": "Go Ahead Eagles",
@@ -517,15 +526,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Iceland"
-                },
-                {
-                    "player_name": "Milan Zonneveld",
-                    "team_name": "Sparta Rotterdam",
-                    "team_crest": "https://crests.football-data.org/6806.png",
-                    "goals": 3,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Netherlands"
                 },
                 {
                     "player_name": "Tjaronn Chery",
@@ -573,12 +573,12 @@
                     "nationality": "Japan"
                 },
                 {
-                    "player_name": "Noah Naujoks",
-                    "team_name": "SBV Excelsior",
-                    "team_crest": "https://crests.football-data.org/670.png",
-                    "goals": 2,
+                    "player_name": "Koen Kostons",
+                    "team_name": "PEC Zwolle",
+                    "team_crest": "https://crests.football-data.org/684.png",
+                    "goals": 3,
                     "assists": null,
-                    "penalties": null,
+                    "penalties": 1,
                     "nationality": "Netherlands"
                 }
             ]
