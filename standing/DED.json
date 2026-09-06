@@ -88,25 +88,6 @@
         {
           "position": 4,
           "team": {
-            "id": 718,
-            "name": "Go Ahead Eagles",
-            "shortName": "Go Ahead",
-            "tla": "GOA",
-            "crest": "https://crests.football-data.org/718.png"
-          },
-          "playedGames": 5,
-          "form": null,
-          "won": 3,
-          "draw": 1,
-          "lost": 1,
-          "points": 10,
-          "goalsFor": 14,
-          "goalsAgainst": 10,
-          "goalDifference": 4
-        },
-        {
-          "position": 5,
-          "team": {
             "id": 670,
             "name": "SBV Excelsior",
             "shortName": "Excelsior",
@@ -124,7 +105,7 @@
           "goalDifference": 7
         },
         {
-          "position": 6,
+          "position": 5,
           "team": {
             "id": 678,
             "name": "AFC Ajax",
@@ -141,6 +122,25 @@
           "goalsFor": 9,
           "goalsAgainst": 5,
           "goalDifference": 4
+        },
+        {
+          "position": 6,
+          "team": {
+            "id": 718,
+            "name": "Go Ahead Eagles",
+            "shortName": "Go Ahead",
+            "tla": "GOA",
+            "crest": "https://crests.football-data.org/718.png"
+          },
+          "playedGames": 4,
+          "form": null,
+          "won": 2,
+          "draw": 1,
+          "lost": 1,
+          "points": 7,
+          "goalsFor": 11,
+          "goalsAgainst": 9,
+          "goalDifference": 2
         },
         {
           "position": 7,
@@ -316,6 +316,25 @@
         {
           "position": 16,
           "team": {
+            "id": 676,
+            "name": "FC Utrecht",
+            "shortName": "Utrecht",
+            "tla": "UTR",
+            "crest": "https://crests.football-data.org/676.png"
+          },
+          "playedGames": 4,
+          "form": null,
+          "won": 0,
+          "draw": 1,
+          "lost": 3,
+          "points": 1,
+          "goalsFor": 6,
+          "goalsAgainst": 15,
+          "goalDifference": -9
+        },
+        {
+          "position": 17,
+          "team": {
             "id": 672,
             "name": "Willem II Tilburg",
             "shortName": "Willem II",
@@ -331,25 +350,6 @@
           "goalsFor": 4,
           "goalsAgainst": 13,
           "goalDifference": -9
-        },
-        {
-          "position": 17,
-          "team": {
-            "id": 676,
-            "name": "FC Utrecht",
-            "shortName": "Utrecht",
-            "tla": "UTR",
-            "crest": "https://crests.football-data.org/676.png"
-          },
-          "playedGames": 5,
-          "form": null,
-          "won": 0,
-          "draw": 1,
-          "lost": 4,
-          "points": 1,
-          "goalsFor": 7,
-          "goalsAgainst": 18,
-          "goalDifference": -11
         },
         {
           "position": 18,
