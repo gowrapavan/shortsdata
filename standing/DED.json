@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 666,
+            "name": "FC Twente '65",
+            "shortName": "Twente",
+            "tla": "TWE",
+            "crest": "https://crests.football-data.org/666.png"
+          },
+          "playedGames": 5,
+          "form": null,
+          "won": 3,
+          "draw": 1,
+          "lost": 1,
+          "points": 10,
+          "goalsFor": 10,
+          "goalsAgainst": 5,
+          "goalDifference": 5
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 1920,
             "name": "Fortuna Sittard",
             "shortName": "Sittard",
@@ -124,7 +143,7 @@
           "goalDifference": 2
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 718,
             "name": "Go Ahead Eagles",
@@ -143,32 +162,13 @@
           "goalDifference": 2
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 678,
             "name": "AFC Ajax",
             "shortName": "Ajax",
             "tla": "AJA",
             "crest": "https://crests.football-data.org/678.png"
-          },
-          "playedGames": 4,
-          "form": null,
-          "won": 2,
-          "draw": 1,
-          "lost": 1,
-          "points": 7,
-          "goalsFor": 9,
-          "goalsAgainst": 5,
-          "goalDifference": 4
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": 666,
-            "name": "FC Twente '65",
-            "shortName": "Twente",
-            "tla": "TWE",
-            "crest": "https://crests.football-data.org/666.png"
           },
           "playedGames": 4,
           "form": null,
@@ -284,15 +284,15 @@
             "tla": "TEL",
             "crest": "https://crests.football-data.org/1912.png"
           },
-          "playedGames": 4,
+          "playedGames": 5,
           "form": null,
           "won": 1,
           "draw": 1,
-          "lost": 2,
+          "lost": 3,
           "points": 4,
           "goalsFor": 5,
-          "goalsAgainst": 10,
-          "goalDifference": -5
+          "goalsAgainst": 11,
+          "goalDifference": -6
         },
         {
           "position": 15,
