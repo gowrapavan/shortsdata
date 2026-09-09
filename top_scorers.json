@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-08T10:10:04.233895Z",
+    "last_updated": "2026-09-09T10:13:50.725028Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -537,6 +537,15 @@
                     "nationality": "Netherlands"
                 },
                 {
+                    "player_name": "David Garden",
+                    "team_name": "SBV Excelsior",
+                    "team_crest": "https://crests.football-data.org/670.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
                     "player_name": "Luciano Valente",
                     "team_name": "Feyenoord Rotterdam",
                     "team_crest": "https://crests.football-data.org/675.png",
@@ -571,23 +580,105 @@
                     "assists": 1,
                     "penalties": 2,
                     "nationality": "Suriname"
-                },
-                {
-                    "player_name": "Artem Stepanov",
-                    "team_name": "FC Utrecht",
-                    "team_crest": "https://crests.football-data.org/676.png",
-                    "goals": 3,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Ukraine"
                 }
             ]
         },
         "CL": {
             "competition": "UEFA Champions League",
             "code": "CL",
-            "count": 0,
-            "scorers": []
+            "count": 10,
+            "scorers": [
+                {
+                    "player_name": "Erling Haaland",
+                    "team_name": "Manchester City FC",
+                    "team_crest": "https://crests.football-data.org/65.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Norway"
+                },
+                {
+                    "player_name": "Sehrou Guirassy",
+                    "team_name": "Borussia Dortmund",
+                    "team_crest": "https://crests.football-data.org/4.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Guinea"
+                },
+                {
+                    "player_name": "Bartra",
+                    "team_name": "Real Betis Balompié",
+                    "team_crest": "https://crests.football-data.org/90.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Spain"
+                },
+                {
+                    "player_name": "John McGinn",
+                    "team_name": "Aston Villa FC",
+                    "team_crest": "https://crests.football-data.org/58.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Scotland"
+                },
+                {
+                    "player_name": "Hugo Vetlesen",
+                    "team_name": "Club Brugge KV",
+                    "team_crest": "https://crests.football-data.org/851.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Belgium"
+                },
+                {
+                    "player_name": "Emiliano Buendía",
+                    "team_name": "Aston Villa FC",
+                    "team_crest": "https://crests.football-data.org/58.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Argentina"
+                },
+                {
+                    "player_name": "Nicolas Jackson",
+                    "team_name": "Aston Villa FC",
+                    "team_crest": "https://crests.football-data.org/58.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Senegal"
+                },
+                {
+                    "player_name": "Nicolo Tresoldi",
+                    "team_name": "Club Brugge KV",
+                    "team_crest": "https://crests.football-data.org/851.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Italy"
+                },
+                {
+                    "player_name": "Răzvan Marin",
+                    "team_name": "PAE AEK",
+                    "team_crest": "https://crests.football-data.org/1899.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Romania"
+                },
+                {
+                    "player_name": "Kylian Mbappé",
+                    "team_name": "Real Madrid CF",
+                    "team_crest": "https://crests.football-data.org/86.png",
+                    "goals": 1,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "France"
+                }
+            ]
         }
     }
 }
