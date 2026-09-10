@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-09T10:13:50.725028Z",
+    "last_updated": "2026-09-10T10:08:16.734192Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -589,6 +589,24 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Ermedin Demirovic",
+                    "team_name": "VfB Stuttgart",
+                    "team_crest": "https://crests.football-data.org/10.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Bosnia-Herzegovina"
+                },
+                {
+                    "player_name": "Ferrán Torres",
+                    "team_name": "Paris Saint-Germain FC",
+                    "team_crest": "https://crests.football-data.org/524.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Spain"
+                },
+                {
                     "player_name": "Erling Haaland",
                     "team_name": "Manchester City FC",
                     "team_crest": "https://crests.football-data.org/65.png",
@@ -616,6 +634,24 @@
                     "nationality": "Spain"
                 },
                 {
+                    "player_name": "Raphinha",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Brazil"
+                },
+                {
+                    "player_name": "Ousmane Dembélé",
+                    "team_name": "Paris Saint-Germain FC",
+                    "team_crest": "https://crests.football-data.org/524.png",
+                    "goals": 2,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "John McGinn",
                     "team_name": "Aston Villa FC",
                     "team_crest": "https://crests.football-data.org/58.png",
@@ -641,42 +677,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Argentina"
-                },
-                {
-                    "player_name": "Nicolas Jackson",
-                    "team_name": "Aston Villa FC",
-                    "team_crest": "https://crests.football-data.org/58.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Senegal"
-                },
-                {
-                    "player_name": "Nicolo Tresoldi",
-                    "team_name": "Club Brugge KV",
-                    "team_crest": "https://crests.football-data.org/851.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "Italy"
-                },
-                {
-                    "player_name": "Răzvan Marin",
-                    "team_name": "PAE AEK",
-                    "team_crest": "https://crests.football-data.org/1899.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Romania"
-                },
-                {
-                    "player_name": "Kylian Mbappé",
-                    "team_name": "Real Madrid CF",
-                    "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "France"
                 }
             ]
         }
