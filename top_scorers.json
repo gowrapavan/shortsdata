@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-10T10:08:16.734192Z",
+    "last_updated": "2026-09-11T10:05:23.112778Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -519,6 +519,15 @@
                     "nationality": "Netherlands"
                 },
                 {
+                    "player_name": "Artem Stepanov",
+                    "team_name": "FC Utrecht",
+                    "team_crest": "https://crests.football-data.org/676.png",
+                    "goals": 4,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Ukraine"
+                },
+                {
                     "player_name": "Rafik el Arguioui",
                     "team_name": "SC Cambuur-Leeuwarden",
                     "team_crest": "https://crests.football-data.org/1909.png",
@@ -571,15 +580,6 @@
                     "assists": 2,
                     "penalties": null,
                     "nationality": "Netherlands"
-                },
-                {
-                    "player_name": "Tjaronn Chery",
-                    "team_name": "NEC",
-                    "team_crest": "https://crests.football-data.org/1915.png",
-                    "goals": 3,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "Suriname"
                 }
             ]
         },
@@ -652,6 +652,24 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Michael Olise",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 2,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "France"
+                },
+                {
+                    "player_name": "Danijel Sturm",
+                    "team_name": "SK Slavia Praha",
+                    "team_crest": "https://crests.football-data.org/930.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Slovenia"
+                },
+                {
                     "player_name": "John McGinn",
                     "team_name": "Aston Villa FC",
                     "team_crest": "https://crests.football-data.org/58.png",
@@ -659,24 +677,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Scotland"
-                },
-                {
-                    "player_name": "Hugo Vetlesen",
-                    "team_name": "Club Brugge KV",
-                    "team_crest": "https://crests.football-data.org/851.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Belgium"
-                },
-                {
-                    "player_name": "Emiliano Buendía",
-                    "team_name": "Aston Villa FC",
-                    "team_crest": "https://crests.football-data.org/58.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Argentina"
                 }
             ]
         }
