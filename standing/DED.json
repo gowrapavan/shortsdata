@@ -37,14 +37,14 @@
             "tla": "AZ",
             "crest": "https://crests.football-data.org/682.png"
           },
-          "playedGames": 5,
+          "playedGames": 6,
           "form": null,
           "won": 5,
-          "draw": 0,
+          "draw": 1,
           "lost": 0,
-          "points": 15,
-          "goalsFor": 16,
-          "goalsAgainst": 5,
+          "points": 16,
+          "goalsFor": 17,
+          "goalsAgainst": 6,
           "goalDifference": 11
         },
         {
@@ -316,6 +316,25 @@
         {
           "position": 16,
           "team": {
+            "id": 672,
+            "name": "Willem II Tilburg",
+            "shortName": "Willem II",
+            "tla": "WII",
+            "crest": "https://crests.football-data.org/672.png"
+          },
+          "playedGames": 5,
+          "form": null,
+          "won": 0,
+          "draw": 2,
+          "lost": 3,
+          "points": 2,
+          "goalsFor": 5,
+          "goalsAgainst": 14,
+          "goalDifference": -9
+        },
+        {
+          "position": 17,
+          "team": {
             "id": 680,
             "name": "ADO Den Haag",
             "shortName": "Den Haag",
@@ -331,25 +350,6 @@
           "goalsFor": 6,
           "goalsAgainst": 14,
           "goalDifference": -8
-        },
-        {
-          "position": 17,
-          "team": {
-            "id": 672,
-            "name": "Willem II Tilburg",
-            "shortName": "Willem II",
-            "tla": "WII",
-            "crest": "https://crests.football-data.org/672.png"
-          },
-          "playedGames": 4,
-          "form": null,
-          "won": 0,
-          "draw": 1,
-          "lost": 3,
-          "points": 1,
-          "goalsFor": 4,
-          "goalsAgainst": 13,
-          "goalDifference": -9
         },
         {
           "position": 18,
