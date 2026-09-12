@@ -94,15 +94,15 @@
             "tla": "FLU",
             "crest": "https://crests.football-data.org/1765.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 12,
           "draw": 9,
-          "lost": 5,
+          "lost": 6,
           "points": 45,
-          "goalsFor": 40,
-          "goalsAgainst": 32,
-          "goalDifference": 8
+          "goalsFor": 41,
+          "goalsAgainst": 35,
+          "goalDifference": 6
         },
         {
           "position": 5,
@@ -145,6 +145,25 @@
         {
           "position": 7,
           "team": {
+            "id": 1766,
+            "name": "CA Mineiro",
+            "shortName": "Mineiro",
+            "tla": "CAM",
+            "crest": "https://crests.football-data.org/1766.png"
+          },
+          "playedGames": 26,
+          "form": null,
+          "won": 11,
+          "draw": 6,
+          "lost": 9,
+          "points": 39,
+          "goalsFor": 35,
+          "goalsAgainst": 31,
+          "goalDifference": 4
+        },
+        {
+          "position": 8,
+          "team": {
             "id": 4241,
             "name": "Coritiba FBC",
             "shortName": "Coritiba",
@@ -160,25 +179,6 @@
           "goalsFor": 37,
           "goalsAgainst": 38,
           "goalDifference": -1
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 1766,
-            "name": "CA Mineiro",
-            "shortName": "Mineiro",
-            "tla": "CAM",
-            "crest": "https://crests.football-data.org/1766.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 10,
-          "draw": 6,
-          "lost": 9,
-          "points": 36,
-          "goalsFor": 32,
-          "goalsAgainst": 30,
-          "goalDifference": 2
         },
         {
           "position": 9,
@@ -303,15 +303,15 @@
             "tla": "FBP",
             "crest": "https://crests.football-data.org/1767.png"
           },
-          "playedGames": 25,
+          "playedGames": 26,
           "form": null,
           "won": 7,
           "draw": 7,
-          "lost": 11,
+          "lost": 12,
           "points": 28,
-          "goalsFor": 27,
-          "goalsAgainst": 33,
-          "goalDifference": -6
+          "goalsFor": 28,
+          "goalsAgainst": 35,
+          "goalDifference": -7
         },
         {
           "position": 16,
@@ -341,15 +341,15 @@
             "tla": "VAS",
             "crest": "https://crests.football-data.org/1780.png"
           },
-          "playedGames": 25,
+          "playedGames": 26,
           "form": null,
-          "won": 6,
+          "won": 7,
           "draw": 7,
           "lost": 12,
-          "points": 25,
-          "goalsFor": 27,
-          "goalsAgainst": 40,
-          "goalDifference": -13
+          "points": 28,
+          "goalsFor": 29,
+          "goalsAgainst": 41,
+          "goalDifference": -12
         },
         {
           "position": 18,
@@ -360,14 +360,14 @@
             "tla": "SCI",
             "crest": "https://crests.football-data.org/6684.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 5,
-          "draw": 10,
+          "draw": 11,
           "lost": 11,
-          "points": 25,
-          "goalsFor": 28,
-          "goalsAgainst": 34,
+          "points": 26,
+          "goalsFor": 29,
+          "goalsAgainst": 35,
           "goalDifference": -6
         },
         {
@@ -398,14 +398,14 @@
             "tla": "CHA",
             "crest": "https://crests.football-data.org/1772_large.png"
           },
-          "playedGames": 25,
+          "playedGames": 26,
           "form": null,
           "won": 3,
-          "draw": 8,
+          "draw": 9,
           "lost": 14,
-          "points": 17,
-          "goalsFor": 27,
-          "goalsAgainst": 50,
+          "points": 18,
+          "goalsFor": 28,
+          "goalsAgainst": 51,
           "goalDifference": -23
         }
       ]
