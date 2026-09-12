@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-11T10:05:23.112778Z",
+    "last_updated": "2026-09-12T09:41:19.521939Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -228,6 +228,15 @@
                     "nationality": "Italy"
                 },
                 {
+                    "player_name": "Franco Mastantuono",
+                    "team_name": "ACF Fiorentina",
+                    "team_crest": "https://crests.football-data.org/99.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Argentina"
+                },
+                {
                     "player_name": "Hassane Kamara",
                     "team_name": "Udinese Calcio",
                     "team_crest": "https://crests.football-data.org/115.png",
@@ -280,15 +289,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Scotland"
-                },
-                {
-                    "player_name": "Martin Baturina",
-                    "team_name": "Como 1907",
-                    "team_crest": "https://crests.football-data.org/7397.png",
-                    "goals": 2,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "Croatia"
                 }
             ]
         },
@@ -328,6 +328,15 @@
                     "player_name": "Ridle Baku",
                     "team_name": "RB Leipzig",
                     "team_crest": "https://crests.football-data.org/721.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Germany"
+                },
+                {
+                    "player_name": "Tim Skarke",
+                    "team_name": "1. FC Union Berlin",
+                    "team_crest": "https://crests.football-data.org/28.png",
                     "goals": 2,
                     "assists": null,
                     "penalties": null,
@@ -377,15 +386,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Sweden"
-                },
-                {
-                    "player_name": "Maurice Krattenmacher",
-                    "team_name": "SV 07 Elversberg",
-                    "team_crest": "https://crests.football-data.org/719.png",
-                    "goals": 2,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Germany"
                 }
             ]
         },
@@ -555,6 +555,15 @@
                     "nationality": "Netherlands"
                 },
                 {
+                    "player_name": "Devin Haen",
+                    "team_name": "Willem II Tilburg",
+                    "team_crest": "https://crests.football-data.org/672.png",
+                    "goals": 3,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
                     "player_name": "Luciano Valente",
                     "team_name": "Feyenoord Rotterdam",
                     "team_crest": "https://crests.football-data.org/675.png",
@@ -571,15 +580,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Iceland"
-                },
-                {
-                    "player_name": "Thom van Bergen",
-                    "team_name": "FC Groningen",
-                    "team_crest": "https://crests.football-data.org/677.png",
-                    "goals": 3,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Netherlands"
                 }
             ]
         },
