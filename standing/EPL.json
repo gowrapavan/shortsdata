@@ -56,15 +56,15 @@
             "tla": "MCI",
             "crest": "https://crests.football-data.org/65.png"
           },
-          "playedGames": 3,
+          "playedGames": 4,
           "form": null,
-          "won": 3,
+          "won": 4,
           "draw": 0,
           "lost": 0,
-          "points": 9,
-          "goalsFor": 7,
+          "points": 12,
+          "goalsFor": 8,
           "goalsAgainst": 2,
-          "goalDifference": 5
+          "goalDifference": 6
         },
         {
           "position": 3,
@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 397,
+            "name": "Brighton & Hove Albion FC",
+            "shortName": "Brighton Hove",
+            "tla": "BHA",
+            "crest": "https://crests.football-data.org/397.png"
+          },
+          "playedGames": 4,
+          "form": null,
+          "won": 2,
+          "draw": 1,
+          "lost": 1,
+          "points": 7,
+          "goalsFor": 13,
+          "goalsAgainst": 5,
+          "goalDifference": 8
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 61,
             "name": "Chelsea FC",
             "shortName": "Chelsea",
@@ -105,7 +124,7 @@
           "goalDifference": 1
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 402,
             "name": "Brentford FC",
@@ -124,7 +143,7 @@
           "goalDifference": 3
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 64,
             "name": "Liverpool FC",
@@ -143,7 +162,7 @@
           "goalDifference": 2
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 62,
             "name": "Everton FC",
@@ -162,7 +181,7 @@
           "goalDifference": 2
         },
         {
-          "position": 8,
+          "position": 9,
           "team": {
             "id": 349,
             "name": "Ipswich Town FC",
@@ -181,7 +200,7 @@
           "goalDifference": -3
         },
         {
-          "position": 9,
+          "position": 10,
           "team": {
             "id": 67,
             "name": "Newcastle United FC",
@@ -200,7 +219,7 @@
           "goalDifference": 2
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 341,
             "name": "Leeds United FC",
@@ -219,7 +238,7 @@
           "goalDifference": 1
         },
         {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 351,
             "name": "Nottingham Forest FC",
@@ -238,25 +257,6 @@
           "goalDifference": 0
         },
         {
-          "position": 12,
-          "team": {
-            "id": 397,
-            "name": "Brighton & Hove Albion FC",
-            "shortName": "Brighton Hove",
-            "tla": "BHA",
-            "crest": "https://crests.football-data.org/397.png"
-          },
-          "playedGames": 3,
-          "form": null,
-          "won": 1,
-          "draw": 1,
-          "lost": 1,
-          "points": 4,
-          "goalsFor": 8,
-          "goalsAgainst": 5,
-          "goalDifference": 3
-        },
-        {
           "position": 13,
           "team": {
             "id": 66,
@@ -265,15 +265,15 @@
             "tla": "MUN",
             "crest": "https://crests.football-data.org/66.png"
           },
-          "playedGames": 3,
+          "playedGames": 4,
           "form": null,
           "won": 1,
           "draw": 1,
-          "lost": 1,
+          "lost": 2,
           "points": 4,
           "goalsFor": 7,
-          "goalsAgainst": 6,
-          "goalDifference": 1
+          "goalsAgainst": 7,
+          "goalDifference": 0
         },
         {
           "position": 14,
@@ -398,15 +398,15 @@
             "tla": "COV",
             "crest": "https://crests.football-data.org/1076.png"
           },
-          "playedGames": 3,
+          "playedGames": 4,
           "form": null,
           "won": 0,
           "draw": 0,
-          "lost": 3,
+          "lost": 4,
           "points": 0,
           "goalsFor": 0,
-          "goalsAgainst": 5,
-          "goalDifference": -5
+          "goalsAgainst": 10,
+          "goalDifference": -10
         }
       ]
     }

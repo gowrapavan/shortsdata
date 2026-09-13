@@ -31,6 +31,25 @@
         {
           "position": 1,
           "team": {
+            "id": 1783,
+            "name": "CR Flamengo",
+            "shortName": "Flamengo",
+            "tla": "FLA",
+            "crest": "https://crests.football-data.org/1783.png"
+          },
+          "playedGames": 27,
+          "form": null,
+          "won": 17,
+          "draw": 6,
+          "lost": 4,
+          "points": 57,
+          "goalsFor": 52,
+          "goalsAgainst": 21,
+          "goalDifference": 31
+        },
+        {
+          "position": 2,
+          "team": {
             "id": 1769,
             "name": "SE Palmeiras",
             "shortName": "Palmeiras",
@@ -46,25 +65,6 @@
           "goalsFor": 47,
           "goalsAgainst": 21,
           "goalDifference": 26
-        },
-        {
-          "position": 2,
-          "team": {
-            "id": 1783,
-            "name": "CR Flamengo",
-            "shortName": "Flamengo",
-            "tla": "FLA",
-            "crest": "https://crests.football-data.org/1783.png"
-          },
-          "playedGames": 26,
-          "form": null,
-          "won": 16,
-          "draw": 6,
-          "lost": 4,
-          "points": 54,
-          "goalsFor": 51,
-          "goalsAgainst": 21,
-          "goalDifference": 30
         },
         {
           "position": 3,
@@ -246,14 +246,14 @@
             "tla": "VIT",
             "crest": "https://crests.football-data.org/1782.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 9,
-          "draw": 5,
+          "draw": 6,
           "lost": 12,
-          "points": 32,
-          "goalsFor": 25,
-          "goalsAgainst": 37,
+          "points": 33,
+          "goalsFor": 27,
+          "goalsAgainst": 39,
           "goalDifference": -12
         },
         {
@@ -265,15 +265,15 @@
             "tla": "COR",
             "crest": "https://crests.football-data.org/1779.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 8,
           "draw": 8,
-          "lost": 10,
+          "lost": 11,
           "points": 32,
           "goalsFor": 27,
-          "goalsAgainst": 27,
-          "goalDifference": 0
+          "goalsAgainst": 28,
+          "goalDifference": -1
         },
         {
           "position": 14,
@@ -297,6 +297,25 @@
         {
           "position": 15,
           "team": {
+            "id": 4364,
+            "name": "Mirassol FC",
+            "shortName": "Mirassol",
+            "tla": "MIR",
+            "crest": "https://crests.football-data.org/4364.png"
+          },
+          "playedGames": 27,
+          "form": null,
+          "won": 7,
+          "draw": 8,
+          "lost": 12,
+          "points": 29,
+          "goalsFor": 31,
+          "goalsAgainst": 42,
+          "goalDifference": -11
+        },
+        {
+          "position": 16,
+          "team": {
             "id": 1767,
             "name": "Grêmio FBPA",
             "shortName": "Grêmio",
@@ -312,25 +331,6 @@
           "goalsFor": 28,
           "goalsAgainst": 35,
           "goalDifference": -7
-        },
-        {
-          "position": 16,
-          "team": {
-            "id": 4364,
-            "name": "Mirassol FC",
-            "shortName": "Mirassol",
-            "tla": "MIR",
-            "crest": "https://crests.football-data.org/4364.png"
-          },
-          "playedGames": 26,
-          "form": null,
-          "won": 7,
-          "draw": 7,
-          "lost": 12,
-          "points": 28,
-          "goalsFor": 29,
-          "goalsAgainst": 40,
-          "goalDifference": -11
         },
         {
           "position": 17,
