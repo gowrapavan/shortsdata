@@ -132,18 +132,37 @@
             "tla": "AMA",
             "crest": "https://crests.football-data.org/9136.png"
           },
-          "playedGames": 5,
+          "playedGames": 6,
           "form": null,
           "won": 2,
-          "draw": 3,
+          "draw": 4,
           "lost": 0,
-          "points": 9,
-          "goalsFor": 11,
-          "goalsAgainst": 9,
+          "points": 10,
+          "goalsFor": 14,
+          "goalsAgainst": 12,
           "goalDifference": 2
         },
         {
           "position": 7,
+          "team": {
+            "id": 5613,
+            "name": "Sporting Clube de Braga",
+            "shortName": "Braga",
+            "tla": "SCB",
+            "crest": "https://crests.football-data.org/5613.png"
+          },
+          "playedGames": 5,
+          "form": null,
+          "won": 3,
+          "draw": 1,
+          "lost": 1,
+          "points": 10,
+          "goalsFor": 7,
+          "goalsAgainst": 5,
+          "goalDifference": 2
+        },
+        {
+          "position": 8,
           "team": {
             "id": 5527,
             "name": "Académico de Viseu FC",
@@ -160,25 +179,6 @@
           "goalsFor": 7,
           "goalsAgainst": 9,
           "goalDifference": -2
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 5613,
-            "name": "Sporting Clube de Braga",
-            "shortName": "Braga",
-            "tla": "SCB",
-            "crest": "https://crests.football-data.org/5613.png"
-          },
-          "playedGames": 4,
-          "form": null,
-          "won": 2,
-          "draw": 1,
-          "lost": 1,
-          "points": 7,
-          "goalsFor": 6,
-          "goalsAgainst": 5,
-          "goalDifference": 1
         },
         {
           "position": 9,
@@ -208,18 +208,37 @@
             "tla": "CSM",
             "crest": "https://crests.football-data.org/5575.png"
           },
-          "playedGames": 5,
+          "playedGames": 6,
           "form": null,
           "won": 2,
           "draw": 1,
-          "lost": 2,
+          "lost": 3,
           "points": 7,
-          "goalsFor": 6,
-          "goalsAgainst": 8,
-          "goalDifference": -2
+          "goalsFor": 7,
+          "goalsAgainst": 11,
+          "goalDifference": -4
         },
         {
           "position": 11,
+          "team": {
+            "id": 583,
+            "name": "Moreirense FC",
+            "shortName": "Moreirense",
+            "tla": "MOR",
+            "crest": "https://crests.football-data.org/583.png"
+          },
+          "playedGames": 6,
+          "form": null,
+          "won": 2,
+          "draw": 1,
+          "lost": 3,
+          "points": 7,
+          "goalsFor": 7,
+          "goalsAgainst": 13,
+          "goalDifference": -6
+        },
+        {
+          "position": 12,
           "team": {
             "id": 7822,
             "name": "FC Alverca",
@@ -238,7 +257,7 @@
           "goalDifference": -3
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 5531,
             "name": "FC Famalicão",
@@ -257,7 +276,7 @@
           "goalDifference": -2
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 5543,
             "name": "Vitória SC",
@@ -276,7 +295,7 @@
           "goalDifference": -3
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 5529,
             "name": "CD Nacional",
@@ -295,25 +314,6 @@
           "goalDifference": -4
         },
         {
-          "position": 15,
-          "team": {
-            "id": 583,
-            "name": "Moreirense FC",
-            "shortName": "Moreirense",
-            "tla": "MOR",
-            "crest": "https://crests.football-data.org/583.png"
-          },
-          "playedGames": 5,
-          "form": null,
-          "won": 1,
-          "draw": 1,
-          "lost": 3,
-          "points": 4,
-          "goalsFor": 4,
-          "goalsAgainst": 12,
-          "goalDifference": -8
-        },
-        {
           "position": 16,
           "team": {
             "id": 496,
@@ -322,14 +322,14 @@
             "tla": "RIO",
             "crest": "https://crests.football-data.org/496.png"
           },
-          "playedGames": 5,
+          "playedGames": 6,
           "form": null,
           "won": 1,
-          "draw": 0,
+          "draw": 1,
           "lost": 4,
-          "points": 3,
-          "goalsFor": 2,
-          "goalsAgainst": 11,
+          "points": 4,
+          "goalsFor": 5,
+          "goalsAgainst": 14,
           "goalDifference": -9
         },
         {
@@ -341,15 +341,15 @@
             "tla": "EST",
             "crest": "https://crests.football-data.org/582.png"
           },
-          "playedGames": 5,
+          "playedGames": 6,
           "form": null,
           "won": 0,
           "draw": 2,
-          "lost": 3,
+          "lost": 4,
           "points": 2,
           "goalsFor": 2,
-          "goalsAgainst": 7,
-          "goalDifference": -5
+          "goalsAgainst": 8,
+          "goalDifference": -6
         },
         {
           "position": 18,
