@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-16T10:22:47.133548Z",
+    "last_updated": "2026-09-17T10:32:10.144654Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -104,6 +104,15 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Raphinha",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
+                    "goals": 9,
+                    "assists": 2,
+                    "penalties": 3,
+                    "nationality": "Brazil"
+                },
+                {
                     "player_name": "Kylian Mbappé",
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
@@ -111,6 +120,15 @@
                     "assists": 2,
                     "penalties": 1,
                     "nationality": "France"
+                },
+                {
+                    "player_name": "Lamine Yamal",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
+                    "goals": 7,
+                    "assists": 2,
+                    "penalties": 1,
+                    "nationality": "Spain"
                 },
                 {
                     "player_name": "Roberto Fernández",
@@ -131,22 +149,13 @@
                     "nationality": "Spain"
                 },
                 {
-                    "player_name": "Raphinha",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 6,
-                    "assists": 2,
-                    "penalties": 1,
-                    "nationality": "Brazil"
-                },
-                {
-                    "player_name": "Lamine Yamal",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
+                    "player_name": "Yassir Zabiri",
+                    "team_name": "Real Racing Club de Santander",
+                    "team_crest": "https://crests.football-data.org/5335.png",
                     "goals": 6,
                     "assists": null,
-                    "penalties": 1,
-                    "nationality": "Spain"
+                    "penalties": null,
+                    "nationality": "Morocco"
                 },
                 {
                     "player_name": "Pierre-Emerick Aubameyang",
@@ -158,13 +167,13 @@
                     "nationality": "Gabon"
                 },
                 {
-                    "player_name": "Yassir Zabiri",
-                    "team_name": "Real Racing Club de Santander",
-                    "team_crest": "https://crests.football-data.org/5335.png",
-                    "goals": 5,
-                    "assists": null,
+                    "player_name": "Álex Baena",
+                    "team_name": "Club Atlético de Madrid",
+                    "team_crest": "https://crests.football-data.org/78.png",
+                    "goals": 4,
+                    "assists": 1,
                     "penalties": null,
-                    "nationality": "Morocco"
+                    "nationality": "Spain"
                 },
                 {
                     "player_name": "Fermín López",
@@ -183,15 +192,6 @@
                     "assists": null,
                     "penalties": 3,
                     "nationality": "Croatia"
-                },
-                {
-                    "player_name": "Lucas Boyé",
-                    "team_name": "Deportivo Alavés",
-                    "team_crest": "https://crests.football-data.org/263.png",
-                    "goals": 4,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Argentina"
                 }
             ]
         },
