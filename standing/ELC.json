@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 387,
+            "name": "Bristol City FC",
+            "shortName": "Bristol City",
+            "tla": "BRI",
+            "crest": "https://crests.football-data.org/387.png"
+          },
+          "playedGames": 7,
+          "form": null,
+          "won": 4,
+          "draw": 1,
+          "lost": 2,
+          "points": 13,
+          "goalsFor": 11,
+          "goalsAgainst": 11,
+          "goalDifference": 0
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 69,
             "name": "Queens Park Rangers FC",
             "shortName": "QPR",
@@ -124,7 +143,7 @@
           "goalDifference": 3
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 348,
             "name": "Charlton Athletic FC",
@@ -143,7 +162,7 @@
           "goalDifference": -1
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 76,
             "name": "Wolverhampton Wanderers FC",
@@ -162,7 +181,7 @@
           "goalDifference": 4
         },
         {
-          "position": 8,
+          "position": 9,
           "team": {
             "id": 340,
             "name": "Southampton FC",
@@ -181,7 +200,7 @@
           "goalDifference": 10
         },
         {
-          "position": 9,
+          "position": 10,
           "team": {
             "id": 332,
             "name": "Birmingham City FC",
@@ -200,7 +219,7 @@
           "goalDifference": 1
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 70,
             "name": "Stoke City FC",
@@ -217,25 +236,6 @@
           "goalsFor": 11,
           "goalsAgainst": 11,
           "goalDifference": 0
-        },
-        {
-          "position": 11,
-          "team": {
-            "id": 387,
-            "name": "Bristol City FC",
-            "shortName": "Bristol City",
-            "tla": "BRI",
-            "crest": "https://crests.football-data.org/387.png"
-          },
-          "playedGames": 6,
-          "form": null,
-          "won": 3,
-          "draw": 1,
-          "lost": 2,
-          "points": 10,
-          "goalsFor": 10,
-          "goalsAgainst": 11,
-          "goalDifference": -1
         },
         {
           "position": 12,
@@ -341,15 +341,15 @@
             "tla": "WAT",
             "crest": "https://crests.football-data.org/346.png"
           },
-          "playedGames": 7,
+          "playedGames": 8,
           "form": null,
           "won": 2,
           "draw": 2,
-          "lost": 3,
+          "lost": 4,
           "points": 8,
           "goalsFor": 7,
-          "goalsAgainst": 9,
-          "goalDifference": -2
+          "goalsAgainst": 10,
+          "goalDifference": -3
         },
         {
           "position": 18,
