@@ -75,14 +75,14 @@
             "tla": "SPO",
             "crest": "https://crests.football-data.org/498.png"
           },
-          "playedGames": 6,
+          "playedGames": 7,
           "form": null,
           "won": 4,
-          "draw": 2,
+          "draw": 3,
           "lost": 0,
-          "points": 14,
-          "goalsFor": 15,
-          "goalsAgainst": 6,
+          "points": 15,
+          "goalsFor": 17,
+          "goalsAgainst": 8,
           "goalDifference": 9
         },
         {
@@ -113,14 +113,14 @@
             "tla": "FCA",
             "crest": "https://crests.football-data.org/712.png"
           },
-          "playedGames": 6,
+          "playedGames": 7,
           "form": null,
           "won": 3,
-          "draw": 1,
+          "draw": 2,
           "lost": 2,
-          "points": 10,
-          "goalsFor": 8,
-          "goalsAgainst": 5,
+          "points": 11,
+          "goalsFor": 10,
+          "goalsAgainst": 7,
           "goalDifference": 3
         },
         {
@@ -164,6 +164,44 @@
         {
           "position": 8,
           "team": {
+            "id": 5533,
+            "name": "Gil Vicente FC",
+            "shortName": "Gil Vicente",
+            "tla": "GIL",
+            "crest": "https://crests.football-data.org/5533.png"
+          },
+          "playedGames": 6,
+          "form": null,
+          "won": 2,
+          "draw": 2,
+          "lost": 2,
+          "points": 8,
+          "goalsFor": 5,
+          "goalsAgainst": 5,
+          "goalDifference": 0
+        },
+        {
+          "position": 9,
+          "team": {
+            "id": 7822,
+            "name": "FC Alverca",
+            "shortName": "Alverca",
+            "tla": "ALV",
+            "crest": "https://crests.football-data.org/7822.png"
+          },
+          "playedGames": 7,
+          "form": null,
+          "won": 2,
+          "draw": 2,
+          "lost": 3,
+          "points": 8,
+          "goalsFor": 9,
+          "goalsAgainst": 11,
+          "goalDifference": -2
+        },
+        {
+          "position": 10,
+          "team": {
             "id": 5527,
             "name": "Académico de Viseu FC",
             "shortName": "Acad. Viseu",
@@ -181,26 +219,7 @@
           "goalDifference": -2
         },
         {
-          "position": 9,
-          "team": {
-            "id": 5533,
-            "name": "Gil Vicente FC",
-            "shortName": "Gil Vicente",
-            "tla": "GIL",
-            "crest": "https://crests.football-data.org/5533.png"
-          },
-          "playedGames": 5,
-          "form": null,
-          "won": 2,
-          "draw": 1,
-          "lost": 2,
-          "points": 7,
-          "goalsFor": 4,
-          "goalsAgainst": 4,
-          "goalDifference": 0
-        },
-        {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 5575,
             "name": "CS Marítimo",
@@ -208,18 +227,37 @@
             "tla": "CSM",
             "crest": "https://crests.football-data.org/5575.png"
           },
-          "playedGames": 6,
+          "playedGames": 7,
           "form": null,
           "won": 2,
-          "draw": 1,
+          "draw": 2,
           "lost": 3,
-          "points": 7,
-          "goalsFor": 7,
-          "goalsAgainst": 11,
+          "points": 8,
+          "goalsFor": 8,
+          "goalsAgainst": 12,
           "goalDifference": -4
         },
         {
-          "position": 11,
+          "position": 12,
+          "team": {
+            "id": 5531,
+            "name": "FC Famalicão",
+            "shortName": "Famalicão",
+            "tla": "FAM",
+            "crest": "https://crests.football-data.org/5531.png"
+          },
+          "playedGames": 7,
+          "form": null,
+          "won": 1,
+          "draw": 4,
+          "lost": 2,
+          "points": 7,
+          "goalsFor": 9,
+          "goalsAgainst": 7,
+          "goalDifference": 2
+        },
+        {
+          "position": 13,
           "team": {
             "id": 583,
             "name": "Moreirense FC",
@@ -236,44 +274,6 @@
           "goalsFor": 7,
           "goalsAgainst": 13,
           "goalDifference": -6
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 7822,
-            "name": "FC Alverca",
-            "shortName": "Alverca",
-            "tla": "ALV",
-            "crest": "https://crests.football-data.org/7822.png"
-          },
-          "playedGames": 6,
-          "form": null,
-          "won": 1,
-          "draw": 2,
-          "lost": 3,
-          "points": 5,
-          "goalsFor": 8,
-          "goalsAgainst": 11,
-          "goalDifference": -3
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 5531,
-            "name": "FC Famalicão",
-            "shortName": "Famalicão",
-            "tla": "FAM",
-            "crest": "https://crests.football-data.org/5531.png"
-          },
-          "playedGames": 6,
-          "form": null,
-          "won": 0,
-          "draw": 4,
-          "lost": 2,
-          "points": 4,
-          "goalsFor": 5,
-          "goalsAgainst": 7,
-          "goalDifference": -2
         },
         {
           "position": 14,
@@ -303,15 +303,15 @@
             "tla": "CDN",
             "crest": "https://crests.football-data.org/5529.png"
           },
-          "playedGames": 6,
+          "playedGames": 7,
           "form": null,
           "won": 1,
           "draw": 1,
-          "lost": 4,
+          "lost": 5,
           "points": 4,
           "goalsFor": 7,
-          "goalsAgainst": 11,
-          "goalDifference": -4
+          "goalsAgainst": 15,
+          "goalDifference": -8
         },
         {
           "position": 16,
@@ -322,15 +322,15 @@
             "tla": "RIO",
             "crest": "https://crests.football-data.org/496.png"
           },
-          "playedGames": 6,
+          "playedGames": 7,
           "form": null,
           "won": 1,
           "draw": 1,
-          "lost": 4,
+          "lost": 5,
           "points": 4,
           "goalsFor": 5,
-          "goalsAgainst": 14,
-          "goalDifference": -9
+          "goalsAgainst": 15,
+          "goalDifference": -10
         },
         {
           "position": 17,
