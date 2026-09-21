@@ -69,6 +69,25 @@
         {
           "position": 3,
           "team": {
+            "id": 343,
+            "name": "Middlesbrough FC",
+            "shortName": "Middlesbrough",
+            "tla": "MID",
+            "crest": "https://crests.football-data.org/343.png"
+          },
+          "playedGames": 8,
+          "form": null,
+          "won": 4,
+          "draw": 3,
+          "lost": 1,
+          "points": 15,
+          "goalsFor": 16,
+          "goalsAgainst": 12,
+          "goalDifference": 4
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 76,
             "name": "Wolverhampton Wanderers FC",
             "shortName": "Wolverhampton",
@@ -84,25 +103,6 @@
           "goalsFor": 15,
           "goalsAgainst": 10,
           "goalDifference": 5
-        },
-        {
-          "position": 4,
-          "team": {
-            "id": 343,
-            "name": "Middlesbrough FC",
-            "shortName": "Middlesbrough",
-            "tla": "MID",
-            "crest": "https://crests.football-data.org/343.png"
-          },
-          "playedGames": 7,
-          "form": null,
-          "won": 4,
-          "draw": 2,
-          "lost": 1,
-          "points": 14,
-          "goalsFor": 14,
-          "goalsAgainst": 10,
-          "goalDifference": 4
         },
         {
           "position": 5,
@@ -170,15 +170,15 @@
             "tla": "BRI",
             "crest": "https://crests.football-data.org/387.png"
           },
-          "playedGames": 7,
+          "playedGames": 8,
           "form": null,
           "won": 4,
           "draw": 1,
-          "lost": 2,
+          "lost": 3,
           "points": 13,
           "goalsFor": 11,
-          "goalsAgainst": 11,
-          "goalDifference": 0
+          "goalsAgainst": 12,
+          "goalDifference": -1
         },
         {
           "position": 9,
@@ -221,6 +221,44 @@
         {
           "position": 11,
           "team": {
+            "id": 384,
+            "name": "Millwall FC",
+            "shortName": "Millwall",
+            "tla": "MIL",
+            "crest": "https://crests.football-data.org/384.png"
+          },
+          "playedGames": 8,
+          "form": null,
+          "won": 3,
+          "draw": 2,
+          "lost": 3,
+          "points": 11,
+          "goalsFor": 15,
+          "goalsAgainst": 15,
+          "goalDifference": 0
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": 1126,
+            "name": "Lincoln City FC",
+            "shortName": "Lincoln City",
+            "tla": "LIN",
+            "crest": "https://crests.football-data.org/1126.png"
+          },
+          "playedGames": 8,
+          "form": null,
+          "won": 3,
+          "draw": 2,
+          "lost": 3,
+          "points": 11,
+          "goalsFor": 7,
+          "goalsAgainst": 8,
+          "goalDifference": -1
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 340,
             "name": "Southampton FC",
             "shortName": "Southampton",
@@ -238,26 +276,7 @@
           "goalDifference": 9
         },
         {
-          "position": 12,
-          "team": {
-            "id": 384,
-            "name": "Millwall FC",
-            "shortName": "Millwall",
-            "tla": "MIL",
-            "crest": "https://crests.football-data.org/384.png"
-          },
-          "playedGames": 7,
-          "form": null,
-          "won": 3,
-          "draw": 1,
-          "lost": 3,
-          "points": 10,
-          "goalsFor": 13,
-          "goalsAgainst": 13,
-          "goalDifference": 0
-        },
-        {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 404,
             "name": "Wrexham AFC",
@@ -276,7 +295,7 @@
           "goalDifference": -3
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 60,
             "name": "Bolton Wanderers FC",
@@ -295,7 +314,7 @@
           "goalDifference": -4
         },
         {
-          "position": 15,
+          "position": 16,
           "team": {
             "id": 59,
             "name": "Blackburn Rovers FC",
@@ -314,7 +333,7 @@
           "goalDifference": 0
         },
         {
-          "position": 16,
+          "position": 17,
           "team": {
             "id": 68,
             "name": "Norwich City FC",
@@ -333,7 +352,7 @@
           "goalDifference": -1
         },
         {
-          "position": 17,
+          "position": 18,
           "team": {
             "id": 356,
             "name": "Sheffield United FC",
@@ -352,7 +371,7 @@
           "goalDifference": -2
         },
         {
-          "position": 18,
+          "position": 19,
           "team": {
             "id": 325,
             "name": "Portsmouth FC",
@@ -369,25 +388,6 @@
           "goalsFor": 9,
           "goalsAgainst": 10,
           "goalDifference": -1
-        },
-        {
-          "position": 19,
-          "team": {
-            "id": 1126,
-            "name": "Lincoln City FC",
-            "shortName": "Lincoln City",
-            "tla": "LIN",
-            "crest": "https://crests.football-data.org/1126.png"
-          },
-          "playedGames": 7,
-          "form": null,
-          "won": 2,
-          "draw": 2,
-          "lost": 3,
-          "points": 8,
-          "goalsFor": 6,
-          "goalsAgainst": 8,
-          "goalDifference": -2
         },
         {
           "position": 20,
