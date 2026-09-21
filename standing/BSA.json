@@ -43,8 +43,8 @@
           "draw": 6,
           "lost": 4,
           "points": 60,
-          "goalsFor": 54,
-          "goalsAgainst": 22,
+          "goalsFor": 55,
+          "goalsAgainst": 23,
           "goalDifference": 32
         },
         {
@@ -69,6 +69,25 @@
         {
           "position": 3,
           "team": {
+            "id": 1768,
+            "name": "CA Paranaense",
+            "shortName": "Paranaense",
+            "tla": "CAP",
+            "crest": "https://crests.football-data.org/1768.png"
+          },
+          "playedGames": 28,
+          "form": null,
+          "won": 14,
+          "draw": 7,
+          "lost": 7,
+          "points": 49,
+          "goalsFor": 43,
+          "goalsAgainst": 32,
+          "goalDifference": 11
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 1765,
             "name": "Fluminense FC",
             "shortName": "Fluminense",
@@ -86,25 +105,6 @@
           "goalDifference": 8
         },
         {
-          "position": 4,
-          "team": {
-            "id": 1768,
-            "name": "CA Paranaense",
-            "shortName": "Paranaense",
-            "tla": "CAP",
-            "crest": "https://crests.football-data.org/1768.png"
-          },
-          "playedGames": 27,
-          "form": null,
-          "won": 13,
-          "draw": 7,
-          "lost": 7,
-          "points": 46,
-          "goalsFor": 41,
-          "goalsAgainst": 31,
-          "goalDifference": 10
-        },
-        {
           "position": 5,
           "team": {
             "id": 1777,
@@ -113,15 +113,15 @@
             "tla": "BAH",
             "crest": "https://crests.football-data.org/1777.png"
           },
-          "playedGames": 27,
+          "playedGames": 28,
           "form": null,
           "won": 12,
           "draw": 10,
-          "lost": 5,
+          "lost": 6,
           "points": 46,
-          "goalsFor": 42,
-          "goalsAgainst": 33,
-          "goalDifference": 9
+          "goalsFor": 43,
+          "goalsAgainst": 35,
+          "goalDifference": 8
         },
         {
           "position": 6,
@@ -214,12 +214,12 @@
           "draw": 6,
           "lost": 11,
           "points": 36,
-          "goalsFor": 32,
-          "goalsAgainst": 30,
+          "goalsFor": 33,
+          "goalsAgainst": 31,
           "goalDifference": 2
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 1776,
             "name": "São Paulo FC",
