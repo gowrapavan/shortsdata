@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-30T11:27:29.897858Z",
+    "last_updated": "2026-10-01T11:55:30.018214Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -487,9 +487,101 @@
             ]
         },
         "DED": {
-            "competition": "DED",
-            "error": "500 Server Error:  for url: https://api.football-data.org/v4/competitions/DED/scorers",
-            "scorers": []
+            "competition": "Eredivisie",
+            "code": "DED",
+            "count": 10,
+            "scorers": [
+                {
+                    "player_name": "Søren Tengstedt",
+                    "team_name": "Go Ahead Eagles",
+                    "team_crest": "https://crests.football-data.org/718.png",
+                    "goals": 5,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Denmark"
+                },
+                {
+                    "player_name": "Milan Zonneveld",
+                    "team_name": "Sparta Rotterdam",
+                    "team_crest": "https://crests.football-data.org/6806.png",
+                    "goals": 5,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Artem Stepanov",
+                    "team_name": "FC Utrecht",
+                    "team_crest": "https://crests.football-data.org/676.png",
+                    "goals": 5,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Ukraine"
+                },
+                {
+                    "player_name": "Gjivai Zechiël",
+                    "team_name": "Feyenoord Rotterdam",
+                    "team_crest": "https://crests.football-data.org/675.png",
+                    "goals": 5,
+                    "assists": 4,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Anis Moussa",
+                    "team_name": "Feyenoord Rotterdam",
+                    "team_crest": "https://crests.football-data.org/675.png",
+                    "goals": 5,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Algeria"
+                },
+                {
+                    "player_name": "Ro-Zangelo Daal",
+                    "team_name": "AZ",
+                    "team_crest": "https://crests.football-data.org/682.png",
+                    "goals": 4,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Luciano Valente",
+                    "team_name": "Feyenoord Rotterdam",
+                    "team_crest": "https://crests.football-data.org/675.png",
+                    "goals": 4,
+                    "assists": 1,
+                    "penalties": 1,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Brynjolfur Darri Willumsson",
+                    "team_name": "FC Groningen",
+                    "team_crest": "https://crests.football-data.org/677.png",
+                    "goals": 4,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Iceland"
+                },
+                {
+                    "player_name": "Thom van Bergen",
+                    "team_name": "FC Groningen",
+                    "team_crest": "https://crests.football-data.org/677.png",
+                    "goals": 4,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Julian Brandt",
+                    "team_name": "AFC Ajax",
+                    "team_crest": "https://crests.football-data.org/678.png",
+                    "goals": 4,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Germany"
+                }
+            ]
         },
         "CL": {
             "competition": "UEFA Champions League",
