@@ -37,14 +37,14 @@
             "tla": "BVB",
             "crest": "https://crests.football-data.org/4.png"
           },
-          "playedGames": 4,
+          "playedGames": 5,
           "form": null,
           "won": 4,
-          "draw": 0,
+          "draw": 1,
           "lost": 0,
-          "points": 12,
-          "goalsFor": 9,
-          "goalsAgainst": 2,
+          "points": 13,
+          "goalsFor": 11,
+          "goalsAgainst": 4,
           "goalDifference": 7
         },
         {
@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 12,
+            "name": "SV Werder Bremen",
+            "shortName": "Bremen",
+            "tla": "SVW",
+            "crest": "https://crests.football-data.org/12.png"
+          },
+          "playedGames": 5,
+          "form": null,
+          "won": 2,
+          "draw": 2,
+          "lost": 1,
+          "points": 8,
+          "goalsFor": 10,
+          "goalsAgainst": 10,
+          "goalDifference": 0
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 16,
             "name": "FC Augsburg",
             "shortName": "Augsburg",
@@ -105,7 +124,7 @@
           "goalDifference": 5
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 3,
             "name": "Bayer 04 Leverkusen",
@@ -124,7 +143,7 @@
           "goalDifference": 5
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 15,
             "name": "1. FSV Mainz 05",
@@ -143,7 +162,7 @@
           "goalDifference": 4
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 719,
             "name": "SV 07 Elversberg",
@@ -160,25 +179,6 @@
           "goalsFor": 8,
           "goalsAgainst": 7,
           "goalDifference": 1
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 12,
-            "name": "SV Werder Bremen",
-            "shortName": "Bremen",
-            "tla": "SVW",
-            "crest": "https://crests.football-data.org/12.png"
-          },
-          "playedGames": 4,
-          "form": null,
-          "won": 2,
-          "draw": 1,
-          "lost": 1,
-          "points": 7,
-          "goalsFor": 8,
-          "goalsAgainst": 8,
-          "goalDifference": 0
         },
         {
           "position": 9,

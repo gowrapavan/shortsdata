@@ -50,6 +50,25 @@
         {
           "position": 2,
           "team": {
+            "id": 498,
+            "name": "Sporting Clube de Portugal",
+            "shortName": "Sporting CP",
+            "tla": "SPO",
+            "crest": "https://crests.football-data.org/498.png"
+          },
+          "playedGames": 8,
+          "form": null,
+          "won": 5,
+          "draw": 3,
+          "lost": 0,
+          "points": 18,
+          "goalsFor": 20,
+          "goalsAgainst": 9,
+          "goalDifference": 11
+        },
+        {
+          "position": 3,
+          "team": {
             "id": 1903,
             "name": "Sport Lisboa e Benfica",
             "shortName": "SL Benfica",
@@ -65,25 +84,6 @@
           "goalsFor": 22,
           "goalsAgainst": 7,
           "goalDifference": 15
-        },
-        {
-          "position": 3,
-          "team": {
-            "id": 498,
-            "name": "Sporting Clube de Portugal",
-            "shortName": "Sporting CP",
-            "tla": "SPO",
-            "crest": "https://crests.football-data.org/498.png"
-          },
-          "playedGames": 7,
-          "form": null,
-          "won": 4,
-          "draw": 3,
-          "lost": 0,
-          "points": 15,
-          "goalsFor": 17,
-          "goalsAgainst": 8,
-          "goalDifference": 9
         },
         {
           "position": 4,
@@ -126,21 +126,21 @@
         {
           "position": 6,
           "team": {
-            "id": 5613,
-            "name": "Sporting Clube de Braga",
-            "shortName": "Braga",
-            "tla": "SCB",
-            "crest": "https://crests.football-data.org/5613.png"
+            "id": 5533,
+            "name": "Gil Vicente FC",
+            "shortName": "Gil Vicente",
+            "tla": "GIL",
+            "crest": "https://crests.football-data.org/5533.png"
           },
-          "playedGames": 6,
+          "playedGames": 7,
           "form": null,
           "won": 3,
           "draw": 2,
-          "lost": 1,
+          "lost": 2,
           "points": 11,
-          "goalsFor": 7,
+          "goalsFor": 6,
           "goalsAgainst": 5,
-          "goalDifference": 2
+          "goalDifference": 1
         },
         {
           "position": 7,
@@ -164,6 +164,25 @@
         {
           "position": 8,
           "team": {
+            "id": 5613,
+            "name": "Sporting Clube de Braga",
+            "shortName": "Braga",
+            "tla": "SCB",
+            "crest": "https://crests.football-data.org/5613.png"
+          },
+          "playedGames": 7,
+          "form": null,
+          "won": 3,
+          "draw": 2,
+          "lost": 2,
+          "points": 11,
+          "goalsFor": 8,
+          "goalsAgainst": 8,
+          "goalDifference": 0
+        },
+        {
+          "position": 9,
+          "team": {
             "id": 9136,
             "name": "CF Estrela da Amadora",
             "shortName": "Amadora",
@@ -178,25 +197,6 @@
           "points": 10,
           "goalsFor": 14,
           "goalsAgainst": 14,
-          "goalDifference": 0
-        },
-        {
-          "position": 9,
-          "team": {
-            "id": 5533,
-            "name": "Gil Vicente FC",
-            "shortName": "Gil Vicente",
-            "tla": "GIL",
-            "crest": "https://crests.football-data.org/5533.png"
-          },
-          "playedGames": 6,
-          "form": null,
-          "won": 2,
-          "draw": 2,
-          "lost": 2,
-          "points": 8,
-          "goalsFor": 5,
-          "goalsAgainst": 5,
           "goalDifference": 0
         },
         {
@@ -246,15 +246,15 @@
             "tla": "MOR",
             "crest": "https://crests.football-data.org/583.png"
           },
-          "playedGames": 7,
+          "playedGames": 8,
           "form": null,
           "won": 2,
           "draw": 2,
-          "lost": 3,
+          "lost": 4,
           "points": 8,
           "goalsFor": 8,
-          "goalsAgainst": 14,
-          "goalDifference": -6
+          "goalsAgainst": 15,
+          "goalDifference": -7
         },
         {
           "position": 13,
