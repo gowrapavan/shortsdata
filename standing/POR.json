@@ -37,15 +37,15 @@
             "tla": "FCP",
             "crest": "https://crests.football-data.org/503.png"
           },
-          "playedGames": 7,
+          "playedGames": 8,
           "form": null,
-          "won": 7,
+          "won": 8,
           "draw": 0,
           "lost": 0,
-          "points": 21,
-          "goalsFor": 18,
-          "goalsAgainst": 3,
-          "goalDifference": 15
+          "points": 24,
+          "goalsFor": 20,
+          "goalsAgainst": 4,
+          "goalDifference": 16
         },
         {
           "position": 2,
@@ -69,6 +69,25 @@
         {
           "position": 3,
           "team": {
+            "id": 5530,
+            "name": "CD Santa Clara",
+            "shortName": "Santa Clara",
+            "tla": "CD ",
+            "crest": "https://crests.football-data.org/5530.png"
+          },
+          "playedGames": 8,
+          "form": null,
+          "won": 5,
+          "draw": 3,
+          "lost": 0,
+          "points": 18,
+          "goalsFor": 12,
+          "goalsAgainst": 4,
+          "goalDifference": 8
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 1903,
             "name": "Sport Lisboa e Benfica",
             "shortName": "SL Benfica",
@@ -86,26 +105,26 @@
           "goalDifference": 15
         },
         {
-          "position": 4,
+          "position": 5,
           "team": {
-            "id": 5530,
-            "name": "CD Santa Clara",
-            "shortName": "Santa Clara",
-            "tla": "CD ",
-            "crest": "https://crests.football-data.org/5530.png"
+            "id": 5527,
+            "name": "Académico de Viseu FC",
+            "shortName": "Acad. Viseu",
+            "tla": "ACV",
+            "crest": "https://crests.football-data.org/5527.png"
           },
-          "playedGames": 7,
+          "playedGames": 8,
           "form": null,
           "won": 4,
-          "draw": 3,
-          "lost": 0,
-          "points": 15,
+          "draw": 2,
+          "lost": 2,
+          "points": 14,
           "goalsFor": 11,
-          "goalsAgainst": 4,
-          "goalDifference": 7
+          "goalsAgainst": 10,
+          "goalDifference": 1
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 712,
             "name": "FC Arouca",
@@ -124,7 +143,7 @@
           "goalDifference": 3
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 5533,
             "name": "Gil Vicente FC",
@@ -141,25 +160,6 @@
           "goalsFor": 6,
           "goalsAgainst": 5,
           "goalDifference": 1
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": 5527,
-            "name": "Académico de Viseu FC",
-            "shortName": "Acad. Viseu",
-            "tla": "ACV",
-            "crest": "https://crests.football-data.org/5527.png"
-          },
-          "playedGames": 7,
-          "form": null,
-          "won": 3,
-          "draw": 2,
-          "lost": 2,
-          "points": 11,
-          "goalsFor": 9,
-          "goalsAgainst": 9,
-          "goalDifference": 0
         },
         {
           "position": 8,
@@ -227,15 +227,15 @@
             "tla": "CSM",
             "crest": "https://crests.football-data.org/5575.png"
           },
-          "playedGames": 7,
+          "playedGames": 8,
           "form": null,
           "won": 2,
           "draw": 2,
-          "lost": 3,
+          "lost": 4,
           "points": 8,
-          "goalsFor": 8,
-          "goalsAgainst": 12,
-          "goalDifference": -4
+          "goalsFor": 9,
+          "goalsAgainst": 14,
+          "goalDifference": -5
         },
         {
           "position": 12,
@@ -341,15 +341,15 @@
             "tla": "CAS",
             "crest": "https://crests.football-data.org/6618.png"
           },
-          "playedGames": 7,
+          "playedGames": 8,
           "form": null,
           "won": 1,
           "draw": 1,
-          "lost": 5,
+          "lost": 6,
           "points": 4,
           "goalsFor": 3,
-          "goalsAgainst": 16,
-          "goalDifference": -13
+          "goalsAgainst": 17,
+          "goalDifference": -14
         },
         {
           "position": 18,
@@ -360,15 +360,15 @@
             "tla": "EST",
             "crest": "https://crests.football-data.org/582.png"
           },
-          "playedGames": 7,
+          "playedGames": 8,
           "form": null,
           "won": 0,
           "draw": 2,
-          "lost": 5,
+          "lost": 6,
           "points": 2,
-          "goalsFor": 3,
-          "goalsAgainst": 10,
-          "goalDifference": -7
+          "goalsFor": 4,
+          "goalsAgainst": 12,
+          "goalDifference": -8
         }
       ]
     }
