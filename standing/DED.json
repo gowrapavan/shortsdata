@@ -259,6 +259,25 @@
         {
           "position": 13,
           "team": {
+            "id": 676,
+            "name": "FC Utrecht",
+            "shortName": "Utrecht",
+            "tla": "UTR",
+            "crest": "https://crests.football-data.org/676.png"
+          },
+          "playedGames": 8,
+          "form": null,
+          "won": 1,
+          "draw": 3,
+          "lost": 4,
+          "points": 6,
+          "goalsFor": 11,
+          "goalsAgainst": 24,
+          "goalDifference": -13
+        },
+        {
+          "position": 14,
+          "team": {
             "id": 1912,
             "name": "Telstar 1963",
             "shortName": "Telstar",
@@ -276,7 +295,7 @@
           "goalDifference": -7
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 1909,
             "name": "SC Cambuur-Leeuwarden",
@@ -293,25 +312,6 @@
           "goalsFor": 10,
           "goalsAgainst": 19,
           "goalDifference": -9
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 676,
-            "name": "FC Utrecht",
-            "shortName": "Utrecht",
-            "tla": "UTR",
-            "crest": "https://crests.football-data.org/676.png"
-          },
-          "playedGames": 7,
-          "form": null,
-          "won": 1,
-          "draw": 2,
-          "lost": 4,
-          "points": 5,
-          "goalsFor": 11,
-          "goalsAgainst": 24,
-          "goalDifference": -13
         },
         {
           "position": 16,
@@ -335,6 +335,25 @@
         {
           "position": 17,
           "team": {
+            "id": 672,
+            "name": "Willem II Tilburg",
+            "shortName": "Willem II",
+            "tla": "WII",
+            "crest": "https://crests.football-data.org/672.png"
+          },
+          "playedGames": 8,
+          "form": null,
+          "won": 0,
+          "draw": 3,
+          "lost": 5,
+          "points": 3,
+          "goalsFor": 6,
+          "goalsAgainst": 20,
+          "goalDifference": -14
+        },
+        {
+          "position": 18,
+          "team": {
             "id": 680,
             "name": "ADO Den Haag",
             "shortName": "Den Haag",
@@ -350,25 +369,6 @@
           "goalsFor": 7,
           "goalsAgainst": 17,
           "goalDifference": -10
-        },
-        {
-          "position": 18,
-          "team": {
-            "id": 672,
-            "name": "Willem II Tilburg",
-            "shortName": "Willem II",
-            "tla": "WII",
-            "crest": "https://crests.football-data.org/672.png"
-          },
-          "playedGames": 7,
-          "form": null,
-          "won": 0,
-          "draw": 2,
-          "lost": 5,
-          "points": 2,
-          "goalsFor": 6,
-          "goalsAgainst": 20,
-          "goalDifference": -14
         }
       ]
     }
