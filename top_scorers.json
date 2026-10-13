@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-12T13:40:22.399649Z",
+    "last_updated": "2026-10-13T13:02:17.011975Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -264,6 +264,15 @@
                     "nationality": "Belgium"
                 },
                 {
+                    "player_name": "Nikola Krstović",
+                    "team_name": "Atalanta BC",
+                    "team_crest": "https://crests.football-data.org/102.png",
+                    "goals": 3,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Montenegro"
+                },
+                {
                     "player_name": "Adrien Rabiot",
                     "team_name": "AC Milan",
                     "team_crest": "https://crests.football-data.org/98.png",
@@ -280,15 +289,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Italy"
-                },
-                {
-                    "player_name": "Milutin Osmajić",
-                    "team_name": "Genoa CFC",
-                    "team_crest": "https://crests.football-data.org/107.png",
-                    "goals": 3,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "Montenegro"
                 }
             ]
         },
