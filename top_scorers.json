@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-13T13:02:17.011975Z",
+    "last_updated": "2026-10-14T10:43:40.529580Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -589,6 +589,15 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Nicolo Tresoldi",
+                    "team_name": "Club Brugge KV",
+                    "team_crest": "https://crests.football-data.org/851.png",
+                    "goals": 4,
+                    "assists": null,
+                    "penalties": 2,
+                    "nationality": "Italy"
+                },
+                {
                     "player_name": "Ermedin Demirovic",
                     "team_name": "VfB Stuttgart",
                     "team_crest": "https://crests.football-data.org/10.png",
@@ -607,6 +616,15 @@
                     "nationality": "Spain"
                 },
                 {
+                    "player_name": "Harry Kane",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 3,
+                    "assists": 1,
+                    "penalties": 1,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Erling Haaland",
                     "team_name": "Manchester City FC",
                     "team_crest": "https://crests.football-data.org/65.png",
@@ -614,6 +632,15 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Norway"
+                },
+                {
+                    "player_name": "Santiago Mouriño",
+                    "team_name": "Villarreal CF",
+                    "team_crest": "https://crests.football-data.org/94.png",
+                    "goals": 2,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Uruguay"
                 },
                 {
                     "player_name": "Sehrou Guirassy",
@@ -643,40 +670,13 @@
                     "nationality": "Brazil"
                 },
                 {
-                    "player_name": "Ousmane Dembélé",
-                    "team_name": "Paris Saint-Germain FC",
-                    "team_crest": "https://crests.football-data.org/524.png",
-                    "goals": 2,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "France"
-                },
-                {
-                    "player_name": "Michael Olise",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 2,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "France"
-                },
-                {
-                    "player_name": "Danijel Sturm",
-                    "team_name": "SK Slavia Praha",
-                    "team_crest": "https://crests.football-data.org/930.png",
+                    "player_name": "Karim Adeyemi",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
                     "goals": 2,
                     "assists": null,
                     "penalties": null,
-                    "nationality": "Slovenia"
-                },
-                {
-                    "player_name": "John McGinn",
-                    "team_name": "Aston Villa FC",
-                    "team_crest": "https://crests.football-data.org/58.png",
-                    "goals": 1,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Scotland"
+                    "nationality": "Germany"
                 }
             ]
         }
