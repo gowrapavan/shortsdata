@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-14T10:43:40.529580Z",
+    "last_updated": "2026-10-15T10:26:32.844418Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -598,13 +598,40 @@
                     "nationality": "Italy"
                 },
                 {
+                    "player_name": "Erling Haaland",
+                    "team_name": "Manchester City FC",
+                    "team_crest": "https://crests.football-data.org/65.png",
+                    "goals": 4,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Norway"
+                },
+                {
                     "player_name": "Ermedin Demirovic",
                     "team_name": "VfB Stuttgart",
                     "team_crest": "https://crests.football-data.org/10.png",
-                    "goals": 3,
+                    "goals": 4,
                     "assists": null,
                     "penalties": null,
                     "nationality": "Bosnia-Herzegovina"
+                },
+                {
+                    "player_name": "Nicolas Jackson",
+                    "team_name": "Aston Villa FC",
+                    "team_crest": "https://crests.football-data.org/58.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Senegal"
+                },
+                {
+                    "player_name": "Ousmane Dembélé",
+                    "team_name": "Paris Saint-Germain FC",
+                    "team_crest": "https://crests.football-data.org/524.png",
+                    "goals": 3,
+                    "assists": 3,
+                    "penalties": null,
+                    "nationality": "France"
                 },
                 {
                     "player_name": "Ferrán Torres",
@@ -625,13 +652,22 @@
                     "nationality": "England"
                 },
                 {
-                    "player_name": "Erling Haaland",
-                    "team_name": "Manchester City FC",
-                    "team_crest": "https://crests.football-data.org/65.png",
+                    "player_name": "Bradley Barcola",
+                    "team_name": "Liverpool FC",
+                    "team_crest": "https://crests.football-data.org/64.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "France"
+                },
+                {
+                    "player_name": "Kylian Mbappé",
+                    "team_name": "Real Madrid CF",
+                    "team_crest": "https://crests.football-data.org/86.png",
                     "goals": 2,
                     "assists": null,
                     "penalties": null,
-                    "nationality": "Norway"
+                    "nationality": "France"
                 },
                 {
                     "player_name": "Santiago Mouriño",
@@ -641,42 +677,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Uruguay"
-                },
-                {
-                    "player_name": "Sehrou Guirassy",
-                    "team_name": "Borussia Dortmund",
-                    "team_crest": "https://crests.football-data.org/4.png",
-                    "goals": 2,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "Guinea"
-                },
-                {
-                    "player_name": "Bartra",
-                    "team_name": "Real Betis Balompié",
-                    "team_crest": "https://crests.football-data.org/90.png",
-                    "goals": 2,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Spain"
-                },
-                {
-                    "player_name": "Raphinha",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 2,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Brazil"
-                },
-                {
-                    "player_name": "Karim Adeyemi",
-                    "team_name": "FC Barcelona",
-                    "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 2,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Germany"
                 }
             ]
         }
