@@ -37,15 +37,15 @@
             "tla": "FEY",
             "crest": "https://crests.football-data.org/675.png"
           },
-          "playedGames": 8,
+          "playedGames": 9,
           "form": null,
-          "won": 6,
+          "won": 7,
           "draw": 2,
           "lost": 0,
-          "points": 20,
-          "goalsFor": 27,
-          "goalsAgainst": 7,
-          "goalDifference": 20
+          "points": 23,
+          "goalsFor": 31,
+          "goalsAgainst": 10,
+          "goalDifference": 21
         },
         {
           "position": 2,
@@ -56,15 +56,15 @@
             "tla": "PSV",
             "crest": "https://crests.football-data.org/674.png"
           },
-          "playedGames": 8,
+          "playedGames": 9,
           "form": null,
           "won": 6,
           "draw": 1,
-          "lost": 1,
+          "lost": 2,
           "points": 19,
-          "goalsFor": 26,
-          "goalsAgainst": 10,
-          "goalDifference": 16
+          "goalsFor": 27,
+          "goalsAgainst": 12,
+          "goalDifference": 15
         },
         {
           "position": 3,
@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 6806,
+            "name": "Sparta Rotterdam",
+            "shortName": "Sparta",
+            "tla": "SPA",
+            "crest": "https://crests.football-data.org/6806.png"
+          },
+          "playedGames": 9,
+          "form": null,
+          "won": 2,
+          "draw": 3,
+          "lost": 4,
+          "points": 9,
+          "goalsFor": 16,
+          "goalsAgainst": 22,
+          "goalDifference": -6
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 1909,
             "name": "SC Cambuur-Leeuwarden",
             "shortName": "Cambuur",
@@ -257,7 +276,7 @@
           "goalDifference": -8
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 676,
             "name": "FC Utrecht",
@@ -276,25 +295,6 @@
           "goalDifference": -11
         },
         {
-          "position": 14,
-          "team": {
-            "id": 6806,
-            "name": "Sparta Rotterdam",
-            "shortName": "Sparta",
-            "tla": "SPA",
-            "crest": "https://crests.football-data.org/6806.png"
-          },
-          "playedGames": 8,
-          "form": null,
-          "won": 1,
-          "draw": 3,
-          "lost": 4,
-          "points": 6,
-          "goalsFor": 13,
-          "goalsAgainst": 20,
-          "goalDifference": -7
-        },
-        {
           "position": 15,
           "team": {
             "id": 1912,
@@ -303,18 +303,37 @@
             "tla": "TEL",
             "crest": "https://crests.football-data.org/1912.png"
           },
-          "playedGames": 8,
+          "playedGames": 9,
           "form": null,
           "won": 1,
           "draw": 3,
-          "lost": 4,
+          "lost": 5,
           "points": 6,
-          "goalsFor": 7,
-          "goalsAgainst": 14,
-          "goalDifference": -7
+          "goalsFor": 10,
+          "goalsAgainst": 18,
+          "goalDifference": -8
         },
         {
           "position": 16,
+          "team": {
+            "id": 680,
+            "name": "ADO Den Haag",
+            "shortName": "Den Haag",
+            "tla": "ADO",
+            "crest": "https://crests.football-data.org/680.png"
+          },
+          "playedGames": 9,
+          "form": null,
+          "won": 1,
+          "draw": 3,
+          "lost": 5,
+          "points": 6,
+          "goalsFor": 11,
+          "goalsAgainst": 20,
+          "goalDifference": -9
+        },
+        {
+          "position": 17,
           "team": {
             "id": 684,
             "name": "PEC Zwolle",
@@ -333,25 +352,6 @@
           "goalDifference": -15
         },
         {
-          "position": 17,
-          "team": {
-            "id": 680,
-            "name": "ADO Den Haag",
-            "shortName": "Den Haag",
-            "tla": "ADO",
-            "crest": "https://crests.football-data.org/680.png"
-          },
-          "playedGames": 8,
-          "form": null,
-          "won": 0,
-          "draw": 3,
-          "lost": 5,
-          "points": 3,
-          "goalsFor": 9,
-          "goalsAgainst": 19,
-          "goalDifference": -10
-        },
-        {
           "position": 18,
           "team": {
             "id": 672,
@@ -360,15 +360,15 @@
             "tla": "WII",
             "crest": "https://crests.football-data.org/672.png"
           },
-          "playedGames": 8,
+          "playedGames": 9,
           "form": null,
           "won": 0,
           "draw": 2,
-          "lost": 6,
+          "lost": 7,
           "points": 2,
-          "goalsFor": 7,
-          "goalsAgainst": 23,
-          "goalDifference": -16
+          "goalsFor": 9,
+          "goalsAgainst": 26,
+          "goalDifference": -17
         }
       ]
     }
