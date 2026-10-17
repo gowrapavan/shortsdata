@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-16T10:13:48.626893Z",
+    "last_updated": "2026-10-17T09:47:41.471190Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -201,6 +201,15 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Antonio Raimondo",
+                    "team_name": "Frosinone Calcio",
+                    "team_crest": "https://crests.football-data.org/470.png",
+                    "goals": 7,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Italy"
+                },
+                {
                     "player_name": "Donyell Malen",
                     "team_name": "AS Roma",
                     "team_crest": "https://crests.football-data.org/100.png",
@@ -217,15 +226,6 @@
                     "assists": null,
                     "penalties": 1,
                     "nationality": "Portugal"
-                },
-                {
-                    "player_name": "Antonio Raimondo",
-                    "team_name": "Frosinone Calcio",
-                    "team_crest": "https://crests.football-data.org/470.png",
-                    "goals": 4,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Italy"
                 },
                 {
                     "player_name": "Lautaro Martínez",
@@ -298,6 +298,15 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Younes Ebnoutalib",
+                    "team_name": "Eintracht Frankfurt",
+                    "team_crest": "https://crests.football-data.org/19.png",
+                    "goals": 5,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Germany"
+                },
+                {
                     "player_name": "Patrik Schick",
                     "team_name": "Bayer 04 Leverkusen",
                     "team_crest": "https://crests.football-data.org/3.png",
@@ -314,15 +323,6 @@
                     "assists": 1,
                     "penalties": null,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Younes Ebnoutalib",
-                    "team_name": "Eintracht Frankfurt",
-                    "team_crest": "https://crests.football-data.org/19.png",
-                    "goals": 4,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "Germany"
                 },
                 {
                     "player_name": "Yuito Suzuki",
@@ -395,6 +395,15 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Casper Tengstedt",
+                    "team_name": "Toulouse FC",
+                    "team_crest": "https://crests.football-data.org/511.png",
+                    "goals": 5,
+                    "assists": 1,
+                    "penalties": 2,
+                    "nationality": "Denmark"
+                },
+                {
                     "player_name": "Amine Gouiri",
                     "team_name": "Olympique de Marseille",
                     "team_crest": "https://crests.football-data.org/516.png",
@@ -465,15 +474,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "England"
-                },
-                {
-                    "player_name": "Casper Tengstedt",
-                    "team_name": "Toulouse FC",
-                    "team_crest": "https://crests.football-data.org/511.png",
-                    "goals": 4,
-                    "assists": 1,
-                    "penalties": 2,
-                    "nationality": "Denmark"
                 },
                 {
                     "player_name": "Florian Thauvin",
