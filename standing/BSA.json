@@ -278,6 +278,25 @@
         {
           "position": 14,
           "team": {
+            "id": 4364,
+            "name": "Mirassol FC",
+            "shortName": "Mirassol",
+            "tla": "MIR",
+            "crest": "https://crests.football-data.org/4364.png"
+          },
+          "playedGames": 31,
+          "form": null,
+          "won": 9,
+          "draw": 9,
+          "lost": 13,
+          "points": 36,
+          "goalsFor": 36,
+          "goalsAgainst": 44,
+          "goalDifference": -8
+        },
+        {
+          "position": 15,
+          "team": {
             "id": 1780,
             "name": "CR Vasco da Gama",
             "shortName": "Vasco da Gama",
@@ -293,25 +312,6 @@
           "goalsFor": 36,
           "goalsAgainst": 42,
           "goalDifference": -6
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 4364,
-            "name": "Mirassol FC",
-            "shortName": "Mirassol",
-            "tla": "MIR",
-            "crest": "https://crests.football-data.org/4364.png"
-          },
-          "playedGames": 30,
-          "form": null,
-          "won": 8,
-          "draw": 9,
-          "lost": 13,
-          "points": 33,
-          "goalsFor": 34,
-          "goalsAgainst": 44,
-          "goalDifference": -10
         },
         {
           "position": 16,
@@ -341,15 +341,15 @@
             "tla": "SCI",
             "crest": "https://crests.football-data.org/6684.png"
           },
-          "playedGames": 30,
+          "playedGames": 31,
           "form": null,
           "won": 7,
           "draw": 11,
-          "lost": 12,
+          "lost": 13,
           "points": 32,
           "goalsFor": 33,
-          "goalsAgainst": 38,
-          "goalDifference": -5
+          "goalsAgainst": 40,
+          "goalDifference": -7
         },
         {
           "position": 18,
