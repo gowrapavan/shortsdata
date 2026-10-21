@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-20T10:30:27.167389Z",
+    "last_updated": "2026-10-21T10:42:44.061998Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -607,6 +607,15 @@
                     "nationality": "Norway"
                 },
                 {
+                    "player_name": "Sehrou Guirassy",
+                    "team_name": "Borussia Dortmund",
+                    "team_crest": "https://crests.football-data.org/4.png",
+                    "goals": 4,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Guinea"
+                },
+                {
                     "player_name": "Ermedin Demirovic",
                     "team_name": "VfB Stuttgart",
                     "team_crest": "https://crests.football-data.org/10.png",
@@ -623,6 +632,15 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Senegal"
+                },
+                {
+                    "player_name": "Alexis Mac Allister",
+                    "team_name": "Liverpool FC",
+                    "team_crest": "https://crests.football-data.org/64.png",
+                    "goals": 3,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Argentina"
                 },
                 {
                     "player_name": "Ousmane Dembélé",
@@ -659,24 +677,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Kylian Mbappé",
-                    "team_name": "Real Madrid CF",
-                    "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 2,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "France"
-                },
-                {
-                    "player_name": "Santiago Mouriño",
-                    "team_name": "Villarreal CF",
-                    "team_crest": "https://crests.football-data.org/94.png",
-                    "goals": 2,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Uruguay"
                 }
             ]
         }
