@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-21T10:42:44.061998Z",
+    "last_updated": "2026-10-22T10:44:22.156334Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -625,6 +625,24 @@
                     "nationality": "Bosnia-Herzegovina"
                 },
                 {
+                    "player_name": "Luis Suárez",
+                    "team_name": "Sporting Clube de Portugal",
+                    "team_crest": "https://crests.football-data.org/498.png",
+                    "goals": 4,
+                    "assists": null,
+                    "penalties": 2,
+                    "nationality": "Colombia"
+                },
+                {
+                    "player_name": "Harry Kane",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 4,
+                    "assists": 2,
+                    "penalties": 2,
+                    "nationality": "England"
+                },
+                {
                     "player_name": "Nicolas Jackson",
                     "team_name": "Aston Villa FC",
                     "team_crest": "https://crests.football-data.org/58.png",
@@ -632,6 +650,15 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Senegal"
+                },
+                {
+                    "player_name": "Kylian Mbappé",
+                    "team_name": "Real Madrid CF",
+                    "team_crest": "https://crests.football-data.org/86.png",
+                    "goals": 3,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "France"
                 },
                 {
                     "player_name": "Alexis Mac Allister",
@@ -648,33 +675,6 @@
                     "team_crest": "https://crests.football-data.org/524.png",
                     "goals": 3,
                     "assists": 3,
-                    "penalties": null,
-                    "nationality": "France"
-                },
-                {
-                    "player_name": "Ferrán Torres",
-                    "team_name": "Paris Saint-Germain FC",
-                    "team_crest": "https://crests.football-data.org/524.png",
-                    "goals": 3,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Spain"
-                },
-                {
-                    "player_name": "Harry Kane",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 3,
-                    "assists": 1,
-                    "penalties": 1,
-                    "nationality": "England"
-                },
-                {
-                    "player_name": "Bradley Barcola",
-                    "team_name": "Liverpool FC",
-                    "team_crest": "https://crests.football-data.org/64.png",
-                    "goals": 3,
-                    "assists": null,
                     "penalties": null,
                     "nationality": "France"
                 }
