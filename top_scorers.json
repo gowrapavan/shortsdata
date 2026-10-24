@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-23T10:35:53.376648Z",
+    "last_updated": "2026-10-24T09:53:56.438524Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -201,6 +201,15 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Gustavo Varela",
+                    "team_name": "AC Monza",
+                    "team_crest": "https://crests.football-data.org/5911.png",
+                    "goals": 7,
+                    "assists": 1,
+                    "penalties": 1,
+                    "nationality": "Portugal"
+                },
+                {
                     "player_name": "Antonio Raimondo",
                     "team_name": "Frosinone Calcio",
                     "team_crest": "https://crests.football-data.org/470.png",
@@ -208,15 +217,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Italy"
-                },
-                {
-                    "player_name": "Gustavo Varela",
-                    "team_name": "AC Monza",
-                    "team_crest": "https://crests.football-data.org/5911.png",
-                    "goals": 6,
-                    "assists": 1,
-                    "penalties": 1,
-                    "nationality": "Portugal"
                 },
                 {
                     "player_name": "Donyell Malen",
@@ -492,6 +492,15 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Søren Tengstedt",
+                    "team_name": "Go Ahead Eagles",
+                    "team_crest": "https://crests.football-data.org/718.png",
+                    "goals": 8,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Denmark"
+                },
+                {
                     "player_name": "Milan Zonneveld",
                     "team_name": "Sparta Rotterdam",
                     "team_crest": "https://crests.football-data.org/6806.png",
@@ -499,15 +508,6 @@
                     "assists": 1,
                     "penalties": null,
                     "nationality": "Netherlands"
-                },
-                {
-                    "player_name": "Søren Tengstedt",
-                    "team_name": "Go Ahead Eagles",
-                    "team_crest": "https://crests.football-data.org/718.png",
-                    "goals": 6,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "Denmark"
                 },
                 {
                     "player_name": "Brynjolfur Darri Willumsson",
