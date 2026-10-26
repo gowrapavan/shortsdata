@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-25T10:15:45.385012Z",
+    "last_updated": "2026-10-26T11:40:45.703590Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -16,19 +16,10 @@
                     "nationality": "Norway"
                 },
                 {
-                    "player_name": "João Pedro",
-                    "team_name": "Chelsea FC",
-                    "team_crest": "https://crests.football-data.org/61.png",
-                    "goals": 5,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "Brazil"
-                },
-                {
                     "player_name": "Alexander Isak",
                     "team_name": "Liverpool FC",
                     "team_crest": "https://crests.football-data.org/64.png",
-                    "goals": 5,
+                    "goals": 6,
                     "assists": null,
                     "penalties": null,
                     "nationality": "Sweden"
@@ -37,10 +28,19 @@
                     "player_name": "Marcus Tavernier",
                     "team_name": "AFC Bournemouth",
                     "team_crest": "https://crests.football-data.org/bournemouth.png",
-                    "goals": 4,
+                    "goals": 5,
                     "assists": null,
                     "penalties": null,
                     "nationality": "England"
+                },
+                {
+                    "player_name": "João Pedro",
+                    "team_name": "Chelsea FC",
+                    "team_crest": "https://crests.football-data.org/61.png",
+                    "goals": 5,
+                    "assists": 3,
+                    "penalties": null,
+                    "nationality": "Brazil"
                 },
                 {
                     "player_name": "Morgan Rogers",
@@ -107,7 +107,7 @@
                     "player_name": "Raphinha",
                     "team_name": "FC Barcelona",
                     "team_crest": "https://crests.football-data.org/81.png",
-                    "goals": 12,
+                    "goals": 13,
                     "assists": 2,
                     "penalties": 3,
                     "nationality": "Brazil"
@@ -116,7 +116,7 @@
                     "player_name": "Kylian Mbappé",
                     "team_name": "Real Madrid CF",
                     "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 9,
+                    "goals": 11,
                     "assists": 2,
                     "penalties": 2,
                     "nationality": "France"
@@ -219,6 +219,15 @@
                     "nationality": "Italy"
                 },
                 {
+                    "player_name": "Nikola Krstović",
+                    "team_name": "Atalanta BC",
+                    "team_crest": "https://crests.football-data.org/102.png",
+                    "goals": 6,
+                    "assists": 2,
+                    "penalties": null,
+                    "nationality": "Montenegro"
+                },
+                {
                     "player_name": "Donyell Malen",
                     "team_name": "AS Roma",
                     "team_crest": "https://crests.football-data.org/100.png",
@@ -237,13 +246,13 @@
                     "nationality": "Greece"
                 },
                 {
-                    "player_name": "Nikola Krstović",
-                    "team_name": "Atalanta BC",
-                    "team_crest": "https://crests.football-data.org/102.png",
-                    "goals": 4,
-                    "assists": 1,
+                    "player_name": "Marcus Thuram-Ulien",
+                    "team_name": "FC Internazionale Milano",
+                    "team_crest": "https://crests.football-data.org/108.png",
+                    "goals": 5,
+                    "assists": 2,
                     "penalties": null,
-                    "nationality": "Montenegro"
+                    "nationality": "France"
                 },
                 {
                     "player_name": "Adrien Rabiot",
@@ -262,15 +271,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Argentina"
-                },
-                {
-                    "player_name": "Marcus Thuram-Ulien",
-                    "team_name": "FC Internazionale Milano",
-                    "team_crest": "https://crests.football-data.org/108.png",
-                    "goals": 4,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "France"
                 },
                 {
                     "player_name": "Daniel Maldini",
@@ -307,6 +307,15 @@
                     "nationality": "Germany"
                 },
                 {
+                    "player_name": "Michael Olise",
+                    "team_name": "FC Bayern München",
+                    "team_crest": "https://crests.football-data.org/5.png",
+                    "goals": 6,
+                    "assists": 3,
+                    "penalties": null,
+                    "nationality": "France"
+                },
+                {
                     "player_name": "Patrik Schick",
                     "team_name": "Bayer 04 Leverkusen",
                     "team_crest": "https://crests.football-data.org/3.png",
@@ -314,15 +323,6 @@
                     "assists": 2,
                     "penalties": null,
                     "nationality": "Czech Republic"
-                },
-                {
-                    "player_name": "Michael Olise",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 5,
-                    "assists": 2,
-                    "penalties": null,
-                    "nationality": "France"
                 },
                 {
                     "player_name": "Younes Ebnoutalib",
@@ -417,9 +417,18 @@
                     "team_name": "Olympique de Marseille",
                     "team_crest": "https://crests.football-data.org/516.png",
                     "goals": 5,
-                    "assists": 1,
+                    "assists": 2,
                     "penalties": 1,
                     "nationality": "Algeria"
+                },
+                {
+                    "player_name": "Cameron Archer",
+                    "team_name": "AJ Auxerre",
+                    "team_crest": "https://crests.football-data.org/519.png",
+                    "goals": 5,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "England"
                 },
                 {
                     "player_name": "Casper Tengstedt",
@@ -474,15 +483,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Germany"
-                },
-                {
-                    "player_name": "Cameron Archer",
-                    "team_name": "AJ Auxerre",
-                    "team_crest": "https://crests.football-data.org/519.png",
-                    "goals": 4,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "England"
                 }
             ]
         },
@@ -501,6 +501,15 @@
                     "nationality": "Denmark"
                 },
                 {
+                    "player_name": "Brynjolfur Darri Willumsson",
+                    "team_name": "FC Groningen",
+                    "team_crest": "https://crests.football-data.org/677.png",
+                    "goals": 8,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Iceland"
+                },
+                {
                     "player_name": "Milan Zonneveld",
                     "team_name": "Sparta Rotterdam",
                     "team_crest": "https://crests.football-data.org/6806.png",
@@ -510,20 +519,11 @@
                     "nationality": "Netherlands"
                 },
                 {
-                    "player_name": "Brynjolfur Darri Willumsson",
-                    "team_name": "FC Groningen",
-                    "team_crest": "https://crests.football-data.org/677.png",
-                    "goals": 6,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Iceland"
-                },
-                {
                     "player_name": "Thom van Bergen",
                     "team_name": "FC Groningen",
                     "team_crest": "https://crests.football-data.org/677.png",
                     "goals": 6,
-                    "assists": 2,
+                    "assists": 3,
                     "penalties": 1,
                     "nationality": "Netherlands"
                 },
@@ -532,7 +532,7 @@
                     "team_name": "AFC Ajax",
                     "team_crest": "https://crests.football-data.org/678.png",
                     "goals": 6,
-                    "assists": null,
+                    "assists": 2,
                     "penalties": null,
                     "nationality": "Germany"
                 },
@@ -544,6 +544,24 @@
                     "assists": 2,
                     "penalties": null,
                     "nationality": "Denmark"
+                },
+                {
+                    "player_name": "Guus Til",
+                    "team_name": "PSV",
+                    "team_crest": "https://crests.football-data.org/674.png",
+                    "goals": 6,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
+                    "player_name": "Anis Moussa",
+                    "team_name": "Feyenoord Rotterdam",
+                    "team_crest": "https://crests.football-data.org/675.png",
+                    "goals": 6,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Algeria"
                 },
                 {
                     "player_name": "Ro-Zangelo Daal",
@@ -562,24 +580,6 @@
                     "assists": null,
                     "penalties": 1,
                     "nationality": "Ukraine"
-                },
-                {
-                    "player_name": "Rafik el Arguioui",
-                    "team_name": "SC Cambuur-Leeuwarden",
-                    "team_crest": "https://crests.football-data.org/1909.png",
-                    "goals": 5,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "Netherlands"
-                },
-                {
-                    "player_name": "Gjivai Zechiël",
-                    "team_name": "Feyenoord Rotterdam",
-                    "team_crest": "https://crests.football-data.org/675.png",
-                    "goals": 5,
-                    "assists": 4,
-                    "penalties": null,
-                    "nationality": "Netherlands"
                 }
             ]
         },
