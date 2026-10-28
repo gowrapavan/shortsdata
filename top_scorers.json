@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-27T11:09:07.283141Z",
+    "last_updated": "2026-10-28T11:43:33.651857Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -210,6 +210,15 @@
                     "nationality": "Portugal"
                 },
                 {
+                    "player_name": "Donyell Malen",
+                    "team_name": "AS Roma",
+                    "team_crest": "https://crests.football-data.org/100.png",
+                    "goals": 7,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Netherlands"
+                },
+                {
                     "player_name": "Antonio Raimondo",
                     "team_name": "Frosinone Calcio",
                     "team_crest": "https://crests.football-data.org/470.png",
@@ -226,15 +235,6 @@
                     "assists": 2,
                     "penalties": null,
                     "nationality": "Montenegro"
-                },
-                {
-                    "player_name": "Donyell Malen",
-                    "team_name": "AS Roma",
-                    "team_crest": "https://crests.football-data.org/100.png",
-                    "goals": 6,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "Netherlands"
                 },
                 {
                     "player_name": "Anastasios Douvikas",
@@ -255,6 +255,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Daniel Maldini",
+                    "team_name": "Cagliari Calcio",
+                    "team_crest": "https://crests.football-data.org/104.png",
+                    "goals": 5,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Italy"
+                },
+                {
                     "player_name": "Adrien Rabiot",
                     "team_name": "AC Milan",
                     "team_crest": "https://crests.football-data.org/98.png",
@@ -264,6 +273,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Che Adams",
+                    "team_name": "Torino FC",
+                    "team_crest": "https://crests.football-data.org/586.png",
+                    "goals": 4,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Scotland"
+                },
+                {
                     "player_name": "Lautaro Martínez",
                     "team_name": "FC Internazionale Milano",
                     "team_crest": "https://crests.football-data.org/108.png",
@@ -271,24 +289,6 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Argentina"
-                },
-                {
-                    "player_name": "Daniel Maldini",
-                    "team_name": "Cagliari Calcio",
-                    "team_crest": "https://crests.football-data.org/104.png",
-                    "goals": 4,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "Italy"
-                },
-                {
-                    "player_name": "Hakan Çalhanoğlu",
-                    "team_name": "FC Internazionale Milano",
-                    "team_crest": "https://crests.football-data.org/108.png",
-                    "goals": 3,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "Turkey"
                 }
             ]
         },
