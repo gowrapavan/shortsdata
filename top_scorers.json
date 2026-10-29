@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-28T11:43:33.651857Z",
+    "last_updated": "2026-10-29T11:52:00.293824Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -204,7 +204,7 @@
                     "player_name": "Gustavo Varela",
                     "team_name": "AC Monza",
                     "team_crest": "https://crests.football-data.org/5911.png",
-                    "goals": 7,
+                    "goals": 8,
                     "assists": 1,
                     "penalties": 1,
                     "nationality": "Portugal"
@@ -264,6 +264,24 @@
                     "nationality": "Italy"
                 },
                 {
+                    "player_name": "Kevin De Bruyne",
+                    "team_name": "SSC Napoli",
+                    "team_crest": "https://crests.football-data.org/113.png",
+                    "goals": 4,
+                    "assists": 1,
+                    "penalties": 1,
+                    "nationality": "Belgium"
+                },
+                {
+                    "player_name": "Alphadjo Cisse",
+                    "team_name": "AC Milan",
+                    "team_crest": "https://crests.football-data.org/98.png",
+                    "goals": 4,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Italy"
+                },
+                {
                     "player_name": "Adrien Rabiot",
                     "team_name": "AC Milan",
                     "team_crest": "https://crests.football-data.org/98.png",
@@ -271,24 +289,6 @@
                     "assists": 3,
                     "penalties": null,
                     "nationality": "France"
-                },
-                {
-                    "player_name": "Che Adams",
-                    "team_name": "Torino FC",
-                    "team_crest": "https://crests.football-data.org/586.png",
-                    "goals": 4,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Scotland"
-                },
-                {
-                    "player_name": "Lautaro Martínez",
-                    "team_name": "FC Internazionale Milano",
-                    "team_crest": "https://crests.football-data.org/108.png",
-                    "goals": 4,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Argentina"
                 }
             ]
         },
