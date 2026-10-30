@@ -39,13 +39,13 @@
           },
           "playedGames": 33,
           "form": null,
-          "won": 21,
-          "draw": 8,
+          "won": 22,
+          "draw": 7,
           "lost": 4,
-          "points": 71,
-          "goalsFor": 65,
+          "points": 73,
+          "goalsFor": 68,
           "goalsAgainst": 28,
-          "goalDifference": 37
+          "goalDifference": 40
         },
         {
           "position": 2,
@@ -88,25 +88,6 @@
         {
           "position": 4,
           "team": {
-            "id": 1768,
-            "name": "CA Paranaense",
-            "shortName": "Paranaense",
-            "tla": "CAP",
-            "crest": "https://crests.football-data.org/1768.png"
-          },
-          "playedGames": 32,
-          "form": null,
-          "won": 15,
-          "draw": 9,
-          "lost": 8,
-          "points": 54,
-          "goalsFor": 50,
-          "goalsAgainst": 38,
-          "goalDifference": 12
-        },
-        {
-          "position": 5,
-          "team": {
             "id": 1765,
             "name": "Fluminense FC",
             "shortName": "Fluminense",
@@ -121,6 +102,25 @@
           "points": 54,
           "goalsFor": 52,
           "goalsAgainst": 42,
+          "goalDifference": 10
+        },
+        {
+          "position": 5,
+          "team": {
+            "id": 1768,
+            "name": "CA Paranaense",
+            "shortName": "Paranaense",
+            "tla": "CAP",
+            "crest": "https://crests.football-data.org/1768.png"
+          },
+          "playedGames": 33,
+          "form": null,
+          "won": 15,
+          "draw": 9,
+          "lost": 9,
+          "points": 54,
+          "goalsFor": 50,
+          "goalsAgainst": 40,
           "goalDifference": 10
         },
         {
@@ -221,25 +221,6 @@
         {
           "position": 11,
           "team": {
-            "id": 1780,
-            "name": "CR Vasco da Gama",
-            "shortName": "Vasco da Gama",
-            "tla": "VAS",
-            "crest": "https://crests.football-data.org/1780.png"
-          },
-          "playedGames": 32,
-          "form": null,
-          "won": 10,
-          "draw": 9,
-          "lost": 13,
-          "points": 39,
-          "goalsFor": 40,
-          "goalsAgainst": 46,
-          "goalDifference": -6
-        },
-        {
-          "position": 12,
-          "team": {
             "id": 1770,
             "name": "Botafogo FR",
             "shortName": "Botafogo",
@@ -257,7 +238,7 @@
           "goalDifference": -8
         },
         {
-          "position": 13,
+          "position": 12,
           "team": {
             "id": 4241,
             "name": "Coritiba FBC",
@@ -274,6 +255,25 @@
           "goalsFor": 38,
           "goalsAgainst": 50,
           "goalDifference": -12
+        },
+        {
+          "position": 13,
+          "team": {
+            "id": 1780,
+            "name": "CR Vasco da Gama",
+            "shortName": "Vasco da Gama",
+            "tla": "VAS",
+            "crest": "https://crests.football-data.org/1780.png"
+          },
+          "playedGames": 32,
+          "form": null,
+          "won": 10,
+          "draw": 8,
+          "lost": 14,
+          "points": 38,
+          "goalsFor": 40,
+          "goalsAgainst": 49,
+          "goalDifference": -9
         },
         {
           "position": 14,
@@ -297,6 +297,25 @@
         {
           "position": 15,
           "team": {
+            "id": 1767,
+            "name": "Grêmio FBPA",
+            "shortName": "Grêmio",
+            "tla": "FBP",
+            "crest": "https://crests.football-data.org/1767.png"
+          },
+          "playedGames": 33,
+          "form": null,
+          "won": 9,
+          "draw": 10,
+          "lost": 14,
+          "points": 37,
+          "goalsFor": 37,
+          "goalsAgainst": 44,
+          "goalDifference": -7
+        },
+        {
+          "position": 16,
+          "team": {
             "id": 4364,
             "name": "Mirassol FC",
             "shortName": "Mirassol",
@@ -314,7 +333,7 @@
           "goalDifference": -8
         },
         {
-          "position": 16,
+          "position": 17,
           "team": {
             "id": 6684,
             "name": "SC Internacional",
@@ -331,25 +350,6 @@
           "goalsFor": 37,
           "goalsAgainst": 42,
           "goalDifference": -5
-        },
-        {
-          "position": 17,
-          "team": {
-            "id": 1767,
-            "name": "Grêmio FBPA",
-            "shortName": "Grêmio",
-            "tla": "FBP",
-            "crest": "https://crests.football-data.org/1767.png"
-          },
-          "playedGames": 32,
-          "form": null,
-          "won": 8,
-          "draw": 10,
-          "lost": 14,
-          "points": 34,
-          "goalsFor": 35,
-          "goalsAgainst": 44,
-          "goalDifference": -9
         },
         {
           "position": 18,
