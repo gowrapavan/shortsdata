@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 719,
+            "name": "SV 07 Elversberg",
+            "shortName": "Elversberg",
+            "tla": "ELV",
+            "crest": "https://crests.football-data.org/719.png"
+          },
+          "playedGames": 8,
+          "form": null,
+          "won": 4,
+          "draw": 1,
+          "lost": 3,
+          "points": 13,
+          "goalsFor": 16,
+          "goalsAgainst": 16,
+          "goalDifference": 0
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 721,
             "name": "RB Leipzig",
             "shortName": "RB Leipzig",
@@ -124,7 +143,7 @@
           "goalDifference": 9
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 12,
             "name": "SV Werder Bremen",
@@ -143,7 +162,7 @@
           "goalDifference": 1
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 15,
             "name": "1. FSV Mainz 05",
@@ -151,34 +170,15 @@
             "tla": "M05",
             "crest": "https://crests.football-data.org/15.png"
           },
-          "playedGames": 7,
+          "playedGames": 8,
           "form": null,
           "won": 3,
           "draw": 1,
-          "lost": 3,
+          "lost": 4,
           "points": 10,
-          "goalsFor": 16,
-          "goalsAgainst": 13,
-          "goalDifference": 3
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 719,
-            "name": "SV 07 Elversberg",
-            "shortName": "Elversberg",
-            "tla": "ELV",
-            "crest": "https://crests.football-data.org/719.png"
-          },
-          "playedGames": 7,
-          "form": null,
-          "won": 3,
-          "draw": 1,
-          "lost": 3,
-          "points": 10,
-          "goalsFor": 12,
-          "goalsAgainst": 15,
-          "goalDifference": -3
+          "goalsFor": 17,
+          "goalsAgainst": 17,
+          "goalDifference": 0
         },
         {
           "position": 9,
