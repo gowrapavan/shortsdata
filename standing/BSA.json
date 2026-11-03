@@ -164,40 +164,40 @@
         {
           "position": 8,
           "team": {
-            "id": 6685,
-            "name": "Santos FC",
-            "shortName": "Santos",
-            "tla": "SAN",
-            "crest": "https://crests.football-data.org/6685.png"
-          },
-          "playedGames": 33,
-          "form": null,
-          "won": 12,
-          "draw": 11,
-          "lost": 10,
-          "points": 47,
-          "goalsFor": 49,
-          "goalsAgainst": 47,
-          "goalDifference": 2
-        },
-        {
-          "position": 9,
-          "team": {
             "id": 4286,
             "name": "RB Bragantino",
             "shortName": "Bragantino",
             "tla": "RBB",
             "crest": "https://crests.football-data.org/4286.png"
           },
-          "playedGames": 33,
+          "playedGames": 34,
           "form": null,
-          "won": 12,
+          "won": 13,
           "draw": 8,
           "lost": 13,
-          "points": 44,
-          "goalsFor": 42,
-          "goalsAgainst": 38,
-          "goalDifference": 4
+          "points": 47,
+          "goalsFor": 44,
+          "goalsAgainst": 39,
+          "goalDifference": 5
+        },
+        {
+          "position": 9,
+          "team": {
+            "id": 6685,
+            "name": "Santos FC",
+            "shortName": "Santos",
+            "tla": "SAN",
+            "crest": "https://crests.football-data.org/6685.png"
+          },
+          "playedGames": 34,
+          "form": null,
+          "won": 12,
+          "draw": 11,
+          "lost": 11,
+          "points": 47,
+          "goalsFor": 50,
+          "goalsAgainst": 49,
+          "goalDifference": 1
         },
         {
           "position": 10,
