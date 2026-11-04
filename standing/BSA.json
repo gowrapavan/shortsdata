@@ -227,15 +227,15 @@
             "tla": "COR",
             "crest": "https://crests.football-data.org/4241.png"
           },
-          "playedGames": 33,
+          "playedGames": 34,
           "form": null,
           "won": 11,
           "draw": 9,
-          "lost": 13,
+          "lost": 14,
           "points": 42,
           "goalsFor": 40,
-          "goalsAgainst": 50,
-          "goalDifference": -10
+          "goalsAgainst": 51,
+          "goalDifference": -11
         },
         {
           "position": 12,
@@ -316,6 +316,25 @@
         {
           "position": 16,
           "team": {
+            "id": 6684,
+            "name": "SC Internacional",
+            "shortName": "Internacional",
+            "tla": "SCI",
+            "crest": "https://crests.football-data.org/6684.png"
+          },
+          "playedGames": 34,
+          "form": null,
+          "won": 9,
+          "draw": 11,
+          "lost": 14,
+          "points": 38,
+          "goalsFor": 38,
+          "goalsAgainst": 42,
+          "goalDifference": -4
+        },
+        {
+          "position": 17,
+          "team": {
             "id": 1767,
             "name": "Grêmio FBPA",
             "shortName": "Grêmio",
@@ -333,7 +352,7 @@
           "goalDifference": -7
         },
         {
-          "position": 17,
+          "position": 18,
           "team": {
             "id": 1779,
             "name": "SC Corinthians Paulista",
@@ -350,25 +369,6 @@
           "goalsFor": 36,
           "goalsAgainst": 42,
           "goalDifference": -6
-        },
-        {
-          "position": 18,
-          "team": {
-            "id": 6684,
-            "name": "SC Internacional",
-            "shortName": "Internacional",
-            "tla": "SCI",
-            "crest": "https://crests.football-data.org/6684.png"
-          },
-          "playedGames": 33,
-          "form": null,
-          "won": 8,
-          "draw": 11,
-          "lost": 14,
-          "points": 35,
-          "goalsFor": 37,
-          "goalsAgainst": 42,
-          "goalDifference": -5
         },
         {
           "position": 19,
