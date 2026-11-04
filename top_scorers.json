@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-03T13:05:47.390952Z",
+    "last_updated": "2026-11-04T13:22:08.935618Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -616,6 +616,15 @@
                     "nationality": "Guinea"
                 },
                 {
+                    "player_name": "Raphinha",
+                    "team_name": "FC Barcelona",
+                    "team_crest": "https://crests.football-data.org/81.png",
+                    "goals": 4,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Brazil"
+                },
+                {
                     "player_name": "Ermedin Demirovic",
                     "team_name": "VfB Stuttgart",
                     "team_crest": "https://crests.football-data.org/10.png",
@@ -623,6 +632,15 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Bosnia-Herzegovina"
+                },
+                {
+                    "player_name": "Fabián Ruiz",
+                    "team_name": "Paris Saint-Germain FC",
+                    "team_crest": "https://crests.football-data.org/524.png",
+                    "goals": 4,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Spain"
                 },
                 {
                     "player_name": "Luis Suárez",
@@ -638,45 +656,27 @@
                     "team_name": "FC Bayern München",
                     "team_crest": "https://crests.football-data.org/5.png",
                     "goals": 4,
-                    "assists": 2,
+                    "assists": 3,
                     "penalties": 2,
                     "nationality": "England"
                 },
                 {
-                    "player_name": "Nicolas Jackson",
-                    "team_name": "Aston Villa FC",
-                    "team_crest": "https://crests.football-data.org/58.png",
-                    "goals": 3,
+                    "player_name": "Aleksey Batrakov",
+                    "team_name": "Galatasaray SK",
+                    "team_crest": "https://crests.football-data.org/610.png",
+                    "goals": 4,
                     "assists": null,
                     "penalties": null,
-                    "nationality": "Senegal"
+                    "nationality": "Russia"
                 },
                 {
-                    "player_name": "Kylian Mbappé",
-                    "team_name": "Real Madrid CF",
-                    "team_crest": "https://crests.football-data.org/86.png",
-                    "goals": 3,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "France"
-                },
-                {
-                    "player_name": "Alexis Mac Allister",
-                    "team_name": "Liverpool FC",
-                    "team_crest": "https://crests.football-data.org/64.png",
-                    "goals": 3,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Argentina"
-                },
-                {
-                    "player_name": "Ousmane Dembélé",
-                    "team_name": "Paris Saint-Germain FC",
-                    "team_crest": "https://crests.football-data.org/524.png",
-                    "goals": 3,
-                    "assists": 3,
-                    "penalties": null,
-                    "nationality": "France"
+                    "player_name": "Donyell Malen",
+                    "team_name": "AS Roma",
+                    "team_crest": "https://crests.football-data.org/100.png",
+                    "goals": 4,
+                    "assists": 2,
+                    "penalties": 2,
+                    "nationality": "Netherlands"
                 }
             ]
         }
