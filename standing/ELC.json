@@ -37,18 +37,37 @@
             "tla": "MID",
             "crest": "https://crests.football-data.org/343.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
           "won": 8,
           "draw": 4,
-          "lost": 1,
+          "lost": 2,
           "points": 28,
           "goalsFor": 30,
-          "goalsAgainst": 17,
-          "goalDifference": 13
+          "goalsAgainst": 19,
+          "goalDifference": 11
         },
         {
           "position": 2,
+          "team": {
+            "id": 76,
+            "name": "Wolverhampton Wanderers FC",
+            "shortName": "Wolverhampton",
+            "tla": "WOL",
+            "crest": "https://crests.football-data.org/76.png"
+          },
+          "playedGames": 14,
+          "form": null,
+          "won": 8,
+          "draw": 3,
+          "lost": 3,
+          "points": 27,
+          "goalsFor": 25,
+          "goalsAgainst": 17,
+          "goalDifference": 8
+        },
+        {
+          "position": 3,
           "team": {
             "id": 332,
             "name": "Birmingham City FC",
@@ -67,7 +86,7 @@
           "goalDifference": 13
         },
         {
-          "position": 3,
+          "position": 4,
           "team": {
             "id": 70,
             "name": "Stoke City FC",
@@ -86,7 +105,7 @@
           "goalDifference": 5
         },
         {
-          "position": 4,
+          "position": 5,
           "team": {
             "id": 72,
             "name": "Swansea City AFC",
@@ -105,7 +124,7 @@
           "goalDifference": 5
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 74,
             "name": "West Bromwich Albion FC",
@@ -124,7 +143,7 @@
           "goalDifference": 5
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 340,
             "name": "Southampton FC",
@@ -143,25 +162,6 @@
           "goalDifference": 15
         },
         {
-          "position": 7,
-          "team": {
-            "id": 76,
-            "name": "Wolverhampton Wanderers FC",
-            "shortName": "Wolverhampton",
-            "tla": "WOL",
-            "crest": "https://crests.football-data.org/76.png"
-          },
-          "playedGames": 13,
-          "form": null,
-          "won": 7,
-          "draw": 3,
-          "lost": 3,
-          "points": 24,
-          "goalsFor": 23,
-          "goalsAgainst": 16,
-          "goalDifference": 7
-        },
-        {
           "position": 8,
           "team": {
             "id": 563,
@@ -170,14 +170,14 @@
             "tla": "WHU",
             "crest": "https://crests.football-data.org/563.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
           "won": 6,
-          "draw": 4,
+          "draw": 5,
           "lost": 3,
-          "points": 22,
-          "goalsFor": 33,
-          "goalsAgainst": 18,
+          "points": 23,
+          "goalsFor": 36,
+          "goalsAgainst": 21,
           "goalDifference": 15
         },
         {
@@ -303,18 +303,37 @@
             "tla": "BRI",
             "crest": "https://crests.football-data.org/387.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
           "won": 5,
           "draw": 3,
-          "lost": 5,
+          "lost": 6,
           "points": 18,
-          "goalsFor": 15,
-          "goalsAgainst": 17,
-          "goalDifference": -2
+          "goalsFor": 16,
+          "goalsAgainst": 19,
+          "goalDifference": -3
         },
         {
           "position": 16,
+          "team": {
+            "id": 404,
+            "name": "Wrexham AFC",
+            "shortName": "Wrexham",
+            "tla": "WRE",
+            "crest": "https://crests.football-data.org/404.png"
+          },
+          "playedGames": 14,
+          "form": null,
+          "won": 4,
+          "draw": 5,
+          "lost": 5,
+          "points": 17,
+          "goalsFor": 17,
+          "goalsAgainst": 19,
+          "goalDifference": -2
+        },
+        {
+          "position": 17,
           "team": {
             "id": 60,
             "name": "Bolton Wanderers FC",
@@ -333,7 +352,26 @@
           "goalDifference": -7
         },
         {
-          "position": 17,
+          "position": 18,
+          "team": {
+            "id": 715,
+            "name": "Cardiff City FC",
+            "shortName": "Cardiff",
+            "tla": "CAR",
+            "crest": "https://crests.football-data.org/715.png"
+          },
+          "playedGames": 14,
+          "form": null,
+          "won": 3,
+          "draw": 6,
+          "lost": 5,
+          "points": 15,
+          "goalsFor": 22,
+          "goalsAgainst": 23,
+          "goalDifference": -1
+        },
+        {
+          "position": 19,
           "team": {
             "id": 1126,
             "name": "Lincoln City FC",
@@ -350,44 +388,6 @@
           "goalsFor": 14,
           "goalsAgainst": 24,
           "goalDifference": -10
-        },
-        {
-          "position": 18,
-          "team": {
-            "id": 715,
-            "name": "Cardiff City FC",
-            "shortName": "Cardiff",
-            "tla": "CAR",
-            "crest": "https://crests.football-data.org/715.png"
-          },
-          "playedGames": 13,
-          "form": null,
-          "won": 3,
-          "draw": 5,
-          "lost": 5,
-          "points": 14,
-          "goalsFor": 19,
-          "goalsAgainst": 20,
-          "goalDifference": -1
-        },
-        {
-          "position": 19,
-          "team": {
-            "id": 404,
-            "name": "Wrexham AFC",
-            "shortName": "Wrexham",
-            "tla": "WRE",
-            "crest": "https://crests.football-data.org/404.png"
-          },
-          "playedGames": 13,
-          "form": null,
-          "won": 3,
-          "draw": 5,
-          "lost": 5,
-          "points": 14,
-          "goalsFor": 15,
-          "goalsAgainst": 19,
-          "goalDifference": -4
         },
         {
           "position": 20,
