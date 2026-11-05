@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-04T13:22:08.935618Z",
+    "last_updated": "2026-11-05T13:35:50.563615Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -589,10 +589,19 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Anastasios Douvikas",
+                    "team_name": "Como 1907",
+                    "team_crest": "https://crests.football-data.org/7397.png",
+                    "goals": 6,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "Greece"
+                },
+                {
                     "player_name": "Nicolo Tresoldi",
                     "team_name": "Club Brugge KV",
                     "team_crest": "https://crests.football-data.org/851.png",
-                    "goals": 4,
+                    "goals": 5,
                     "assists": null,
                     "penalties": 2,
                     "nationality": "Italy"
@@ -601,10 +610,19 @@
                     "player_name": "Erling Haaland",
                     "team_name": "Manchester City FC",
                     "team_crest": "https://crests.football-data.org/65.png",
-                    "goals": 4,
+                    "goals": 5,
                     "assists": null,
                     "penalties": null,
                     "nationality": "Norway"
+                },
+                {
+                    "player_name": "Kylian Mbappé",
+                    "team_name": "Real Madrid CF",
+                    "team_crest": "https://crests.football-data.org/86.png",
+                    "goals": 4,
+                    "assists": 1,
+                    "penalties": null,
+                    "nationality": "France"
                 },
                 {
                     "player_name": "Sehrou Guirassy",
@@ -659,24 +677,6 @@
                     "assists": 3,
                     "penalties": 2,
                     "nationality": "England"
-                },
-                {
-                    "player_name": "Aleksey Batrakov",
-                    "team_name": "Galatasaray SK",
-                    "team_crest": "https://crests.football-data.org/610.png",
-                    "goals": 4,
-                    "assists": null,
-                    "penalties": null,
-                    "nationality": "Russia"
-                },
-                {
-                    "player_name": "Donyell Malen",
-                    "team_name": "AS Roma",
-                    "team_crest": "https://crests.football-data.org/100.png",
-                    "goals": 4,
-                    "assists": 2,
-                    "penalties": 2,
-                    "nationality": "Netherlands"
                 }
             ]
         }
