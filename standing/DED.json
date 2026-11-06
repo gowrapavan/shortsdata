@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 684,
+            "name": "PEC Zwolle",
+            "shortName": "Zwolle",
+            "tla": "ZWO",
+            "crest": "https://crests.football-data.org/684.png"
+          },
+          "playedGames": 12,
+          "form": null,
+          "won": 3,
+          "draw": 3,
+          "lost": 6,
+          "points": 12,
+          "goalsFor": 13,
+          "goalsAgainst": 24,
+          "goalDifference": -11
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 676,
             "name": "FC Utrecht",
             "shortName": "Utrecht",
@@ -257,7 +276,7 @@
           "goalDifference": -12
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 1915,
             "name": "NEC",
@@ -274,25 +293,6 @@
           "goalsFor": 17,
           "goalsAgainst": 19,
           "goalDifference": -2
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 684,
-            "name": "PEC Zwolle",
-            "shortName": "Zwolle",
-            "tla": "ZWO",
-            "crest": "https://crests.football-data.org/684.png"
-          },
-          "playedGames": 11,
-          "form": null,
-          "won": 3,
-          "draw": 2,
-          "lost": 6,
-          "points": 11,
-          "goalsFor": 12,
-          "goalsAgainst": 23,
-          "goalDifference": -11
         },
         {
           "position": 15,
@@ -360,14 +360,14 @@
             "tla": "WII",
             "crest": "https://crests.football-data.org/672.png"
           },
-          "playedGames": 11,
+          "playedGames": 12,
           "form": null,
           "won": 0,
-          "draw": 2,
+          "draw": 3,
           "lost": 9,
-          "points": 2,
-          "goalsFor": 10,
-          "goalsAgainst": 39,
+          "points": 3,
+          "goalsFor": 11,
+          "goalsAgainst": 40,
           "goalDifference": -29
         }
       ]
