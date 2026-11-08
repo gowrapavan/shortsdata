@@ -37,15 +37,15 @@
             "tla": "FCP",
             "crest": "https://crests.football-data.org/503.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
-          "won": 10,
+          "won": 11,
           "draw": 0,
           "lost": 0,
-          "points": 30,
-          "goalsFor": 25,
-          "goalsAgainst": 4,
-          "goalDifference": 21
+          "points": 33,
+          "goalsFor": 27,
+          "goalsAgainst": 5,
+          "goalDifference": 22
         },
         {
           "position": 2,
@@ -56,15 +56,15 @@
             "tla": "BEN",
             "crest": "https://crests.football-data.org/1903.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
-          "won": 8,
+          "won": 9,
           "draw": 1,
           "lost": 1,
-          "points": 25,
-          "goalsFor": 27,
-          "goalsAgainst": 8,
-          "goalDifference": 19
+          "points": 28,
+          "goalsFor": 30,
+          "goalsAgainst": 10,
+          "goalDifference": 20
         },
         {
           "position": 3,
@@ -94,15 +94,15 @@
             "tla": "CD ",
             "crest": "https://crests.football-data.org/5530.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
           "won": 6,
           "draw": 3,
-          "lost": 1,
+          "lost": 2,
           "points": 21,
-          "goalsFor": 15,
-          "goalsAgainst": 6,
-          "goalDifference": 9
+          "goalsFor": 16,
+          "goalsAgainst": 8,
+          "goalDifference": 8
         },
         {
           "position": 5,
@@ -132,15 +132,15 @@
             "tla": "ACV",
             "crest": "https://crests.football-data.org/5527.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
           "won": 6,
           "draw": 2,
-          "lost": 2,
+          "lost": 3,
           "points": 20,
           "goalsFor": 15,
-          "goalsAgainst": 12,
-          "goalDifference": 3
+          "goalsAgainst": 13,
+          "goalDifference": 2
         },
         {
           "position": 7,
@@ -151,15 +151,15 @@
             "tla": "GIL",
             "crest": "https://crests.football-data.org/5533.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
-          "won": 4,
+          "won": 5,
           "draw": 3,
           "lost": 3,
-          "points": 15,
-          "goalsFor": 8,
-          "goalsAgainst": 7,
-          "goalDifference": 1
+          "points": 18,
+          "goalsFor": 10,
+          "goalsAgainst": 8,
+          "goalDifference": 2
         },
         {
           "position": 8,
@@ -170,15 +170,15 @@
             "tla": "SCB",
             "crest": "https://crests.football-data.org/5613.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
-          "won": 4,
+          "won": 5,
           "draw": 2,
           "lost": 4,
-          "points": 14,
-          "goalsFor": 12,
+          "points": 17,
+          "goalsFor": 13,
           "goalsAgainst": 11,
-          "goalDifference": 1
+          "goalDifference": 2
         },
         {
           "position": 9,
@@ -246,18 +246,37 @@
             "tla": "AMA",
             "crest": "https://crests.football-data.org/9136.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
           "won": 2,
           "draw": 4,
-          "lost": 4,
+          "lost": 5,
           "points": 10,
-          "goalsFor": 15,
-          "goalsAgainst": 19,
-          "goalDifference": -4
+          "goalsFor": 17,
+          "goalsAgainst": 22,
+          "goalDifference": -5
         },
         {
           "position": 13,
+          "team": {
+            "id": 5529,
+            "name": "CD Nacional",
+            "shortName": "CD Nacional",
+            "tla": "CDN",
+            "crest": "https://crests.football-data.org/5529.png"
+          },
+          "playedGames": 11,
+          "form": null,
+          "won": 3,
+          "draw": 1,
+          "lost": 7,
+          "points": 10,
+          "goalsFor": 11,
+          "goalsAgainst": 19,
+          "goalDifference": -8
+        },
+        {
+          "position": 14,
           "team": {
             "id": 5543,
             "name": "Vitória SC",
@@ -265,18 +284,18 @@
             "tla": "GUI",
             "crest": "https://crests.football-data.org/5543.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
           "won": 2,
           "draw": 3,
-          "lost": 5,
+          "lost": 6,
           "points": 9,
-          "goalsFor": 10,
-          "goalsAgainst": 10,
-          "goalDifference": 0
+          "goalsFor": 11,
+          "goalsAgainst": 12,
+          "goalDifference": -1
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 5575,
             "name": "CS Marítimo",
@@ -295,7 +314,7 @@
           "goalDifference": -12
         },
         {
-          "position": 15,
+          "position": 16,
           "team": {
             "id": 6618,
             "name": "Casa Pia AC",
@@ -314,25 +333,6 @@
           "goalDifference": -14
         },
         {
-          "position": 16,
-          "team": {
-            "id": 5529,
-            "name": "CD Nacional",
-            "shortName": "CD Nacional",
-            "tla": "CDN",
-            "crest": "https://crests.football-data.org/5529.png"
-          },
-          "playedGames": 10,
-          "form": null,
-          "won": 2,
-          "draw": 1,
-          "lost": 7,
-          "points": 7,
-          "goalsFor": 10,
-          "goalsAgainst": 19,
-          "goalDifference": -9
-        },
-        {
           "position": 17,
           "team": {
             "id": 496,
@@ -341,15 +341,15 @@
             "tla": "RIO",
             "crest": "https://crests.football-data.org/496.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
           "won": 2,
           "draw": 1,
-          "lost": 7,
+          "lost": 8,
           "points": 7,
           "goalsFor": 9,
-          "goalsAgainst": 23,
-          "goalDifference": -14
+          "goalsAgainst": 24,
+          "goalDifference": -15
         },
         {
           "position": 18,

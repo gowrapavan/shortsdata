@@ -69,6 +69,25 @@
         {
           "position": 3,
           "team": {
+            "id": 17,
+            "name": "SC Freiburg",
+            "shortName": "Freiburg",
+            "tla": "SCF",
+            "crest": "https://crests.football-data.org/17.png"
+          },
+          "playedGames": 9,
+          "form": null,
+          "won": 6,
+          "draw": 1,
+          "lost": 2,
+          "points": 19,
+          "goalsFor": 20,
+          "goalsAgainst": 10,
+          "goalDifference": 10
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 721,
             "name": "RB Leipzig",
             "shortName": "RB Leipzig",
@@ -86,26 +105,26 @@
           "goalDifference": 14
         },
         {
-          "position": 4,
+          "position": 5,
           "team": {
-            "id": 17,
-            "name": "SC Freiburg",
-            "shortName": "Freiburg",
-            "tla": "SCF",
-            "crest": "https://crests.football-data.org/17.png"
+            "id": 3,
+            "name": "Bayer 04 Leverkusen",
+            "shortName": "Leverkusen",
+            "tla": "B04",
+            "crest": "https://crests.football-data.org/3.png"
           },
-          "playedGames": 8,
+          "playedGames": 9,
           "form": null,
           "won": 5,
           "draw": 1,
-          "lost": 2,
+          "lost": 3,
           "points": 16,
-          "goalsFor": 18,
-          "goalsAgainst": 10,
-          "goalDifference": 8
+          "goalsFor": 20,
+          "goalsAgainst": 17,
+          "goalDifference": 3
         },
         {
-          "position": 5,
+          "position": 6,
           "team": {
             "id": 12,
             "name": "SV Werder Bremen",
@@ -121,25 +140,6 @@
           "points": 15,
           "goalsFor": 17,
           "goalsAgainst": 15,
-          "goalDifference": 2
-        },
-        {
-          "position": 6,
-          "team": {
-            "id": 3,
-            "name": "Bayer 04 Leverkusen",
-            "shortName": "Leverkusen",
-            "tla": "B04",
-            "crest": "https://crests.football-data.org/3.png"
-          },
-          "playedGames": 8,
-          "form": null,
-          "won": 4,
-          "draw": 1,
-          "lost": 3,
-          "points": 13,
-          "goalsFor": 18,
-          "goalsAgainst": 16,
           "goalDifference": 2
         },
         {
@@ -183,6 +183,25 @@
         {
           "position": 9,
           "team": {
+            "id": 2,
+            "name": "TSG 1899 Hoffenheim",
+            "shortName": "Hoffenheim",
+            "tla": "TSG",
+            "crest": "https://crests.football-data.org/2.png"
+          },
+          "playedGames": 9,
+          "form": null,
+          "won": 4,
+          "draw": 0,
+          "lost": 5,
+          "points": 12,
+          "goalsFor": 16,
+          "goalsAgainst": 17,
+          "goalDifference": -1
+        },
+        {
+          "position": 10,
+          "team": {
             "id": 19,
             "name": "Eintracht Frankfurt",
             "shortName": "Frankfurt",
@@ -200,7 +219,7 @@
           "goalDifference": -5
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 7,
             "name": "Hamburger SV",
@@ -219,7 +238,7 @@
           "goalDifference": -10
         },
         {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 15,
             "name": "1. FSV Mainz 05",
@@ -238,7 +257,7 @@
           "goalDifference": -1
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 29,
             "name": "SC Paderborn 07",
@@ -257,7 +276,7 @@
           "goalDifference": -3
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 16,
             "name": "FC Augsburg",
@@ -276,25 +295,6 @@
           "goalDifference": 0
         },
         {
-          "position": 14,
-          "team": {
-            "id": 2,
-            "name": "TSG 1899 Hoffenheim",
-            "shortName": "Hoffenheim",
-            "tla": "TSG",
-            "crest": "https://crests.football-data.org/2.png"
-          },
-          "playedGames": 8,
-          "form": null,
-          "won": 3,
-          "draw": 0,
-          "lost": 5,
-          "points": 9,
-          "goalsFor": 14,
-          "goalsAgainst": 16,
-          "goalDifference": -2
-        },
-        {
           "position": 15,
           "team": {
             "id": 1,
@@ -303,15 +303,15 @@
             "tla": "KOE",
             "crest": "https://crests.football-data.org/1.png"
           },
-          "playedGames": 8,
+          "playedGames": 9,
           "form": null,
           "won": 2,
           "draw": 3,
-          "lost": 3,
+          "lost": 4,
           "points": 9,
-          "goalsFor": 9,
-          "goalsAgainst": 12,
-          "goalDifference": -3
+          "goalsFor": 10,
+          "goalsAgainst": 14,
+          "goalDifference": -4
         },
         {
           "position": 16,
@@ -322,15 +322,15 @@
             "tla": "UNB",
             "crest": "https://crests.football-data.org/28.png"
           },
-          "playedGames": 8,
+          "playedGames": 9,
           "form": null,
           "won": 1,
           "draw": 4,
-          "lost": 3,
+          "lost": 4,
           "points": 7,
           "goalsFor": 7,
-          "goalsAgainst": 19,
-          "goalDifference": -12
+          "goalsAgainst": 21,
+          "goalDifference": -14
         },
         {
           "position": 17,
@@ -341,15 +341,15 @@
             "tla": "S04",
             "crest": "https://crests.football-data.org/6.png"
           },
-          "playedGames": 8,
+          "playedGames": 9,
           "form": null,
           "won": 1,
           "draw": 3,
-          "lost": 4,
+          "lost": 5,
           "points": 6,
-          "goalsFor": 4,
-          "goalsAgainst": 9,
-          "goalDifference": -5
+          "goalsFor": 5,
+          "goalsAgainst": 11,
+          "goalDifference": -6
         },
         {
           "position": 18,
