@@ -151,12 +151,12 @@
             "tla": "CAM",
             "crest": "https://crests.football-data.org/1766.png"
           },
-          "playedGames": 34,
+          "playedGames": 35,
           "form": null,
           "won": 14,
-          "draw": 8,
+          "draw": 9,
           "lost": 12,
-          "points": 50,
+          "points": 51,
           "goalsFor": 44,
           "goalsAgainst": 40,
           "goalDifference": 4
@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 1780,
+            "name": "CR Vasco da Gama",
+            "shortName": "Vasco da Gama",
+            "tla": "VAS",
+            "crest": "https://crests.football-data.org/1780.png"
+          },
+          "playedGames": 34,
+          "form": null,
+          "won": 11,
+          "draw": 9,
+          "lost": 14,
+          "points": 42,
+          "goalsFor": 43,
+          "goalsAgainst": 50,
+          "goalDifference": -7
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 4241,
             "name": "Coritiba FBC",
             "shortName": "Coritiba",
@@ -257,25 +276,6 @@
           "goalDifference": -11
         },
         {
-          "position": 13,
-          "team": {
-            "id": 1780,
-            "name": "CR Vasco da Gama",
-            "shortName": "Vasco da Gama",
-            "tla": "VAS",
-            "crest": "https://crests.football-data.org/1780.png"
-          },
-          "playedGames": 33,
-          "form": null,
-          "won": 11,
-          "draw": 8,
-          "lost": 14,
-          "points": 41,
-          "goalsFor": 43,
-          "goalsAgainst": 50,
-          "goalDifference": -7
-        },
-        {
           "position": 14,
           "team": {
             "id": 4364,
@@ -284,12 +284,12 @@
             "tla": "MIR",
             "crest": "https://crests.football-data.org/4364.png"
           },
-          "playedGames": 34,
+          "playedGames": 35,
           "form": null,
           "won": 10,
-          "draw": 10,
+          "draw": 11,
           "lost": 14,
-          "points": 40,
+          "points": 41,
           "goalsFor": 39,
           "goalsAgainst": 48,
           "goalDifference": -9
@@ -398,12 +398,12 @@
             "tla": "CHA",
             "crest": "https://crests.football-data.org/1772_large.png"
           },
-          "playedGames": 33,
+          "playedGames": 34,
           "form": null,
           "won": 4,
-          "draw": 9,
+          "draw": 10,
           "lost": 20,
-          "points": 21,
+          "points": 22,
           "goalsFor": 33,
           "goalsAgainst": 68,
           "goalDifference": -35
