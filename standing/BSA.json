@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 1780,
+            "name": "CR Vasco da Gama",
+            "shortName": "Vasco da Gama",
+            "tla": "VAS",
+            "crest": "https://crests.football-data.org/1780.png"
+          },
+          "playedGames": 34,
+          "form": null,
+          "won": 12,
+          "draw": 8,
+          "lost": 14,
+          "points": 44,
+          "goalsFor": 45,
+          "goalsAgainst": 50,
+          "goalDifference": -5
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 1770,
             "name": "Botafogo FR",
             "shortName": "Botafogo",
@@ -235,25 +254,6 @@
           "points": 42,
           "goalsFor": 46,
           "goalsAgainst": 53,
-          "goalDifference": -7
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 1780,
-            "name": "CR Vasco da Gama",
-            "shortName": "Vasco da Gama",
-            "tla": "VAS",
-            "crest": "https://crests.football-data.org/1780.png"
-          },
-          "playedGames": 34,
-          "form": null,
-          "won": 11,
-          "draw": 9,
-          "lost": 14,
-          "points": 42,
-          "goalsFor": 43,
-          "goalsAgainst": 50,
           "goalDifference": -7
         },
         {
@@ -401,12 +401,12 @@
           "playedGames": 34,
           "form": null,
           "won": 4,
-          "draw": 10,
-          "lost": 20,
-          "points": 22,
+          "draw": 9,
+          "lost": 21,
+          "points": 21,
           "goalsFor": 33,
-          "goalsAgainst": 68,
-          "goalDifference": -35
+          "goalsAgainst": 70,
+          "goalDifference": -37
         }
       ]
     }
