@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-20T14:28:35.341396Z",
+    "last_updated": "2026-11-21T13:47:23.905884Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -149,6 +149,15 @@
                     "nationality": "Croatia"
                 },
                 {
+                    "player_name": "Roberto Fernández",
+                    "team_name": "RCD Espanyol de Barcelona",
+                    "team_crest": "https://crests.football-data.org/80.png",
+                    "goals": 7,
+                    "assists": null,
+                    "penalties": null,
+                    "nationality": "Spain"
+                },
+                {
                     "player_name": "Sergio Camello",
                     "team_name": "Rayo Vallecano de Madrid",
                     "team_crest": "https://crests.football-data.org/87.png",
@@ -163,15 +172,6 @@
                     "team_crest": "https://crests.football-data.org/81.png",
                     "goals": 7,
                     "assists": 5,
-                    "penalties": null,
-                    "nationality": "Spain"
-                },
-                {
-                    "player_name": "Roberto Fernández",
-                    "team_name": "RCD Espanyol de Barcelona",
-                    "team_crest": "https://crests.football-data.org/80.png",
-                    "goals": 6,
-                    "assists": null,
                     "penalties": null,
                     "nationality": "Spain"
                 },
@@ -467,6 +467,15 @@
                     "nationality": "Denmark"
                 },
                 {
+                    "player_name": "Josh Maja",
+                    "team_name": "Le Havre AC",
+                    "team_crest": "https://crests.football-data.org/533.png",
+                    "goals": 5,
+                    "assists": null,
+                    "penalties": 1,
+                    "nationality": "Nigeria"
+                },
+                {
                     "player_name": "Boulaye Dia",
                     "team_name": "Stade Rennais FC 1901",
                     "team_crest": "https://crests.football-data.org/529.png",
@@ -474,15 +483,6 @@
                     "assists": null,
                     "penalties": 1,
                     "nationality": "Senegal"
-                },
-                {
-                    "player_name": "Louis Mafouta",
-                    "team_name": "Le Mans FC",
-                    "team_crest": "https://crests.football-data.org/535.png",
-                    "goals": 4,
-                    "assists": null,
-                    "penalties": 1,
-                    "nationality": "Central African Republic"
                 }
             ]
         },
