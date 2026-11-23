@@ -37,15 +37,15 @@
             "tla": "FCB",
             "crest": "https://crests.football-data.org/81.png"
           },
-          "playedGames": 12,
+          "playedGames": 13,
           "form": null,
-          "won": 11,
+          "won": 12,
           "draw": 0,
           "lost": 1,
-          "points": 33,
-          "goalsFor": 48,
-          "goalsAgainst": 13,
-          "goalDifference": 35
+          "points": 36,
+          "goalsFor": 51,
+          "goalsAgainst": 15,
+          "goalDifference": 36
         },
         {
           "position": 2,
@@ -75,15 +75,15 @@
             "tla": "ATL",
             "crest": "https://crests.football-data.org/78.png"
           },
-          "playedGames": 12,
+          "playedGames": 13,
           "form": null,
-          "won": 9,
+          "won": 10,
           "draw": 1,
           "lost": 2,
-          "points": 28,
-          "goalsFor": 23,
+          "points": 31,
+          "goalsFor": 26,
           "goalsAgainst": 10,
-          "goalDifference": 13
+          "goalDifference": 16
         },
         {
           "position": 4,
@@ -113,15 +113,15 @@
             "tla": "RSO",
             "crest": "https://crests.football-data.org/92.png"
           },
-          "playedGames": 12,
+          "playedGames": 13,
           "form": null,
           "won": 7,
           "draw": 1,
-          "lost": 4,
+          "lost": 5,
           "points": 22,
-          "goalsFor": 21,
-          "goalsAgainst": 20,
-          "goalDifference": 1
+          "goalsFor": 23,
+          "goalsAgainst": 23,
+          "goalDifference": 0
         },
         {
           "position": 6,
@@ -145,6 +145,25 @@
         {
           "position": 7,
           "team": {
+            "id": 5335,
+            "name": "Real Racing Club de Santander",
+            "shortName": "Santander",
+            "tla": "SAN",
+            "crest": "https://crests.football-data.org/5335.png"
+          },
+          "playedGames": 13,
+          "form": null,
+          "won": 5,
+          "draw": 2,
+          "lost": 6,
+          "points": 17,
+          "goalsFor": 20,
+          "goalsAgainst": 32,
+          "goalDifference": -12
+        },
+        {
+          "position": 8,
+          "team": {
             "id": 77,
             "name": "Athletic Club",
             "shortName": "Athletic",
@@ -162,7 +181,7 @@
           "goalDifference": 3
         },
         {
-          "position": 8,
+          "position": 9,
           "team": {
             "id": 263,
             "name": "Deportivo Alavés",
@@ -181,7 +200,7 @@
           "goalDifference": 0
         },
         {
-          "position": 9,
+          "position": 10,
           "team": {
             "id": 94,
             "name": "Villarreal CF",
@@ -189,18 +208,18 @@
             "tla": "VIL",
             "crest": "https://crests.football-data.org/94.png"
           },
-          "playedGames": 12,
+          "playedGames": 13,
           "form": null,
           "won": 4,
           "draw": 3,
-          "lost": 5,
+          "lost": 6,
           "points": 15,
-          "goalsFor": 17,
-          "goalsAgainst": 15,
-          "goalDifference": 2
+          "goalsFor": 19,
+          "goalsAgainst": 18,
+          "goalDifference": 1
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 80,
             "name": "RCD Espanyol de Barcelona",
@@ -219,7 +238,7 @@
           "goalDifference": 0
         },
         {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 560,
             "name": "RC Deportivo La Coruña",
@@ -238,26 +257,26 @@
           "goalDifference": -1
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
-            "id": 5335,
-            "name": "Real Racing Club de Santander",
-            "shortName": "Santander",
-            "tla": "SAN",
-            "crest": "https://crests.football-data.org/5335.png"
+            "id": 79,
+            "name": "CA Osasuna",
+            "shortName": "Osasuna",
+            "tla": "OSA",
+            "crest": "https://crests.football-data.org/79.png"
           },
-          "playedGames": 12,
+          "playedGames": 13,
           "form": null,
           "won": 4,
-          "draw": 2,
+          "draw": 3,
           "lost": 6,
-          "points": 14,
-          "goalsFor": 17,
-          "goalsAgainst": 30,
-          "goalDifference": -13
+          "points": 15,
+          "goalsFor": 13,
+          "goalsAgainst": 23,
+          "goalDifference": -10
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 558,
             "name": "RC Celta de Vigo",
@@ -276,7 +295,7 @@
           "goalDifference": -1
         },
         {
-          "position": 14,
+          "position": 15,
           "team": {
             "id": 87,
             "name": "Rayo Vallecano de Madrid",
@@ -295,45 +314,7 @@
           "goalDifference": -7
         },
         {
-          "position": 15,
-          "team": {
-            "id": 82,
-            "name": "Getafe CF",
-            "shortName": "Getafe",
-            "tla": "GET",
-            "crest": "https://crests.football-data.org/82.png"
-          },
-          "playedGames": 12,
-          "form": null,
-          "won": 3,
-          "draw": 3,
-          "lost": 6,
-          "points": 12,
-          "goalsFor": 8,
-          "goalsAgainst": 18,
-          "goalDifference": -10
-        },
-        {
           "position": 16,
-          "team": {
-            "id": 79,
-            "name": "CA Osasuna",
-            "shortName": "Osasuna",
-            "tla": "OSA",
-            "crest": "https://crests.football-data.org/79.png"
-          },
-          "playedGames": 12,
-          "form": null,
-          "won": 3,
-          "draw": 3,
-          "lost": 6,
-          "points": 12,
-          "goalsFor": 12,
-          "goalsAgainst": 23,
-          "goalDifference": -11
-        },
-        {
-          "position": 17,
           "team": {
             "id": 95,
             "name": "Valencia CF",
@@ -350,6 +331,25 @@
           "goalsFor": 9,
           "goalsAgainst": 20,
           "goalDifference": -11
+        },
+        {
+          "position": 17,
+          "team": {
+            "id": 82,
+            "name": "Getafe CF",
+            "shortName": "Getafe",
+            "tla": "GET",
+            "crest": "https://crests.football-data.org/82.png"
+          },
+          "playedGames": 13,
+          "form": null,
+          "won": 3,
+          "draw": 3,
+          "lost": 7,
+          "points": 12,
+          "goalsFor": 8,
+          "goalsAgainst": 21,
+          "goalDifference": -13
         },
         {
           "position": 18,
@@ -398,15 +398,15 @@
             "tla": "MAL",
             "crest": "https://crests.football-data.org/84.png"
           },
-          "playedGames": 12,
+          "playedGames": 13,
           "form": null,
           "won": 0,
           "draw": 5,
-          "lost": 7,
+          "lost": 8,
           "points": 5,
           "goalsFor": 9,
-          "goalsAgainst": 23,
-          "goalDifference": -14
+          "goalsAgainst": 24,
+          "goalDifference": -15
         }
       ]
     }
