@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-25T16:17:57.571052Z",
+    "last_updated": "2026-11-26T15:53:59.995850Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -598,6 +598,15 @@
                     "nationality": "France"
                 },
                 {
+                    "player_name": "Luis Suárez",
+                    "team_name": "Sporting Clube de Portugal",
+                    "team_crest": "https://crests.football-data.org/498.png",
+                    "goals": 6,
+                    "assists": null,
+                    "penalties": 3,
+                    "nationality": "Colombia"
+                },
+                {
                     "player_name": "Anastasios Douvikas",
                     "team_name": "Como 1907",
                     "team_crest": "https://crests.football-data.org/7397.png",
@@ -623,6 +632,15 @@
                     "assists": null,
                     "penalties": null,
                     "nationality": "Norway"
+                },
+                {
+                    "player_name": "Donyell Malen",
+                    "team_name": "AS Roma",
+                    "team_crest": "https://crests.football-data.org/100.png",
+                    "goals": 5,
+                    "assists": 2,
+                    "penalties": 3,
+                    "nationality": "Netherlands"
                 },
                 {
                     "player_name": "Sehrou Guirassy",
@@ -652,31 +670,13 @@
                     "nationality": "Bosnia-Herzegovina"
                 },
                 {
-                    "player_name": "Fabián Ruiz",
+                    "player_name": "Ousmane Dembélé",
                     "team_name": "Paris Saint-Germain FC",
                     "team_crest": "https://crests.football-data.org/524.png",
                     "goals": 4,
-                    "assists": 1,
-                    "penalties": null,
-                    "nationality": "Spain"
-                },
-                {
-                    "player_name": "Luis Suárez",
-                    "team_name": "Sporting Clube de Portugal",
-                    "team_crest": "https://crests.football-data.org/498.png",
-                    "goals": 4,
-                    "assists": null,
-                    "penalties": 2,
-                    "nationality": "Colombia"
-                },
-                {
-                    "player_name": "Harry Kane",
-                    "team_name": "FC Bayern München",
-                    "team_crest": "https://crests.football-data.org/5.png",
-                    "goals": 4,
                     "assists": 3,
-                    "penalties": 2,
-                    "nationality": "England"
+                    "penalties": 1,
+                    "nationality": "France"
                 }
             ]
         }
