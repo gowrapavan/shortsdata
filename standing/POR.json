@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 5529,
+            "name": "CD Nacional",
+            "shortName": "CD Nacional",
+            "tla": "CDN",
+            "crest": "https://crests.football-data.org/5529.png"
+          },
+          "playedGames": 12,
+          "form": null,
+          "won": 4,
+          "draw": 1,
+          "lost": 7,
+          "points": 13,
+          "goalsFor": 13,
+          "goalsAgainst": 20,
+          "goalDifference": -7
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 7822,
             "name": "FC Alverca",
             "shortName": "Alverca",
@@ -238,7 +257,7 @@
           "goalDifference": -1
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 9136,
             "name": "CF Estrela da Amadora",
@@ -255,25 +274,6 @@
           "goalsFor": 17,
           "goalsAgainst": 22,
           "goalDifference": -5
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 5529,
-            "name": "CD Nacional",
-            "shortName": "CD Nacional",
-            "tla": "CDN",
-            "crest": "https://crests.football-data.org/5529.png"
-          },
-          "playedGames": 11,
-          "form": null,
-          "won": 3,
-          "draw": 1,
-          "lost": 7,
-          "points": 10,
-          "goalsFor": 11,
-          "goalsAgainst": 19,
-          "goalDifference": -8
         },
         {
           "position": 14,
@@ -303,15 +303,15 @@
             "tla": "CSM",
             "crest": "https://crests.football-data.org/5575.png"
           },
-          "playedGames": 10,
+          "playedGames": 11,
           "form": null,
           "won": 2,
           "draw": 2,
-          "lost": 6,
+          "lost": 7,
           "points": 8,
-          "goalsFor": 9,
-          "goalsAgainst": 21,
-          "goalDifference": -12
+          "goalsFor": 10,
+          "goalsAgainst": 23,
+          "goalDifference": -13
         },
         {
           "position": 16,

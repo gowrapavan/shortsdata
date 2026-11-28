@@ -126,6 +126,25 @@
         {
           "position": 6,
           "team": {
+            "id": 5335,
+            "name": "Real Racing Club de Santander",
+            "shortName": "Santander",
+            "tla": "SAN",
+            "crest": "https://crests.football-data.org/5335.png"
+          },
+          "playedGames": 14,
+          "form": null,
+          "won": 6,
+          "draw": 2,
+          "lost": 6,
+          "points": 20,
+          "goalsFor": 23,
+          "goalsAgainst": 33,
+          "goalDifference": -10
+        },
+        {
+          "position": 7,
+          "team": {
             "id": 559,
             "name": "Sevilla FC",
             "shortName": "Sevilla FC",
@@ -141,25 +160,6 @@
           "goalsFor": 18,
           "goalsAgainst": 20,
           "goalDifference": -2
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": 5335,
-            "name": "Real Racing Club de Santander",
-            "shortName": "Santander",
-            "tla": "SAN",
-            "crest": "https://crests.football-data.org/5335.png"
-          },
-          "playedGames": 13,
-          "form": null,
-          "won": 5,
-          "draw": 2,
-          "lost": 6,
-          "points": 17,
-          "goalsFor": 20,
-          "goalsAgainst": 32,
-          "goalDifference": -12
         },
         {
           "position": 8,
@@ -303,15 +303,15 @@
             "tla": "LEV",
             "crest": "https://crests.football-data.org/88.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
           "won": 2,
           "draw": 6,
-          "lost": 5,
+          "lost": 6,
           "points": 12,
-          "goalsFor": 17,
-          "goalsAgainst": 22,
-          "goalDifference": -5
+          "goalsFor": 18,
+          "goalsAgainst": 25,
+          "goalDifference": -7
         },
         {
           "position": 16,
