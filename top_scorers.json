@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-27T15:42:22.535344Z",
+    "last_updated": "2026-11-28T14:38:22.376276Z",
     "leagues": {
         "PL": {
             "competition": "Premier League",
@@ -125,7 +125,7 @@
                     "player_name": "Yassir Zabiri",
                     "team_name": "Real Racing Club de Santander",
                     "team_crest": "https://crests.football-data.org/5335.png",
-                    "goals": 11,
+                    "goals": 12,
                     "assists": null,
                     "penalties": null,
                     "nationality": "Morocco"
@@ -301,7 +301,7 @@
                     "player_name": "Niclas Füllkrug",
                     "team_name": "SV Werder Bremen",
                     "team_crest": "https://crests.football-data.org/12.png",
-                    "goals": 10,
+                    "goals": 11,
                     "assists": 1,
                     "penalties": 3,
                     "nationality": "Germany"
@@ -492,6 +492,15 @@
             "count": 10,
             "scorers": [
                 {
+                    "player_name": "Thom van Bergen",
+                    "team_name": "FC Groningen",
+                    "team_crest": "https://crests.football-data.org/677.png",
+                    "goals": 10,
+                    "assists": 3,
+                    "penalties": 1,
+                    "nationality": "Netherlands"
+                },
+                {
                     "player_name": "Søren Tengstedt",
                     "team_name": "Go Ahead Eagles",
                     "team_crest": "https://crests.football-data.org/718.png",
@@ -508,15 +517,6 @@
                     "assists": 1,
                     "penalties": null,
                     "nationality": "Iceland"
-                },
-                {
-                    "player_name": "Thom van Bergen",
-                    "team_name": "FC Groningen",
-                    "team_crest": "https://crests.football-data.org/677.png",
-                    "goals": 9,
-                    "assists": 3,
-                    "penalties": 1,
-                    "nationality": "Netherlands"
                 },
                 {
                     "player_name": "Sven Mijnans",
